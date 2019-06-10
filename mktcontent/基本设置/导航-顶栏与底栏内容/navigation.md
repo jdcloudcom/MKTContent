@@ -2321,5 +2321,25 @@
 		"name":"同城双活解决方案",
 		"description":"同城双活解决方案",
 		"id":3517
+	},
+	{
+		"name":"解决方案",
+		"description":"AI解决方案",
+		"id":3519
+	},
+	{
+		"name":"AI智慧门店解决方案",
+		"description":"AI智慧门店解决方案",
+		"id":3521
+	},
+	{
+		"name":"AI蜂巢空间机器人",
+		"description":"AI蜂巢空间机器人",
+		"id":3523
+	},
+	{
+		"name":"智能验证码",
+		"description":"智能验证码",
+		"id":3525
 	}
 ]
