@@ -926,5 +926,21 @@
 		"jss_key":"News_Content_537",
 		"id":537,
 		"news_title":"2019山西（大同）电商大会开幕"
+	},
+	{
+		"summary":"近日，艾瑞发布了《2019年中国企业级SaaS行业研究报告》。其中，京东云借助其优秀的电商云SaaS产品，位列行业垂直图谱“零售电商”区域首位。",
+		"image_url":"//img1.jcloudcs.com/cms/6f7f4c35-5c15-4da9-8ef7-a30c2c85ebe320190611153219.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_538",
+		"jss_key":"News_Content_538",
+		"id":538,
+		"news_title":"艾瑞发布最新企业级SaaS行业报告 京东云位列中国零售电商首位"
+	},
+	{
+		"summary":"盘点年中成绩单，京东云大数据基础服务平台，再获佳绩。",
+		"image_url":"//img1.jcloudcs.com/cms/bff1f30c-a077-4cc2-b63d-ae6bba754c2a20190611175216.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_539",
+		"jss_key":"News_Content_539",
+		"id":539,
+		"news_title":"“京东云大数据基础服务平台”入选工信部“十佳大数据案例”"
 	}
 ]
