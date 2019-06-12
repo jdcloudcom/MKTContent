@@ -4,10 +4,10 @@
         <div class="w">
             <div class="txt-box">
                 <h3 class="tit">智能城市快讯</h3>
-                <a href="//www.jdcloud.com/news/subscription?utm_source=EDM&utm_medium=free&utm_campaign=promotion20180807&utm_term=pubnewsletter&utm_content=na"
+                <a href="//www.jdcloud.com/news/subscription"
                    clstag="News|keycount|SectionBannerSec|1" class="jdc-banner-btn jdc-btn-sm monthly-btn mr10" target="_blank">
                     <i></i>订阅礼遇</a>
-                <a href="//www.jdcloud.com/news/journal?utm_source=EDM&utm_medium=free&utm_campaign=promotion20180807&utm_term=pubnewsletter&utm_content=na"
+                <a href="//www.jdcloud.com/news/journal"
                    clstag="News|keycount|SectionBannerSec|2" class="jdc-banner-btn jdc-btn-sm" target="_blank">了解更多</a>
             </div>
             <div class="monthly-box">
@@ -48,7 +48,7 @@
                             2018 年 11
                             月30日，京东集团旗下云计算综合服务提供商京东云宣布，在安全合规方面再次得到国际权威认可，正式获得由支付卡行业安全标准委员会颁发的PCI-DSS（第三方支付行业数据安全标准认证）。该认证被称为全球最严格金融数据安全认证之一，申请企业需通过6大领域、12项规范、近300项标准审核。
                         </div>
-                        <a href="https://www.jdcloud.com/news/detail/398?utm_source=button3&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                        <a href="https://www.jdcloud.com/news/detail/398"
                            clstag="News|keycount|MiddleContentSec|0" class="more" target="_blank">查看更多&gt;</a>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://www.jdcloud.com/products/data-visualization?utm_source=button5&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                            <a href="https://www.jdcloud.com/products/data-visualization"
                                clstag="News|keycount|MiddleContentSec|2" class="more" target="_blank">京东云数据大屏&gt;&gt;</a>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://www.jdcloud.com/productsOverView?utm_source=button7&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                            <a href="https://www.jdcloud.com/productsOverView"
                                clstag="News|keycount|MiddleContentSec|4" class="more" target="_blank">云上产品列表&gt;&gt;</a>
                         </div>
                     </div>
@@ -102,7 +102,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://www.jdcloud.com/products/virtual-machines?utm_source=button9&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                            <a href="https://www.jdcloud.com/products/virtual-machines"
                                clstag="News|keycount|MiddleContentSec|6" class="more" target="_blank">云主机服务 &gt;&gt;</a>
                         </div>
                     </div>
@@ -118,7 +118,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://www.jdcloud.com/products/data-compute?utm_source=button11&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                            <a href="https://www.jdcloud.com/products/data-compute"
                                clstag="News|keycount|MiddleContentSec|8" class="more" target="_blank">云端数据计算 &gt;&gt;</a>
                         </div>
                     </div>
@@ -133,7 +133,7 @@
                 <div class="col-4 col-xs-12">
                     <div class="monthly-news-item monthly-news-hover">
                         <h5 class="tit">
-                            <a href="https://www.jdcloud.com/news/detail/403?utm_source=button12&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                            <a href="https://www.jdcloud.com/news/detail/403"
                                clstag="News|keycount|MiddleContentSec|9" target="_blank">
                                 <i></i>做农产品“计算”好管家，京东云助力湖南鲜果走向全国 &gt;&gt;
                             </a>
@@ -143,7 +143,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://www.jdcloud.com/products/data-factory?utm_source=button14&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                            <a href="https://www.jdcloud.com/products/data-factory"
                                clstag="News|keycount|MiddleContentSec|10" class="more" target="_blank">京东云数据工厂 &gt;&gt;</a>
                         </div>
                     </div>
@@ -151,7 +151,7 @@
                 <div class="col-4 col-xs-12">
                     <div class="monthly-news-item monthly-news-hover">
                         <h5 class="tit">
-                            <a href="https://www.jdcloud.com/news/detail/402?utm_source=button15&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                            <a href="https://www.jdcloud.com/news/detail/402"
                                clstag="News|keycount|MiddleContentSec|11" target="_blank">
                                 <i></i>京东云携手平邑推出罐头节，开辟场景化数字营销新模式 &gt;&gt;</a>
                         </h5>
@@ -160,7 +160,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://www.jdcloud.com/products/virtual-machines?utm_source=button17&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                            <a href="https://www.jdcloud.com/products/virtual-machines"
                                clstag="News|keycount|MiddleContentSec|12" class="more" target="_blank">京东云产品 &gt;&gt;</a>
                         </div>
                     </div>
@@ -168,7 +168,7 @@
                 <div class="col-4 col-xs-12">
                     <div class="monthly-news-item monthly-news-hover">
                         <h5 class="tit">
-                            <a href="https://www.jdcloud.com/news/detail/401?utm_source=button18&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                            <a href="https://www.jdcloud.com/news/detail/401"
                                clstag="News|keycount|MiddleContentSec|13" target="_blank">
                                 <i></i>健康发展云助力 京东云亮相“怀化健博会” &gt;&gt;</a>
                         </h5>
@@ -177,7 +177,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://www.jdcloud.com/solutions/medical-cloud?utm_source=button20&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                            <a href="https://www.jdcloud.com/solutions/medical-cloud"
                                clstag="News|keycount|MiddleContentSec|14" class="more" target="_blank">京东云医疗云 &gt;&gt;</a>
                         </div>
                     </div>
@@ -190,7 +190,7 @@
             </div>
             <div class="monthly-news-bd monthly-news-bd2 row">
                 <div class="col-4 col-xs-12">
-                    <a href="https://www.jdcloud.com/solutions/data-cloud?utm_source=button21&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                    <a href="https://www.jdcloud.com/solutions/data-cloud"
                        clstag="News|keycount|MiddleContentSec|15" target="_blank">
                         <dl class="monthly-news-hover">
                             <dt>京东云大数据 &gt;&gt;</dt>
@@ -206,7 +206,7 @@
                     </a>
                 </div>
                 <div class="col-4 col-xs-12">
-                    <a href="https://www.jdcloud.com/solutions/urban-industry-service-cloud-platform?utm_source=button22&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                    <a href="https://www.jdcloud.com/solutions/urban-industry-service-cloud-platform"
                        clstag="News|keycount|MiddleContentSec|16" target="_blank">
                         <dl class="monthly-news-hover">
                             <dt class="bg2">京东云城市产业服务平台 &gt;&gt;</dt>
@@ -222,7 +222,7 @@
                     </a>
                 </div>
                 <div class="col-4 col-xs-12">
-                    <a href="https://www.jdcloud.com/solutions/medical-cloud?utm_source=button23&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                    <a href="https://www.jdcloud.com/solutions/medical-cloud"
                        clstag="News|keycount|MiddleContentSec|17" target="_blank">
                         <dl class="monthly-news-hover">
                             <dt class="bg3">智能医疗云 &gt;&gt;</dt>
@@ -243,7 +243,7 @@
             <h3 class="monthly-recommend-hd">NEW 产品新鲜事</h3>
             <div class="monthly-recommend-bd row">
                 <div class="col-4 col-xs-12">
-                    <a href="https://www.jdcloud.com/products/native-container?utm_source=button24&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                    <a href="https://www.jdcloud.com/products/native-container"
                        clstag="News|keycount|MiddleContentSec|18" class="recommend-item monthly-news-hover" target="_blank">
                         <h5 class="tit">原生容器Pod开放公测</h5>
                         <p class="txt">
@@ -253,7 +253,7 @@
                     </a>
                 </div>
                 <div class="col-4 col-xs-12">
-                    <a href="https://www.jdcloud.com/service/bestService?utm_source=button25&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                    <a href="https://www.jdcloud.com/service/bestService"
                        clstag="News|keycount|MiddleContentSec|19" class="recommend-item monthly-news-hover" target="_blank">
                         <h5 class="tit">金牌服务为客户保驾护航</h5>
                         <p class="txt">
@@ -263,7 +263,7 @@
                     </a>
                 </div>
                 <div class="col-4 col-xs-12">
-                    <a href="https://www.jdcloud.com/products/anti-ddos-protection-package?utm_source=button26&utm_medium=free&utm_campaign=na&utm_term=pub1&utm_content=na"
+                    <a href="https://www.jdcloud.com/products/anti-ddos-protection-package"
                        clstag="News|keycount|MiddleContentSec|20" class="recommend-item monthly-news-hover" target="_blank">
                         <h5 class="tit">DDoS 防护包重磅上市</h5>
                         <p class="txt">
