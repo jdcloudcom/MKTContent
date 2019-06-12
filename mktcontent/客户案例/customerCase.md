@@ -226,5 +226,17 @@
 		"id":176,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution176",
 		"solution_jss_key":"Customer_Case_Solution176"
+	},
+	{
+		"project_overview":"中企双赢无车承运系统主要承接车与车、人与人、人与车的管理及运营，提供WEB和APP客户端供客户使用，涉及的核心子系统包括订单管理、运输管理、结算管理，实现在线发布订单、抢单、支付及运输进展的实施跟踪等功能。\n客户业务已经处于云环境中，基于对京东云产品及服务的认可，决定将业务迁移至京东云。迁移前考虑的主要问题是当客户系统不可用时，如何能迅速定位问题并快速恢复业务。经客户与京东云架构师共同讨论，确认将主环境迁移至京东云，前期原云环境作为灾备环境，通过跨云容灾业务架构，实现两地三中心的系统高可用。",
+		"application_type":"物流、仓储等行业客户",
+		"introduce":"中企双赢是中企云商和双赢集团物流板块的专业化公司—唐山市双赢物流有限公司共同成立的公司。中企双赢为生产企业和第三方物流企业提供专业的综合物流解决方案，拥有一支专业知识扎实的专家队伍，具备丰富的物流咨询和信息化开发经验，利用云计算技术，为业务开展提供基础支撑，引领业务发展，实现数据驱动业务。",
+		"image_url":"//img1.jcloudcs.com/cms/6cb9efde-45ef-4994-b3e1-1d6f36ec18d120190612105132.png",
+		"name":"京东云助力中企双赢搭建高可用架构无车承运平台",
+		"channel_agent":"交通",
+		"customer_income":"•\t业务系统平滑迁移至京东云，通过跨云容灾业务架构，保障客户业务系统两地三中心高可用，从而提升客户业务系统的稳定性。\n•\t享受到京东云专业和高效的大客户服务，通过定制化的架构优化，最大程度地利用云资源的特性，享受云资源带来的红利。",
+		"id":177,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution177",
+		"solution_jss_key":"Customer_Case_Solution177"
 	}
 ]
