@@ -3,10 +3,10 @@
     <div class="w">
       <div class="txt-box">
         <h3 class="tit">京东云上速递</h3>
-        <a href="//www.jdcloud.com/news/subscription?utm_source=EDM&utm_medium=free&utm_campaign=promotion20180807&utm_term=pubnewsletter&utm_content=na"
+        <a href="//www.jdcloud.com/news/subscription"
            class="jdc-banner-btn jdc-btn-sm mr10" clstag="News|keycount|SectionBannerSec|1" target="_blank">
           订阅礼遇</a>
-        <a href="//www.jdcloud.com/news/journal?utm_source=EDM&utm_medium=free&utm_campaign=promotion20180807&utm_term=pubnewsletter&utm_content=na"
+        <a href="//www.jdcloud.com/news/journal"
            class="jdc-banner-btn jdc-btn-sm" clstag="News|keycount|SectionBannerSec|2" target="_blank">了解更多</a>
       </div>
       <div class="delivery-box">
@@ -41,7 +41,7 @@
               <div class="jdc-delivery-news-content">
                 <div class="tit">
                   <img src="https://img1.jcloudcs.com/portal/delivery/delivery_icon04.png">
-                  <span><a href="https://www.jdcloud.com/cn/news/detail/465?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=alluser3but3&utm_content=na"
+                  <span><a href="https://www.jdcloud.com/cn/news/detail/465"
                            clstag="News|keycount|MiddleContentSec|1_1"
                            target="_blank">京东云刘子豪牛津中国论坛发表演讲：中国将成为全球数字经济最大的增量市场</a></span>
 
@@ -50,7 +50,7 @@
                   牛津中国论坛顺利举行，京东集团副总裁、京东云生态部门负责人刘子豪于本届论坛受邀发表开幕演讲，与牛津学子、英国各界朋友畅谈数字化转型下的中国，刘子豪表示，数字技术正在改变中国的方方面面，未来中国将成为全球数字经济最大的增量市场，这是中国的机遇，也是世界的机遇。
                 </div>
                 <div class="more-box">
-                  <a href="https://www.jdcloud.com/cn/news/detail/465?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=alluser3but3&utm_content=na"
+                  <a href="https://www.jdcloud.com/cn/news/detail/465"
                      clstag="News|keycount|MiddleContentSec|1_2"
                      target="_blank">详情&gt;&gt;</a>
                 </div>
@@ -162,7 +162,7 @@
         </div>
         <div class="jdc-delivery-help-bd row">
           <div class="col-4 col-xs-12 jdc-delivery-help-xs">
-            <a href="https://www.jdcloud.com/cn/solutions/staple?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=alluser3but8&utm_content=na"
+            <a href="https://www.jdcloud.com/cn/solutions/staple"
                clstag="News|keycount|MiddleContentSec|7"
                target="_blank">
               <div class="jdc-delivery-help-item">
@@ -183,7 +183,7 @@
             </a>
           </div>
           <div class="col-4 col-xs-12 jdc-delivery-help-xs">
-            <a href="https://www.jdcloud.com/cn/solutions/cebc?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=alluser3but9&utm_content=na"
+            <a href="https://www.jdcloud.com/cn/solutions/cebc"
                clstag="News|keycount|MiddleContentSec|8"
                target="_blank">
               <div class="jdc-delivery-help-item">
@@ -204,7 +204,7 @@
             </a>
           </div>
           <div class="col-4 col-xs-12 jdc-delivery-help-xs">
-            <a href="https://www.jdcloud.com/cn/solutions/mobile-development?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=alluser3but10&utm_content=na"
+            <a href="https://www.jdcloud.com/cn/solutions/mobile-development"
                clstag="News|keycount|MiddleContentSec|9"
                target="_blank">
               <div class="jdc-delivery-help-item">
