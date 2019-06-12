@@ -3,10 +3,10 @@
         <div class="w">
             <div class="txt-box">
                 <h3 class="tit">智能城市快讯</h3>
-                <a href="//www.jdcloud.com/news/subscription?utm_source=EDM&utm_medium=free&utm_campaign=promotion20180807&utm_term=pubnewsletter&utm_content=na"
+                <a href="//www.jdcloud.com/news/subscription"
                    class="jdc-banner-btn jdc-btn-sm monthly-btn mr10" clstag="News|keycount|SectionBannerSec|1" target="_blank">
                     <i></i>订阅礼遇</a>
-                <a href="//www.jdcloud.com/news/journal?utm_source=EDM&utm_medium=free&utm_campaign=promotion20180807&utm_term=pubnewsletter&utm_content=na"
+                <a href="//www.jdcloud.com/news/journal"
                    class="jdc-banner-btn jdc-btn-sm" clstag="News|keycount|SectionBannerSec|2" target="_blank">了解更多</a>
             </div>
             <div class="monthly-box">
@@ -47,7 +47,7 @@
                         <div class="txt">
                             “大同京东云新经济展示中心启动仪式”在大同成功举行。大同经济技术开发区和京东云携手打造的大同京东云新经济展示中心，以“云在大同”“智慧平城”“京彩大同”“云见未来”四个板块构成，展示了双方“互联网+新经济”合作成果，成为大同招商引智，实施创新驱动、加快转型升级的新经济名片。
                         </div>
-                        <a href="https://www.jdcloud.com/news/detail/453?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but3&utm_content=na"
+                        <a href="https://www.jdcloud.com/news/detail/453"
                            clstag="News|keycount|MiddleContentSec|3"
                            class="more" target="_blank">查看更多&gt;</a>
                     </div>
@@ -70,7 +70,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://www.jdcloud.com/products/virtual-machines?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but5&utm_content=na"
+                            <a href="https://www.jdcloud.com/products/virtual-machines"
                                clstag="News|keycount|MiddleContentSec|5"
                                class="more" target="_blank">京东云云主机&gt;&gt;</a>
                         </div>
@@ -104,7 +104,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://www.jdcloud.com/cn/solutions/medical-cloud?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but7&utm_content=na"
+                            <a href="https://www.jdcloud.com/cn/solutions/medical-cloud"
                                clstag="News|keycount|MiddleContentSec|9"
                                class="more" target="_blank">京东云医疗云 &gt;&gt;</a>
                         </div>
@@ -120,7 +120,7 @@
                 <div class="col-4 col-xs-12">
                     <div class="monthly-news-item monthly-news-hover">
                         <h5 class="tit">
-                            <a href="https://www.jdcloud.com/cn/news/detail/452?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but14&utm_content=na"
+                            <a href="https://www.jdcloud.com/cn/news/detail/452"
                                clstag="News|keycount|MiddleContentSec|10"
                                target="_blank">
                                 <i></i>京东云×北京：讲述一个京东云和北京城市副中心的故事 &gt;&gt;</a>
@@ -130,7 +130,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://www.jdcloud.com/cn/solutions/industry-chain-ecological-empowerment?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub2but18&utm_content=na"
+                            <a href="https://www.jdcloud.com/cn/solutions/industry-chain-ecological-empowerment"
                                clstag="News|keycount|MiddleContentSec|11"
                                class="more" target="_blank">京东云数据工厂 &gt;&gt;</a>
                         </div>
@@ -139,7 +139,7 @@
                 <div class="col-4 col-xs-12">
                     <div class="monthly-news-item monthly-news-hover">
                         <h5 class="tit">
-                            <a href="https://www.jdcloud.com/cn/news/detail/443?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but8&utm_content=na"
+                            <a href="https://www.jdcloud.com/cn/news/detail/443"
                                clstag="News|keycount|MiddleContentSec|12"
                                target="_blank">
                                 <i></i>京东云×南京：“京东云智能产业华东区域总部”落户南京 &gt;&gt;
@@ -150,7 +150,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://www.jdcloud.com/cn/solutions/industry-chain-ecological-empowerment?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but10&utm_content=na"
+                            <a href="https://www.jdcloud.com/cn/solutions/industry-chain-ecological-empowerment"
                                clstag="News|keycount|MiddleContentSec|13"
                                class="more" target="_blank">京东云产业链生态赋能 &gt;&gt;</a>
                         </div>
@@ -159,7 +159,7 @@
                 <div class="col-4 col-xs-12">
                     <div class="monthly-news-item monthly-news-hover">
                         <h5 class="tit">
-                            <a href="https://www.jdcloud.com/cn/news/detail/439?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but11&utm_content=na"
+                            <a href="https://www.jdcloud.com/cn/news/detail/439"
                                clstag="News|keycount|MiddleContentSec|14"
                                target="_blank">
                                 <i></i>京东云×潮州：京东与潮州达成战略合作，共建“互联网+”新经济生态 &gt;&gt;</a>
@@ -169,7 +169,7 @@
                         </p>
 
                         <div class="more-box">
-                            <a href="https://docs.jdcloud.com/cn/?act=0%3Futm_source%3DEDM&utm_medium=free&utm_campaign=na&utm_term=pub3but13&utm_content=na"
+                            <a href="https://docs.jdcloud.com/cn/?act=0"
                                clstag="News|keycount|MiddleContentSec|15"
                                class="more" target="_blank">京东云产品 &gt;&gt;</a>
                         </div>
@@ -183,7 +183,7 @@
             </div>
             <div class="monthly-news-bd monthly-news-bd2 row">
                 <div class="col-4 col-xs-12">
-                    <a href="https://www.jdcloud.com/cn/solutions/jd-bd-institute?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but17&utm_content=na"
+                    <a href="https://www.jdcloud.com/cn/solutions/jd-bd-institute"
                        clstag="News|keycount|MiddleContentSec|16"
                        target="_blank">
                         <dl class="monthly-news-hover">
@@ -200,7 +200,7 @@
                     </a>
                 </div>
                 <div class="col-4 col-xs-12">
-                    <a href="https://www.jdcloud.com/cn/solutions/industry-innovation?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but18&utm_content=na"
+                    <a href="https://www.jdcloud.com/cn/solutions/industry-innovation"
                        clstag="News|keycount|MiddleContentSec|17"
                        target="_blank">
                         <dl class="monthly-news-hover">
@@ -217,7 +217,7 @@
                     </a>
                 </div>
                 <div class="col-4 col-xs-12">
-                    <a href="https://www.jdcloud.com/cn/solutions/intelligent-industry-cloud?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but19&utm_content=na"
+                    <a href="https://www.jdcloud.com/cn/solutions/intelligent-industry-cloud"
                        clstag="News|keycount|MiddleContentSec|18"
                        target="_blank">
                         <dl class="monthly-news-hover">
@@ -239,7 +239,7 @@
             <h3 class="monthly-recommend-hd">NEW 产品新鲜事</h3>
             <div class="monthly-recommend-bd monthly-recommend-bd-non row">
                 <div class="col-4 col-xs-12">
-                    <a href="https://console.jdcloud.com/download.html?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but20&utm_content=na"
+                    <a href="https://console.jdcloud.com/download.html"
                        clstag="News|keycount|MiddleContentSec|19"
                        class="recommend-item monthly-news-hover" target="_blank">
                         <h5 class="tit">重磅！京东云APP正式上线</h5>
@@ -250,7 +250,7 @@
                     </a>
                 </div>
                 <div class="col-4 col-xs-12">
-                    <a href="https://www.jdcloud.com/cn/news/detail/440?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub2but27&utm_content=na"
+                    <a href="https://www.jdcloud.com/cn/news/detail/440"
                        clstag="News|keycount|MiddleContentSec|20"
                        class="recommend-item monthly-news-hover" target="_blank">
                         <h5 class="tit">首发！京东云率先支持MySQL 8.0版本</h5>
@@ -261,7 +261,7 @@
                     </a>
                 </div>
                 <div class="col-4 col-xs-12">
-                    <a href="https://www.jdcloud.com/cn/news/detail/454?utm_source=EDM&utm_medium=free&utm_campaign=na&utm_term=pub3but22&utm_content=na"
+                    <a href="https://www.jdcloud.com/cn/news/detail/454"
                        clstag="News|keycount|MiddleContentSec|21"
                        class="recommend-item monthly-news-hover" target="_blank">
                         <h5 class="tit">用实力打造“安全可靠云”，京东云再拿两大国际认证</h5>
