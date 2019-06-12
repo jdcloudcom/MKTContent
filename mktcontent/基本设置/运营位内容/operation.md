@@ -25,23 +25,18 @@
 		"id":5
 	},
 	{
-		"name":"618大促",
-		"description":"云产品全场1折起",
+		"name":"内容存储分发解决方案",
+		"description":"让存储分发变得更简单",
 		"id":6
 	},
 	{
-		"name":"对象存储推出免费额度",
-		"description":"新老用户均可享受标准存储免费额度",
+		"name":"Kubernetes集群",
+		"description":"功能强大的容器服务",
 		"id":7
 	},
 	{
 		"name":"容器镜像仓库",
-		"description":"一折促销中",
+		"description":"一折公测中",
 		"id":8
-	},
-	{
-		"name":"京东云APP",
-		"description":"随时随地触达京东云",
-		"id":111
 	}
 ]
