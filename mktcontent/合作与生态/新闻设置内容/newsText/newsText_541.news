@@ -1,0 +1,29 @@
+<p style="text-indent: 2em;">日前，2019中国国际大数据产业博览会(以下简称“2019数博会”)在贵州举行，行业权威奖项“2019数博会领先科技成果奖”同时正式发布。京东云JDStack专有云平台凭借领先的云计算技术创新、丰富的实践和场景应用获得“2019领先科技成果奖 —— 新产品”奖项。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/e00f0b83-a599-4b01-8c05-e619dd430dc320190612152345.jpg" title="" alt="内.jpg"/></p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>京东云JDStack专有云平台屡获行业认可</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p></p>
+<p style="text-indent: 2em;">数博会是由国家发改委、工信部、中央网信办、贵州省人民政府共同主办的国家级博览会，领先科技成果奖是数博会的重磅环节之一，权威性备受业界认可。斩获该奖项表明，京东云JDStack专有云平台这款业内领先的产品再次获得行业认可。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云JDStack专有云平台是京东云公有云核心产品和服务的私有化部署版本，在保证产品能力和使用体验与公有云一致的前提下，其根据私有化场景特点对整个平台的硬件、网络和服务分布等架构设计进一步优化，能确保在常见故障和运维场景下，提供连续的可用服务。产品采用“1+N”模式（“1”为最小化云平台底座，“N”为其它可选装产品集合）实现灵活部署，不断将公有云的成熟产品和服务持续更新集成到新的专有云版本。JDStack天然亲和公有云的特性，可以让用户将业务扩展到京东公有云和其它JDStack专有云。</p>
+<p style="text-indent:27px;line-height:141%"><span style="font-size:13px;line-height:141%;font-family:&#39;微软雅黑&#39;,sans-serif">&nbsp;</span>
+</p>
+<p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/54a0fb31-2e59-47a9-9669-b201de82a8ff20190612152921.jpg" title="" alt="内2.jpg"/></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;">此前，该平台还曾在2018安全可控技术应用推进大会上荣获“2017-2018年度安全可控优秀解决方案”奖；其应用项目宿迁政务云更是在2018可信云大会上，通过了信通院政务云综合水平评估先进级，并作为优秀案例入选《中国政务云发展白皮书（2018年）》。</p>
+<p style="text-indent:27px;line-height:141%"><span style="font-size:13px;line-height: 141%;font-family:&#39;微软雅黑&#39;,sans-serif">&nbsp;</span>
+</p>
+<p style="text-indent: 2em;"><strong>技术创新 解决传统企业信息化痛点</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">不同于当前国内外其他同类项目，京东云JDStack专有云平台利用技术创新解决了传统企业Openstack集群运维成本高、弹性能力弱灵活度低、安全可控性差等诸多痛点。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: left; text-indent: 2em;">首先，京东云JDStack专有云平台可实现超大规模部署。传统企业的信息化平台通常运行多个Openstack集群，不仅难以应对大型私有云平台场景，而且运维成本过高。京东云JDStack专有云通过技术创新，不仅实现了可支持超大规模集群、超多用户量以及超大规模请求量，且同时提供统一的运维管理平台和监控平台，降低了日常运维成本。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">其次，JDStack平台可提供丰富的产品类型，供用户根据业务场景自由选择。JDStack可以帮助不同规模、不同使用场景的用户轻松搭建专有云平台，并根据典型客户的需求场景，提供了不同产品。如，针对政府客户及大型企业客户提供包含所有云产品的全栈专有云平台；面向有数据计算与分析场景的客户，提供包含离线计算、实时计算、数字大屏等产品的大数据专有云平台；面向中小型企业的轻量级开发场景，提供容器平台、Devops等产品及面向安全防护、流量接入、网络互联等诸多应用场景。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">在企业最为关注的安全性方面，JDStack专有云平台自主可控，安全有保障。网络安全方面，面对大流量攻击，其抗DDoS防护可迅速扩展安全防护能力，轻松解决用户面临大流量攻击本地防护能力不足问题，并结合可扩展的Web应用防火墙，多维度保护业务安全。数据安全方面，通过京东云自研对象存储产品，支持超大规模存储量，同时存储数据三副本备份。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">基于京东云长期实践积累，JDStack专有云提供业务上云、云原生架构设计、数据迁移、机房规划、网络设计、部署交付、安全服务、应急响应等多种增值服务，对规划建设专有云平台提供专业服务和支持。据了解，政务云是JDStack的重要应用场景之一，截止目前，京东云已完成全国27个城市布局。与此同时，JDStack亦可适用并助力于大型企事业单位企业IT结构优化、企业流程梳理、 IT提效等诸多业务场景。</p>
+<p><br/></p>
