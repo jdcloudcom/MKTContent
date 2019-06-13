@@ -950,5 +950,13 @@
 		"jss_key":"News_Content_541",
 		"id":541,
 		"news_title":"京东云JDStack专有云平台斩获2019数博会“新产品”奖"
+	},
+	{
+		"summary":"2019年6月13日，“京东云（重庆）新经济展示中心”在重庆成功举行。",
+		"image_url":"//img1.jcloudcs.com/cms/70b2523e-a775-4fc0-9805-535308ca3dae20190613133340.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_542",
+		"jss_key":"News_Content_542",
+		"id":542,
+		"news_title":"“京东云（重庆）新经济展示中心”启动"
 	}
 ]
