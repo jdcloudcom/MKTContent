@@ -42,7 +42,7 @@
           <td>Earthquake Resistance Level 9</td>
         </tr>
         <tr>
-          <td>Subway Load-bearing</td>
+          <td>Floor Weight</td>
           <td>1,000Kg/㎡</td>
         </tr>
         <tr class="bg-tr">
@@ -56,7 +56,7 @@
         </tr>
         <tr class="bg-tr">
           <td>UPS Redundancy</td>
-          <td>2N, storage battery backup time: 15min for single side, 40min for both sides</td>
+          <td>2N, storage battery backup time: 15min for single side, 30min for both sides</td>
         </tr>
         <tr class="bg-tr">
           <td>Power Supply of Cabinet</td>

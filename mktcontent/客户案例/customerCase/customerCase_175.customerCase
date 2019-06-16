@@ -1,0 +1,11 @@
+JD WorkSpaces Solutions of JD Cloud:
+1. JD WorkSpaces Cloud Solutions:
+JD WorkSpaces of JD Cloud establishes a security channel between the client and JD WorkSpaces server resource based on the industry leading remote interface transmission technology to display Windows JD WorkSpaces to various terminals, and achieve server and user control of various dimensions and different granularities through the JD WorkSpaces control and management services of JD WorkSpaces.
+2. Security Management System of Enterprise Internal Business:
+The security management system is a reverse proxy cluster built on Cloud to enable complete isolation from staff end to data end; and permissions that can be used by external personnel shall be subject to whitelist processing to ensure security and integrity of data in the Date Center.
+3. Customized Development Function:
+User Information Management Module: Store relevant user information through a database and maintain relevant information through programming;
+Internal system login verification: Verify the account logged into the system through reverse proxy services for relational mapping;
+Whitelist IAM: Achieve the requirements of fine control of permission of on-site personnel, carry out whitelist control on the function meeting the office requirements in the business system, and shield the function or data that have information security problems or shall not be viewed.
+Log Statistics Module: Record statistics for user’s operations and access logs and display in visualization.
+Information Module: Email can be sent to the corresponding internal management personnel of the group through the function, and the internal management personnel of the group can process relevant follow-up business process after receipt of email.

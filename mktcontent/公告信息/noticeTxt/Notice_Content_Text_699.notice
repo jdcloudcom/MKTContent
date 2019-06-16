@@ -1,0 +1,24 @@
+<p><br/></p>
+<p style="text-indent:28px"><span style="color:black">
+The minor version upgrade of function service has been finished in North China on May 29, 2019. Main functions of this upgrade include:
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px">
+1. During running, node.js 6.17 and node.js 8.16 are supported;
+</p>
+<p class="MsoListParagraph" style="margin-left:56px">
+2. Smooth function iteration with alias is supported: In the event of new version release or rollback of function, it is only required to switch to the function version directed by the alias, and traffic can be switched without modifying the trigger;
+</p>
+<p class="MsoListParagraph" style="margin-left:56px">
+3. Integration of OSS SDK and addition of OSS function templates and test event templates: Various event source functions can be simply and rapidly created and verified within a few minutes only with the Console.
+</p>
+<p style="text-indent:28px">
+<span style="color:black">
+For more functions and details, please refer to the function service product documentation.
+</span>
+</p>
+<p style="text-indent:28px"><span style="color:black">
+The Function Service is currently in the Beta period. You are welcome to apply for Beta or open ticket for trial use on the product Home Page. You are invited to try it for free. Thank you for your support to JD Cloud Function Service; if you have any question in service, please open ticket or contact JD Cloud Customer Service by dialing 4006151212.
+</span>
+</p>
+<p><br/></p>

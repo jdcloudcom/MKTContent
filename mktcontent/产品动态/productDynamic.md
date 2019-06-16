@@ -1732,5 +1732,11 @@
 		"name":"New Edition Console of Live Video",
 		"description":"1. Business overview is increased to have an overview of the basic business situation;\n2. Function template and configuration are split to support function configuration of live streaming dimensionality;\n3. Consumption query, status monitoring, operation data and other statistics and analysis items are increased for customers to understand their own businesses in more dimensions;\n4. Watermark configuration, IP blacklist, referer anti-leech and other IAM means are increased to protect live security.",
 		"id":2297
+	},
+	{
+		"introduce":"Enrich languages and function templates when the function is running, and support smooth iteration of function",
+		"name":"Enrich function creation and optimize function iteration",
+		"description":"1. During running, node.js6.17 and 8.16 are supported languages \n2. Association of alias with trigger is supported \n3. Enrich OSS function templates \n",
+		"id":2314
 	}
 ]

@@ -881,7 +881,7 @@
 	},
 	{
 		"summary":"Recently, JD Cloud released the operation plan for product marketing during 2019 JD 618 Global Shopping Festival. Based on its own big data capability, JD Cloud prepares the marketing operation plan of full services for brand owners, including the complete solutions from marketing insight, brand policy, customer access, sales monitoring to marketing effect analysis, and assists brand owners to realize the win-win of brand and sales in JD 618 campaign in combination with fast, efficient, accurate and full-link integration tools.",
-		"image_url":"//img1.jcloudcs.com/cms/0d9f7047-5112-4d61-820a-3eb4ebc8539120190524104302.jpg",
+		"image_url":"//img1.jcloudcs.com/cms/805faa00-0aad-420f-8865-a7c5cd636e8820190605152835.png",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_522",
 		"jss_key":"News_Content_522",
 		"id":522,
@@ -894,5 +894,37 @@
 		"jss_key":"News_Content_529",
 		"id":529,
 		"news_title":"The opening ceremony of 2019 GAITC was held and JD Cloud works with Nanjing Qilin to create a new tag of \"intelligence\""
+	},
+	{
+		"summary":"On May 28, the sixth China International Fair for Trade in Services (CIFTIS) originally named as the China (Beijing) International Fair for Trade in Services, was opened at China National Convention Center. As an important representative in the cloud computing technology service industry, JD Cloud, the all-platform cloud computing integrated service provider owned by JD Group, stole the show at this fair together with many domestic and international enterprises in the field of science and technology.",
+		"image_url":"//img1.jcloudcs.com/cms/6a56c294-6db6-4a6f-932c-84575f6ecb9420190528185731.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_530",
+		"jss_key":"News_Content_530",
+		"id":530,
+		"news_title":"JD Cloud Brought Latest Self-Developed Products Unveiled at CIFTIS"
+	},
+	{
+		"summary":"Recently, the internationally known advisory organ IDC released the report of China Public Cloud Service Market (Second Half of 2018) Tracking. The report suggested that the China public cloud marketplace in 2018 was developed rapidly, presenting a situation that pioneers were making great strides whilst latecomers were advance triumphantly. With strong research and development strengths, outstanding customer management and extensive ecological layout, JD Cloud had its performance rapidly promoted, especially in the second half of 2018, the growth rate was more than 1,000%.",
+		"image_url":"//img1.jcloudcs.com/cms/4744a4a1-ef53-4dcc-931e-a5b9a01de41d20190529160956.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_531",
+		"jss_key":"News_Content_531",
+		"id":531,
+		"news_title":"IDC Released China Public Cloud Service Market (Second Half of 2018) Tracking and JD Cloud was Recognized Again"
+	},
+	{
+		"summary":"Recently, JD Cloud officially released the Technical White Paper for JDMigration (hereinafter referred to as the \"White Paper\") to reflect the development of JD Cloud's latest technologies with regards to cloud migration. The White Paper elaborates the unique technical benefits and user value of JDMigration and provides technical guidance for users with cross-cloud migration needs. The release of this White Paper is of great reference value to users to realize technical innovation, cost decreasing and benefit increasing.",
+		"image_url":"//img1.jcloudcs.com/cms/68170a22-9ad4-4cf5-81f1-2060a3dade9020190531102739.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_536",
+		"jss_key":"News_Content_536",
+		"id":536,
+		"news_title":"JD Cloud Brought a Practice Guideline for Cloud Migration  Releasing the Technical White Paper for JDMigration"
+	},
+	{
+		"summary":"Shanxi businessmen are facing a new future where the province undergoes a new transformation. On May 31, the \"2019 Shanxi (Da Tong) E-Commerce Conference and Da Tong Grain·JD Fair for Quality Goods in Shanxi\" was formally kicked off at the ancient city of Da Tong.",
+		"image_url":"//img1.jcloudcs.com/cms/9f3ebc76-8359-48e2-9ea2-96e2e388c0f220190603104302.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_537",
+		"jss_key":"News_Content_537",
+		"id":537,
+		"news_title":"Opening of 2019 Shanxi (Da Tong) E-Commerce Conference"
 	}
 ]
