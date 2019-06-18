@@ -1,0 +1,47 @@
+<p><br/></p>
+<p>&nbsp;2019年6月18日，京东云安全团队监控到Linux被披露 内核TCP SACK机制存在缺陷，可导致远程拒绝服务。</p>
+<p><br/></p>
+<p>【漏洞描述】</p>
+<p><br/></p>
+<p>&nbsp;攻击者可以远程发送特殊构造的攻击包，导致目标 Linux 或 FreeBSD 服务器崩溃或服务不可用。</p>
+<p><br/></p>
+<p>【漏洞评级】<br/></p>
+<p>CVE-2019-11477 高危</p>
+<p>CVE-2019-11478 中危</p>
+<p>CVE-2019-11479 中危</p>
+<p>【影响版本】</p>
+<p>FreeBSD 12（使用到 RACK TCP 协议栈）</p>
+<p>CentOS 5（Redhat 官方已停止支持，不再提供补丁）</p>
+<p>CentOS 6</p>
+<p>CentOS 7</p>
+<p>Ubuntu 18.04 LTS</p>
+<p>Ubuntu 16.04 LTS</p>
+<p>Ubuntu 19.04</p>
+<p>Ubuntu 18.10</p>
+<p>【安全版本】</p>
+<p>CentOS 6 ：2.6.32-754.15.3</p>
+<p>CentOS 7 ：3.10.0-957.21.3</p>
+<p>Ubuntu 18.04 LTS ：4.15.0-52.56</p>
+<p>Ubuntu 16.04 LTS：4.4.0-151.178</p>
+<p><br/></p>
+<p>【安全修复建议】</p>
+<p><br/></p>
+<p>注：以下任意一种修复方式都有可能造成业务不可用</p>
+<p><br/></p>
+<p>一、禁用SACK机制功能，执行如下命令：</p>
+<p>echo 0 &gt; /proc/sys/net/ipv4/tcp_sack</p>
+<p>或</p>
+<p>sysctl -w net.ipv4.tcp_sack=0</p>
+<p><br/></p>
+<p>二、升级Linux安全补丁(需要重启服务器)</p>
+<p>Ubuntu 系列：apt-get update &amp;&amp; sudo apt-get install linux-image-generic</p>
+<p>Centos 系列：yum update kernel</p>
+<p>其他Linux 补丁可参考：https://github.com/Netflix/security-bulletins/tree/master/advisories/third-party/2019-001</p>
+<p><br/></p>
+<p>【相关链接】</p>
+<p>https://access.redhat.com/security/vulnerabilities/tcpsack</p>
+<p>RedHat系统用户可使用脚本检测漏洞是否存在：https://access.redhat.com/sites/default/files/cve-2019-11477--2019-06-17-1629.sh</p>
+<p><br/></p>
+<p><br/></p>
+<p>京东云团队</p>
+<p><br/></p>
