@@ -1,0 +1,62 @@
+<p style="text-indent: 2em;">近日，京东云更新了一款应用交付产品—NF1 ADC，并宣布申请通过的用户将会获得30天免费产品试用以及试用期内京东云专业技术支持服务。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center;"><img title="" alt="nei.jpg" src="//img1.jcloudcs.com/cms/2b5a1c9b-0f5d-4b49-8853-4f6b0d01d0f420190618204117.jpg"/></p>
+<p><br/></p>
+<p style="text-indent: 2em;">京东云，作为京东集团技术赋能的窗口，在应用交付产品的大量技术投入来自于自身业务的需求。爆发式的业务增长，业务请求峰值的增加，以及超高的用户并发请求，无疑给作为中流砥柱的流量接入体系带来了前所未有的挑战。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">面对业务流量的暴增，扩大集群规模后，超高的QPS（Query Per Second，每秒查询率）背后的性能难题，该如何解决？ 应用业务量的增加，配置的变更越来越频繁，如何进行高效的监控与管理，避免单机故障和IDC故障对线上服务的影响？如何执行平滑无损的业务配置变更，打造一个易用的统一监控管理平台？面对层出不穷的应用攻击行为，我们需要具备应用层的安全防护的能力来保障服务的稳定性，需要对业务透明和精准防护，减少对业务的影响，作为流量的入口应当如何防御？</p>
+<p><br/></p>
+<p style="text-indent: 2em;">面对业务难题与场景压力，依靠多年京东集团运维管理经验积淀与技术研发能力，京东云打造了一款应用交付利器，NF1 ADC。NF1 ADC具有稳定可靠、灵活、弹性、安全、易用多种特性，可提供强大稳定的4、7层负载均衡能力、Web安全能力，针对高并发、大流量、高可用的用户接入场景研发，可轻松打造全面的高并发用户流量接入解决方案。NF1 ADC历经多次京东商城6.18和11.11大促考验，是公有云技术在京东商城的最佳实践。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center;"><img title="" alt="配图.jpg" src="//img1.jcloudcs.com/cms/25e0a669-94cb-47e2-9395-72a5bafe72a920190617184015.jpg"/></p>
+<p><br/></p>
+<p style="text-indent: 2em;">京东云NF1 ADC V3.0.1版本，面向企业用户免费下载试用，主要包含如下功能特性：</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>部署形态灵活</strong></p>
+<p style="text-indent: 2em;"><span style="font-family: 微软雅黑, sans-serif; text-indent: 28px;"><br/></span>
+</p>
+<p style="text-indent: 2em;">京东云NF1 ADC提供一体机硬件与软件版本，满足不同的用户场景需求。针对需使用硬件应用交付产品的私有云用户，提供一体化产品解决方案；针对具有定制化业务需求用户，提供软件版本。<br/></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>易运维可编程</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云NF1 ADC开放API、监控数据接口，满足用户针对业务定制开发、监控系统融合需求，增强系统运维便利性。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>应用负载均衡</strong></p>
+<p><br/></p>
+<p><br/></p>
+<p style="text-indent: 2em;">京东云NF1 ADC具有负载均衡能力，它集成了高性能网络负载均衡、应用负载均衡，支持TCP、UDP、HTTP、HTTPS，HTTP2.0协议，支持Domain，Path方式的应用路由功能，主动健康检查，快速消除故障节点，功能全面，轻松满足用户不同业务场景。简易、快捷的负载均衡实例配置，方便管理与维护，提升业务配置变更效率，大大降低运维管理工作量。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>灵活弹性扩展</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云NF1 ADC采用弹性架构设计实现快速横向扩展。它可根据用户性能需求灵活弹性扩容。可根据业务需求构建小型、中型、大型、超大型安全流量接入集群，覆盖大量业务场景。同时当单台转发出现异常，系统可自动去除，对于业务无感知，满足业务对于基础设施的稳定性、高可用需求。</p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><strong>Web应用防护</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云NF1 ADC可抵御OWASP TOP 10威胁，支持黑白名单、CC安全防护、Web自定义防护、限速、自定义页面、HTTP流量管理、网站防窜改、恶意IP惩罚、防爬虫等安全防护能力。为了准确的分析应用层攻击，NF1 ADC 可提供丰富的安全报表。Web安全报表针对Web攻击行为，进行攻击区域、攻击IP、攻击路径以及详细的攻击行为审计分析，方便用户溯源；CC分析报表监控业务流量与攻击流量比例，清晰呈现业务遭受攻击压力。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>支持IPv6</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云NF1 ADC支持HTTPS功能的同时，支持IPv6地址的接入与回源，满足用户面临业务访问集中、业务规模大带来核心业务访问量骤增的压力，满足用户网络改造的需求。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>实时数据监控</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云NF1 ADC支持丰富的数据监控与分析报表，实现数据可视化，安全可视化。提供丰富的监控维度，包括实时流量、实时QPS、状态码统计、协议占比、实时攻击行为、防御数量、请求来源统计，系统动态更新等。用户可实时监控网关集群、节点的性能状态、物理状态。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>日志分析</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云NF1 ADC提供统一的管理入口，可对多云环境部署的安全负载集群进行全局管理，实现状态监控、日志分析。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center;"><img title="" alt="2.jpg" src="//img1.jcloudcs.com/cms/ad0c0ab2-1029-4447-a28f-0eeffe921f5720190617185813.jpg"/></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>快速负载配置</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云NF1 ADC可统一下发配置，方便用户进行网关节点、网关集群的整体管理，并支持时间轴的日志审计功能，在满足日志审计合规的同时，方便用户快速、精准的溯源与定位，为用户构建运维管理战略指挥中心。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">目前，京东云为用户提供30天NF1 ADC V3.0.1版本产品免费试用，以及试用期内技术支持服务。访问京东云官网专有云产品NF1 ADC，<a href="https://www.jdcloud.com/cn/products/nf1-adc">https://www.jdcloud.com/cn/products/nf1-adc</a>，登录京东云账号，点击申请试用。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p><br/></p>
