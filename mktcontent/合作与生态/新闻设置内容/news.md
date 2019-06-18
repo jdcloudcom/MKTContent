@@ -958,5 +958,21 @@
 		"jss_key":"News_Content_542",
 		"id":542,
 		"news_title":"“京东云（重庆）新经济展示中心”启动"
+	},
+	{
+		"summary":"近日，京东云更新了一款应用交付产品—NF1 ADC，并宣布申请通过的用户将会获得30天免费产品试用以及试用期内京东云专业技术支持服务。",
+		"image_url":"//img1.jcloudcs.com/cms/b3445f63-3c2a-4569-9928-78bd026248ec20190617183638.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_543",
+		"jss_key":"News_Content_543",
+		"id":543,
+		"news_title":"京东云NF1 ADC免费开放试用 带给企业级用户最佳实践体验"
+	},
+	{
+		"summary":"6月16-18日，借势京东618全球年中购物节，京东云联合重庆市南岸区商务委员会携手打造的“京彩南岸 ‘渝’见无限可能” 品牌活动进入高潮，作为系列活动启幕首秀，京东云协同京东黑科技无人机点亮重庆，展现京东云与重庆南岸智能科技、城市魅力与产业发展的深度融合。",
+		"image_url":"//img1.jcloudcs.com/cms/e5d90f1a-114e-4fa7-b808-0afa028373de20190618194238.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_544",
+		"jss_key":"News_Content_544",
+		"id":544,
+		"news_title":"京东云携京东黑科技闪耀南岸"
 	}
 ]
