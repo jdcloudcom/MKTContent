@@ -17,6 +17,20 @@
       <div class="journal-tab-bd journal-tab1 row current">
 		<div class="jdc-journal-item col-6 col-xs-12">
           <div class="item-bg">
+            <div class="item-hd">京东云上速递 | 第六期</div>
+            <div class="item-bd row">
+              <div class="col-6 img-box"><img src="https://img1.jcloudcs.com/portal/journal/delivery201906.jpg"></div>
+              <div class="col-6 txt-box"><p class="txt">
+                如今的中国，正以奔跑的姿态在数字中国建设的道路上前行。2019全球人工智能技术大会（2019 GAITC）在南京盛大开幕。本期为您奉上京东云总裁申元庆在会上的精彩演讲。临近618，更有京东云618年中大促系列活动火热进行中，众多超值产品等你来抢！</p>
+ <a
+                clstag="News|keycount|MiddleContentSec|delivery201906"
+                href="//www.jdcloud.com/news/delivery201906" class="jdc-btn jdc-bg">立即查看
+              </a></div>
+            </div>
+          </div>
+        </div>
+		<div class="jdc-journal-item col-6 col-xs-12">
+          <div class="item-bg">
             <div class="item-hd">京东云上速递 | 第五期</div>
             <div class="item-bd row">
               <div class="col-6 img-box"><img src="https://img1.jcloudcs.com/portal/journal/delivery201905.jpg"></div>
