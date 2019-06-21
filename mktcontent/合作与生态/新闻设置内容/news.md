@@ -974,5 +974,13 @@
 		"jss_key":"News_Content_544",
 		"id":544,
 		"news_title":"京东云携京东黑科技闪耀南岸"
+	},
+	{
+		"summary":"近日，第七届中国网络安全大会（NSC 2019）在北京国家会议中心举办。京东云出席大会，并在“云安全与数据安全分论坛”做主题演讲，为现场领导专家、意见领袖、厂商代表、安全专家、行业用户等带来京东云最前沿的安全技术产品、最先进的安全理念和最有价值的安全实践分享。",
+		"image_url":"//img1.jcloudcs.com/cms/d89bdffe-b9c0-4b51-8aee-8f48a5eb10cc20190621101305.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_545",
+		"jss_key":"News_Content_545",
+		"id":545,
+		"news_title":"京东云亮相第七届中国网络安全大会 论道“为用户构建全生命周期安全保护体系”"
 	}
 ]
