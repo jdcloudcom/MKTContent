@@ -1,0 +1,62 @@
+<p style="text-indent: 2em;">Recently, JD Cloud has updated an application delivery product - NF1 ADC, and announced that users who have successfully applied will receive a 30-day free product trial and professional technical support services of JD Cloud during the trial period.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center;"><img title="" alt="nei.jpg" src="//img1.jcloudcs.com/cms/2b5a1c9b-0f5d-4b49-8853-4f6b0d01d0f420190618204117.jpg"/></p>
+<p><br/></p>
+<p style="text-indent: 2em;">JD Cloud, as the technical empowerment window of JD Group, invested a quantity of technologies of application delivery products into its own business demands. With explosive business growth, increase of business request peak value as well as super-high user concurrent requests, the traffic access system, serving as the mainstay, certainly will confront unprecedented challenge.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">Confronting explosive growth of business traffic, how to solve performance difficulties of super-high QPS (Query Per Second) after expanding cluster scale? With growth of application business volume, configuration is more and more frequently changed. How to make high-efficient monitoring and management and avoid influence to on-line service by single-machine fault and IDC fault? How to carry out smooth and damage-free business configuration change and create a central monitoring management platform with easy use? Confronting endless application attack behaviors, how to defense as the traffic entry, if we need to guarantee service stability with security protection capacity of application layer, make business transparent, apply precise protection to business and reduce influence to business?</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Confronting business difficulties and scenario pressure and based on experiences of JD Group on operation and maintenance management for years and its technical research and development capacities, JD Cloud create an application delivery tool, i.e., NF1 ADC. With features such as stability, reliability, flexibility, elasticity, security and easy use, NF1 ADC can provide powerful and stable 4-layer and 7-layer Load Balancer capacities and Web security capacities, make research and development on high-concurrency, mass-traffic and high-availability user JFE scenario, and easily create an overall and high-concurrency user traffic access solution. NF1 ADC withstands tests of 6.18 and 11.11 promotion of JD Mall for several times and is the best practice of public cloud technology of JD Mall.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center;"><img title="" alt="配图.jpg" src="//img1.jcloudcs.com/cms/25e0a669-94cb-47e2-9395-72a5bafe72a920190617184015.jpg"/></p>
+<p><br/></p>
+<p style="text-indent: 2em;">JD Cloud NF1 ADC V3.0.1 is available for free download and trial by enterprise users, with main functions and features below:</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>Flexible Deployment Form</strong></p>
+<p style="text-indent: 2em;"><span style="font-family: 微软雅黑, sans-serif; text-indent: 28px;"><br/></span>
+</p>
+<p style="text-indent: 2em;">JD Cloud NF1 ADC provides hardware and software versions for all-in-one machine, meeting different scenario demands of different users. For private cloud users requiring hardware application delivery product, integrated product solutions are provided; for users with customized business demands, software versions are provided.<br/></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Easy Operation and Maintenance and Programmable Performance</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">Open API and data monitoring APIs of JD Cloud NF1 ADC meets users' demands for customized business development and monitoring system combination and enhances system operation and maintenance convenience.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Application Load Balancer</strong></p>
+<p><br/></p>
+<p><br/></p>
+<p style="text-indent: 2em;">JD Cloud NF1 ADC has the Load Balancer capacity, integrates high-performance Network Load Balancer and Application Load Balancer, supports protocols such as TCP, UDP, HTTP, HTTPS and HTTP2.0, supports application routing functions of Domain and Path method, makes positive health check, rapidly eliminates fault nodes, has overall functions and easily satisfies different business scenario demands by users. With simple and rapid Load Balancer Instance configuration, management and maintenance are facilitated, business configuration change efficiency is increased and operation and maintenance management work load is greatly reduced.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Flexible and Elastic Expansion</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">JD Cloud NF1 ADC with elastic architecture design rapidly realizes horizontal expansion. It can make flexible and elastic expansion based on user's performance. It can build small, medium-sized, large-scale and super-large security traffic access clusters according to business needs, covering a quantity of business scenarios. At the same time, the system can automatically eliminate exception of a single forward, with no influence to business, meeting stability and high availability demands for infrastructure by business.</p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><strong>Web Application Protection</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">JD Cloud NF1 ADC can withstand OWASP TOP 10 threats, and supports security protection capabilities, such as White List and blacklist, CC security protection, Web customized protection, speed restriction, customized page, HTTP traffic management, website tamper resistance, malicious IP punishment and anti-creeper. To precisely analyze application layer attack, NF1 ADC can provide diversified security reports. Web security reports make audit analysis of attack regions, attack IP, attack path and detailed attack behaviors for Web attack behaviors, facilitating tracing by users; while CC analysis reports monitor proportion of business traffic and attack traffic and clearly show attack pressure suffered by business.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Support IPv6</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">JD Cloud NF1 ADC supports HTTPS function and IPv6 address access and back-to-origin at the same time, solving the rushing pressure problem of core business access volume caused by centralized business access and large-scale business for users and meeting users' demands for network transformation.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Real-time Data Monitoring</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">JD Cloud NF1 ADC supports diversified data monitoring and analysis reports, realizes data visualization and safety visualization. Provides diversified monitoring dimensions, including real-time traffic, real-time QPS, status code statistics, protocol proportion, real-time attack behavior, defense count, request resource statistics, system dynamics update, etc. Users can monitor gateway cluster, node performance status and physical status in real time.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Log Analysis</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">JD Cloud NF1 ADC provides a unified management entry, applying global management to security load cluster deployed in multi-cloud environment and realizing status monitoring and log analysis.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center;"><img title="" alt="2.jpg" src="//img1.jcloudcs.com/cms/ad0c0ab2-1029-4447-a28f-0eeffe921f5720190617185813.jpg"/></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Rapid Load Configuration</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">JD Cloud NF1 ADC can centrally distribute configuration, facilitate overall management on gateway node and gateway cluster by users, support log audit function based on timeline, facilitate rapid and precise tracing and positioning by users while conforming to log audit compliance and build an operation and maintenance management strategy command center for users.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">Now, JD Cloud provides users with 30-day free trial of NF1 ADC V3.0.1 and technical support service during trial period. Access Proprietary Cloud product NF1 ADC from official website of JD Cloud, <a href="https://www.jdcloud.com/cn/products/nf1-adc">https://www.jdcloud.com/cn/products/nf1-adc</a>, log in JD Cloud account and click **Apply for Trial**.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p><br/></p>

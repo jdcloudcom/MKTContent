@@ -926,5 +926,53 @@
 		"jss_key":"News_Content_537",
 		"id":537,
 		"news_title":"Opening of 2019 Shanxi (Da Tong) E-Commerce Conference"
+	},
+	{
+		"summary":"Recently, iResearch released 2019 China Enterprise SaaS Industry Research Report. Wherein, JD Cloud ranked the first place in the \"Retail E-commerce\" region of the industry vertical graph by virtue of its excellent E-commerce Cloud SaaS.",
+		"image_url":"//img1.jcloudcs.com/cms/6f7f4c35-5c15-4da9-8ef7-a30c2c85ebe320190611153219.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_538",
+		"jss_key":"News_Content_538",
+		"id":538,
+		"news_title":"iResearch released the latest Enterprise SaaS Industry Research Report  JD Cloud Ranked 1st among China’s Retail E-commerce Companies"
+	},
+	{
+		"summary":"In the reckoning of mid-year performance, JD Cloud Big Data Infrastructure Services Platform created success again.",
+		"image_url":"//img1.jcloudcs.com/cms/bff1f30c-a077-4cc2-b63d-ae6bba754c2a20190611175216.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_539",
+		"jss_key":"News_Content_539",
+		"id":539,
+		"news_title":"\"JD Cloud Big Data Infrastructure Services Platform\" was selected into the \"Top 10 Big Data Cases\" of the Ministry of Industry and Information Technology"
+	},
+	{
+		"summary":"2019 China International Big Data Industry Expo (hereinafter referred to as the \"2019 Data Expo\") was held recently in Guizhou, meanwhile, the industry influential prize \"2019 Data Expo Leading Technology Achievement Prize\" was released officially. JD Cloud JDStack Proprietary Cloud won the \"2019 Data Expo Leading Technology Achievement Prize - New Product\" Award by virtue of leading cloud computing technical innovation, rich practice and scenario application.",
+		"image_url":"//img1.jcloudcs.com/cms/1d5a3aad-6b92-4757-a521-8ae6111a145220190612152304.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_541",
+		"jss_key":"News_Content_541",
+		"id":541,
+		"news_title":"JD Cloud JDStack Proprietary Cloud Platform won the 2019 Data Expo \"New Product\" Award"
+	},
+	{
+		"summary":"On June 13, 2019, \"JD Cloud (Chongqing) New Economy Exhibition Center\" was successfully launched in Chongqing.",
+		"image_url":"//img1.jcloudcs.com/cms/70b2523e-a775-4fc0-9805-535308ca3dae20190613133340.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_542",
+		"jss_key":"News_Content_542",
+		"id":542,
+		"news_title":"\"JD Cloud (Chongqing) New Economy Exhibition Center\" Launched"
+	},
+	{
+		"summary":"Recently, JD Cloud has updated an application delivery product - NF1 ADC, and announced that users who have successfully applied will receive a 30-day free product trial and professional technical support services of JD Cloud during the trial period.",
+		"image_url":"//img1.jcloudcs.com/cms/b3445f63-3c2a-4569-9928-78bd026248ec20190617183638.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_543",
+		"jss_key":"News_Content_543",
+		"id":543,
+		"news_title":"Free Release and Trial of JD Cloud NF1 ADC Brings Best Practices to Enterprise Users"
+	},
+	{
+		"summary":"On June 16-18, \"Wonderful Nan'an 'Chongqing' Sees Infinite Possibilities\" brand activities built by JD Cloud cooperated with Chongqing Nan'an District Commerce Commission came to the climax by taking advantage of JD 618 Global Mid-year Shopping Festival. As the first show of the series of activities, JD Cloud and JD's futuristic technology UAV lighted up Chongqing, showing the deep integration of JD Cloud and Chongqing Nan'an District in intelligent technology, urban charm and industrial development.",
+		"image_url":"//img1.jcloudcs.com/cms/e5d90f1a-114e-4fa7-b808-0afa028373de20190618194238.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_544",
+		"jss_key":"News_Content_544",
+		"id":544,
+		"news_title":"JD Cloud shone Nan'an with JD's futuristic technology"
 	}
 ]

@@ -1,0 +1,47 @@
+<p><br/></p>
+<p>&nbsp; On June 18, 2019, JD Cloud Security Team detected that it was revealed that the Kernel TCP SACK mechanism of Linux contained defects, making remote service rejected.</p>
+<p><br/></p>
+<p>[Vulnerability Description]</p>
+<p><br/></p>
+<p>&nbsp; Attackers can remotely send an attack package of special structure, making target Linux or FreeBSD server crashed or service unavailable.</p>
+<p><br/></p>
+<p>[Vulnerability Rating]<br/></p>
+<p>CVE-2019-11477 High Risk</p>
+<p>CVE-2019-11478 Moderate Risk</p>
+<p>CVE-2019-11479 Moderate Risk</p>
+<p>[Affected Version]</p>
+<p>FreeBSD 12 (Using RACK TCP Protocol Stack)</p>
+<p>CentOS 5 (Official support of Redhat is stopped and no patches will be provided anymore)</p>
+<p>CentOS 6</p>
+<p>CentOS 7</p>
+<p>Ubuntu 18.04 LTS</p>
+<p>Ubuntu 16.04 LTS</p>
+<p>Ubuntu 19.04</p>
+<p>Ubuntu 18.10</p>
+<p>[Safety Version]</p>
+<p>CentOS 6 ：2.6.32-754.15.3</p>
+<p>CentOS 7 ：3.10.0-957.21.3</p>
+<p>Ubuntu 18.04 LTS ：4.15.0-52.56</p>
+<p>Ubuntu 16.04 LTS：4.4.0-151.178</p>
+<p><br/></p>
+<p>[Security Fix Recommendation]</p>
+<p><br/></p>
+<p>Note: Business may be unavailable due to any one of the following repair methods</p>
+<p><br/></p>
+<p>I. Disable SACK mechanism functions and execute following commands:</p>
+<p>echo 0 &gt; /proc/sys/net/ipv4/tcp_sack</p>
+<p>or</p>
+<p>sysctl -w net.ipv4.tcp_sack=0</p>
+<p><br/></p>
+<p>II. Upgrade Linux security patch (need to reboot servers)</p>
+<p>Ubuntu series: apt-get update &amp;&amp; sudo apt-get install linux-image-generic</p>
+<p>Centos series: yum update kernel</p>
+<p>For other Linux patches, please refer to: https: //github.com/Netflix/security-bulletins/tree/master/advisories/third-party/2019-001</p>
+<p><br/></p>
+<p>[Relevant Links]</p>
+<p>https://access.redhat.com/security/vulnerabilities/tcpsack</p>
+<p>RedHat system users can detect whether there is any vulnerability with scripts: https://access.redhat.com/sites/default/files/cve-2019-11477--2019-06-17-1629.sh</p>
+<p><br/></p>
+<p><br/></p>
+<p>JD Cloud Team</p>
+<p><br/></p>

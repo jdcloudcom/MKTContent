@@ -460,10 +460,6 @@
 		"id":1243
 	},
 	{
-		"name":"Bank Card Number Recognize",
-		"id":1244
-	},
-	{
 		"name":"General Image OCR",
 		"id":1245
 	},

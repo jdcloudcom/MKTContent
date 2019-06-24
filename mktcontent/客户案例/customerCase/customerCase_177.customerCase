@@ -1,0 +1,11 @@
+Main targets of Phase I system migration are to migrate business systems from other cloud services to JD Cloud. To rapidly complete migration, architects design post-migration architecture scheme for customers on condition that the customer’s codes are not modified as much as possible. Output solutions for customers for targets of high availability, high performance, high security, operation and maintenance ability as well as expandability:
+High Availability:
+Change single instance deployment to multi-instance deployment, realize complete physical isolation for underlayer resources via features of JD Cloud products and realize Citywide Dual Active Solutions; for cross-cloud disaster recovery, JD Cloud architects help users design and implement cross-cloud disaster recovery architecture.     
+High Performance:
+Provide customer with the system full-link voltage test, analyze system neck, propose optimization suggestion, guarantee that system concurrency is known and facilitate system expansion evaluation.
+High Security:
+Assess security risk for customers in combination with customer’s business scenario, make security reinforcement by accurately using security products and guarantee safe operation of Cloud System.
+Operation and Maintenance Ability:
+Make Devops solutions for customers, realize CI\CD automation as well as monitoring and alarming for resource and service with Devops products, guarantee system operation and maintenance ability and monitor system availability in real time.
+To realize customer’s cross-cloud disaster recovery scenarios, the customer needs to adopt JD Cloud as the main environment and original cloud environment as the disaster recovery environment, guarantee data consistency within time delay range through remote data synchronization. In case the main environment is abnormal, service can be handed over in the disaster recovery environment by changing domain DNS.
+In JD Cloud Onboarding Migration service, the architect will develop the migration plan for the customer, assist the customer in on-line migration of application, file and database, help the customer successfully migrate applications and data to JD Cloud within the scheduled time and ensure smooth switching and normal operation of customer business.
