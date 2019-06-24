@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"富媒体短信\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://rms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"富媒体短信(Rich Media SMS)是基于普通短信通道下发，用户手机收件箱中能够接收和阅读文本、静态图片、动态图片、音频、视频等富媒体信息短信.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"富媒体短信\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://rms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"富媒体短信(Rich Media SMS)是基于普通短信通道下发,用户手机收件箱中能够接收和文本、静态图片、音频、视频等富媒体信息短信.  \\n使用问题可邮件至: rms-service@jd.com\"}",
 		"id":1159
 	},
 	{
