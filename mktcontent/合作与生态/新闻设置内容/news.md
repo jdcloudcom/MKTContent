@@ -953,7 +953,7 @@
 	},
 	{
 		"summary":"2019年6月13日，“京东云（重庆）新经济展示中心”在重庆成功举行。",
-		"image_url":"//img1.jcloudcs.com/cms/70b2523e-a775-4fc0-9805-535308ca3dae20190613133340.jpg",
+		"image_url":"//img1.jcloudcs.com/cms/7adc78ed-2c5b-46a6-ae8e-ade62217557b20190624183218.png",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_542",
 		"jss_key":"News_Content_542",
 		"id":542,
