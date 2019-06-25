@@ -200,11 +200,6 @@
 		"id":109
 	},
 	{
-		"name":"数据迁移",
-		"description":"专业、可靠、便捷的数据迁移服务",
-		"id":111
-	},
-	{
 		"name":"GPU 云主机",
 		"description":"加速深度学习、科学计算的高性能计算服务",
 		"id":112
@@ -1253,11 +1248,6 @@
 		"name":"资源编排",
 		"description":"资源编排是一项简化云计算资源管理和运维的服务。",
 		"id":2990
-	},
-	{
-		"name":"JDSystem360一体机",
-		"description":"模块化、可组合的私有云，提供Turn-Key式的一站交付",
-		"id":2999
 	},
 	{
 		"name":"视频点播",
@@ -2348,8 +2338,8 @@
 		"id":3527
 	},
 	{
-		"name":"分布式托管服务",
-		"description":"覆盖海量边缘节点，无处不在的托管",
+		"name":"边缘物理计算服务",
+		"description":"覆盖海量边缘节点，为客户提供计算存储服务",
 		"id":3529
 	},
 	{
@@ -2361,5 +2351,37 @@
 		"name":"云拨测",
 		"description":"实时监测您的网站、域名和业务端口",
 		"id":3533
+	},
+	{
+		"name":"JDSystem VMware混合云",
+		"description":"面向关键应用的JDSystem混合云解决方案",
+		"id":3535
+	},
+	{
+		"name":"JDSystem企业云盘一体机",
+		"description":"基于文档的企业办公协作平台",
+		"id":3537
+	},
+	{
+		"name":"JDSystem Citrix云",
+		"description":"结合Citrix桌面虚拟化技术，私有化部署的云桌面解决方案",
+		"id":3539
+	},
+	{
+		"name":"JDSystem HCI混合云",
+		"description":"面向政企客户、中小企业的超融合混合云解决方案",
+		"id":3541
+	},
+	{
+		"name":"JDSystem云影像",
+		"id":3543
+	},
+	{
+		"name":"JDSystem应用立方体",
+		"id":3545
+	},
+	{
+		"name":"JDSystem Console",
+		"id":3547
 	}
 ]
