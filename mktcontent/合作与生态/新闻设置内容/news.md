@@ -982,5 +982,21 @@
 		"jss_key":"News_Content_545",
 		"id":545,
 		"news_title":"京东云亮相第七届中国网络安全大会 论道“为用户构建全生命周期安全保护体系”"
+	},
+	{
+		"summary":"在刚刚结束的京东618，从2019年6月1日0点到6月18日24点，京东累计下单金额达2015亿。经过16年的发展，京东618不断跃上新台阶。而背后支持着海量订单顺利生产交付的，也有京东云稳如磐石的技术体系贡献的力量。",
+		"image_url":"//img1.jcloudcs.com/cms/52ba28c0-b434-48e8-b122-2be0ea50626720190625181728.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_546",
+		"jss_key":"News_Content_546",
+		"id":546,
+		"news_title":"解密京东云618技术：首次全面启用IPv6访问支持"
+	},
+	{
+		"summary":"“京玉求精，智创未来”。6月25日下午，玉溪市人民政府与京东集团“互联网+”新经济项目合作签约仪式在云南昆明成功举行。",
+		"image_url":"//img1.jcloudcs.com/cms/20365eb4-8ab8-4b12-b3fa-4b281b6ce25020190625185118.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_547",
+		"jss_key":"News_Content_547",
+		"id":547,
+		"news_title":"玉溪市人民政府与京东云“互联网+”新经济项目正式签约"
 	}
 ]
