@@ -20,8 +20,8 @@
 		"label":"赔"
 	},
 	{
-		"name":"备战618",
-		"description":"全方位营销备战计划助力商家大卖",
+		"name":"云数据库MySQL",
+		"description":"新购6个月即送200元代金券",
 		"id":5
 	},
 	{
