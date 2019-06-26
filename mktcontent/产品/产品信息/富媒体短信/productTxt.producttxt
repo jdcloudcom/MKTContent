@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Rich Media SMS\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://rms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"Rich Media SMS is based on the normal SMS channel. The user's mobile phone inbox can receive and read text, static images, dynamic images, audio, video and other rich media information SMS.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Rich Media SMS\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://rms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"Rich Media SMS is based on the normal SMS channel. The user's mobile phone inbox can receive text, static images, dynamic images, audio, video and other rich media information SMS.  \\n Any use problem can be emailed to: rms-service@jd.com\"}",
 		"id":1159
 	},
 	{

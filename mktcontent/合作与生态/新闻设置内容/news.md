@@ -953,7 +953,7 @@
 	},
 	{
 		"summary":"On June 13, 2019, \"JD Cloud (Chongqing) New Economy Exhibition Center\" was successfully launched in Chongqing.",
-		"image_url":"//img1.jcloudcs.com/cms/70b2523e-a775-4fc0-9805-535308ca3dae20190613133340.jpg",
+		"image_url":"//img1.jcloudcs.com/cms/7adc78ed-2c5b-46a6-ae8e-ade62217557b20190624183218.png",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_542",
 		"jss_key":"News_Content_542",
 		"id":542,
@@ -974,5 +974,13 @@
 		"jss_key":"News_Content_544",
 		"id":544,
 		"news_title":"JD Cloud shone Nan'an with JD's futuristic technology"
+	},
+	{
+		"summary":"Recently, the 7th China Cyber Security Conference (NSC 2019) was held at China National Convention Center in Beijing. JD Cloud attended the conference, and gave a theme speech at the \"Cloud Security and Data Security Sub-forum\", bringing the most cutting-edge security technology products, the most advanced security concepts and the most valuable security practice sharing of JD Cloud to the on-site leading experts, opinion leaders, manufacturer representatives, security experts, industry users, etc.",
+		"image_url":"//img1.jcloudcs.com/cms/d89bdffe-b9c0-4b51-8aee-8f48a5eb10cc20190621101305.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_545",
+		"jss_key":"News_Content_545",
+		"id":545,
+		"news_title":"JD Cloud Appeared at the 7th China Cyber Security Conference to Discuss \"Building the Full Life Cycle Security Protection System for Users\""
 	}
 ]

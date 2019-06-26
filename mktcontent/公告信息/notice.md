@@ -470,5 +470,9 @@
 	{
 		"id":701,
 		"title":"\\[Vulnerability Warning\\] Linux Kernel TCP SACK mechanism remotely denies service vulnerability"
+	},
+	{
+		"id":702,
+		"title":"Notice on Suspension of Distributed Relational Database Service (DRDS) Console"
 	}
 ]
