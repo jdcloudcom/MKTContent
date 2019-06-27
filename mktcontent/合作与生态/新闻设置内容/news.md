@@ -998,5 +998,21 @@
 		"jss_key":"News_Content_547",
 		"id":547,
 		"news_title":"玉溪市人民政府与京东云“互联网+”新经济项目正式签约"
+	},
+	{
+		"summary":"6月26日，京东云与清博大数据于北京正式签署战略合作协议，双方将在政务、电商、学术、新媒体技术、大数据等多领域内实现资源共享、优势互补，建立长期、全面、可持续发展关系。",
+		"image_url":"//img1.jcloudcs.com/cms/f27620fc-0392-46af-91f3-b3984d23081620190626120903.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_558",
+		"jss_key":"News_Content_558",
+		"id":558,
+		"news_title":"顺应媒体融合深入发展趋势  京东云联合清博打造融媒云解决方案"
+	},
+	{
+		"summary":"2019年6月25日，首届中国（怀化）乡村振兴设计创新大赛启动仪式暨新闻发布会在长沙举行。湖南省文化和旅游厅、湖南省工业和信息化厅、怀化市政府、怀化经开区管委会、京东云、湖南大学设计艺术学院以及来自全国的知名企业、高校、新闻媒体代表等百余人参加仪式。",
+		"image_url":"//img1.jcloudcs.com/cms/d7f5e3f9-9db3-495e-9398-5e21dd66700b20190627142343.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_559",
+		"jss_key":"News_Content_559",
+		"id":559,
+		"news_title":"设计驱动，乡村振兴： 首届中国（怀化）乡村振兴设计创新大赛正式启动"
 	}
 ]
