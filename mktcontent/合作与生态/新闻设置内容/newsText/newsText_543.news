@@ -18,17 +18,14 @@
 <p style="text-indent: 2em;">京东云NF1 ADC提供一体机硬件与软件版本，满足不同的用户场景需求。针对需使用硬件应用交付产品的私有云用户，提供一体化产品解决方案；针对具有定制化业务需求用户，提供软件版本。<br/></p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>易运维可编程</strong></p>
-<p style="text-indent: 2em;"><strong><br/></strong></p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">京东云NF1 ADC开放API、监控数据接口，满足用户针对业务定制开发、监控系统融合需求，增强系统运维便利性。</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>应用负载均衡</strong></p>
 <p><br/></p>
-<p><br/></p>
 <p style="text-indent: 2em;">京东云NF1 ADC具有负载均衡能力，它集成了高性能网络负载均衡、应用负载均衡，支持TCP、UDP、HTTP、HTTPS，HTTP2.0协议，支持Domain，Path方式的应用路由功能，主动健康检查，快速消除故障节点，功能全面，轻松满足用户不同业务场景。简易、快捷的负载均衡实例配置，方便管理与维护，提升业务配置变更效率，大大降低运维管理工作量。</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>灵活弹性扩展</strong></p>
-<p style="text-indent: 2em;"><strong><br/></strong></p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">京东云NF1 ADC采用弹性架构设计实现快速横向扩展。它可根据用户性能需求灵活弹性扩容。可根据业务需求构建小型、中型、大型、超大型安全流量接入集群，覆盖大量业务场景。同时当单台转发出现异常，系统可自动去除，对于业务无感知，满足业务对于基础设施的稳定性、高可用需求。</p>
 <p style="text-indent: 2em;"><strong><br/></strong></p>
@@ -37,17 +34,14 @@
 <p style="text-indent: 2em;">京东云NF1 ADC可抵御OWASP TOP 10威胁，支持黑白名单、CC安全防护、Web自定义防护、限速、自定义页面、HTTP流量管理、网站防窜改、恶意IP惩罚、防爬虫等安全防护能力。为了准确的分析应用层攻击，NF1 ADC 可提供丰富的安全报表。Web安全报表针对Web攻击行为，进行攻击区域、攻击IP、攻击路径以及详细的攻击行为审计分析，方便用户溯源；CC分析报表监控业务流量与攻击流量比例，清晰呈现业务遭受攻击压力。</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>支持IPv6</strong></p>
-<p style="text-indent: 2em;"><strong><br/></strong></p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">京东云NF1 ADC支持HTTPS功能的同时，支持IPv6地址的接入与回源，满足用户面临业务访问集中、业务规模大带来核心业务访问量骤增的压力，满足用户网络改造的需求。</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>实时数据监控</strong></p>
-<p style="text-indent: 2em;"><strong><br/></strong></p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">京东云NF1 ADC支持丰富的数据监控与分析报表，实现数据可视化，安全可视化。提供丰富的监控维度，包括实时流量、实时QPS、状态码统计、协议占比、实时攻击行为、防御数量、请求来源统计，系统动态更新等。用户可实时监控网关集群、节点的性能状态、物理状态。</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>日志分析</strong></p>
-<p style="text-indent: 2em;"><strong><br/></strong></p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">京东云NF1 ADC提供统一的管理入口，可对多云环境部署的安全负载集群进行全局管理，实现状态监控、日志分析。</p>
 <p style="text-indent: 2em;"><br/></p>
