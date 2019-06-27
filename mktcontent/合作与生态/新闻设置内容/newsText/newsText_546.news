@@ -1,7 +1,6 @@
 <p style="text-indent: 2em;">在刚刚结束的京东618，从2019年6月1日0点到6月18日24点，京东累计下单金额达2015亿。经过16年的发展，京东618不断跃上新台阶。而背后支持着海量订单顺利生产交付的，也有京东云稳如磐石的技术体系贡献的力量。</p>
 <p><br/></p>
 <p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/c0485b29-a96e-4541-89fd-c4d69fad75a020190625181804.jpg" title="" alt="内1.jpg"/></p>
-<p><br/></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p style="text-indent: 2em;">京东云技术体系在618期间面对的可谓是极限挑战。当系统面对数百亿访问流量、每秒数百万次的高并发请求，数十亿的实时消息推送，要实现几百个上下游系统的精准协同，保证全天核心服务不降级、零重大事故，这些都对技术保障能力提出了极高的要求。</p>
 <p><br/></p>
@@ -38,8 +37,8 @@
 <p><br/></p>
 <p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/362fe787-10d8-4fe6-aae9-b82c66aca30c20190625182708.jpg" title="" alt="nei4.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-indent: 2em;"><strong>承接京东核心业务系统<br/><br/></strong></p>
-<p></p>
+<p style="text-indent: 2em;"><strong>承接京东核心业务系统<br/></strong></p>
+<p><br/></p>
 <p style="text-indent: 2em;">稳定、弹性的云主机服务，轻松应对业务高倍增长，解决单量暴增情况下的性能瓶颈。618期间，新增支持京东广告核心业务、京东物流核心系统（线下零售系统、国际化物流系统、智慧预分拣工程、安维外单开放系统、配送异常管理平台慧眼系统、数据蜂巢、站内信、逆向处置中心发运系统）以及京东保险核心业务，为海量订单高效智能奠定技术基石。</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">原生容器轻量化，具备快速启动特性，轻松应对业务爆发需求；容器的环境一致性，保障了应用的快速迭代，实现了广告的精准投放，为用户带来最佳体验。618期间，提供大规模容器集群，共计4万多核，支撑京东广告系统的海量并发业务需求，稳定护航618。</p>
