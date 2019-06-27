@@ -1,0 +1,95 @@
+<div class="activity-idc">
+  <div class="idc-banner">
+    <div class="w">
+      <div class="idc-banner-text">
+        <h3>京东云智能IDC电商平台</h3>
+        <p>IDC电商化领军人，构建智能IDC联盟</p>
+
+        <a href="https://aidc.jdcloud.com/" class="jdc-banner-btn hidden-xs" clstag="Aidc|keycount|SectionBannerSec|1">立即查看</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="jdc-common-nav idc-nav">
+    <ul class="jdc-common-navlst">
+      <li class="nav-item on">平台简介</li>
+      <li class="nav-item">业务类型</li>
+      <li class="nav-item">入驻流程</li>
+    </ul>
+  </div>
+
+  <div class="idc-floor">
+    <div class="idc-floor-item">
+      <div class="w">
+        <h4 class="idc-item-tit">平台简介</h4>
+        <ul class="idc-intro">
+          <li>京东云智能IDC电商平台是国内第一家面向IDC领域的电商平台，旨在用京东的电商基因和公有云技术能力赋能IDC行业；通过构建智能IDC电商平台和IDC联盟，整合IDC资源，提升IDC服务质量，让困扰传统企业的基础设施变成触手可及的水、煤、电，从而更好地聚焦业务创新。</li>
+          <li>智能IDC电商平台提供标准的一体化IDC资源&服务的线上选购平台，具备完善的线上咨询，方案设计，线下交付以及售后保障能力。除京东云自营商品外，支持IDC联盟厂商入驻，参照京东云质量保证体系，借鉴京东云基础设施团队多年运维服务经验，为用户提供安全、可靠、便捷的IDC服务。</li>
+          <li>现阶段，电商平台主营三类产品：机柜服务（主机托管）、设备服务、网络服务，其他类目产品持续更新中；同时，IDC联盟厂商招募中，欢迎加盟入驻。</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="idc-floor-item">
+      <div class="w">
+        <h4 class="idc-item-tit">业务类型</h4>
+        <div class="idc-type">
+          <div class="idc-type-item">
+            <div class="idc-type-item-hd">机柜服务</div>
+            <div class="idc-type-item-bd">
+              <i class="icon1"></i>
+              <p>通用机柜租赁业务。企业用户自行采购服务器，安装好系统及相应软件并将服务器托管于数据中心。数据中心提供完善机房设施、高品质网络环境、丰富带宽资源和运营经验。用户可以针对不同数据中心定制不同内容、不同级别的运维服务，也可以提出定制化的运维需求。</p>
+
+            </div>
+          </div>
+          <div class="idc-type-item">
+            <div class="idc-type-item-hd">设备服务</div>
+            <div class="idc-type-item-bd">
+              <i class="icon2"></i>
+              <p>在机柜租赁基础之上，用户还可选择IDC提供商的服务器、交换机等IT设备，享用高品质硬件维保服务。助力用户信息化建设，简化企业复杂采购模式，让单次投入最低，有效优化企业投资成本。</p>
+
+            </div>
+          </div>
+          <div class="idc-type-item">
+            <div class="idc-type-item-hd">网络服务</div>
+            <div class="idc-type-item-bd">
+              <i class="icon3"></i>
+              <p>按客户需求提供中国电信、中国联通、中国移动等专业运营商接入。提供单线、BGP等多种网络带宽服务。有100Mbps以下（不含100Mbps）、100Mbps-1Gbps（不含1Gbps）、1Gbps等多种规格的带宽产品。</p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="idc-floor-item">
+      <div class="w">
+        <h4 class="idc-item-tit">入驻流程</h4>
+        <div class="jdc-model-process">
+          <div class="g-table">
+            <div class="g-cell">
+              <i class="icon">1</i>
+              <h4 class="tit">注册账号</h4>
+            </div>
+            <div class="g-cell">
+              <i class="icon">2</i>
+              <h4 class="tit">实名认证</h4>
+            </div>
+            <div class="g-cell">
+              <i class="icon">3</i>
+              <h4 class="tit">入驻申请</h4>
+            </div>
+            <div class="g-cell">
+              <i class="icon">4</i>
+              <h4 class="tit">平台审核</h4>
+            </div>
+            <div class="g-cell">
+              <i class="icon">5</i>
+              <h4 class="tit">商家开店</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
