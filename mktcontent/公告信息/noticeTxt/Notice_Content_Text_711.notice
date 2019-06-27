@@ -1,0 +1,21 @@
+<p><strong>【漏洞描述】</strong></p>
+<p><br/></p>
+<p>2019年6月26日，京东云安全团队监测到致远OA办公系统被披露存在存在任意文件上传漏洞，远程且未经授权的攻击者通过利用此漏洞，可以直接在服务端执行任意代码，获取系统权限，目前利用代码已在野公开。</p>
+<p><br/></p>
+<p>致远OA htmlofficeservlet HTTP接口处理请求存在缺陷，黑客通过构造特定的HTTP请求，无需在登录情况下利用漏洞可在服务端执行任意代码，获取服务器权限，风险极高。</p>
+<p><br/></p>
+<p><strong>【危害级别】</strong></p>
+<p><br/></p>
+<p>严重</p>
+<p><br/></p>
+<p><strong>&nbsp;【影响范围】</strong></p>
+<p><strong><br/></strong></p>
+<p>致远 A8-V5 协同管理软件 V6.1sp1</p>
+<p>致远 A8+ 协同管理软件 V7.0、V7.0sp1、V7.0sp2、V7.0sp3</p>
+<p>致远 A8+ 协同管理软件 V7.1</p>
+<p><br/></p>
+<p><strong>【安全建议】</strong></p>
+<p><br/></p>
+<p>1.目前致远公司已补丁完成修复，受漏洞影响的用户可以联系致远官方获取补丁:&nbsp;<a href="http://www.seeyon.com/info/company.html" target="_blank" title="http://www.seeyon.com/info/company.html">http://www.seeyon.com/info/company.html</a></p>
+<p>2.缓解措施：可在不影响系统正常使用的情况下，部署在公网的服务器限制外网对 /seeyon/htmlofficeservlet 路径的访问或关闭网站对外访问。</p>
+<p><br/></p>
