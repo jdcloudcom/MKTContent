@@ -1738,5 +1738,41 @@
 		"name":"丰富函数创建和优化函数迭代",
 		"description":"1. 运行时语言支持node.js6.17、8.16\n2. 支持别名绑定触发器\n3. 丰富对象存储OSS函数模板\n",
 		"id":2314
+	},
+	{
+		"introduce":"支持通过DDL创建拆分表",
+		"name":"支持通过DDL创建拆分表",
+		"description":"可通过DDL SQL语句创建拆分表，提高用户体验，降低用户迁移成本。",
+		"id":2316
+	},
+	{
+		"introduce":"支持2017企业版",
+		"name":"支持2017企业版",
+		"description":"支持SQL Server 2017 企业版，满足用户业务系统对SQL Server版本的需求。",
+		"id":2317
+	},
+	{
+		"introduce":"支持TiDB 2.1.8版本\t",
+		"name":"支持TiDB 2.1.8版本\t",
+		"description":"北京地域支持TiDB 2.1.8版本，功能更加丰富，稳定性更好。\t",
+		"id":2318
+	},
+	{
+		"introduce":"Kubernetes集群接入操作保护\t",
+		"name":"Kubernetes集群接入操作保护",
+		"description":"Kubernetes集群接入操作保护，控制台执行Kubernetes集群和工作节点组删除操作时，支持使用MFA验证，短信验证，邮箱验证。",
+		"id":2319
+	},
+	{
+		"introduce":"支持用户进行资源授权，启用操作保护和标签管理\t",
+		"name":"接入授权管理、操作保护、标签管理",
+		"description":"支持用户跨云主账号和IAM子账号API粒度的授权管理，支持对于敏感操作删除的操作保护，支持对于queue资源的标签管理。",
+		"id":2320
+	},
+	{
+		"introduce":"上海地域支持3AZ",
+		"name":"上海地域支持3AZ",
+		"description":"支持上海第3个AZ，跨地域部署实例支持节点分布在3个AZ。",
+		"id":2321
 	}
 ]
