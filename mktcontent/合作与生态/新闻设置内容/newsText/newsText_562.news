@@ -1,0 +1,42 @@
+<p style="text-indent: 2em;">现如今，随着O2O的全面发展与应用，给物流等各个行业带来便捷，也给人们的生活带来了新的变化，方便人们的生活。想点个外卖，手机一键下单，最快半小时内就能送达。但是如何保证网上下单产品的品质、满足消费者的个性化需求、保证配送的及时性等也给商家和物流行业提出了新的挑战；与此同时，如何应对电商大促期间短时暴涨的订单需求，也是困扰电商和物流行业的焦点问题。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center;"><img title="" alt="达达2.png" src="//img1.jcloudcs.com/cms/03637dfc-f20f-488b-a15e-d3c95ab2e20420190628215853.png"/></p>
+<p style="text-indent: 2em;"><br/><span style="margin: 0px; font-family: 微软雅黑; font-size: 10.5pt;"></span>
+</p>
+<p style="text-indent: 2em;">在刚刚结束的京东618，从2019年6月1日0点到6月18日24点，京东累计下单金额达2015亿。电商繁荣的背后是技术的不断升级。作为一家解决“最后3公里”的即时物流平台，达达公布了京东618期间的物流数据：6月18日11时30分--13时30分，一顿午饭的时间，达达骑士已将超过100万个包裹送达用户手中。<span style="margin: 0px; font-family: 微软雅黑; font-size: 10.5pt;"></span>
+</p>
+<p><br/></p>
+<p style="text-indent: 2em;">达达以庞大的运力迎战物流配送挑战，帮助电商平台和众多商家化解大促期间激增的订单压力，保障了末端“最后3公里”的高效履约。在这张覆盖全国几百个城市和几百万配送员的强大运力网络背后，有京东云可靠的产品和技术，来保障达达系统的稳定性和高效性。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">达达是中国领先的同城速递信息服务平台，目前已覆盖全国 450 多个主要城市，服务超过 120 万商家用户和超 7000 万个人用户，日单量峰值达到千万级。京东云携手达达，利用云计算、大数据和人工智能等数字化技术助力达达打造物流信息服务开放平台的生态体系，连接O2O商业平台、品牌商家、骑手和消费者，致力于解决“最后3公里”的配送问题，帮助众多面向消费者的线上平台实现O2O的商业闭环。<span style="margin: 0px; font-family: 微软雅黑; font-size: 10.5pt;"></span>
+</p>
+<p><br/></p>
+<p style="text-indent: 2em;">达达业务系统具备典型的互联网特征，年度或季节商家大促期间、每日用餐高峰期，流量呈爆发式增长，并且业务7*24小时不停顿， 对专线延时、接入负载均衡性能、应用服务器弹性伸缩能力、分库分表后数据库数据一致性、大数据实时计算的实时性和架构双活能力有极高的要求。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云是京东集团旗下云计算服务商，为客户提供全栈式、全频段、全场景、全生态的云服务，是京东集团对外技术赋能的主要窗口。依托京东集团在电商领域多年深耕所积累的运营和技术经验，2016年京东云上线SaaS模式的电商平台，并以此为基础逐步支持批发零售、品牌商城、社交电商等多种电商场景。在近日艾瑞发布的最新企业级SaaS行业报告中，京东云位列中国零售电商首位。针对达达的业务需求，京东云提出了如下解决方案：</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">•&nbsp;利用京东云海量资源和弹性伸缩的能力，削峰填谷，应对6.18和11.11等大促期间突发流量。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">•&nbsp;京东云SuperHA能力，帮助业务采用双活模式部署，将流量在多个可用区间灵活调度，将整体可用性提高到99.99%。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">•&nbsp;CPS云物理服务器像交付云主机一样交付物理服务器，同时保证性能。让数据库服务器轻松应对高性能、高并发场景；让大数据平台处理能力更强、效率更高。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">•&nbsp;定制高性能负载均衡服务器，同时高性能SDN保证虚拟网卡PPS等指标，保证流量和订单爆发时，负载均衡仍能够稳定运行。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">•&nbsp;多链路专线BGP调度建立稳定可靠、高带宽、低延时的高速通道。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">•&nbsp;利用京东云持续交付和监控运维的Devops能力和运维安全管控能力，极大降低了达达应用迭代部署和持续运维的压力。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">•&nbsp;上云全生命周期VIP服务，确保7*24小时分钟级响应，为达达应用保驾护航。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">达达技术工程师表示：“京东云SuperHA高可用多机房双活能力、海量资源弹性伸缩的能力、高性能数据库、高性能负载均衡、高性能大数据平台、多链路专线BGP调度和高质量的VIP金牌服务能力保证达达业务稳定运行，解决了我们规模壁垒和效率壁垒的难题，使得我们能够从容应对6.18和11.11等大促期间流量和订单的暴增。与此同时，京东云上云全生命周期服务响应，帮助我们构建持续交付、监控运维和细粒度安全管控的Devops能力，极大简化了我们运维人员的工作难度，降低了运维的压力和成本。”</p>
+<p><br/></p>
+<p style="text-indent: 2em;">随着5G时代的来临和互联网的不断发展，未来，配送服务将更加多样化。作为互联网即时物流的行业领导者，相信达达会继续在商业和技术模式上不断创新，来最大化满足用户的个性化需求。伴随着京东云技术的不断发展与更新，会带给达达更加先进与创新的技术驱动力，来助力其 “云系统”稳定运行，以及“云物流”高效运转，进而带给广大用户和消费者更多便利与想象空间。<span style="margin: 0px; font-family: 微软雅黑; font-size: 10.5pt;"></span>
+</p>
+<p style="text-indent: 2em;"><span style="margin: 0px; font-family: 微软雅黑; font-size: 10.5pt;"></span>
+<br/></p>
+<p style="text-indent: 2em;"><span style="margin: 0px; font-family: 微软雅黑; font-size: 10.5pt;"></span>
+<br/></p>
+<p style="text-indent: 2em;"><br/><span style="margin: 0px; line-height: 150%; font-family: 微软雅黑; font-size: 10.5pt;"></span>
+<br/></p>
+<p><br/></p>
