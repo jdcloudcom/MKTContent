@@ -1,0 +1,22 @@
+<p style="text-indent: 2em;">6月24日，由Cloud Native Computing Foundation (CNCF) 主办的云原生技术大会 KubeCon + CloudNativeCon + Open Source Summit在上海世博中心盛大开幕。来自全球的开源行业专家学者与科技人才齐聚一堂，共赴这场为期3天的业内顶级技术“盛宴”。京东云作为云原生领域的技术深耕者，分享了自主研发的容器镜像延迟加载技术，并现场展示了京东云在“云原生”和“助力产业互联网“方面的丰硕成果。</p>
+<p><br/></p>
+<p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/0b2bb69e-d42a-4e69-8811-e1b69612060920190628150608.png" title="" alt="京东云携Cloud-Native云原生服务解决方案亮相KubeCon.png"/></p>
+<p><br/></p>
+<p style="text-indent: 2em;">自2017年LC3开源大会首度落地中国以来，以 Kubernetes、容器为代表的云原生技术逐步成为IT界专家学者与企业的热门议题。作为CNCF云原生基金会会员， 京东一直都在利用自身丰富的业务场景来推动开源技术的应用实践，不断为开源生态贡献价值，从而带动整个产业的技术发展。目前在京东运营着全世界最大规模的Docker集群、Kubernetes集群，以及最复杂的Vitess集群之一。BaaS区块链底层核心技术JD Chain 在今年3月正式对外开源并同步上线开源社区，旨在为企业级用户和开发者提供开源服务。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">京东云作为京东集团旗下的全平台云计算综合服务提供商，对外商用以来，逐渐将集团内部多年积累的云原生开发和运维能力标准化为Kubernetes集群、微服务平台、Devops、函数服务、云安全、API网关等上百种标准的云服务，方便客户利用京东云服务的强大能力，快速、安全、高可靠地交付产品。2019年4月，京东云正式通过CNCF启动的Kubernetes全球一致性认证，确保用户的原有工作负载可以轻松迁移到京东云Kubernetes集群，并保障兼容性和稳定性。京东云Kubernetes集群服务采用管理节点全托管的方式，简化了Kubernetes部署、管理的程序，降低了Kubernetes使用门槛，大大增强了应用的可靠性，帮助用户提升开发的效率，减少资源投入成本。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">在全球权威调研机构Forrester发布的《中国企业容器平台厂商格局，2019 Q2》报告中，京东云凭借在容器技术方面的深厚积淀和出色的商业化表现，跻身中等体量厂商阵营。京东云依托京东集团多年来在容器集群、人工智能、大数据等方面领先的技术优势和丰富的业务场景，成功打造出容器镜像仓库产品，并与创新型容器产品-原生容器和Kubernetes集群服务无缝集成，为基于容器的应用提供一站式部署服务，为用户提供简单易用、高可靠、功能强大的容器管理服务。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">会上，京东云技术专家带来了《利用延迟加载快速启动Docker容器》的主题演讲，通过京东云自主研发的容器镜像延迟加载技术，优化Docker镜像的加载过程，显著提高了容器的启动速度。在场外，京东云展区围绕“云原生”和“助力产业互联网“的主题，通过讲师互动、Demo演示等环节展示京东云在助力企业发展的应用实践。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">同时，现场还揭秘了京东云Cloud Native云原生服务解决方案，依托京东云微服务平台、Kubernetes集群服务、Serverless架构服务和DevOps，从资源编排管理、持续交付、全链路监控到智能日志跟踪分析全方位优化生产运维，保障高效、敏捷管理。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/857568fa-fe46-464b-b335-e7d79e05299720190628151116.jpg" title="" alt="未标题-2.jpg"/></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center;"><strong>京东云Cloud Native产品架构图</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">在当今时代“全民上云”的大潮中，越来越多的应用直接创建和部署在云上，云原生技术已然成为企业智能化与数字化转型变革的重要驱动力。未来，京东云还将继续加大在云原生技术方面的投入，产品与服务不断更新与创新；并希望依托深耕多年的云原生技术业务实践和自主研发的云原生服务解决方案，将云原生计算与企业管理深度融合，通过云原生技术赋能企业，帮助企业数字化转型，为企业发展创造更高的商业价值。</p>
+<p><br/></p>
+<p style="text-align: center;"></p>
+<p></p>
