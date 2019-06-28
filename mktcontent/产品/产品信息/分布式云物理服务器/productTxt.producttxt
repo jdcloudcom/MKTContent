@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"分布式云物理服务器\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/edcps\",\"classTag\":\"\"}],\"desc\":\"分布式云物理服务器是基于边缘节点的弹性物理服务租赁服务，提供给您云端专用的高性能、安全隔离的物理服务器集群，京东云将为您提供便捷的计算、存储、网络的部署与管理。\\n\\n\"}",
+		"id":1343
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"弹性\",\"proName\":\"提供多种服务器配置供选择，支持在线购买，快速扩容。\"},{\"showShade\":false,\"proGood\":\"易用\",\"proName\":\"快速部署，丰富的控制台功能。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"全面\",\"proName\":\"支持内网和外网服务，动态调整弹性公网带宽。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"省心\",\"proName\":\"7*24小时运维。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"节省\",\"proName\":\"按需购买，按量付费。\"}]",
+		"id":1344
+	},
+	{
+		"txt":"[{\"funcName\":\"灵活配置\",\"funcContent\":[{\"funcTitle\":\"丰富的机型配置\",\"funcP\":\"机型采购于国际信赖的一流服务器厂商，包括惠普、浪潮、戴尔、联想、华为、IBM 等，为您提供可靠的硬件环境，同时提供边缘标准计算型、边缘效能型和边缘标准存储型，满足不同用户场景需求。更多机型即将上线。\"},{\"funcTitle\":\"可配置RAID模式\",\"funcP\":\"对于系统盘统一提供RAID1模式，保证系统盘的高可用性。对于数据盘用户可根据业务需求选择NO RAID、RAID0、RAID1或RAID10。\"},{\"funcTitle\":\"灵活的计费方式\",\"funcP\":\"提供包年包月的计费方式，按需购买、按量付费，无需一次性投入大量资金。\"}]},{\"funcName\":\"服务器管理\",\"funcContent\":[{\"funcTitle\":\"自动化部署\",\"funcP\":\"提供标准CentOS和Ubuntu操作系统的自动化安装。\"},{\"funcTitle\":\"主机生命周期管理\",\"funcP\":\"通过控制台可执行开机、关机、重启、重装操作系统等操作。独立于数据网络之外的专用管理网络，在数据网络发生故障或者设备宕机的情况下，可通过带外管理系统远程管理和维护故障设备。\"}]},{\"funcName\":\"网络支持\",\"funcContent\":[{\"funcTitle\":\"隔离、灵活的网络配置\",\"funcP\":\"用户可升配公网带宽最高至200Mbps，动态扩容公网。依托京东云数据中心高速的网络设备实现内网互通互连，提供高质量、高速度、低时延的内网环境。用户之间内部网络互相隔离，安全可靠。用户可根据自己的偏好选择内网CIDR网段。\"}]},{\"funcName\":\"维护\",\"funcContent\":[{\"funcTitle\":\"7*24小时运维\",\"funcP\":\"京东云提供 7 x 24 小时的运维服务，自动调度 IDC 现场以及厂商资源，恢复服务器至可用状态，使您把精力专注于业务。\"}]}]",
+		"id":1345
+	},
+	{
+		"txt":"[{\"name\":\"视频监控\",\"instruction\":\"政府、安防、商业等多类场景视频监控需求，视频流众多，存储容量需求大，直接上云带宽成本高、质量服务保障难度大。分布式云物理服务器可提供同城同区就近高性能计算，高性能存储服务器，解决视频收流、存储、智能分析，实现低成本、高质量的智能监控、存储。\\n\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/5ee9d331-4e5c-46fb-93be-03fa1cfdaf3a20190617112010.png\",\"showShade\":false}]",
+		"id":1346
+	},
+	{
+		"txt":"{\"price\":\"//docs.jdcloud.com/distributed-cloud-physical-server/price-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1347
+	}
+]
