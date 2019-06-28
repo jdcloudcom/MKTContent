@@ -2353,7 +2353,7 @@
 		"id":3533
 	},
 	{
-		"name":"JDSystem VMware混合云",
+		"name":"JDSystem混合云一体机",
 		"description":"面向关键应用的JDSystem混合云解决方案",
 		"id":3535
 	},
@@ -2363,25 +2363,58 @@
 		"id":3537
 	},
 	{
-		"name":"JDSystem Citrix云",
+		"name":"JDSystem 云桌面一体机",
 		"description":"结合Citrix桌面虚拟化技术，私有化部署的云桌面解决方案",
 		"id":3539
 	},
 	{
-		"name":"JDSystem HCI混合云",
+		"name":"JDSystem 云簇混合云",
 		"description":"面向政企客户、中小企业的超融合混合云解决方案",
 		"id":3541
 	},
 	{
-		"name":"JDSystem云影像",
+		"name":"JDSystem云影像一体机",
+		"description":"面向医疗行业的影像云一体机",
 		"id":3543
 	},
 	{
-		"name":"JDSystem应用立方体",
+		"name":"JDSystem应用管理平台",
+		"description":"基于容器的应用承载和管理平台",
 		"id":3545
 	},
 	{
-		"name":"JDSystem Console",
+		"name":"JDSystem Console控制台",
+		"description":"数据中心运营管理、服务管理",
 		"id":3547
+	},
+	{
+		"name":"JDSystem边缘计算一体机",
+		"description":"融合网络、计算、存储、应用核心能力的分布式开放平台，就近提供边缘智能服务",
+		"id":3549
+	},
+	{
+		"name":"边缘物理计算服务",
+		"description":"覆盖海量边缘节点，为客户提供计算存储服务",
+		"id":3551
+	},
+	{
+		"name":"IDC 平台",
+		"description":"IDC 平台",
+		"id":3553
+	},
+	{
+		"name":"智能 IDC 电商平台",
+		"description":"智能 IDC 电商平台",
+		"id":3555
+	},
+	{
+		"name":"京灵服务机器人",
+		"description":"京灵服务机器人",
+		"id":3557
+	},
+	{
+		"name":"分布式云物理服务器",
+		"description":"基于边缘节点的弹性物理服务器租赁服务",
+		"id":3559
 	}
 ]
