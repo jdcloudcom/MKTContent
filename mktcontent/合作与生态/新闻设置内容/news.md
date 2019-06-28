@@ -1014,5 +1014,29 @@
 		"jss_key":"News_Content_559",
 		"id":559,
 		"news_title":"设计驱动，乡村振兴： 首届中国（怀化）乡村振兴设计创新大赛正式启动"
+	},
+	{
+		"summary":"6月27日，刚刚顺利完成京东618重保任务的京东AI与京东云联合举办“AI+京东云 大有可为”沟通会，阐释了京东云“AI+云计算”的云智能全价值链产业赋能新战略。",
+		"image_url":"//img1.jcloudcs.com/cms/ac1538ed-f0ba-483d-81e4-5bd15148ab6f20190628144610.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_560",
+		"jss_key":"News_Content_560",
+		"id":560,
+		"news_title":"京东AI+京东云： 搭建最具产业属性的云智能  为社会创造技术普惠价值"
+	},
+	{
+		"summary":"6月24日，由Cloud Native Computing Foundation (CNCF) 主办的云原生技术大会 KubeCon + CloudNativeCon + Open Source Summit在上海世博中心盛大开幕。",
+		"image_url":"//img1.jcloudcs.com/cms/f278bc0a-7de5-417e-8bf3-2cce3707cd7820190628150316.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_561",
+		"jss_key":"News_Content_561",
+		"id":561,
+		"news_title":"京东云携Cloud Native云原生服务解决方案亮相KubeCon"
+	},
+	{
+		"summary":"现如今，随着O2O的全面发展与应用，给物流等各个行业带来便捷，也给人们的生活带来了新的变化，方便人们的生活。",
+		"image_url":"//img1.jcloudcs.com/cms/e9474895-d197-4020-9380-788f9930f6c420190628215753.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_562",
+		"jss_key":"News_Content_562",
+		"id":562,
+		"news_title":"京东云助力达达“云物流”建设   保障“最后3公里”高效配送"
 	}
 ]
