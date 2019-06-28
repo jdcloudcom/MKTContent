@@ -1,0 +1,234 @@
+<div class="jdc-delivery">
+  <div class="jdc-delivery-banner">
+    <div class="w">
+      <div class="txt-box">
+        <h3 class="tit">京东云上速递</h3>
+        <a href="//www.jdcloud.com/news/subscription"
+           class="jdc-banner-btn jdc-btn-sm mr10" clstag="News|keycount|SectionBannerSec|1" target="_blank">
+          订阅礼遇</a>
+        <a href="//www.jdcloud.com/news/journal"
+           class="jdc-banner-btn jdc-btn-sm" clstag="News|keycount|SectionBannerSec|2" target="_blank">了解更多</a>
+      </div>
+      <div class="delivery-box">
+        <strong>7</strong>月刊
+      </div>
+    </div>
+  </div>
+  <div class="w">
+    <div class="jdc-delivery-first">
+      <div class="f-cb">
+        <div class="editor-img">
+          <img src="https://img1.jcloudcs.com/portal/delivery/delivery_icon03.png" alt="">
+        </div>
+        <div class="editor-txt">
+          <div class="tit">云行业热点</div>
+          <div class="txt">
+            1、“京东云大数据基础服务平台”入选工信部“十佳大数据案例” <br>
+            2、	博睿指数 | 2019年5月云主机性能评测报告，京东云-北京、上海双居榜首 <br>
+            3、艾瑞发布最新企业级SaaS行业报告 京东云位列中国零售电商首位 <br>
+          </div>
+        </div>
+      </div>
+      <div class="jdc-delivery-news m-monthly-bg">
+        <div class="jdc-delivery-news-hd">
+          <h3>新闻二三事</h3>
+        </div>
+        <div class="jdc-delivery-news-bd row">
+          <div class="col-4 col-xs-12">
+            <div class="jdc-delivery-news-item jdc-delivery-news-item-two">
+              <img src="https://img1.jcloudcs.com/portal/delivery/delivery201907_1.jpg"
+                   alt="“京东云大数据基础服务平台”入选工信部“十佳大数据案例”">
+              <div class="jdc-delivery-news-content">
+                <div class="tit">
+                  <img src="https://img1.jcloudcs.com/portal/delivery/delivery_icon04.png">
+                  <span><a href="https://www.jdcloud.com/cn/news/detail/539"
+                           clstag="News|keycount|MiddleContentSec|1_1"
+                           target="_blank">“京东云大数据基础服务平台”入选工信部“十佳大数据案例”</a></span>
+
+                </div>
+                <div class="txt">
+                  由工业和信息化部指导，国家工业信息安全发展研究中心承办的《大数据优秀产品和应用解决方案案例集（2019）》发布会，进行了“十佳大数据案例”的揭晓。京东云大数据基础服务平台斩获“十佳大数据案列”殊荣。
+                </div>
+                <div class="more-box">
+                  <a href="https://www.jdcloud.com/cn/news/detail/539"
+                     clstag="News|keycount|MiddleContentSec|1_2"
+                     target="_blank">详情&gt;&gt;</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-4 col-xs-12">
+            <div class="jdc-delivery-news-item jdc-delivery-news-item-two">
+              <img src="https://img1.jcloudcs.com/portal/delivery/delivery201907_2.jpg"
+                   alt="博睿指数 | 2019年5月云主机性能评测报告，京东云-北京、上海双居榜首">
+              <div class="jdc-delivery-news-content">
+                <div class="tit">
+                  <img src="https://img1.jcloudcs.com/portal/delivery/delivery_icon04.png">
+                  <span><a href="https://mp.weixin.qq.com/s/10covafSw1EgpH7V4DLF-Q"
+                           clstag="News|keycount|MiddleContentSec|2_1"
+                           target="_blank">博睿指数 | 2019年5月云主机性能评测报告，京东云-北京、上海双居榜首</a></span>
+
+                </div>
+                <div class="txt">
+                  在博睿指数发布的2019年5月云主机性能综合排行榜中，京东云-北京蝉联榜首，金山云-北京和腾讯云-北京分列第二、三名。此前，在2月、3月、4月的云主机性能评测报告中，“京东云-北京”均居第一。
+                </div>
+                <div class="more-box">
+                  <a href="https://mp.weixin.qq.com/s/10covafSw1EgpH7V4DLF-Q"
+                     clstag="News|keycount|MiddleContentSec|2_2"
+                     target="_blank">详情&gt;&gt;</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-4 col-xs-12">
+            <div class="jdc-delivery-news-item jdc-delivery-news-item-two">
+              <img src="https://img1.jcloudcs.com/portal/delivery/delivery201907_3.jpg"
+                   alt="艾瑞发布最新企业级SaaS行业报告 京东云位列中国零售电商首位">
+              <div class="jdc-delivery-news-content">
+                <div class="tit">
+                  <img src="https://img1.jcloudcs.com/portal/delivery/delivery_icon04.png">
+                  <span><a href="https://www.jdcloud.com/cn/news/detail/538"
+                           clstag="News|keycount|MiddleContentSec|3_1"
+                           target="_blank">艾瑞发布最新企业级SaaS行业报告 京东云位列中国零售电商首位</a></span>
+
+                </div>
+                <div class="txt">
+                  近日，艾瑞发布了《2019年中国企业级SaaS行业研究报告》。其中，京东云借助其优秀的电商云SaaS产品，位列行业垂直图谱“零售电商”区域首位。
+                </div>
+                <div class="more-box">
+                  <a href="https://www.jdcloud.com/cn/news/detail/538"
+                     clstag="News|keycount|MiddleContentSec|3_2"
+                     target="_blank">详情&gt;&gt;</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="jdc-delivery-product m-monthly-bg">
+        <div class="jdc-delivery-news-hd">
+          <h3>产品大揭秘</h3>
+        </div>
+        <div class="jdc-delivery-product-bd row">
+          <div class="col-4 col-xs-12">
+            <div class="jdc-delivery-product-item">
+              <h5 class="jdc-delivery-product-tit">
+                <i></i>
+                <div class="tit"><a href="https://www.jdcloud.com/cn/news/detail/536"
+                                    clstag="News|keycount|MiddleContentSec|4_1"
+                                    target="_blank">京东云带来云迁移实践指南 发布《云迁移技术白皮书》</a></div>
+              </h5>
+              <div class="jdc-delivery-product-txt">
+                随着云时代的兴起，正在催生着以移动端应用为主的全新业务模式，渲染业务云化发展是大势所趋。渲云借助京东云产品和平台作技术为输出口，打造公有云渲染平台，为用户量身制定安全、极速、低成本的渲染解决方案。
+              </div>
+              <div class="jdc-delivery-product-more"><a href="https://www.jdcloud.com/cn/news/detail/536" clstag="News|keycount|MiddleContentSec|4_2" target="_blank">&gt;&gt;</a></div>
+            </div>
+          </div>
+
+          <div class="col-4 col-xs-12">
+            <div class="jdc-delivery-product-item">
+              <h5 class="jdc-delivery-product-tit">
+                <i></i>
+                <div class="tit"><a href="https://www.jdcloud.com/cn/news/detail/543"
+                                    clstag="News|keycount|MiddleContentSec|5_1"
+                                    target="_blank">京东云NF1 ADC免费开放试用 带给企业级用户最佳实践体验</a></div>
+              </h5>
+              <div class="jdc-delivery-product-txt">
+                近日，京东云更新了一款应用交付产品—NF1 ADC，其经历多次京东商城大促考验，是公有云技术在京东商场的最佳实践，申请通过的用户将会获得30天免费产品试用以及试用期内京东云专业技术支持服务哦。
+              </div>
+              <div class="jdc-delivery-product-more"><a href="https://www.jdcloud.com/cn/news/detail/543" clstag="News|keycount|MiddleContentSec|5_2" target="_blank">&gt;&gt;</a></div>
+            </div>
+          </div>
+          <div class="col-4 col-xs-12">
+            <div class="jdc-delivery-product-item">
+              <h5 class="jdc-delivery-product-tit">
+                <i></i>
+                <div class="tit"><a href="https://www.jdcloud.com/cn/news/detail/546"
+                                    clstag="News|keycount|MiddleContentSec|6_1"
+                                    target="_blank">解密京东云618技术：首次全面启用IPv6访问支持</a></div>
+              </h5>
+              <div class="jdc-delivery-product-txt">
+                在刚刚结束的京东618，从2019年6月1日0点到6月18日24点，京东累计下单金额达2015亿。经过16年的发展，京东618不断跃上新台阶。而背后支持着海量订单顺利生产交付的，也有京东云稳如磐石的技术体系贡献的力量。
+              </div>
+              <div class="jdc-delivery-product-more"><a href="https://www.jdcloud.com/cn/news/detail/546"
+                                                        clstag="News|keycount|MiddleContentSec|6_2"
+                                                        target="_blank">&gt;&gt;</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="jdc-delivery-help m-monthly-bg">
+        <div class="jdc-delivery-news-hd">
+          <h3>解决方案帮帮忙</h3>
+        </div>
+        <div class="jdc-delivery-help-bd row">
+          <div class="col-4 col-xs-12 jdc-delivery-help-xs">
+            <a href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution"
+               clstag="News|keycount|MiddleContentSec|7"
+               target="_blank">
+              <div class="jdc-delivery-help-item">
+                <img src="https://img1.jcloudcs.com/portal/delivery/delivery_icon05.png" alt="">
+                <div class="tit">
+                  <h5>智能农业解决方案</h5>
+                </div>
+                <div class="line"></div>
+                <div class="txt">
+                  <p>数字化生产及经营</p>
+
+                  <p>区域公用农特品牌</p>
+
+                  <p>数字农业技术培训</p>
+
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-4 col-xs-12 jdc-delivery-help-xs">
+            <a href="https://www.jdcloud.com/cn/solutions/intelligent-culture-and-tourism-solution"
+               clstag="News|keycount|MiddleContentSec|8"
+               target="_blank">
+              <div class="jdc-delivery-help-item">
+                <img src="https://img1.jcloudcs.com/portal/delivery/delivery_icon06.png" alt="">
+                <div class="tit">
+                  <h5>智能文旅解决方案</h5>
+                </div>
+                <div class="line"></div>
+                <div class="txt">
+                  <p>智能文旅管理中心</p>
+
+                  <p>智能游客服务平台</p>
+
+                  <p>旅游产品无界零售</p>
+
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-4 col-xs-12 jdc-delivery-help-xs">
+            <a href="https://www.jdcloud.com/cn/solutions/industrial-internet-solution"
+               clstag="News|keycount|MiddleContentSec|9"
+               target="_blank">
+              <div class="jdc-delivery-help-item">
+                <img src="https://img1.jcloudcs.com/portal/delivery/delivery_icon07.png" alt="">
+                <div class="tit">
+                  <h5>工业互联网解决方案</h5>
+                </div>
+                <div class="line"></div>
+                <div class="txt">
+                  <p>工业经济运行监测</p>
+
+                  <p>创新应用服务平台</p>
+
+                  <p>智能制造产业集群</p>
+
+                </div>
+              </div>
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
