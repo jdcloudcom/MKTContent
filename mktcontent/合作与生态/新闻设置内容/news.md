@@ -982,5 +982,21 @@
 		"jss_key":"News_Content_545",
 		"id":545,
 		"news_title":"JD Cloud Appeared at the 7th China Cyber Security Conference to Discuss \"Building the Full Life Cycle Security Protection System for Users\""
+	},
+	{
+		"summary":"JD 618 Shopping Festival has been just concluded. The accumulative order amount of JD from 00:00 on June 1, 2019 to 24:00 on June 18 has reached RMB 201.5 billion. Over 16 years of development, JD 618 Shopping Festival has reached a new stage. However, the smooth production and delivery of massive orders have been supplied by the solid technical systems of JD Cloud.",
+		"image_url":"//img1.jcloudcs.com/cms/52ba28c0-b434-48e8-b122-2be0ea50626720190625181728.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_546",
+		"jss_key":"News_Content_546",
+		"id":546,
+		"news_title":"Reveal the secrets of JD Cloud’s 618 Shopping Festival Technology: Overall Enabling of IPv6 Access Support for the First Time"
+	},
+	{
+		"summary":"\"JD and Yuxi City work together with their advantages to create an intelligent future.\" In the afternoon on June 25, the signing ceremony for cooperaton of the \"Internet+\" New Economy Project between Yuxi Municipal People’s Government and JD Group was successfully held in Kunming, Yunnan.",
+		"image_url":"//img1.jcloudcs.com/cms/20365eb4-8ab8-4b12-b3fa-4b281b6ce25020190625185118.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_547",
+		"jss_key":"News_Content_547",
+		"id":547,
+		"news_title":"The \"Internet+\" New Economy Project Between Yuxi Municipal People’s Government and JD Cloud Was Officially Signed"
 	}
 ]

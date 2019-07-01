@@ -474,5 +474,17 @@
 	{
 		"id":702,
 		"title":"Notice on Suspension of Distributed Relational Database Service (DRDS) Console"
+	},
+	{
+		"id":703,
+		"title":"\\[Vulnerability Warning\\] Coremail Configuration Information Leakage 0day Vulnerability"
+	},
+	{
+		"id":704,
+		"title":"\\[Vulnerability Warning\\] Oracle WebLogic Remote Code Execution Vulnerability (CVE-2019-2725 Patch Bypass)"
+	},
+	{
+		"id":705,
+		"title":"Notice on Official Launch and Charging of Cloud File Service"
 	}
 ]

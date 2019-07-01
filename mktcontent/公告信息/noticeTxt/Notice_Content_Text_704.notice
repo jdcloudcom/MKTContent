@@ -1,0 +1,19 @@
+<p><br/></p>
+<p>On June 15, 2019, it was revealed that Oracle WebLogic had 0day command execution vulnerabilities that attackers can send carefully-constructed malicious HTTP requests. If the command is remotely executed without authorization, the risk is extremely high.<br/></p>
+<p><br/></p>
+<p><strong>[Vulnerability Rating]</strong></p>
+<p>Severe</p>
+<p><br/></p>
+<p><strong>[Influence Range]</strong></p>
+<p>10.3.6.0.0</p>
+<p>12.1.3.0.0</p>
+<p><br/></p>
+<p><strong>[Security Recommendations]</strong></p>
+<p>Note: Business may be unavailable due to any one of the following repair methods</p>
+<p><br/></p>
+<p>1. Delete related components of wls-wsat.war and bea_wls9_async_response and reboot WebLogic, such as bea_wls9_async_response.war, com.oracle.webservices.wls.bea-wls9-async-response_*.war and wls-wsat.war</p>
+<p>2. Disable Internet access to paths /_async/* and /wls-wsat/* with Identity and Access Management strategy</p>
+<p>3. WebLogic ports are forbidden to access any external address or are allowed to access specific safe ip addresses only through the JD Cloud Security Group</p>
+<p><br/></p>
+<p>We will focus on successive development. Please pay attention to the official announcement.</p>
+<p><br/></p>

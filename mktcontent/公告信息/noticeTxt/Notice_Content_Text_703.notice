@@ -1,0 +1,11 @@
+<p><br/></p>
+<p>On June 14, 2019, it was revealed that Coremail had 0day vulnerability that Coremail’s configuration files and other sensitive information can be remotely obtained through this vulnerability, causing great risks. But JD Cloud’s platform products were not affected.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Description]</strong></p>
+<p><br/></p>
+<p>Coremail is a large-scale email system and a professional email software product with proprietary intellectual property rights, having 1 billion terminal users in the Chinese mainland. However, it is revealed that Coremail mailsms interface configuration has read and write vulnerability and it is proved that sensitive information can be obtained through configuration documents due to this vulnerability, including database configuration, ip, port, etc. This risk is very high. Users shall upgrade the patches as soon as possible.</p>
+<p><br/></p>
+<p><strong>[Security Recommendations]</strong></p>
+<p><br/></p>
+<p>Coremail has released the fix-up patch for Version Coremail XT5 and Version Coremail XT3/CM5 and the patch number is CMXT5-2019-0002. If the date of installed package version number is earlier than May 24, 2019, it is suggested that the user shall timely update the patches.</p>
+<p><br/></p>
