@@ -1038,5 +1038,13 @@
 		"jss_key":"News_Content_562",
 		"id":562,
 		"news_title":"京东云助力达达“云物流”建设   保障“最后3公里”高效配送"
+	},
+	{
+		"summary":"2019年6月28日，“通”上京东 百业齐放-南通云商大会，在南通金石国际大酒店盛大开幕。本次活动由南通市工业和信息化局、崇川区人民政府、中央创新区管委会和京东集团主办，京东云承办。会议聚集政府、京东、企业和行业专家，致力推进南通数字经济急速前行，打造南通数字产业带。",
+		"image_url":"//img1.jcloudcs.com/cms/b868bd01-f8c6-437e-906c-36629d56e16f20190701153920.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_563",
+		"jss_key":"News_Content_563",
+		"id":563,
+		"news_title":"“通”上京东 百业齐放 南通云商大会顺利召开"
 	}
 ]
