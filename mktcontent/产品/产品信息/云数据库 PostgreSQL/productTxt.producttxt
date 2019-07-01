@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云数据库 PostgreSQL\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"http://answer.jd.com/jump/?shortCode=hFruhtrEdJAd&surveyId=1616046\",\"classTag\":\"\"}],\"desc\":\"云数据库 PostgreSQL 是京东云基于开源的 PostgreSQL 10.6 版本构建的一款功能强大的关系型数据库，其内置支持丰富的数据类型（JSON、XML、文本等等）。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云数据库 PostgreSQL\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://rds-console.jdcloud.com/rds/create?dataCenter=cn-north-1\",\"classTag\":\"\"}],\"desc\":\"云数据库 PostgreSQL 是京东云基于开源的 PostgreSQL 10.6 版本构建的一款功能强大的关系型数据库，其内置支持丰富的数据类型（JSON、XML、文本等等）。\"}",
 		"id":880
 	},
 	{
