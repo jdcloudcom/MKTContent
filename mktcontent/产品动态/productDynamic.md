@@ -1774,5 +1774,47 @@
 		"name":"上海地域支持3AZ",
 		"description":"支持上海第3个AZ，跨地域部署实例支持节点分布在3个AZ。",
 		"id":2321
+	},
+	{
+		"introduce":"kubernetes 集群接入IAM主子账号",
+		"name":"kubernetes 集群接入IAM主子账号",
+		"description":"kubernetes 集群接入IAM主子账号，子账号支持Kubernetes 集群查询、删除权限，支持工作节点组查询、删除、伸缩权限。",
+		"id":2322
+	},
+	{
+		"introduce":"上海上线第三可用区",
+		"name":"上海上线第三可用区",
+		"description":"上海上线第三可用区",
+		"id":2323
+	},
+	{
+		"introduce":"角色管理",
+		"name":"角色管理",
+		"description":"便捷地创建、管理角色，指定子用户，跨账号的用户，服务来代表用户管理和操作京东云资源，通过给角色绑定策略控制扮演该角色所能执行的操作和访问的资源。",
+		"id":2324
+	},
+	{
+		"introduce":"华东-上海新增一个可用区C",
+		"name":"华东-上海新增一个可用区C",
+		"description":"云数据库 MySQL 华东-上海新增一个可用区C",
+		"id":2325
+	},
+	{
+		"introduce":"华东-上海新增一个可用区C",
+		"name":"华东-上海新增一个可用区C",
+		"description":"云数据库 Percona 在华东-上海新增一个可用区C",
+		"id":2326
+	},
+	{
+		"introduce":"华东-上海新增一个可用区C",
+		"name":"华东-上海新增一个可用区C",
+		"description":"云数据库 MariaDB 华东-上海新增一个可用区C",
+		"id":2327
+	},
+	{
+		"introduce":"华东-上海新增一个可用区C",
+		"name":"华东-上海新增一个可用区C",
+		"description":"云数据库 SQL Server 在华东-上海新增一个可用区C",
+		"id":2328
 	}
 ]
