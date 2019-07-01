@@ -17,6 +17,20 @@
       <div class="journal-tab-bd journal-tab1 row current">
 		<div class="jdc-journal-item col-6 col-xs-12">
           <div class="item-bg">
+			<div class="item-hd">京东云上速递 | 第七期</div>
+            <div class="item-bd row">
+              <div class="col-6 img-box"><img src="https://img1.jcloudcs.com/portal/journal/delivery201907.jpg"></div>
+              <div class="col-6 txt-box"><p class="txt">
+                仲夏伊始，芒种之时，京东云连赢数奖。“京东云大数据基础服务平台”入选工信部“十佳大数据案例”；博瑞指数评测“京东云-北京”夺得综合排行榜冠军；收获满满，永葆初心，京东云与您一起，预见无限可能。</p>
+ <a
+                clstag="News|keycount|MiddleContentSec|delivery201907"
+                href="//www.jdcloud.com/news/delivery201907" class="jdc-btn jdc-bg">立即查看
+              </a></div>
+            </div>
+          </div>
+        </div>
+		<div class="jdc-journal-item col-6 col-xs-12">
+          <div class="item-bg">
             <div class="item-hd">京东云上速递 | 第六期</div>
             <div class="item-bd row">
               <div class="col-6 img-box"><img src="https://img1.jcloudcs.com/portal/journal/delivery201906.jpg"></div>
