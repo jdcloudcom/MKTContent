@@ -20,13 +20,13 @@
 		"label":"Compensation"
 	},
 	{
-		"name":"JD Cloud News Flash",
-		"description":"Subscribe for an awesome prize",
+		"name":"Virtual Machines",
+		"description":"Flexible expansion, pay-as-you-go, up to 40% off",
 		"id":5
 	},
 	{
-		"name":"JD Cloud App",
-		"description":"Accessing at anytime and anywhere",
+		"name":" JCS for MySQL",
+		"description":"RMB 200 vouchers for 6-months new purchas",
 		"id":6
 	},
 	{
