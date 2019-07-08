@@ -1,0 +1,95 @@
+<div class="activity-idc">
+  <div class="idc-banner">
+    <div class="w">
+      <div class="idc-banner-text">
+        <h3>Intelligent IDC E-commerce Platform of JD Cloud</h3>
+        <p>IDC E-commerce Leader and Building Intelligent IDC Alliance</p>
+
+        <a href="https://aidc.jdcloud.com/" class="jdc-banner-btn hidden-xs" clstag="Aidc|keycount|SectionBannerSec|1">View Now</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="jdc-common-nav idc-nav">
+    <ul class="jdc-common-navlst">
+      <li class="nav-item on">Platform Introduction</li>
+      <li class="nav-item">Business Type</li>
+      <li class="nav-item">Settlement Process</li>
+    </ul>
+  </div>
+
+  <div class="idc-floor">
+    <div class="idc-floor-item">
+      <div class="w">
+        <h4 class="idc-item-tit">Platform Introduction</h4>
+        <ul class="idc-intro">
+          <li>The intelligent IDC e-commerce platform of JD Cloud is the first e-commerce platform oriented to the IDC field, aiming to empower the IDC industry with JD’s e-commerce genes and public cloud technology; by building the intelligent IDC platform and IDC Alliance, IDC resources are integrated, IDC service quality is improved and infrastructures restraining traditional enterprises become accessible, such as water, coal and electricity, making enterprises focus on business innovation better.</li>
+          <li>The intelligent IDC e-commerce platform is an on-line purchasing platform providing standard and integrated IDC resources & services, with complete on-line consultation, scheme design and off-line delivery and after-sales guarantee capacities. In addition to self-support commodities of JD Cloud, settlement of manufacturers from the IDC Alliance is allowed. Referring to the quality assurance system of JD Cloud and learning from operation and maintenance experiences of JD Cloud infrastructure team for years, safe, reliable and convenient IDC services are provided to users.</li>
+          <li>At this stage, there are three major products in the e-commerce platform, including the cabinet service (hosting of Virtual Machines), device service and network service, and products of other categories are updating; at the same time, we are recruiting IDC Alliance manufacturers. You are welcome to join us and settle in.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="idc-floor-item">
+      <div class="w">
+        <h4 class="idc-item-tit">Business Type</h4>
+        <div class="idc-type">
+          <div class="idc-type-item">
+            <div class="idc-type-item-hd">Cabinet Service</div>
+            <div class="idc-type-item-bd">
+              <i class="icon1"></i>
+              <p>General Co-location Business. Enterprise users purchase servers by themselves and host these servers at data centers after installation of system and relevant software. The data centers provide complete data center facilities, high quality network environment, rich bandwidth resources and operating experience. Users can either customize DevOps Services varying in contents and levels for different data centers, or propose customized operation and maintenance requirements.</p>
+
+            </div>
+          </div>
+          <div class="idc-type-item">
+            <div class="idc-type-item-hd">Device Service</div>
+            <div class="idc-type-item-bd">
+              <i class="icon2"></i>
+              <p>On the basis of Co-location, users can also select servers, switches and other IT devices of IDC providers, having high-quality hardware maintenance service. Assist user’s information construction, simplify complicated purchase modes of enterprises, minimize single investment and effectively optimize enterprises’ investment cost.</p>
+
+            </div>
+          </div>
+          <div class="idc-type-item">
+            <div class="idc-type-item-hd">Network Service</div>
+            <div class="idc-type-item-bd">
+              <i class="icon3"></i>
+              <p>Access to China Telecom, China Unicom, China Mobile and other professional operators is provided based on customers’ demands. Single-line, BGP and several other network Bandwidth services are provided. There are bandwidth products of different specifications such as less than 100Mbps (excluding 100Mbps), 100Mbps-1Gbps (excluding 1Gbps) and 1Gbps.</p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="idc-floor-item">
+      <div class="w">
+        <h4 class="idc-item-tit">Settlement Process</h4>
+        <div class="jdc-model-process">
+          <div class="g-table">
+            <div class="g-cell">
+              <i class="icon">1</i>
+              <h4 class="tit">Register an Account</h4>
+            </div>
+            <div class="g-cell">
+              <i class="icon">2</i>
+              <h4 class="tit">Real-name Verification</h4>
+            </div>
+            <div class="g-cell">
+              <i class="icon">3</i>
+              <h4 class="tit">Settlement Application</h4>
+            </div>
+            <div class="g-cell">
+              <i class="icon">4</i>
+              <h4 class="tit">Platform Review</h4>
+            </div>
+            <div class="g-cell">
+              <i class="icon">5</i>
+              <h4 class="tit">Opening of Merchant</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

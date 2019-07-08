@@ -1738,5 +1738,83 @@
 		"name":"Enrich function creation and optimize function iteration",
 		"description":"1. During running, node.js6.17 and 8.16 are supported languages \n2. Association of alias with trigger is supported \n3. Enrich OSS function templates \n",
 		"id":2314
+	},
+	{
+		"introduce":"Support to Creation and Split of Table via DDL",
+		"name":"Support to Creation and Split of Table via DDL",
+		"description":"Tables can be created and split via DDL SQL statements, improving user experience and reducing user migration cost.",
+		"id":2316
+	},
+	{
+		"introduce":"Support Enterprise Version 2017",
+		"name":"Support Enterprise Version 2017",
+		"description":"Support SQL Server 2017 Enterprise Version and meet the demands of user’s business system for SQL Server Version.",
+		"id":2317
+	},
+	{
+		"introduce":"Support Version TiDB 2.1.8\t",
+		"name":"Support Version TiDB 2.1.8\t",
+		"description":"The TiDB 2.1.8 version, with more functions and better stability, is supported in Beijing Region.\t",
+		"id":2318
+	},
+	{
+		"introduce":"Access of JCS for Kubernetes to Operation Protection\t",
+		"name":"Access of JCS for Kubernetes to Operation Protection",
+		"description":"Operation protection is accessed to JCS for Kubernetes. When detection of JCS for Kubernetes and working node group is executed by the Console, MFA verification, SMS verification and email verification are supported.",
+		"id":2319
+	},
+	{
+		"introduce":"Support user’s resource authorization and enable operation protection and tag service\t",
+		"name":"Access Authorization Management, Operation Protection and Tag Management",
+		"description":"The user’s authorization management cross cloud primary account and API granularity of IAM sub-account is supported, operation protection to sensitive operation and deletion is supported and tag service to queue resource is supported.",
+		"id":2320
+	},
+	{
+		"introduce":"Support to 3AZ in Shanghai Region",
+		"name":"Support to 3AZ in Shanghai Region",
+		"description":"The 3rd AZ is supported in Shanghai and the distribution of nodes among 3 AZs is supported by the cross-region deployed instances.",
+		"id":2321
+	},
+	{
+		"introduce":"Access of JCS for Kubernetes to IAM Primary Account and Sub-account",
+		"name":"Access of JCS for Kubernetes to IAM Primary Account and Sub-account",
+		"description":"JCS for Kubernetes can be accessed to the primary account and sub-account of IAM; the sub-account supports search and deletion permissions of JCS for Kubernetes and permissions of search, deletion and scaling of working node groups.",
+		"id":2322
+	},
+	{
+		"introduce":"Launch of the Third Availability Zone in Shanghai",
+		"name":"Launch of the Third Availability Zone in Shanghai",
+		"description":"Launch of the Third Availability Zone in Shanghai",
+		"id":2323
+	},
+	{
+		"introduce":"Role Management",
+		"name":"Role Management",
+		"description":"Conveniently create and manage roles, specify sub-users, cross-account users and service, indicating user management and operation of JD Cloud’s resources. By associating policies with a role, resources operated and accessed by the role can be controlled.",
+		"id":2324
+	},
+	{
+		"introduce":"Add one availability zone C in cn-east-2",
+		"name":"Add one availability zone C in cn-east-2",
+		"description":"Add one availability zone C to JCS for MySQL in cn-east-2",
+		"id":2325
+	},
+	{
+		"introduce":"Add one availability zone C in cn-east-2",
+		"name":"Add one availability zone C in cn-east-2",
+		"description":"Add one availability zone C to JCS for Percona in cn-east-2",
+		"id":2326
+	},
+	{
+		"introduce":"Add one availability zone C in cn-east-2",
+		"name":"Add one availability zone C in cn-east-2",
+		"description":"Add one availability zone C to JCS for MariaDB in cn-east-2",
+		"id":2327
+	},
+	{
+		"introduce":"Add one availability zone C in cn-east-2",
+		"name":"Add one availability zone C in cn-east-2",
+		"description":"Add one availability zone C to JCS for SQL Server in cn-east-2",
+		"id":2328
 	}
 ]

@@ -170,5 +170,13 @@
 	{
 		"name":"NeuHive",
 		"id":122
+	},
+	{
+		"name":"NeuBot",
+		"id":132
+	},
+	{
+		"name":"Intelligent IDC Security Solution",
+		"id":136
 	}
 ]

@@ -1,0 +1,21 @@
+<p><strong>[Vulnerability Description]</strong></p>
+<p><br/></p>
+<p>On June 26, 2019, as detected by JD Cloud Security Team, it was revealed that the Seeyon OA office system had the upload vulnerability for any file and any authorized attacker can directly execute any code on the server through this vulnerability and get system permissions. Now, utilization of codes has been opened in the wild.</p>
+<p><br/></p>
+<p>As Seeyon OA htmlofficeservlet HTTP interface has defects when processing requests, hackers can construct special HTTP requests, execute any codes on a server through the vulnerability without login and get server permission, causing extremely-high risk.</p>
+<p><br/></p>
+<p><strong>[Hazard Level]</strong></p>
+<p><br/></p>
+<p>Severe</p>
+<p><br/></p>
+<p><strong>&nbsp; [Influence Range]</strong></p>
+<p><strong><br/></strong></p>
+<p>Seeyon A8-V5 Collaborative Management Software V6.1sp1</p>
+<p>Seeyon A8+ Collaborative Management Software V7.0, V7.0sp1, V7.0sp2 and V7.0sp3</p>
+<p>Seeyon A8+ Collaborative Management Software V7.1</p>
+<p><br/></p>
+<p><strong>[Security Recommendations]</strong></p>
+<p><br/></p>
+<p>1. Now, Seeyon has fixed up patches. Any user affected by the vulnerability can contact Seeyon to get official patches: &nbsp;<a href="http://www.seeyon.com/info/company.html" target="_blank" title="http://www.seeyon.com/info/company.html">http://www.seeyon.com/info/company.html</a></p>
+<p>2. Mitigation measures: Without affecting normal use of system, access of the server deployed on the public network to the path /seeyon/htmlofficeservlet via Internet can be restricted or external access of website can be disabled.</p>
+<p><br/></p>

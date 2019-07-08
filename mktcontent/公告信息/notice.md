@@ -486,5 +486,13 @@
 	{
 		"id":705,
 		"title":"Notice on Official Launch and Charging of Cloud File Service"
+	},
+	{
+		"id":711,
+		"title":"\\[Vulnerability Warning\\] Remove Code Execution 0day Vulnerability of Seeyon OA Office System"
+	},
+	{
+		"id":712,
+		"title":"Service Upgrade Notice on JCS for Kubernetes in cn-south-1 region"
 	}
 ]

@@ -510,5 +510,13 @@
 	{
 		"name":"Rich Media SMS",
 		"id":1267
+	},
+	{
+		"name":"Edge Physical Computing Service",
+		"id":1309
+	},
+	{
+		"name":"Distributed Cloud Physical Server",
+		"id":1311
 	}
 ]

@@ -1,7 +1,6 @@
 <p style="text-indent: 2em;">JD 618 Shopping Festival has been just concluded. The accumulative order amount of JD from 00:00 on June 1, 2019 to 24:00 on June 18 has reached RMB 201.5 billion. Over 16 years of development, JD 618 Shopping Festival has reached a new stage. However, the smooth production and delivery of massive orders have been supplied by the solid technical systems of JD Cloud.</p>
 <p><br/></p>
 <p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/c0485b29-a96e-4541-89fd-c4d69fad75a020190625181804.jpg" title="" alt="内1.jpg"/></p>
-<p><br/></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p style="text-indent: 2em;">JD Cloud’s technical systems were confronted with the great challenge during the 618 Shopping Festival. Confronting tens of billions of access traffics, millions of high concurrent requests per second and billions of real-time message pushes, the precise cooperation among hundreds of upstream and downstream systems were to be realized and it shall guarantee that the core services would not be degraded in the whole day and there would be no major accidents, proposing extremely-high requirements on the technical guarantee capacities.</p>
 <p><br/></p>
@@ -38,8 +37,8 @@
 <p><br/></p>
 <p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/362fe787-10d8-4fe6-aae9-b82c66aca30c20190625182708.jpg" title="" alt="nei4.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-indent: 2em;"><strong>Carry on JD's core business system<br/><br/></strong></p>
-<p></p>
+<p style="text-indent: 2em;"><strong>Carry on JD's core business system<br/></strong></p>
+<p><br/></p>
 <p style="text-indent: 2em;">The stable and elastic Virtual Machines service can easily cope with the high and multiple business growth and resolve the performance bottleneck when orders explode. During the 618 Shopping Festival, services are added to support core businesses of JD advertisement, core systems of JD logistics (offline retail system, international logistics system, intelligent pre-sorting engineering, foreign order installation and maintenance open system, abnormal distribution management center insight system, data hive, intra-website message, reverse processing center dispatch system) and core businesses of JD insurance, laying the technical foundation for efficient and intelligent processing of mass orders.</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">Native Container is a light weight service characterized with quick start, which can easily cope with explosive business demands; the environmental inconsistency of containers guarantees the quick iteration of application, realizing accurate advertising and bringing the best experience to users. During the 618 Shopping Festival, it provides a large scale of container cluster, totaling over 40,000 cores, which support mass concurrency business demands of JD advertisement system and steadily convoy the 618 Shopping Festival.</p>

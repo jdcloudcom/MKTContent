@@ -998,5 +998,53 @@
 		"jss_key":"News_Content_547",
 		"id":547,
 		"news_title":"The \"Internet+\" New Economy Project Between Yuxi Municipal People’s Government and JD Cloud Was Officially Signed"
+	},
+	{
+		"summary":"On June 26, JD Cloud and Beijing Qingbo Big Data Technology Co., Ltd. formally signed the Strategic Cooperation Agreement in Beijing. The Parties will realize resource sharing and make their respective advantages complementary to each other in the fields of government affairs, e-commerce, academics, new media technology and big data, and build a long-term and comprehensive sustainable development relationship.",
+		"image_url":"//img1.jcloudcs.com/cms/f27620fc-0392-46af-91f3-b3984d23081620190626120903.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_558",
+		"jss_key":"News_Content_558",
+		"id":558,
+		"news_title":"Conforming to In-depth Development Trend of Media Convergence  JD Cloud Builds Convergence Media Cloud Solutions Together with Qingbo"
+	},
+	{
+		"summary":"On June 25, 2019, the opening ceremony and news conference of the First China (Huaihua) Rural Revitalization Innovation and Startup Championship were held in Changsha. More than one hundred people coming from the Department of Culture and Tourism of Hu’nan Province, Department of Industry and Information Technology of Hu’nan Province, Huaihua Municipal Government, Management Committee of Huaihua Economic Development Zone, JD Cloud and School of Design, Hunan University as well as well-known enterprises, colleges and universities and new media representatives all over the country have participated in the ceremony.",
+		"image_url":"//img1.jcloudcs.com/cms/d7f5e3f9-9db3-495e-9398-5e21dd66700b20190627142343.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_559",
+		"jss_key":"News_Content_559",
+		"id":559,
+		"news_title":"Design-driven Rural Revitalization: First China (Huaihua) Rural Revitalization Innovation and Startup Championship was Officially Opened"
+	},
+	{
+		"summary":"On June 27, JD AI, which just completed the key protection tasks in JD 618 Shopping Festival, jointly organized the Communication Meeting on \"AI+JD Cloud Bring a Brilliant Future\" together with JD Cloud, explaining that the whole value chain industry of cloud intelligence of JD Cloud \"AI+Cloud Computing\" will empower the new strategy.",
+		"image_url":"//img1.jcloudcs.com/cms/ac1538ed-f0ba-483d-81e4-5bd15148ab6f20190628144610.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_560",
+		"jss_key":"News_Content_560",
+		"id":560,
+		"news_title":"JD AI+JD Cloud: Build Cloud Intelligence with the Most Industry Attributes  Create Inclusive Technological Value for the Society"
+	},
+	{
+		"summary":"On June 24, the grand opening ceremony of the native technology conference KubeCon + CloudNativeCon + Open Source Summit organized by the Cloud Native Computing Foundation (CNCF) was held at Shanghai World Expo Exhibition & Convention Center.",
+		"image_url":"//img1.jcloudcs.com/cms/f278bc0a-7de5-417e-8bf3-2cce3707cd7820190628150316.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_561",
+		"jss_key":"News_Content_561",
+		"id":561,
+		"news_title":"JD Cloud Appeared at KubeCon Together with Cloud Native Service Solutions"
+	},
+	{
+		"summary":"Nowadays, as O2O is developing and applying in an all-round way, it brings much convenience to people's lives by providing convenience for logistics and various other industries and new changes for people's lives.",
+		"image_url":"//img1.jcloudcs.com/cms/e9474895-d197-4020-9380-788f9930f6c420190628215753.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_562",
+		"jss_key":"News_Content_562",
+		"id":562,
+		"news_title":"JD Cloud Supports Construction of DADA \"Cloud Logistics\"   Guarantee Efficient Distribution in \"Last 3km\""
+	},
+	{
+		"summary":"On June 28, 2019, the grand opening ceremony of Nantong and JD Bloom Together - Nantong Cloud Business Conference was held at Nantong Jinshi International Hotel. This event was organized by the Industry and Information Bureau of Nantong Municipality, People's Government of Chongchuan District, Management Committee of Central Innovation District and JD Group with the assistance of JD Cloud. This conference got the government, JD, enterprises and industry experts together to focus on promoting the digital economy development in Nantong and creating Nantong's digital industry belt.",
+		"image_url":"//img1.jcloudcs.com/cms/b868bd01-f8c6-437e-906c-36629d56e16f20190701153920.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_563",
+		"jss_key":"News_Content_563",
+		"id":563,
+		"news_title":"Nantong and JD Bloom Together -- Nantong Cloud Business Conference Was Successfully Held"
 	}
 ]
