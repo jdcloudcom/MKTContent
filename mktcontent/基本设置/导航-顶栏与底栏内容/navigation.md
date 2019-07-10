@@ -1,7 +1,7 @@
 [
 	{
 		"name":"产品",
-		"description":"",
+		"description":"产品",
 		"id":1
 	},
 	{
@@ -621,7 +621,7 @@
 	},
 	{
 		"name":"泛零售解决方案",
-		"description":"",
+		"description":"泛零售解决方案",
 		"id":265
 	},
 	{
@@ -861,7 +861,7 @@
 	},
 	{
 		"name":"技术平台 - 合作伙伴计划",
-		"description":"",
+		"description":"技术平台 - 合作伙伴计划",
 		"id":366
 	},
 	{
