@@ -1046,5 +1046,13 @@
 		"jss_key":"News_Content_563",
 		"id":563,
 		"news_title":"Nantong and JD Bloom Together -- Nantong Cloud Business Conference Was Successfully Held"
+	},
+	{
+		"summary":"Relying on the outstanding technical level and rich business scenarios in the field of cloud computing, JD Cloud won the Technology Innovation Award for security governance and object storage services, and again obtained the Cloud Service Enterprise Credit Rating of AAA of Trusted Cloud.",
+		"image_url":"//img1.jcloudcs.com/cms/7c87c988-cff2-4388-8330-ae7043ba08d920190704161912.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_567",
+		"jss_key":"News_Content_567",
+		"id":567,
+		"news_title":"JD Cloud Appeared at TRUCS 2019 and Won the Technology Innovation Award & the Highest Enterprise Credit Rating of AAA"
 	}
 ]
