@@ -1046,5 +1046,21 @@
 		"jss_key":"News_Content_563",
 		"id":563,
 		"news_title":"“通”上京东 百业齐放 南通云商大会顺利召开"
+	},
+	{
+		"summary":"京东云凭借在云计算领域出色的技术水平和丰富的业务场景，荣获安全治理、对象存储两项技术创新大奖，并再次斩获可信云AAA级云服务企业信用评级。",
+		"image_url":"//img1.jcloudcs.com/cms/7c87c988-cff2-4388-8330-ae7043ba08d920190704161912.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_567",
+		"jss_key":"News_Content_567",
+		"id":567,
+		"news_title":"京东云亮相2019可信云大会 荣获技术创新奖和AAA最高级企业信用评级"
+	},
+	{
+		"summary":"2019年7月5日，首届东亚电商发展峰会暨2019山东省电商大会在济南市隆重开幕。来自政府、科研院校、国内外知名电商行业专家汇聚一堂，不仅分享了东亚乃至全球电商发展最前沿理念和成果，洞悉全球电商最新发展趋势，还见证了“先行区数字经济产业园项目”的成功启动。",
+		"image_url":"//img1.jcloudcs.com/cms/43508418-7a71-41f7-8cc2-848c303ba35220190705200845.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_568",
+		"jss_key":"News_Content_568",
+		"id":568,
+		"news_title":"首届东亚电商发展峰会暨2019山东省电商大会在济南隆重开幕"
 	}
 ]
