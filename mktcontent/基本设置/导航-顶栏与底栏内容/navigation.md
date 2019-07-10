@@ -236,7 +236,7 @@
 	},
 	{
 		"name":"解决方案",
-		"description":"",
+		"description":"解决方案",
 		"id":134
 	},
 	{
@@ -626,7 +626,7 @@
 	},
 	{
 		"name":"政务与产业解决方案",
-		"description":"",
+		"description":"政务与产业解决方案",
 		"id":266
 	},
 	{
@@ -661,7 +661,7 @@
 	},
 	{
 		"name":"知客 - 零售客流智能分析",
-		"description":"",
+		"description":"知客 - 零售客流智能分析",
 		"id":279
 	},
 	{
@@ -2421,5 +2421,40 @@
 		"name":"智能 IDC 安全解决方案",
 		"description":"智能 IDC 安全解决方案",
 		"id":3563
+	},
+	{
+		"name":"众智 - AI数据采集标注",
+		"description":"众智 - AI数据采集标注",
+		"id":3565
+	},
+	{
+		"name":"解决方案",
+		"description":"解决方案",
+		"id":3567
+	},
+	{
+		"name":"智能 IDC 安全解决方案",
+		"description":"智能 IDC 安全解决方案",
+		"id":3569
+	},
+	{
+		"name":"测评报告",
+		"description":"测评报告",
+		"id":3571
+	},
+	{
+		"name":"网站威胁扫描",
+		"description":"资产自动关联发现、Web漏洞扫描、端口漏洞扫描",
+		"id":3573
+	},
+	{
+		"name":"同城双活解决方案",
+		"description":"同城双活解决方案",
+		"id":3575
+	},
+	{
+		"name":"技术社区",
+		"description":"技术社区",
+		"id":3577
 	}
 ]
