@@ -1,0 +1,32 @@
+[
+	{
+		"txt":"{\"operator\":\"wenmoli\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"京东众智-AI数据采集标注\",\"description\":\"聚焦于人工智能领域的数据服务平台，旨在为业界提供领先的数据解决方案\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7cb6d38c-a1cc-4e8a-9894-38e678e6d62020190614150431.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[{\"name\":\"发布需求\",\"link\":\"https://biao.jd.com/\",\"classTag\":\"https://biao.jd.com/bz#?utm_source=JDCloud\"}],\"tagMetas\":[]}]}",
+		"templet":"11",
+		"id":635,
+		"solution_id":"135"
+	},
+	{
+		"txt":"{\"operator\":\"wenmoli\",\"floorName\":\"解决方案\",\"name\":\"description-1\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ad18fcad-b536-4668-a8e7-811992823f9e20190614150518.png\",\"title\":\"全流程数据标注\",\"description\":\"客户提交原始数据和需求描述，众智实施数据采集或第一时间定制开发标注工具并实施数据标注，数据结果经专业人员核验后交付给客户\",\"subDescriptions\":[{\"descriptionText\":\"众智完成全流程，客户无需分担精力\"},{\"descriptionText\":\"ISO27001信息安全管理体系认证\"},{\"descriptionText\":\"特殊需求免费定制化设计易用工具\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/39f18c48-ee5a-42f4-85dc-d4bae4ed276820190614150537.png\",\"title\":\"全流程数据采集\",\"description\":\"根据客户需求，全球范围内海量标注团队线下采集，为客户提供丰富的高质量源数据，专人检验，保证质量\",\"subDescriptions\":[{\"descriptionText\":\"可采集各种复杂场景的数据\"},{\"descriptionText\":\"ISO27001信息安全管理体系认证\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/04b17cea-db85-493f-b7d0-8e64adb17ed220190614150549.png\",\"title\":\"私有化部署\",\"description\":\"为客户本地化部署一套具有自己品牌的兼具需求管理、自主创建标注工具、标注任务管理、人员管理等功能的数据标注平台\",\"subDescriptions\":[{\"descriptionText\":\"标注平台免开发\"},{\"descriptionText\":\"可自主运营和管理项目及人员\"},{\"descriptionText\":\"数据不出客户环境，保证数据安全\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7b62e8eb-0953-4b8e-9957-eb2ba98fd22220190614150623.png\",\"title\":\"数据隔离方案\",\"description\":\"将数据资源调用、标注前端等重要模块部署至客户环境，严密的数据访问策略保证数据安全。众智把控项目进度，保障数据标注质量\",\"subDescriptions\":[{\"descriptionText\":\"数据不出客户环境，保证数据安全\"},{\"descriptionText\":\"标注项目全程免管理\"}]}]}",
+		"templet":"21",
+		"id":636,
+		"solution_id":"135"
+	},
+	{
+		"txt":"{\"operator\":\"wenmoli\",\"floorName\":\"优势\",\"name\":\"advantage\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/51ef998d-3adb-43b6-aa2f-81ecb98a09c620190614151538.png\",\"title\":\"质量高\",\"description\":\"严格的数据审核机制，多层质检+用户分级+风控系统，确保万无一失\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/bcb5bf36-16d5-4362-889b-015715f432e420190614151559.png\",\"title\":\"价格低\",\"description\":\"高效的漩涡漏斗标注审核流程+专业标注工具+专业人才，降低大量成本\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f27808d9-23a9-4488-8c1c-bdfc2902e54b20190614151614.png\",\"title\":\"速度快\",\"description\":\"高效易用的标注工具+预标注方案+海量活跃用户，快速回收数据\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a473130a-94ad-4461-9604-d9ee5b61a11020190614151626.png\",\"title\":\"保密强\",\"description\":\"独创数据隔离方案，直击行业高敏感数据不可外流标注的业界难题\"}]}",
+		"templet":"51",
+		"id":637,
+		"solution_id":"135"
+	},
+	{
+		"txt":"{\"operator\":\"wenmoli\",\"floorName\":\"应用场景\",\"name\":\"scene\",\"data\":[{\"title\":\"自动驾驶\",\"sceneDescription\":\"采集实际行车路况，提供高质量的目标物体追踪、障碍物监测、红绿灯识别、车道线标注、道路全景语义分割等训练数据集，提高自动驾驶AI技术的识别准确率，推动智慧交通建设\",\"solution\":\"\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/65b835be-df0c-4441-aacd-89b87122dd1f20190614150939.png\",\"showShade\":false},{\"title\":\"智能家居\",\"sceneDescription\":\"全球范围内多语种采集，可对语音进行细致切割转写、属性判断，提高语音识别准确率和语音合成数据质量，让AI更懂声音。\",\"solution\":\"\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2fd565c1-b1a6-4912-90fc-c0774127845d20190614151102.png\",\"showShade\":false},{\"title\":\"舆情监测\",\"sceneDescription\":\"通过关键词提取、文本相似性判断、语义审核、情绪判断可准确判断语义，高效监测用户评论、文章等，及时得到有效反馈。\",\"solution\":\"\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/245e8ae3-fb76-4e4c-b563-a8c7b27dcc6420190614151428.png\",\"showShade\":false},{\"title\":\"OCR应用\",\"sceneDescription\":\"扫描识别并提取身份证、发票、银行卡、车牌号、驾驶证、文件资料等文字，覆盖多种角度、光线、清晰度的识别结果，全面提高识别准确率。\",\"solution\":\"\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9f8a952e-4168-4df0-8616-83f7803b59bd20190614151509.png\",\"showShade\":false}]}",
+		"templet":"41",
+		"id":638,
+		"solution_id":"135"
+	},
+	{
+		"txt":"{\"operator\":\"wenmoli\",\"floorName\":\"流程\",\"name\":\"process\",\"data\":[{\"progress\":[{\"name\":\"需求洽谈\"},{\"name\":\"定制方案\"},{\"name\":\"项目实施\"},{\"name\":\"结果交付\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"templet":"61",
+		"id":639,
+		"solution_id":"135"
+	}
+]
