@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"网站威胁扫描\",\"label\":[{\"TitleName\":\"申请试用\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/threatscanner\",\"classTag\":\"\"}],\"desc\":\"集资产自动关联发现、Web漏洞扫描、端口漏洞扫描、弱密码检测四大核心功能，发现网站或服务器在网络中的安全风险，为云上业务提供多维度的安全检测服务，满足合规要求，让网站安全漏洞无所遁形\"}",
+		"id":1356
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"深度漏洞扫描\",\"proName\":\"支持：OWASP Top10 漏洞检测类型，PoC插件检测，资产指纹扫描关联能力\"},{\"showShade\":false,\"proGood\":\"详尽报告\",\"proName\":\"提供详尽的漏洞扫描报告，包括：系统存在的Web安全漏洞、应用系统安全漏洞，系统存在的弱口令等及修复建议，引导并帮助用户修补漏洞\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高效精准\",\"proName\":\"采用web2.0智能爬虫技术，内部验证机制不断优化，提高检测准确\"}]",
+		"id":1357
+	},
+	{
+		"txt":"[{\"funcName\":\"威胁概览\",\"funcContent\":[{\"funcTitle\":\"展示漏扫扫描统计结果\",\"funcP\":\"提供风险等级，漏洞数量，漏洞IP，漏洞域名，以及漏洞发展趋势，IP维度，域名维度的Top10风险资产，Top10漏洞分类\"}]},{\"funcName\":\"资产管理\",\"funcContent\":[{\"funcTitle\":\"添加漏洞扫描资产\",\"funcP\":\"自动导入京东云托管的公网IP、域名资产，同时支持cookies扫描、URL白名单，以及对资产认证。\"}]},{\"funcName\":\"任务管理\",\"funcContent\":[{\"funcTitle\":\"扫描任务管理\",\"funcP\":\"提供创建扫描任务，修改扫描任务各项参数，以及对任务状态的管理，最终下载扫描报告。\"}]},{\"funcName\":\"风险管理\",\"funcContent\":[{\"funcTitle\":\"扫描结果展示\",\"funcP\":\"提供基于漏洞维度、IP维度、域名维度的扫描结果展示，同时提供漏洞修复建议。\"}]}]",
+		"id":1358
+	}
+]
