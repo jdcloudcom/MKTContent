@@ -1,12 +1,12 @@
 [
 	{
 		"name":"产品",
-		"description":"产品",
+		"description":"",
 		"id":1
 	},
 	{
-		"name":"支持与动态",
-		"description":"支持与动态",
+		"name":"客户支持",
+		"description":"客户支持",
 		"id":4
 	},
 	{
@@ -35,8 +35,8 @@
 		"id":11
 	},
 	{
-		"name":"云安全",
-		"description":"",
+		"name":"安全服务",
+		"description":"安全服务",
 		"id":12
 	},
 	{
@@ -206,7 +206,7 @@
 	},
 	{
 		"name":"新闻动态",
-		"description":"",
+		"description":"新闻动态",
 		"id":121
 	},
 	{
@@ -296,7 +296,7 @@
 	},
 	{
 		"name":"大数据解决方案",
-		"description":"",
+		"description":"大数据与 AI 解决方案",
 		"id":171
 	},
 	{
@@ -315,8 +315,8 @@
 		"id":175
 	},
 	{
-		"name":"物流云仓储解决方案",
-		"description":"",
+		"name":"物流云仓储",
+		"description":"物流云仓储",
 		"id":177
 	},
 	{
@@ -620,11 +620,6 @@
 		"id":262
 	},
 	{
-		"name":"泛零售解决方案",
-		"description":"泛零售解决方案",
-		"id":265
-	},
-	{
 		"name":"政务与产业解决方案",
 		"description":"政务与产业解决方案",
 		"id":266
@@ -665,8 +660,8 @@
 		"id":279
 	},
 	{
-		"name":"万象 - 数据API",
-		"description":"",
+		"name":"万象数据API",
+		"description":"万象数据API",
 		"id":281
 	},
 	{
@@ -795,13 +790,13 @@
 		"id":350
 	},
 	{
-		"name":"在线教育解决方案",
-		"description":"",
+		"name":"在线教育",
+		"description":"在线教育",
 		"id":351
 	},
 	{
-		"name":"京东桌面云解决方案",
-		"description":"",
+		"name":"京东桌面云",
+		"description":"京东桌面云",
 		"id":352
 	},
 	{
@@ -825,43 +820,43 @@
 		"id":358
 	},
 	{
-		"name":"大宗商品电商解决方案",
-		"description":"",
+		"name":"大宗商品电商",
+		"description":"大宗商品电商",
 		"id":359
 	},
 	{
-		"name":"渠道分销电商解决方案",
-		"description":"",
+		"name":"渠道分销电商",
+		"description":"渠道分销电商",
 		"id":360
 	},
 	{
-		"name":"企业采购电商解决方案",
-		"description":"",
+		"name":"企业采购电商",
+		"description":"企业采购电商",
 		"id":361
 	},
 	{
-		"name":"无界零售电商解决方案",
-		"description":"",
+		"name":"无界零售电商",
+		"description":"无界零售电商",
 		"id":362
 	},
 	{
-		"name":"零售商城电商解决方案",
-		"description":"",
+		"name":"零售商城电商",
+		"description":"零售商城电商",
 		"id":363
 	},
 	{
-		"name":"跨境电商解决方案",
-		"description":"",
+		"name":"跨境电商",
+		"description":"跨境电商",
 		"id":364
 	},
 	{
-		"name":"积分商城电商解决方案",
-		"description":"",
+		"name":"积分商城电商",
+		"description":"积分商城电商",
 		"id":365
 	},
 	{
-		"name":"技术平台 - 合作伙伴计划",
-		"description":"技术平台 - 合作伙伴计划",
+		"name":"无界零售技术平台合作伙伴计划",
+		"description":"无界零售技术平台合作伙伴计划",
 		"id":366
 	},
 	{
@@ -878,11 +873,6 @@
 		"name":"列式存储",
 		"description":"基于 Hadoop 且100%兼容HBase协议的高性能、可弹性伸缩、面向列的分布式数据库",
 		"id":370
-	},
-	{
-		"name":"超融合数据中心",
-		"description":"",
-		"id":371
 	},
 	{
 		"name":"云物理服务器",
@@ -950,8 +940,8 @@
 		"id":386
 	},
 	{
-		"name":"云端融合防御解决方案",
-		"description":"云端融合防御解决方案",
+		"name":"云端融合防御",
+		"description":"云端融合防御",
 		"id":387
 	},
 	{
@@ -1105,8 +1095,8 @@
 		"id":435
 	},
 	{
-		"name":"文档",
-		"description":"文档",
+		"name":"帮助文档",
+		"description":"帮助文档",
 		"id":959
 	},
 	{
@@ -1115,7 +1105,7 @@
 		"id":1216
 	},
 	{
-		"name":"产品文档",
+		"name":"技术文档",
 		"description":"产品文档",
 		"id":1217
 	},
@@ -1255,8 +1245,8 @@
 		"id":3000
 	},
 	{
-		"name":"政务云安全解决方案",
-		"description":"",
+		"name":"政务云安全",
+		"description":"政务云安全",
 		"id":3001
 	},
 	{
@@ -1300,8 +1290,8 @@
 		"id":3019
 	},
 	{
-		"name":"移动跨端开发解决方案",
-		"description":"移动跨端开发解决方案",
+		"name":"移动跨端开发",
+		"description":"移动跨端开发",
 		"id":3020
 	},
 	{
@@ -1325,8 +1315,8 @@
 		"id":3042
 	},
 	{
-		"name":"互联网金融安全解决方案",
-		"description":"",
+		"name":"互联网金融安全",
+		"description":"互联网金融安全",
 		"id":3045
 	},
 	{
@@ -1391,12 +1381,12 @@
 	},
 	{
 		"name":"PLUS 智能短信",
-		"description":"",
+		"description":"PLUS 智能短信",
 		"id":3059
 	},
 	{
-		"name":"AI智慧门店解决方案",
-		"description":"AI智慧门店解决方案",
+		"name":"AI 智慧门店",
+		"description":"AI 智慧门店",
 		"id":3063
 	},
 	{
@@ -1405,18 +1395,18 @@
 		"id":3079
 	},
 	{
-		"name":"混合云安全解决方案",
-		"description":"混合云安全解决方案",
+		"name":"混合云安全",
+		"description":"混合云安全",
 		"id":3087
 	},
 	{
-		"name":"线下广告智能营销解决方案",
-		"description":"线下广告智能营销解决方案",
+		"name":"线下广告智能营销",
+		"description":"线下广告智能营销",
 		"id":3089
 	},
 	{
-		"name":"AR试妆镜解决方案",
-		"description":"AR试妆镜解决方案",
+		"name":"AR 试妆镜",
+		"description":"AR 试妆镜",
 		"id":3091
 	},
 	{
@@ -1589,8 +1579,8 @@
 		"id":3165
 	},
 	{
-		"name":"京东人工智能",
-		"description":"京东人工智能",
+		"name":"京东 AI",
+		"description":"京东 AI",
 		"id":3169
 	},
 	{
@@ -1794,8 +1784,8 @@
 		"id":3255
 	},
 	{
-		"name":"AIDC",
-		"description":"AIDC产品介绍",
+		"name":"智能 IDC",
+		"description":"智能 IDC产品介绍",
 		"id":3257
 	},
 	{
@@ -1869,8 +1859,8 @@
 		"id":3295
 	},
 	{
-		"name":"人工智能",
-		"description":"人工智能",
+		"name":"大数据与 AI",
+		"description":"大数据与 AI",
 		"id":3297
 	},
 	{
@@ -1884,8 +1874,8 @@
 		"id":3303
 	},
 	{
-		"name":"企业精选",
-		"description":"企业精选",
+		"name":"Elite 企业精选",
+		"description":"Elite 企业精选",
 		"id":3305
 	},
 	{
@@ -1909,13 +1899,13 @@
 		"id":3313
 	},
 	{
-		"name":"Elite企业精选",
-		"description":"Elite企业精选",
+		"name":"智能零售",
+		"description":"智能零售",
 		"id":3315
 	},
 	{
-		"name":"客户案例",
-		"description":"客户案例",
+		"name":"精选案例",
+		"description":"精选案例",
 		"id":3317
 	},
 	{
@@ -2239,8 +2229,8 @@
 		"id":3477
 	},
 	{
-		"name":"政企云办公解决方案",
-		"description":"政企云办公解决方案",
+		"name":"政企云办公",
+		"description":"政企云办公",
 		"id":3485
 	},
 	{
@@ -2418,13 +2408,13 @@
 		"id":3559
 	},
 	{
-		"name":"智能 IDC 安全解决方案",
-		"description":"智能 IDC 安全解决方案",
+		"name":"智能 IDC 安全",
+		"description":"智能 IDC 安全",
 		"id":3563
 	},
 	{
-		"name":"众智 - AI数据采集标注",
-		"description":"众智 - AI数据采集标注",
+		"name":"众智 AI 数据采集标注",
+		"description":"众智 AI 数据采集标注",
 		"id":3565
 	},
 	{
@@ -2438,23 +2428,242 @@
 		"id":3569
 	},
 	{
-		"name":"测评报告",
-		"description":"测评报告",
-		"id":3571
+		"name":"云计算基础",
+		"description":"云计算基础",
+		"id":5117
 	},
 	{
-		"name":"网站威胁扫描",
-		"description":"资产自动关联发现、Web漏洞扫描、端口漏洞扫描",
-		"id":3573
+		"name":"企业应用",
+		"description":"企业应用",
+		"id":5119
+	},
+	{
+		"name":"开发与运维",
+		"description":"开发与运维",
+		"id":5121
+	},
+	{
+		"name":"不展示在产品目录下",
+		"id":5123
+	},
+	{
+		"name":"安全",
+		"description":"安全",
+		"id":5125
+	},
+	{
+		"name":"安全管理",
+		"description":"安全管理",
+		"id":5129
+	},
+	{
+		"name":"数据安全",
+		"description":"数据安全",
+		"id":5131
+	},
+	{
+		"name":"网络安全",
+		"description":"网络安全",
+		"id":5133
+	},
+	{
+		"name":"系统安全",
+		"description":"系统安全",
+		"id":5135
+	},
+	{
+		"name":"应用安全",
+		"description":"应用安全",
+		"id":5137
+	},
+	{
+		"name":"大数据",
+		"description":"大数据",
+		"id":5139
+	},
+	{
+		"name":"IDC标准产品",
+		"description":"IDC标准产品",
+		"id":5141
+	},
+	{
+		"name":"IDC增值服务",
+		"description":"IDC增值服务",
+		"id":5143
+	},
+	{
+		"name":"JDSystem一体机",
+		"description":"JDSystem一体机",
+		"id":5145
+	},
+	{
+		"name":"物理计算",
+		"description":"物理计算",
+		"id":5147
+	},
+	{
+		"name":"OCR文字识别",
+		"description":"OCR文字识别",
+		"id":5149
+	},
+	{
+		"name":"人脸识别",
+		"description":"人脸识别",
+		"id":5151
+	},
+	{
+		"name":"视频分析",
+		"description":"视频分析",
+		"id":5153
+	},
+	{
+		"name":"图像理解",
+		"description":"图像理解",
+		"id":5155
+	},
+	{
+		"name":"语音技术",
+		"description":"语音技术",
+		"id":5157
+	},
+	{
+		"name":"自然语言处理",
+		"description":"自然语言处理",
+		"id":5159
+	},
+	{
+		"name":"人体识别",
+		"description":"人体识别",
+		"id":5161
+	},
+	{
+		"name":"SDK",
+		"description":"SDK",
+		"id":5163
+	},
+	{
+		"name":"Java SDK",
+		"description":"Java SDK",
+		"id":5165
+	},
+	{
+		"name":"AR试妆镜解决方案",
+		"description":"AR试妆镜解决方案",
+		"id":5167
+	},
+	{
+		"name":"Python SDK",
+		"description":"Python SDK",
+		"id":5169
+	},
+	{
+		"name":"Go SDK",
+		"description":"Go SDK",
+		"id":5171
+	},
+	{
+		"name":"Node.js SDK",
+		"description":"Node.js SDK",
+		"id":5173
+	},
+	{
+		"name":"PHP SDK",
+		"description":"PHP SDK",
+		"id":5177
+	},
+	{
+		"name":".NET SDK",
+		"description":".NET SDK",
+		"id":5179
+	},
+	{
+		"name":"C++ SDK",
+		"description":"C++ SDK",
+		"id":5181
+	},
+	{
+		"name":"Android SDK",
+		"description":"Android SDK",
+		"id":5183
+	},
+	{
+		"name":"iOS SDK",
+		"description":"iOS SDK",
+		"id":5185
+	},
+	{
+		"name":"Rust SDK",
+		"description":"Rust SDK",
+		"id":5187
+	},
+	{
+		"name":"命令行工具",
+		"description":"命令行工具",
+		"id":5191
 	},
 	{
 		"name":"同城双活解决方案",
 		"description":"同城双活解决方案",
-		"id":3575
+		"id":5193
 	},
 	{
-		"name":"技术社区",
-		"description":"技术社区",
-		"id":3577
+		"name":"数据智能",
+		"description":"数据智能",
+		"id":5195
+	},
+	{
+		"name":"企业应用",
+		"description":"企业应用",
+		"id":5197
+	},
+	{
+		"name":"京造精选",
+		"description":"京造精选",
+		"id":5199
+	},
+	{
+		"name":"文档与支持",
+		"description":"文档与支持",
+		"id":5201
+	},
+	{
+		"name":"动态",
+		"description":"动态",
+		"id":5203
+	},
+	{
+		"name":"关于我们",
+		"description":"关于我们",
+		"id":5205
+	},
+	{
+		"name":"了解京东云",
+		"description":"了解京东云",
+		"id":5207
+	},
+	{
+		"name":"可信中心",
+		"description":"可信中心",
+		"id":5209
+	},
+	{
+		"name":"测评报告",
+		"description":"测评报告",
+		"id":5211
+	},
+	{
+		"name":"京东云刊",
+		"description":"京东云刊",
+		"id":5213
+	},
+	{
+		"name":"托管物理计算",
+		"description":"为用户提供裸机服务器使用服务",
+		"id":5215
+	},
+	{
+		"name":"CLI",
+		"description":"CLI",
+		"id":5219
 	}
 ]
