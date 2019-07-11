@@ -1,0 +1,17 @@
+<p>2019年7月10日，Fastjson &lt;1.2.51版本被爆存在远程代码执行漏洞，针对存在Fastjson漏洞的服务，会导致服务器被直接入侵，需要立即修复。</p>
+<p><br/></p>
+<p><strong>【漏洞描述】</strong></p>
+<p>开源软件Fastjson版本小于1.2.51，当恶意用户构造发送一个恶意请求，fastjson在反序列化处理该数据时触发任意代码执行。</p>
+<p><br/></p>
+<p><strong>【漏洞评级】</strong></p>
+<p>高危</p>
+<p><br/></p>
+<p><strong>【受影响范围】</strong></p>
+<p>Fastjson &lt; 1.2.51</p>
+<p><br/></p>
+<p><strong>【安全修复建议】</strong></p>
+<p>升级Fastjson软件，升级到最新版本1.2.58</p>
+<p><br/></p>
+<p><strong>【参考链接】</strong></p>
+<p><a href="https://github.com/alibaba/fastjson/wiki/update_faq_20190722" target="_blank" title="https://github.com/alibaba/fastjson/wiki/update_faq_20190722">https://github.com/alibaba/fastjson/wiki/update_faq_20190722</a></p>
+<p><br/></p>
