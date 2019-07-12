@@ -2665,5 +2665,20 @@
 		"name":"CLI",
 		"description":"CLI",
 		"id":5219
+	},
+	{
+		"name":"京东万象",
+		"description":"京东万象",
+		"id":5221
+	},
+	{
+		"name":"网站威胁扫描",
+		"description":"资产自动关联发现、Web漏洞扫描、端口漏洞扫描",
+		"id":5223
+	},
+	{
+		"name":"实名认证",
+		"description":"null",
+		"id":5225
 	}
 ]
