@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"云拨测\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://detection-console.jdcloud.com/site/list\",\"classTag\":\"\"}],\"desc\":\"云拨测提供站点监控和可用性监控服务，对公网或内网服务的域名、IP地址、端口等发起探测，通过各项监控指标判断探测地址的可用性，同时提供阈值告警功能，方便用户快速发现问题。\"}",
+		"id":1352
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"探测协议丰富\",\"proName\":\"站点监控支持HTTP(S)、PING、TCP、UDP、SMTP等协议的探测。\"},{\"showShade\":false,\"proGood\":\"探测节点覆盖广\",\"proName\":\"站点监控支持电信、移动、联通三大运营商，探测节点遍布全国30＋个地域。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"本地和远程服务均可探测\",\"proName\":\"可用性监控可探测URL/IP和云数据库RDS这类服务，帮助用户监测本地或远程服务的服务可用性。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"报警及时准确\",\"proName\":\"分钟级粒度监控，报警规则灵活多样，准确及时报警。\"}]",
+		"id":1353
+	},
+	{
+		"txt":"[{\"funcName\":\"站点监控\",\"funcContent\":[{\"funcTitle\":\"通过京东云分布全国各地运营商网络节点模拟用户的访问情况\",\"funcP\":\"针对公网服务的站点地址，提供HTTP(S)、TCP、PING、UDP等多种协议类型的拨测监控。\"}]},{\"funcName\":\" 可用性监控\",\"funcContent\":[{\"funcTitle\":\"使用用户名下的云主机探测本地或远程服务的可用性\",\"funcP\":\"可探测URL/IP和云数据库RDS这类服务，支持HTTP(s）和TELNET两种方式进行探测。\"}]},{\"funcName\":\"监控报警\",\"funcContent\":[{\"funcTitle\":\"灵活快速告警\",\"funcP\":\"用户根据实际业务需求，灵活设置各监控任务的报警规则，当监控过任务达到的报警阈值后，京东云会迅速通过短信、邮件告知，也可推送到指定的WebHook中。\"}]}]",
+		"id":1354
+	},
+	{
+		"txt":"[{\"name\":\"站点访问性能分析\",\"instruction\":\"通过站点监控的探测点，模拟用户的访问行为，可以获得全国各地到目标地址的访问数据，从而知晓各地域、各网络的访问质量，针对性进行优化。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/76ab07ad-730b-4a12-9a13-e4475ff86bee20190627115012.png\",\"showShade\":true},{\"name\":\"关键业务重点监控\",\"instruction\":\"\\n若某些站点服务的质量对业务影响比较大，需要时刻关注该服务是否正常。可以使用云拨测下的站点监控创建探测任务，并配置可用率告警。日常巡检可登陆云拨测控制台查看站点任务实时可用率和延时数据；异常情况云拨测将立刻通知负责人，让用户及时采取应对策略。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b4790e4f-860f-4188-aef7-8505b2df070820190627115017.png\",\"showShade\":false},{\"name\":\"内网服务实时监控\",\"instruction\":\"若某些服务部署在VPC内，无法通过站点监控探测其可用率和响应时间，则用户可以在该VPC内的云主机下安装可用性探测插件，通过可用性监控创建拨测任务，并配置可用率或响应时间报警，当监控指标达到报警阈值时，会第一时间通过短信、邮件方式进行告知，为用户的业务保驾护航。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d80be0e2-e976-4a77-afa8-a817b66cda1220190627115022.png\",\"showShade\":false}]",
+		"id":1355
+	}
+]
