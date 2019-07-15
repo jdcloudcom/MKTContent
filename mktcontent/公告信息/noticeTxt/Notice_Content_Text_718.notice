@@ -1,0 +1,15 @@
+<p style="text-indent:28px"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">Beta of Cloud File Service of JD Cloud has been launched in [cn-north-1], and the Beta of Cloud File Service (CFS) for [cn-south-1] will be gone offline in July 22. From July 23, the Cloud File Service (CFS) won’t provide services at the Console and OpenAPI [cn-south-1] anymore.</span>
+</p>
+<p style="text-indent:28px">
+<span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">The user who participates in the beta in [cn-south-1] previously can, before <strong> 23:59:59 of July 22 </strong>, autonomously back up the data in the Cloud File Service (CFS) of [cn-south-1] during the beta.</span>
+</p>
+<p style="text-indent:28px">
+<span style="font-size: 14px;"><strong>From July 23 to August 23, </strong>, the Cloud File Service (CFS) will continually reserve the data in the beta, and the beta user will, by tickets, obtain the method with which the original Cloud File Service is attached and back up data autonomously.</span>
+</p>
+<p style="text-indent:28px">
+<span style="font-size: 14px;"><strong>From August 23 </strong>, the on-line beta data of the Cloud File Service for [cn-south-1] will not be continually reserved anymore.
+</span>
+</p>
+<p style="text-indent:28px"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">The JD Cloud user can continue using the Cloud File Service (formal version) in [cn-north-1], which will provide you with better availability and data reliability. Thank you for your support and use!</span>
+</p>
+<p><br/></p>

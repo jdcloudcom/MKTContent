@@ -73,5 +73,10 @@
 		"name":"Activity Video",
 		"description":"Activity Video",
 		"id":41
+	},
+	{
+		"name":"JD Cloud Case Video",
+		"description":"JD Cloud Case Video",
+		"id":43
 	}
 ]

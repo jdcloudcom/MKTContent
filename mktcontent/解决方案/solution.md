@@ -176,7 +176,15 @@
 		"id":132
 	},
 	{
-		"name":"Intelligent IDC Security Solution",
+		"name":"Citywide Dual Active Solution",
+		"id":134
+	},
+	{
+		"name":"CrowdWise-Annotation of AI Data Collection",
+		"id":135
+	},
+	{
+		"name":"AIDC Security Solution",
 		"id":136
 	}
 ]

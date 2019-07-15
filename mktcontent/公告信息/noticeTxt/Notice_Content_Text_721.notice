@@ -1,0 +1,18 @@
+<p>On July 9, 2019, the unauthorized access-based remote command execution vulnerability utilization tool of Redis 4.x/5.x was disclosed and circulated, and a vulnerable Redis service can cause the server to be directly intruded and requires immediate repair.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Description]</strong></p>
+<p>As the module function has been added in Redis 4.x and above versions, a new Redis command can be achieved in Redis by loading external expansion, and the attacker can make the affected server load rogue programs by use of the introduced module to intrude on and control the server.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Rating]</strong></p>
+<p>High Risk</p>
+<p><br/></p>
+<p><strong>[Influence Range]</strong></p>
+<p>Redis 4.x</p>
+<p>Redis 5.x</p>
+<p><br/></p>
+<p><strong>[Security Recommendations]</strong></p>
+<p>1. Run the Redis service with low permission, create an independent account for the Redis service, and configure login prohibition</p>
+<p>2. Prohibit the access to the Redis service by Internet, modify the redis.conf file, and make the service available only on the current host computer</p>
+<p>3. As for security group setting, the Redis service is allowed to be accessed by the designed IP only, if it is required to be accessed by other servers</p>
+<p>4. As for strong password setting, the password verification must be enabled for the Redis service, and a strong password consisting of more than 8 combined characters should be set</p>
+<p><br/></p>

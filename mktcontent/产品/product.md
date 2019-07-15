@@ -518,5 +518,9 @@
 	{
 		"name":"Distributed Cloud Physical Server",
 		"id":1311
+	},
+	{
+		"name":"Cabinet Physical Computing",
+		"id":1312
 	}
 ]

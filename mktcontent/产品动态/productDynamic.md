@@ -1816,5 +1816,107 @@
 		"name":"Add one availability zone C in cn-east-2",
 		"description":"Add one availability zone C to JCS for SQL Server in cn-east-2",
 		"id":2328
+	},
+	{
+		"introduce":"JCS for MySQL supports Local Disk NVMe",
+		"name":"JCS for MySQL supports Local Disk NVMe",
+		"description":"JCS for MySQL supports Local Disk NVMe, providing higher IOPS performance",
+		"id":2329
+	},
+	{
+		"introduce":"JCS for Percona supports Local Disk NVMe",
+		"name":"JCS for Percona supports Local Disk NVMe",
+		"description":"JCS for Percona supports Local DiskNVMe, providing higher IOPS performance",
+		"id":2330
+	},
+	{
+		"introduce":"JCS for MariaDB supports Local Disk NVMe",
+		"name":"JCS for MariaDB supports Local Disk NVMe",
+		"description":"JCS for MariaDB supports Local Disk NVMe, providing higher IOPS performance",
+		"id":2331
+	},
+	{
+		"introduce":"JCS for SQL Server supports Local Disk NVMe",
+		"name":"JCS for SQL Server supports Local Disk NVMe",
+		"description":"JCS for SQL Server supports Local Disk NVMe, providing higher IOPS performance",
+		"id":2332
+	},
+	{
+		"introduce":"It supports the datasheet splitting by time",
+		"name":"It supports the splitting by time",
+		"description":"For the database, the user can conduct splitting by time, so his demand for handling data by time is met.",
+		"id":2333
+	},
+	{
+		"introduce":"Downloading of SSL Certificate",
+		"name":"Downloading of SSL Certificate",
+		"description":"The user can download the TDE certificate at the Console, and restore the database with encrypted TDE by backup files.",
+		"id":2334
+	},
+	{
+		"introduce":"It supports the user’s dumping the log data to Object Storage Service",
+		"name":"Log Dump",
+		"description":"The user can dump the log data in the log subject of a created log set to the Object Storage Service under his name.",
+		"id":2335
+	},
+	{
+		"introduce":"Cloud File Service  Official Release",
+		"name":"Cloud File Service  Official Release",
+		"description":"JD Cloud File Service is a fully-hosted distributed file system with high reliability, expandability and sharable access. It can be expanded or reduced and billed according to actual usage without interrupting the application services.\n\n",
+		"id":2336
+	},
+	{
+		"introduce":"Distributed Cloud Physical Server  Open to Beta",
+		"name":"Distributed Cloud Physical Server  Open to Beta",
+		"description":"The Distributed Cloud Physical Server is an elastic physical service rental service based on edge nodes, providing you with high-performance and safely-isolated physical server clusters dedicated for the Cloud. It is applicable to complex scenarios such as edge computing and edge storage, assigning resources to nearby edge nodes to efficiently reduce the computing delay and cost.",
+		"id":2337
+	},
+	{
+		"introduce":"Edge Physical Computing Service  Open to Beta",
+		"name":"Edge Physical Computing Service  Open to Beta",
+		"description":"The edge physical computing service provides high-quality edge node resources, distributes computing, network and storage capacity to network edges, provides low-delay, high-bandwidth, high-real-time, local computing and storage service as well as site DevOps Service close to customers and is applicable to customized deployment based on customers’ demands.",
+		"id":2338
+	},
+	{
+		"introduce":"Audit Trail  Official Release",
+		"name":"Audit Trail  Official Release",
+		"description":"Audit Trail is a service provided by JD Cloud that enables users to implement accurate tracking, restore user behavior audit by all operation records saved by Audit Trail, which plays an essential role in security analysis, resource change trail and compliance review.",
+		"id":2339
+	},
+	{
+		"introduce":"It shares the latest hot-spot incidents and cutting-edge technology in the industry, and recommends promotional activities and the latest discounts",
+		"name":"Added Discovery Channel",
+		"description":"It automatically synchronizes with the official micro-blog of JD Cloud to display its latest news to the user, supports the rapid release of the activities of JD Cloud Marketplace, and recommends them to the user by message push and systematic arrangement.",
+		"id":2340
+	},
+	{
+		"introduce":"It checks the configuration in respect of cloud product security",
+		"name":"Added Cloud Product Baseline Function",
+		"description":"It provides the user with a check of the security configuration of cloud products from five dimensions of identity verification, network IAM, data security, log audit and basic security protection to help you identify your cloud product configuration risks in a timely manner and provide appropriate repair solutions.",
+		"id":2341
+	},
+	{
+		"introduce":"It checks the security configuration of the Virtual Machines operating system",
+		"name":"Added Compliance Baseline Function",
+		"description":"The baseline check function can be used to automatically check the risk points in the operating system configuration on servers, and provide the reinforcement recommendation.",
+		"id":2342
+	},
+	{
+		"introduce":"It supports the temporary Object Storage Service of Token access generated by roles",
+		"name":"It supports role access",
+		"description":"Temporary AccessKey, SecretKey and Token can be obtained via roles. During the validity period, the temporary secret key can be used for accessing OSS.",
+		"id":2343
+	},
+	{
+		"introduce":"Management of Shard Expiry",
+		"name":"Management of Shard Expiry",
+		"description":"Life cycle management supports setting of the shard expiry policy.",
+		"id":2344
+	},
+	{
+		"introduce":"Pull of External Data",
+		"name":"Pull of External Data",
+		"description":"It supports pull of external data during file downloading.",
+		"id":2345
 	}
 ]

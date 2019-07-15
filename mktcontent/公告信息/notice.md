@@ -494,5 +494,17 @@
 	{
 		"id":712,
 		"title":"Service Upgrade Notice on JCS for Kubernetes in cn-south-1 region"
+	},
+	{
+		"id":717,
+		"title":"Notification on Update of Load Balancer Service Agreement and Service Level Agreement"
+	},
+	{
+		"id":718,
+		"title":"\\[cn-south-1\\] Notification on Coming Go-offline of Beta of Regional Cloud File Service (CFS)"
+	},
+	{
+		"id":721,
+		"title":"\\[Vulnerability Warning\\] Redis 4.x/5.x High Risk Vulnerabilities in Execution of Remote Commands"
 	}
 ]

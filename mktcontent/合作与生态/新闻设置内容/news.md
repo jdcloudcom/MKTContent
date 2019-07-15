@@ -1054,5 +1054,13 @@
 		"jss_key":"News_Content_567",
 		"id":567,
 		"news_title":"JD Cloud Appeared at TRUCS 2019 and Won the Technology Innovation Award & the Highest Enterprise Credit Rating of AAA"
+	},
+	{
+		"summary":"On July 5, 2019, the grand opening of the First East-Asia E-commerce Development Summit & 2019 Shandong E-commerce Conference was held in Jinan City. Experts from the Government, academic institutions as well as domestic and overseas well-known e-commerce industries gathered together, sharing the cutting-edge ideas and achievements in the e-commerce development of East-Asia and even the globe, giving insight into the latest development trend of global e-commerce, and witnessing the successful start-up of the \"Digital Economy Industrial Park Project of Pilot Area\".",
+		"image_url":"//img1.jcloudcs.com/cms/43508418-7a71-41f7-8cc2-848c303ba35220190705200845.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_568",
+		"jss_key":"News_Content_568",
+		"id":568,
+		"news_title":"Grand Opening of the First East-Asia E-commerce Development Summit & 2019 Shandong E-commerce Conference in Jinan"
 	}
 ]

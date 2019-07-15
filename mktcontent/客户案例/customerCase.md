@@ -238,5 +238,17 @@
 		"id":177,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution177",
 		"solution_jss_key":"Customer_Case_Solution177"
+	},
+	{
+		"project_overview":"DADA is a leader in the Internet crowdsourcing logistics industry, JD Cloud helps it create the ecological system of the open logistics information service platform with such digital techniques as cloud computing, big data, artificial intelligence, etc., connect with O2O business platforms, brand merchants, couriers and consumers, devotes to solving the distribution issue of “the final 3km”, and hopes to assist with lots of consumer-oriented on-line platforms’ achieving the O2O closed business loop.\n The DADA business system has typical Internet features. In annual large-scale promotional activities or daily peak meal hours, the traffic usually explosively grows, and the business cannot suspend around the clock (7*24h). To be specific, there are quite high requirements for the delay of Direct Connection, the performance of connection with Load Balancer, the ability to apply the Auto Scaling of servers, the consistency between database data after database and table sharding, the real time performance of the real-time computing of big data and the active-active capability of architectures.",
+		"application_type":"Suitable for Internet Business Type",
+		"introduce":"DADA is a domestically leading citywide express delivery information service platform and borderless retail immediate consumption platform. DADA under the Company has covered more than 450 major cities around the country and served more than 1.2 million merchant users and more than 50 million individual users, with the peak value of the number of daily orders reaching ten million level. JD Daojia has also covered 63 major cities such as Beijing, Shanghai and Guangzhou, with more than 70 million registered users, more than 30 million monthly active users and a peak value of daily orders of more than 1.5 million.",
+		"image_url":"//img1.jcloudcs.com/cms/1983b381-6dbb-4924-8d75-96079e3b9d2820190705175434.png",
+		"name":"Helping the integral JD Cloud Onboarding of DADA citywide express delivery information service platform",
+		"channel_agent":"test",
+		"customer_income":"Business value: \n•\t JD Cloud's SuperHA highly available multi-Data Center active-active ability, massive resource Auto Scaling ability, high performance database, high performance Load Balancer, high performance big data platform, scheduling of multilink Direct Connection BGP and high quality VIP prime service ability guarantee the stable running of DADA business, and enable DADA to calmly respond to the great increase of traffic and orders during such large-scale promotional activities as 618 Shopping Festival and 11.11 Shopping Festival. \n•\t JD Cloud can make service response in the whole life cycle of JD Cloud Onboarding, helping the user build the DevOps abilities of continuous delivery, monitoring of operation and maintenance as well as security control of fine granularity, greatly simplifying the complexity of operation and maintenance, and reducing the pressure and cost of operation and maintenance;",
+		"id":181,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution181",
+		"solution_jss_key":"Customer_Case_Solution181"
 	}
 ]
