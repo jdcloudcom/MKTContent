@@ -874,12 +874,12 @@
 	},
 	{
 		"summary":"",
-		"name":"Block Chain",
+		"name":"Blockchain",
 		"id":414
 	},
 	{
 		"summary":"",
-		"name":"Block Chain Data Service",
+		"name":"Blockchain Data Service",
 		"id":415
 	},
 	{
