@@ -2,7 +2,7 @@
   <div class="idc-banner">
     <div class="w">
       <div class="idc-banner-text">
-        <h3>AIDC E-commerce Platform of JD Cloud</h3>
+        <h3>IDC E-commerce Platform</h3>
         <p>IDC E-commerce Leader and Building AIDC Alliance</p>
 
         <a href="https://aidc.jdcloud.com/" class="jdc-banner-btn hidden-xs" clstag="Aidc|keycount|SectionBannerSec|1">View Now</a>
@@ -23,8 +23,8 @@
       <div class="w">
         <h4 class="idc-item-tit">Platform Introduction</h4>
         <ul class="idc-intro">
-          <li>The AIDC e-commerce platform of JD Cloud is the first e-commerce platform oriented to the IDC field, aiming to empower the IDC industry with JD’s e-commerce genes and public cloud technology; by building the AIDC platform and IDC Alliance, IDC resources are integrated, IDC service quality is improved and infrastructures restraining traditional enterprises become accessible, such as water, coal and electricity, making enterprises focus on business innovation better.</li>
-          <li>The AIDC e-commerce platform is an on-line purchasing platform providing standard and integrated IDC resources & services, with complete on-line consultation, scheme design and off-line delivery and after-sales guarantee capacities. In addition to self-support commodities of JD Cloud, settlement of manufacturers from the IDC Alliance is allowed. Referring to the quality assurance system of JD Cloud and learning from operation and maintenance experiences of JD Cloud infrastructure team for years, safe, reliable and convenient IDC services are provided to users.</li>
+          <li>The IDC E-commerce Platform is the first e-commerce platform oriented to the IDC field in China, aiming to empower the IDC industry with JD’s e-commerce genes and public cloud technology; by building the intelligent IDC e-commerce platform and the IDC Alliance, IDC resources are integrated, IDC service quality is improved and infrastructures restraining traditional enterprises become accessible, such as water, coal and electricity, making enterprises focus on business innovation better.</li>
+          <li>The IDC E-commerce Platform is an on-line purchasing platform providing standard and integrated IDC resources & services, with complete on-line consultation, scheme design as well as off-line delivery and after-sales guarantee capacities. In addition to self-support commodities of JD Cloud, settlement of manufacturers from the IDC Alliance is allowed. Referring to the quality assurance system of JD Cloud and learning from the DevOps Service of JD Cloud infrastructure team for years, safe, reliable and convenient IDC services are provided to users.</li>
           <li>At this stage, there are three major products in the e-commerce platform, including the cabinet service (hosting of Virtual Machines), device service and network service, and products of other categories are updating; at the same time, we are recruiting IDC Alliance manufacturers. You are welcome to join us and settle in.</li>
         </ul>
       </div>

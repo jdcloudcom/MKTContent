@@ -1,0 +1,17 @@
+<p>On July 10, 2019, it is revealed that the Version Fastjson &lt;1.2.51 has a remote code execution vulnerability that if any service has the Fastjson vulnerability, its server will be directly invaded and immediate fix is required.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Description]</strong></p>
+<p>The version of open source software Fastjson is lower than 1.2.51. When any malicious user constructs and sends a malicious request, any code will be triggered and executed when fastjson carries out deserialization processing to the data.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Rating]</strong></p>
+<p>High Risk</p>
+<p><br/></p>
+<p><strong>[Influence Range]</strong></p>
+<p>Fastjson &lt; 1.2.51</p>
+<p><br/></p>
+<p><strong>[Security Fix Recommendation]</strong></p>
+<p>Upgrade the Fastjson software to the latest version 1.2.58</p>
+<p><br/></p>
+<p><strong>[Reference Link]</strong></p>
+<p><a href="https://github.com/alibaba/fastjson/wiki/update_faq_20190722" target="_blank" title="https://github.com/alibaba/fastjson/wiki/update_faq_20190722">https://github.com/alibaba/fastjson/wiki/update_faq_20190722</a></p>
+<p><br/></p>

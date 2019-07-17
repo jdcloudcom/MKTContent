@@ -1918,5 +1918,59 @@
 		"name":"Pull of External Data",
 		"description":"It supports pull of external data during file downloading.",
 		"id":2345
+	},
+	{
+		"introduce":"A user identity management and resource IAM service provided by JD Cloud",
+		"name":"Add IAM",
+		"description":"User can use IAM to create and manage sub-users and control sub-users’ operation permissions to access JD Cloud resources, to lower enterprises’ information security risk.",
+		"id":2359
+	},
+	{
+		"introduce":"Search business-related statistics data",
+		"name":"Add data monitoring",
+		"description":"Through search conditions of different granularities, multiple business data can be searched, including UV/PV, hit ratio and status code, and detailed data references can be provided to customers.",
+		"id":2360
+	},
+	{
+		"introduce":"Fit to archiving data requiring storage for a long period\t",
+		"name":"Add archiving storage type",
+		"description":"Archiving storage type has the lowest unit price among all storage types and is suitable for archiving data for a long period (more than half a year is recommended).",
+		"id":2361
+	},
+	{
+		"introduce":"Users can complete personal real-name verification more conveniently and rapidly on the page of JD Cloud",
+		"name":"New Personal Real-name Verification of JD Cloud",
+		"description":"Users can complete personal real-name verification more conveniently and rapidly on the page of JD Cloud",
+		"id":2362
+	},
+	{
+		"introduce":"Native Container Instances support image resetting",
+		"name":"Native Container Instances support image resetting",
+		"description":"Modification to Docker Image, run commands, run parameters, environment variables, working directory, startup items and others of created Native Container Instance is supported, meeting demands for frequent upgrade and iteration of customers’ applications.",
+		"id":2363
+	},
+	{
+		"introduce":"Pod supports image resetting",
+		"name":"Pod supports image resetting",
+		"description":"Modification to Docker Image, run commands, run parameters, environment variables, working directory, startup items and others of created Pod is supported.",
+		"id":2364
+	},
+	{
+		"introduce":"Support H.265 transcode",
+		"name":"Support H.265 transcode",
+		"description":"Live Video transcode supports the H.265 video coding standard. The H.265 code compression ratio is higher than the H.264 compression ratio. For the same image quality, H.265 saves more bandwidth resources than H.264 does.",
+		"id":2365
+	},
+	{
+		"introduce":"JCS for PostgreSQL  Official Release",
+		"name":"JCS for PostgreSQL  Official Release",
+		"description":"JCS for PostgreSQL is a powerful relational database built by JD Cloud based on open source PostgreSQL 10.6 version, installing rich data types (such as JSON, XML and text).",
+		"id":2366
+	},
+	{
+		"introduce":"GPU Instance Type can be added in cn-east-2, and can be selected when a cluster or a working node group is selecting",
+		"name":"Support to Addition of GPU Instance Type in cn-east-2",
+		"description":"1. When a cluster or a working node group is created, the instance type of GPU can be selected;\n2. Currently, GPU type is available to Version 1.12.3 only;\n3. Currently, GPU type is added in cn-north-1; and currently, its dark launch in cn-north-1 and cn-east-2 is made.",
+		"id":2367
 	}
 ]

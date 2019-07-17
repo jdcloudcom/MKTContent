@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Website Threat Scan\",\"label\":[{\"TitleName\":\"Apply for Trial\",\"TitleUrl\":\"https://www.jdcloud.com/en/public/testApply/threatscanner\",\"classTag\":\"\"}],\"desc\":\"Integrating four core functions, i.e. automatic asset association discovery, Web vulnerability scan, port vulnerability scan and weak password detection, it can discover network safety risk of website or server, provide multi-dimensional security detection service to cloud business, reach compliance requirements and detect every website security vulnerability\"}",
+		"id":1356
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Deep Vulnerability Scanning\",\"proName\":\"Support: OWASP Top10 vulnerability detection types, PoC plug-in detection and asset fingerprint scan correlation capacity\"},{\"showShade\":false,\"proGood\":\"Detailed Report\",\"proName\":\"Provide detailed vulnerability scan reports, covering: existing Web security vulnerability of system, application system security vulnerability, existing weak password of system, etc., and their fix recommendations, guiding and helping users to fix up vulnerabilities\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"High Efficiency and Accuracy\",\"proName\":\"The web2.0 intelligent crawling technology is adopted and internal verification mechanism is continuously optimizing, increasing detection accuracy\"}]",
+		"id":1357
+	},
+	{
+		"txt":"[{\"funcName\":\"Threat Overview\",\"funcContent\":[{\"funcTitle\":\"Display of Vulnerability Scan Statistical Results\",\"funcP\":\"Provide risk grade, vulnerability count, vulnerability IP, vulnerability domain, vulnerability development trend, IP dimension, Top10 risk assets of domain dimension and Top10 vulnerability categories\"}]},{\"funcName\":\"Asset Management\",\"funcContent\":[{\"funcTitle\":\"Add vulnerability scan asset\",\"funcP\":\"Public IP and domain assets hosted in JD Cloud can be automatically imported, and cookies scan, URL White List and asset verification are supported as well.\"}]},{\"funcName\":\"Task Management\",\"funcContent\":[{\"funcTitle\":\"Scan Task Management\",\"funcP\":\"Provide functions such as creation of scan task, modification of parameter of scan task, task status management and final download of scan report.\"}]},{\"funcName\":\"Risk Management\",\"funcContent\":[{\"funcTitle\":\"Scan Result Display\",\"funcP\":\"Provide scan result display by vulnerability dimension, IP dimension and domain dimension and provide vulnerability fix recommendation.\"}]}]",
+		"id":1358
+	}
+]

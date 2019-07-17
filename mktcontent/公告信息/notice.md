@@ -506,5 +506,9 @@
 	{
 		"id":721,
 		"title":"\\[Vulnerability Warning\\] Redis 4.x/5.x High Risk Vulnerabilities in Execution of Remote Commands"
+	},
+	{
+		"id":722,
+		"title":"\\[Vulnerability Warning\\] Fastjson <1.2.51 Deserialization Vulnerability"
 	}
 ]

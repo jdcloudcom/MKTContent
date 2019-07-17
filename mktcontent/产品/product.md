@@ -522,5 +522,13 @@
 	{
 		"name":"Cabinet Physical Computing",
 		"id":1312
+	},
+	{
+		"name":"Cloud Detection",
+		"id":1313
+	},
+	{
+		"name":"Website Threat Scan",
+		"id":1314
 	}
 ]

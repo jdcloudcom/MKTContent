@@ -1062,5 +1062,13 @@
 		"jss_key":"News_Content_568",
 		"id":568,
 		"news_title":"Grand Opening of the First East-Asia E-commerce Development Summit & 2019 Shandong E-commerce Conference in Jinan"
+	},
+	{
+		"summary":"As an enterprise providing comprehensive logistics solutions to manufacturers and third-part enterprises, China Cloud Technology kept investing in digital IT and took digitalization as the core efficiency improvement measure. The \"digital process\" relies on stable and reliable support of IT system. By cooperating with JD Cloud, China Cloud Technology deeply integrates advanced technologies such as cloud computing, big data, IoT and others with the logistics industry, explores application of cross-cloud business architecture in all links of the logistics industry, and builds a \"three centers in two regions\"",
+		"image_url":"//img1.jcloudcs.com/cms/244e5d9b-7dde-4b46-a0ba-88495b0e5b3320190712165414.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_575",
+		"jss_key":"News_Content_575",
+		"id":575,
+		"news_title":"JD Cloud helps China Cloud Technology to set up a non-vehicle carrier platform and build the intelligent logistics of \"three center in two regions\""
 	}
 ]
