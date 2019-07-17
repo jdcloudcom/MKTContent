@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"区块链数据服务\",\"label\":[{\"TitleName\":\"立即访问\",\"TitleUrl\":\"https://bds.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"区块链数据服务（BDS)是京东云区块链实验室历时1年多的研发推出的，其将区块链的链式、非结构化数据通过技术手段进行结构化存储，实时同步到高性能数据仓库中。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/bfd111ea-c803-4e83-b0e6-84472c6f5b5720180809163509.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|89\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|89\"}",
+		"id":258
+	},
+	{
+		"txt":"[{\"proGood\":\"丰富性\",\"proName\":\"涵盖了 BTC、ETH、LTC、XRP、BCH 等几十个知名区块链项目，自定义了涉及用户、交易、区块等 100+ 独家数据指标，联网即可查询链上实时数据，即开即用，方便快捷。\\n\\n\"},{\"proGood\":\"便捷性\",\"proName\":\"提供了一个交互式的数据可视化 BI 工具，支持通过点击和拖拽的交互方式进行条件查询，可实时生成各类数据报表、图形化界面。\\n\\n\"},{\"proGood\":\"专业性\",\"proName\":\"支持标准 SQL 查询语句，可轻松实现复杂的查询逻辑。\\n\\n\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"独家性\",\"proName\":\"国内首家提供区块链链上数据查询的产品，并提供了数据可视化 BI 工具。\\n\\n\"}]",
+		"id":259
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"通过点击和拖拽的交互方式添加过滤条件进行数据查询\\n\\n\",\"funcTitle\":\"条件查询\"},{\"funcTitle\":\"SQL 语句查询\",\"funcP\":\"编写 SQL 语句进行复杂的数据查询\\n\\n\"},{\"funcTitle\":\"支持多种图表生成\",\"funcP\":\"针对各类图表可进行高自由度的内容编辑，包括添加文字注释，改变图表颜色以及显示趋势线等功能\\n\\n\"}],\"funcName\":\"数据查询和可视化\"},{\"funcContent\":[{\"funcP\":\"所有的查询记录都会自动被保存到历史问题中\\n\\n\",\"funcTitle\":\"历史问题记录\"},{\"funcTitle\":\"个人集合\",\"funcP\":\"可在个人集合中创建子集合，对查询的问题进行分类，整理，保存。\\n\\n\"},{\"funcTitle\":\"个人仪表盘\",\"funcP\":\"将数据可视化结果展示在一个可进行自由布置的仪表盘，方便进行数据的对比和分析。\\n\\n\"}],\"funcName\":\"查询结果存储和展示\"}]",
+		"id":260
+	},
+	{
+		"txt":"[{\"instruction\":\"通过区块链数据服务实时监控数字货币交易情况，实时了解行情动态，给金融决策提供有效数据支撑。\",\"name\":\"金融决策\",\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1f9732ee-968a-4032-bf7d-effb480a5e4b20190710144330.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"数字货币由于其地址匿名性往往被不法分子用于违法犯罪活动，区块链数据服务中完整记录了交易信息，通过分析地址间的交易行为，定位资金流向，获取金融犯罪的有效证据。\",\"name\":\"犯罪打击\",\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/6a034105-1cce-4efc-acdf-f9495b099be420190710144335.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
+		"id":261
+	}
+]
