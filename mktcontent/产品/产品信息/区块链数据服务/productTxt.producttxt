@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"区块链数据服务\",\"label\":[{\"TitleName\":\"立即访问\",\"TitleUrl\":\"https://bds.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"区块链数据服务（BDS)是京东云区块链实验室历时1年多的研发推出的，其将区块链的链式、非结构化数据通过技术手段进行结构化存储，实时同步到高性能数据仓库中。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/bfd111ea-c803-4e83-b0e6-84472c6f5b5720180809163509.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|89\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|89\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"区块链数据服务\",\"label\":[{\"TitleName\":\"立即访问\",\"TitleUrl\":\"https://bds.jdcloud.com/\",\"classTag\":\"\"},{\"TitleName\":\"GIthub 开源项目\",\"TitleUrl\":\"https://github.com/jdcloud-bds\",\"classTag\":\"\"}],\"desc\":\"区块链数据服务（BDS)是京东云区块链实验室历时1年多的研发推出的，其将区块链的链式、非结构化数据通过技术手段进行结构化存储，实时同步到高性能数据仓库中。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/bfd111ea-c803-4e83-b0e6-84472c6f5b5720180809163509.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|89\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|89\"}",
 		"id":258
 	},
 	{
