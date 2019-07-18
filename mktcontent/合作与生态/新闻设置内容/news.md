@@ -1070,5 +1070,13 @@
 		"jss_key":"News_Content_575",
 		"id":575,
 		"news_title":"京东云助力中企云商搭建无车承运平台 建设“两地三中心”智慧物流"
+	},
+	{
+		"summary":"京东云与京东数科宣布在区块链技术服务领域深度合作，重磅发布了智臻链“云”建设规划，同步上线了“区块链防伪追溯”、“区块链数字存证”两款“京东自营”的京东云市场SaaS应用。京东云还推出国内首款区块链数据在线分析服务产品——BDS服务，并公布BDS开源。",
+		"image_url":"//img1.jcloudcs.com/cms/e5ee6c0f-644e-48e8-9ddc-ecf98db044d920190718172327.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_578",
+		"jss_key":"News_Content_578",
+		"id":578,
+		"news_title":"区块链+京东云深度融合发展 不断拓展产业服务属性"
 	}
 ]
