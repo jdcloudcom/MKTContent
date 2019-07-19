@@ -1078,5 +1078,21 @@
 		"jss_key":"News_Content_578",
 		"id":578,
 		"news_title":"区块链+京东云深度融合发展 不断拓展产业服务属性"
+	},
+	{
+		"summary":"为助推数字经济建设，航天基地管委会与京东云联合举办“航天京东数字经济产业高峰论坛”，解读数字经济发展形势，吸引数字经济要素聚集，搭建数字经济交流平台，推动数字经济产业发展。",
+		"image_url":"//img1.jcloudcs.com/cms/63a67578-2cb1-4b7b-9f71-a01657bbd97f20190719113427.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_580",
+		"jss_key":"News_Content_580",
+		"id":580,
+		"news_title":"数字经济先行 京东云与航天基地携手打造西部领先数字经济发展聚集区"
+	},
+	{
+		"summary":"2019▪爱分析中国企业云高峰论坛在北京召开，论坛现场揭晓了“2019▪爱分析中国企业云科技服务商50强”榜单。京东云作为综合云服务商， 得到87.48的高分，荣登榜单第三名。",
+		"image_url":"//img1.jcloudcs.com/cms/bda38100-3048-4f9e-9153-3573c326d6d720190719171139.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_581",
+		"jss_key":"News_Content_581",
+		"id":581,
+		"news_title":"中国企业云服务商50强揭晓，京东云进入前三"
 	}
 ]
