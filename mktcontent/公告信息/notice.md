@@ -510,5 +510,13 @@
 	{
 		"id":722,
 		"title":"\\[Vulnerability Warning\\] Fastjson <1.2.51 Deserialization Vulnerability"
+	},
+	{
+		"id":723,
+		"title":"Official Launch of JD Cloud Queue Service"
+	},
+	{
+		"id":727,
+		"title":"All-round Upgrade of JD Cloud Account"
 	}
 ]
