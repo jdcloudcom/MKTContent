@@ -1094,5 +1094,13 @@
 		"jss_key":"News_Content_581",
 		"id":581,
 		"news_title":"中国企业云服务商50强揭晓，京东云进入前三"
+	},
+	{
+		"summary":"随着国内互联网企业规模扩张、传统企业数字化转型占比提升，我国未来几年IDC 业务将保持稳定上升趋势。然而，企业在采购 IT基础资源时，仍然受到IDC市场信息分散、交付流程复杂、服务质量难保证等问题的困扰。京东云智能数据中心电商平台致力于把传统IDC行业的线下业务模式线上化运营，依托京东的电商基因和公有云技术能力赋能",
+		"image_url":"//img1.jcloudcs.com/cms/8cc2508a-4466-4740-b5f0-9c433852456320190723153812.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_582",
+		"jss_key":"News_Content_582",
+		"id":582,
+		"news_title":"国内首家智能数据中心电商平台上线   按需定制加速企业快速交付"
 	}
 ]
