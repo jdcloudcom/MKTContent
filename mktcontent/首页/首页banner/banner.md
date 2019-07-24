@@ -887,5 +887,19 @@
 		"id":1116,
 		"button_title":"查看详情",
 		"main_title":"云拨测 开放公测"
+	},
+	{
+		"sub_title":"营销短信 低至0.006元/条",
+		"name":"云通信活动",
+		"id":1118,
+		"button_title":"立即购买",
+		"main_title":"短信套餐 极速直达"
+	},
+	{
+		"sub_title":"区块链数据服务技术应用实践",
+		"name":"区块链沙龙",
+		"id":1120,
+		"button_title":"立即报名",
+		"main_title":"京东云BDS技术沙龙"
 	}
 ]
