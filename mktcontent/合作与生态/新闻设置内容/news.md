@@ -1070,5 +1070,29 @@
 		"jss_key":"News_Content_575",
 		"id":575,
 		"news_title":"JD Cloud helps China Cloud Technology to set up a non-vehicle carrier platform and build the intelligent logistics of \"three center in two regions\""
+	},
+	{
+		"summary":"JD Cloud and My Data Visualization Screen announced their deep cooperation in the field of blockchain technology service by releasing the \"cloud\" construction planning of JD Blockchain Open Platform and synchronously launching two \"JD self-support\" SaaS applications in JD Cloud Marketplace, i.e. \"Blockchain Anti-counterfeiting Tracking\" and \"Blockchain Digital Deposit Certificate\". JD Cloud also launched the first blockchain data online analysis service product — BDS service in China and announced BDS open source.",
+		"image_url":"//img1.jcloudcs.com/cms/e5ee6c0f-644e-48e8-9ddc-ecf98db044d920190718172327.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_578",
+		"jss_key":"News_Content_578",
+		"id":578,
+		"news_title":"Blockchain+JD Cloud Deep Integration and Development  Constantly Expand Service Attributes of the Industry"
+	},
+	{
+		"summary":"In order to facilitate construction of digital economy, the Management Committee of Aerospace Base and JD Cloud jointly held the \"Aerospace JD Digital Economy Industry Summit Forum\" to interpret the development situation of digital economy, attract agglomeration of digital economic factors, build the digital economy exchange platform and promote the industrial development of digital economy.",
+		"image_url":"//img1.jcloudcs.com/cms/63a67578-2cb1-4b7b-9f71-a01657bbd97f20190719113427.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_580",
+		"jss_key":"News_Content_580",
+		"id":580,
+		"news_title":"Digital Economy Starts Off before Others  JD Cloud and Aerospace Base Jointly Build a Leading Digital Economy Development Agglomeration Zone in Western China"
+	},
+	{
+		"summary":"The 2019 ifenxi Chinese Enterprise Cloud Summit Forum was held in Beijing. The Forum revealed the \"Top 50 2019 ifenxi Chinese Enterprise Cloud Technology Service Providers\" on the spot. As a comprehensive cloud service provider, JD Cloud achieved a high point of 87.48, ranking No. 3 among the list.",
+		"image_url":"//img1.jcloudcs.com/cms/bda38100-3048-4f9e-9153-3573c326d6d720190719171139.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_581",
+		"jss_key":"News_Content_581",
+		"id":581,
+		"news_title":"Top 50 Chinese Enterprise Cloud Service Providers Were Revealed and JD Cloud Ranks among Top Three"
 	}
 ]
