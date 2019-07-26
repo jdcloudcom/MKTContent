@@ -1,0 +1,26 @@
+[
+	{
+		"txt":"{\"operator\":\"zhangcheng161\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"AIDC灾备解决方案\",\"description\":\"依托京东云丰富的数据中心和骨干网资源，支持同城数据中心灾备以及不同城市不同可用区域业务灾备的建设，保证业务连续性，最大化保障利益。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/8dd01a11-575f-431c-84bf-64eac932dca320190627185147.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[],\"tagMetas\":[]}]}",
+		"templet":"11",
+		"id":659,
+		"solution_id":"138"
+	},
+	{
+		"txt":"{\"operator\":\"zhangcheng161\",\"floorName\":\"方案架构\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/798663de-078d-4a74-8f95-baf2ddd0d67620190627185404.png\",\"title\":\"AIDC灾备解决方案\",\"descriptionDetail\":\"1、同城备份中心支持重要信息系统的数据实时同步、热备份和双活，是生产中心高可用性设计的延伸，支持重要信息系统单系统故障和区域性灾难的快速切换，并支持该部分信息系统的长期运行；2、异地灾难备份中心支持业务的全面、完整的恢复，支持个别系统多活，支持资源复用，满足开发测试和BI类资源需求，非区域性灾难发生时，根据业务灾难恢复等级保障所有业务得到恢复，并提供长时间运行支持。\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"templet":"31",
+		"id":661,
+		"solution_id":"138"
+	},
+	{
+		"txt":"{\"operator\":\"zhangcheng161\",\"floorName\":\"方案优势\",\"name\":\"advantage\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d6ceae35-bc5e-43e1-a8ef-12745a67a7c020190627190216.png\",\"title\":\"RTO更低\",\"description\":\"依托京东云自建骨干网优势，RTO（系统恢复的时间）更低。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/bb5139a3-4fca-4a50-9df0-cf3391dfc00920190627190249.png\",\"title\":\"高性价比\",\"description\":\"京东云拥有众多的分布式数据中心，异地灾备机房选址更灵活，可将灾备DC选址在低成本地域，最大化降低客户成本投入。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/66aee2d6-900e-41bf-9442-a6118320a3c720190627190306.png\",\"title\":\"RPO=0\",\"description\":\"主中心发生大故障，业务切换到备中心，数据零丢失。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3d761e8d-eb3a-41eb-9621-55f9e7b287b020190718164648.png\",\"title\":\"保证业务连续性\",\"description\":\"保证系统能够顺利切换到灾备地，继续运营，最大化保障利益。\"}]}",
+		"templet":"51",
+		"id":662,
+		"solution_id":"138"
+	},
+	{
+		"txt":"{\"operator\":\"zhangcheng161\",\"floorName\":\"方案产品构成\",\"name\":\"newTab-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b1511a65-12a9-478e-b723-615d10894ea920190627190429.png\"}]}",
+		"templet":"32",
+		"id":663,
+		"solution_id":"138"
+	}
+]
