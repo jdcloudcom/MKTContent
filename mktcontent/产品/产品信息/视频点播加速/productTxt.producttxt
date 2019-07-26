@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"VOD Acceleration\",\"label\":[],\"desc\":\"The VOD Acceleration platform independently researched and developed by JD Cloud supports the acceleration of the video contents of the websites accessed by HTTP and HTTPS protocols as well as file uploading and downloading, multiple video file formats, etc., buffers video resources to the CDN nodes nearest to the user.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Video Acceleration\",\"label\":[],\"desc\":\"The Video Acceleration platform independently researched and developed by JD Cloud supports the acceleration of the video contents of the websites accessed by HTTP and HTTPS protocols as well as file uploading and downloading, multiple video file formats, etc., buffers video resources to the CDN nodes nearest to the user.\"}",
 		"id":731
 	},
 	{
