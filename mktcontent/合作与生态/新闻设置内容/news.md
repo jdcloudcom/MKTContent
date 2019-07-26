@@ -1102,5 +1102,29 @@
 		"jss_key":"News_Content_582",
 		"id":582,
 		"news_title":"国内首家智能数据中心电商平台上线   按需定制加速企业快速交付"
+	},
+	{
+		"summary":"本次会议以“创新发展思路·推动媒体融合”为主题，围绕融媒体中心建设方案，融媒体网络安全思路，融媒体云计算、大数据应用分析三个方面，包括京东云、中国电信、华为、用友等30多家厂商参加了此次会议并展开了深入讨论与交流。",
+		"image_url":"//img1.jcloudcs.com/cms/9e6917ea-49a8-467f-8bd0-46cbcae9edc420190726094549.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_586",
+		"jss_key":"News_Content_586",
+		"id":586,
+		"news_title":"京东云融媒+服务助力县级融媒体持续发展"
+	},
+	{
+		"summary":"面对数百亿访问流量、每秒数百万次高并发请求、数十亿的实时消息推送……京东云经受住了极限考验，用稳如磐石的技术体系，保障全天核心服务不降级、零重大事故，为海量订单高效智能奠定技术基石。",
+		"image_url":"//img1.jcloudcs.com/cms/33f99d16-c2fb-46bd-8d68-d1cb3141018620190726144558.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_587",
+		"jss_key":"News_Content_587",
+		"id":587,
+		"news_title":"京东云战略投资捷报频传  技术补强超前布局大生态"
+	},
+	{
+		"summary":"本次合作既是三方合作共赢的战略之举，也是三方在智慧物联领域开启全面合作新征程的重要标志。三方会以此为新起点，在智慧物联、大数据、人工智能大规模应用场景开发等领域进一步深化合作，构建5G时代的物联网生态，在更高层次上实现互利共赢。",
+		"image_url":"//img1.jcloudcs.com/cms/c66fafe8-0ff3-4cc9-b5af-9822df74777320190726163705.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_588",
+		"jss_key":"News_Content_588",
+		"id":588,
+		"news_title":"京东云8491万中标中国移动云产品及服务  推进“5G万物互联“融合发展"
 	}
 ]
