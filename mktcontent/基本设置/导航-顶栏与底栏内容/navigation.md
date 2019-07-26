@@ -2768,10 +2768,57 @@
 	},
 	{
 		"name":"云簇超融合",
+		"description":"云簇超融合是安全稳定可靠的软硬件一体化云平台",
 		"id":5267
 	},
 	{
 		"name":"云簇敏捷版",
+		"description":"云簇敏捷版是支持中小集群规模的私有云软件平台",
 		"id":5269
+	},
+	{
+		"name":"云数据库 InfluxDB",
+		"description":"高性能时序数据库，用于存储和分析大量时序数据",
+		"id":5271
+	},
+	{
+		"name":"云数据库 Greenplum",
+		"description":"在线MPP大规模并行处理数据仓库服务",
+		"id":5273
+	},
+	{
+		"name":"电商云",
+		"description":"电商云",
+		"id":5275
+	},
+	{
+		"name":"智能 IDC 托管云",
+		"description":"智能 IDC 托管云",
+		"id":5277
+	},
+	{
+		"name":"智能 IDC 灾备",
+		"description":"智能 IDC 灾备",
+		"id":5279
+	},
+	{
+		"name":"智能 IDC 专有云",
+		"description":"智能 IDC 专有云",
+		"id":5281
+	},
+	{
+		"name":"智能 IDC 托管云",
+		"description":"智能 IDC 托管云",
+		"id":5283
+	},
+	{
+		"name":"智能 IDC 灾备",
+		"description":"智能 IDC 灾备",
+		"id":5285
+	},
+	{
+		"name":"智能 IDC 专有云",
+		"description":"智能 IDC 专有云",
+		"id":5287
 	}
 ]
