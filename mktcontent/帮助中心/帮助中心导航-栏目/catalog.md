@@ -1616,5 +1616,15 @@
 		"summary":"",
 		"name":"风格识别",
 		"id":3371
+	},
+	{
+		"summary":"",
+		"name":"视频点播",
+		"id":3373
+	},
+	{
+		"summary":"",
+		"name":"云数据库 InfluxDB",
+		"id":3375
 	}
 ]
