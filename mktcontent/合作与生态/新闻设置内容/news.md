@@ -1094,5 +1094,13 @@
 		"jss_key":"News_Content_581",
 		"id":581,
 		"news_title":"Top 50 Chinese Enterprise Cloud Service Providers Were Revealed and JD Cloud Ranks among Top Three"
+	},
+	{
+		"summary":"With scale expansion of Internet enterprises in China and proportion growth of digital transformation of traditional enterprises, IDC business will maintain the stable rising trend in China in the coming years. However, when purchasing IT basic resources, these enterprises are still troubled by scattered IDC market information, complex delivery process and difficulty to guarantee service quality etc. JD Cloud IDC E-commerce Platform is dedicated to transform the off-line business mode of traditional IDC industry to on-line operation, empowering based on JD’s e-commerce gene and technical capacity of public cloud",
+		"image_url":"//img1.jcloudcs.com/cms/8cc2508a-4466-4740-b5f0-9c433852456320190723153812.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_582",
+		"jss_key":"News_Content_582",
+		"id":582,
+		"news_title":"Launch of First IDC E-commerce Platform in China   Acceleration of Enterprise’s Fast Delivery by Customization on Demand"
 	}
 ]

@@ -1972,5 +1972,65 @@
 		"name":"Support to Addition of GPU Instance Type in cn-east-2",
 		"description":"1. When a cluster or a working node group is created, the instance type of GPU can be selected;\n2. Currently, GPU type is available to Version 1.12.3 only;\n3. Currently, GPU type is added in cn-north-1; and currently, its dark launch in cn-north-1 and cn-east-2 is made.",
 		"id":2367
+	},
+	{
+		"introduce":"Launch of DDoS Security Protection for Cloud Cabinet Service",
+		"name":"Launch of DDoS Security Protection for Cloud Cabinet Service",
+		"description":"2G Anti-DDoS Basic is supported for users in Cabinet Service regions such as cn-north-1 (BJ1, BJ2, BJ3 and BJ4 data centers), cn-east-1 (SQ1 data center) and cn-east-2 (SH1 and SH2 data centers), and up to 50G protection capability can be obtained by purchasing the Anti-DDoS Protection Package. Protection packages purchased for the Cabinet Service regions and their application method are consistent with DDoS products.",
+		"id":2394
+	},
+	{
+		"introduce":"Cloud Detection  Open Beta",
+		"name":"Cloud Detection  Open Beta",
+		"description":"Cloud Detection provides the site monitoring service and availability monitoring service. It can initiate detection to domains, IP addresses and ports etc. of public network and Intranet service, judge the availability of detection address via various monitoring indicators and provide threshold alarm function, helping users discover problems in a quick fashion.",
+		"id":2395
+	},
+	{
+		"introduce":"JD account is upgraded to the new JD Cloud account",
+		"name":"JD Account Upgrade",
+		"description":"JD account can be turned to the new JD Cloud account through upgrade and the login of the new JD Cloud account is independent with that of JD account",
+		"id":2396
+	},
+	{
+		"introduce":"High-definition and Low-code Rate Transcode",
+		"name":"Jingxiang Super Definition Transcode",
+		"description":"With JD Cloud's special video coding capability and optimization algorithm, it can implement intelligent analysis and processing on contents, scenarios and frames in videos to enable high definition while reducing the video code rate, thus effectively saving bandwidth used and costs for customers.",
+		"id":2397
+	},
+	{
+		"introduce":"Multiple Transcode",
+		"name":"Topspeed Transcode",
+		"description":"Topspeed transcode is based on the \"Particle Transcode\" technology developed by JD Cloud on its own. It supports multiple transcode acceleration, greatly reducing transcode time and meeting customers’ demands for rapid production and release of videos.",
+		"id":2398
+	},
+	{
+		"introduce":"Audio Volume Control",
+		"name":"Comfortable Audio",
+		"description":"Comfortable audio is based on JD Cloud’s unique \"Enjoy Intelligent Audio\" analysis and processing technology. It analyzes audio volume, and automatically realizes automatic gain and dynamic range adjustment for audios, realizing smoother program volume transition between different scenarios and providing customers with more comfortable video and audio experience.",
+		"id":2399
+	},
+	{
+		"introduce":"Audio Volume Control",
+		"name":"Comfortable Audio",
+		"description":"Comfortable audio is based on JD Cloud’s unique \"Enjoy Intelligent Audio\" analysis and processing technology. It analyzes audio volume, and automatically realizes automatic gain and dynamic range adjustment for audios, realizing smoother program volume transition between different scenarios and providing customers with more comfortable video and audio experience.",
+		"id":2400
+	},
+	{
+		"introduce":"4K Live",
+		"name":"4K Live",
+		"description":"4K live streaming transcode is supported, with resolution range increased to 3840*2160 and code rate increased to 15M, so that the demands for ultra-high-definition live video transcoding, such as 2K and 4K, are better supported.",
+		"id":2402
+	},
+	{
+		"introduce":"Access Log Download",
+		"name":"Log Download",
+		"description":"Log Download access by users is supported, customers can customize log timer interval and two application methods are supported, i.e., openAPI and Customer Console.\t",
+		"id":2403
+	},
+	{
+		"introduce":"High-definition and Low-code Rate Transcode",
+		"name":"Jingxiang Super Definition Transcode",
+		"description":"With JD Cloud’s special video coding capability and optimization algorithm, it can implement intelligent analysis and processing on contents, scenarios and frames in videos to enable high definition while reducing the video code rate, thus effectively saving bandwidth used and costs for customers.\t",
+		"id":2404
 	}
 ]
