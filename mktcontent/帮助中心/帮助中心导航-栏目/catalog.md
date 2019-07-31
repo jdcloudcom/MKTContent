@@ -1626,5 +1626,20 @@
 		"summary":"",
 		"name":"云数据库 InfluxDB",
 		"id":3375
+	},
+	{
+		"summary":"",
+		"name":"专有云",
+		"id":3377
+	},
+	{
+		"summary":"",
+		"name":"云簇超融合",
+		"id":3378
+	},
+	{
+		"summary":"",
+		"name":"云簇敏捷版",
+		"id":3379
 	}
 ]
