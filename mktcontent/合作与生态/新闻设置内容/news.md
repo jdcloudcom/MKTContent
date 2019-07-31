@@ -1126,5 +1126,21 @@
 		"jss_key":"News_Content_588",
 		"id":588,
 		"news_title":"京东云8491万中标中国移动云产品及服务  推进“5G万物互联“融合发展"
+	},
+	{
+		"summary":"京东云发布《私有云&混合云白皮书》，介绍了京东云多种云计算平台产品，梳理了不同客户的需求，并基于京东云产品和客户需求，归纳出京东云私有云、专有云、专属云和混合云在不同行业中的典型解决方案，为客户选择适合自身业务发展的云平台解决方案提供有价值的参考。",
+		"image_url":"//img1.jcloudcs.com/cms/2ddf4c00-ea46-452c-bfdd-7be17b4d798020190731105336.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_590",
+		"jss_key":"News_Content_590",
+		"id":590,
+		"news_title":"京东云发布《私有云&混合云白皮书》 构建客户想要的云平台"
+	},
+	{
+		"summary":"从消费互联向产业互联迈进，绝不意味着，产业互联网要革消费互联网的命，更多的是，对它的迭代、升级和延展。作为京东集团对外赋能的主要窗口，京东云将汇聚自身的技术和资源优势，赋能各产业，助力中国的数字化进程。",
+		"image_url":"//img1.jcloudcs.com/cms/55d183ab-abc3-4894-a65e-bee354f4060820190731170819.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_591",
+		"jss_key":"News_Content_591",
+		"id":591,
+		"news_title":"京东云王培暖：产业互联不是对消费互联的革命，而是延伸"
 	}
 ]
