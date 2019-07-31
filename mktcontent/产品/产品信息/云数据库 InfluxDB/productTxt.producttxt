@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"云数据库 InfluxDB\",\"desc\":\"云数据库 InfluxDB 是京东云基于 InfluxDB 提供的高性能在线时序数据库服务，可广泛应用于大量时间戳数据的存储与分析场景，如：DevOps监控、物联网传感器数据收集和实时分析等。\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/tsds\",\"classTag\":\"https://www.jdcloud.com/public/testApply/tsds\"}],\"instruction\":[]}",
+		"id":1395
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"快速部署\",\"proName\":\"通过京东云控制台，几分钟内即可创建出 InfluxDB 实例，实例具备完善的管理、监控等功能，可快速投入到业务应用中。\"},{\"showShade\":false,\"proGood\":\"弹性扩容\",\"proName\":\"支持弹性扩容缩容，可根据业务情况按需调整配置，提高资源利用率高，降低使用成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全可靠\",\"proName\":\"实例部署在用户自定义的VPC私有网络内，在TCP层直接进行网络隔离保护，确保数据安全；支持IP白名单设置功能，从访问源进行安全控制；支持启用SSL加密，进一步提升数据传输过程的安全性。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"服务高可用\",\"proName\":\"数据以三副本方式保存，数据层自动容灾切换可秒级完成；服务层为单节点高可用模式，服务出现故障时在几分钟内可自动完成容灾切换。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"运维便捷\",\"proName\":\"提供丰富的监控信息，并支持设置自动报警规则，随时随地掌握实例健康状况，降低用户数据库运维成本。\"}]",
+		"id":1396
+	},
+	{
+		"txt":"[{\"funcName\":\"轻松使用\",\"funcContent\":[{\"funcTitle\":\"快速部署\",\"funcP\":\"通过 InfluxDB 控制台，在几分钟内即可创建出 InfluxDB 实例。\"},{\"funcTitle\":\"弹性扩容\",\"funcP\":\"支持扩容缩容，可根据业务情况按需升级或降级实例配置，提高资源利用率，降低使用成本。\"}]},{\"funcName\":\"服务可用性\",\"funcContent\":[{\"funcTitle\":\"自动容灾\",\"funcP\":\"数据以三副本方式保存，数据层自动容灾切换可秒级完成；服务层为单节点高可用模式，服务出现故障时在几分钟内可自动完成容灾切换。\"}]},{\"funcName\":\"安全保障\",\"funcContent\":[{\"funcTitle\":\"VPC私有网络\",\"funcP\":\"实例部署在用户自定义的VPC私有网络内，在TCP层直接进行网络隔离保护，确保数据安全性。\"},{\"funcTitle\":\"白名单\",\"funcP\":\"支持用户自定义可访问的IP白名单，从访问源进行安全控制。\"},{\"funcTitle\":\"SSL加密\",\"funcP\":\"支持SSL加密，进一步提升数据传输中的安全性。\"}]},{\"funcName\":\"运维便捷\",\"funcContent\":[{\"funcTitle\":\"可视化监控\",\"funcP\":\"TSDS 控制台提供丰富的监控信息，包括CPU、内存、存储空间、IOPS等信息，您可以随时查看实例运行状态。\"},{\"funcTitle\":\"自动报警\",\"funcP\":\"您可以根据监控项设置报警规则，当监控项达到设置的阈值时，系统会通过短信和邮件的方式向您发送报警信息。\"}]}]",
+		"id":1397
+	},
+	{
+		"txt":"[{\"name\":\"物联网设备监控\",\"instruction\":\"通过IoT平台采集用户物联网设备的监控指标，数据全量写入TSDS，监控系统访问TSDS进行可视化监控。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c6d2a3bf-99b5-4fea-9032-5907177714b420190726151550.png\",\"showShade\":false},{\"name\":\"互联网业务性能监控\",\"instruction\":\"日志与监控指标写入Kafka，通过Flink 进行业务规则的实时计算，将计算结果存储到TSDS，业务监控系统访问TSDS数据进行系统分析与数据展示。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9b3a6b7c-81a8-4f21-86d6-cdd0d026c1ac20190726151557.png\",\"showShade\":false}]",
+		"id":1398
+	}
+]
