@@ -1142,5 +1142,13 @@
 		"jss_key":"News_Content_591",
 		"id":591,
 		"news_title":"京东云王培暖：产业互联不是对消费互联的革命，而是延伸"
+	},
+	{
+		"summary":"渝水区政府与京东云，将共建京东云（新余）新经济产业园，京东云（新余）新经济产业园下设商家服务中心、协同创新中心、新经济人才培训中心，其中包含产业运营支撑服务和城市及产业品牌建设服务，面向“互联网+”工业、农业、旅游三大板块，提供产业引入、产品孵化、产业运营、品牌打造等全链条服务，共建“互联网+”应用示范中心。",
+		"image_url":"//img1.jcloudcs.com/cms/f76af813-bb0b-4b98-af63-aa1df35da98320190801195704.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_592",
+		"jss_key":"News_Content_592",
+		"id":592,
+		"news_title":"京东云（新余）新经济产业园落地渝水"
 	}
 ]
