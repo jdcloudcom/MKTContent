@@ -1102,5 +1102,29 @@
 		"jss_key":"News_Content_582",
 		"id":582,
 		"news_title":"Launch of First IDC E-commerce Platform in China   Acceleration of Enterprise’s Fast Delivery by Customization on Demand"
+	},
+	{
+		"summary":"This conference takes \"Innovate Development Concept, Push Media Convergence\" as the theme, and includes three aspects of construction plan of convergence media center, convergence media network security idea, convergence media cloud computing, big data application analysis. More than 30 manufacturers including JD Cloud, China Telecom, Huawei and UFIDA participated in the conference and carried out in-depth discussions and exchanges.",
+		"image_url":"//img1.jcloudcs.com/cms/9e6917ea-49a8-467f-8bd0-46cbcae9edc420190726094549.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_586",
+		"jss_key":"News_Content_586",
+		"id":586,
+		"news_title":"JD Cloud Convergence Media + Services help sustainable development of country-level convergence media"
+	},
+	{
+		"summary":"Facing hundreds of billions of access traffic, hundreds of millions of highly concurrent requests per second and hundreds of billions of real time message push... JD Cloud withstood the limit test, guaranteed no degradation of core service and sporadic major accidents throughout the whole day with its steady technical system, and laid a technical foundation for completing massive orders efficiently and intelligently.",
+		"image_url":"//img1.jcloudcs.com/cms/33f99d16-c2fb-46bd-8d68-d1cb3141018620190726144558.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_587",
+		"jss_key":"News_Content_587",
+		"id":587,
+		"news_title":"Triumphant news of JD Cloud strategic investment keep pouring in  Reinforced by technology, with advanced layout of huge ecosystem"
+	},
+	{
+		"summary":"This cooperation is not only a win-win cooperation strategy among three parties, but also an important symbol of starting the new journey of comprehensive cooperation between the three parties in the AIoT field. The three parties would take this as a new starting point to further deepen cooperation in areas such as AIoT, big data and AI large-scale application scenarios development and build IoT ecology in 5G era, to achieve mutual benefit and win-win results at a higher level.",
+		"image_url":"//img1.jcloudcs.com/cms/c66fafe8-0ff3-4cc9-b5af-9822df74777320190726163705.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_588",
+		"jss_key":"News_Content_588",
+		"id":588,
+		"news_title":"JD Cloud won the bid of China Mobile Cloud Product and Service by RMB 84.91 million  Promote the integrated development of \"5G IoT\""
 	}
 ]

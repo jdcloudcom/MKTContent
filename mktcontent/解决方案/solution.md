@@ -186,5 +186,17 @@
 	{
 		"name":"AIDC Security Solution",
 		"id":136
+	},
+	{
+		"name":"AIDC Hosted Cloud Solutions",
+		"id":137
+	},
+	{
+		"name":"AIDC Disaster Recovery Solutions",
+		"id":138
+	},
+	{
+		"name":"AIDC Proprietary Cloud Solutions",
+		"id":139
 	}
 ]

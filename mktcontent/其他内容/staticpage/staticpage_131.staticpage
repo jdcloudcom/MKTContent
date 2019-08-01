@@ -1,0 +1,432 @@
+<div class="jdc-banner-wrap">
+  <div class="jdc-banner" id="touchSlide">
+    <ul class="js-slider-body">
+      <li class="item jdc-slider-item selected">
+        <a data-ga="Apply for Trial" href="https://book.jdcloud.com/jcuser/apply?productType=1" clstag="ECC|keycount|SectionBannerSec|Link1" target="_blank" clstag="">
+          <div class="jdc-content-wrap">
+            <div class="left-area">
+              <h1 class="jdc-slider-title">E-commerce Cloud</h1>
+              <p class="jdc-slider-des">Build a complete e-commerce closed loop for enterprises, and provide the digitalized, intelligent, networked and
+integrated core value.</p>
+
+              <span class="jdc-banner-btn hidden-xs">Apply for Trial</span>
+
+            </div>
+            <div class="right-area">
+              <div class="img-box">
+                <img src="https://img1.jcloudcs.com/portal/shop/banner0108.png">
+              </div>
+            </div>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="product-advantage-section">
+    <div class="product-advantage-main">
+        <div class="product-advantage-title">
+            <h2>Core Benefits</h2>
+            <p class="sw-floor-des hidden-xs">Based on the operating experience and technologies integrated and accumulated by virtue of JD’s years of unique industrial genes, <br/>the one-stop SaaS e-commerce platform and cloud services are provided to the customer. Personalized demands are handled in a configured, customized and integrated way</p>
+
+            <p class="sw-floor-des hidden-lg">Based on the operating experience and technologies integrated and accumulated by virtue of JD’s years of unique industrial genes, the one-stop SaaS e-commerce platform and cloud services are provided to the customer. Personalized demands are handled in a configured, customized and integrated way</p>
+
+        </div>
+        <div class="product-advantage-content">
+            <div class="row product-advantage-list">
+                <div class="col-3 col-xs-12 product-advantage-item">
+                    <div class="product-advantage-img">
+                        <i class="icon"><img class="product-advantage-logo" src="https://img1.jcloudcs.com/portal/shop/jingyan.svg"/></i>
+                    </div>
+                    <p class="product-advantage-name">Years of Experience in E-commerce and Technology</p>
+
+                    <div class="product-advantage-line"></div>
+                    <p class="product-advantage-detail">
+                        Based on JD’s unique understanding about e-commerce and its genes, JD has accumulated experience in operation and technology throughout many years.
+                    </p>
+
+                </div>
+                <div class="col-3 col-xs-12 product-advantage-item">
+                    <div class="product-advantage-img">
+                        <i class="icon"><img class="product-advantage-logo" src="https://img1.jcloudcs.com/portal/shop/liuliang.svg"/></i>
+                    </div>
+                    <p class="product-advantage-name">Incremental Traffic Cusp</p>
+
+                    <div class="product-advantage-line"></div>
+                    <p class="product-advantage-detail">
+                        Open up the social scenarios of social e-commerce traffic inlets (WeChat, live broadcast, community and social group) and other traffic cusps.
+                    </p>
+
+                </div>
+                <div class="col-3 col-xs-12 product-advantage-item">
+                    <div class="product-advantage-img">
+                        <i class="icon"><img class="product-advantage-logo" src="https://img1.jcloudcs.com/portal/shop/ziyuan.svg"/></i>
+                    </div>
+                    <p class="product-advantage-name">Fully integrate JD’s resources</p>
+
+                    <div class="product-advantage-line"></div>
+                    <p class="product-advantage-detail">
+                        Gather JD’s years of experience in e-commerce, resources, advantageous capabilities... and other external empowerment resources.
+                    </p>
+
+                </div>
+                <div class="col-3 col-xs-12 product-advantage-item">
+                    <div class="product-advantage-img">
+                        <i class="icon"><img class="product-advantage-logo" src="https://img1.jcloudcs.com/portal/shop/yewu.svg"/></i>
+                    </div>
+                    <p class="product-advantage-name">Business Driving</p>
+
+                    <div class="product-advantage-line"></div>
+                    <p class="product-advantage-detail">
+                        Data and intelligent recommendation provide JD’s big data capability and e-commerce model.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+        <div class="product-advantage-title">
+            <h2>Business Architecture</h2>
+        </div>
+        <div class="product-advantage-content">
+            <div class="tgy-wrap">
+                <div class="tgy-case-left"></div>
+                <div class="tgy-case-box">
+                    <h3 class="tgy-case-h3">Architecture Description</h3>
+                    <p class="tgy-case-p">● S2B2C is a sort of relatively new e-commerce service mode, and e-commerce cloud provides providers (S) and (B) enterprises with e-commerce platform tools, can organize high quality supply chains/sources of goods, purchase goods from the inside, or construct official websites for brands. Externally (C), it can construct the retail e-commerce business or descend to social scenarios, implement the distribution mechanism at various levels plus attractive incentive policies, and rapidly disintegrate to form the business value chain of the whole small ecology SaaS.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="typical-scene-section">
+    <div class="typical-scene-main">
+        <h2 class="typical-scene-title">Product Series</h2>
+        <ul class="typical-scene-tabs clearfix">
+            <li class="typical-tabs-item active" clastag="ECC|keycount|MiddleContentSec|Tab1">Industrial E-commerce</li>
+            <li class="typical-tabs-item" clastag="ECC|keycount|MiddleContentSec|Tab2">Cloud Store</li>
+            <li class="typical-tabs-item" clastag="ECC|keycount|MiddleContentSec|Tab3">Intelligent Recommendation</li>
+        </ul>
+
+        <div class="typical-tabs-content clearfix" style="display:block">
+            <div class="typical-content-word">
+                <div class="typical-content-con">
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Policy:</span>
+
+                        <span class="typical-content-text typical-content-text-indent">
+                            By building self-support online store, enterprises can realize the sale of self-owned products. At the same time, it contributes to the brand promotion, investment attraction and brand influence expanding, building a full channel and full scene online retail store for brand merchants and retailers, fully defending against the threat of disappearance of traffic bonus, and carrying out member interaction.
+                        </span>
+
+                    </p>
+
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Applicable Scenarios:</span>
+
+                        <span class="typical-content-text">E.g., enterprise collection, brand online stores, B2C retail online stores, B2B2C retail, points malls, etc. empower the customer from the perspective of SaaS, provide integrated SaaS solutions, and help enterprises’ IT digital transformation amid the upgrading and transformation tide of industrial Internet.</span>
+
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="typical-content-img">
+                <div class="typical-content-bgImg"><img src="https://img1.jcloudcs.com/portal/shop/dianshang.png"></div>
+            </div>
+        </div>
+        <div class="typical-tabs-content clearfix" style="display: none;">
+            <div class="typical-content-word">
+                <div class="typical-content-con">
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Policy:</span>
+
+                        <span class="typical-content-text typical-content-text-indent">
+                            "The community-based e-commerce SaaS platform can be participated by all people" reduces the goods selling threshold. Simplify the store setup process, and further integrate JD’s high quality supply chain, so the sellers or KOL online celebrities can focus on commodity propagation on terminal C without considering channels and after-sales problems, and ordinary persons can "start up business with one click"
+                        </span>
+
+                    </p>
+
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Applicable Scenarios:</span>
+
+                        <span class="typical-content-text">Cover multiple social scenarios such as social group disintegration, group buying of communities, live broadcast e-commerce (connected to Tencent live broadcast), rebate shopping guide, etc.</span>
+
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="typical-content-img">
+                <div class="typical-content-bgImg"><img src="https://img1.jcloudcs.com/portal/shop/xiaodian.png"></div>
+            </div>
+        </div>
+        <div class="typical-tabs-content clearfix" style="display: none;">
+            <div class="typical-content-word">
+                <div class="typical-content-con">
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Policy:</span>
+
+                        <span class="typical-content-text typical-content-text-indent">
+                            Based on JD’s leading big data and artificial intelligence technology, centering on data + algorithms + systems, and in combination with the accumulations in the e-commerce industrial field, provide the global enterprises and developers with the personalized recommendation service of real-time big data machine learning, and rapidly achieve the integration of intelligent recommendation abilities by API call.
+                        </span>
+
+                    </p>
+
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Applicable Scenarios:</span>
+
+                        <span class="typical-content-text">Various e-commerce recommendation scenarios: Personalized recommendation, social group recommendation, collocation recommendation, relevant recommendation, search recommendation, hot recommendation... and other intelligent recommendation scenarios. Also, they can be customized based on the user’s demands. The customers are classified into the following grades: Basic version - intermediate version - advanced version - customized version.</span>
+
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="typical-content-img">
+                <div class="typical-content-bgImg"><img src="https://img1.jcloudcs.com/portal/shop/zhineng2.png"></div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<h2 class="typical-scene-title1">Product Series</h2>
+<div class="typical-scene-tab-tit jdc-common-arr active" id="chanye">Industrial E-commerce</div>
+<div class="typical-scene-section1">
+    <div class="typical-scene-main">
+        <div class="typical-tabs-content clearfix">
+            <div class="typical-content-word">
+                <div class="typical-content-con">
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Policy:</span>
+
+                        <span class="typical-content-text typical-content-text-indent">
+                            By building self-support online store, enterprises can realize the sale of self-owned products. At the same time, it contributes to the brand promotion, investment attraction and brand influence expanding, building a full channel and full scene online retail store for brand merchants and retailers, fully defending against the threat of disappearance of traffic bonus, and carrying out member interaction.
+                        </span>
+
+                    </p>
+
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Applicable Scenarios:</span>
+
+                        <span class="typical-content-text">E.g., enterprise collection, brand online stores, B2C retail online stores, B2B2C retail, points malls, etc. empower the customer from the perspective of SaaS, provide integrated SaaS solutions, and help enterprises’ IT digital transformation amid the upgrading and transformation tide of industrial Internet.</span>
+
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="typical-content-img">
+                <div class="typical-content-bgImg"><img src="https://img1.jcloudcs.com/portal/shop/dianshang.png"></div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="jdc-case-list">
+    <div class="jdc-case-list-bd">
+        <div class="case-content w">
+            <div class="case-content-item">
+                <a href="https://www.jdcloud.com/en/solutions/purchase" clastag="ECC|keycount|MiddleContentSec|Link1" class="case-link">
+                    <div class="case-logo-wrap"><img src="https://img1.jcloudcs.com/portal/shop/qiyecaigou1.svg"></div>
+                    <h6 class="case-pro-title">Enterprise Purchase-Solutions</h6>
+
+                    <div class="case-wrap-m">
+                        <div class="case-pro-list">
+                            <label class="case-pro-list-label">Help enterprises build a one-stop on-line procurement service platform, upgrading from the traditional procurement mode to the sound and efficient Internet with guaranteed product quality and more transparent prices, which can be controlled by providers</label>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="case-content-item">
+                <a href="https://www.jdcloud.com/en/solutions/resale" clastag="ECC|keycount|MiddleContentSec|Link2" class="case-link">
+                    <div class="case-logo-wrap"><img src="https://img1.jcloudcs.com/portal/shop/lingshoushangcheng.svg"></div>
+                    <h6 class="case-pro-title">Retail Online Store-Solutions</h6>
+
+                    <div class="case-wrap-m">
+                        <div class="case-pro-list">
+                            <label class="case-pro-list-label">Help enterprises build retail online stores, support self-support + POP mode, and connect to mainstream e-commerce platforms and social platforms</label>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="case-content-item">
+                <a href="https://www.jdcloud.com/en/solutions/purchase" clastag="ECC|keycount|MiddleContentSec|Link3" class="case-link">
+                    <div class="case-logo-wrap"><img src="https://img1.jcloudcs.com/portal/shop/jifenshangcheng.svg"></div>
+                    <h6 class="case-pro-title">Member Online Store-Solutions</h6>
+
+                    <div class="case-wrap-m">
+                        <div class="case-pro-list">
+                            <label class="case-pro-list-label">Quickly build points malls to help enterprises consume the existing bonus point stock, and provide the "one-stop" bonus point exchange solutions, including (employee benefits, channel rewards, marketing activities, customer management and maintenance, etc.)</label>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="typical-scene-tab-tit jdc-common-arr" id="yunshop">Cloud Store</div>
+<div class="typical-scene-section1" style="display: none;height:400px">
+    <div class="typical-scene-main">
+        <div class="typical-tabs-content clearfix">
+            <div class="typical-content-word">
+                <div class="typical-content-con">
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Policy:</span>
+
+                        <span class="typical-content-text typical-content-text-indent">
+                            "The community-based e-commerce SaaS platform can be participated by all people" reduces the goods selling threshold. Simplify the store setup process, and further integrate JD’s high quality supply chain, so the sellers or KOL online celebrities can focus on commodity propagation on terminal C without considering channels and after-sales problems, and ordinary persons can "start up business with one click"
+                        </span>
+
+                    </p>
+
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Applicable Scenarios:</span>
+
+                        <span class="typical-content-text">Cover multiple social scenarios such as social group disintegration, group buying of communities, live broadcast e-commerce (connected to Tencent live broadcast), rebate shopping guide, etc.</span>
+
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="typical-content-img">
+                <div class="typical-content-bgImg"><img src="https://img1.jcloudcs.com/portal/shop/xiaodian.png"></div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="jdc-case-list" style="display: none;">
+    <div class="jdc-case-list-bd">
+        <div class="case-content w">
+            <div class="case-content-item">
+                <div class="case-link">
+                    <div class="case-logo-wrap"><img src="https://img1.jcloudcs.com/portal/shop/yunxiaodian.svg"></div>
+                    <h6 class="case-pro-title">Cloud Store</h6>
+
+                    <div class="case-wrap-m">
+
+                        <div class="case-pro-list">
+                            <label class="case-pro-list-label">Establish distribution networks for small- and medium-sized enterprises as well as traffic media, rapidly transform orders, and conduct promotion by use of the distribution among lots of WeChat users, to achieve disintegrated marketing propagation</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="case-content-item">
+                <div class="case-link">
+                    <div class="case-logo-wrap"><img src="https://img1.jcloudcs.com/portal/shop/weishangcheng.svg"></div>
+                    <h6 class="case-pro-title">Micro Online Store</h6>
+
+                    <div class="case-wrap-m">
+
+                        <div class="case-pro-list">
+                            <label class="case-pro-list-label">Brand traffic private sphere-based whole-channel marketing, brand official website mini programs + official account integrated online stores: Online stores are opened in WeChat to bring into full play WeChat marketing</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="case-content-item">
+                <div class="case-link">
+                    <div class="case-logo-wrap"><img src="https://img1.jcloudcs.com/portal/shop/weishangchengplus.svg"></div>
+                    <h6 class="case-pro-title">Micro Online Store PLUS</h6>
+
+                    <div class="case-wrap-m">
+
+                        <div class="case-pro-list">
+                            <label class="case-pro-list-label">The one-stop official website solution provides the fully hosted whole-process solution ranging from official website construction, operation and hosting, warehousing and logistics, customer service and after-sales, promotion and marketing, etc.</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="typical-scene-tab-tit jdc-common-arr" id="zhineng">Intelligent Recommendation</div>
+<div class="typical-scene-section1" style="display: none;">
+    <div class="typical-scene-main">
+        <div class="typical-tabs-content clearfix">
+            <div class="typical-content-word" style="border-bottom:0;">
+                <div class="typical-content-con">
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Policy:</span>
+
+                        <span class="typical-content-text typical-content-text-indent">
+                            Based on JD’s leading big data and artificial intelligence technology, centering on data + algorithms + systems, and in combination with the accumulations in the e-commerce industrial field, provide the global enterprises and developers with the personalized recommendation service of real-time big data machine learning, and rapidly achieve the integration of intelligent recommendation abilities by API call.
+                        </span>
+
+                    </p>
+
+                    <p class="typical-content-p clearfix">
+                        <span class="typical-content-span">Applicable Scenarios:</span>
+
+                        <span class="typical-content-text">Various e-commerce recommendation scenarios: Personalized recommendation, social group recommendation, collocation recommendation, relevant recommendation, search recommendation, hot recommendation... and other intelligent recommendation scenarios. Also, they can be customized based on the user’s demands. The customers are classified into the following grades: Basic version - intermediate version - advanced version - customized version.</span>
+
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="typical-content-img">
+                <div class="typical-content-bgImg"><img src="https://img1.jcloudcs.com/portal/shop/zhineng2.png"></div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="jdc-case-list" style="display: none;">
+    <div class="jdc-case-list-bd" style="display: none;">
+        <div class="case-content w">
+            <div class="case-content-item">
+                <a href="#" class="case-link">
+                    <h6 class="case-pro-title">Basic Version</h6>
+                </a>
+                <div class="case-wrap-m">
+
+                    <div class="case-pro-list">
+                        <label class="case-pro-list-label">Provide the basic recommendation function, and support 20,000 users and a call count of 100,000/day</label>
+                    </div>
+                </div>
+            </div>
+            <div class="case-content-item">
+                <a href="#" class="case-link">
+                    <h6 class="case-pro-title">Intermediate Version</h6>
+                </a>
+                <div class="case-wrap-m">
+
+                    <div class="case-pro-list">
+                        <label class="case-pro-list-label">Provide the above basic recommendation function, and support 100,000 users and a call count of 500,000/day</label>
+                    </div>
+                </div>
+            </div>
+            <div class="case-content-item">
+                <a href="#" class="case-link">
+                    <h6 class="case-pro-title">Advanced Version</h6>
+                </a>
+                <div class="case-wrap-m">
+
+                    <div class="case-pro-list">
+                        <label class="case-pro-list-label">Provide the senior recommendation function, and support 500,000 users and a call count of 2 million/day</label>
+                    </div>
+                </div>
+            </div>
+            <div class="case-content-item">
+                <a href="#" class="case-link">
+                    <h6 class="case-pro-title">Customization</h6>
+                </a>
+                <div class="case-wrap-m">
+                    <div class="case-pro-list">
+                        <label class="case-pro-list-label">Customize based on the customer’s demands and user investigation.</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="yun-xiao-dian"><img src="https://img1.jcloudcs.com/portal/shop/erweima.jpg"><span>Scan the code and try out the cloud store free of charge to earn commissions!</span>
+</div>
+

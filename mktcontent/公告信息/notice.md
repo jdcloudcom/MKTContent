@@ -522,5 +522,13 @@
 	{
 		"id":729,
 		"title":"Service Upgrade Notice on JCS for Kubernetes in cn-north-1"
+	},
+	{
+		"id":732,
+		"title":"Official Launch of JD Cloud JCS for Redis Version 4.0"
+	},
+	{
+		"id":734,
+		"title":"\\[cn-south-1\\] Suspension Notice of Cloud Disk Service, Virtual Machine, Native Container, POD Console and OpenAPI Service at 21:00 on July 30"
 	}
 ]

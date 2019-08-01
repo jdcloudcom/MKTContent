@@ -1,0 +1,23 @@
+<p><br/></p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">&nbsp;&nbsp; &nbsp;&nbsp;</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">In order to better meet customer’s demands for block storage high reliability services, JD Cloud plans to maintain the Cloud Disk Service and related systems in the [cn-south-1] region from 21:00:00 to 23:00:00 on July 30, 2019. At the scheduled time:</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">Virtual Machines Console Access and OpenAPI Service in [cn-south-1] region will be paused while such services in other regions will not be affected;</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">Cloud Disk Service Console and OpenAPI Service in [cn-south-1] region will be paused while such services in other regions will not be affected;</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">Native Container Instance, Pod Console and OpenAPI Service in [cn-south-1] region will be paused while such services in other regions will not be affected;</span>
+</p>
+<p style="text-indent:21px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">Running of existing operations in your regions will not be affected by the launch. The Console will be resumed for normal use upon completion of launching.</span>
+</p>
+<p style="text-indent:21px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">If you have relevant questions during the launching, please contact JD Cloud customer service personnel at any time (phone number: 4006151212). Thank you for your support to JD Cloud.</span>
+</p>
+<p><span style="color:#1F497D">&nbsp;</span>
+</p>
+<p><br/></p>
