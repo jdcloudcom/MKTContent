@@ -1150,5 +1150,13 @@
 		"jss_key":"News_Content_592",
 		"id":592,
 		"news_title":"京东云（新余）新经济产业园落地渝水"
+	},
+	{
+		"summary":"中国公有云市场正进入一个新的发展阶段。2019年有望看到越来越多的企业级用户将核心应用向云上迁移，以实现全面数字化转型。作为最具产业属性的云智能厂商，京东云抓住发展契机，在不断夯实技术实力、提升服务水平的同时，以“成为政府、企业、家庭数字化转型全生命周期合伙人”为目标，持续为客户赋能，助力产业转型升级。",
+		"image_url":"//img1.jcloudcs.com/cms/0ae6a21b-ecb8-46dd-9969-81b62794736220190802181126.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_593",
+		"jss_key":"News_Content_593",
+		"id":593,
+		"news_title":"IDC发布最新报告：京东云跻身中国公有云IaaS市场前十"
 	}
 ]
