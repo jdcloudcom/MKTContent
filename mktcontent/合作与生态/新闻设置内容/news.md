@@ -1126,5 +1126,29 @@
 		"jss_key":"News_Content_588",
 		"id":588,
 		"news_title":"JD Cloud won the bid of China Mobile Cloud Product and Service by RMB 84.91 million  Promote the integrated development of \"5G IoT\""
+	},
+	{
+		"summary":"JD Cloud released the Private Cloud & Hybrid Cloud White Paper, which introduces multiple cloud computing platform products of JD Cloud, sorts out the demands of different customers, and concludes the typical solutions of JD Cloud private cloud, proprietary cloud, exclusive cloud and hybrid cloud in different industries based on JD Cloud Products and the customer’s demands, and provides references of value for the customer to select the cloud platform solution adaptable to his business development.",
+		"image_url":"//img1.jcloudcs.com/cms/2ddf4c00-ea46-452c-bfdd-7be17b4d798020190731105336.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_590",
+		"jss_key":"News_Content_590",
+		"id":590,
+		"news_title":"JD Cloud released the Private Cloud & Hybrid Cloud White Paper to build the cloud platform desired by customers"
+	},
+	{
+		"summary":"Walking from consumption networking towards industry networking doesn’t absolutely mean that industry Internet triggers a revolution against consumption Internet, but more aims at iterating, upgrading and extending it. As the JD Group’s main window for external empowerment, JD Cloud will gather its own technological and resource benefits to empower various industries and help with the Chinese digitalization process.",
+		"image_url":"//img1.jcloudcs.com/cms/55d183ab-abc3-4894-a65e-bee354f4060820190731170819.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_591",
+		"jss_key":"News_Content_591",
+		"id":591,
+		"news_title":"Wang Peinuan of JD Cloud: Industry networking isn’t a revolution against but an extension of consumption networking"
+	},
+	{
+		"summary":"The Yushui District Government and JD Cloud will jointly build the JD Cloud (Xinyu) New Economic Industrial Park, under which the merchant service center, collaborative innovation center and new economic talents training center are set, including the industry operation support service as well as city and industry brand building service, is oriented towards three sectors, i.e., \"Internet+\" industry, agriculture and tourism, and provide the full chain service consisting of industry introduction, product incubation, industry operation, brand creation and others. to jointly build the \"Internet+\" application demonstration center.",
+		"image_url":"//img1.jcloudcs.com/cms/f76af813-bb0b-4b98-af63-aa1df35da98320190801195704.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_592",
+		"jss_key":"News_Content_592",
+		"id":592,
+		"news_title":"JD Cloud (Xinyu) New Economic Industrial Park was settled in Yushui"
 	}
 ]

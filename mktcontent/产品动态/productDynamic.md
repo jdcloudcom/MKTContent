@@ -2032,5 +2032,101 @@
 		"name":"Jingxiang Super Definition Transcode",
 		"description":"With JD Cloud’s special video coding capability and optimization algorithm, it can implement intelligent analysis and processing on contents, scenarios and frames in videos to enable high definition while reducing the video code rate, thus effectively saving bandwidth used and costs for customers.\t",
 		"id":2404
+	},
+	{
+		"introduce":"Private Image Importation",
+		"name":"Private Image Importation",
+		"description":"1. The user can save and import into the JD Cloud environment for use the system disk of the server used locally or under other cloud environments in the form of images; \n2. Support importation of image files in four types of formats, i.e., RAW, VHD, QCOW2 and VMDK, and at the same time provide detailed description documents about image making, format conversion and system component installation; \n3. Only support OpenAPI importing images, don’t provide the Console operation access",
+		"id":2415
+	},
+	{
+		"introduce":"IP Blacklist and White List",
+		"name":"IP Blacklist and White List",
+		"description":"For each of the protection packages or the protected object under protection packages, support that CIDR IP blacklists and White Lists are configured for 20 times.",
+		"id":2416
+	},
+	{
+		"introduce":"Support the load instance check function",
+		"name":"Load Instance check",
+		"description":"In the NF1 traffic management platform, the user can recheck the diversion rule to ensure configuration accurateness when creating load instances.",
+		"id":2417
+	},
+	{
+		"introduce":"Support that business reports are shared to the mobile terminal",
+		"name":"Data Report Sharing",
+		"description":"In the NF1 traffic management platform, the user can share business reports to the mobile terminal, and can view such report contents as requests, concurrence, status codes, business traffic and user access statistics at the mobile terminal.",
+		"id":2418
+	},
+	{
+		"introduce":"Provide a set of comprehensive security operation platform for proprietary cloud users.",
+		"name":"Situation Awareness Proprietary Cloud Version",
+		"description":"1. Support security visualization screen display \n2. Support attack alarm display and correlation analysis \n3. Support machine vulnerability, website vulnerability and emergency vulnerability display \n4. Support collection of third party logs, centralization and security audit and search",
+		"id":2419
+	},
+	{
+		"introduce":"Comprehensively support IPv6 intelligent resolution, IPv6 customized ISP Line",
+		"name":"IPv6 Intelligent Resolution",
+		"description":"JD Cloud DNS fully supports IPv6 intelligent resolution, and can identify regions and operators based on IPv6 addresses to effectively enhance the resolution and access quality under IPv6 networks.",
+		"id":2420
+	},
+	{
+		"introduce":"Public Image Release CentOS 7.6\t",
+		"name":"Public Image Release CentOS 7.6",
+		"description":"Virtual Machines Public Image releases the CentOS 7.6 image, and at the same time provides the images of the local system disk and cloud disk system disk.",
+		"id":2421
+	},
+	{
+		"introduce":"Support the collection and retrieval of user business application logs",
+		"name":"Business Application Log",
+		"description":"The user can install agent collection log data on his own Virtual Machines, or report log data to the Log Service through openAPI to conduct retrieval.",
+		"id":2422
+	},
+	{
+		"introduce":"1. System weak password detection and abnormal login detection are newly added for risk discovery \n2. System back door detection and warning operation detection are newly added for intrusion threat \n",
+		"name":"Newly Added Risk Discovery and Intrusion Threat Functions",
+		"description":"1. System back door detection: The program which hides existence of malicious software through the operating system API call providing system information; \n2. Suspicious operation detection: Audit the suspicious operation behavior of the user command line; \n3. System weak password detection: Detect whether the user system account has weak passwords; \n4. Abnormal login detection: Automatically identify abnormal login behaviors and give warnings;",
+		"id":2423
+	},
+	{
+		"introduce":"cn-north-1 region supports memory optimized type specifications",
+		"name":"Support memory optimized specifications",
+		"description":"cn-north-1 region supports memory optimized type specifications, i.e., the CPU-memory ratio is 1:8",
+		"id":2424
+	},
+	{
+		"introduce":"Open Beta of JCS for InfluxDB",
+		"name":"Open Beta of JCS for InfluxDB",
+		"description":"JCS for InfluxDB, a high performance on-line time sequence database service provided by JD Cloud based on InfluxDB, can be widely used for a lot of storage and analysis scenarios of time stamp data, e.g., collection and real-time analysis of DevOps monitoring and IoT sensor data.",
+		"id":2425
+	},
+	{
+		"introduce":"Official Release of JDStack HCI",
+		"name":"Official Release of JDStack HCI",
+		"description":"JDStack HCI, a secure, stable and reliable software and hardware integrated cloud platform provided by JD Cloud, is oriented towards private cloud and hybrid cloud scenarios. The user can quickly build his own intelligent cloud data center by use of the JDStack platform and set up flexible cloud application scenarios on it, e.g., VDI, PaaS and SaaS.",
+		"id":2426
+	},
+	{
+		"introduce":"Official Release of JDStack Agility",
+		"name":"Official Release of JDStack Agility",
+		"description":"JDStack Agility is a private cloud platform provided by JD Cloud that is set up with several to scores of servers for meeting the user’s demands. The user can quickly build his own intelligent cloud data center by use of the JDStack platform and set up flexible cloud application scenarios on it, e.g., VDI, PaaS and SaaS \n\n",
+		"id":2427
+	},
+	{
+		"introduce":"Open Beta of Blockchain Data Service",
+		"name":"Open Beta of Blockchain Data Service",
+		"description":"The Blockchain Data Service (BDS) was researched, developed and introduced by the JD Cloud Blockchain Laboratory within more than 1 year. It stores in a structured way the chain type and unstructured data of blockchain by technical means, and synchronizes them in the high performance data repository in real time.",
+		"id":2428
+	},
+	{
+		"introduce":"Official Release of Cabinet Physical Computing",
+		"name":"Official Release of Cabinet Physical Computing",
+		"description":"JD Cloud has introduced a new light asset cabinet service mode to provide the user with the bare-metal server use service, so that the enterprise can input more capital in business investment and business benefits, saving the input of fixed assets, enhancing the ROE and increasing the capital liquidity for improvement of the enterprise profitability.",
+		"id":2429
+	},
+	{
+		"introduce":"Open Beta of Website Threat Inspector",
+		"name":"Open Beta of Website Threat Inspector",
+		"description":"Integrating four core functions, i.e. automatic asset association discovery, Web vulnerability scan, port vulnerability scan and weak password detection, it can discover the network security risk of websites or servers, provide multi-dimensional security detection service to cloud business, meet compliance requirements and detect every website security vulnerability.",
+		"id":2430
 	}
 ]

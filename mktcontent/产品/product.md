@@ -534,5 +534,17 @@
 	{
 		"name":"Website Threat Scan",
 		"id":1314
+	},
+	{
+		"name":"JDStack HCI",
+		"id":1322
+	},
+	{
+		"name":"JDStack Agility",
+		"id":1323
+	},
+	{
+		"name":"JCS for InfluxDB",
+		"id":1324
 	}
 ]
