@@ -1158,5 +1158,13 @@
 		"jss_key":"News_Content_593",
 		"id":593,
 		"news_title":"IDC发布最新报告：京东云跻身中国公有云IaaS市场前十"
+	},
+	{
+		"summary":"日前，针对传统ICT企业与互联网企业逐步进入对方业务领地的趋势，咨询机构商业伙伴发布了《2018-2019新型互联网生态研究报告》——对涉足企业端客户互联网业务的厂商进行了综合竞争力的评价。在此次报告中，京东云以明显的优势进入“领跑者”象限。",
+		"image_url":"//img1.jcloudcs.com/cms/92e4454e-25f2-49b9-b49c-e550783b9ef120190806214520.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_600",
+		"jss_key":"News_Content_600",
+		"id":600,
+		"news_title":"商业伙伴报告：京东云进入新型互联网竞争“领跑者”区间"
 	}
 ]
