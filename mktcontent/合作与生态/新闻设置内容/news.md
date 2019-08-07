@@ -1166,5 +1166,13 @@
 		"jss_key":"News_Content_600",
 		"id":600,
 		"news_title":"商业伙伴报告：京东云进入新型互联网竞争“领跑者”区间"
+	},
+	{
+		"summary":"日前，专注于创新领域的投研机构爱分析以“云化万物，智动未来”为主题，举办 “2018爱分析·中国云计算高峰论坛”，并重磅发布“2018中国云计算创新企业50强”榜单。",
+		"image_url":"//img1.jcloudcs.com/cms/a9328f14-d37a-4f46-b1ea-91d6ca168f6620190807204247.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_602",
+		"jss_key":"News_Content_602",
+		"id":602,
+		"news_title":"实力说话 | 京东云凭创新能力入选云计算企业Top阵营"
 	}
 ]
