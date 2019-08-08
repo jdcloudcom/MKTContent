@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"云数据库 Greenplum\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdw\",\"classTag\":\"https://www.jdcloud.com/public/testApply/jdw\"}],\"desc\":\"云数据库 Greenplum 是京东云基于开源的Greenplum提供的在线MPP大规模并行处理数据仓库服务，用户在几分钟内即可设置和部署完成新的数据仓库，无需进行复杂的大规模MPP集群运维管理。\"}",
+		"id":1403
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"快速部署\",\"proName\":\"通过控制台，选择所需节点规格与数量后，在几分钟内即可创建出 Greenplum 实例，可快速投入业务应用，缩短业务等待时间。\"},{\"showShade\":false,\"proGood\":\"服务高可用\",\"proName\":\"默认提供主从高可用架构，Segment节点支持自动容灾切换，当Primary故障时，自动切换到Mirror，确保业务可用性。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全可靠\",\"proName\":\"Greenplum 实例部署在用户自定义的VPC私有网络内，在TCP层直接进行网络隔离保护，确保数据安全；数据存储基于SSD RAID10，在硬件层自动冗余。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"运维便捷\",\"proName\":\"控制台提供丰富的可视化监控数据指标，各项数据一目了然，并支持设置自动报警规则，随时随地掌握实例运行情况，降低数据库运维成本。\"}]",
+		"id":1404
+	},
+	{
+		"txt":"[{\"funcName\":\"易用性\",\"funcContent\":[{\"funcTitle\":\"快速部署\",\"funcP\":\"通过 Greenplum 控制台，选择地域、规格、网络等信息后，在几分钟内即可创建出 Greenplum 实例。\"},{\"funcTitle\":\"配置灵活\",\"funcP\":\"Segment节点配置支持多种规格与数量组合，可根据业务要求按需选择。\"}]},{\"funcName\":\"高可用\",\"funcContent\":[{\"funcTitle\":\"架构层容灾\",\"funcP\":\"默认提供主从高可用架构，Segment节点支持自动容灾切换，当Primary故障时，自动切换到Mirror。\"},{\"funcTitle\":\"存储层容灾\",\"funcP\":\"数据存储基于SSD RAID10实现数据冗余，保护数据安全，确保业务可用性。\"}]},{\"funcName\":\"安全保障\",\"funcContent\":[{\"funcTitle\":\"VPC私有网络\",\"funcP\":\"Greenplum 实例部署在用户自定义的VPC私有网络内，在TCP层直接进行网络隔离保护，确保数据安全性。\"},{\"funcTitle\":\"防火墙保护\",\"funcP\":\"宿主机位于防火墙保护之下，只开放必需的端口，且会及时安装系统补丁修补安全漏洞，可抵御恶意攻击，保障数据库安全。\"}]},{\"funcName\":\"运维便捷\",\"funcContent\":[{\"funcTitle\":\"可视化监控\",\"funcP\":\"Greenplum 控制台提供丰富的监控信息，包括CPU、内存、存储空间、IOPS、网络吞吐量等信息，您可以随时查看实例运行状态。\"},{\"funcTitle\":\"自动报警\",\"funcP\":\"您可以根据监控项设置报警规则，当监控项达到设置的阈值时，系统会通过短信和邮件的方式向您发送报警信息。\"}]}]",
+		"id":1405
+	},
+	{
+		"txt":"[{\"name\":\"经营分析决策\",\"instruction\":\"将公司日常经营中产生的各类数据，通过同步或 ETL 工具导入到云数据库 Greenplum中进行汇总分析，利用其对多源异构数据的分析能力，提高决策精准度及效率，辅助业务决策。\\n\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/65ade3f8-2799-463a-a604-df543a96413720190805185441.png\",\"showShade\":false}]",
+		"id":1406
+	}
+]
