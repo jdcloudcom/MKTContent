@@ -929,5 +929,12 @@
 		"id":1128,
 		"button_title":"查看详情",
 		"main_title":"智臻链区块链存证平台"
+	},
+	{
+		"sub_title":"探索基于机器学习的AI业务优化实践",
+		"name":"8月技术沙龙",
+		"id":1130,
+		"button_title":"立即报名",
+		"main_title":"京东云技术沙龙 · 南京站"
 	}
 ]
