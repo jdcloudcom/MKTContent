@@ -2,8 +2,8 @@
   <div class="jdc-common-banner wp-banner">
     <div class="w">
       <div class="jdc-common-banner-ct">
-        <h4 class="jdc-common-banner-tit">白皮书</h4>
-        <p class="jdc-common-banner-txt">白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书白皮书</p>
+        <h4 class="jdc-common-banner-tit">白皮书 White Paper</h4>
+        <p class="jdc-common-banner-txt">基于多年的技术积累，京东云向全行业贡献出多篇高价值含量的白皮书，为云计算行业提供技术参考，为客户在京东云上搭建高质量的业务系统提供强大支撑，让京东云成为客户最信赖的云计算平台。</p>
 
       </div>
     </div>
@@ -18,31 +18,31 @@
             <div class="wp-floor1-item-hd">京东云智能城市白皮书 </div>
             <div class="wp-floor1-item-bd">
               <div class="wp-floor1-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp-1.png" alt="">
               </div>
               <div class="wp-floor1-right">
                 <p class="wp-floor1-txt">
-                  结合移动互联网、物联网、云计算、大数据、人工智能等新一代信息技术，全面整合城市交通相关的立体化数据，对全市交通进行路网监测、拥堵疏导、可视化调度、特种车通行保障等秩序管理，拥堵溯源、通行评测、信号灯优化等分析研判，全面提升城市交通智能化。
+                  《京东云智能城市白皮书（2019）》向外界展示了京东云对于智能城市的独到认知与解读、智能城市建设路径以及智能城市建设策略，通过分享京东云智能化解决方案在城市中的典型应用，展现了智能城市未来的美好蓝图。此次《京东云智能城市白皮书（2019）》的发布旨在利用技术创新，在城市数字化和网络化发展基础上主动、前瞻地分析解决问题，以“智能”引领城市发展，也为城市规划、建设、管理和服务提供创新思路与解决方案，实现城市精细化、智能化管理，推动包括城市经济在内的社会各领域从数字化、网络化向智能化加速跃升。
                 </p>
 
-                <a href="#" class="jdc-btn jdc-bg">立即查看</a>
+                <a href="https://download.jdcloud.com/download-pdf/pdf-view/web/viewer.html?file=https%3A%2F%2Fjdcloud-marketing.s3.cn-north-1.jdcloud-oss.com%2FWhitePaper%2FDedicated-Cloud-Thought-Leadership-Paper-by-JD-Cloud.pdf" target="_blank" class="jdc-btn jdc-bg">立即查看</a>
               </div>
             </div>
           </div>
         </div>
         <div class="col-6 col-xs-12">
           <div class="wp-floor1-item wp-floor1-item-2">
-            <div class="wp-floor1-item-hd">京东云智能城市白皮书 </div>
+            <div class="wp-floor1-item-hd">京东云专有云思想领导力白皮书 </div>
             <div class="wp-floor1-item-bd">
               <div class="wp-floor1-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp-2.png" alt="">
               </div>
               <div class="wp-floor1-right">
                 <p class="wp-floor1-txt">
-                  结合移动互联网、物联网、云计算、大数据、人工智能等新一代信息技术，全面整合城市交通相关的立体化数据，对全市交通进行路网监测、拥堵疏导、可视化调度、特种车通行保障等秩序管理，拥堵溯源、通行评测、信号灯优化等分析研判，全面提升城市交通智能化。
+                  基于京东云公有云自研云计算架构，经过海量用户实践和验证，京东云推出新一代专有云平台JDStack，将京东云成熟、稳定的产品能力延伸至客户自有数据中心，为用户提供从IaaS、PaaS到SaaS多种产品的全栈式服务，通过建立一个安全、稳定、可信赖的专有云平台，助力客户加速数字化转型。
                 </p>
 
-                <a href="#" class="jdc-btn jdc-bg">立即查看</a>
+                <a href="https://www.jdcloud.com/cn/news/detail/490" target="_blank" class="jdc-btn jdc-bg">立即查看</a>
               </div>
             </div>
           </div>
@@ -53,194 +53,124 @@
 
     <div class="jdc-common-floor-item wp-floor2">
       <div class="wp-list w">
-        <h4 class="jdc-common-floor-tit">白皮书标题1</h4>
+        <h4 class="jdc-common-floor-tit">平台与架构</h4>
         <div class="row">
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
+          <div class="col-3 col-xs-6">
+            <a href="//www.jdcloud.com/cn/news/detail/590" class="wp-item" target="_blank">
               <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-1.png" alt="">
               </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
+              <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
+            </a>
           </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
+          <div class="col-3 col-xs-6">
+            <a href="//www.jdcloud.com/cn/news/detail/536" class="wp-item" target="_blank">
               <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-2.png" alt="">
               </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
+              <h5 class="wp-item-tit">云迁移技术白皮书</h5>
+            </a>
           </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
+          <div class="col-3 col-xs-6">
+            <a href="//www.jdcloud.com/cn/news/detail/473" class="wp-item" target="_blank">
               <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-3.png" alt="">
               </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
+              <h5 class="wp-item-tit">京东云云桌面白皮书</h5>
+            </a>
+          </div>
+          <div class="col-3 col-xs-6">
+            <a href="//www.jdcloud.com/cn/news/detail/448" class="wp-item" target="_blank">
+              <div class="wp-item-img">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-4.png" alt="">
               </div>
-            </div>
+              <h5 class="wp-item-tit">京东云游戏白皮书</h5>
+            </a>
+          </div>
+          <div class="col-3 col-xs-6">
+            <a href="//www.jdcloud.com/cn/news/detail/516" class="wp-item" target="_blank">
+              <div class="wp-item-img">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-5.png" alt="">
+              </div>
+              <h5 class="wp-item-tit">京东云安全白皮书</h5>
+            </a>
+          </div>
+          <div class="col-3 col-xs-6">
+            <a href="//www.jdcloud.com/cn/news/detail/490" class="wp-item" target="_blank">
+              <div class="wp-item-img">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-6.png" alt="">
+              </div>
+              <h5 class="wp-item-tit">京东云数据安全白皮书</h5>
+            </a>
           </div>
         </div>
       </div>
       <div class="wp-list w">
-        <h4 class="jdc-common-floor-tit">白皮书标题2</h4>
+        <h4 class="jdc-common-floor-tit">最佳实践</h4>
         <div class="row">
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
+          <div class="col-3 col-xs-6">
+            <a href="https://cloudmarket-product.oss.cn-north-1.jcloudcs.com/6f783991a9ac3c0b94f85406b377e76b20190731151307828.pdf" class="wp-item" target="_blank">
               <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-1.png" alt="">
               </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
+              <h5 class="wp-item-tit">畅捷通T+在京东云上的最佳实践</h5>
+            </a>
           </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
+          <div class="col-3 col-xs-6">
+            <a href="https://cloudmarket-product.oss.cn-north-1.jcloudcs.com/a4a224d9535dc8eb1672df87424349f820190731144838627.pdf" class="wp-item" target="_blank">
               <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-2.png" alt="">
               </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
+              <h5 class="wp-item-tit">合众唯一资产管理在京东云上的最佳实践</h5>
+            </a>
           </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
+          <div class="col-3 col-xs-6">
+            <a href="https://cloudmarket-product.oss.cn-north-1.jcloudcs.com/05ee0e9c1ad1e60b7377dcc4f6d374f220190731144337998.pdf" class="wp-item" target="_blank">
               <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-3.png" alt="">
               </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
+              <h5 class="wp-item-tit">金蝶K3WISE在京东云上的最佳实践</h5>
+            </a>
           </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
+          <div class="col-3 col-xs-6">
+            <a href="https://cloudmarket-product.oss.cn-north-1.jcloudcs.com/b5e694718d8fb9d40040433137d66c4920190731144522863.pdf" class="wp-item" target="_blank">
               <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-4.png" alt="">
               </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
+              <h5 class="wp-item-tit">金蝶KIS在京东云上的最佳实践</h5>
+            </a>
           </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
+          <div class="col-3 col-xs-6">
+            <a href="https://cloudmarket-product.oss.cn-north-1.jcloudcs.com/a044a98fb87abd3fd9a4dfb3dec89ca320190731144618595.pdf" class="wp-item" target="_blank">
               <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-5.png" alt="">
               </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
+              <h5 class="wp-item-tit">金蝶云在京东云上的最佳实践</h5>
+            </a>
           </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
+          <div class="col-3 col-xs-6">
+            <a href="https://cloudmarket-product.oss.cn-north-1.jcloudcs.com/700e49ffd61f99414eb54149745ddc8d20190731144725780.pdf" class="wp-item" target="_blank">
               <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-6.png" alt="">
               </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
+              <h5 class="wp-item-tit">用友U8+在京东云上的最佳实践</h5>
+            </a>
           </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
+          <div class="col-3 col-xs-6">
+            <a href="https://cloudmarket-product.oss.cn-north-1.jcloudcs.com/a4a224d9535dc8eb1672df87424349f820190731144838627.pdf" class="wp-item" target="_blank">
               <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-7.png" alt="">
               </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
+              <h5 class="wp-item-tit">企业应用集成API在万象的最佳实践</h5>
+            </a>
           </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
+          <div class="col-3 col-xs-6">
+            <a href="https://cloudmarket-product.oss.cn-north-1.jcloudcs.com/6f783991a9ac3c0b94f85406b377e76b20190731151307828.pdf" class="wp-item" target="_blank">
               <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-8.png" alt="">
               </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
-              <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
-              </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
-              <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
-              </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-4 col-xs-12">
-            <div class="wp-item">
-              <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1.png" alt="">
-              </div>
-              <div class="wp-item-right">
-                <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-                <p class="wp-item-txt">结合移动互联网、人工智能等新一代信息技术。</p>
-
-                <a href="#" class="jdc-btn">立即查看</a>
-              </div>
-            </div>
+              <h5 class="wp-item-tit">七通智能制造云在京东云上的最佳实践</h5>
+            </a>
           </div>
         </div>
       </div>
