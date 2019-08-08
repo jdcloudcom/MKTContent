@@ -1150,5 +1150,13 @@
 		"jss_key":"News_Content_592",
 		"id":592,
 		"news_title":"JD Cloud (Xinyu) New Economic Industrial Park was settled in Yushui"
+	},
+	{
+		"summary":"The public cloud market in China is undergoing a new development stage. In 2019, it is expected to witness that more and more enterprise-level users migrate their core applications to the cloud, realizing overall digital transformation. JD Cloud, serving as the cloud intelligence service provider with the most industrial attributes, seizes the development opportunity, aims to \"become the partner for full life cycles of government, enterprise and household digital transformation\" by continuously strengthening its technical strength and promoting its service level. It continuously empowers customers and assists industrial transformation and upgrade.",
+		"image_url":"//img1.jcloudcs.com/cms/0ae6a21b-ecb8-46dd-9969-81b62794736220190802181126.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_593",
+		"jss_key":"News_Content_593",
+		"id":593,
+		"news_title":"IDC releases the latest report: JD Cloud has taken a place among Top 10 Public Cloud IaaS Markets in China"
 	}
 ]

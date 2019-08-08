@@ -2128,5 +2128,17 @@
 		"name":"Open Beta of Website Threat Inspector",
 		"description":"Integrating four core functions, i.e. automatic asset association discovery, Web vulnerability scan, port vulnerability scan and weak password detection, it can discover the network security risk of websites or servers, provide multi-dimensional security detection service to cloud business, meet compliance requirements and detect every website security vulnerability.",
 		"id":2430
+	},
+	{
+		"introduce":"The Cloud Physical Server instances can control the access to instance resources in the account level through IAM and can grant instances of specific permissions by creating users.",
+		"name":"The Cloud Physical Server instances support release of the IAM function",
+		"description":"The Cloud Physical Server instances support resource operation control by sub-users. By accessing and controlling the role, the IAM roles of Cloud Physical Server instances allow instances to play roles with specific permissions and grant instances certain operation permissions for some accessed resources.",
+		"id":2431
+	},
+	{
+		"introduce":"Launch of DDoS Security Protection for Cloud Cabinet Service",
+		"name":"Launch of DDoS Security Protection for Cloud Cabinet Service",
+		"description":"2G Anti-DDoS Basic is supported for users in Cabinet Service regions such as cn-north-1 (BJ1, BJ2, BJ3 and BJ4 data centers), cn-east-1 (SQ1 data center) and cn-east-2 (SH1 and SH2 data centers), and up to 50G protection capability can be obtained by purchasing the Anti-DDoS Protection Package. Protection packages purchased for the Cabinet Service regions and their application method are consistent with DDoS products.",
+		"id":2432
 	}
 ]
