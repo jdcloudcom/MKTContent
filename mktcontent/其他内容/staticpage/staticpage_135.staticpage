@@ -2,9 +2,9 @@
   <div class="jdc-common-banner">
     <div class="w">
       <div class="jdc-common-banner-ct">
-        <h4 class="jdc-common-banner-tit">京东云新闻动态</h4>
+        <h4 class="jdc-common-banner-tit">分析师报告</h4>
         <p class="jdc-common-banner-txt">
-          最新动态发展，最热新闻资讯，精彩内容尽收眼底。从能力输出到技术赋能，京东云从未放缓脚步，于世界发声，只为与您见证京东云成长的每一步！
+          查看Forrester、IDC等权威咨询机构对京东云的客观评价，了解京东云领先的市场地位和优质的服务能力。
         </p>
 
       </div>
@@ -12,77 +12,128 @@
   </div>
   <div class="ar-floor">
     <div class="jdc-common-floor">
-      <div class="jdc-common-floor-item ar-hots">
-        <h4 class="jdc-common-floor-tit">热门测评</h4>
+      <div class="jdc-common-floor-item ar-normal">
         <div class="w">
           <div class="row">
-            <div title="IDC发布最新报告：京东云跻身中国公有云IaaS市场前十" class="col-4"><a href="//www.jdcloud.com/news/detail/593"
+
+            <div title="IDC：同比增长557%，京东云跻身中国公有云IaaS市场前十名" class="col-4"><a href="//www.jdcloud.com/news/detail/593"
                                                                        clstag="News|keycount|MiddleContentSec|News_HotNews_0"
                                                                        target="_blank" class="ar-link">
               <div class="ar-img-wrap"><img
                 src="//img1.jcloudcs.com/cms/0ae6a21b-ecb8-46dd-9969-81b62794736220190802181126.jpg" alt="新闻图片"></div>
-              <div class="ar-text-wrap"><h5 class="ar-title">IDC发布最新报告：京东云跻身中国公有云IaaS市场前十</h5>
+              <div class="ar-text-wrap"><h5 class="ar-title">IDC：同比增长557%，京东云跻身中国公有云IaaS市场前十名</h5>
                 <p class="ar-time">2019-08-02</p>
 </div>
             </a></div>
-
-            <div title="艾瑞发布最新企业级SaaS行业报告 京东云位列中国零售电商首位" class="col-4"><a href="//www.jdcloud.com/news/detail/538"
-                                                                          clstag="News|keycount|MiddleContentSec|News_Dynamic_6"
-                                                                          target="_blank" class="ar-link">
+            <div title="京东云位列赛迪政务云报告第一象限，同类友商仅次于阿里云" class="col-4"><a href="#"
+                                                                                 clstag="News|keycount|MiddleContentSec|News_Dynamic_1"
+                                                                                 target="_blank" class="ar-link">
               <div class="ar-img-wrap"><img
-                src="//img1.jcloudcs.com/cms/6f7f4c35-5c15-4da9-8ef7-a30c2c85ebe320190611153219.jpg" alt="新闻图片"></div>
-              <div class="ar-text-wrap"><h5 class="ar-title">艾瑞发布最新企业级SaaS行业报告 京东云位列中国零售电商首位</h5>
+                src="//img1.jcloudcs.com/portal/analyst-research/222.png" alt="新闻图片"></div>
+              <div class="ar-text-wrap"><h5 class="ar-title">京东云位列赛迪政务云报告第一象限，同类友商仅次于阿里云</h5>
                 <p class="ar-time">
-                  2019-06-11
+                  2019-03-20
                 </p>
 </div>
             </a></div>
-
-            <div title="中国企业云服务商50强揭晓，京东云进入前三" class="col-4"><a href="//www.jdcloud.com/news/detail/581"
-                                                                clstag="News|keycount|MiddleContentSec|News_Dynamic_6"
-                                                                target="_blank" class="ar-link">
+            <div title="博睿6月排行榜中，京东云北京节点连续5个月蝉联榜首，上海节点跻身第二" class="col-4"><a href="//www.jdcloud.com/news/detail/472"
+                                                                                 clstag="News|keycount|MiddleContentSec|News_Dynamic_1"
+                                                                                 target="_blank" class="ar-link">
               <div class="ar-img-wrap"><img
-                src="//img1.jcloudcs.com/cms/bda38100-3048-4f9e-9153-3573c326d6d720190719171139.jpg" alt="新闻图片"></div>
-              <div class="ar-text-wrap"><h5 class="ar-title">中国企业云服务商50强揭晓，京东云进入前三</h5>
+                src="//img1.jcloudcs.com/portal/analyst-research/472.jpg" alt="新闻图片"></div>
+              <div class="ar-text-wrap"><h5 class="ar-title">博睿6月排行榜中，京东云北京节点连续5个月蝉联榜首，上海节点跻身第二</h5>
+                <p class="ar-time">
+                  2019-03-20
+                </p>
+</div>
+            </a></div>
+            <div title="京东云跻身 “2019中国企业云科技服务商50强”前三甲" class="col-4"><a href="//www.jdcloud.com/news/detail/581"
+                                                                       clstag="News|keycount|MiddleContentSec|News_Dynamic_1"
+                                                                       target="_blank" class="ar-link">
+              <div class="ar-img-wrap"><img
+                src="//img1.jcloudcs.com/portal/analyst-research/581.jpg" alt="新闻图片"></div>
+              <div class="ar-text-wrap"><h5 class="ar-title">京东云跻身 “2019中国企业云科技服务商50强”前三甲</h5>
                 <p class="ar-time">
                   2019-07-19
                 </p>
 </div>
             </a></div>
-
-          </div>
-        </div>
-      </div>
-      <div class="jdc-common-floor-item ar-normal">
-        <div class="w">
-          <div class="jdc-common-top">
-            <h4 class="jdc-common-floor-tit">测评动态</h4>
-          </div>
-          <div class="row">
-            <div title="IDC发布《中国公有云服务市场（2018下半年）跟踪》，京东云再获认可" class="col-4"><a href="//www.jdcloud.com/news/detail/531"
-                                                                              clstag="News|keycount|MiddleContentSec|News_Dynamic_1"
-                                                                              target="_blank" class="ar-link">
+            <div title="京东云Container业务发展良好，被Forrester认可为中等规模的中国容器平台厂商" class="col-4"><a href="//www.jdcloud.com/cn/news/detail/498"
+                                                                                        clstag="News|keycount|MiddleContentSec|News_Dynamic_6"
+                                                                                        target="_blank" class="ar-link">
               <div class="ar-img-wrap"><img
-                src="//img1.jcloudcs.com/cms/4744a4a1-ef53-4dcc-931e-a5b9a01de41d20190529160956.jpg" alt="新闻图片"></div>
-              <div class="ar-text-wrap"><h5 class="ar-title">IDC发布《中国公有云服务市场（2018下半年）跟踪》，京东云再获认可</h5>
+                src="//img1.jcloudcs.com/portal/analyst-research/498.jpg" alt="新闻图片"></div>
+              <div class="ar-text-wrap"><h5 class="ar-title">京东云Container业务发展良好，被Forrester认可为中等规模的中国容器平台厂商</h5>
                 <p class="ar-time">
-                  2019-05-29
+                  2019-04-19
                 </p>
 </div>
             </a></div>
-
-            <div title="IDC：京东云政务云2017年中国市场占有率排名前五" class="col-4"><a href="//www.jdcloud.com/news/detail/355"
+            <div title="爱分析：京东云凭创新能力入选云计算企业Top阵营" class="col-4"><a href="//www.jdcloud.com/news/detail/602"
+                                                                   clstag="News|keycount|MiddleContentSec|News_Dynamic_1"
+                                                                   target="_blank" class="ar-link">
+              <div class="ar-img-wrap"><img
+                src="//img1.jcloudcs.com/portal/analyst-research/602.png" alt="新闻图片"></div>
+              <div class="ar-text-wrap"><h5 class="ar-title">爱分析：京东云凭创新能力入选云计算企业Top阵营</h5>
+                <p class="ar-time">
+                  2018-09-21
+                </p>
+</div>
+            </a></div>
+            <div title="艾瑞发布《2019年中国企业级SaaS行业研究报告》，京东云位列行业垂直图谱中“零售电商”区域首位" class="col-4"><a href="//www.jdcloud.com/news/detail/538"
+                                                                          clstag="News|keycount|MiddleContentSec|News_Dynamic_6"
+                                                                          target="_blank" class="ar-link">
+              <div class="ar-img-wrap"><img
+                src="//img1.jcloudcs.com/cms/6f7f4c35-5c15-4da9-8ef7-a30c2c85ebe320190611153219.jpg" alt="新闻图片"></div>
+              <div class="ar-text-wrap"><h5 class="ar-title">艾瑞发布《2019年中国企业级SaaS行业研究报告》，京东云位列行业垂直图谱中“零售电商”区域首位</h5>
+                <p class="ar-time">
+                  2019-06-11
+                </p>
+</div>
+            </a></div>
+            <div title="京东云获评Forrester2018年Q3中国全栈公有云开发平台厂商卓越表现者" class="col-4"><a href="//www.jdcloud.com/news/detail/593"
+                                                           clstag="News|keycount|MiddleContentSec|News_HotNews_0"
+                                                           target="_blank" class="ar-link">
+              <div class="ar-img-wrap"><img
+                src="//img1.jcloudcs.com/portal/analyst-research/forrester.png" alt="新闻图片"></div>
+              <div class="ar-text-wrap"><h5 class="ar-title">京东云获评Forrester2018年Q3中国全栈公有云开发平台厂商卓越表现者</h5>
+                <p class="ar-time">2019-07-19</p>
+</div>
+            </a></div>
+            <div title="IDC发布《2017中国政务云服务运营商市场份额报告》，京东云跃居2017年中国政务云市场占有率前五" class="col-4"><a href="//www.jdcloud.com/news/detail/355"
                                                                      clstag="News|keycount|MiddleContentSec|News_Dynamic_8"
                                                                      target="_blank" class="ar-link">
               <div class="ar-img-wrap"><img
                 src="//img1.jcloudcs.com/cms/136b80e7-e069-4ec9-bdd5-7015aa50e5a820180928191030.jpg" alt="新闻图片"></div>
-              <div class="ar-text-wrap"><h5 class="ar-title">IDC：京东云政务云2017年中国市场占有率排名前五</h5>
+              <div class="ar-text-wrap"><h5 class="ar-title">IDC发布《2017中国政务云服务运营商市场份额报告》，京东云跃居2017年中国政务云市场占有率前五</h5>
                 <p class="ar-time">
                   2018-09-11
                 </p>
 </div>
             </a></div>
-            <div title="京东云亮相2019可信云大会 荣获技术创新奖和AAA最高级企业信用评级" class="col-4"><a href="//www.jdcloud.com/news/detail/567"
+            <div title="商业伙伴报告：京东云进入新型互联网竞争“领跑者”区间" class="col-4"><a href="//www.jdcloud.com/cn/news/detail/600"
+                                                                          clstag="News|keycount|MiddleContentSec|News_Dynamic_6"
+                                                                          target="_blank" class="ar-link">
+              <div class="ar-img-wrap"><img
+                src="//img1.jcloudcs.com/portal/analyst-research/600.jpg" alt="新闻图片"></div>
+              <div class="ar-text-wrap"><h5 class="ar-title">商业伙伴报告：京东云进入新型互联网竞争“领跑者”区间</h5>
+                <p class="ar-time">
+                  2019-04-10
+                </p>
+</div>
+            </a></div>
+            <div title="IDC发布《中国公有云服务市场（2018下半年）跟踪》，京东云表现突出" class="col-4"><a href="//www.jdcloud.com/news/detail/531"
+                                                                              clstag="News|keycount|MiddleContentSec|News_Dynamic_1"
+                                                                              target="_blank" class="ar-link">
+              <div class="ar-img-wrap"><img
+                src="//img1.jcloudcs.com/cms/4744a4a1-ef53-4dcc-931e-a5b9a01de41d20190529160956.jpg" alt="新闻图片"></div>
+              <div class="ar-text-wrap"><h5 class="ar-title">IDC发布《中国公有云服务市场（2018下半年）跟踪》，京东云表现突出</h5>
+                <p class="ar-time">
+                  2019-05-29
+                </p>
+</div>
+            </a></div>
+            <!--<div title="京东云亮相2019可信云大会 荣获技术创新奖和AAA最高级企业信用评级" class="col-4"><a href="//www.jdcloud.com/news/detail/567"
                                                                               clstag="News|keycount|MiddleContentSec|News_Dynamic_1"
                                                                               target="_blank" class="ar-link">
               <div class="ar-img-wrap"><img
@@ -92,8 +143,18 @@
                   2019-07-04
                 </p>
 </div>
+            </a></div>-->
+            <div title="京东云跻身中国科技创新企业榜单前十强" class="col-4"><a href="//www.jdcloud.com/news/detail/442"
+                                                                    clstag="News|keycount|MiddleContentSec|News_Dynamic_1"
+                                                                    target="_blank" class="ar-link">
+              <div class="ar-img-wrap"><img
+                src="//img1.jcloudcs.com/portal/analyst-research/442.png" alt="新闻图片"></div>
+              <div class="ar-text-wrap"><h5 class="ar-title">京东云跻身中国科技创新企业榜单前十强</h5>
+                <p class="ar-time">
+                  2019-01-09
+                </p>
+</div>
             </a></div>
-
 
           </div>
         </div>
