@@ -562,5 +562,9 @@
 	{
 		"name":"云数据库 InfluxDB",
 		"id":1324
+	},
+	{
+		"name":"云数据库 Greenplum",
+		"id":1326
 	}
 ]
