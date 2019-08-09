@@ -3,7 +3,7 @@
     <div class="w">
       <div class="jdc-common-banner-ct">
         <h4 class="jdc-common-banner-tit">白皮书 White Paper</h4>
-        <p class="jdc-common-banner-txt">基于多年的技术积累，京东云向全行业贡献出多篇高价值含量的白皮书，为云计算行业提供技术参考，为客户在京东云上搭建高质量的业务系统提供强大支撑，让京东云成为客户最信赖的云计算平台。</p>
+        <p class="jdc-common-banner-txt">京东云白皮书，提供我们对云计算的发展构想，平台设计考虑，以及最佳实践总结，帮助客户在京东云上构建高质量业务系统，实现数字化转型。</p>
 
       </div>
     </div>
@@ -25,7 +25,7 @@
                   《京东云智能城市白皮书（2019）》向外界展示了京东云对于智能城市的独到认知与解读、智能城市建设路径以及智能城市建设策略，通过分享京东云智能化解决方案在城市中的典型应用，展现了智能城市未来的美好蓝图。此次《京东云智能城市白皮书（2019）》的发布旨在利用技术创新，在城市数字化和网络化发展基础上主动、前瞻地分析解决问题，以“智能”引领城市发展，也为城市规划、建设、管理和服务提供创新思路与解决方案，实现城市精细化、智能化管理，推动包括城市经济在内的社会各领域从数字化、网络化向智能化加速跃升。
                 </p>
 
-                <a href="https://download.jdcloud.com/download-pdf/pdf-view/web/viewer.html?file=https%3A%2F%2Fjdcloud-marketing.s3.cn-north-1.jdcloud-oss.com%2FWhitePaper%2FDedicated-Cloud-Thought-Leadership-Paper-by-JD-Cloud.pdf" target="_blank" class="jdc-btn jdc-bg">立即查看</a>
+                <a href="//www.jdcloud.com/cn/intelligentcity" target="_blank" class="jdc-btn jdc-bg" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_1">立即查看</a>
               </div>
             </div>
           </div>
@@ -42,7 +42,7 @@
                   基于京东云公有云自研云计算架构，经过海量用户实践和验证，京东云推出新一代专有云平台JDStack，将京东云成熟、稳定的产品能力延伸至客户自有数据中心，为用户提供从IaaS、PaaS到SaaS多种产品的全栈式服务，通过建立一个安全、稳定、可信赖的专有云平台，助力客户加速数字化转型。
                 </p>
 
-                <a href="https://www.jdcloud.com/cn/news/detail/490" target="_blank" class="jdc-btn jdc-bg">立即查看</a>
+                <a href="https://download.jdcloud.com/download-pdf/pdf-view/web/viewer.html?file=https%3A%2F%2Fjdcloud-marketing.s3.cn-north-1.jdcloud-oss.com%2FWhitePaper%2FDedicated-Cloud-Thought-Leadership-Paper-by-JD-Cloud.pdf"  clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_2" target="_blank" class="jdc-btn jdc-bg">立即查看</a>
               </div>
             </div>
           </div>
@@ -56,7 +56,7 @@
         <h4 class="jdc-common-floor-tit">平台与架构</h4>
         <div class="row">
           <div class="col-3 col-xs-6">
-            <a href="//www.jdcloud.com/cn/news/detail/590" class="wp-item" target="_blank">
+            <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-private-and-hybrid-cloud/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_3">
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-1.png" alt="">
               </div>
@@ -64,7 +64,7 @@
             </a>
           </div>
           <div class="col-3 col-xs-6">
-            <a href="//www.jdcloud.com/cn/news/detail/536" class="wp-item" target="_blank">
+            <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-cloud-migration/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_4">
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-2.png" alt="">
               </div>
@@ -72,7 +72,7 @@
             </a>
           </div>
           <div class="col-3 col-xs-6">
-            <a href="//www.jdcloud.com/cn/news/detail/473" class="wp-item" target="_blank">
+            <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-cloud-workspace/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_5">
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-3.png" alt="">
               </div>
@@ -80,7 +80,7 @@
             </a>
           </div>
           <div class="col-3 col-xs-6">
-            <a href="//www.jdcloud.com/cn/news/detail/448" class="wp-item" target="_blank">
+            <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-gaming-cloud/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_6">
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-4.png" alt="">
               </div>
@@ -88,7 +88,7 @@
             </a>
           </div>
           <div class="col-3 col-xs-6">
-            <a href="//www.jdcloud.com/cn/news/detail/516" class="wp-item" target="_blank">
+            <a href="//docs.jdcloud.com/cn/jdcloud-security-whitepaper/introduction" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_7">
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-5.png" alt="">
               </div>
@@ -96,7 +96,7 @@
             </a>
           </div>
           <div class="col-3 col-xs-6">
-            <a href="//www.jdcloud.com/cn/news/detail/490" class="wp-item" target="_blank">
+            <a href="//docs.jdcloud.com/cn/jdcloud-data-security-whitepaper/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_8">
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-6.png" alt="">
               </div>
@@ -105,7 +105,7 @@
           </div>
         </div>
       </div>
-      <div class="wp-list w">
+      <!--<div class="wp-list w">
         <h4 class="jdc-common-floor-tit">最佳实践</h4>
         <div class="row">
           <div class="col-3 col-xs-6">
@@ -173,7 +173,7 @@
             </a>
           </div>
         </div>
-      </div>
+      </div>-->
     </div>
   </div>
 
