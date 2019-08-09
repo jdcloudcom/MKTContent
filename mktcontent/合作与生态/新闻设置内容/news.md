@@ -1174,5 +1174,29 @@
 		"jss_key":"News_Content_602",
 		"id":602,
 		"news_title":"实力说话 | 京东云凭创新能力入选云计算企业Top阵营"
+	},
+	{
+		"summary":"京东云位列中国政务云市场厂商竞争格局图的第一象限，从现有市场地位到未来发展能力，都得到充分认可。",
+		"image_url":"//img1.jcloudcs.com/cms/0da42fb7-443d-4c80-92b3-3aed41d5399820190809163929.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_603",
+		"jss_key":"News_Content_603",
+		"id":603,
+		"news_title":"京东云位列赛迪政务云报告第一象限"
+	},
+	{
+		"summary":"数字时代全面到来，以云计算、大数据、物联网、人工智能等为代表的数字技术，正在驱动百行百业变革新生，不仅企业需要通过数字化转型创造更大价值，政府机构同样亟需以数字化转型为手段，进一步提高政府运营效率，提升公共服务水平。",
+		"image_url":"//img1.jcloudcs.com/cms/551186ff-c251-4812-a9dd-a58fd3c5f58420190809183802.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_604",
+		"jss_key":"News_Content_604",
+		"id":604,
+		"news_title":"山东滨州获IDC“互联网+政务”大奖  京东云助力政府数字化转型再获认可"
+	},
+	{
+		"summary":"京东云携手高青，围绕特色农产品、农产品加工、电子商务、文化（生态）旅游产业，共同搭建京东云高青产业服务平台，旨在开拓高青县电商产业发展和品牌升级新局面，带动高青县域经济转型升级。",
+		"image_url":"//img1.jcloudcs.com/cms/54eba1fb-7a39-4f5a-b389-cf7dd3486f5220190809183031.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_605",
+		"jss_key":"News_Content_605",
+		"id":605,
+		"news_title":"京东云高青城市会客厅授牌暨高青品牌发布会顺利召开"
 	}
 ]
