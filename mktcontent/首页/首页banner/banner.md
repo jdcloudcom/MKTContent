@@ -936,5 +936,19 @@
 		"id":1130,
 		"button_title":"立即报名",
 		"main_title":"京东云技术沙龙 · 南京站"
+	},
+	{
+		"sub_title":"API服务专场",
+		"name":"API 服务促销活动",
+		"id":1132,
+		"button_title":"立即购买",
+		"main_title":"智能盛宴 全场1分钱"
+	},
+	{
+		"sub_title":"综合计算能力领先行业20%，全程专业服务，上云无忧",
+		"name":"8月促销活动",
+		"id":1134,
+		"button_title":"查看详情",
+		"main_title":"京东云3折不限购"
 	}
 ]
