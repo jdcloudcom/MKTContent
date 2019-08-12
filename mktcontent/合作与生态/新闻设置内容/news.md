@@ -1198,5 +1198,13 @@
 		"jss_key":"News_Content_605",
 		"id":605,
 		"news_title":"京东云高青城市会客厅授牌暨高青品牌发布会顺利召开"
+	},
+	{
+		"summary":"2019年7月25日，博睿发布最新的《2019年6月云主机性能测评报告》，“京东云-北京”夺得综合排行榜冠军，连续5个月蝉联榜首，“京东云-上海”位列第二名。",
+		"image_url":"//img1.jcloudcs.com/cms/2a7e9f6a-418e-495f-9f96-1ea4021edfa220190812142347.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_606",
+		"jss_key":"News_Content_606",
+		"id":606,
+		"news_title":"博睿6月排行榜中，京东云北京节点连续5个月蝉联榜首，上海节点跻身第二"
 	}
 ]
