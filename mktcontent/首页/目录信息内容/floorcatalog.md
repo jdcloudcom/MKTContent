@@ -498,13 +498,13 @@
 		"button_title":""
 	},
 	{
-		"name":"公安部等级保护评测",
+		"name":"公安部信息安全等级保护",
 		"description":"",
 		"id":112,
 		"button_title":""
 	},
 	{
-		"name":"信息安全管理体系国际认证",
+		"name":"ISO27001信息安全管理体系国际认证",
 		"description":"",
 		"id":113,
 		"button_title":""
