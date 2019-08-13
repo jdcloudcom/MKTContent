@@ -172,6 +172,14 @@
 		"id":122
 	},
 	{
+		"name":"HA Solutions for Cloud Systems",
+		"id":129
+	},
+	{
+		"name":"Scalability Solutions for Cloud Systems",
+		"id":131
+	},
+	{
 		"name":"NeuBot",
 		"id":132
 	},

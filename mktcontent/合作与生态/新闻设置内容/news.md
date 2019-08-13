@@ -1158,5 +1158,21 @@
 		"jss_key":"News_Content_593",
 		"id":593,
 		"news_title":"IDC releases the latest report: JD Cloud has taken a place among Top 10 Public Cloud IaaS Markets in China"
+	},
+	{
+		"summary":"Recently, with respect to the trend that traditional ICT enterprises and Internet enterprises gradually enter into each other’s business territory, the Research Report on New Internet Ecology for 2018-2019 was released after consulting business partners from institutions, evaluating the comprehensive competitiveness of the manufacturers involved in the Internet business of enterprise client. In the Report, JD Cloud enters into the \"leader\" range with prominent advantages.",
+		"image_url":"//img1.jcloudcs.com/cms/92e4454e-25f2-49b9-b49c-e550783b9ef120190806214520.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_600",
+		"jss_key":"News_Content_600",
+		"id":600,
+		"news_title":"Business Partner Report: JD Cloud steps into the \"leader\" range of new Internet competition"
+	},
+	{
+		"summary":"Recently, Ifenxi, a research institute focusing on innovation field, held the \"2018 Ifenxi China Cloud Computing Summit\" with the topic of \"Cloud Onboarding of Everything, Creating Future by Intelligence\", and released the List of \"China's Top 50 Cloud Computing Innovation Enterprises for 2018\".",
+		"image_url":"//img1.jcloudcs.com/cms/a9328f14-d37a-4f46-b1ea-91d6ca168f6620190807204247.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_602",
+		"jss_key":"News_Content_602",
+		"id":602,
+		"news_title":"Strength Speaks | JD Cloud is selected to the Top camp of cloud computing enterprises with its innovation ability"
 	}
 ]
