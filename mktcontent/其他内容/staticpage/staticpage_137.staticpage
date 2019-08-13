@@ -2,7 +2,7 @@
   <div class="jdc-common-banner wp-banner">
     <div class="w">
       <div class="jdc-common-banner-ct">
-        <h4 class="jdc-common-banner-tit">白皮书 White Paper</h4>
+        <h4 class="jdc-common-banner-tit">白皮书 White Papers</h4>
         <p class="jdc-common-banner-txt">京东云白皮书，提供我们对云计算的发展构想，平台设计考虑，以及最佳实践总结，帮助客户在京东云上构建高质量业务系统，实现数字化转型。</p>
 
       </div>
@@ -52,7 +52,7 @@
     </div>
 
     <div class="jdc-common-floor-item wp-floor2">
-      <div class="wp-list w">
+      <div id="wp_list" class="wp-list w">
         <h4 class="jdc-common-floor-tit">平台与架构</h4>
         <div class="row">
           <div class="col-3 col-xs-6">
