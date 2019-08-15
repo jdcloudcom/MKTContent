@@ -1214,5 +1214,29 @@
 		"jss_key":"News_Content_610",
 		"id":610,
 		"news_title":"京东二季度技术研发投入同比增34%  京东云已具备超大互联网企业服务能力"
+	},
+	{
+		"summary":"电商俨然已经成为人们日常生活不可或缺的一部分。然而，随着电商平台的壮大及发展，卖家对行业资讯、交流渠道、综合服务的需求不断上涨，买家也需要在各种电商平台中筛选自己所需的商品。对于电商平台而言，用户的需求不断升级，如何将用户留在自家平台，提高用户的粘性、使用深度和转化率变得越来越重要。",
+		"image_url":"//img1.jcloudcs.com/cms/27126ef6-a2d3-4a95-a32c-82e8c10110c920190815101051.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_611",
+		"jss_key":"News_Content_611",
+		"id":611,
+		"news_title":"京东云电商云产品上线 推出一体化智能零售解决方案"
+	},
+	{
+		"summary":"本次大赛的选手来自全球，访问地点存在不确定性，京东云云桌面特别提供互联网的统一接入入口，并对带宽流量进行浮动伸缩控制。大赛使用的Linux系统的环境，没有图形化界面，京东云云桌面提供的Ubuntu版可以给予参赛选手操作的易用性。京东云云桌面的系统镜像功能，保证了每一个云桌面环境的统一，对大赛的环境进行统一管理。",
+		"image_url":"//img1.jcloudcs.com/cms/28a5c915-359c-4aa4-a912-85527099bc1020190815184849.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_614",
+		"jss_key":"News_Content_614",
+		"id":614,
+		"news_title":"京东云云端赋能医疗领域AI落地 助力首届中国心电智能大赛"
+	},
+	{
+		"summary":"本着 “用户为先”的原则，在顶尖技术团队的共同努力下，京东云持续提升用户体验——通过对网络路由的优化，以及对服务器硬件、系统、协议的不断优化提升，京东云云主机在网络丢包率、延时、下载速度以及下载可用性方面大幅度提升。为客户打造高安全、高性能、高可用的云上业务环境，助力客户云上业务的快速健康发展。",
+		"image_url":"//img1.jcloudcs.com/cms/ad6d5544-b1a4-4b5b-9a26-33f68bf9bcf820190815192125.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_615",
+		"jss_key":"News_Content_615",
+		"id":615,
+		"news_title":"博睿指数发布：京东云连续两个月包揽综合排行榜冠亚军"
 	}
 ]
