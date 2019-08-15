@@ -1174,5 +1174,21 @@
 		"jss_key":"News_Content_602",
 		"id":602,
 		"news_title":"Strength Speaks | JD Cloud is selected to the Top camp of cloud computing enterprises with its innovation ability"
+	},
+	{
+		"summary":"Due to full advent of the digital era, digital technologies represented by cloud computing, big data, IoT and AI are driving the revolution and renascence of all industries. Not only enterprises need to create greater value with digital transformation, but also government organs need to further improve the efficiency of government operations and enhance the public service level by means of digital transformation.",
+		"image_url":"//img1.jcloudcs.com/cms/551186ff-c251-4812-a9dd-a58fd3c5f58420190809183802.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_604",
+		"jss_key":"News_Content_604",
+		"id":604,
+		"news_title":"Binzhou, Shandong Won IDC \"Internet + Government Affairs\" Award  JD Cloud's Support in Government's Digital Transformation was Recognized Again"
+	},
+	{
+		"summary":"Centering on featured agricultural products, agricultural products processing, e-commerce and cultural (ecological) tourism industry, JD Cloud works with Gaoqing to build the JD Cloud Gaoqing Industry Service Platform aiming to achieve new progress for e-commerce industry development and brand upgrade in Gaoqing County and drive the economic transformation and upgrading of Gaoqing County Region.",
+		"image_url":"//img1.jcloudcs.com/cms/54eba1fb-7a39-4f5a-b389-cf7dd3486f5220190809183031.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_605",
+		"jss_key":"News_Content_605",
+		"id":605,
+		"news_title":"JD Cloud Gaoqing Urban Chat Room Licensing Ceremony & Gaoqing Brand Release Conference were Held Successfully"
 	}
 ]

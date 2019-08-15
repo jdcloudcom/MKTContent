@@ -550,5 +550,9 @@
 	{
 		"name":"JCS for InfluxDB",
 		"id":1324
+	},
+	{
+		"name":"JCS for Greenplum",
+		"id":1326
 	}
 ]

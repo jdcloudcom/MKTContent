@@ -206,5 +206,9 @@
 	{
 		"name":"AIDC Proprietary Cloud Solutions",
 		"id":139
+	},
+	{
+		"name":"JD Cloud Zhike",
+		"id":147
 	}
 ]
