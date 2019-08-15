@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"NAT 网关\",\"label\":[{\"TitleName\":\"立即试用\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/natgateway\"}],\"desc\":\"全托管NAT网关服务，为用户提供便捷，可靠的Internet访问。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/c858ab36-d675-445f-94e8-eae42c01364020180419123725.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|71\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|71\"}",
+		"id":189
+	},
+	{
+		"txt":"[{\"proGood\":\"完全托管\",\"proName\":\"京东云完全托管，用户无需维护\"},{\"proGood\":\"高性能\",\"proName\":\"京东云自研的分布式NAT网关，提供最大4Gbps的吞吐量和最大1000万并发连接数\"},{\"proGood\":\"高可用\",\"proName\":\"提供AZ级别高可用\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"按需购买\",\"proName\":\"NAT网关规格和公网IP带宽均可以随时调整，轻松应对业务变化\"}]",
+		"id":190
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"SNAT功能为VPC内无公网IP的虚机实例提供访问互联网的代理服务，同时阻止互联网主动连接这些虚机实例，起到了一定的安全防范作用。同时多个内网实例可通过一个NAT网关公网IP出公网，共享带宽。\",\"funcTitle\":\"SNAT地址转换隐藏内网IP\"}],\"funcName\":\"SNAT\"},{\"funcName\":\"流量监控\",\"funcContent\":[{\"funcTitle\":\"多维度监控\",\"funcP\":\"监控页面提供了公网入出速率（bps）、并发连接数、新建连接数、NAT网关丢包数、源端口耗尽丢包数等多个维度的数据，方便用户实时监控NAT网关流量健康状况\"}]}]",
+		"id":191
+	},
+	{
+		"txt":"[{\"instruction\":\"用户存在多台需要进行公网访问的云主机，可使用自建SNAT功能实现IP共享带宽。\",\"name\":\"多个云主机共享IP访问公网\",\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/99168977-6021-40e6-9a98-9eb68783756220190618102641.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"name\":\"一个VPC内多NAT网关\",\"instruction\":\"一个VPC创建多个NAT网关，不同子网使用不同的NAT网关，流量隔离，错误域隔离\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/44e07c73-4d92-45f4-b008-35701b5fbf6920190618102646.png\",\"showShade\":false}]",
+		"id":192
+	}
+]
