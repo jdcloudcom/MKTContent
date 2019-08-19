@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"视频点播\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"https://docs.jdcloud.com/video-on-demand/service-provisioning\",\"classTag\":\"\"}],\"desc\":\"视频点播服务是基于京东云强有力的基础服务能力，开发的集视频上传、媒资管理、视频处理、分发播放等功能于一体的一站式视频点播服务，可满足电商、教育、泛娱乐、视频网站各垂直行业全流程业务场景。\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1152\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1152\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"视频点播\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"https://docs.jdcloud.com/video-on-demand/service-provisioning\",\"classTag\":\"\"},{\"TitleName\":\"京享超清\",\"TitleUrl\":\"https://www.jdcloud.com/cn/activity/jingxiangchaoqing\",\"classTag\":\"\"}],\"desc\":\"视频点播服务是基于京东云强有力的基础服务能力，开发的集视频上传、媒资管理、视频处理、分发播放等功能于一体的一站式视频点播服务，可满足电商、教育、泛娱乐、视频网站各垂直行业全流程业务场景。\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1152\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1152\"}",
 		"id":334
 	},
 	{
