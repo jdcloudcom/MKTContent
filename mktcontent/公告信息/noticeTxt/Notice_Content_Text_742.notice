@@ -1,0 +1,35 @@
+<p><br/></p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">为了给您提供更便利，更精确，更友好的针对云数据库RDS控制台的子用户和用户角色操作的权限控制，京东云计划于2019年8月20日20:00至2019年8月21日06:00暂停访问控制（IAM）的服务，届时将：</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">访问控制的下述服务将不可用。</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:38px">-<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">用户管理</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:38px">-<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">群组管理</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:38px">-<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">策略管理</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:38px">-<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">角色管理</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:38px">-<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">密码策略设置</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">子用户访问云数据库的RDS服务时，子用户请求经访问控制（IAM）权限判断时，可能会有延时。</span>
+</p>
+<p><span style="font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">此次上线不影响子用户和角色控制台的使用，不影响您正常业务的进行</span>
+</p>
+<p><span style="font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">上线期间如果遇到相关问题，请您随时与京东云客服联系（电话：4006151212），感谢您对京东云的支持。</span>
+</p>
+<p><br/></p>
