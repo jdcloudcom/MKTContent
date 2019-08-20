@@ -1238,5 +1238,13 @@
 		"jss_key":"News_Content_615",
 		"id":615,
 		"news_title":"博睿指数发布：京东云连续两个月包揽综合排行榜冠亚军"
+	},
+	{
+		"summary":"作为国内全平台云计算综合服务提供商，京东云受邀出席会议。与参会专家和伙伴从战略、产业和技术创新角度，分享应对网络战的前瞻思考，共同就对抗网络安全威胁，提高国家和社会网络安全防护能力展开深度探讨。",
+		"image_url":"//img1.jcloudcs.com/cms/4e0ff42f-10c1-433e-82bc-5a23373f91c320190820141520.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_616",
+		"jss_key":"News_Content_616",
+		"id":616,
+		"news_title":"共建安全生态，预见无限可能：京东云受邀出席ISC 2019"
 	}
 ]
