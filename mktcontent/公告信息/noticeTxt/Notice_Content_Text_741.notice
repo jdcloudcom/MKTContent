@@ -53,10 +53,11 @@ Windows Update <span style="font-family:宋体">更新功能，点击</span>
 <p class="MsoListParagraph" style="margin-left:28px">2.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
 <span style="font-family:宋体">【缓解】开启网络级别身份验证（</span>
 NLA<span style="font-family:宋体">）：打开</span>
-Windows<span style="font-family:宋体">的”控制面板“菜单，找到“系统和安全</span>
+Windows<span style="font-family:宋体">的“控制面板”菜单，找到“系统和安全</span>
  - <span style="font-family:宋体">系统</span>
- - <span style="font-family:宋体">远程设置”选项，找到”远程“选项卡，选择</span>
- <span style="font-family:宋体">”仅允许运行使用网络级别身份验证的远程桌面的计算机连接（更安全）“选项，即可开启。</span>
+ - <span style="font-family:宋体">远程设置”选项，找到“<span style="font-family: 宋体;">远程</span>
+”选项卡，选择</span>
+ <span style="font-family:宋体">“仅允许运行使用网络级别身份验证的远程桌面的计算机连接（更安全）”选项，即可开启。</span>
 </p>
 <p class="MsoListParagraph" style="margin-left:28px">3.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
 <span style="font-family:宋体">【缓解】配置安全组</span>
