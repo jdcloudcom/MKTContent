@@ -530,5 +530,13 @@
 	{
 		"id":734,
 		"title":"\\[cn-south-1\\] Suspension Notice of Cloud Disk Service, Virtual Machine, Native Container, POD Console and OpenAPI Service at 21:00 on July 30"
+	},
+	{
+		"id":739,
+		"title":"\\[cn-east-1\\] Suspension Notice of Cloud Disk Service, Virtual Machine, Native Container, POD Console and OpenAPI Service at 21:00 on August 15"
+	},
+	{
+		"id":741,
+		"title":"\\[Vulnerability Warning\\] Windows Remote JD desktop RDP remote code executes vulnerability"
 	}
 ]

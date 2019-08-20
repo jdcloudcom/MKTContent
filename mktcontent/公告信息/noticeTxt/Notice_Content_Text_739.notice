@@ -1,0 +1,22 @@
+<p>&nbsp; &nbsp; &nbsp;<span style="font-family: 宋体;">
+In order to better meet customer’s requirements for Block Storage High Reliability services, JD Cloud plans to maintain the Cloud Disk Service and related systems in the [cn-east-1] region at 21:00:00 to 23:00:00 on August 15, 2019. At the scheduled time:
+</span>
+<br/></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family:宋体">
+Virtual Machines Console Access and OpenAPI Service in [cn-east-1] region will be paused while such services in other regions will not be affected;
+</span>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family:宋体">
+Cloud Disk Service Console and OpenAPI service in [cn-east-1] region will be paused while such services in other regions will not be affected;
+</span>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family:宋体">
+Native Container Instance, Pod Console and OpenAPI service in [cn-east-1] region will be paused while such services in other regions will not be affected;
+</span>
+</p>
+<p><span style="font-family:宋体">Running of existing operations in your regions will not be affected by the launch. The Console will be resumed for normal use upon completion of launching.</span>
+</p>
+<p><span style="font-family:宋体">
+If you have relevant questions during the launching, please contact JD Cloud customer service personnel at any time (phone number: 4006151212). Thank you for your support to JD Cloud.
+</span>
+</p>

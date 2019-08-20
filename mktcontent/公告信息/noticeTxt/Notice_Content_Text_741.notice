@@ -1,0 +1,89 @@
+<p style="text-indent:14px"><span style="font-family:宋体">
+Recently, JD Cloud Security Team monitored the emergency security patch released office by Microsoft and fixed remote execution code vulnerability (CVE-2019-1181/1182) for Windows remote desktop service.
+</span></p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">
+[Vulnerability Description]
+</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-indent:28px"><span style="font-family:宋体">
+Attackers can use this vulnerability to obtain Windows server permissions. In order to prevent your business from being affected, JD Cloud security team recommends you to conduct the security self-examination in a timely manner. If your business is in the affecting scope, please update and fix the problem in time to avoid attacks from an external attacker.
+</span>
+</p>
+<p style="text-indent:14px">&nbsp;</p>
+<p><span style="font-family:宋体">
+[Vulnerability Rating]
+</span>
+</p>
+<p>&nbsp;</p>
+<p>CVE-2019-1181  Severe</span>
+</p>
+<p>CVE-2019-1182  Severe</span>
+</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">
+[Affected Version]
+</span>
+</p>
+<p>&nbsp;</p>
+<p>Windows 7</p>
+<p>Windows 8</p>
+<p>Windows 10</p>
+<p>Windows Server 2008 R2</p>
+<p>Windows Server 2008</p>
+<p>Windows Server 2012</p>
+<p>Windows Server 2012 R2</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">
+[Security Recommendations]
+</span>
+</p>
+<p>&nbsp;</p>
+<p class="MsoListParagraph" style="margin-left:28px">1.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:宋体">
+[Suggestion] Patch update (it is suggested that you backup data and images before installing the patch), Open Windows Update and click "Check for Updates", perform the evaluation according to the business situation, download and install the corresponding security patches, reboot the system after the update for taking effect and observe the operation status of system and business.
+</span>
+</p>
+<p><span style="font-family:宋体">Manual Download Address:</span>
+</p>
+<p>Windows Server 2008 R2:</p>
+<p><a href="http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows6.1-kb4512486-x64_547fe7e4099c11d494c95d1f72e62a693cd70441.msu">http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows6.1-kb4512486-x64_547fe7e4099c11d494c95d1f72e62a693cd70441.msu</a></p>
+<p>Windows Server 2012 R2:</p>
+<p><a href="http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows8.1-kb4512489-x64_be2ed8f4ee800d8c39e5025c5d95808858077c05.msu">http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows8.1-kb4512489-x64_be2ed8f4ee800d8c39e5025c5d95808858077c05.msu</a></p>
+<p>Windows Server 2016:</p>
+<p><a href="http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows10.0-kb4512517-x64_81ba5a17cf768a54489faf28ba3a3eca3c0c36d5.msu">http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows10.0-kb4512517-x64_81ba5a17cf768a54489faf28ba3a3eca3c0c36d5.msu</a></p>
+<p>&nbsp;</p>
+<p class="MsoListParagraph" style="margin-left:28px">2.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:宋体">
+[Mitigation] Enable Network Level Authentication (NLA): Open the "Control Panel" menu in Windows and find "System and Security
+</span>
+ - <span style="font-family:宋体">
+System
+</span>
+ - <span style="font-family:宋体">
+Remote Settings" option, find "Remote" option card, select "Only allow computer connections (more secure) that run on remote desktops using Network Level Authentication" to enable.
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">3.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:宋体">
+[Mitigation] Configure Security Group: Temporarily disables RDP service ports from external access or access with authorized specific IP.
+</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">[Reference Link]</span>
+</p>
+<p>&nbsp;</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left">1.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:宋体">
+Official Update Announcement:
+</span>
+https://portal.msrc.microsoft.com/en-us/security-guidance</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left">2.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:宋体">
+Microsoft Official Warning:
+</span>
+https://msrc-blog.microsoft.com/2019/08/13/patch-new-wormable-vulnerabilities-in-remote-desktop-services-cve-2019-1181-1182/?from=timeline&amp;isappinstalled=0</p>
+<p><br/></p>
