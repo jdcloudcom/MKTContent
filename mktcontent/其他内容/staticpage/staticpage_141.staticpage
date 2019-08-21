@@ -1,0 +1,438 @@
+<div class="jd-ai">
+  <div class="ai-banner">
+    <div class="w">
+      <h2 class="ai-banner-tit">京东人工智能</h2>
+      <p class="ai-banner-txt">助力行业升级  引领美好生活</p>
+
+    </div>
+  </div>
+
+  <div class="jdc-bar jdc-bar-border hidden-xs ai-bar">
+    <div class="w f-cb">
+      <div class="jdc-bar-nav">
+        <div class="nav-item on"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|SwitcherControlFloor1">AI服务</a></div>
+        <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|SwitcherControlFloor2">解决方案</a></div>
+        <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|SwitcherControlFloor3">客户案例</a></div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="ai-floor">
+    <div class="ai-floor-item">
+      <h3 class="ai-floor-tit">丰富基础能力全面开放 首批API产品免费公测</h3>
+
+      <div class="jdc-bar ai-tab-1">
+        <div class="w hidden-xs">
+          <div class="jdc-bar-nav f-cb">
+            <div class="nav-item on"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|Tab1"><i class="icon1"></i>语音技术</a></div>
+            <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|Tab2"><i class="icon2"></i>图像理解</a></div>
+            <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|Tab3"><i class="icon3"></i>人脸识别</a></div>
+            <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|Tab4"><i class="icon4"></i>人体识别</a></div>
+            <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|Tab5"><i class="icon5"></i>自然语音处理</a></div>
+            <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|Tab6"><i class="icon6"></i>OCR文字识别</a></div>
+          </div>
+        </div>
+        <div class="tab-content">
+          <div class="w f-cb">
+            <div class="tab-item on m-on">
+              <div class="p-tit jdc-common-arr">
+                <i class="icon1"></i>语言技术
+              </div>
+              <div class="p-list f-cb">
+                <a href="//www.jdcloud.com/cn/products/automatic-speech-recognition" clstag="Service|keycount|MiddleContentSec|Link1" class="p-item">
+                  <dl>
+                    <dt>语音识别</dt>
+                    <dd>将语音转成文字，支持多场景识别，为零售、客服金融等场景提供语音解决方案。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/text-to-speech" clstag="Service|keycount|MiddleContentSec|Link2" class="p-item">
+                  <dl>
+                    <dt>语音合成</dt>
+                    <dd>提供高自然度、有感情色彩，个性化的语音合成服务，包括文字转声音，声音转声音服务。</dd>
+                  </dl>
+                </a>
+              </div>
+            </div>
+            <div class="tab-item">
+              <div class="p-tit jdc-common-arr">
+                <i class="icon2"></i>图像理解
+              </div>
+              <div class="p-list f-cb">
+                <a href="//www.jdcloud.com/products/specific-subject-face-recognition" clstag="Service|keycount|MiddleContentSec|Link3" class="p-item">
+                  <dl>
+                    <dt>特定人物识别</dt>
+                    <dd>基于业界领先的深度学习技术，支持自定义配置特定人物名单，准确识别图片中特定人物。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/snap-shop" clstag="Service|keycount|MiddleContentSec|Link4" class="p-item">
+                  <dl>
+                    <dt>拍照购</dt>
+                    <dd>京东商品图片识别找同款。覆盖全品类商品，适用服装、配饰等时尚非标品以及美妆、进口商品等的搜索场景。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/image-antiporn-recognize" clstag="Service|keycount|MiddleContentSec|Link5" class="p-item">
+                  <dl>
+                    <dt>智能鉴黄</dt>
+                    <dd>基于深度学习图像识别技术，对肤色、姿态和场景等进行识别，准确快速输出 “色情”、"低俗”、“性感”、“正常”的概率。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/food-recognition" clstag="Service|keycount|MiddleContentSec|Link6" class="p-item">
+                  <dl>
+                    <dt>菜品识别</dt>
+                    <dd>基于业界领先的细粒度图像识别技术，准确识别中餐菜品，返回菜品名称。</dd>
+                  </dl>
+                </a>
+              </div>
+            </div>
+            <div class="tab-item">
+              <div class="p-tit jdc-common-arr">
+                <i class="icon3"></i>人脸识别
+              </div>
+              <div class="p-list f-cb">
+                <a href="//www.jdcloud.com/products/face-compare" clstag="Service|keycount|MiddleContentSec|Link7" class="p-item">
+                  <dl>
+                    <dt>人脸对比</dt>
+                    <dd>基于人的脸部特征信息，计算两张脸的相似程度，并返回相似度评分，判断两者是否为同一个人。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/face-search" clstag="Service|keycount|MiddleContentSec|Link8" class="p-item">
+                  <dl>
+                    <dt>人脸搜索</dt>
+                    <dd>针对一张人脸，与指定人脸库中的N个人脸进行比对，找出最相似的一张脸或多张人脸，并返回一系列相似人脸信息及相似度评分。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/face-detect-and-analysis" clstag="Service|keycount|MiddleContentSec|Link9" class="p-item">
+                  <dl>
+                    <dt>人脸检测与属性分析</dt>
+                    <dd>快速检测并定位人脸，返回高精度的人脸框坐标，五官与轮廓关键点和三维坐标，并可识别人脸自然属性和情绪属性。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/face-anti-spoofing" clstag="Service|keycount|MiddleContentSec|Link10" class="p-item">
+                  <dl>
+                    <dt>人脸活体检测</dt>
+                    <dd>基于领先的深度学习技术，在人脸识别应用中判断用户是否为真实本人操作，可有效抵御照片、换脸、面具、遮挡以及屏幕翻拍等攻击手段。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/selfie-segmentation" clstag="Service|keycount|MiddleContentSec|Link11" class="p-item">
+                  <dl>
+                    <dt>自拍人像抠图</dt>
+                    <dd>分割自拍照中的人像区域：快速提取自拍照中人的轮廓，与背景进行区分。</dd>
+                  </dl>
+                </a>
+              </div>
+            </div>
+            <div class="tab-item">
+              <div class="p-tit jdc-common-arr">
+                <i class="icon4"></i>人体识别
+              </div>
+              <div class="p-list f-cb">
+                <a href="//www.jdcloud.com/products/pose-estimation" clstag="Service|keycount|MiddleContentSec|Link12" class="p-item">
+                  <dl>
+                    <dt>人体关键点检测</dt>
+                    <dd>基于领先的AI技术，提供对单人及多人的姿态预估技术，可准确地估计出图片或视频中的人体14个主要关键点并给出相应的置信度。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/human-detection" clstag="Service|keycount|MiddleContentSec|Link13" class="p-item">
+                  <dl>
+                    <dt>人体检测</dt>
+                    <dd>基于业界领先的AI技术准确地检测出图片或视频中的人体，并返回高精度的人体矩形框坐标。</dd>
+                  </dl>
+                </a>
+              </div>
+            </div>
+            <div class="tab-item">
+              <div class="p-tit jdc-common-arr">
+                <i class="icon5"></i>自然语音处理
+              </div>
+              <div class="p-list f-cb">
+                <a href="//www.jdcloud.com/products/lexical-analysis" clstag="Service|keycount|MiddleContentSec|Link14" class="p-item">
+                  <dl>
+                    <dt>词法分析</dt>
+                    <dd>提供中文分词、词性标注、命名实体识别三个功能，解析自然语言中的基本语言元素，并赋予词性，识别文本中的特定类型的事物名称或符号，支撑自然语言的准确理解。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/syntactic-parsing" clstag="Service|keycount|MiddleContentSec|Link15" class="p-item">
+                  <dl>
+                    <dt>句法分析</dt>
+                    <dd>提供文本中词与词之间的依存关系和句法结构信息（如：主谓宾、定状补），帮助机器实现对用户意图的准确理解。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/sentiment-classifier" clstag="Service|keycount|MiddleContentSec|Link16" class="p-item">
+                  <dl>
+                    <dt>情感分析</dt>
+                    <dd>针对带有主观描述的中文文本，自动判断该文本的情感极性类别，并给出相应的置信度。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/short-text-similarity" clstag="Service|keycount|MiddleContentSec|Link17" class="p-item">
+                  <dl>
+                    <dt>短文本相似度</dt>
+                    <dd>提供不同短文本之间相似度的计算，输出的相似度是一个介于0到1之间的实数值，越大则相似度越高。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/commentary-extraction" clstag="Service|keycount|MiddleContentSec|Link18" class="p-item">
+                  <dl>
+                    <dt>评论观点抽取</dt>
+                    <dd>自动分析评论关注点和评论观点，提取评论的评论观点标签。辅助用户进行内容生成、产品决策、运营监控等。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/text-categorization" clstag="Service|keycount|MiddleContentSec|Link19" class="p-item">
+                  <dl>
+                    <dt>文本分类</dt>
+                    <dd>识别话术的领域信息，提供17个领域分类：歌曲、广播、故事、百科、天气、时间、新闻、生活查询、岀行、股票、购物等。</dd>
+                  </dl>
+                </a>
+              </div>
+            </div>
+            <div class="tab-item">
+              <div class="p-tit jdc-common-arr">
+                <i class="icon6"></i>OCR文字识别
+              </div>
+              <div class="p-list f-cb">
+                <a href="//www.jdcloud.com/products/identity-card-recognize" clstag="Service|keycount|MiddleContentSec|Link20" class="p-item">
+                  <dl>
+                    <dt>身份证识别</dt>
+                    <dd>识别二代居民身份证正反面的关键字段识别，包括姓名、性别、民族、出生日期、住址、身份证号、签发机关、有效期限。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/vehicle-license-recognize" clstag="Service|keycount|MiddleContentSec|Link21" class="p-item">
+                  <dl>
+                    <dt>行驶证识别</dt>
+                    <dd>基于业界领先的深度学习技术，识别机动车行驶证正页的关键字段，包括号牌号码、车辆类型、所有人、住址、使用性质等。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/general-image-ocr" clstag="Service|keycount|MiddleContentSec|Link22" class="p-item">
+                  <dl>
+                    <dt>通用文字识别</dt>
+                    <dd>基于业界领先的深度学习技术，利用光学字符识别技术，依托京东海量优质数据提供多场景、高精度的图片文字检测和识别服务。</dd>
+                  </dl>
+                </a>
+                <a href="//www.jdcloud.com/products/value-added-tax-invoice-recognize" clstag="Service|keycount|MiddleContentSec|Link23" class="p-item">
+                  <dl>
+                    <dt>增值税发票识别</dt>
+                    <dd>基于业界领先的深度学习技术，识别发票代码，发票号码，购方名称，购方税号等多个关键字段。</dd>
+                  </dl>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ai-floor-item m-floor-item">
+      <h3 class="ai-floor-tit">人工智能解决方案 全面赋能行业场景</h3>
+      <div class="jdc-bar ai-tab-2 hidden-xs">
+        <div class="w">
+          <div class="jdc-bar-nav f-cb">
+            <div class="nav-item on"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|Tab2_1">智慧门店</a></div>
+            <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|Tab2_2">蜂巢空间机器人</a></div>
+            <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|Tab2_3">智能验证码</a></div>
+            <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|Tab2_4">京灵服务机器人</a></div>
+          </div>
+          <div class="tab-content">
+            <div class="tab-item on">
+              <div class="g-table">
+                <div class="tab-item-txt">
+                  <h4>智慧门店</h4>
+                  <p>基于京东智能摄像机与云端人脸识别技术，打造会员识别、客流分析等智慧门店应用，为会员提供全新迎宾体验的同时，也帮助商家通过全链路的数据沉淀更了解目标顾客。基于对历史数据及关联因素的精准分析，辅助商家对未来活动进行准确规划，做出更明智的运营管理决策。</p>
+
+                  <p>场景：品牌服装店、便利店、小型超市、购物中心、汽车4S店、面包店、快闪店</p>
+
+                  <a href="//www.jdcloud.com/solutions/ai-store" clstag="Service|keycount|MiddleContentSec|TabLink1" class="jdc-btn jdc-bg">查看详情</a>
+                </div>
+                <div class="tab-item-img">
+                  <a href="//www.jdcloud.com/solutions/ai-store" clstag="Service|keycount|MiddleContentSec|TabLink1-2">
+                    <img src="//img1.jcloudcs.com/portal/jdai/jdai-img1.png" alt="">
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="tab-item">
+              <div class="g-table">
+                <div class="tab-item-txt">
+                  <h4>蜂巢空间机器人</h4>
+                  <p>集多种人工智能、视觉交互技术融合而成。内部沉浸式人机交互空间，具备人脸识别、手势识别、免唤醒连续智能对话黑科技。通过丰富的视觉交互设计，图文并茂与视频动效呈现对话答案。独特的蜂巢设计，未来与业务系统结合，形成一个智能服务终端。</p>
+
+                  <p>场景：展览馆、科技馆、科普中心、银行、生活服务区</p>
+
+                  <a href="//www.jdcloud.com/solutions/neuhive" clstag="Service|keycount|MiddleContentSec|TabLink2" class="jdc-btn jdc-bg">查看详情</a>
+                </div>
+                <div class="tab-item-img">
+                  <a href="//www.jdcloud.com/solutions/neuhive" clstag="Service|keycount|MiddleContentSec|TabLink2-2">
+                    <img src="//img1.jcloudcs.com/portal/jdai/jdai-img2.png" alt="">
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="tab-item">
+              <div class="g-table">
+                <div class="tab-item-txt">
+                  <h4>智能验证码</h4>
+                  <p>基于生物行为特征及环境自研深度学习算法，解决登录注册、活动秒杀、点赞发帖等场景的安全问题，准确识别可信、可疑和恶意行为，保障用户极致体验的同时，最大程度地保护业务安全。</p>
+
+                  <p>场景：应用注册场景、应用登录场景、营销场景、互动场景</p>
+
+                  <a href="//www.jdcloud.com/solutions/intelligent-verify-code" clstag="Service|keycount|MiddleContentSec|TabLink3" class="jdc-btn jdc-bg">查看详情</a>
+                </div>
+                <div class="tab-item-img">
+                  <a href="//www.jdcloud.com/solutions/intelligent-verify-code" clstag="Service|keycount|MiddleContentSec|TabLink3-2">
+                    <img src="//img1.jcloudcs.com/portal/jdai/jdai-img3.png" alt="">
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="tab-item">
+              <div class="g-table">
+                <div class="tab-item-txt">
+                  <h4>京灵服务机器人</h4>
+                  <p>视觉、语音、文字、触控等多模态人机交互，支持根据应用场景进行定制化二次开发，定制语料并增加专属功能，与实际应用场景契合，解答用户问题，主动介绍内容。可以执行路径规划、自主探索等任务，同时支持没电自动回充，引领服务新体验。</p>
+
+                  <p>场景：政务大厅、展馆展厅、机场火车站、酒店公寓、零售门店、汽车4S店</p>
+
+                  <a href="//www.jdcloud.com/cn/solutions/neubot" clstag="Service|keycount|MiddleContentSec|TabLink4" class="jdc-btn jdc-bg">查看详情</a>
+                </div>
+                <div class="tab-item-img">
+                  <a href="//www.jdcloud.com/cn/solutions/neubot" clstag="Service|keycount|MiddleContentSec|TabLink4-2">
+                    <img src="//img1.jcloudcs.com/portal/jdai/jdai-img4.png" alt="">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="ai-slider swiper-container">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="w">
+              <a href="//www.jdcloud.com/solutions/ai-store" clstag="Service|keycount|MiddleContentSec|SliderLink1-1" class="ai-slide-img">
+                <img src="//img1.jcloudcs.com/portal/jdai/jdai-img1.png" alt="">
+                <h4>智慧门店</h4>
+              </a>
+              <p class="ai-slide-txt">
+                基于京东智能摄像机与云端人脸识别技术，打造会员识别、客流分析等智慧门店应用，为会员提供全新迎宾体验的同时，也帮助商家通过全链路的数据沉淀更了解目标顾客。基于对历史数据及关联因素的精准分析，辅助商家对未来活动进行准确规划，做出更明智的运营管理决策。
+                <br>
+                场景：品牌服装店、便利店、小型超市、购物中心、汽车4S店、面包店、快闪店
+              </p>
+
+              <a href="//www.jdcloud.com/solutions/ai-store" clstag="Service|keycount|MiddleContentSec|SliderLink1-2" class="ai-slide-link">了解更多&gt;&gt;</a>
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="w">
+              <a href="//www.jdcloud.com/solutions/neuhive" class="ai-slide-img" clstag="Service|keycount|MiddleContentSec|SliderLink2-1">
+                <img src="//img1.jcloudcs.com/portal/jdai/jdai-img2.png" alt="">
+                <h4>蜂巢空间机器人</h4>
+              </a>
+              <p class="ai-slide-txt">
+                多种人工智能、视觉交互技术融合而成。内部沉浸式人机交互空间，具备人脸识别、手势识别、免唤醒连续智能对话黑科技。通过丰富的视觉交互设计，图文并茂与视频动效呈现对话答案。独特的蜂巢设计，未来与业务系统结合，形成一个智能服务终端。
+                <br>
+                场景：展览馆、科技馆、科普中心、银行、生活服务区
+              </p>
+
+              <a href="//www.jdcloud.com/solutions/neuhive" class="ai-slide-link" clstag="Service|keycount|MiddleContentSec|SliderLink2-2">了解更多&gt;&gt;</a>
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="w">
+              <a href="//www.jdcloud.com/solutions/intelligent-verify-code" class="ai-slide-img" clstag="Service|keycount|MiddleContentSec|SliderLink3-1">
+                <img src="//img1.jcloudcs.com/portal/jdai/jdai-img3.png" alt="">
+                <h4>智能验证码</h4>
+              </a>
+              <p class="ai-slide-txt">
+                基于生物行为特征及环境自研深度学习算法，解决登录注册、活动秒杀、点赞发帖等场景的安全问题，准确识别可信、可疑和恶意行为，保障用户极致体验的同时，最大程度地保护业务安全。
+                <br>
+                场景：应用注册场景、应用登录场景、营销场景、互动场景
+              </p>
+
+              <a href="//www.jdcloud.com/solutions/intelligent-verify-code" class="ai-slide-link" clstag="Service|keycount|MiddleContentSec|SliderLink3-2">了解更多&gt;&gt;</a>
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="w">
+              <a href="//www.jdcloud.com/cn/solutions/neubot" class="ai-slide-img" clstag="Service|keycount|MiddleContentSec|SliderLink4-1">
+                <img src="//img1.jcloudcs.com/portal/jdai/jdai-img4.png" alt="">
+                <h4>京灵服务机器人</h4>
+              </a>
+              <p class="ai-slide-txt">
+                视觉、语音、文字、触控等多模态人机交互，支持根据应用场景进行定制化二次开发，定制语料并增加专属功能，与实际应用场景契合，解答用户问题，主动介绍内容。可以执行路径规划、自主探索等任务，同时支持没电自动回充，引领服务新体验。
+                <br>
+                场景：政务大厅、展馆展厅、机场火车站、酒店公寓、零售门店、汽车4S店
+              </p>
+
+              <a href="//www.jdcloud.com/cn/solutions/neubot" class="ai-slide-link" clstag="Service|keycount|MiddleContentSec|SliderLink4-2">了解更多&gt;&gt;</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="ai-floor-item m-floor-item3">
+      <h3 class="ai-floor-tit">客户案例</h3>
+      <div class="w">
+        <div class="ai-case row">
+          <div class="ai-case-item col-3 col-xs-12">
+            <img src="//img1.jcloudcs.com/portal/jdai/jdai-case1.png" class="hidden-xs">
+            <img src="//img1.jcloudcs.com/portal/jdai/jdai-case-m1.png" class="m-img">
+            <div class="ai-case-txt">
+              <div class="ai-case-table">
+                <div class="ai-case-cell">
+                  <h4>“黑科技”智慧门店亮相德清</h4>
+                  <p>
+                    德清地理信息小镇智慧门店是德清国家级高新区、丁记旺旺和京东AI联合打造的全新零售体验的便利店，于2018年11月开业。该门店基于京东自研人脸识别和语音合成等AI技术，首创了VIP人脸识别区和快速无感支付区结合的零售新业态。凭借智能客流运营分析，帮助商家有力提升运营效率的同时，也为德清市民带来了全新的便利店消费体验。</p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="ai-case-item col-3 col-xs-12">
+            <img src="//img1.jcloudcs.com/portal/jdai/jdai-case2.png" class="hidden-xs">
+            <img src="//img1.jcloudcs.com/portal/jdai/jdai-case-m2.png" class="m-img">
+            <div class="ai-case-txt">
+              <div class="ai-case-table">
+                <div class="ai-case-cell">
+                  <h4>京东AI携冯氏打造智能购物新体验</h4>
+                  <p>2019年3月13日，京东AI与香港冯氏零售集团共同打造的AI创新产品智能结算台落地香港，应用于Circle K 长沙湾和铜锣湾旗舰店。该产品基于京东AI领先的图像识别技术，是行业内首个实现多商品、多角度一次性识别且准确率达到可商用落地产品。在试运营期间，顾客的结算效率和体验均有显著提升。同期，双方合作的智能显示屏落地上海，作为门店精细化运营利器，为顾客实现商品精准推荐。</p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="ai-case-item col-3 col-xs-12">
+            <img src="//img1.jcloudcs.com/portal/jdai/jdai-case3.png" class="hidden-xs">
+            <img src="//img1.jcloudcs.com/portal/jdai/jdai-case-m3.png" class="m-img">
+            <div class="ai-case-txt">
+              <div class="ai-case-table">
+                <div class="ai-case-cell">
+                  <h4>京东AI闪耀联合国世界地理信息大会</h4>
+                  <p>
+                    2018年11月19日，首届联合国世界地理信息大会在浙江省德清县举行。作为德清的战略合作伙伴，京东与德清携手打造了提供人工智能服务的世界地理信息大会。在本次地信会期间，京东AI打造的蜂巢空间机器人、导览服务机器人等多款人工智能产品亮相现场，让来自世界各国的友人感受科技京东的魅力。</p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="ai-case-item col-3 col-xs-12">
+            <img src="//img1.jcloudcs.com/portal/jdai/jdai-case4.png" class="hidden-xs">
+            <img src="//img1.jcloudcs.com/portal/jdai/jdai-case-m4.png" class="m-img">
+            <div class="ai-case-txt">
+              <div class="ai-case-table">
+                <div class="ai-case-cell">
+                  <h4>华西第二医院智能医疗解决方案</h4>
+                  <p>
+                    2016年11月25日，华西医院微信问答机器人以API形式接入华西二院微信公众号，覆盖预约挂号、就诊卡办理、缴费退费、医生在岗情况查询等80%以上医院常规业务，实现7×24小时在线秒级回答，智能人机互转，使服务效率提升70%+。</p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
