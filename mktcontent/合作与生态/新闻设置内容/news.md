@@ -1262,5 +1262,13 @@
 		"jss_key":"News_Content_619",
 		"id":619,
 		"news_title":"京东云与聊城江北水城旅游度假区合作发布仪式在京启动"
+	},
+	{
+		"summary":"京东集团宣布对全球领先的智慧场景服务商特斯联进行战略投资，将帮助京东加深社区场景渗透及构建京东云、京东城市、京东钼媒整体生态，同时基于相关应用场景输出零售、金融、广告等产业服务能力。京东拥有的丰厚技术积淀将与特斯联的产业赋能优势实现“强强联手”，共同推动产业数字化的布局，实现产业协同的溢出效应。",
+		"image_url":"//img1.jcloudcs.com/cms/853ed5d7-b0ab-4b9c-be47-39ed5ae15d9620190822184010.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_620",
+		"jss_key":"News_Content_620",
+		"id":620,
+		"news_title":"京东云与京东数科战略投资特斯联，全面加速AIoT+智能城市战略落地"
 	}
 ]
