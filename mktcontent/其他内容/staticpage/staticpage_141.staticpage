@@ -10,7 +10,7 @@
   <div class="jdc-bar jdc-bar-border hidden-xs ai-bar">
     <div class="w f-cb">
       <div class="jdc-bar-nav">
-        <div class="nav-item on"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|SwitcherControlFloor1">AI服务</a></div>
+        <div class="nav-item on"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|SwitcherControlFloor1">开放能力</a></div>
         <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|SwitcherControlFloor2">解决方案</a></div>
         <div class="nav-item"><a href="javascript:;" clstag="Service|keycount|MiddleContentSec|SwitcherControlFloor3">客户案例</a></div>
       </div>
@@ -20,7 +20,7 @@
 
   <div class="ai-floor">
     <div class="ai-floor-item">
-      <h3 class="ai-floor-tit">丰富基础能力全面开放 首批API产品免费公测</h3>
+      <h3 class="ai-floor-tit">开放能力</h3>
 
       <div class="jdc-bar ai-tab-1">
         <div class="w hidden-xs">
@@ -43,13 +43,13 @@
                 <a href="//www.jdcloud.com/cn/products/automatic-speech-recognition" clstag="Service|keycount|MiddleContentSec|Link1" class="p-item">
                   <dl>
                     <dt>语音识别</dt>
-                    <dd>将语音转成文字，支持多场景识别，为零售、客服金融等场景提供语音解决方案。</dd>
+                    <dd>将语音转成文字，支持零售、客服等多场景识别。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/text-to-speech" clstag="Service|keycount|MiddleContentSec|Link2" class="p-item">
                   <dl>
                     <dt>语音合成</dt>
-                    <dd>提供高自然度、有感情色彩，个性化的语音合成服务，包括文字转声音，声音转声音服务。</dd>
+                    <dd>高自然度、有感情色彩，个性化的语音合成服务。</dd>
                   </dl>
                 </a>
               </div>
@@ -62,25 +62,25 @@
                 <a href="//www.jdcloud.com/products/specific-subject-face-recognition" clstag="Service|keycount|MiddleContentSec|Link3" class="p-item">
                   <dl>
                     <dt>特定人物识别</dt>
-                    <dd>基于业界领先的深度学习技术，支持自定义配置特定人物名单，准确识别图片中特定人物。</dd>
+                    <dd>自定义配置特定人物，准确识别图片中特定人物。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/snap-shop" clstag="Service|keycount|MiddleContentSec|Link4" class="p-item">
                   <dl>
                     <dt>拍照购</dt>
-                    <dd>京东商品图片识别找同款。覆盖全品类商品，适用服装、配饰等时尚非标品以及美妆、进口商品等的搜索场景。</dd>
+                    <dd>京东商品图片识别——找同款，覆盖全品类商品。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/image-antiporn-recognize" clstag="Service|keycount|MiddleContentSec|Link5" class="p-item">
                   <dl>
                     <dt>智能鉴黄</dt>
-                    <dd>基于深度学习图像识别技术，对肤色、姿态和场景等进行识别，准确快速输出 “色情”、"低俗”、“性感”、“正常”的概率。</dd>
+                    <dd>识别肤色、姿态和场景等，准确输出相应的概率。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/food-recognition" clstag="Service|keycount|MiddleContentSec|Link6" class="p-item">
                   <dl>
                     <dt>菜品识别</dt>
-                    <dd>基于业界领先的细粒度图像识别技术，准确识别中餐菜品，返回菜品名称。</dd>
+                    <dd>准确识别中餐菜品，返回菜品名称。</dd>
                   </dl>
                 </a>
               </div>
@@ -93,31 +93,31 @@
                 <a href="//www.jdcloud.com/products/face-compare" clstag="Service|keycount|MiddleContentSec|Link7" class="p-item">
                   <dl>
                     <dt>人脸对比</dt>
-                    <dd>基于人的脸部特征信息，计算两张脸的相似程度，并返回相似度评分，判断两者是否为同一个人。</dd>
+                    <dd>计算两张脸相的似程度，判断是否为同一个人。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/face-search" clstag="Service|keycount|MiddleContentSec|Link8" class="p-item">
                   <dl>
                     <dt>人脸搜索</dt>
-                    <dd>针对一张人脸，与指定人脸库中的N个人脸进行比对，找出最相似的一张脸或多张人脸，并返回一系列相似人脸信息及相似度评分。</dd>
+                    <dd>人脸1:N比对，返回相似人脸信息及相似度评分。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/face-detect-and-analysis" clstag="Service|keycount|MiddleContentSec|Link9" class="p-item">
                   <dl>
                     <dt>人脸检测与属性分析</dt>
-                    <dd>快速检测并定位人脸，返回高精度的人脸框坐标，五官与轮廓关键点和三维坐标，并可识别人脸自然属性和情绪属性。</dd>
+                    <dd>定位高精度人脸坐标，识别自然属性和情绪属性。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/face-anti-spoofing" clstag="Service|keycount|MiddleContentSec|Link10" class="p-item">
                   <dl>
                     <dt>人脸活体检测</dt>
-                    <dd>基于领先的深度学习技术，在人脸识别应用中判断用户是否为真实本人操作，可有效抵御照片、换脸、面具、遮挡以及屏幕翻拍等攻击手段。</dd>
+                    <dd>在人脸识别应用中判断用户是否为真实本人操作。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/selfie-segmentation" clstag="Service|keycount|MiddleContentSec|Link11" class="p-item">
                   <dl>
                     <dt>自拍人像抠图</dt>
-                    <dd>分割自拍照中的人像区域：快速提取自拍照中人的轮廓，与背景进行区分。</dd>
+                    <dd>快速提取自拍照中人的轮廓，与背景进行区分。</dd>
                   </dl>
                 </a>
               </div>
@@ -130,13 +130,13 @@
                 <a href="//www.jdcloud.com/products/pose-estimation" clstag="Service|keycount|MiddleContentSec|Link12" class="p-item">
                   <dl>
                     <dt>人体关键点检测</dt>
-                    <dd>基于领先的AI技术，提供对单人及多人的姿态预估技术，可准确地估计出图片或视频中的人体14个主要关键点并给出相应的置信度。</dd>
+                    <dd>预估图片或视频中的人体14个主要关键点信息。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/human-detection" clstag="Service|keycount|MiddleContentSec|Link13" class="p-item">
                   <dl>
                     <dt>人体检测</dt>
-                    <dd>基于业界领先的AI技术准确地检测出图片或视频中的人体，并返回高精度的人体矩形框坐标。</dd>
+                    <dd>检测图片或视频中的高精度人体矩形框坐标。</dd>
                   </dl>
                 </a>
               </div>
@@ -149,37 +149,37 @@
                 <a href="//www.jdcloud.com/products/lexical-analysis" clstag="Service|keycount|MiddleContentSec|Link14" class="p-item">
                   <dl>
                     <dt>词法分析</dt>
-                    <dd>提供中文分词、词性标注、命名实体识别三个功能，解析自然语言中的基本语言元素，并赋予词性，识别文本中的特定类型的事物名称或符号，支撑自然语言的准确理解。</dd>
+                    <dd>实现文本的中文分词、词性标注、命名实体识别。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/syntactic-parsing" clstag="Service|keycount|MiddleContentSec|Link15" class="p-item">
                   <dl>
                     <dt>句法分析</dt>
-                    <dd>提供文本中词与词之间的依存关系和句法结构信息（如：主谓宾、定状补），帮助机器实现对用户意图的准确理解。</dd>
+                    <dd>识别文本词与词之间的依存关系和句法结构信息。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/sentiment-classifier" clstag="Service|keycount|MiddleContentSec|Link16" class="p-item">
                   <dl>
                     <dt>情感分析</dt>
-                    <dd>针对带有主观描述的中文文本，自动判断该文本的情感极性类别，并给出相应的置信度。</dd>
+                    <dd>识别中文文本，自动判断该文本的情感极性类别。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/short-text-similarity" clstag="Service|keycount|MiddleContentSec|Link17" class="p-item">
                   <dl>
                     <dt>短文本相似度</dt>
-                    <dd>提供不同短文本之间相似度的计算，输出的相似度是一个介于0到1之间的实数值，越大则相似度越高。</dd>
+                    <dd>实现不同短文本之间内容相似度的识别。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/commentary-extraction" clstag="Service|keycount|MiddleContentSec|Link18" class="p-item">
                   <dl>
                     <dt>评论观点抽取</dt>
-                    <dd>自动分析评论关注点和评论观点，提取评论的评论观点标签。辅助用户进行内容生成、产品决策、运营监控等。</dd>
+                    <dd>分析评论关注点和评论观点，提取评论观点标签。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/text-categorization" clstag="Service|keycount|MiddleContentSec|Link19" class="p-item">
                   <dl>
                     <dt>文本分类</dt>
-                    <dd>识别话术的领域信息，提供17个领域分类：歌曲、广播、故事、百科、天气、时间、新闻、生活查询、岀行、股票、购物等。</dd>
+                    <dd>识别话术的领域信息，提供17个领域分类。</dd>
                   </dl>
                 </a>
               </div>
@@ -192,25 +192,25 @@
                 <a href="//www.jdcloud.com/products/identity-card-recognize" clstag="Service|keycount|MiddleContentSec|Link20" class="p-item">
                   <dl>
                     <dt>身份证识别</dt>
-                    <dd>识别二代居民身份证正反面的关键字段识别，包括姓名、性别、民族、出生日期、住址、身份证号、签发机关、有效期限。</dd>
+                    <dd>实现二代居民身份证正反面的关键字段识别。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/vehicle-license-recognize" clstag="Service|keycount|MiddleContentSec|Link21" class="p-item">
                   <dl>
                     <dt>行驶证识别</dt>
-                    <dd>基于业界领先的深度学习技术，识别机动车行驶证正页的关键字段，包括号牌号码、车辆类型、所有人、住址、使用性质等。</dd>
+                    <dd>实现机动车行驶证正页的关键字段识别。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/general-image-ocr" clstag="Service|keycount|MiddleContentSec|Link22" class="p-item">
                   <dl>
                     <dt>通用文字识别</dt>
-                    <dd>基于业界领先的深度学习技术，利用光学字符识别技术，依托京东海量优质数据提供多场景、高精度的图片文字检测和识别服务。</dd>
+                    <dd>提供多场景、高精度的图片文字检测和识别服务。</dd>
                   </dl>
                 </a>
                 <a href="//www.jdcloud.com/products/value-added-tax-invoice-recognize" clstag="Service|keycount|MiddleContentSec|Link23" class="p-item">
                   <dl>
                     <dt>增值税发票识别</dt>
-                    <dd>基于业界领先的深度学习技术，识别发票代码，发票号码，购方名称，购方税号等多个关键字段。</dd>
+                    <dd>识别发票代码，发票号码，购方名称等关键字段。</dd>
                   </dl>
                 </a>
               </div>
@@ -220,7 +220,7 @@
       </div>
     </div>
     <div class="ai-floor-item m-floor-item">
-      <h3 class="ai-floor-tit">人工智能解决方案 全面赋能行业场景</h3>
+      <h3 class="ai-floor-tit">解决方案</h3>
       <div class="jdc-bar ai-tab-2 hidden-xs">
         <div class="w">
           <div class="jdc-bar-nav f-cb">
