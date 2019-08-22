@@ -1189,7 +1189,7 @@
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_605",
 		"jss_key":"News_Content_605",
 		"id":605,
-		"news_title":"JD Cloud Gaoqing Urban Chat Room Licensing Ceremony & Gaoqing Brand Release Conference were Held Successfully"
+		"news_title":"JD Cloud Gaoqing Urban Reception Room Licensing Ceremony & Gaoqing Brand Release Conference were Held Successfully"
 	},
 	{
 		"summary":"On August 13, JD released second quarter results of 2019. Four core indexes including revenue, profit, cash flow and active users all showed strong growth. In the technical research and development investment, JD Group keeps high investment: investment in technology research and development reached RMB 3.7 billion in the second quarter, increased 34% year-on-year. Technology is becoming the core driving force of industrial development.",
