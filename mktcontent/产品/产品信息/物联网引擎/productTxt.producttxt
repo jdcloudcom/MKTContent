@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"物联网引擎\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://iot-console.jdcloud.com/core/\",\"classTag\":\"\"}],\"desc\":\"物联网引擎是物联网的高级服务，用户可选择合适的物联网产品和功能部署在用户的私有网络内，以满足用户个性化的物联网需求。\"}",
+		"id":1399
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"数据隐私\",\"proName\":\"实例部署在用户自定义的VPC私有网络内，多个租户之间的数据相互隔离，保护了用户数据隐私。\"},{\"showShade\":false,\"proGood\":\"安全可靠\",\"proName\":\"设备身份认证，保障了设备的安全与唯一，进行设备通信传输加密，确保数据的安全\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"简单易用\",\"proName\":\"一站式设备管理、实时监控设备场景、无缝连接京东云产品，物联网复杂应用的搭建灵活简便。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"支持扩展\",\"proName\":\"支持弹性变配，京东云可根据租户业务情况按需调整配置，提高资源利用率高，降低使用成本，配置变更过程不影响业务运行。\"}]",
+		"id":1400
+	},
+	{
+		"txt":"[{\"funcName\":\"设备管理\",\"funcContent\":[{\"funcTitle\":\"设备注册\",\"funcP\":\"自定义设备，进行单个或批量的设备注册\"},{\"funcTitle\":\"设备状态\",\"funcP\":\"可以实时获取设备状态信息\"},{\"funcTitle\":\"设备数据采集\",\"funcP\":\"通过物模型上报设备数据到云端，随时查询设备数据\"},{\"funcTitle\":\"设备删除\",\"funcP\":\"通过云端控制台删除可疑设备，调配设备，进行便捷设备管理\"}]},{\"funcName\":\"产品管理\",\"funcContent\":[{\"funcTitle\":\"创建产品\",\"funcP\":\"自定义产品或者通过预置模板创建产品。\"},{\"funcTitle\":\"设备动态注册\",\"funcP\":\"设置产品下所有设备采用的认证方式。包括：关闭动态注册（所有设备采用一机一密方式认证），开启动态注册（所有设备采用一型一密方式认证）\"},{\"funcTitle\":\"产品删除\",\"funcP\":\"通过云端控制台删除已创建产品。注意：如产品下已经注册设备，则该产品不可删除！\"}]},{\"funcName\":\"产品物模型\",\"funcContent\":[{\"funcTitle\":\"物模型\",\"funcP\":\"设备在云端的功能描述，通过统一的物模型定义，标准化数据，包括设备的设备遥测数据属性、设备状态属性、设备控制指令。物模型采用JSON格式描述。\"},{\"funcTitle\":\"物模型 – 设备遥测数据\",\"funcP\":\"设备上行的报文流式数据，是一个描述客观事实的观测值，不可被云端服务或者其他应用修改。\"},{\"funcTitle\":\"物模型 – 设备状态属性\",\"funcP\":\"设备状态数据，例如设备的运行状态等，相对于报文数据，更新频率较低。状态属性可以被云端服务或者其他应用修改。\"},{\"funcTitle\":\"物模型 – 设备控制指令\",\"funcP\":\"云端服务或其他应用主动调起或者规则引擎中某条规则触发的对设备的控制指令，此类指令不修改设备状态属性。例如对于所有的设备的消息广播指令。\"}]},{\"funcName\":\"规则引擎\",\"funcContent\":[{\"funcTitle\":\"数据处理\",\"funcP\":\"对物联网引擎接收的设备数据进行预处理，支持条件筛选，过滤。\"},{\"funcTitle\":\"数据转储\",\"funcP\":\"将处理后的数据转发转储到京东云其他服务，例如RDS，JCQ，ES等。\"},{\"funcTitle\":\"M2M场景\",\"funcP\":\"基于规则引擎可以配置规则事项设备与设备之间的通信，快速实现M2M场景。\"}]},{\"funcName\":\"安全保障\",\"funcContent\":[{\"funcTitle\":\"通信可靠\",\"funcP\":\"提供设备与云端的双向通信，设备上报与指令下发设备稳定可靠\"},{\"funcTitle\":\"数据安全\",\"funcP\":\"VPC 私有网络: 实例部署在用户自定义的 VPC 私有网络内，在应用层直接进行网络隔离保护，确保客户应用安全性以及数据隐私。\"}]},{\"funcName\":\"监控报警\",\"funcContent\":[{\"funcTitle\":\"可视化监控\",\"funcP\":\"控制台提供可视化监控数据，您可以随时查看实例运行相关状态。\"}]},{\"funcName\":\"设备接入SDK\",\"funcContent\":[{\"funcTitle\":\"MQTT协议接入\",\"funcP\":\"提供C语言的MQTT协议的设备SDK，方便设备安全可靠的连接至物联网引擎。\"}]}]",
+		"id":1401
+	},
+	{
+		"txt":"[{\"name\":\"设备数据上云\",\"instruction\":\"用户可选择在自己VPC中创建物联网引擎实例，连接设备；设备数据上云之后，客户可以配置物联网引擎的规则引擎，将设备数据存储到存储服务中，例如JCQ；最终客户可以整合自己的应用，比如机器学习、AI应用，实现智能设备管理、预见性维修等业务目标。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云数据库 MySQL\",\"url\":\"//www.jdcloud.com/products/jcs-for-mysql\"},{\"name\":\"消息队列 JCQ\",\"url\":\"//www.jdcloud.com/products/message-queue\"},{\"name\":\"云搜索 Elasticsearch\",\"url\":\"//www.jdcloud.com/products/jcs-for-elasticsearch\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/6c0872b8-0ad7-4d96-bbb9-584849204bac20190814160432.png\",\"showShade\":false}]",
+		"id":1402
+	},
+	{
+		"txt":"[{\"name\":\"物联网引擎价格总览\",\"link\":\"https://docs.jdcloud.com/iot-engine/price-overview\",\"classTag\":\"\"},{\"name\":\"如何快速创建设备与产品？\",\"link\":\"https://docs.jdcloud.com/iot-engine/create-product\",\"classTag\":\"\"},{\"name\":\"Device SDK介绍\",\"link\":\"https://docs.jdcloud.com/iot-engine/introduction\",\"classTag\":\"\"},{\"name\":\"产品物模型介绍\",\"link\":\"https://docs.jdcloud.com/iot-engine/thing-model-introduction\",\"classTag\":\"\"},{\"name\":\"如何进行设备鉴权\",\"link\":\"https://docs.jdcloud.com/iot-engine/authenticatedevices\",\"classTag\":\"\"},{\"name\":\"如何进行设备Topic的订阅与发布\",\"link\":\"https://docs.jdcloud.com/iot-engine/subpub\",\"classTag\":\"\"}]",
+		"id":1443
+	}
+]
