@@ -1270,5 +1270,13 @@
 		"jss_key":"News_Content_620",
 		"id":620,
 		"news_title":"京东云与京东数科战略投资特斯联，全面加速AIoT+智能城市战略落地"
+	},
+	{
+		"summary":"8月23-24日，LiveVideoStackCon音视频技术大会在北京举办。京东云出席会议并做系列技术分享。从ROI视频编码、网络自适应，到海量多媒体存储，以及高可用CDN网络架构，京东云围绕多媒体关键技术展开，详解京东云视频产品技术与实践。",
+		"image_url":"//img1.jcloudcs.com/cms/2068c8d5-9f7f-4948-8624-8994373cdd0020190823181506.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_621",
+		"jss_key":"News_Content_621",
+		"id":621,
+		"news_title":"LiveVideoStackCon技术大会：京东云揭秘视频云端到端产品技术实践"
 	}
 ]
