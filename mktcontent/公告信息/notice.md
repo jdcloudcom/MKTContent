@@ -538,5 +538,9 @@
 	{
 		"id":741,
 		"title":"\\[Vulnerability Warning\\] Windows Remote JD desktop RDP remote code executes vulnerability"
+	},
+	{
+		"id":742,
+		"title":"Notice of IAM Service Suspension at 20:00 on August 20"
 	}
 ]

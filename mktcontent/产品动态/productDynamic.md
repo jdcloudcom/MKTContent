@@ -2140,5 +2140,41 @@
 		"name":"Launch of DDoS Security Protection for Cloud Cabinet Service",
 		"description":"2G Anti-DDoS Basic is supported for users in Cabinet Service regions such as cn-north-1 (BJ1, BJ2, BJ3 and BJ4 data centers), cn-east-1 (SQ1 data center) and cn-east-2 (SH1 and SH2 data centers), and up to 50G protection capability can be obtained by purchasing the Anti-DDoS Protection Package. Protection packages purchased for the Cabinet Service regions and their application method are consistent with DDoS products.",
 		"id":2432
+	},
+	{
+		"introduce":"JD Cloud HSM  Open for Beta",
+		"name":"JD Cloud HSM  Open for Beta",
+		"description":"JD Cloud HSM is equipped with the hardware encryption machine verified by the State Encryption Administration. Through the virtualization technology, it helps users meet the regulatory and functional requirements of data security and protect the security and privacy of business data on the cloud.",
+		"id":2451
+	},
+	{
+		"introduce":"Support to IAM by Native Container Instance",
+		"name":"Support to IAM by Native Container Instance",
+		"description":"Users can create and manage sub-users through IAM and control access operation permissions to JD Cloud Native Container Instance by these sub-users, such as creation, view, deletion, etc.",
+		"id":2452
+	},
+	{
+		"introduce":"Use of Message Queue resources by role identity is supported",
+		"name":"Support role authorization",
+		"description":"Users can create roles and grant policies by using IAM, and scenarios of access across primary accounts and temporary authorization have been completed.",
+		"id":2453
+	},
+	{
+		"introduce":"JCS for Greenplum  Open for Beta",
+		"name":"JCS for Greenplum  Open for Beta",
+		"description":"JCS for Greenplum is the online MPP large-scale parallel processing data warehouse service provided by JD Cloud based on the open source Greenplum, and users can set up and deploy new data warehouses within several minutes without complex large-scale MPP cluster operation and maintenance management.",
+		"id":2454
+	},
+	{
+		"introduce":"Suitable for data storage which is stored for a long term and is not frequently accessed",
+		"name":"Infrequent Access Storage",
+		"description":"OSS infrequent access storage type is suitable for data stored for a long term without frequent access (once and twice accesses every month averagely). The unit price for storage is lower than the standard type and it is applicable to long-term backup of all kinds of mobile applications, intelligent devices and enterprise data and supports real-time data access.",
+		"id":2455
+	},
+	{
+		"introduce":"Support IAM setting and realize API level permission control",
+		"name":"Support IAM setting and realize API level permission control",
+		"description":"JD Cloud DNS supports IAM setting and realizes API level permission control",
+		"id":2456
 	}
 ]

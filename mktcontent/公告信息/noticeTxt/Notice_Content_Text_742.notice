@@ -1,0 +1,35 @@
+<p><br/></p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">To provide you with more convenient, more accurate and more user-friendly permission control for sub-user and user role operation on the Cloud Database RDS Console, JD Cloud is intended to suspend IAM service from 20:00 on August 20, 2019 to 06:00 on August 21, 2019. By that time:</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">the following service for IAM will be unavailable.</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:38px">-<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">User Management</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:38px">-<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">User Group Management</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:38px">-<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">Policy Management</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:38px">-<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">Role Management</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:38px">-<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">Password Policy Setting</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">When the sub-user accesses the RDS service of Cloud Database, the sub-user’s request may be delayed when it is judged by IAM permission.</span>
+</p>
+<p><span style="font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">This launch neither affects use for sub-user and role Console nor affects your normal business</span>
+</p>
+<p><span style="font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">If you have relevant questions during the launching, please contact JD Cloud customer service personnel at any time (phone number: 4006151212). Thank you for your support to JD Cloud.</span>
+</p>
+<p><br/></p>

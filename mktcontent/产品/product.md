@@ -124,6 +124,10 @@
 		"id":70
 	},
 	{
+		"name":"NAT Gateway",
+		"id":71
+	},
+	{
 		"name":"Media Processing Service",
 		"id":72
 	},

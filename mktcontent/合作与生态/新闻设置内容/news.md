@@ -1189,7 +1189,7 @@
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_605",
 		"jss_key":"News_Content_605",
 		"id":605,
-		"news_title":"JD Cloud Gaoqing Urban Reception Room Licensing Ceremony & Gaoqing Brand Release Conference were Held Successfully"
+		"news_title":"JD Cloud Gaoqing Urban Chat Room Licensing Ceremony & Gaoqing Brand Release Conference were Held Successfully"
 	},
 	{
 		"summary":"On August 13, JD released second quarter results of 2019. Four core indexes including revenue, profit, cash flow and active users all showed strong growth. In the technical research and development investment, JD Group keeps high investment: investment in technology research and development reached RMB 3.7 billion in the second quarter, increased 34% year-on-year. Technology is becoming the core driving force of industrial development.",
@@ -1198,5 +1198,29 @@
 		"jss_key":"News_Content_610",
 		"id":610,
 		"news_title":"JD’s investment in technology research and development increased 34% year-on-year in the second quarter  JD Cloud already had super-large Internet enterprise service capacity"
+	},
+	{
+		"summary":"E-commerce has become an indispensable part of People's daily life. However, with the growth and development of e-commerce platforms, sellers’ demands for industry information, communication channels and comprehensive services keep increasing, and buyers also need to select their desired commodities from various e-commerce platforms. For e-commerce platforms, with the continuous upgrading of users’ demands, how to keep users on their own platform and improve users’ stickiness, usage depth and conversion rate have become more and more important.",
+		"image_url":"//img1.jcloudcs.com/cms/27126ef6-a2d3-4a95-a32c-82e8c10110c920190815101051.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_611",
+		"jss_key":"News_Content_611",
+		"id":611,
+		"news_title":"Launch of JD Cloud E-commerce Cloud and Integrated Intelligent Retail Solutions"
+	},
+	{
+		"summary":"Contestants of this competition come from all over the world so that there is uncertainty for the sites accessed, and JD Cloud WorkSpaces provides the unified access entry to the Internet, and controls the fluctuation and scaling of bandwidth flow. The environment of Linux system used in the competition does not have the graphical interface, and the Ubuntu version provided by JD Cloud WorkSpaces can make contestants operate easily. The system image function of JD Cloud WorkSpaces guarantees uniformity of each JD Cloud WorkSpaces environment for unified management of the competition environment.",
+		"image_url":"//img1.jcloudcs.com/cms/28a5c915-359c-4aa4-a912-85527099bc1020190815184849.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_614",
+		"jss_key":"News_Content_614",
+		"id":614,
+		"news_title":"Landing of Cloud Empowerment Medical AI of JD Cloud Assisted the \"First Session of China ECG Intelligence Competition\""
+	},
+	{
+		"summary":"Based on the principle of \"User First\" and with the joint efforts of the top technical team, JD Cloud continuously improves the user experience-JD Cloud Virtual Machines have great improvements on the network packet loss rate, latency, download speed and download availability through the optimization of network routing and the continuous optimization and improvement of server hardware, system and protocol. It creates a business environment on the cloud with high security, high performance and high availability for customers to facilitate the rapid and healthy development of customers’ cloud business.",
+		"image_url":"//img1.jcloudcs.com/cms/ad6d5544-b1a4-4b5b-9a26-33f68bf9bcf820190815192125.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_615",
+		"jss_key":"News_Content_615",
+		"id":615,
+		"news_title":"Bonree Index released: JD Cloud won the first and the second of comprehensive ranking list in consecutive two months."
 	}
 ]
