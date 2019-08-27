@@ -1278,5 +1278,13 @@
 		"jss_key":"News_Content_621",
 		"id":621,
 		"news_title":"LiveVideoStackCon技术大会：京东云揭秘视频云端到端产品技术实践"
+	},
+	{
+		"summary":"“云聚北海•共赢未来”为主题的中国特产•北海馆开馆仪式暨中秋合浦大月饼启动会，在北海市香格里拉酒店盛大召开。现场，来自北海市工业和信息局、商务局、合浦工业园管理委会等政府部门的领导，和京东云代表一起为中国特产•北海馆揭牌，活动充分发挥京东集团无界零售的发展战略，线上为期一周的开馆活动也拉开了序幕。",
+		"image_url":"//img1.jcloudcs.com/cms/ba74b666-3791-4c72-8d94-f26421f0624320190827142655.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_622",
+		"jss_key":"News_Content_622",
+		"id":622,
+		"news_title":"云聚北海·共赢未来，北海携手京东云打造“互联网+电商产业”发展新模式"
 	}
 ]
