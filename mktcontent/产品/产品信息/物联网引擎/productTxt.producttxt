@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"物联网引擎\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://iot-console.jdcloud.com/core/\",\"classTag\":\"\"}],\"desc\":\"物联网引擎是物联网的高级服务，用户可选择合适的物联网产品和功能部署在用户的私有网络内，以满足用户个性化的物联网需求。\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"二折促销中，欢迎使用。\",\"explainLink\":\"https://iot-console.jdcloud.com/core/\",\"classTag\":\"\"}],\"productName\":\"物联网引擎\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://iot-console.jdcloud.com/core/\",\"classTag\":\"\"}],\"desc\":\"物联网引擎是京东云物联网平台的高级服务，用户可选择合适的物联网产品和功能部署在用户的私有网络内，以满足用户个性化的物联网需求。 二折促销中，欢迎使用。\"}",
 		"id":1399
 	},
 	{
@@ -12,11 +12,15 @@
 		"id":1401
 	},
 	{
-		"txt":"[{\"name\":\"设备数据上云\",\"instruction\":\"用户可选择在自己VPC中创建物联网引擎实例，连接设备；设备数据上云之后，客户可以配置物联网引擎的规则引擎，将设备数据存储到存储服务中，例如JCQ；最终客户可以整合自己的应用，比如机器学习、AI应用，实现智能设备管理、预见性维修等业务目标。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云数据库 MySQL\",\"url\":\"//www.jdcloud.com/products/jcs-for-mysql\"},{\"name\":\"消息队列 JCQ\",\"url\":\"//www.jdcloud.com/products/message-queue\"},{\"name\":\"云搜索 Elasticsearch\",\"url\":\"//www.jdcloud.com/products/jcs-for-elasticsearch\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/6c0872b8-0ad7-4d96-bbb9-584849204bac20190814160432.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"设备数据上云\",\"instruction\":\"用户可选择在自己VPC中创建物联网引擎实例，连接设备；设备数据上云之后，客户可以配置物联网引擎的规则引擎，将设备数据存储到存储服务中，例如JCQ；最终客户可以整合自己的应用，比如机器学习、AI应用，实现智能设备管理、预见性维修等业务目标。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云数据库 MySQL\",\"url\":\"//www.jdcloud.com/products/jcs-for-mysql\"},{\"name\":\"消息队列 JCQ\",\"url\":\"//www.jdcloud.com/products/message-queue\"},{\"name\":\"云搜索 Elasticsearch\",\"url\":\"//www.jdcloud.com/products/jcs-for-elasticsearch\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/926b181d-13bd-4f06-89d4-5933f4292d0c20190827141631.png\",\"showShade\":false}]",
 		"id":1402
 	},
 	{
-		"txt":"[{\"name\":\"物联网引擎价格总览\",\"link\":\"https://docs.jdcloud.com/iot-engine/price-overview\",\"classTag\":\"\"},{\"name\":\"如何快速创建设备与产品？\",\"link\":\"https://docs.jdcloud.com/iot-engine/create-product\",\"classTag\":\"\"},{\"name\":\"Device SDK介绍\",\"link\":\"https://docs.jdcloud.com/iot-engine/introduction\",\"classTag\":\"\"},{\"name\":\"产品物模型介绍\",\"link\":\"https://docs.jdcloud.com/iot-engine/thing-model-introduction\",\"classTag\":\"\"},{\"name\":\"如何进行设备鉴权\",\"link\":\"https://docs.jdcloud.com/iot-engine/authenticatedevices\",\"classTag\":\"\"},{\"name\":\"如何进行设备Topic的订阅与发布\",\"link\":\"https://docs.jdcloud.com/iot-engine/subpub\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"Device SDK 开发指南\",\"link\":\"https://docs.jdcloud.com/iot-core/introduction\",\"classTag\":\"\"},{\"name\":\"Device SDK 开发包下载\",\"link\":\"https://iotsdk-public.s3.cn-north-1.jdcloud-oss.com/device-sdk/linux-c/jdcloud-iot-device-sdk-c.zip\",\"classTag\":\"\"},{\"name\":\"Device SDK 设备快速接入\",\"link\":\"https://docs.jdcloud.com/iot-core/deviceeasylink\",\"classTag\":\"\"},{\"name\":\"物联网引擎价格总览\",\"link\":\"https://docs.jdcloud.com/iot-core/price-overview\",\"classTag\":\"\"},{\"name\":\"如何快速创建设备与产品？\",\"link\":\"https://docs.jdcloud.com/iot-core/create-product\",\"classTag\":\"\"},{\"name\":\"产品物模型介绍\",\"link\":\"https://docs.jdcloud.com/iot-core/thing-model-introduction\",\"classTag\":\"\"},{\"name\":\"物联网引擎 OpenAPI\",\"link\":\"https://docs.jdcloud.com/iot-core/api/overview\",\"classTag\":\"\"},{\"name\":\"如何进行设备鉴权\",\"link\":\"https://docs.jdcloud.com/iot-core/authenticatedevices\",\"classTag\":\"\"},{\"name\":\"如何进行设备Topic的订阅与发布\",\"link\":\"https://docs.jdcloud.com/iot-core/subpub\",\"classTag\":\"\"}]",
 		"id":1443
+	},
+	{
+		"txt":"{\"price\":\"https://docs.jdcloud.com/iot-core/price-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1444
 	}
 ]
