@@ -1,0 +1,144 @@
+<div class="superDefinition">
+  <div class="jdc-common-banner sd-banner">
+    <div class="w">
+      <div class="jdc-common-banner-ct">
+        <h4 class="jdc-common-banner-tit">Jingxiang Super Definition™ Ultimate Experience</h4>
+        <p class="jdc-common-banner-txt">Picture Enhancement  Code Rate Reduction  Efficient Processing  Lower Cost</p>
+        <a href="//www.jdcloud.com/cn/products/live-video " class="jdc-banner-btn" clstag="Activity|keycount|SectionBannerSec|BannerButton01">
+	Live Broadcast Experience
+	</a><a href="//www.jdcloud.com/cn/products/video-on-demand" clstag="Activity|keycount|SectionBannerSec|BannerButton02" class="jdc-banner-link ml30">
+	VOD Experience &gt;
+	</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="jdc-bar jdc-bar-border sd-bar hidden-xs">
+    <div class="w f-cb">
+      <div class="jdc-bar-nav is-more">
+        <div class="nav-item on"><a href="javascript:;" clstag="Activity|keycount|MiddleContentSec|SwitcherControlFloor1">Principle Introduction</a></div>
+        <div class="nav-item"><a href="javascript:;" clstag="Activity|keycount|MiddleContentSec|SwitcherControlFloor2">Function Demonstration</a></div>
+        <div class="nav-item"><a href="javascript:;" clstag="Activity|keycount|MiddleContentSec|SwitcherControlFloor3">Customer Scenario</a></div>
+        <div class="nav-item"><a href="javascript:;" clstag="Activity|keycount|MiddleContentSec|SwitcherControlFloor4">Use Method</a></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="jdc-common-floor sd-floor">
+    <div class="jdc-common-floor-item">
+      <div class="w">
+        <div class="jdc-common-floor-tit">
+          <h3>Principle Introduction</h3>
+        </div>
+        <div class="sd-principle">
+          <p>
+            Jingxiang super definition breaks through the encoding algorithm limit. Based on the algorithm accumulation in multiple fields like video, image, artificial intelligence, etc. and in combination with video compression, image enhancement, filtering and denoising, AI scenario analysis, content detection and other technologies, the video code rate is greatly reduced, image quality and subjective viewing experience are improved, while processing efficiency is maintained.
+          </p>
+
+          <strong>Jingxiang super definition provides you with high quality transcoding services, while the price remains unchanged, and you are welcome to try out the experience!</strong>
+        </div>
+      </div>
+    </div>
+
+    <div class="jdc-common-floor-item">
+      <div class="w">
+        <div class="jdc-common-floor-tit">
+          <h3>Function Demonstration</h3>
+        </div>
+        <div class="sd-fnd">
+          <div class="row">
+            <div class="col-6 col-xs-12">
+              <dl>
+                <dt>· Definition Enhancement</dt>
+                <dd>Enhance the edge contour information sensitive to human eyes and ignore the information insensitive to human eyes</dd>
+                <dt>· Denoising Renovation</dt>
+                <dd>Image denoising points improve definition, time denoising points compress video size</dd>
+                <dt>· Details Retained</dt>
+                <dd>Truly preserve the original video complexity that the human eye can perceive</dd>
+                <dt>· Code Rate Savings</dt>
+                <dd>Reasonably assign codewords based on human visual perception can save code rate bandwidths</dd>
+              </dl>
+            </div>
+            <div class="col-6 col-xs-12">
+              <div class="sd-video-preview" data-video="https://img1.jcloudcs.com/portal/activity/jxcq/JXCQ.mp4" clstag="Activity|keycount|MiddleContentSec|Video01">
+                <i><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96"><circle fill="#FFF" cx="47.3" cy="48" r="43"/><path fill="#666" d="M38.9 32.2v33.4l27.3-16.7z"/></svg></i>
+                <img src="https://img1.jcloudcs.com/portal/activity/jxcq/video-preview.png" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="jdc-common-floor-item">
+      <div class="w">
+        <div class="jdc-common-floor-tit">
+          <h3>Customer Scenario</h3>
+          <p class="sd-txt2">Jingxiang super definition technology is suitable for full scenario transcoding live broadcast and VOD. Examples of common scenarios are as follows</p>
+
+        </div>
+        <div class="sd-case">
+          <div class="row">
+            <div class="col-3 col-xs-12">
+              <i><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96"><path fill="#FFF" d="M73.7 38.2v26.4l19 14.9c.8.6 1.9.1 1.9-.9V24.1c0-1-1.1-1.5-1.9-.9l-19 15zM60.3 21.7H9.9s-8.5 0-8.5 8.5v42.4C1.4 81 9.9 81 9.9 81h50.5s8.5 0 8.5-8.5V30.2c-.1-8.5-8.6-8.5-8.6-8.5zM47.1 52.1L28.5 64.5c-1 .7-2.3 0-2.3-1.2V38.5c0-1.2 1.3-1.9 2.3-1.2l18.6 12.4c.9.5.9 1.8 0 2.4z"/></svg></i>
+              <div class="sd-txt">
+                <h4>Video Website - Old Film Restoration</h4>
+                <p>Video denoising, edge enhancement, making the quality of the old film reborn.</p>
+
+              </div>
+            </div>
+            <div class="col-3 col-xs-12">
+              <i><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96"><path fill="#FFF" d="M51.7 20.8h-4.8v-8.9c0-5.8 4.7-10.4 10.4-10.4h24.8v4.8H57.3c-3.1 0-5.6 2.5-5.6 5.6v8.9z"/><g fill="#FFF"><path d="M28.3 39.5c-4.3 0-7.8 3.5-7.8 7.8s3.5 7.8 7.8 7.8 7.8-3.5 7.8-7.8-3.5-7.8-7.8-7.8z"/><path d="M94.6 33.9c0-9.3-7.6-16.8-16.8-16.8H65.6c-2.6 0-5 1.5-6.1 3.8-1.2 2.5-3.7 4.1-6.4 4.1H42.7c-2.5 0-4.9-1.7-6.2-4.3-1.1-2.2-3.5-3.6-6-3.6H18.1C8.8 17 1.2 24.6 1.2 33.9V79.6c0 4 1.6 7.7 4.4 10.5 2.8 2.8 6.6 4.4 10.6 4.4h.1c8.3 0 11.9-3.3 14.6-13.1L34 72h28l3.1 9.5c2.9 8.4 6.1 13 14.7 13 8.2 0 14.9-6.7 14.9-14.9V53.7v-.2V33.9zM28.3 60.7c-7.4 0-13.4-6-13.4-13.4s6-13.4 13.4-13.4 13.4 6 13.4 13.4-6 13.4-13.4 13.4zm49.9-10.6h-7.8v7.8c0 1.6-1.3 2.8-2.8 2.8-1.6 0-2.8-1.3-2.8-2.8v-7.8H57c-1.6 0-2.8-1.3-2.8-2.8 0-1.6 1.3-2.8 2.8-2.8h7.8v-7.8c0-1.6 1.3-2.8 2.8-2.8 1.6 0 2.8 1.3 2.8 2.8v7.8h7.8c1.6 0 2.8 1.3 2.8 2.8 0 1.6-1.3 2.8-2.8 2.8z"/></g></svg></i>
+              <div class="sd-txt">
+                <h4>Game Live Broadcast-Weak Network Optimization</h4>
+                <p>Improve the definition and coherence of the picture, and optimize the viewing experience in the weak network environment.</p>
+
+              </div>
+            </div>
+            <div class="col-3 col-xs-12">
+              <i><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96"><g fill="#FFF"><path d="M64.1 7.5c-6.4 0-12.5 2.4-17.2 6.8l35.3 35.3C86.6 45 89 38.9 89 32.5c.1-13.8-11.1-25-24.9-25zM89 32.5zM12.3 69.7C9 72.7 8 77.5 9.8 81.6v.7l-4.2 4.6 3 3 4.3-4.3c3.7 2.7 8.6 2.7 12.3 0l1.2-.9 27.4-24-17-17-24.5 26zM43.4 18.3C39.2 24.4 38 32 40 39.2l17.3 17.4c7.1 2 14.8.8 20.9-3.4L43.4 18.3z"/></g></svg></i>
+              <div class="sd-txt">
+                <h4>Pan-entertainment Live Broadcast - Reduce Lags</h4>
+                <p>Provides high-definition live videos, and at the same time reduce the user code rate to significantly reduce the lag rate.</p>
+
+              </div>
+            </div>
+            <div class="col-3 col-xs-12">
+              <i><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96"><path fill="#FFF" d="M23.6 12.8l3-3 16.8 16.8-3 3-16.8-16.8zm26.1 16.8l-3-3L69.9 3.5l3 3-23.2 23.1zm0 0"/><path fill="#FFF" d="M90.3 21.8H6.2C3.4 21.8 2 23.2 2 26v63.1c0 2.8 1.4 4.2 4.2 4.2h84.1c2.8 0 4.2-1.4 4.2-4.2V26c0-2.8-1.4-4.2-4.2-4.2zm-21 57.9c0 1.1-.4 2.2-1.2 3-.8.8-1.9 1.2-3 1.2H14.6c-1.1 0-2.2-.4-3-1.2-.8-.8-1.2-1.9-1.2-3V35.4c0-2.3 1.9-4.2 4.2-4.2h50.5c1.1 0 2.2.4 3 1.2.8.8 1.2 1.9 1.2 3v44.3zm12.6-7.5c-2.3 0-4.2-1.9-4.2-4.2 0-1.1.4-2.2 1.2-3 .8-.8 1.9-1.2 3-1.2 2.3 0 4.2 1.9 4.2 4.2 0 2.4-1.9 4.2-4.2 4.2zm0-21c-2.3 0-4.2-1.9-4.2-4.2 0-1.1.4-2.2 1.2-3 .8-.8 1.9-1.2 3-1.2 2.3 0 4.2 1.9 4.2 4.2 0 2.3-1.9 4.2-4.2 4.2z"/></svg></i>
+              <div class="sd-txt">
+                <h4>Animated TV Series- Enhancement of Picture Quality</h4>
+                <p>By recognizing image information, automatically achieve color adjustment, brightness adjustment and definition enhancement.</p>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="jdc-common-floor-item">
+      <div class="w">
+        <div class="jdc-common-floor-tit">
+          <h3>Use Method</h3>
+        </div>
+        <div class="sd-usage">
+          <p>After enabling of live video products and VOD products, using transcoding services will be identified by default as enabling Jingxiang super definition transcoding, and at the same time OpenAPI or Console operation is supported.</p>
+
+          <strong>Jingxiang super definition provides you with high quality transcoding services, while the price remains unchanged, and you are welcome to try out the experience!</strong>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="sd-video-wrap">
+    <div class="sd-mask"></div>
+    <div class="sd-video">
+      <video id="my-player" class="my-video" controls preload="auto" >
+        <source src="" type="video/mp4" id="my-player-source">
+      </video>
+      <div class="sd-close">&times;</div>
+    </div>
+  </div>
+</div>
+

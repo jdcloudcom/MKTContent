@@ -1,0 +1,72 @@
+<p style="text-indent:28px;line-height:150%"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+LiveVideoStackCon Audio and Video Technology Conference was held in Beijing on August 23-24. JD Cloud attended the conference and made a sharing of technology series. JD Cloud gave detailed explanation of JD Cloud’s video product technologies and practices around multimedia key technologies from ROI video coding, network adaptation to mass multimedia storage, and highly available CDN network architecture.
+</span>
+</p>
+<p style="text-indent:28px;line-height:150%"><span style="font-family: 微软雅黑, sans-serif; color: black; font-size: 16px;"><br/></span>
+</p>
+<p style="text-indent: 28px; line-height: 150%; text-align: center;"><img src="//img1.jcloudcs.com/cms/cc5bf561-2a8a-4499-b588-e4e4a16a963420190823182052.png" title="" alt="11.png"/></p>
+<p style="text-indent:28px;line-height:150%"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+As we all know, LiveVideoStackCon Audio and Video Technology Conference is a grand event in the field of multimedia technology. The conference focuses on the latest exploration and application of audios, videos, images, AI and other technologies, covers education, entertainment, medical treatment, security, traffic, manufacturing, tourism, e-commerce, finance, social contact, games, intelligent devices, and ICs, shares technology innovations and best practices with audio and video engineers, multimedia engineers, image algorithm engineers, technology leaders and high-end industry users, product and project leaders and so on.
+</span>
+</p>
+<p style="text-indent:28px;line-height:150%"><br/></p>
+<p style="text-indent:28px;line-height:150%"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+JD Cloud Video Cloud is an end-to-end and integrated video cloud service based on JD Cloud's highly reliable, scalable and trustworthy cloud service capabilities and industry-leading video processing capabilities, including live video, video on demand, media processing, intelligent media, mobile SDK and other products, has a number of benefits such as Jingxiang super definition, comfortable audio, quality testing, topspeed transcode, 4K live broadcast, etc., aims at smoothening the acquisition, editing, production, recording, saving, management, broadcasting and other steps. It makes the production and circulation of videos easier, and freely combines various capabilities in the modular mode to meet the different scenarios and needs of the customer for the video business.
+</span>
+</p>
+<p style="text-indent:28px;line-height:150%"><br/></p>
+<p style="text-indent:28px;line-height:150%"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+At the technical session of the conference, JD Cloud interacted and shared knowledge with the audience, and brought Keynote speeches such as
+</span>
+<a href="http://bj2019.livevideostack.com/topic/360" style="text-decoration: underline; font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+Architecture Practice and Performance Tuning of Live Video Distribution Service under Complex Network
+</span>
+</a><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">, 
+</span>
+<a href="http://bj2019.livevideostack.com/topic/361" style="text-decoration: underline; font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+Large-scale High-performance Video Storage System Practice
+</span>
+</a><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">, </span>
+<a href="http://bj2019.livevideostack.com/topic/362" style="text-decoration: underline; font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+Application and Video Experience Guarantee for Jingxiang Super Definition under Complex Network
+</span>
+</a><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+, High-performance Live-broadcasting Platform Architecture Design Practice, revealing JD Cloud Video Cloud end-to-end product technology and services on the spot.
+</span>
+</p>
+<p style="text-indent:28px;line-height:150%"><br/></p>
+<p style="text-indent: 28px; line-height: 150%; text-align: center;"><img src="//img1.jcloudcs.com/cms/b625da8e-6081-49ba-a78f-2398ea8e2eb320190823182323.png" title="" alt="22.png"/></p>
+<p style="text-indent:28px;line-height:150%"><br/></p>
+<p style="text-indent:28px;line-height:150%"><br/></p>
+<p style="text-indent:28px;line-height:150%;vertical-align:baseline"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+According to JD Cloud’s architects, JD Cloud Video Cloud provides complete end-to-end services from production, processing, transmission, consumption and other steps, giving users the full link ultimate audio and video experience, and in addition to the full-link functional richness, centering on enhancement of video service experience, video coding and decoding, audio coding and decoding, quality testing and restoration, video content security and weak network transmission optimization have been deeply optimized. In the past year, based on the two major video standards of H.264 and H.265 and the encoding technology of AAC audio standards, JD Cloud deeply studied audios, videos, transcoding, etc. It has already launched Jingxiang super definition, comfortable audio, topspeed transcode, quality testing and restoration, video dynamic encryption, multi-code rate self-adaptation and other functions.
+</span>
+</p>
+<p style="text-indent:28px;line-height:150%;vertical-align:baseline"><br/></p>
+<p style="text-indent:28px;line-height:150%"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+JD Cloud’s Jingxiang super definition mainly consists of visual perception models, and ultimately optimizes VOD transcoding, and by virtue of the unique video image algorithm and with JD Cloud's special video coding capability and optimization algorithm, it can implement intelligent analysis and processing on contents, scenarios and frames in videos to enable high definition while reducing the video code rate to effectively save bandwidth used and cost rates for customers. JD Cloud’s comfortable audio is based on JD Cloud’s unique "Intelligent Audio" analysis and processing technology. It analyzes audio volume, and automatically realizes automatic gain and dynamic range adjustment for audios, realizing smoother program volume transition between different scenarios and providing customers with more comfortable video and audio experiences. Topspeed transcode is based on the "Particle Transcode" technology developed by JD Cloud on its own. It supports multiple transcode acceleration, greatly reducing transcode time, and 1080P can fully meet customers’ demands for rapid production and release of videos, with the above 10X processing speed.
+</span>
+</p>
+<p style="text-indent:28px;line-height:150%"><br/></p>
+<p style="text-indent:28px;line-height:150%"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+Up to now, the video-related business of JD Group has all been running on JD Cloud. Large concurrent live initiated by merchants for promoting commodity and attracting traffic as well as mass-traffic audiences watching live and ordering were coped with during 618 Shopping Festival of this year, thus to ensure that users steadily and smoothly access live contents. They can also convert necessary live streaming to real-time VOD file for VOD access to guarantee the steady business. In addition, it also serves customers in the fields of live games, live entertainment, live sports, VOD, short video and education.
+</span>
+</p>
+<p style="text-indent:28px;line-height:150%"><br/></p>
+<p style="text-indent:28px;line-height:150%"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+The arrival of the 5G era will bring technological changes to the video industry. According to data of third-party organizations, in the 5G era, the monthly traffic of Internet videos will increase from 100 EB in 2018 to 270 EB in 2022, which will lead to a rapid increase in video distribution costs across the industry. In addition, after the arrival of the 5G era, the delay is shorter, the bandwidth is higher, and video interconnection scenarios will become more abundant.
+</span>
+</p>
+<p style="text-indent:28px;line-height:150%"><br/></p>
+<p style="text-indent:28px;line-height:150%"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+JD Cloud Video Cloud is committed to becoming a video cloud understanding videos most. Integration between video ultra-high definition, 5G, cloud and AI is a future great trend. JD Cloud has begun to accumulate technology in 5G+4K/8K live broadcast, and actively build end-to-end ultra-high definition solutions to meet the era of all things connected.
+</span>
+</p>
+<p style="margin-top:16px;text-indent:28px;line-height:150%"><strong><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">About JD Cloud</span>
+</strong></p>
+<p style="margin-top:8px;text-indent: 28px;line-height:150%"><span style="font-size: 14px; font-family: arial, helvetica, sans-serif; color: rgb(63, 63, 63);">
+JD Cloud is an integrated service provider for full-platform cloud computing under the JD Group, owning the world's leading cloud computing technology and rich experience in cloud computing solutions. JD Cloud provides full stack services from IaaS, PaaS to SaaS, including full scenario services of Public Cloud, Private Cloud, Hybrid Cloud, Proprietary Cloud; full spectrum services from IDC business, cloud computing business to general services, JD Cloud also devotes to full ecosystem services that committed to providing industry-wide application coverage and platform support for partners. Meanwhile, relying on JD Group's long-term business practices and technology accumulation in the cloud computing, big data, IoT and mobile Internet applications, a cloud ecological layout of the whole industry chain is formed by JD Cloud, from the construction of basic platform, service consulting and planning to the construction and operation of business platform, providing users with one-stop and all-round cloud computing solutions.
+</span>
+</p>
+<p style="text-indent:28px;line-height:150%"><br/><br/></p>
+<p><br/></p>

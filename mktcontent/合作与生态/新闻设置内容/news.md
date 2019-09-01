@@ -1222,5 +1222,45 @@
 		"jss_key":"News_Content_615",
 		"id":615,
 		"news_title":"Bonree Index released: JD Cloud won the first and the second of comprehensive ranking list in consecutive two months."
+	},
+	{
+		"summary":"JD Cloud was invited to present the conference as an integrated service provider for domestic full-platform cloud computing. It shares forward thinking on cyber warfare with experts and partners from the perspective of strategy, industrial and technological innovations to carry out in-depth discussions on combating network security threats and improving national and social network security protection capabilities.",
+		"image_url":"//img1.jcloudcs.com/cms/4e0ff42f-10c1-433e-82bc-5a23373f91c320190820141520.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_616",
+		"jss_key":"News_Content_616",
+		"id":616,
+		"news_title":"Jointly Construct Security Ecology, Foresee Infinite Possibility: JD Cloud was invited to present ISC 2019"
+	},
+	{
+		"summary":"Since 2009, Wuxi has been officially tied to the IoT with establishment of National Sensor Network Innovation Demonstration Zone as the signal. This year is the 10th year of construction of the Demonstration Zone, and IoT has been around for ten years. Recently, China Economic Net, Cyberspace Administration of Wuxi Municipal Party Committee and many online media, launched the \"Ten-year Promise·IoT Tour in China\" activity to lead the media to visit many representative leading enterprises in the IoT in Wuxi, Nanjing and Beijing, and interview authoritative experts and leading figures in the IoT and information technology industry.",
+		"image_url":"//img1.jcloudcs.com/cms/9627562a-0ab7-4a64-b756-926ceafa41e320190821170037.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_618",
+		"jss_key":"News_Content_618",
+		"id":618,
+		"news_title":"China Economic Net had an interview with JD Cloud President Samuel Shen: Make the layout of the IoT to empower the leading super e-commerce provider in 5G era"
+	},
+	{
+		"summary":"The joint launch ceremony between JD Cloud and Liaocheng Jiangbei Water City Tourist Resort was officially launched in Beijing. The Parties will carry on in-depth cooperation between traditional agriculture, tourism, cloud computing, big data, artificial intelligence and other IT technologies, gather the scientific and technological ecologies of agriculture and tourism, empower innovation in agriculture and tourism, cultivate industry leaders, set up a model of digital economy development and focus on the construction of distinctive \"tourism new city\" around provinces and cities as well as model of rural revitalization in Shandong.",
+		"image_url":"//img1.jcloudcs.com/cms/d1510538-99e7-4e0f-a959-7425eede3b9f20190821190141.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_619",
+		"jss_key":"News_Content_619",
+		"id":619,
+		"news_title":"The joint launch ceremony between JD Cloud and Liaocheng Jiangbei Water City Tourist Resort was launched in Beijing."
+	},
+	{
+		"summary":"JD Group announced a strategic investment in Terminus, the world's leading intelligent scenario service provider to help JD deepen the community scenario penetration and build the overall ecology of JD Cloud, JD City, JD MO Media as well as output industrial service capabilities of retail, finance, advertisement based on relevant application scenarios. The rich technological accumulation of JD will be combined with the industrial empowerment advantages of Terminus to achieve \"win-win co-operation\" to jointly promote the layout of industry digitization and realize the overflow effect of industry synergy.",
+		"image_url":"//img1.jcloudcs.com/cms/853ed5d7-b0ab-4b9c-be47-39ed5ae15d9620190822184010.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_620",
+		"jss_key":"News_Content_620",
+		"id":620,
+		"news_title":"JD Cloud and JD Digits will have a strategic investment in Terminus to accelerate the implementation of AIoT+ smart city strategy in all around."
+	},
+	{
+		"summary":"LiveVideoStackCon Audio and Video Technology Conference was held in Beijing on August 23-24. JD Cloud attended the conference and made a sharing of technology series. JD Cloud gave detailed explanation of JD Cloud’s video product technologies and practices around multimedia key technologies from ROI video coding, network adaptation to mass multimedia storage, and highly available CDN network architecture.",
+		"image_url":"//img1.jcloudcs.com/cms/2068c8d5-9f7f-4948-8624-8994373cdd0020190823181506.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_621",
+		"jss_key":"News_Content_621",
+		"id":621,
+		"news_title":"LiveVideoStackCon Technology Conference: JD Cloud uncovers technology practices of Video Cloud to End Product"
 	}
 ]
