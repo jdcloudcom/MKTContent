@@ -1289,7 +1289,7 @@
 	},
 	{
 		"summary":"京东媒体开放日暨智能城市发展战略研究分享会在北京国家会议中心召开。会上，京东云大市场部首席分析师薛达、京东数字科技智能城市事业部城市操作系统负责人莫雄剑、赛迪顾问业务总监苏丹共话城市“智能化升级”新课题，在万物互联、万物智能的数字经济时代，展示京东智能城市建设样本，拓展城市发展更多可能。",
-		"image_url":"//img1.jcloudcs.com/cms/b630722e-3038-499f-bdcd-9a90b5156b8e20190829184414.jpg",
+		"image_url":"//img1.jcloudcs.com/cms/2f1665a2-3280-45cc-b7aa-935ee0963cd920190902163231.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_626",
 		"jss_key":"News_Content_626",
 		"id":626,
