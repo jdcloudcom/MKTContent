@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"二折促销中，欢迎使用。\",\"explainLink\":\"https://iot-console.jdcloud.com/core/\",\"classTag\":\"\"}],\"productName\":\"物联网引擎\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://iot-console.jdcloud.com/core/\",\"classTag\":\"\"}],\"desc\":\"物联网引擎是京东云物联网平台的高级服务，用户可选择合适的物联网产品和功能部署在用户的私有网络内，以满足用户个性化的物联网需求。 二折促销中，欢迎使用。\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"二折促销中，欢迎使用。\",\"explainLink\":\"https://iot-console.jdcloud.com/core/\",\"classTag\":\"\"}],\"productName\":\"物联网引擎\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://iot-console.jdcloud.com/core/\",\"classTag\":\"\"}],\"desc\":\"物联网引擎是京东云物联网平台的高级服务，实例部署在用户自定义的 VPC 私有网络内，帮助客户快速完成设备上云，设备管理、设备数据采集处理以及物联网应用集成。产品二折促销中，欢迎使用。\"}",
 		"id":1399
 	},
 	{
