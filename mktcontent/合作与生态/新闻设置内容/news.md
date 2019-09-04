@@ -1302,5 +1302,13 @@
 		"jss_key":"News_Content_627",
 		"id":627,
 		"news_title":"京东云发布《用云最佳实践白皮书》 为用户构建高质量业务系统"
+	},
+	{
+		"summary":"京东云DDoS防护与流量调度系统经过严格的测试，凭借协议漏洞威胁防护、扫描窥探威胁防护、传输层威胁防护、应用层威胁防护等方面优异的表现，通过权威认证机构赛可达实验室(SKD Labs)测试认证标准，并荣获“东方之星(Starcheck)”证书。",
+		"image_url":"//img1.jcloudcs.com/cms/0a9b7564-4166-4601-a6d2-3405c18e2f9920190904160447.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_633",
+		"jss_key":"News_Content_633",
+		"id":633,
+		"news_title":"京东云DDoS防护与流量调度系统通过权威检测  获颁赛可达实验室“东方之星”证书"
 	}
 ]
