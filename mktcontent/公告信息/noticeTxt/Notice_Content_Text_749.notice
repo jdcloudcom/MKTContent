@@ -1,0 +1,24 @@
+<p>近日，京东云安全团队监测到开源JSON解析库fastjson被披露存在远程拒绝服务漏洞，攻击者在请求中构造特定请求包，可远程造成服务器内存和CPU等资源耗尽，导致服务不可用。为避免您的业务受影响，京东云安全团队建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被恶意攻击。</p>
+<p><br/></p>
+<p><strong>【漏洞描述】</strong></p>
+<p>fastjson 1.2.60 以下版本存在字符串解析异常，攻击者在请求中构造特定恶意请求可导致服务器内存和CPU等资源耗尽，导致服务不可用。</p>
+<p><br/></p>
+<p><strong>【风险等级】</strong></p>
+<p>高风险</p>
+<p><br/></p>
+<p><strong>【影响版本】</strong></p>
+<p>fastjson &lt; 1.2.60</p>
+<p>fastjson sec版本 &lt; sec06</p>
+<p><br/></p>
+<p><strong>【修复建议】</strong></p>
+<p>升级到</p>
+<p><br/></p>
+<p>fastjson &gt;= 1.2.60</p>
+<p>fastjson sec版本 &gt;= sec06</p>
+<p><br/></p>
+<p>注意：较低版本升级至最新版本1.2.60可能会出现兼容性问题，建议升级至特定版本的sec06 版本</p>
+<p><br/></p>
+<p><strong>【参考链接】</strong></p>
+<p><a href="http://repo1.maven.org/maven2/com/alibaba/fastjson/" target="_blank" title="http://repo1.maven.org/maven2/com/alibaba/fastjson/">http://repo1.maven.org/maven2/com/alibaba/fastjson/</a></p>
+<p><a href="https://github.com/alibaba/fastjson/pull/2692" target="_blank" title="https://github.com/alibaba/fastjson/pull/2692">https://github.com/alibaba/fastjson/pull/2692</a></p>
+<p><br/></p>
