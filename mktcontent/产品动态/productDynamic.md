@@ -2176,5 +2176,23 @@
 		"name":"Support IAM setting and realize API level permission control",
 		"description":"JD Cloud DNS supports IAM setting and realizes API level permission control",
 		"id":2456
+	},
+	{
+		"introduce":"IoT Core Official Release",
+		"name":"IoT Core Official Release",
+		"description":"IoT Core is a premium of JD Cloud Internet of Things Platform, by which users can select appropriate IoT products and functions to deploy in users’ own VPCs in order to satisfy their personalized IoT demands. 80% off promotion, welcome to use.",
+		"id":2463
+	},
+	{
+		"introduce":"DRDS Supports IAM (Identity and Access Management)",
+		"name":"DRDS Supports IAM",
+		"description":"DRDS can support IAM (Identity and Access Management), customize permissions for sub-users or roles to operate on specific resources.",
+		"id":2464
+	},
+	{
+		"introduce":"Support to search VM resources by image ID and instance type",
+		"name":"Support to search resources by image ID and instance type",
+		"description":"Support to search VM resources by image ID and instance type",
+		"id":2465
 	}
 ]

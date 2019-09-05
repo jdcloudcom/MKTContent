@@ -542,5 +542,17 @@
 	{
 		"id":742,
 		"title":"Notice of IAM Service Suspension at 20:00 on August 20"
+	},
+	{
+		"id":745,
+		"title":"Announcement of Launch of ICP License Service"
+	},
+	{
+		"id":746,
+		"title":"Announcement of Online Renewal and Service Stopping"
+	},
+	{
+		"id":748,
+		"title":"Upgrade Notice on Border Gateway Service in Regions"
 	}
 ]

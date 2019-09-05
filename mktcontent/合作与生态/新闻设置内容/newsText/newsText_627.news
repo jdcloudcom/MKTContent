@@ -1,0 +1,181 @@
+<p style="text-indent: 2em;">
+    Recently, JD Cloud released the Best Practices White Paper for Cloud Use. The White Paper introduces the method of constructing the system with "six highs", including "high availability, high scalability, high performance, high security, high operation and maintenance, and high cost performance" based on the long-term technical practices of JD Cloud to share best practices based on technology accumulation and help users build the best business system on JD Cloud. It also provides users with technical guidance to build high-quality business application systems on JD Cloud with respect to users’ JD Cloud Onboarding requirements.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-align: center;">
+    <a href="https://img1.jcloudcs.com/portal/pdf/JDCloud_Cloud_Operations_Best_Practices_WhitePaper.pdf" target="_blank" title="Best Practices White Paper for Cloud Use"><img src="//img1.jcloudcs.com/cms/86b63e67-a882-4e1e-ae6e-d365e73d40ce20190830165935.jpg" title="undefined" alt="modify1.jpg"/></a>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    The rapid development of cloud computing technology has brought many new opportunities for information technology, and users have gained unprecedented benefits in the wave of cloud computing technology development. The cloud computing platform is the cornerstone to support the cloud computing technology. It has distinctive features: stable infrastructure, abundant and easy-to-use products, easy-to-manage resources, rich scenarios, rapid technology iteration, strong data processing capacity, convenient service and low use cost.&nbsp;
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    By releasing the Best Practices White Paper for Cloud Use, JD Cloud aims at helping users on JD Cloud better making full use of the advantages of the cloud computing platform with solutions from multiple perspectives so as to provide users’ business systems with a more scientific and reasonable architecture and better system quality.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    As the main window of JD Group for external technology empowerment, JD Cloud has been the cloud intelligence manufacturer with the most industry attributes with the help of JD Group's "rich scenarios, massive insights and technical capacity" in the new retail industry. According to the latest China Public Cloud Service Market Tracking Report 2019Q1 released by International Distribution Company (IDC), JD Cloud ranked number 9 in China’s public cloud IaaS market, taking a place among Top 10 in China's market for the first time. It is worth mentioning that JD Cloud had the YtY growth up to 557%, being the highest in the industry, far exceeding the average level of 74%.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    Relying on JD Group's long-term business practices and technology accumulation in the cloud computing, big data, IoT and mobile Internet applications, a cloud ecological layout of the whole industry chain is formed by JD Cloud, from the construction of basic platform, service consulting and planning to the construction and operation of business platform, providing users with one-stop and all-round cloud computing solutions.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    To help customers build high-quality business application systems, based on the architecture design of distributed system, JD Cloud analyzes the performance and resource demands of user business systems in the different periods according to the characteristics of user business systems, and reasonably design the target systems on JD Cloud, so as to help users reduce the operation and maintenance costs after system migration by technological and management means and achieve the goal of reducing costs and increasing benefits on the premise that the availability, expansibility, high performance, security, easy operation and maintenance of user business systems are satisfied.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    <strong>High availability: Support 3 fault-tolerant mechanisms and 3 architectures</strong>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    For systems that require continuous running and provision of services, availability is a very important evaluation index of system quality; especially for IT systems of Internet enterprises and IT systems that are important to the people's livelihood and security, high availability is essential. JD Cloud provides the high availability architecture of user business systems with industry-leading overall technical framework support. It supports 3 fault-tolerant mechanisms, i.e. detection, automatic switch and automatic recovery, and supports 3 architectures, i.e. master-slave architecture, active-active architecture and cluster architecture of cloud system. The high availability provided by JD Cloud can not only help users quickly achieve high-availability architecture, but also simplify the design of user business systems to reduce difficulty in operation and maintenance.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    <strong>High expansibility: Use stateless application and JD Distributed Service architecture</strong>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    JD Cloud has built a complete technical system that can support high expandability based on its constant technological exploration and technological experience accumulation. Applying the stateless application will neither save the session status and other status information of application system in Virtual Machines and Cloud Disk Service nor store data information such as database and log. Therefore, after deploying the stateless application in Virtual Machines, you can simply achieve the horizontal expandability of application system by increasing the number of Virtual Machines. With the design of JD Distributed Service architecture, you can split the complex business logic into a group of concentrated services with low coupling degree and high degree of autonomy. Each service can be independently expanded, so the system expandability is very flexible. The JD Distributed Service system can implement overall expandability by increasing independent services. Users can rapidly implement the JD Distributed Service architecture business system with JD Cloud JCS for Kubernetes or JD Distributed Service Framework.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    <strong>High performance: 8 typical system performances to optimize the best practices</strong>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    JD Cloud provides two methods to enhance system performance, namely, to use JD Cloud products to build high-performance systems, and to use performance test to enhance system performance. Users can conduct full-link performance tests in JD Cloud to locate the bottleneck of system performance so as to quickly enhance the system performance by resolving the system bottleneck. Besides, JD Cloud offers 8 typical best practices of system performance optimization, including performance optimization of Virtual Machines, Networking, Storage System, Database and Cache Service, Middleware, Application System, Application Architecture and Operating System, which can assist users in achieving optimal system performance.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    <strong>High security: Provide 5 security protection models and 4 security services</strong>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    JD Cloud provides all-around security protection schemes against the main security threats faced by the cloud customer business system from five aspects of network security protection, running environment security protection, endpoint security protection, application security protection and data security protection. In addition, JD Cloud provides customers with 4 reliable security services, including Baseline Check Service, Vulnerability Scan Service, Penetration Test Service and Incident Response Service.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    <strong>High operation and maintenance: Help users achieve better and more convenient system management</strong>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    JD Cloud provides users with industry-leading system monitoring tools and reliable DevOps operation and maintenance tools in order to help users achieve better and more convenient system operation and maintenance. The effective incident response measures provided by JD Cloud largely reduce the losses incurred to users by system faults.
+</p>
+
+<p style="text-indent: 2em;">
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    <strong>High cost performance: Save time, human efforts and resource costs</strong>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    JD Cloud proposes the system efficiency concept and help users largely reduce the costs of systems on the premise of guaranteeing system efficiency.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    Adhering to the concept of "user success", JD Cloud tries its best to help users improve the performance of business systems, which can effectively reduce the time, human efforts and resource costs of building customer business systems.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    Building a high-quality cloud system is a systematic project with high technical difficulty. Based on the long-term technical practices, JD Cloud proposes methods of building a system with "six highs" to help users build high-quality business systems on JD Cloud. With the help of the "six highs" services provided by JD Cloud, users can easily obtain the powerful support of system infrastructure design and architecture design so as to lay a solid foundation for the long-term and stable development of businesses.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    Click to read&nbsp;<a href="https://img1.jcloudcs.com/portal/pdf/JDCloud_Cloud_Operations_Best_Practices_WhitePaper.pdf" target="_blank" title="JD Cloud Best Practices White Paper for Cloud Use" style="color: rgb(0, 176, 240); text-decoration: underline;"><span style="color: rgb(0, 176, 240);"><strong>&gt;&gt;JD Cloud Best Practices White Paper for Cloud Use</strong></span>
+</a>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    Download to read more about JD Cloud White Paper, please move to&nbsp;<span style="color: rgb(0, 176, 240); text-decoration: underline;"><strong><a href="https://www.jdcloud.com/en/jdcloud-whitepaper/all#wp_list" target="_blank" title="JD Cloud Technical White Paper" style="color: rgb(0, 176, 240); text-decoration: underline;">&gt;&gt;JD Cloud Technical White Paper</a>special area</strong></span>
+
+</p>

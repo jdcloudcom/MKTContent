@@ -1262,5 +1262,29 @@
 		"jss_key":"News_Content_621",
 		"id":621,
 		"news_title":"LiveVideoStackCon Technology Conference: JD Cloud uncovers technology practices of Video Cloud to End Product"
+	},
+	{
+		"summary":"The Opening Ceremony of Chinese Specialties • Beihai Pavilion, with the theme of \"Gathering in Beihai on Cloud • Win-Win Future\" and the Mid-Autumn Festival Hepu Big Moon Cake Launching Party were held in Beihai Shangri-la Hotel. On the spot, leaders from Beihai Bureau of Industry and Information, Bureau of Commerce, Hepu Industrial Park Management Committee and other government departments, together with representatives of JD Cloud, inaugurated the Chinese Specialties • Beihai Pavilion. The event gave full play to the development strategy of JD Group's unbounded retail, and the week-long online opening activities also started.",
+		"image_url":"//img1.jcloudcs.com/cms/ba74b666-3791-4c72-8d94-f26421f0624320190827142655.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_622",
+		"jss_key":"News_Content_622",
+		"id":622,
+		"news_title":"Gathering in Beihai on Cloud Win-Win Future, Beihai joined hands with JD Cloud to build a new development model of \"Internet + E-commerce Industry\""
+	},
+	{
+		"summary":"JD Media Open Day and Smart City Development Strategy Sharing Conference were held at China National Convention Center. On the conference, Xue Da, Big Marketing Department Chief Analyst of JD Cloud, Mo Xiongjian, Principal of Urban Operating System of Business Department of Smart City of JD Digits, Su Dan, Business Director of CCID Consulting, discussed the new topic of \"intelligent upgrading\" of cities. In the digital economy era of Internet of Everything and intelligence of everything, the construction samples of JD Smart City will be displayed to expand more possibilities of urban development.",
+		"image_url":"//img1.jcloudcs.com/cms/b630722e-3038-499f-bdcd-9a90b5156b8e20190829184414.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_626",
+		"jss_key":"News_Content_626",
+		"id":626,
+		"news_title":"Intelligence drives urban development JD builds a new model for future cities"
+	},
+	{
+		"summary":"JD Cloud released the Best Practices White Paper for Cloud Use. The White Paper introduces the method of constructing the system with \"six highs\", including \"high availability, high scalability, high performance, high security, high operation and maintenance, and high cost performance\" based on the long-term technical practice of JD Cloud to share the best practices based on technology accumulation and help users build the best business system on JD Cloud. It also provides users with technical guidance to build high-quality business application systems on JD Cloud with respect to the users’ JD Cloud Onboarding requirements.",
+		"image_url":"//img1.jcloudcs.com/cms/98e43fa7-abf0-4690-b427-2de79a1b816220190830163033.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_627",
+		"jss_key":"News_Content_627",
+		"id":627,
+		"news_title":"JD Cloud released the Best Practices White Paper for Cloud Use to build the high quality business system for users"
 	}
 ]
