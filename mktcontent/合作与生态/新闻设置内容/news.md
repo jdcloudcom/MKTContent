@@ -1310,5 +1310,13 @@
 		"jss_key":"News_Content_633",
 		"id":633,
 		"news_title":"京东云DDoS防护与流量调度系统通过权威检测  获颁赛可达实验室“东方之星”证书"
+	},
+	{
+		"summary":"作为京东集团的重点项目，位于江苏宿迁的京东云华东数据数据中心从整体的规划建设，到园区内各个模块机房进行灵活配置，将全力支撑京东零售、京东金融以及京东云重要客户的业务需求。该数据中心是京东云骨干网络节点核心数据中心之一，拥有30万台以上服务器运营能力，采用Uptime Tier3+标准以及TIA-924 T4标准设计并建",
+		"image_url":"//img1.jcloudcs.com/cms/d8fdd940-f41c-4529-82bd-472965e519e320190906191605.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_637",
+		"jss_key":"News_Content_637",
+		"id":637,
+		"news_title":"京东云华东数据中心开放日：解密IDC样板内部的技术硬核"
 	}
 ]
