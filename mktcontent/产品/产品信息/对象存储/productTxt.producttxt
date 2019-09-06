@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"对象存储\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"//oss-console.jdcloud.com/overview\"},{\"TitleName\":\"登录控制台\",\"TitleUrl\":\"//oss-console.jdcloud.com/overview\"}],\"desc\":\"对象存储服务（OSS：Object Storage Service）是京东云自主研发的大规模分布式对象存储服务，面向企业和个人开发者提供高可用、低成本、强安全的云端存储服务。您可以实现对数据的统一管理，满足各类存储需求。支持标准的 RESTfulAPI 接口，您只需按实际用量付费，无最低使用限制。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9217893e-13a1-4446-a6ba-b4545b837d2220181115170125.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|9\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|9\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"对象存储推出免费额度\",\"explainLink\":\"https://www.jdcloud.com/cn/activity/oss\",\"classTag\":\"\"}],\"productName\":\"对象存储\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"//oss-console.jdcloud.com/overview\"},{\"TitleName\":\"登录控制台\",\"TitleUrl\":\"//oss-console.jdcloud.com/overview\"}],\"desc\":\"对象存储服务（OSS：Object Storage Service）是京东云自主研发的大规模分布式对象存储服务，面向企业和个人开发者提供高可用、低成本、强安全的云端存储服务。您可以实现对数据的统一管理，满足各类存储需求。支持标准的 RESTfulAPI 接口，您只需按实际用量付费，无最低使用限制。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9217893e-13a1-4446-a6ba-b4545b837d2220181115170125.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|9\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|9\"}",
 		"id":27
 	},
 	{
