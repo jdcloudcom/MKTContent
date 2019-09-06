@@ -107,7 +107,7 @@
         <h2 class="typical-scene-title">产品系列</h2>
         <ul class="typical-scene-tabs clearfix">
             <li class="typical-tabs-item active" clastag="ECC|keycount|MiddleContentSec|Tab1">产业电商</li>
-            <li class="typical-tabs-item" clastag="ECC|keycount|MiddleContentSec|Tab2">云小店</li>
+            <li class="typical-tabs-item" clastag="ECC|keycount|MiddleContentSec|Tab2">京东云小店</li>
             <li class="typical-tabs-item" clastag="ECC|keycount|MiddleContentSec|Tab3">智能推荐</li>
         </ul>
 
@@ -269,7 +269,7 @@
         </div>
     </div>
 </div>
-<div class="typical-scene-tab-tit jdc-common-arr" id="yunshop">云小店</div>
+<div class="typical-scene-tab-tit jdc-common-arr" id="yunshop">京东云小店</div>
 <div class="typical-scene-section1" style="display: none;height:400px">
     <div class="typical-scene-main">
         <div class="typical-tabs-content clearfix">
@@ -307,7 +307,7 @@
             <div class="case-content-item">
                 <div class="case-link">
                     <div class="case-logo-wrap"><img src="https://img1.jcloudcs.com/portal/shop/yunxiaodian.svg"></div>
-                    <h6 class="case-pro-title">云小店</h6>
+                    <h6 class="case-pro-title">京东云小店</h6>
 
                     <div class="case-wrap-m">
 
@@ -427,6 +427,6 @@
         </div>
     </div>
 </div>
-<div class="yun-xiao-dian"><img src="https://img1.jcloudcs.com/portal/shop/erweima.jpg"><span>扫码免费试用云小店，轻松赚佣金！</span>
+<div class="yun-xiao-dian"><img src="https://img1.jcloudcs.com/portal/shop/erweima.jpg"><span>扫码免费试用京东云小店，轻松赚佣金！</span>
 </div>
 
