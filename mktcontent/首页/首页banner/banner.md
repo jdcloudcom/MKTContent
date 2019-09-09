@@ -978,5 +978,12 @@
 		"id":1142,
 		"button_title":"查看详情",
 		"main_title":"《京东云用云最佳实践白皮书》发布"
+	},
+	{
+		"sub_title":"",
+		"name":"我的世界教育版",
+		"id":1144,
+		"button_title":"",
+		"main_title":""
 	}
 ]
