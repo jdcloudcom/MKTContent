@@ -985,5 +985,12 @@
 		"id":1144,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"高性能时序数据库，用于存储和分析大量时序数据",
+		"name":"云数据库 InfluxDB 开放公测",
+		"id":1146,
+		"button_title":"查看详情",
+		"main_title":"云数据库 InfluxDB 开放公测"
 	}
 ]
