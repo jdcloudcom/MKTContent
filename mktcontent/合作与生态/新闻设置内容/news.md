@@ -1273,7 +1273,7 @@
 	},
 	{
 		"summary":"JD Media Open Day and Smart City Development Strategy Sharing Conference were held at China National Convention Center. On the conference, Xue Da, Big Marketing Department Chief Analyst of JD Cloud, Mo Xiongjian, Principal of Urban Operating System of Business Department of Smart City of JD Digits, Su Dan, Business Director of CCID Consulting, discussed the new topic of \"intelligent upgrading\" of cities. In the digital economy era of Internet of Everything and intelligence of everything, the construction samples of JD Smart City will be displayed to expand more possibilities of urban development.",
-		"image_url":"//img1.jcloudcs.com/cms/b630722e-3038-499f-bdcd-9a90b5156b8e20190829184414.jpg",
+		"image_url":"//img1.jcloudcs.com/cms/2f1665a2-3280-45cc-b7aa-935ee0963cd920190902163231.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_626",
 		"jss_key":"News_Content_626",
 		"id":626,
@@ -1286,5 +1286,13 @@
 		"jss_key":"News_Content_627",
 		"id":627,
 		"news_title":"JD Cloud released the Best Practices White Paper for Cloud Use to build the high quality business system for users"
+	},
+	{
+		"summary":"Under strict test, JD Cloud Anti-DDoS Protection and Traffic Scheduling System has passed the testing standards of SKD Labs, an authoritative certification authority with their excellent performance of protocol vulnerability threat protection, scanning and prying threat protection, transmission level threat protection and application level threat protection, and received the \"Starcheck\" Certificate.",
+		"image_url":"//img1.jcloudcs.com/cms/0a9b7564-4166-4601-a6d2-3405c18e2f9920190904160447.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_633",
+		"jss_key":"News_Content_633",
+		"id":633,
+		"news_title":"JD Cloud Anti-DDoS Protection and Traffic Scheduling System Passed Authoritative Testing  Received SKD Labs \"Starcheck\" Certificate"
 	}
 ]

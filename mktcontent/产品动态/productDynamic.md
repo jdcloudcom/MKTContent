@@ -2180,7 +2180,7 @@
 	{
 		"introduce":"IoT Core Official Release",
 		"name":"IoT Core Official Release",
-		"description":"IoT Core is a premium of JD Cloud Internet of Things Platform, by which users can select appropriate IoT products and functions to deploy in users’ own VPCs in order to satisfy their personalized IoT demands. 80% off promotion, welcome to use.",
+		"description":"IoT Core is a premium of JD Cloud Internet of Things Platform, and instances are deployed in VPC Virtual Private Cloud customized by users to help users complete JD Cloud Onboarding of devices, device management, device data acquisition and processing, and IoT application integration fastly. Forward and dump the processed data to JD Cloud's other services by rule engine, such as JCQ and ES. Currently, 80% off promotion for the products, welcome to use.",
 		"id":2463
 	},
 	{
@@ -2194,5 +2194,95 @@
 		"name":"Support to search resources by image ID and instance type",
 		"description":"Support to search VM resources by image ID and instance type",
 		"id":2465
+	},
+	{
+		"introduce":"Provide HTTPS Security Acceleration",
+		"name":"Provide HTTPS Security Acceleration",
+		"description":"Provide full-link HTTPS security acceleration scheme, support certificate uploading and redirection type management to guarantee security of business contents.",
+		"id":2466
+	},
+	{
+		"introduce":"NAT Gateway  Open Beta",
+		"name":"NAT Gateway  Open Beta",
+		"description":"The overall hosted NAT Gateway service provides users with convenient and reliable access to Internet.",
+		"id":2467
+	},
+	{
+		"introduce":"Support IAM (Identity and Access Management)",
+		"name":"Support IAM (Identity and Access Management)",
+		"description":"JCS for MySQL supports IAM (Identity and Access Management), and can customize permissions for sub-users or roles to operate on specific resources.",
+		"id":2468
+	},
+	{
+		"introduce":"Support IAM (Identity and Access Management)",
+		"name":"Support IAM (Identity and Access Management)",
+		"description":"Database and Cache Service SQL Server supports IAM (Identity and Access Management), and customizes permissions for sub-users or roles to operate on specific resources.",
+		"id":2469
+	},
+	{
+		"introduce":"Support IAM (Identity and Access Management)",
+		"name":"Support IAM (Identity and Access Management)",
+		"description":"Support IAM (Identity and Access Management), customize permissions for sub-users or roles to operate on specific resources.",
+		"id":2470
+	},
+	{
+		"introduce":"IoT Hub Protocol Adaptor Official Release",
+		"name":"IoT Hub Protocol Adaptor Official Release",
+		"description":"The IoT Hub Protocol Adaptor is equipped with JT/T-808 (GNSS System for Operational Vehicles — General Specifications for Vehicle Terminal Communication Protocol and Data Format) protocol support. With the IoT Core Services, it switches adaptation modules through the built-in non-standard device data encapsulation protocol or communication protocol to help users with JD Cloud Onboarding of the existing devices in a quick and low-cost way.",
+		"id":2471
+	},
+	{
+		"introduce":"Create Player Code Fast to Facilitate Business Connection",
+		"name":"Web Player Code Release",
+		"description":"Adding player parameter interface configuration can customize player size, player cover, whether to play automatically and other parameters to automatically generate player codes to facilitate customer in business connection.",
+		"id":2472
+	},
+	{
+		"introduce":"The customized transcode template supports aspect ratio adaption of video resolution.",
+		"name":"Support Aspect Ratio Adaption of Video Resolution",
+		"description":"The customized transcode template supports aspect ratio adaption of video resolution so that customers can choose to fill in the width and height values according to the requirements, to achieve automatic screen scaling.",
+		"id":2473
+	},
+	{
+		"introduce":"Realize watermark superimposing of video pictures to enhance video copyright protection.",
+		"name":"Support Watermark Superimposing",
+		"description":"Realize watermark superimposing of video pictures to enhance video copyright protection.",
+		"id":2474
+	},
+	{
+		"introduce":"Improve the timeliness of network response to network changes, convenience of operation and management, and reduce the complexity of network operation and maintenance.",
+		"name":"Realize Dynamic Transmission of Routing",
+		"description":"Realize Hybrid Cloud (VPC to user IDC) routing automatic transmission, and provide the capability to automatically update end-to-end routing in a Hybrid Cloud (from VPC to user IDC) based on enhancement of configuration capability from original Border Gateway to VPC static routing. Improve the timeliness of network response to network changes, convenience of operation and management, and reduce the complexity of network operation and maintenance.",
+		"id":2475
+	},
+	{
+		"introduce":"Support batch editing of up to 100 Virtual Machines in the list page of Virtual Machines, to facilitate users in managing resources in batches",
+		"name":"Virtual Machines Support Batch Editing of Tags",
+		"description":"Support batch editing of up to 100 Virtual Machines in the list page of Virtual Machines, to facilitate users in managing resources in batches, and support batch editing of up to 100 Virtual Machines.",
+		"id":2476
+	},
+	{
+		"introduce":"Support multiple representations of retrieval results, and support viewing log context.",
+		"name":"Add Retrieval Function",
+		"description":"1. The retrieval results support representation forms of a single line, multiple lines, original, and JSON;\n2. Viewing of the context of retrieval results is supported.",
+		"id":2477
+	},
+	{
+		"introduce":"SDN network enhancement supports the four-layer Physical Cloud Load Balancer, and it currently supports TCP, UDP protocols",
+		"name":"Support Four-layer Physical Cloud Load Balancer",
+		"description":"The Physical Cloud Load Balancer can distribute large concurrent traffic to several backend instances (specifically the Cloud Physical Server), adjust resource utilization, eliminate influence to systems by fault of a single device, improve system availability and expand system serviceability. Now, the traffic listening and forward service based on 4 layers (TCP and UDP) is provided.",
+		"id":2478
+	},
+	{
+		"introduce":"When creating a Cloud Physical Server instance, you can configure the instances by specifying customized data.",
+		"name":"Support Customized Data",
+		"description":"When creating or reinstalling a Cloud Physical Server, the user can pass on the executable script to the instance in the specified data format, and execute the script.",
+		"id":2479
+	},
+	{
+		"introduce":"Add Dynamic Routing Function",
+		"name":"Add Dynamic Routing Function",
+		"description":"In dynamic routing function, users can customize multiple routing rules to configure different backend services for the same API group by changing frontend parameters, which can be applicable to more business scenarios.",
+		"id":2480
 	}
 ]

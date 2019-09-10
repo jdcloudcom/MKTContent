@@ -560,7 +560,23 @@
 		"id":1324
 	},
 	{
+		"name":"IoT Core",
+		"id":1325
+	},
+	{
 		"name":"JCS for Greenplum",
 		"id":1326
+	},
+	{
+		"name":"Image Matting",
+		"id":1332
+	},
+	{
+		"name":"Photo Filters Matching",
+		"id":1333
+	},
+	{
+		"name":"Image Style Classification",
+		"id":1334
 	}
 ]
