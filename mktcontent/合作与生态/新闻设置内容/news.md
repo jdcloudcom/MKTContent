@@ -1326,5 +1326,13 @@
 		"jss_key":"News_Content_638",
 		"id":638,
 		"news_title":"2019济南先行区·京东创新创业大赛总决赛成功举行"
+	},
+	{
+		"summary":"南京市麒麟高新区携手京东云参加本次盛会。博览会以“融合创新·万物智联”为主题，旨在通过展示全球物联网领域的最新技术成果，围绕车联网、人工智能、大数据等物联网技术与应用领域热点问题，携手社会各界交流思想，分享经验，共同展望物联网广阔发展前景。",
+		"image_url":"//img1.jcloudcs.com/cms/2d5d3e07-d269-4164-ba00-59ed45c440c420190911192216.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_640",
+		"jss_key":"News_Content_640",
+		"id":640,
+		"news_title":"京东云携手南京政府亮相物博会，共促智能科技新发展"
 	}
 ]
