@@ -144,7 +144,7 @@
 		"id":76
 	},
 	{
-		"name":"IoT Center",
+		"name":"IoT Hub",
 		"id":77
 	},
 	{
