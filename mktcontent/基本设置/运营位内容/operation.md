@@ -20,8 +20,8 @@
 		"label":"赔"
 	},
 	{
-		"name":"云数据库MySQL",
-		"description":"新购6个月即送200元代金券",
+		"name":"京东云 大有可为",
+		"description":"案例故事精彩呈现",
 		"id":5
 	},
 	{
