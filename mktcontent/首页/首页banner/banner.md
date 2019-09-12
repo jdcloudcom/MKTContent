@@ -992,5 +992,12 @@
 		"id":1146,
 		"button_title":"查看详情",
 		"main_title":"云数据库 InfluxDB 开放公测"
+	},
+	{
+		"sub_title":"京东云两大赋能项目荣获IDC大奖",
+		"name":"IDC中国数字化转型大奖公布",
+		"id":1148,
+		"button_title":"查看详情",
+		"main_title":"助力数字化转型"
 	}
 ]
