@@ -1334,5 +1334,21 @@
 		"jss_key":"News_Content_640",
 		"id":640,
 		"news_title":"京东云携手南京政府亮相物博会，共促智能科技新发展"
+	},
+	{
+		"summary":"IDC第四届数字化转型大奖揭晓，京东云助力客户成功斩获2项重磅大奖：滨州经济技术开发区的互联网+政务服务获“全方位体验创新领军者”优秀奖；中企云商的无车承运人平台获“运营模式转型领军者”优秀奖。",
+		"image_url":"//img1.jcloudcs.com/cms/84b83d76-b3aa-4438-9d57-19033cb7e33920190912132833.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_641",
+		"jss_key":"News_Content_641",
+		"id":641,
+		"news_title":"京东云助力数字化转型 政务云及物流电商平台服务项目分获IDC大奖"
+	},
+	{
+		"summary":"近日，京东云正式对外发布了新一代全链路营销解决方案—营销云。京东云营销云是依托人工智能及大数据，精准洞察客户需求，提供营销所需的SaaS工具和增值服务，为客户提供从营销洞察、营销策略、营销创意、营销执行、营销监测到营销效果分析的一站式全链路营销解决方案。",
+		"image_url":"//img1.jcloudcs.com/cms/c185cbf7-26cc-4af2-b828-d978e1d8de7f20190912185253.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_642",
+		"jss_key":"News_Content_642",
+		"id":642,
+		"news_title":"京东云营销云产品官网重磅上线  为用户提供全链路营销服务"
 	}
 ]
