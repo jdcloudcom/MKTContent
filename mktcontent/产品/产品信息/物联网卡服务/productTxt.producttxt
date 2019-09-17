@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"物联网卡服务\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://querycard-console.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"物联网卡服务为用户提供三大运营商（中国联通、中国移动、中国电信）2/3/4G物联网卡购买、续订和管理。\"}",
+		"id":1167
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"覆盖多\",\"proName\":\"为满足不同用户对不同业务场景的支持，我们提供的产品全面覆盖三大运营商（中国联通、中国移动、中国电信）不同挡位的产品。\"},{\"showShade\":false,\"proGood\":\"接入快\",\"proName\":\"为省去用户和全国不同省份运营商进行接口对接、联调工作，京东云物联网卡服务直接帮助用户接入，提升用户产品、活动上线速度。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"海量连接\",\"proName\":\"强大的技术能力，支撑海量行业及个人用户连接。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定性高\",\"proName\":\"我们拥有强大的技术团队、庞大的客服和运维团队，保障产品的稳定性。\"}]",
+		"id":1168
+	},
+	{
+		"txt":"[{\"funcName\":\"灵活的资费套餐\",\"funcContent\":[{\"funcTitle\":\"套餐丰富\",\"funcP\":\"支持大、中、小流量和长、短周期等套餐，满足用户的不同应用场景。\"},{\"funcTitle\":\"计费灵活\",\"funcP\":\"支持预付费、后付费、达量控制等。\"}]},{\"funcName\":\"物联网卡\",\"funcContent\":[{\"funcTitle\":\"卡体类型\",\"funcP\":\"提供消费级大卡、消费级双切卡、消费级三切卡、工业级大卡、工业级贴片卡等物联网卡。\"}]},{\"funcName\":\"开发者工具\",\"funcContent\":[{\"funcTitle\":\"二次开发接口\",\"funcP\":\"提供查询、受理、通知接口供客户灵活的二次开发。\"}]},{\"funcName\":\"线上运营\",\"funcContent\":[{\"funcTitle\":\"完善的运营系统\",\"funcP\":\"线上订购、线下配送，完整的生命周期管理，卡用量查询、套餐续订、叠加包购买、订单管理、账单下载、实时监控预警等\"}]},{\"funcName\":\"数据可视化\",\"funcContent\":[{\"funcTitle\":\"计费状态统计\",\"funcP\":\"支持沉默期、测试期、计费期内卡信息的统计分析。\"},{\"funcTitle\":\"超量和到期统计\",\"funcP\":\"支持物联网卡下月到期、本月到期、本月超停、上月到期、上月超停数据统计分析。\"},{\"funcTitle\":\"大流量TOP排名\",\"funcP\":\"支持近7日大用量物联网卡的排名。\"}]}]",
+		"id":1169
+	},
+	{
+		"txt":"[{\"name\":\"2G业务\",\"instruction\":\"在2G业务中，支持智慧电力、智慧水利、智慧农业、智慧小镇、智能安防、智慧交通、智能城市等不同的场景。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"2B业务\",\"instruction\":\"在2B业务中，支持智能媒体发布、智能制造、车联网、远程医疗、联网无人机、高清视频等不同的场景。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"2C业务\",\"instruction\":\"在2C业务中，支持可穿戴设备（儿童手表、智能手环、智能手表）、车载设备（T-Box、行车记录仪、智能后视镜、车载系统）、定位设备（防丢器、户外防盗）、移动网络设备（MIFI、翻译机、无线上网卡）等不同的场景。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1170
+	}
+]
