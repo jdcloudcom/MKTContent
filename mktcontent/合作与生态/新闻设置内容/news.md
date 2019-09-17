@@ -1294,5 +1294,21 @@
 		"jss_key":"News_Content_633",
 		"id":633,
 		"news_title":"JD Cloud Anti-DDoS Protection and Traffic Scheduling System Passed Authoritative Testing  Received SKD Labs \"Starcheck\" Certificate"
+	},
+	{
+		"summary":"The JD Cloud East China Data Center located in Suqian, Jiangsu is one of JD Group's important projects flexibly configuring the overall planning and construction and all module data centers in the park zone so as to support the business demands of the important customers for JD Retail, JD Finance and JD Cloud at full stretch. As one of the core data centers of JD Cloud backbone network node, this data center is capable of operating more than 300,000 servers and is designed and constructed in line with Uptime Tier3+ standard and TIA-924 T4 standard",
+		"image_url":"//img1.jcloudcs.com/cms/d8fdd940-f41c-4529-82bd-472965e519e320190906191605.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_637",
+		"jss_key":"News_Content_637",
+		"id":637,
+		"news_title":"JD Cloud East China Data Center Open Day: Decipher Technological Core inside IDC Model"
+	},
+	{
+		"summary":"Under the guidance of Ji'nan Bureau of Science and Technology and Ji’nan Bureau of Agriculture and Rural Affairs, 2019 Ji’nan Pilot Area  JD Innovation and Startup Championship was organized by the Management Committee of Ji'nan Pilot Area for Replacing Old Growth Drivers with New Ones, Ji’nan Xianxing Investment Co., Ltd. and JD Cloud with the assistance of JD Cloud (Ji’nan) Innovation Center. The Championship aims at providing outstanding new technological and new agricultural projects with an exhibition stage and opportunity for connection and cooperation, vigorously attracting and gathering innovation and startup projects of new technology and new agriculture, facilitating projects to enter Ji’nan Pilot Area and accelerating the old and new replacement in the pilot area",
+		"image_url":"//img1.jcloudcs.com/cms/18b290eb-540c-43dc-83b2-7781276c0db320190909164516.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_638",
+		"jss_key":"News_Content_638",
+		"id":638,
+		"news_title":"Final of 2019 Ji’nan Pilot Area  JD Innovation and Startup Championship Successfully Held"
 	}
 ]

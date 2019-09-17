@@ -1,0 +1,24 @@
+<p>Recently, JD Cloud security team detected that there is remote denial of service vulnerability disclosed in the open source JSON library fastjson and attackers create specific request package in the request to cause remote exhaustion of server memory, CPU and other resources, resulting in service unavailability. In order to prevent your business from being affected, JD Cloud security team recommends that you should conduct the security self-examination in a timely manner. If your business is in the affecting scope, please update and fix the problem in time to avoid malicious attacks.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Description]</strong></p>
+<p>There are exceptions of character string resolution in fastjson 1.2.60 and lower versions, where attackers make specific malicious requests in the request can cause exhaustion of server memory, CPU and other resources, resulting in service unavailability.</p>
+<p><br/></p>
+<p><strong>[Risk Level]</strong></p>
+<p>High Risk</p>
+<p><br/></p>
+<p><strong>[Affected Version]</strong></p>
+<p>fastjson &lt; 1.2.60</p>
+<p>fastjson sec version &lt; sec06</p>
+<p><br/></p>
+<p><strong>[Fix Recommendation]</strong></p>
+<p>Upgraded to</p>
+<p><br/></p>
+<p>fastjson &gt;= 1.2.60</p>
+<p>fastjson sec version &gt;= sec06</p>
+<p><br/></p>
+<p>Note: The incompatibility problem may occur when a lower version is upgraded to the latest version 1.2.60, so upgrading to the sec06 version of a specific version is recommended</p>
+<p><br/></p>
+<p><strong>[Reference Link]</strong></p>
+<p><a href="http://repo1.maven.org/maven2/com/alibaba/fastjson/" target="_blank" title="http://repo1.maven.org/maven2/com/alibaba/fastjson/">http://repo1.maven.org/maven2/com/alibaba/fastjson/</a></p>
+<p><a href="https://github.com/alibaba/fastjson/pull/2692" target="_blank" title="https://github.com/alibaba/fastjson/pull/2692">https://github.com/alibaba/fastjson/pull/2692</a></p>
+<p><br/></p>

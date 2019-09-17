@@ -554,5 +554,9 @@
 	{
 		"id":748,
 		"title":"Upgrade Notice on Border Gateway Service in Regions"
+	},
+	{
+		"id":749,
+		"title":"\\[Vulnerability Warning\\] fastjson < 1.2.60 Remote Denial of Service Vulnerability"
 	}
 ]
