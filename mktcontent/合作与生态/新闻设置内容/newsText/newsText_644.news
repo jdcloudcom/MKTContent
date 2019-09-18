@@ -1,0 +1,34 @@
+<p style="text-indent: 2em;">近日，京东云发布《京东云专有云安全白皮书》。基于安全合规、隐私保护、安全权责、专有云安全架构、专有云安全产品和专有云安全产品服务几个方面，介绍了京东云专有云安全体系，给出了京东云专有云多种客户应用场景下的安全最佳实践。旨在为政府和企业客户提供大规模商业化全栈云平台，帮助政企客户构建安全可靠的新一代专有云平台，加速数字化转型，建立安全、稳定、可信赖的专有云平台。</p>
+<p><br/></p>
+<p style="text-align: center;"><a href="https://img1.jcloudcs.com/portal/whitepaper/JDCloud_Proprietary_Cloud_Security_Whitepaper.pdf" target="_blank" title="用云最佳实践白皮书"><img src="//img1.jcloudcs.com/cms/07a34004-ffd7-455f-865d-753bf75d69c220190918192250.jpg" title="" alt="用云最佳实践白皮书"/></a></p>
+<p><br/></p>
+<p style="text-indent: 2em;">基于京东云公有云自研云计算架构，经过海量用户实践和验证，京东云推出新一代专有云平台JDStack。京东云新一代专有云平台JDStack除了具有公有云亲和性和更高的企业级水准，对于关键任务系统和数据主权也更为安全可控，架构设计与部署模式灵活多样，可以同时满足行业标准和专业化要求，是政府和企业原有资产虚拟化向云化转型的新起点，是支撑其数字化转型的有效手段。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">以云计算、大数据、人工智能、区块链、物联网等为标志的新兴科技正在推动着数字化变革。随着数字化转型的不断深化，政府和企业的IT架构日益复杂，单一形式的云计算服务难以满足客户多样化的需求，混合云架构成为新的趋势。这意味着搭建可以与私有云良好协同互动的专有云平台将变得至关重要。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">“作为云服务商，京东云始终把客户需求放在首位，为了更好地理解客户对专有云的需求，我们对157家正在数字化转型的大中型企业（包括政府、金融、能源、制造、物流等行业）展开专项调研后，发布了《京东云专有云安全白皮书》。”京东云专有云产品负责人表示。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">安全可靠性屡获行业认可</p>
+<p><br/></p>
+<p style="text-indent: 2em;">京东云专有云JDStack基于京东云公有云自研云计算架构，经过海量京东云用户实践和验证，积累了丰富的解决方案和最佳实践，将京东云成熟、稳定的产品能力延伸至客户自有数据中心，为用户提供从IaaS、PaaS到SaaS多种产品的全栈式服务。作为面向政府和企业客户的大规模商业化全栈云平台，JDStack具有“超大规模”、“灵活部署”、“安全可靠”三大核心优势。2018可信云大会，JDStack助力宿迁市电子政务办公室获得“可信云十大用户奖”， 并同时通过“政务云综合水平评估”、“可信政务云评估”。宿迁政务云更作为优秀案例入选云计算开源产业联盟《中国政务云发展白皮书，2018》 及IDC 《政务云建设模式及典型案例研究，2018》报告。此外，在2018安全可控技术应用推进大会上，基于安全、可信、高可用的特性，京东云“JDStack专有云”产品荣获“2017-2018年度安全可控优秀解决方案”奖项。2019中国国际大数据产业博览会，京东云“JDStack专有云平台”凭借领先的云计算技术创新、丰富的实践和场景应用获得“2019领先科技成果奖—新产品”奖项。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">解决传统专有云平台安全痛点</p>
+<p><br/></p>
+<p style="text-indent: 2em;">京东云专有云平台解决了涵盖平台安全、应用安全、数据安全以及业务安全等层面的端到端安全合规一体化需求。在平台层面，从安全防护、可用性以及可靠性等维度，对软件平台、主机平台以及网络互联等进行全面保护；在应用层面，注重事前、事中和事后的全周期安全防护； 在数据层面，加强数据治理和加密措施，防范各种漏洞风险；在业务层面，借助技术能力以外的经验，建立完善的管控流程并通过技术手段进行固化。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">提供多维度的安全产品、服务和解决方案</p>
+<p><br/></p>
+<p style="text-indent: 2em;">京东云专有云JDStack为客户提供全方位、立体、综合的安全防护产品和服务，保障客户的业务安全及稳定，让客户放心上云。包括：边界安全，如：WAF、DDoS防护、防火墙、入侵检测等； 系统安全，如：主机安全、安全组、ACL等； 数据安全，如：数据库审计、存储数据加密、数据传输加密等； 安全管理，如：堡垒机、日志审计、态势感知等； 安全服务，如： 基线检测、漏洞扫描、渗透测试、应急响应等。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em; text-align: center;"><img src="http://img1.jcloudcs.com/cms/c86113c7-d054-4e8c-8e40-9da2ad4341fb20190918182650.jpg" title="" alt="modify1.jpg" style="white-space: normal;"/></p>
+<p style="text-indent: 2em;">&nbsp;<br/></p>
+<p style="text-indent: 2em;">在数字化浪潮席卷而来的当下，京东云致力于为政府和企业提供一体化、专业化、现代化和生态化的专有云平台，在保障安全、可靠、敏捷、高效的同时，提升客户体验，推动客户数字化转型并与其共建数字化生态。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云产品研发部高级总监臧志表示：“京东云在专有云领域持续耕耘，此次京东云发布《京东云专有云安全白皮书》，希望能够帮助我们的客户在专有云平台建设中，方向更明晰，方案更完备。京东云专有云平台JDStack已经取得了客户广泛的认可，同时京东云也在长期致力于构建专有云生态链。在未来，面向专有云的客户，京东云会长期为客户的专有云平台持续稳定、安全运行保驾护航。”</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">稳定和安全是旅程而非终点，京东云将始终以“可信可靠、安全保障、生态赋能、用户信赖”为安全服务的宗旨，致力于成为推动全球数字化转型的赋能者，为合作伙伴和客户提供安全、稳定、高可用的基础设施，专业、全方位的产品和完善、可靠的服务。</p>
+<p style="white-space: normal;"><br/></p>
+<p style="white-space: normal; text-indent: 2em;">点击阅读&nbsp;<a href="https://img1.jcloudcs.com/portal/whitepaper/JDCloud_Proprietary_Cloud_Security_Whitepaper.pdf" target="_blank" title="京东云专有云安全白皮书" style="color: rgb(0, 176, 240);"><strong>&gt;&gt;《京东云专有云安全白皮书》</strong></a></p>
+<p style="white-space: normal;"><br/></p>
+<p style="white-space: normal; text-indent: 2em;">下载阅读更多京东云白皮书请移步&nbsp;<span style="color: rgb(0, 176, 240); text-decoration-line: underline;"><strong><a href="https://www.jdcloud.com/cn/jdcloud-whitepaper/all#wp_list" target="_blank" title="京东云技术白皮书" style="color: rgb(0, 176, 240);">&gt;&gt;京东云技术白皮书</a>专区</strong></span>
+</p>
