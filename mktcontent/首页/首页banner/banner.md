@@ -999,5 +999,12 @@
 		"id":1148,
 		"button_title":"查看详情",
 		"main_title":"助力数字化转型"
+	},
+	{
+		"sub_title":"零基础 快速搭建",
+		"name":"8.8元建站活动",
+		"id":1150,
+		"button_title":"立即购买",
+		"main_title":"京东云智能建站只需8.8元"
 	}
 ]
