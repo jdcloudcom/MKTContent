@@ -1,0 +1,25 @@
+<p>尊敬的京东云客户您好，</p>
+<p>为了给您提供更便利，更精确，更友好的针对云主机，私有网络（VPC）相关网络产品，云镜像，高可用组等控制台的子用户操作的权限控制，京东云计划于2019年9月19日22:00至2019年9月20日06:00暂停私有网络（VPC）相关网络产品的服务，届时将有如下影响：</p>
+<p>下述私有网络（VPC）相关网络产品的控制台服务、将针对所有主子账号用户均不可用：</p>
+<p>-<span style="white-space:pre">	</span>
+私有网络（VPC）</p>
+<p>-<span style="white-space:pre">	</span>
+子网</p>
+<p>-<span style="white-space:pre">	</span>
+路由表</p>
+<p>-<span style="white-space:pre">	</span>
+网络ACL</p>
+<p>-<span style="white-space:pre">	</span>
+弹性网卡</p>
+<p>-<span style="white-space:pre">	</span>
+安全组</p>
+<p>-<span style="white-space:pre">	</span>
+弹性公网IP</p>
+<p>-<span style="white-space:pre">	</span>
+VPC对等连接</p>
+<p>子用户访问云主机，云镜像、高可用组服务时，子用户请求经访问控制（IAM）权限判断时，可能会有延时。</p>
+<p><br/></p>
+<p>此次上线不影响云主机、云镜像、高可用组以及私有网络（VPC）相关网络产品已部署功能的使用，不影响您正常业务的进行</p>
+<p><br/></p>
+<p>上线期间如果遇到相关问题，请您随时与京东云客服联系（电话：4006151212），感谢您对京东云的支持。</p>
+<p><br/></p>
