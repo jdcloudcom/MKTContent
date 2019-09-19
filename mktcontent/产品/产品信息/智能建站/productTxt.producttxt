@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[{\"explain\":\"8.8元智能建站火热进行中\",\"explainLink\":\"https://www.jdcloud.com/cn/activity/isc\",\"classTag\":\"\"}],\"productName\":\"智能建站\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://elite.jdcloud.com/search.html?keywords=%E4%BC%81%E4%B8%9A%E5%BB%BA%E7%AB%99\",\"classTag\":\"\"}],\"desc\":\"五端合一智能建站系统（包含PC、手机、微信、小程序、安卓APP），通过上千个模板快速建站，同时提供多种电商营销插件，支持商家入驻开店，帮助企业塑造全网品牌官网或打造企业自身的电商平台。\"}",
+		"id":1474
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"五站合一\",\"proName\":\"电脑站、手机站、微信站、安卓APP、小程序，统一管理，内容互通\"},{\"showShade\":false,\"proGood\":\"模板丰富\",\"proName\":\"1000+精美模板持续更新，精细的行业划分，三分钟建设一个属于您自己的网站\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"拖拽灵活\",\"proName\":\"容器、模板随意组合，想放哪里放哪里；切换标签、锚点，统统都能实现\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"营销插件\",\"proName\":\"会员体系、会员积分、优惠券、红包、分销、社交裂变，多种营销方式激活用户\"}]",
+		"id":1475
+	},
+	{
+		"txt":"[{\"title\":\"企业云官网\",\"description\":\"适合中小微型企业/个人，帮助企业/个人塑造全网品牌。\",\"specificationDescription\":[{\"title\":\"规格\",\"description\":\"PC+手机+微信+小程序+安卓APP\"},{\"title\":\"特点\",\"description\":\"1000+免费精品模板\\n会员管理\\n支持整站及页面SEO设置\\n百种营销插件\\n小程序一键生成\"}],\"buttons\":{\"name\":\"1元试用\",\"link\":\"https://elite.jdcloud.com/product.html?id=10113\",\"classTag\":\"\"},\"price\":\"398\"},{\"title\":\"电商基础版（B2C商城）\",\"description\":\"适合中小企业，提供标准化支付接口对接，帮助企业实现在线销售。\",\"specificationDescription\":[{\"title\":\"规格\",\"description\":\"PC+手机+微信+小程序+安卓APP\"},{\"title\":\"特点\",\"description\":\"1000+免费精品模板\\n会员管理\\n支持整站及页面SEO设置\\n百种营销插件\\n小程序一键生成\\n支持多种在线支付方式\\n电商功能/订单管理\"}],\"buttons\":{\"name\":\"1元试用\",\"link\":\"https://elite.jdcloud.com/product.html?id=10114\",\"classTag\":\"\"},\"price\":\"698\"},{\"title\":\"电商分销版（B2C商城）\",\"description\":\"适合中小企业，提供多种电商营销插件，包含分销、拼团、秒杀、团购、砍价等。\",\"specificationDescription\":[{\"title\":\"规格\",\"description\":\"PC+手机+微信+小程序+安卓APP\"},{\"title\":\"特点\",\"description\":\"1000+免费精品模板\\n会员管理\\n支持整站及页面SEO设置\\n百种营销插件\\n小程序一键生成\\n支持多种在线支付方式\\n电商功能/订单管理\\n多种三级分销推广分佣\"}],\"buttons\":{\"name\":\"1元试用\",\"link\":\"https://elite.jdcloud.com/product.html?id=10115\",\"classTag\":\"\"},\"price\":\"980\"},{\"title\":\"电商全网营销版（B2B2C平台商城）\",\"description\":\"提供多种电商营销插件，包含分销、拼团、秒杀、团购、砍价等，支持商家入驻开店，打造企业自身的电商平台。\",\"specificationDescription\":[{\"title\":\"规格\",\"description\":\"PC+手机+微信+小程序+安卓APP\"},{\"title\":\"特点\",\"description\":\"1000+免费精品模板\\n会员管理\\n支持整站及页面SEO设置\\n百种营销插件\\n小程序一键生成\\n支持多种在线支付方式\\n电商功能/订单管理\\n多种三级分销推广分佣\\n商铺入驻/商铺提现\"}],\"buttons\":{\"name\":\"1元试用\",\"link\":\"https://elite.jdcloud.com/product.html?id=10116\",\"classTag\":\"\"},\"price\":\"7800\"}]",
+		"id":1476
+	},
+	{
+		"txt":"[{\"funcName\":\"海量模板\",\"funcContent\":[{\"funcTitle\":\"百种行业，精品设计\",\"funcP\":\"京东云智能建站内含海量精品风格网站模板，随您挑选，随时更改，保存立即见效\"}]},{\"funcName\":\"自由搭建\",\"funcContent\":[{\"funcTitle\":\"灵活排版，快速搭建\",\"funcP\":\"提供丰富素材库，根据用户的需求自由拖拽调动，修改图文、创建模块、更改背景，随时修改\"}]},{\"funcName\":\"多端合一\",\"funcContent\":[{\"funcTitle\":\"小程序、APP一键生成\",\"funcP\":\"针对时下火热的小程序、APP等，无需任何技术，在后台一键打包生成，即用即走\"}]}]",
+		"id":1477
+	},
+	{
+		"txt":"[{\"name\":\"多店铺综合商城（电商平台）\",\"instruction\":\"多用户商城主要面对中高端客户，支持平台自营+供应商店铺共存的经营模式，极大的丰富了平台商品。全面支持 H5/微信/APP等移动平台，以丰富的营销功能、精细化的用户运营，解决电商引流、推广难题，是企业开展平台类型电商业务的最佳选择！\",\"recommend\":\"电商全网营销版独享版\",\"selectedProduct\":[{\"name\":\"域名服务\",\"url\":\"//net.jdcloud.com\"},{\"name\":\"备案服务\",\"url\":\"//record-console.jdcloud.com\"},{\"name\":\"知客营销\",\"url\":\"//www.jdcloud.com/solutions/zhike\"}],\"buttons\":{\"name\":\"立即购买\",\"link\":\"https://elite.jdcloud.com/product.html?id=10116\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7a3f0740-8154-454f-875b-b7146dce82dd20190919140843.jpg\",\"showShade\":false},{\"name\":\"企业品牌官网（展示推广）\",\"instruction\":\"通过系统提供的海量精品风格网站模板，可以根据企业的风格及个人的喜好，快速打造专属的企业/个人品牌官网，帮助企业/个人塑造良好的全网品牌形象。\",\"recommend\":\"企业云官网独享版\",\"selectedProduct\":[{\"name\":\"域名服务\",\"url\":\"//net.jdcloud.com\"},{\"name\":\"备案服务\",\"url\":\"//record-console.jdcloud.com\"},{\"name\":\"DDoS 防护包\",\"url\":\"//www.jdcloud.com/products/anti-ddos-protection-package\"}],\"buttons\":{\"name\":\"立即购买\",\"link\":\"https://elite.jdcloud.com/product.html?id=10113\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/379d1c4c-7a81-4e13-a183-c3628dab05f720190919140723.png\",\"showShade\":false}]",
+		"id":1478
+	}
+]
