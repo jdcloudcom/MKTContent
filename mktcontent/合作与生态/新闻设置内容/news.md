@@ -1374,5 +1374,21 @@
 		"jss_key":"News_Content_645",
 		"id":645,
 		"news_title":"艾瑞《中国基础云服务行业发展洞察》显示：2018年京东云进入中国公有云市场前十"
+	},
+	{
+		"summary":"人民日报智慧媒体研究院宣告成立。在研究院成立的同时，人民日报新媒体也推出了5个新项目：体现主流算法的人民日报客户端7.0版、“人民日报+”短视频客户端、融媒体创新产品研发与孵化项目、人工智能媒体实验室和全媒体智慧云。其中，京东云助力人民日报新媒体打造全媒体传播格局。",
+		"image_url":"//img1.jcloudcs.com/cms/3d46b07c-398b-46dc-a989-15f77838134120190920150642.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_646",
+		"jss_key":"News_Content_646",
+		"id":646,
+		"news_title":"京东云助力人民日报打造智慧化全媒体"
+	},
+	{
+		"summary":"京东集团与大同成功牵手，拉开大同与京东深入合作的序幕。双方将致力于推进云计算大数据产业基地、现代商贸物流基地、电商产业园等项目建设，未来计划在机器人制造、人工智能等领域开展持续深入合作。",
+		"image_url":"//img1.jcloudcs.com/cms/7fd0f09a-d38c-4349-8652-42c1ec1a030120190920162810.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_647",
+		"jss_key":"News_Content_647",
+		"id":647,
+		"news_title":"云中有朵京东云——京东落地大同，助力煤都转型"
 	}
 ]
