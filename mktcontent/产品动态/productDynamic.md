@@ -2284,5 +2284,35 @@
 		"name":"Add Dynamic Routing Function",
 		"description":"In dynamic routing function, users can customize multiple routing rules to configure different backend services for the same API group by changing frontend parameters, which can be applicable to more business scenarios.",
 		"id":2480
+	},
+	{
+		"introduce":"Support sending and search of user customized message ID",
+		"name":"Support sending and search of user customized message ID",
+		"description":"Support users to search messages ID according to the customized message to facilitate users in locating problems and searching messages.",
+		"id":2499
+	},
+	{
+		"introduce":"Support all life cycle record of message production and consumption",
+		"name":"Support all life cycle record of message production and consumption",
+		"description":"Help users resolve the problem that the message status cannot be determined either by the producer or the consumer due to decoupling between production and consumption, and help users locate the problem and understand the detailed status of the message.",
+		"id":2500
+	},
+	{
+		"introduce":"Enable Upload and Download Acceleration by One-click",
+		"name":"Support Transmission Acceleration",
+		"description":"OSS Transmission Acceleration provides the acceleration service through JD Cloud’s CDN distributed edge site, and can realize rapid, easy and safe remote file transmission between a client and a Bucket.",
+		"id":2501
+	},
+	{
+		"introduce":"Policy Creation, Configuration of Added Effective Conditions (IAM Condition) ",
+		"name":"Policy Management, Add Effective Conditions",
+		"description":"1. Add the configuration of policy effective conditions on the basis of permission control granularity of operation level and resource level\n2.By specifying the effective conditions, more elaborate permission control can be carried out on sub-users and roles to meet the security requirements of different enterprises in the permission control.\n3. Collaborative tag services can specify resources in batches by specifying tag conditions when policies are created by marking resources ahead of time.",
+		"id":2502
+	},
+	{
+		"introduce":"Policy Management, Add Explicit Denial",
+		"name":"Policy Management, Add Explicit Denial",
+		"description":"Support to create policies in IAM to allow the sub-user, role to access specific operations, and explicitly deny the access to specific operations by the sub-user, role through creating Deny policy.",
+		"id":2503
 	}
 ]

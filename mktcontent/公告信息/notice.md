@@ -558,5 +558,9 @@
 	{
 		"id":749,
 		"title":"\\[Vulnerability Warning\\] fastjson < 1.2.60 Remote Denial of Service Vulnerability"
+	},
+	{
+		"id":753,
+		"title":"JD Cloud 2019 Mid-Autumn Festival Service Announcement"
 	}
 ]

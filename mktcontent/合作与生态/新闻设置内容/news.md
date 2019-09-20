@@ -1310,5 +1310,29 @@
 		"jss_key":"News_Content_638",
 		"id":638,
 		"news_title":"Final of 2019 Ji’nan Pilot Area  JD Innovation and Startup Championship Successfully Held"
+	},
+	{
+		"summary":"Nanjing Qilin High-tech Zone joined hands with JD Cloud to attend this grand meeting. The Expo with the subject of \"Integrated Innovation Intelligent Connection of Things\" aims at joining hands with all sectors of the society to exchange ideas, share experience, and jointly look forward to the broad development prospects of the Internet of Things through presenting the latest technological achievements in the field of the global IoT, focusing on hot issues in IoT technologies and applications such as IoV, artificial intelligence and big data.",
+		"image_url":"//img1.jcloudcs.com/cms/2d5d3e07-d269-4164-ba00-59ed45c440c420190911192216.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_640",
+		"jss_key":"News_Content_640",
+		"id":640,
+		"news_title":"JD Cloud joined hands with Nanjing Municipal Government to present at the IoT Expo to promote the new development of intelligent technology"
+	},
+	{
+		"summary":"IDC 4th Digital Transformation Award was announced, and JD Cloud assisted customers to successfully win two major awards: Internet + Government Affairs Service of Binzhou Economic and Technological Development Zone won the Excellence Award for \"Leader in All-round Experience Innovation\"; Freight Broker Platform of China Cloud Technology won the Excellence Award for \"Business Model Transformation Leader\".",
+		"image_url":"//img1.jcloudcs.com/cms/84b83d76-b3aa-4438-9d57-19033cb7e33920190912132833.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_641",
+		"jss_key":"News_Content_641",
+		"id":641,
+		"news_title":"JD Cloud helps Digital Transformation Government Affairs Cloud and logistics e-commerce platform service project win IDC Award separately"
+	},
+	{
+		"summary":"Recently, JD Cloud officially released a new generation of full-link marketing solution - Marketing Cloud. JD Cloud Marketing Cloud provides SaaS tools and value-added services required by marketing with accurate insight into customers’ requirements depending on artificial intelligence and big data, and provide the customers with one-stop full-link marketing solutions from marketing insight, marketing strategy, marketing creativity, marketing execution, marketing monitoring to marketing effect analysis.",
+		"image_url":"//img1.jcloudcs.com/cms/c185cbf7-26cc-4af2-b828-d978e1d8de7f20190912185253.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_642",
+		"jss_key":"News_Content_642",
+		"id":642,
+		"news_title":"Products of JD Cloud Marketing Cloud were launched on the official website to provide users with full-link marketing services"
 	}
 ]

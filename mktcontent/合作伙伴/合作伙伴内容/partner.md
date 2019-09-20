@@ -97,7 +97,7 @@
 	},
 	{
 		"name":"Shenzhen Qicai Technology Co., Ltd.",
-		"description":"COMIX.com.cn is owned by COMIX Group (stock code: 002301) mainly as a B2B one-stop procurement and service platform aiming at the procurement and service needs of enterprise users to provide “hardware + software + service” for terminal enterprise users based on the operation mode of platform operator + O2O.\n",
+		"description":"COMIX.com.cn is owned by COMIX Group (stock code: 002301) mainly as a B2B one-stop procurement and service platform aiming at the procurement and service needs of enterprise users to provide \"hardware + software + service\" for terminal enterprise users based on the operation mode of platform operator + O2O.\n",
 		"short_name":"17cai.com",
 		"id":21,
 		"partner_label":"Enterprise one-stop purchase and service platform",
@@ -105,10 +105,10 @@
 	},
 	{
 		"name":"Sichuan Winnerroad Scientific and Technologic Development Co., Ltd.",
-		"description":"Sichuan Wangdao is committed to mobile information engineering such as “Government Service + Internet”, “grass-roots Party construction + Internet”, “People's Livelihood and Poverty Alleviation + Internet” and “Rural E-Commerce”, and is committed to the development of regional network application platforms and technology development, operational services and training support. \n",
+		"description":"Sichuan Wangdao is committed to mobile information engineering such as \"Government Service + Internet\", \"grass-roots Party construction + Internet\", \"People's Livelihood and Poverty Alleviation + Internet\" and \"Rural E-Commerce\", and is committed to the development of regional network application platforms and technology development, operational services and training support. \n",
 		"short_name":"Sichuan Winnerroad",
 		"id":26,
-		"partner_label":"“Mobile Internet +” integrated operation service provider",
+		"partner_label":"\"Mobile Internet +\" integrated operation service provider",
 		"tableName":"cms_partner"
 	},
 	{
@@ -377,7 +377,7 @@
 	},
 	{
 		"name":"Beijing SVOC Technology Co., Ltd.",
-		"description":"Beijing SVOC Technology is a cloud collaboration and cloud value-added operation service provider based on independent cloud computing technology. Based on virtualization technology and with the core of multimedia communication frontier technology, it independently developed the “Power Cloud” and “Vision Cloud” platforms, and relied on multi-line access IDC to help the upgrade transformation and business innovation of enterprises.",
+		"description":"Beijing SVOC Technology is a cloud collaboration and cloud value-added operation service provider based on independent cloud computing technology. Based on virtualization technology and with the core of multimedia communication frontier technology, it independently developed the \"Power Cloud\" and \"Vision Cloud\" platforms, and relied on multi-line access IDC to help the upgrade transformation and business innovation of enterprises.",
 		"short_name":"SVOC",
 		"id":634,
 		"partner_label":"Solution Provider",
@@ -397,6 +397,22 @@
 		"short_name":"Zhongxin Saibao",
 		"id":636,
 		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Guangzhou Jiuheng Science and Technology Co., Ltd.",
+		"description":"Guangzhou Jiuheng Science and Technology Co., Ltd. is an IoT company providing developers and enterprises with cloud services, cloud data products and professional services. The company's main business scope includes JD Cloud Onboarding Consultation, JD Cloud Onboarding Implementation, Data Migration, Cybersecurity Classified Protection Safety, etc., providing customers with integrated solutions of \"hardware product + software platform + scenario application\". The mission of the company is to help enterprises transform from traditional IT to Internet through external transfer of strong Internet technology experience and advanced technology.",
+		"short_name":"Guangzhou Jiuheng",
+		"id":643,
+		"partner_label":"Sales Agent",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Guangzhou Qingran Science and Technology Co., Ltd.",
+		"description":"Guangzhou Qingran Science and Technology Co., Ltd. is an IT technology enterprise focusing on cloud computing, Cloud Security, big data. Since the establishment, the company is committed to comprehensive information construction services from JD Cloud Onboarding of middle and small-sized enterprises to data migration, big data analysis to cybersecurity classified protection security, SMS marketing to private cloud construction, CDN to mature saas products. Up to now, it has provided hundreds of enterprises and institutions with quality services, and it is the influential cloud service dealer.",
+		"short_name":"Qingran Science and Technology",
+		"id":644,
+		"partner_label":"Sales Agent",
 		"tableName":"cms_partner"
 	}
 ]
