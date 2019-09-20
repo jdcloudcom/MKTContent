@@ -1,0 +1,38 @@
+[
+	{
+		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"托管私有云-V\",\"description\":\"基于京东云托管物理计算服务，深度整合VMware标准套件，交付客户企业级混合云解决方案。客户可轻松将现有VMware环境从本地扩展至京东云上，并享受一站式贴心服务。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/004a0541-8712-4b8a-9378-66839b43dc7520190830193421.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[],\"tagMetas\":[]}]}",
+		"templet":"11",
+		"id":761,
+		"solution_id":"158"
+	},
+	{
+		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"方案特点\",\"name\":\"description-1\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2608d9d9-0a4a-4fd9-af8f-a6b1b94db1bb20190830194546.png\",\"title\":\"降低企业TCO\",\"description\":\"通过提供托管私有云环境，为企业节省基础设施、服务器设备和软件授权购买等一次性投入，让企业灵活选择所需硬件设备、网络带宽和软件许可，低成本快速响应业务需求。\",\"subDescriptions\":[{\"descriptionText\":\"节省成本\"},{\"descriptionText\":\"灵活选择\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/af1949a3-39ba-442e-b055-abc22058bd5220190830194627.png\",\"title\":\"一致用户体验\",\"description\":\"托管私有云提供标准VMware套件，包括vSphere、vSAN、NSX等。允许客户通过vCenter进行资源管理和服务设置，实现与用户在本地数据中心完全一致的操作体验。\",\"subDescriptions\":[{\"descriptionText\":\"标准VMware套件\"},{\"descriptionText\":\"一致性体验\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7e648ee2-7bf1-487b-a53e-38f5b0a96f3720190830194707.png\",\"title\":\"VMware官方认证硬件配置\",\"description\":\"提供经过VMware官方Ready Node认证的混合型/全闪存型高性能服务器，为客户创建高稳定、高可靠的运行环境。\",\"subDescriptions\":[{\"descriptionText\":\"官方Ready Node认证服务器\"},{\"descriptionText\":\"高稳定、高可靠的运行环境\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cfc20032-320b-4362-a12c-d9d07c5f7ccd20190830194830.png\",\"title\":\"专业混合云能力\",\"description\":\"通过专线或内部专用网络，连接用户私有数据中心VMware环境、京东云托管私有云VMware环境以及京东云公有云服务环境，构建混合云环境。\",\"subDescriptions\":[{\"descriptionText\":\"轻松构建混合云\"},{\"descriptionText\":\"专业服务\"}]}]}",
+		"templet":"21",
+		"id":762,
+		"solution_id":"158"
+	},
+	{
+		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"应用场景图\",\"name\":\"newTab-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cd1708f6-e83a-4578-864c-6939df5a718220190902190709.png\",\"title\":\"应用场景说明\",\"descriptionDetail\":\"京东云提供基于托管物理计算服务的VMware解决方案，以解决托管客户的私有云部署。同时客户可通过专线或内部专用网络，连接用户私有数据中心VMware环境、京东云托管私有云VMware环境以及京东云公有云服务环境，轻松构建混合云环境。\n\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"templet":"31",
+		"id":763,
+		"solution_id":"158"
+	},
+	{
+		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"优势\",\"name\":\"advantage\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c8a26740-7e82-4901-83fe-3031fe5d7e2720190830195050.png\",\"title\":\"一站式贴心服务\",\"description\":\"提供硬件、软件、迁移咨询、安装部署、运维服务一站式服务。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d9a52ab5-cffa-4f3a-a4d4-ae924d5e731020190830195110.png\",\"title\":\"高可靠基础设施\",\"description\":\"提供高品质的T3+机房环境，单线&BGP网络带宽产品，以及定制专用服务器设备。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/082e5fcc-044b-42f9-93c2-70e9f59db60320190830195140.png\",\"title\":\"高品质服务保障\",\"description\":\"拥有资深专家团队，提供专业的售前，售后支持，支持7*24小时的售后快速响应。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1f47f7eb-93e7-456b-a8e8-76c59b9063a320190830195223.png\",\"title\":\"高安全网络环境\",\"description\":\"享受京东公有云网络安全保障能力，默认2G基础防护，可选50G防护包，支持T级IP高防能力\"}]}",
+		"templet":"51",
+		"id":764,
+		"solution_id":"158"
+	},
+	{
+		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"使用指南\",\"name\":\"process\",\"data\":[{\"progress\":[{\"name\":\"线下申请\"},{\"name\":\"需求沟通\"},{\"name\":\"开通服务\"},{\"name\":\"配置指导\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"templet":"61",
+		"id":765,
+		"solution_id":"158"
+	},
+	{
+		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"推荐产品\",\"name\":\"recommend\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/21245e77-55f1-4b71-a14e-fc14cc395d4e20190830195548.png\",\"title\":\"云物理服务器\",\"description\":\"按需购买、按量付费的物理服务器租赁服务，提供给您云端专用的高性能、安全隔离的物理服务器集群。\",\"explain\":\"\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e4af7547-2b19-4e86-a538-cc789ecb664d20190830195733.png\",\"title\":\"托管物理计算\",\"description\":\"为用户提供裸机服务器使用服务，让企业可以将更多的资金投入在业务投资和业务效益当中，节省固定资产投入，提升ROE，提高资金的流动性以提升企业盈利能力。\",\"explain\":\"\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1f9f1903-37bc-4106-b4e3-6f5f697550a720190830195941.png\",\"title\":\"边缘物理计算\",\"description\":\"提供优质的边缘节点资源，将计算，网络，存储能力下沉至网络边缘，提供靠近客户的低延时，高带宽，高实时性，本地化的计算存储服务，以及现场运维服务，可按照客户需求进行定制化部署\",\"explain\":\"\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"templet":"71",
+		"id":766,
+		"solution_id":"158"
+	}
+]
