@@ -1390,5 +1390,21 @@
 		"jss_key":"News_Content_647",
 		"id":647,
 		"news_title":"云中有朵京东云——京东落地大同，助力煤都转型"
+	},
+	{
+		"summary":"京东携手微软成立中、美、英国际化教研团队，针对中国教育需求进行深度定制，打造创新型中国版教育生态课程——Minecraft我的世界教育版，致力于培养未来人才。",
+		"image_url":"//img1.jcloudcs.com/cms/60aba855-6d2a-46a6-ac5b-db0e94def3dd20190923163133.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_648",
+		"jss_key":"News_Content_648",
+		"id":648,
+		"news_title":"聚焦青少年编程，Minecraft我的世界教育版助力教育发展"
+	},
+	{
+		"summary":"“京东云云市场”最佳实践分享会在北京国家会议中心成功举行。京东云与近百位应用代理商、IT服务商合作伙伴齐聚国家会议中心，共同交流在数字化转型方面的经验成果，分享各服务商在业务领域内使用京东云以及托管服务的心得体验与最佳实践。",
+		"image_url":"//img1.jcloudcs.com/cms/e848d117-5558-4bd6-a6bb-e91d9b003b9520190923175633.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_649",
+		"jss_key":"News_Content_649",
+		"id":649,
+		"news_title":"推动企业应用上云，京东云助力应用代理商实现数字化转型"
 	}
 ]
