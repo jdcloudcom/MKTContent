@@ -72,13 +72,21 @@
       <div id="wp_list" class="wp-list w">
         <h4 class="jdc-common-floor-tit">平台与架构</h4>
         <div class="row">
-		<div class="col-3 col-xs-6">
-            <a href="//docs.jdcloud.com/cn/jdcloud-best-practice-whitepaper/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_9">
-              <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-7.png" alt="">
-              </div>
-              <h5 class="wp-item-tit">用云最佳实践白皮书</h5>
-            </a>
+			<div class="col-3 col-xs-6">
+				<a href="//docs.jdcloud.com/cn/jdcloud-proprietary-cloud-security-whitepaper/product-overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_10">
+					<div class="wp-item-img">
+					<img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-8.png" alt="">
+					</div>
+					<h5 class="wp-item-tit">专有云安全白皮书</h5>
+				</a>
+			</div>
+			<div class="col-3 col-xs-6">
+				<a href="//docs.jdcloud.com/cn/jdcloud-best-practice-whitepaper/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_9">
+				<div class="wp-item-img">
+					<img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-7.png" alt="">
+				</div>
+				<h5 class="wp-item-tit">用云最佳实践白皮书</h5>
+				</a>
           </div>
           <div class="col-3 col-xs-6">
             <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-private-and-hybrid-cloud/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_3">
