@@ -408,7 +408,7 @@
 		"id":1227
 	},
 	{
-		"name":"IoT Hub Protocol Adaptor",
+		"name":"IoT Protocol Adaptor",
 		"id":1228
 	},
 	{

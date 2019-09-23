@@ -2226,9 +2226,9 @@
 		"id":2470
 	},
 	{
-		"introduce":"IoT Hub Protocol Adaptor Official Release",
-		"name":"IoT Hub Protocol Adaptor Official Release",
-		"description":"The IoT Hub Protocol Adaptor is equipped with JT/T-808 (GNSS System for Operational Vehicles — General Specifications for Vehicle Terminal Communication Protocol and Data Format) protocol support. With the IoT Core Services, it switches adaptation modules through the built-in non-standard device data encapsulation protocol or communication protocol to help users with JD Cloud Onboarding of the existing devices in a quick and low-cost way.",
+		"introduce":"IoT Protocol Adaptor Official Release",
+		"name":"IoT Protocol Adaptor Official Release",
+		"description":"The IoT Protocol Adaptor is equipped with JT/T-808 (GNSS System for Operational Vehicles — General Specifications for Vehicle Terminal Communication Protocol and Data Format) protocol support. With the IoT Core Services, it switches adaptation modules through the built-in non-standard device data encapsulation protocol or communication protocol to help users with JD Cloud Onboarding of the existing devices in a quick and low-cost way.",
 		"id":2471
 	},
 	{
