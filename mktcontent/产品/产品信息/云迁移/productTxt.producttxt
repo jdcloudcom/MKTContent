@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云迁移\",\"label\":[{\"TitleName\":\"公测申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/JDMigration\",\"classTag\":\"\"},{\"TitleName\":\"云迁移控制台\",\"TitleUrl\":\"https://jdfusion.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"云迁移是京东云提供的混合云容灾产品。致力于在混合云场景提供丰富的、高性能的、高安全性的基于业务和数据迁移、备份、恢复服务，充分利用混合云平台实现业务与数据的高可用性，显著降低用户上云的技术难度和成本。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云迁移\",\"label\":[{\"TitleName\":\"云迁移控制台\",\"TitleUrl\":\"https://jdfusion.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"云迁移是京东云提供的混合云容灾产品。致力于在混合云场景提供丰富的、高性能的、高安全性的基于业务和数据迁移、备份、恢复服务，充分利用混合云平台实现业务与数据的高可用性，显著降低用户上云的技术难度和成本。\"}",
 		"id":858
 	},
 	{
