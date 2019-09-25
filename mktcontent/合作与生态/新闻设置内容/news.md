@@ -1406,5 +1406,13 @@
 		"jss_key":"News_Content_649",
 		"id":649,
 		"news_title":"推动企业应用上云，京东云助力应用代理商实现数字化转型"
+	},
+	{
+		"summary":"9月24日，艾瑞发布《2019年中国营销云市场研究报告》（以下简称“该报告”）。报告指出，京东云营销云作为京东云的重要子生态，依托京东集团在电商领域多年的深耕经验和技术积累，在数据分析、CRM/SCRM、综合服务（提供商）、平台服务（提供商）等方面表现优异。",
+		"image_url":"//img1.jcloudcs.com/cms/a4a1abb4-7160-4ea2-b979-85e0f5aeb06220190925164811.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_655",
+		"jss_key":"News_Content_655",
+		"id":655,
+		"news_title":"艾瑞：京东云全链路营销云助力客户营销效果最大化"
 	}
 ]
