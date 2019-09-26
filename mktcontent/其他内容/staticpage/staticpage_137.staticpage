@@ -64,6 +64,23 @@
               </div>
             </div>
           </div>
+		  <div class="col-6 col-xs-12">
+            <div class="wp-floor1-item wp-floor1-item-2">
+              <div class="wp-floor1-item-hd">京东云专有云安全白皮书</div>
+              <div class="wp-floor1-item-bd">
+                <div class="wp-floor1-img">
+                  <img src="https://img1.jcloudcs.com/portal/whitepaper/wp-4.jpg" alt="">
+                </div>
+                <div class="wp-floor1-right">
+                  <p class="wp-floor1-txt">
+                    基于安全合规、隐私保护、安全权责、专有云安全架构、专有云安全产品和专有云安全产品服务几个方面，介绍了京东云专有云安全体系，给出了京东云专有云多种客户应用场景下的安全最佳实践。旨在为政府和企业客户提供大规模商业化全栈云平台，帮助政企客户构建安全可靠的新一代专有云平台，加速数字化转型，建立安全、稳定、可信赖的专有云平台。
+                  </p>
+
+                  <a href="https://img1.jcloudcs.com/portal/whitepaper/JDCloud_Proprietary_Cloud_Security_Whitepaper.pdf"  clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_4" target="_blank" class="jdc-btn jdc-bg">立即查看</a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -72,14 +89,6 @@
       <div id="wp_list" class="wp-list w">
         <h4 class="jdc-common-floor-tit">平台与架构</h4>
         <div class="row">
-			<div class="col-3 col-xs-6">
-				<a href="//docs.jdcloud.com/cn/jdcloud-proprietary-cloud-security-whitepaper/product-overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_10">
-					<div class="wp-item-img">
-					<img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-8.png" alt="">
-					</div>
-					<h5 class="wp-item-tit">专有云安全白皮书</h5>
-				</a>
-			</div>
 			<div class="col-3 col-xs-6">
 				<a href="//docs.jdcloud.com/cn/jdcloud-best-practice-whitepaper/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_9">
 				<div class="wp-item-img">
