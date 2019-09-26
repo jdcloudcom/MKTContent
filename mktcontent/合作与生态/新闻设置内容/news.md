@@ -1414,5 +1414,21 @@
 		"jss_key":"News_Content_655",
 		"id":655,
 		"news_title":"艾瑞：京东云全链路营销云助力客户营销效果最大化"
+	},
+	{
+		"summary":"2019年9月25日，广西壮族自治区党委常委、自治区常务副主席秦如培率领考察团赴京东云北海分公司进行参观考察。此次考察旨在了解京东云及其生态圈产业落户北海的基本情况，感受北海得天独厚的产业优势和营商环境，共同探讨区域产业转型升级与数字经济发展新模式。",
+		"image_url":"//img1.jcloudcs.com/cms/4caae5a1-ce7f-45f0-8c39-c9abb0cfb2fc20190926140937.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_656",
+		"jss_key":"News_Content_656",
+		"id":656,
+		"news_title":"京东云北海分公司迎来广西省政府领导考察，共谋区域数字经济新发展"
+	},
+	{
+		"summary":"京东云携手 Convertlab 联合发布全链路营销罗盘，为企业搭建公私域流量池，实现业务驱动增长的精细化运营。",
+		"image_url":"//img1.jcloudcs.com/cms/dc01c7d5-995f-4e15-9742-44eddcb32b3720190926181000.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_657",
+		"jss_key":"News_Content_657",
+		"id":657,
+		"news_title":"京东云携手 Convertlab 联合发布全链路营销罗盘"
 	}
 ]
