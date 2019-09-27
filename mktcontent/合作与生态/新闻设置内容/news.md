@@ -1430,5 +1430,13 @@
 		"jss_key":"News_Content_657",
 		"id":657,
 		"news_title":"京东云携手 Convertlab 联合发布全链路营销罗盘"
+	},
+	{
+		"summary":"近日，全球权威咨询与研究机构Forrester 发布《Blockchain Is Establishing Digital Ecosystem In Asia Pacific》（以下简称“该报告”）报告。京东云联合京东数科及其他5家合作伙伴共同提供的中信证券9号白条产品解决方案案例入选该报告。",
+		"image_url":"//img1.jcloudcs.com/cms/765eb8b4-3648-4872-b5f3-569f7622e3b520190927161907.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_658",
+		"jss_key":"News_Content_658",
+		"id":658,
+		"news_title":"双喜临门！京东云Blockchain、Computer Vision能力获国际权威研究机构"
 	}
 ]
