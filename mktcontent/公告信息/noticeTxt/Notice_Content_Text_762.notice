@@ -1,0 +1,80 @@
+<p style="margin-top:27px;text-indent:28px;line-height:32px"><span style="font-size: 14px;"><span style="font-family: 宋体;">近日，</span>
+<span style="font-family: 宋体;"><span style="font-family: 宋体;">知名</span>
+PHP<span style="font-family: 宋体;">调试环境的程序集成包 </span>
+<span style="font-family: Calibri;">Phpstudy </span>
+<span style="font-family: 宋体;">被爆 </span>
+<span style="font-family: Calibri;">php_xmlrpc.dll </span>
+<span style="font-family: 宋体;">模块存在隐藏后门，攻击者可利用该后门控制服务器。为避免您的业务受影响，</span>
+</span>
+<span style="font-family: 宋体;">京东云安全团队</span>
+<span style="font-family: 宋体;">建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被</span>
+<span style="font-family: 宋体;">恶意攻击</span>
+<span style="font-family: 宋体;">。</span>
+</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-family: Calibri; font-size: 14px;">&nbsp;</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-size: 14px;"><strong><span style="font-size: 14px; font-family: 宋体;">【</span>
+</strong><strong><span style="font-size: 14px; font-family: 宋体;">漏洞描述</span>
+</strong><strong><span style="font-size: 14px; font-family: 宋体;">】</span>
+</strong></span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-family: 宋体; font-size: 14px;">PhpStudy软件是国内的一款免费的<span style="font-size: 14px; font-family: Calibri;">PHP</span>
+调试环境的程序集成包。近日，该环境集成程序包被公告疑似遭遇黑客攻击，程序包自带的<span style="font-size: 14px; font-family: Calibri;">\ext\php_xmlrpc.dll</span>
+模块被植入隐藏后门，攻击者可利用后门通道远程执行恶意脚本，非法获取用户数据。</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-size: 14px;"><strong><span style="font-size: 14px; font-family: 宋体;">【风险等级】</span>
+</strong></span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-family: Calibri; font-size: 14px;">高风险</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-size: 14px;"><strong><span style="font-size: 14px; font-family: 宋体;">【</span>
+</strong><strong><span style="font-size: 14px; font-family: 宋体;">影响版本</span>
+</strong><strong><span style="font-size: 14px; font-family: 宋体;">】</span>
+</strong></span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-family: 宋体; font-size: 14px;">Phpstudy 2016版 <span style="font-size: 14px; font-family: Calibri;">php-5.4</span>
+</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-family: 宋体; font-size: 14px;">Phpstudy 2018版 <span style="font-size: 14px; font-family: Calibri;">php-5.2.17</span>
+</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-family: 宋体; font-size: 14px;">Phpstudy 2018版 <span style="font-size: 14px; font-family: Calibri;">php-5.4.45</span>
+</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-size: 14px;"><span style="font-family: Calibri; font-size: 19px;">(</span>
+<span style="font-family: 宋体; font-size: 19px;"><span style="font-size: 14px; font-family: 宋体;">用户可进入</span>
+PhpStudy<span style="font-size: 14px; font-family: 宋体;">目录，通过检查 </span>
+<span style="font-size: 14px; font-family: Calibri;">php_xm lrpc.dll </span>
+<span style="font-size: 14px; font-family: 宋体;">文件中是否包含“</span>
+<span style="font-size: 14px; font-family: Calibri;">eval</span>
+<span style="font-size: 14px; font-family: 宋体;">”关键字判断是否是存在后门的版本，可直接打开文件或使用</span>
+<span style="font-size: 14px; font-family: Calibri;">findstr</span>
+<span style="font-size: 14px; font-family: 宋体;">命令进行查找：</span>
+</span>
+<span style="font-family: Calibri; font-size: 19px;">findstr /m /s /c:&quot;eval&quot; *.*)</span>
+</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-family: Calibri; font-size: 14px;">【修复建议】</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-family: 宋体; font-size: 14px;">1、删除受影响版本，如还需使用请下载官网最新版本（官网已于<span style="font-size: 14px; font-family: Calibri;">2019</span>
+年<span style="font-size: 14px; font-family: Calibri;">1</span>
+月针对后门进行修复，新版本不受影响）</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-size: 14px;"><span style="font-family: 宋体; font-size: 19px;">2<span style="font-size: 14px; font-family: 宋体;">、如使用了存在后门的</span>
+</span>
+<span style="font-family: Calibri; font-size: 19px;">Phpstudy</span>
+<span style="font-size: 14px; font-family: 宋体;">，请及时修改所有密码，避免因为密码泄露，导致二次入侵。</span>
+</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-family: Calibri; font-size: 14px;">【参考链接】</span>
+</p>
+<p style="margin-top:27px;line-height:32px"><span style="font-family: 宋体; font-size: 14px;">1、官方地址：</span>
+<a href="https://www.xp.cn/" style="font-family: &quot;Helvetica Neue&quot;; color: rgb(98, 147, 226); background: rgb(255, 255, 255); text-decoration: underline; font-size: 14px;"><span style="font-family: &quot;Helvetica Neue&quot;; color: rgb(98, 147, 226); background: rgb(255, 255, 255); text-decoration: underline; font-size: 14px;">https://www.xp.cn/</span>
+</a></p>
+<p style="margin-top:27px;line-height:32px"><span style="font-size: 14px;"><span style="font-family: 宋体; font-size: 19px;">2<span style="font-size: 14px; font-family: 宋体;">、媒体报道：</span>
+</span>
+<span style="font-family: Calibri; font-size: 19px;">https://new.qq.com/rain/a/20190920A0OXOG00</span>
+</span>
+</p>
+<p><br/></p>
