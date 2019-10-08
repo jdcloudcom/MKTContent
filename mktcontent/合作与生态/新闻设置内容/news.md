@@ -1425,7 +1425,7 @@
 	},
 	{
 		"summary":"京东云携手 Convertlab 联合发布全链路营销罗盘，为企业搭建公私域流量池，实现业务驱动增长的精细化运营。",
-		"image_url":"//img1.jcloudcs.com/cms/dc01c7d5-995f-4e15-9742-44eddcb32b3720190926181000.jpg",
+		"image_url":"//img1.jcloudcs.com/cms/e435a7ca-0b53-460b-aa02-494aa9fc190d20191008183200.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_657",
 		"jss_key":"News_Content_657",
 		"id":657,
