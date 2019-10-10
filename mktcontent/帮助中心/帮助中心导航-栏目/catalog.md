@@ -1279,7 +1279,7 @@
 	},
 	{
 		"summary":"",
-		"name":"AIDC",
+		"name":"智能IDC",
 		"id":3236
 	},
 	{
