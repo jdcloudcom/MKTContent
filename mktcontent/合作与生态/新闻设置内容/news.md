@@ -1437,6 +1437,6 @@
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_658",
 		"jss_key":"News_Content_658",
 		"id":658,
-		"news_title":"双喜临门！京东云Blockchain、Computer Vision能力获国际权威研究机构"
+		"news_title":"京东云Blockchain、Computer Vision能力获国际权威研究机构认可"
 	}
 ]
