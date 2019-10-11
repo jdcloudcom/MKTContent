@@ -1438,5 +1438,13 @@
 		"jss_key":"News_Content_658",
 		"id":658,
 		"news_title":"京东云Blockchain、Computer Vision能力获国际权威研究机构认可"
+	},
+	{
+		"summary":"10月10日，吉林（中国-新加坡）食品区管理委员会与京东共建“互联网+”数字经济合作项目签约仪式在京东集团总部成功举行。",
+		"image_url":"//img1.jcloudcs.com/cms/3cb57534-6756-451d-9ef9-c00f3972d85d20191011181739.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_659",
+		"jss_key":"News_Content_659",
+		"id":659,
+		"news_title":"京东与吉林（中国-新加坡）食品区管理委员会在京成功签约"
 	}
 ]
