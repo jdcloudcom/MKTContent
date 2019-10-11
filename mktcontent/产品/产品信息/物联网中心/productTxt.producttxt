@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"物联网中心\",\"label\":[{\"TitleName\":\"立即申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/iothub\"}],\"desc\":\"物联网中心通过设备连接通信功能，帮助用户将设备数据采集上云；平台提供设备管理功能帮助用户远程管理、控制设备；平台通过规则引擎提供接口将设备数据转发、存储到其他京东云服务，帮助用户集成应用。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/007b0018-4000-40e2-9476-9ab515abe68620181115165625.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|77\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|77\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"物联网中心\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"https://iot-console.jdcloud.com/hub\"}],\"desc\":\"物联网中心通过设备连接通信功能，帮助用户将设备数据采集上云；平台提供设备管理功能帮助用户远程管理、控制设备；平台通过规则引擎提供接口将设备数据转发、存储到其他京东云服务，帮助用户集成应用。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/007b0018-4000-40e2-9476-9ab515abe68620181115165625.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|77\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|77\"}",
 		"id":211
 	},
 	{
@@ -12,11 +12,11 @@
 		"id":213
 	},
 	{
-		"txt":"[{\"name\":\"物联网中心是什么类型的公有云服务？\",\"link\":\"https://docs.jdcloud.com/iot-hub/faq\",\"classTag\":\"\"},{\"name\":\"物联网中心的规则引擎支持对接哪些京东云的服务？\",\"link\":\"https://docs.jdcloud.com/iot-hub/faq\",\"classTag\":\"\"},{\"name\":\"物联网中心介绍\",\"link\":\"https://docs.jdcloud.com/iot-hub/product-overview\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"Device SDK开发指南\",\"link\":\"https://docs.jdcloud.com/iot-core/introduction\",\"classTag\":\"\"},{\"name\":\"Device SDK开发包下载\",\"link\":\"https://docs.jdcloud.com/iot-core/device-sdk-download-link\",\"classTag\":\"\"},{\"name\":\"Device SDK设备快速接入\",\"link\":\"https://docs.jdcloud.com/iot-core/deviceeasylink\",\"classTag\":\"\"},{\"name\":\"物联网中心介绍\",\"link\":\"https://docs.jdcloud.com/iot-hub/product-overview\",\"classTag\":\"\"},{\"name\":\"物联网中心价格总览\",\"link\":\"https://docs.jdcloud.com/iot-hub/price-overview\",\"classTag\":\"\"},{\"name\":\"如何快速创建设备与产品\",\"link\":\"https://docs.jdcloud.com/iot-hub/create-product\",\"classTag\":\"\"},{\"name\":\"如何进行设备鉴权\",\"link\":\"https://docs.jdcloud.com/iot-hub/authenticatedevices\",\"classTag\":\"\"},{\"name\":\"如何进行设备Topic的订阅与发布\",\"link\":\"https://docs.jdcloud.com/iot-hub/subpub\",\"classTag\":\"\"}]",
 		"id":988
 	},
 	{
-		"txt":"[{\"name\":\"设备数据上云\",\"instruction\":\"设备数据上云之后，客户可以配置物联网中心的规则引擎，将设备数据存储到存储服务中，例如数据库RDS实例，或者ES实例；最终客户可以整合自己的应用，比如机器学习、AI应用，实现智能设备管理、预见性维修等业务目标。 \",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云数据库 MySQL\",\"url\":\"//www.jdcloud.com/products/jcs-for-mysql\"},{\"name\":\"消息队列 JCQ\",\"url\":\"//www.jdcloud.com/products/message-queue\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"设备数据上云\",\"instruction\":\"设备数据上云之后，客户可以配置物联网中心的规则引擎，将设备数据存储到存储服务中，例如数据库RDS实例，或者ES实例；最终客户可以整合自己的应用，比如机器学习、AI应用，实现智能设备管理、预见性维修等业务目标。 \",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云数据库 MySQL\",\"url\":\"//www.jdcloud.com/products/jcs-for-mysql\"},{\"name\":\"消息队列 JCQ\",\"url\":\"//www.jdcloud.com/products/message-queue\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9bf6a48f-7973-43f8-b9cd-76c3bd8ee27520191011142654.png\",\"showShade\":false}]",
 		"id":989
 	}
 ]
