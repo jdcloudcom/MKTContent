@@ -14,5 +14,9 @@
 	{
 		"txt":"[{\"name\":\"制作透明底素材\",\"instruction\":\"不论是自己拍摄还是从网上寻找素材，都需要进行一定的处理，才可以使用到图片设计当中。使用智能抠图功能，可以轻松快捷地将图片主体与背景分离，生成透明底图片。生成速度快，成功率高，无需人工干预。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/04f527d1-c400-4e10-95bd-ea009679f45320190927191337.png\",\"showShade\":false},{\"name\":\"定制图片/美化图片\",\"instruction\":\"针对特定场景进行图片优化，需根据业务情况更换背景、强调重点、区分层级，可通过智能抠图服务将图片主体与背景分离，由机器批量快速地完成原始素材的处理。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2d7f2217-1853-45b6-af48-34c2a989212c20190927191426.png\",\"showShade\":false}]",
 		"id":1431
+	},
+	{
+		"txt":"{\"opraUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/951851e8-0838-421c-b79c-ef44120b3f3620191012201145.png\",\"opraWebUrl\":\"\",\"operatingClasstag\":\"\",\"position\":\"2\"}",
+		"id":1484
 	}
 ]
