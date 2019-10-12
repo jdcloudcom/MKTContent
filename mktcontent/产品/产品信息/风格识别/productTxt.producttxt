@@ -14,5 +14,9 @@
 	{
 		"txt":"[{\"name\":\"智能管理\",\"instruction\":\"可应用于图片的智能读取及标签化分类，轻松实现批量智能管理，无需进行人工分类。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7311c5e9-0d64-448b-80a1-f99aeee63e0520190927191155.png\",\"showShade\":false},{\"name\":\"个性化推送\",\"instruction\":\"基于风格识别结果，可应用于判断用户的风格取向，为图片添加标签，实现更精准的个性化内容推荐。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/6414e570-e50d-4fe5-913e-a9a5919f5f8120190927191231.png\",\"showShade\":false}]",
 		"id":1439
+	},
+	{
+		"txt":"{\"opraUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c8e74390-243e-41f8-9953-9f0a253ca32420191012200236.png\",\"opraWebUrl\":\"\",\"operatingClasstag\":\"\",\"position\":\"2\"}",
+		"id":1482
 	}
 ]
