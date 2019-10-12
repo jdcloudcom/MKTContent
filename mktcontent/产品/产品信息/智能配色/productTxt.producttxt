@@ -14,5 +14,9 @@
 	{
 		"txt":"[{\"name\":\"图片设计\",\"instruction\":\"一张图片可延展出丰富的配色结果，用户可根据图片要传递的内容，挑选最恰当的配色结果。无需人工试色，直观感受不同配色效果，辅助决策，选出最优结果。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/59792c16-f05f-42d7-a396-161b98456c8920190927191538.png\",\"showShade\":false},{\"name\":\"设计方案配色统一\",\"instruction\":\"智能配色功能可完美划分填色区域，支持自定义图片配色，可满足用户对图片进行特定颜色的批量调整，以使所有图片配色统一。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0c1e83e4-f660-437b-80a2-efda80702e4120190927191703.png\",\"showShade\":false}]",
 		"id":1435
+	},
+	{
+		"txt":"{\"opraUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3d508eea-7c21-4909-96e4-afe6b3d4e6e620191012200846.png\",\"opraWebUrl\":\"\",\"operatingClasstag\":\"\",\"position\":\"2\"}",
+		"id":1483
 	}
 ]
