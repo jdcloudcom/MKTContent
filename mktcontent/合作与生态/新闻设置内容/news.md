@@ -1446,5 +1446,13 @@
 		"jss_key":"News_Content_659",
 		"id":659,
 		"news_title":"京东与吉林（中国-新加坡）食品区管理委员会在京成功签约"
+	},
+	{
+		"summary":"10月12日-10月14日，在青岛举办的第77届中国教育装备展示会上，共计1100余家参展企业展示了超过20000件教育装备产品，其中，VR、AR和MR类产品数量不仅较往届有了明显增加，同时更有像京东这样的互联网巨头旗下教育产品参展。行业人士认为，互联网时代下新技术与教育领域的深度融合已势不可挡地成为教学应用的主流。",
+		"image_url":"//img1.jcloudcs.com/cms/186afd84-5ef3-43ff-8b43-5ece864260c420191014154724.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_660",
+		"jss_key":"News_Content_660",
+		"id":660,
+		"news_title":"Minecraft我的世界教育版 点亮教育信息化2.0三大关键词"
 	}
 ]
