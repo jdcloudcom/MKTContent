@@ -1,0 +1,32 @@
+<p style="text-indent:28px"><span style="font-family: 微软雅黑; font-size: 12px;">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-family: 微软雅黑; font-size: 12px;">近日，京东云安全团队检测到Sudo软件被披露存在提权漏洞。在Sudo配置不当的情况下，本地攻击者通过构造特殊命令，可以绕过Sudo限制以root身份在服务器上执行任意命令，为避免您的业务受影响，建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被外部攻击者入侵。</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">【漏洞描述】</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-family: 微软雅黑; font-size: 12px;">Linux sudo是Linux下常用的允许普通用户使用超级用户权限的工具，允许系统管理员让普通用户执行一些或者全部的root命令。</span>
+</span>
+</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-family: 微软雅黑; font-size: 12px;">当 /etc/sudoers 文件中存在 *=(ALL, *) 形式的配置时，本地攻击者可以以root权限在服务器上执行命令（默认sudo配置文件不受影响）</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">【漏洞评级】</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CVE-2019-14287 </span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">【影响版本】</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sudo &lt; 1.8.28</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">【修复建议】</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1. 升级Sudo版本到 1.8.28</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2. 检查 /etc/sudoers 是否存在配置错误</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp;【备注】：建议您在升级新版本前做好灰度验证工作，避免出现意外。</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">【相关链接】</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;https://www.sudo.ws/alerts/minus_1_uid.html</span>
+</p>
+<p><br/></p>
