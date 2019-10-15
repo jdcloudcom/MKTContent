@@ -12,7 +12,7 @@
 -<span style="font-family: 宋体">广州】四个地域进行云主机和云硬盘“创建”及“调整配置”功能的升级。影响如下：</span>
 </span>
 </p>
-<p class="MsoListParagraph" style="margin-left: 28px"><span style="font-family: &quot;Times New Roman&quot;; font-size: 9px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">1）&nbsp;</span>
+<p class="MsoListParagraph" style="margin-left: 28px"><span style="font-family: &quot;Times New Roman&quot;; font-size: 9px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">1）</span>
 <span style="font-family: 宋体; font-size: 12px;">云主机控制台所有地域不可进行“创建”和“调整配置”操作，暂停对应的</span>
 <span style="font-family:微软雅黑, Microsoft YaHei"><span style="font-size: 12px;">OpenAPI</span>
 </span>
@@ -20,7 +20,7 @@
 </p>
 <p class="MsoListParagraph" style="margin-left: 28px"><span style="font-size: 12px;font-family: 微软雅黑, &#39;Microsoft YaHei&#39;"><span style="font-family: Wingdings"><span style="font-variant-numeric: normal;font-variant-east-asian: normal;font-stretch: normal;font-size: 9px;line-height: normal;font-family: &#39;Times New Roman&#39;">2）</span>
 </span>
-<span style="font-family: 宋体">云硬盘控制台所有地域列表页、详情页暂停服务，不可进行“创建”和“调整配置”操作，暂停对应的</span>
+<span style="font-family: 宋体">云硬盘控制台所有地域不可进行“创建”和“修改云硬盘”操作，暂停对应的</span>
 OpenAPI<span style="font-family: 宋体">接口服务。</span>
 </span>
 </p>
