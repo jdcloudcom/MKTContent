@@ -12,7 +12,7 @@
 		"id":1438
 	},
 	{
-		"txt":"[{\"name\":\"Intelligent Management\",\"instruction\":\"Be applicable to intelligent reading and tag classification for images, easily realize intelligent management in batches and require no classification by hand.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7311c5e9-0d64-448b-80a1-f99aeee63e0520190927191155.png\",\"showShade\":false},{\"name\":\"Individual Pushing\",\"instruction\":\"Based on Image Style Classification results, it is used to determine user’s style orientation, add tags to images and realize more precise individual content push.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/6414e570-e50d-4fe5-913e-a9a5919f5f8120190927191231.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"Intelligent Management\",\"instruction\":\"Be applicable to intelligent reading and tag classification for images, easily realize intelligent management in batches and require no classification by hand.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Individual Pushing\",\"instruction\":\"Based on Image Style Classification results, it is used to determine user’s style orientation, add tags to images and realize more precise individual content push.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":1439
 	}
 ]

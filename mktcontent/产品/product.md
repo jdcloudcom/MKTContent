@@ -316,10 +316,6 @@
 		"id":1176
 	},
 	{
-		"name":"Text Message",
-		"id":1177
-	},
-	{
 		"name":"Audit Trail",
 		"id":1181
 	},
@@ -526,10 +522,6 @@
 	{
 		"name":"Rich Media SMS",
 		"id":1267
-	},
-	{
-		"name":"IoT Card Service",
-		"id":1268
 	},
 	{
 		"name":"Edge Physical Computing Service",

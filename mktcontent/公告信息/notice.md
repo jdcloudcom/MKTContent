@@ -562,33 +562,5 @@
 	{
 		"id":753,
 		"title":"JD Cloud 2019 Mid-Autumn Festival Service Announcement"
-	},
-	{
-		"id":754,
-		"title":"Login Service Update from 19:00 to 20:00 on September 19"
-	},
-	{
-		"id":755,
-		"title":"Notice of IAM Service Suspension at 22:00 on September 19"
-	},
-	{
-		"id":756,
-		"title":"Notice of Cloud Network Service Suspension at 22:00 on September 19"
-	},
-	{
-		"id":757,
-		"title":"\\[cn-east-2\\] Service Suspension Notice of Cloud Disk Service, Virtual Machines, Native Container, POD Console and OpenAPI and VPC Console and OpenAPI in \\[cn-east-2\\] and \\[cn-south-1\\] at 21:00 on September 24"
-	},
-	{
-		"id":758,
-		"title":"Official Launch of JD Cloud API Gateway"
-	},
-	{
-		"id":761,
-		"title":"JD Cloud 2019 National Day Holiday Service Announcement"
-	},
-	{
-		"id":762,
-		"title":"\\[Security Warning\\] PHP Debugging Environment Integrated Package Phpstudy Backdoor High Risk Warning"
 	}
 ]
