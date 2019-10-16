@@ -1,0 +1,23 @@
+<p>To provide you with more convenient, more accurate and more user-friendly sub-user permission control for Virtual Machines, Cloud Image, VPC and Public IP Console, JD Cloud is intended to pause IAM service from 22:00 on September 19, 2019 to 06:00 on September 20, 2019. By that time:</p>
+<p>the following service for IAM will be unavailable.</p>
+<p>-<span style="white-space:pre">	</span>
+User Management
+</p>
+<p>-<span style="white-space:pre">	</span>
+User Group Management
+</p>
+<p>-<span style="white-space:pre">	</span>
+Policy Management
+</p>
+<p>-<span style="white-space:pre">	</span>
+Role Management
+</p>
+<p>-<span style="white-space:pre">	</span>
+Password Policy Setting
+</p>
+<p>When a sub-user accesses the Virtual Machines, Cloud Image, VPC and Public IP service, the sub-user’s request may be delayed when it is judged by with IAM permission.</p>
+<p><br/></p>
+<p>This launch neither affects use for sub-user and role Console nor affects your normal business.</p>
+<p><br/></p>
+<p>If you have relevant questions during the launching, please contact JD Cloud customer service personnel at any time (phone number: 4006151212). Thank you for your support to JD Cloud.</p>
+<p><br/></p>

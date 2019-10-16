@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Text Message\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://sms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"Text Message is a short message service provided for users by JD Cloud, supporting rapid SMS verification code and SMS notification in China with the arrival rate up to 99% and perfectly supporting SMS demands required by the 618 Shopping Festival and the 11.11 Shopping Festival\"}",
+		"id":767
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High Working Efficiency\",\"proName\":\"Messages are processed through a built-in thread pool. With the method of multiple messages and multiple events, a large number of messages can be processed in parallel.\"},{\"showShade\":false,\"proGood\":\"Message Buildup Processing\",\"proName\":\"Realize peak-load shaving for SMS task request pressure via a queue, lowering the peak-value pressure of the system\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"High Stability\",\"proName\":\"Long-time stable work is available with little maintenance. Specific monitoring program is also provided, keeping the system stable and providing long-term and stable operation.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Easy Development\",\"proName\":\"Set up no message service system by yourself and provide multi-language and maintenance-free SDK\"}]",
+		"id":768
+	},
+	{
+		"txt":"[{\"funcName\":\"Intelligent Scheduling\",\"funcContent\":[{\"funcTitle\":\"Dynamic Channel Assignment\",\"funcP\":\"Serving as the dedicated channel service of multiple operators, the intelligent scheduling algorithm can easily cope with business peak; deployed by operators in different regions, the disaster recovery is guaranteed.\"}]},{\"funcName\":\"Comprehensive Monitoring, Multidimensional Statistics\",\"funcContent\":[{\"funcTitle\":\"Real-time Data Statistics\",\"funcP\":\"The SMS cloud background creates multi-tasks by means of creating applications by user. You can view the number of requests, the amount of transmission, the remaining amount, the success and failure amount and other statistics data of SMS under the application, so that the customers can grasp the SMS transmission status in real time\"}]}]",
+		"id":769
+	},
+	{
+		"txt":"[{\"name\":\"Systematic Notification\",\"instruction\":\"JD Cloud Text Message service can be applied for life services notifications covering mobile payment, on-line shopping, credit card payment, account login, exception login, order confirmation, consumption notification, logistics dynamics, traffic violation, travel, etc., and support high capacity and high concurrency, guaranteeing security.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":770
+	}
+]
