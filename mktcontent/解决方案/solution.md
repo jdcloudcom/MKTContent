@@ -68,28 +68,12 @@
 		"id":34
 	},
 	{
-		"name":"E-commerce Solutions for Bulk Commodities",
-		"id":35
-	},
-	{
 		"name":"E-commerce Solutions for Enterprise Procurement",
 		"id":36
 	},
 	{
-		"name":"E-commerce Solutions for Channel Distribution",
-		"id":37
-	},
-	{
-		"name":"Unbounded Retail E-commerce Solutions",
-		"id":38
-	},
-	{
 		"name":"Cross-border e-commerce Solution",
 		"id":39
-	},
-	{
-		"name":"Cross-border e-commerce Solution",
-		"id":40
 	},
 	{
 		"name":"Bonus Points E-commerce Solution",
@@ -214,5 +198,17 @@
 	{
 		"name":"EMOP (Enterprise Mobile Develop Platform)",
 		"id":151
+	},
+	{
+		"name":"JD Cloud Intelligent Recommendation",
+		"id":155
+	},
+	{
+		"name":"High Performance Solutions for Systems",
+		"id":157
+	},
+	{
+		"name":"Private Cloud Cabinet Service-V",
+		"id":158
 	}
 ]

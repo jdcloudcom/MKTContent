@@ -1,0 +1,32 @@
+<p>To provide you with more convenient, more accurate and more user-friendly permission control for sub-users’ operations as for Virtual Machines, VPC related network products, Cloud Image, Availability Group and Console, JD Cloud is intended to pause service for VPC related network products from 22:00 on September 19, 2019 to 06:00 on September 20, 2019. By that time, the followings will be affected:</p>
+<p>The following Console service of related VPC network products will be unavailable for all users of the primary accounts and sub-accounts:</p>
+<p>-<span style="white-space:pre">	</span>
+Virtual Private Cloud (VPC)
+</p>
+<p>-<span style="white-space:pre">	</span>
+Subnet
+</p>
+<p>-<span style="white-space:pre">	</span>
+Route Table
+</p>
+<p>-<span style="white-space:pre">	</span>
+Network ACL
+</p>
+<p>-<span style="white-space:pre">	</span>
+Elastic Network Interface
+</p>
+<p>-<span style="white-space:pre">	</span>
+Security Group
+</p>
+<p>-<span style="white-space:pre">	</span>
+Elastic IP
+</p>
+<p>-<span style="white-space:pre">	</span>
+VPC Peering Connection
+</p>
+<p>When a sub-user accesses the Virtual Machines, Cloud Image and Availability Group, the sub-user’s request may be delayed when it is judged by with IAM permission.</p>
+<p><br/></p>
+<p>This launch neither affects use of deployed functions of relevant network products such as Virtual Machines, Cloud Image, Availability Group and VPC nor affects your normal business</p>
+<p><br/></p>
+<p>If you have relevant questions during the launching, please contact JD Cloud customer service personnel at any time (phone number: 4006151212). Thank you for your support to JD Cloud.</p>
+<p><br/></p>

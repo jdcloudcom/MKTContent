@@ -1334,5 +1334,93 @@
 		"jss_key":"News_Content_642",
 		"id":642,
 		"news_title":"Products of JD Cloud Marketing Cloud were launched on the official website to provide users with full-link marketing services"
+	},
+	{
+		"summary":"Main activities of Network Security Publicity Week included the Opening Ceremony, Network Security Expo, Network Security Technology Summit Forum, Closing Ceremony, and so on. Nearly 1,000 people, including the heads of network security of domestic and overseas leading and emerging enterprises in the network security industry, well-known experts in the field of information security fields, academic leaders from domestic and overseas well-known institutions attended the Opening Ceremony. JD Cloud attended the Network Security Technology Summit Forum as the representative of cloud manufacturers and gave a keynote speech.",
+		"image_url":"//img1.jcloudcs.com/cms/2912cb29-683c-4ba6-86aa-89be09ed289320190917172237.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_643",
+		"jss_key":"News_Content_643",
+		"id":643,
+		"news_title":"Strengthen Security Defense and Jointly Build Network Security: JD Cloud attended the National Network Security Publicity Week for 2019"
+	},
+	{
+		"summary":"JD Cloud released the JD Cloud Proprietary Cloud Security White Paper, introduced the Proprietary Cloud Security System of JD Cloud based on security compliance, privacy protection, security rights and responsibilities, security architecture of Proprietary Cloud, security products of Proprietary Cloud and security product services of Proprietary Cloud to give the best security practices under multiple customer application scenarios of JD Cloud. It aimed at providing the government and enterprise customers with full stack cloud platforms of large-scale commercialization to help government and enterprise customers build new generation of secure and reliable Proprietary Cloud platforms to speed up digital transformation.",
+		"image_url":"//img1.jcloudcs.com/cms/c7de118f-d7be-4af8-a1d0-6d730e18d4db20190918182924.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_644",
+		"jss_key":"News_Content_644",
+		"id":644,
+		"news_title":"Release of JD Cloud Proprietary Cloud Security White Paper assisted customers in building a reliable Proprietary Cloud platform"
+	},
+	{
+		"summary":"The authoritative research organization iResearch Consulting released the Insight into the Development of Basic Cloud Service Industry in China. The report made an inventory of the competitive pattern of public cloud market in 2018. By virtue of rapidly growing revenues from cloud services, JD Cloud ranked in the top ten in the ranking of overall IaaS market share of China's public cloud in 2018 and won the recognition from analysts.",
+		"image_url":"//img1.jcloudcs.com/cms/52804432-6358-4986-891d-a49d084e076020190919161556.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_645",
+		"jss_key":"News_Content_645",
+		"id":645,
+		"news_title":"iResearch’s Insight into the Development of Basic Cloud Service Industry in China showed: JD Cloud ranked top 10 in China’s public cloud market in 2018"
+	},
+	{
+		"summary":"The establishment of Intelligent Media Research Institute of People's Daily was announced. At the time of establishment of the Research Institute, the new media of People's Daily also launched 5 new projects: People's Daily client version 7.0 embodying the mainstream algorithm, \"People's Daily+\" short video client, convergence media innovative product research and incubation project, artificial intelligence media lab and wholly media intelligence cloud. In which, JD Cloud assisted People’s Daily in building the wholly media transmission layout.",
+		"image_url":"//img1.jcloudcs.com/cms/3d46b07c-398b-46dc-a989-15f77838134120190920150642.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_646",
+		"jss_key":"News_Content_646",
+		"id":646,
+		"news_title":"JD Cloud assisted People’s Daily in building the intelligent wholly media"
+	},
+	{
+		"summary":"JD Group and Datong successfully joined hands to open the prelude of in-depth cooperation between JD and Datong. The Parties will be committed to promoting the construction of cloud computing big data industrial base, modern commercial logistics base, e-commerce industrial park and other projects and plan to continue the in-depth cooperation in robot manufacturing and artificial intelligence in the future.",
+		"image_url":"//img1.jcloudcs.com/cms/7fd0f09a-d38c-4349-8652-42c1ec1a030120190920162810.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_647",
+		"jss_key":"News_Content_647",
+		"id":647,
+		"news_title":"JD Cloud in the could - JD landed in Datong to assist in the transformation of the coal city"
+	},
+	{
+		"summary":"JD joined hands with Microsoft to establish international teaching and research teams in China, the United States and the United Kingdom and carry out in-depth customization according to the needs of China’s education and create innovative education ecological curriculum in China - Minecraft: Education Edition for cultivating future talents.",
+		"image_url":"//img1.jcloudcs.com/cms/60aba855-6d2a-46a6-ac5b-db0e94def3dd20190923163133.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_648",
+		"jss_key":"News_Content_648",
+		"id":648,
+		"news_title":"Minecraft: Education Edition would assist the education development by focusing on adolescence programming"
+	},
+	{
+		"summary":"The Best Practices Sharing Conference of \"JD Cloud Marketplace\" was successfully held at China National Convention Center. JD Cloud and nearly 100 application agents, IT service provider partners gathered at the National Convention Center to exchange experience and achievements in digital transformation, share the experience and best practices of service providers in using JD Cloud and Cabinet Services in the business field.",
+		"image_url":"//img1.jcloudcs.com/cms/e848d117-5558-4bd6-a6bb-e91d9b003b9520190923175633.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_649",
+		"jss_key":"News_Content_649",
+		"id":649,
+		"news_title":"By promoting Enterprise Application deployment on cloud, JD Cloud assisted the application agent in achieving digital transformation"
+	},
+	{
+		"summary":"On September 24, iResearch released the China Marketing Cloud Market Research Report for 2019 (hereinafter referred to as \"the Report\"). The Report pointed out that, as the important subecology of JD Cloud, JD Cloud Marketing Cloud has performed excellently in data analysis, CRM/SCRM, comprehensive service (provider), platform service (provider) and other aspects by relying on JD Group's years of in-depth experience and technology accumulation in the field of e-commerce.",
+		"image_url":"//img1.jcloudcs.com/cms/a4a1abb4-7160-4ea2-b979-85e0f5aeb06220190925164811.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_655",
+		"jss_key":"News_Content_655",
+		"id":655,
+		"news_title":"iResearch: JD Cloud Full-link Marketing Cloud assisted the customer in maximizing the marketing effects"
+	},
+	{
+		"summary":"On September 25, 2019, Qin Rupei, Member of the Standing Committee of the Party Committee of Guangxi Zhuang Autonomous Region and Executive Vice President of the Autonomous Region led a delegation to visit JD Cloud Beihai Branch for visit and investigation. This investigation aimed at learning the basic situation of JD Cloud and its biosphere industry settling in Beihai, feeling the unique industrial advantages and business environment of Beihai, and jointly discussing the transformation and upgrading of regional industry and the new development model of digital economy.",
+		"image_url":"//img1.jcloudcs.com/cms/4caae5a1-ce7f-45f0-8c39-c9abb0cfb2fc20190926140937.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_656",
+		"jss_key":"News_Content_656",
+		"id":656,
+		"news_title":"The leader of Guangxi Provincial Government came to JD Cloud Beihai Branch for investigation to seek new development of regional digital economy"
+	},
+	{
+		"summary":"JD Cloud joined hands with Convertlab to jointly release the full-link marketing compass, build public and private domain traffic pool for enterprises, and realize the refined operation of business-driven growth.",
+		"image_url":"//img1.jcloudcs.com/cms/e435a7ca-0b53-460b-aa02-494aa9fc190d20191008183200.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_657",
+		"jss_key":"News_Content_657",
+		"id":657,
+		"news_title":"JD Cloud joined hands with Convertlab to jointly release the full-link marketing compass"
+	},
+	{
+		"summary":"Recently, the global leading consulting and research organization, Forrester released Blockchain Is Establishing Digital Ecosystem In Asia Pacific Report hereinafter referred to as \"the Report\"). The Citic Securities No.9 White Note Product Solution provided by JD Cloud jointly with JD Digits and other 5 partners was selected into the Report.",
+		"image_url":"//img1.jcloudcs.com/cms/765eb8b4-3648-4872-b5f3-569f7622e3b520190927161907.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_658",
+		"jss_key":"News_Content_658",
+		"id":658,
+		"news_title":"Two happy events came one after the other Blockchain, Computer Vision capabilities of JD Cloud won the recognition from international authoritative research institutions"
 	}
 ]

@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"80% off promotion, welcome to use.\",\"explainLink\":\"https://iot-console.jdcloud.com/iot-protocol-adaptor/\",\"classTag\":\"\"}],\"productName\":\"IoT Protocol Adaptor\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://iot-console.jdcloud.com/iot-protocol-adaptor/\",\"classTag\":\"\"}],\"desc\":\"IoT Protocol Adaptor Service  It switches adaptation modules through the built-in non-standard device data encapsulation protocol or communication protocol to help users ingest data to the cloud from existing devices in a quick and low-cost way. The service has built in JT/T-808 (GNSS system for operational vehicles — General specifications for vehicle terminal communication protocol and data format) protocol supports\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"80% off promotion, welcome to use.   \",\"explainLink\":\"https://iot-console.jdcloud.com/iot-protocol-adaptor/\",\"classTag\":\"\"}],\"productName\":\"IoT Protocol Adaptor\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://iot-console.jdcloud.com/iot-protocol-adaptor/\",\"classTag\":\"\"}],\"desc\":\"IoT Protocol Adaptor Service  It switches adaptation modules through the built-in non-standard device data encapsulation protocol or communication protocol to help users ingest data to the cloud from existing devices in a quick and low-cost way. The service has built in JT/T-808 (GNSS system for operational vehicles — General specifications for vehicle terminal communication protocol and data format) protocol supports\"}",
 		"id":996
 	},
 	{
@@ -16,7 +16,7 @@
 		"id":999
 	},
 	{
-		"txt":"[{\"name\":\"What type of public cloud services is the IoT Protocol Adaptor service?\",\"link\":\"https://docs.jdcloud.com/iot-hub-protocol-adaptor/faq\",\"classTag\":\"\"},{\"name\":\"What kind of non-standard protocol has been built in the IoT Protocol Adaptor service?\",\"link\":\"https://docs.jdcloud.com/iot-hub-protocol-adaptor/faq\",\"classTag\":\"\"},{\"name\":\"Can the IoT Protocol Adaptor service be independently run without using the IoT Hub service?\",\"link\":\"https://docs.jdcloud.com/iot-hub-protocol-adaptor/faq\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"What type of public cloud services is the IoT Protocol Adaptor service?\",\"link\":\"https://docs.jdcloud.com/iot-protocol-adaptor/faq\",\"classTag\":\"\"},{\"name\":\"What kind of non-standard protocol has been built in the IoT Protocol Adaptor service?\",\"link\":\"https://docs.jdcloud.com/iot-protocol-adaptor/faq\",\"classTag\":\"\"},{\"name\":\"Can the IoT Protocol Adaptor service be independently run without using the IoT Hub service?\",\"link\":\"https://docs.jdcloud.com/iot-protocol-adaptor/faq\",\"classTag\":\"\"}]",
 		"id":1000
 	}
 ]

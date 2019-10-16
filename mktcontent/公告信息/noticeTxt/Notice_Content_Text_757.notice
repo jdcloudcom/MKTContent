@@ -1,0 +1,33 @@
+<p><span style="font-family: 宋体;"></span>
+</p>
+<p>
+<span style="font-family: 宋体;">
+In order to better meet customer’s high reliability requirements for Block Storage services, JD Cloud plans to maintain Virtual Machines, Cloud Disk Service, Native Container and VPC in the [cn-east-2] region from 21:00:00, September 24, 2019 to 23:59:59 of the same day. At the scheduled time:
+</span>
+</p>
+<p>&nbsp; &nbsp; &nbsp;<span style="font-family:宋体">
+Virtual Machine Console access and OpenAPI service in [cn-east-2] region will be paused while such services in other regions will not be affected;
+</span>
+</p>
+<p>&nbsp; &nbsp; &nbsp;<span style="font-family:宋体">
+Cloud Disk Service console and OpenAPI service in [cn-east-2] region will be paused while such services in other regions will not be affected;
+</span>
+</p>
+<p>&nbsp; &nbsp; &nbsp;<span style="font-family:宋体">
+Native Container Instance, Pod console and OpenAPI service in [cn-east-2] region will be paused while such services in other regions will not be affected;
+</span>
+</p>
+<p><span style="font-family: 宋体;">&nbsp; 
+VPC Console and OpenAPI service in [cn-east-2] and [cn-south-1] will be paused while such services in other regions will not be affected
+</span>
+</p>
+<p><span style="font-family:宋体">
+Running of existing operations in your regions will not be affected by the launch. The Console will be resumed for normal use upon completion of launching.
+</span>
+</p>
+<p><span style="font-family:宋体">
+If you have relevant questions during the launching, please contact JD Cloud customer service personnel at any time (phone number: 4006151212). Thank you for your support to JD Cloud.
+</span>
+</p>
+<p><span style="font-family:宋体"></span>
+</p>
