@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"数据加密服务\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://cloudhsm-console.jdcloud.com/cloudhsm/list\",\"classTag\":\"\"}],\"desc\":\"京东云数据加密服务采用了国家密码局认证的硬件加密机，通过虚拟化技术，帮助用户满足数据安全方面的监管和功能要求，保护云上业务数据的安全性及隐私性。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"数据加密服务\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://cloudhsm-console.jdcloud.com/cloudhsm/list\",\"classTag\":\"\"}],\"desc\":\"京东云数据加密服务采用了国家密码局认证的硬件加密机，通过虚拟化技术，帮助用户满足数据安全方面的监管和功能要求，保护云上业务数据的安全性及隐私性。\"}",
 		"id":915
 	},
 	{
