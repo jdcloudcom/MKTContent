@@ -210,5 +210,9 @@
 	{
 		"name":"Private Cloud Cabinet Service-V",
 		"id":158
+	},
+	{
+		"name":"JD Cloud E-store",
+		"id":159
 	}
 ]

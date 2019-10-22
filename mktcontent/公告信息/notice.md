@@ -590,5 +590,17 @@
 	{
 		"id":762,
 		"title":"\\[Security Warning\\] PHP Debugging Environment Integrated Package Phpstudy Backdoor High Risk Warning"
+	},
+	{
+		"id":763,
+		"title":"Notice About Execution on Supplementary Agreement"
+	},
+	{
+		"id":764,
+		"title":"\\[All Regions\\] October 16, 00:00:00  Virtual Machines and Cloud Disk Service\\[Create\\] and \\[Resize\\] Service Suspension Notice"
+	},
+	{
+		"id":765,
+		"title":"\\[All Regions\\] October 16, 00:00:00  Virtual Machines and Cloud Disk Service\\[Create\\] and \\[Resize\\] Service Suspension Notice"
 	}
 ]

@@ -1421,6 +1421,22 @@
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_658",
 		"jss_key":"News_Content_658",
 		"id":658,
-		"news_title":"Two happy events came one after the other Blockchain, Computer Vision capabilities of JD Cloud won the recognition from international authoritative research institutions"
+		"news_title":"Blockchain, Computer Vision capabilities of JD Cloud won the recognition from international authoritative research institutions"
+	},
+	{
+		"summary":"On October 10, the signing ceremony for \"Internet+\" digital economy cooperation project between Jilin (China-Singapore) Food Zone Management Commission and JD was successfully held at the headquarters of JD Group.",
+		"image_url":"//img1.jcloudcs.com/cms/3cb57534-6756-451d-9ef9-c00f3972d85d20191011181739.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_659",
+		"jss_key":"News_Content_659",
+		"id":659,
+		"news_title":"Successful Signing between JD and Jilin (China-Singapore) Food Zone Management Commission in Beijing"
+	},
+	{
+		"summary":"From October 12 to 14, at the 77th China Educational Equipment Exhibition held in Qingdao, totally 1,100 exhibitors exhibited more than 20,000 educational equipment products, among which, not only the number of VR, AR and MR products increased significantly when compared to that of former sessions, but also educational products of Internet giants such as JD were also exhibited. Industry insiders believe that the deep integration of new technology and education in the Internet era has inevitably become dominant for teaching application.",
+		"image_url":"//img1.jcloudcs.com/cms/186afd84-5ef3-43ff-8b43-5ece864260c420191014154724.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_660",
+		"jss_key":"News_Content_660",
+		"id":660,
+		"news_title":"Minecraft: Education Edition Lit Three Keywords of Education Informatization 2.0"
 	}
 ]

@@ -1,0 +1,36 @@
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px;"></span>
+<span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px;"></span>
+</p>
+<p><span style="font-size: 12px;font-family: 微软雅黑, &#39;Microsoft YaHei&#39;">
+To improve features and user experiences, JD Cloud is planned to upgrade "Create" and "Resize" functions of Virtual Machines and Cloud Disk Service in four regions, including [cn-north-1], [cn-east-2], [cn-east-1] and [cn-south-1] from 00:00:00, October 16, 2019 to 06:00:00&nbsp of the same day. Influences are as follows:
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left: 28px">
+<span style="font-size: 12px;font-family: 微软雅黑, &#39;Microsoft YaHei&#39;">l&nbsp;&nbsp;
+All regions of Virtual Machines Console cannot be "created" and "resized", and corresponding
+API services of OpenAPI will be paused;
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left: 28px">
+<span style="font-size: 12px;font-family: 微软雅黑, &#39;Microsoft YaHei&#39;">
+l&nbsp;&nbsp;
+All region list pages and details of Cloud Disk Service Console cannot be "created" and "resized", and corresponding API services of OpenAPI will be paused.
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left: 28px">
+<span style="font-size: 12px;font-family: 微软雅黑, &#39;Microsoft YaHei&#39;">
+l&nbsp;&nbsp;
+During upgrade, unpaid orders about Cloud Disk Service and Virtual Machines in the above all regions will be automatically cancelled.
+</span>
+</p>
+<p><span style="font-size: 12px;font-family: 微软雅黑, &#39;Microsoft YaHei&#39;">
+Operation of existing operations in all of your regions will not be affected by the function upgrade. After completion of release, relevant functions of the Console and corresponding APIs of OpenAPI will be resumed for normal use.
+</span>
+</p>
+<p><span style="font-size: 12px;font-family: 微软雅黑, &#39;Microsoft YaHei&#39;">
+If you have relevant questions during the launching, please contact JD Cloud customer service personnel at any time (phone number: 4006151212). Thank you for your support to JD Cloud.
+</span>
+</p>
+<p><br style="white-space: normal"/></p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"></span>
+<br/></p>
