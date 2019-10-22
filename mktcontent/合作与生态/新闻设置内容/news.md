@@ -1454,5 +1454,13 @@
 		"jss_key":"News_Content_660",
 		"id":660,
 		"news_title":"Minecraft我的世界教育版 点亮教育信息化2.0三大关键词"
+	},
+	{
+		"summary":"山西工业转型升级成果展在山西省展览馆举行。本次展览以“创新、智能、绿色、高端”为主题，以突出山西省践行新发展理念、培育发展新动能方面取得的重要成就，以及呈现创新驱动、结构优化的转型形象为特色。京东云同步参展，重点展示落地大同后，双方在数字经济、大数据、农业、电商产业发展等方面的合作理念和成果。",
+		"image_url":"//img1.jcloudcs.com/cms/7d7b13b3-65c1-48ee-98f1-a51fc21c441020191022190051.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_672",
+		"jss_key":"News_Content_672",
+		"id":672,
+		"news_title":"京东云亮相山西工业转型升级成果展，携手大同打造数据驱动产业发展新模式"
 	}
 ]
