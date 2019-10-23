@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"边缘网络隧道\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/ent\",\"classTag\":\"https://www.jdcloud.com/public/testApply/ent\"}],\"desc\":\"边缘网络隧道(Edge Network Tunnel，简称ENT)是基于电信边缘网络及海量碎片化闲置资源节点构建而成的网络穿透服务。通过该服务获得边缘优质中继线路，实现端与端之间快速连接和内容传输\"}",
+		"id":1516
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"低成本\",\"proName\":\"基于大量的边缘节点，通过网络穿透服务将数据进行转发。使用低成本闲置资源，获取到更大的网络带宽\"},{\"showShade\":false,\"proGood\":\"低延迟\",\"proName\":\"依靠边缘节点覆盖范围广，数量大，我们将数据就近选点，就近路由。内容不回云中心，直接通过节点互联或者更靠近终端的边缘节点做内容转发，缩短了链路，从而做到网络延迟更低，体验更好\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高质量\",\"proName\":\"根据节点之间的网络类型/状况选择对应的穿透方案，从多条可用链路中选择最优方案，具备动态调整链路的能力。从而减少网络传输时延，实现高质量的穿透率\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高可靠\",\"proName\":\"支持UDP协议、兼容WebRTC和STUN客户端，提供高可靠的数据传输服务\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"易接入\",\"proName\":\"提供完善的 SDK，方便用户直接接入，实现端到端的连接和内容收发，从而不再需要自己部署转发服务\"}]",
+		"id":1517
+	},
+	{
+		"txt":"[{\"funcName\":\"终端接入\",\"funcContent\":[{\"funcTitle\":\"海量终端设备安全接入\",\"funcP\":\"支持多种终端类型的接入；以便捷的SDK方式进行接入\"}]},{\"funcName\":\"边缘隧道管理\",\"funcContent\":[{\"funcTitle\":\"通道监管\",\"funcP\":\"用户自助使用SDK完成网络隧道实例的创建和管理；对网络隧道进行全方位监查\"}]},{\"funcName\":\"智能调度\",\"funcContent\":[{\"funcTitle\":\"选取最优线路\",\"funcP\":\"根据终端连接需求、边缘节点负载进行智能选点；完善的监控和服务体系，基于服务质量的智能监控和调度\"}]},{\"funcName\":\"自助运维\",\"funcContent\":[{\"funcTitle\":\"一站式运维监控\",\"funcP\":\"集成云监控，对网络环境进行实时通知、历史追溯；云端统一对终端、隧道进行管理、监控和运维\"}]}]",
+		"id":1518
+	}
+]
