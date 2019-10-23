@@ -1462,5 +1462,13 @@
 		"jss_key":"News_Content_672",
 		"id":672,
 		"news_title":"京东云亮相山西工业转型升级成果展，携手大同打造数据驱动产业发展新模式"
+	},
+	{
+		"summary":"由人民日报新媒体联合京东AI、京东云推出的《70年，我是主角》H5换脸视频应用，在刚刚过去的国庆节期间受到用户的高度关注，这是中国第一部全民定制国庆献礼片，网友只要上传正脸照片，就能通过AI换脸技术化身微电影主角，重温新中国70年的峥嵘岁月。",
+		"image_url":"//img1.jcloudcs.com/cms/5d953a40-fc5b-4bee-bef4-abedf096394120191023160352.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_673",
+		"jss_key":"News_Content_673",
+		"id":673,
+		"news_title":"《70年，我是主角》H5换脸视频背后的京东云技术 十几秒内处理数万个换脸任务"
 	}
 ]
