@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"自拍人像抠图\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/face/selfie-segmentation\",\"classTag\":\"\"}],\"desc\":\"分割自拍照中的人像区域：快速提取自拍照中人的轮廓，与背景进行区分\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"自拍人像抠图\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/face/selfie-segmentation\",\"classTag\":\"\"}],\"desc\":\"分割自拍照中的人像区域：快速提取自拍照中人的轮廓，与背景进行区分\"}",
 		"id":1025
 	},
 	{
