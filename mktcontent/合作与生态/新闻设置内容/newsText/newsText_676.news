@@ -1,0 +1,50 @@
+<p style="text-indent: 2em;">10月23日-24日，为庆祝1024程序员节，传智播客“1024无Bug市集”在中关村软件园国际会议中心（后厂村）开市。作为传智播客的合作企业，京东云共同参与其举办的“1024程序员节联合活动”。与现场20多家企业在市集搭建的展位中为程序员送出福利，进行互动，给广大程序员带来节日的温馨和快乐的现场体验。</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/b6c72b04-d8b6-489b-8668-48f61b63fa4920191024190218.jpg" title="" alt="modify1.jpg"/></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">据了解，“1024无Bug市集”从程序员角度贴心设计，共分为6大展区--职业调试Lab、防脱发电机、Debug演奏厅、不背锅数据库、诚·续缘相亲趴、技术图书馆，为程序员快乐解决职场、健康、爱情、装备、学习中遇到的Bug。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/b1336a21-5bd3-4be1-9189-7767b5ffd7ae20191024190227.jpg" title="" alt="modify2.jpg"/></p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em;">为了在这个特别的节日里，能够给程序员们送去祝福和关怀，京东云积极参与到活动中来，并在现场提供Serverless（京东云函数服务）后端应用场景体验。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/e614ed7d-50df-4150-a0bc-699da1533b3720191024190238.jpg" title="" alt="modify3.jpg"/></p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em;">京东云函数服务是一项事件驱动的Serverless计算服务。通过函数服务平台，用户无需配置和管理服务器等基础设施，即可弹性、可靠地运行业务代码，快速构建应用与服务，且只需为代码实际消耗的资源付费。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">据现场京东云工作人员介绍，体验京东云Serverless后端应用场景，只需三步：APP登陆，体验，提交。完成后还可以领取京东云礼品、代金券，以及参加抽奖活动。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">现场，京东云展位吸引了众多程序员。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">&nbsp;“之前参加过京东云线下的沙龙活动，我们公司是做农副产品的，想和你们具体了解下区块链的相关服务。”</p>
+<p><br/></p>
+<p style="text-indent: 2em;">“我现在服务器马上要到期了，正好在对比其他平台的云服务，你们这个活动价格还是很便宜的，我先买一年试一下。”</p>
+<p><br/></p>
+<p style="text-indent: 2em;">“Serverless我之前有听说过，但是不是很了解，这次面对面的讲解，我现在很清楚了，我回去尝试一下，就当学习了。”</p>
+<p><br/></p>
+<p style="text-indent: 2em;">2019 年，Serverless 被 Gartner 称为最有潜力的云计算技术发展方向，并被赋予是必然性的发展趋势。Serverless 从底层开始变革计算资源的形态，为软件架构设计与应用服务部署带来了新的设计思路。在行业内，对 Serverless 的解读并没有公认的准确定义，京东云认为 Serverless 技术目前有三种实现：</p>
+<p><br/></p>
+<p style="text-indent: 2em;">真正的无服务器，就是所谓的函数计算 FaaS；</p>
+<p><br/></p>
+<p style="text-indent: 2em;">类似京东云的原生容器，容器直接呈现给用户，并且背后不需要有虚拟机来支持；</p>
+<p><br/></p>
+<p style="text-indent: 2em;">应用比较广泛的无服务器，背后虚拟机由云厂商来提供，但是对用户不可见，仍然是以虚拟机的方式来提供容器。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">目前，京东云 Serverless 还在开发中，完整的 Serverless 实践需要包括如下几个模块:</p>
+<p><br/></p>
+<p style="text-indent: 2em;">负责提供计算能力的 FaaS；</p>
+<p><br/></p>
+<p style="text-indent: 2em;">负责提供通信能力的 Queue Service 和 Notification Service；</p>
+<p><br/></p>
+<p style="text-indent: 2em;">负责提供持久化能力的 Serverless KV 和 Object Storage；</p>
+<p><br/></p>
+<p style="text-indent: 2em;">负责提供入口的 API Gateway；</p>
+<p><br/></p>
+<p style="text-indent: 2em;">负责提供编排能力的 Step Function。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">京东云Serverless具有零运维、弹性伸缩、按需计费等特点。通过京东云提供的海量计算资源，函数服务拥有近乎无限的弹性扩展计算能力，开发者只需关注核心代码本身，即能够轻松快速迭代、部署，更有效的利用计算资源，极大降低运营和开发成本。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">目前，京东云已经提供了 FaaS, Queue Service, Object Storage 和 API Gateway, 其他模块也会在近期陆续发布。面向未来，京东云希望在云计算领域迈向纵深，在Serverless领域有更多投入，给程序员们和广大用户带来更加优质的体验。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">最后，京东云祝各位程序员们节日快乐！</p>
+<p><br/></p>
