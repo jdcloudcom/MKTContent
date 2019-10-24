@@ -1470,5 +1470,13 @@
 		"jss_key":"News_Content_673",
 		"id":673,
 		"news_title":"《70年，我是主角》H5换脸视频背后的京东云技术 十几秒内处理数万个换脸任务"
+	},
+	{
+		"summary":"10月23日-24日，为庆祝1024程序员节，传智播客“1024无Bug市集”在中关村软件园国际会议中心（后厂村）开市。作为传智播客的合作企业，京东云共同参与其举办的“1024程序员节联合活动”。与现场20多家企业在市集搭建的展位中为程序员送出福利，进行互动，给广大程序员带来节日的温馨和快乐的现场体验。",
+		"image_url":"//img1.jcloudcs.com/cms/790cb26a-998d-429f-bd8d-c632a19b08e720191024185958.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_676",
+		"jss_key":"News_Content_676",
+		"id":676,
+		"news_title":"1024无Bug市集开市 京东云提供Serverless后端应用场景体验"
 	}
 ]
