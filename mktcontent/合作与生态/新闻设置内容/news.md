@@ -1478,5 +1478,13 @@
 		"jss_key":"News_Content_676",
 		"id":676,
 		"news_title":"1024无Bug市集开市 京东云提供Serverless后端应用场景体验"
+	},
+	{
+		"summary":"10月24日，GeekPwm2019国际安全极客大会再度如期而至，全球顶尖极客齐聚上海，通过预演安全风险，探索产业智能与消费智能潜在的安全问题，为我们上演一场期待已久的精彩“巅峰对决”。",
+		"image_url":"//img1.jcloudcs.com/cms/385fc4fa-8002-401f-85a4-85b786af5f3720191025183942.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_677",
+		"jss_key":"News_Content_677",
+		"id":677,
+		"news_title":"GeekPwn2019上演实力攻防战 京东展示安全硬核实力"
 	}
 ]
