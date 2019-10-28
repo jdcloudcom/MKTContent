@@ -889,18 +889,18 @@
 		"main_title":"云拨测 开放公测"
 	},
 	{
-		"sub_title":"营销短信 低至0.006元/条",
+		"sub_title":"短信套餐 低至0.036元/条",
 		"name":"云通信活动",
 		"id":1118,
 		"button_title":"立即购买",
-		"main_title":"短信套餐 极速直达"
+		"main_title":"云通信专场"
 	},
 	{
-		"sub_title":"区块链数据服务技术应用实践",
-		"name":"京东云技术沙龙·深圳站",
+		"sub_title":"云端赋能企业AI落地",
+		"name":"京东云技术沙龙 · 重庆站",
 		"id":1120,
 		"button_title":"立即报名",
-		"main_title":"京东云技术沙龙·深圳站"
+		"main_title":"京东云技术沙龙 · 重庆站"
 	},
 	{
 		"sub_title":"云计算+大数据助力山东省新旧动能转换",
@@ -1048,5 +1048,19 @@
 		"id":1162,
 		"button_title":"抢先体验",
 		"main_title":"羚珑智能设计重磅上线"
+	},
+	{
+		"sub_title":"",
+		"name":"双十一二期活动",
+		"id":1164,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"2期活动",
+		"id":1166,
+		"button_title":"",
+		"main_title":""
 	}
 ]
