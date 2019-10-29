@@ -602,5 +602,17 @@
 	{
 		"id":765,
 		"title":"\\[All Regions\\] October 16, 00:00:00  Virtual Machines and Cloud Disk Service\\[Create\\] and \\[Resize\\] Service Suspension Notice"
+	},
+	{
+		"id":767,
+		"title":"\\[Vulnerability Warning\\] Improper Sudo configuration results in permission escalation vulnerabilities (CVE-2019-14287)"
+	},
+	{
+		"id":769,
+		"title":"\\[cn-south-1\\] Suspension Notice on Native Container Console and OpenAPI Service at 21:00 on October 16"
+	},
+	{
+		"id":770,
+		"title":"\\[Important Reminder\\] Notice on Upgrading Transaction System Service at 23:00 on October 16"
 	}
 ]

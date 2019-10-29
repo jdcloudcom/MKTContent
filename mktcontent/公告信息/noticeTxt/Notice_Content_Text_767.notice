@@ -1,0 +1,32 @@
+<p style="text-indent:28px"><span style="font-family: 微软雅黑; font-size: 12px;"></span>
+</p>
+<p style="text-indent:28px"><span style="font-family: 微软雅黑; font-size: 12px;">JD Cloud security team recently monitored Sudo software was disclosed to have privilege escalation vulnerabilities. In case of improper Sudo configuration, the local attackers can bypass Sudo restriction by creating special commands to execute arbitrary commands on the server as root. In order to prevent your business from being affected, you are recommended to conduct security self-examination in a timely manner. If your business is in the affected scope, please update and fix the problem in time to avoid attacks from external attackers.</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">[Vulnerability Description]</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-family: Microsoft YaHei; font-size: 12px;">Linux sudo is a commonly used tool under Linux that allows common users to use super-user permission, allowing system administrator to let common users perform some or all of the root commands.</span>
+</span>
+</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-family: Microsoft YaHei; font-size: 12px;”> When a configuration in /etc/sudoers file is in the form of *=(ALL, *), the local attackers can execute commands on the server with root permission (the default sudo configuration files won’t be affected)</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">[Vulnerability Rating]</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CVE-2019-14287 </span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">[Affected Version]</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sudo &lt; 1.8.28</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">[Fix Recommendation]</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1. Upgrade Sudo version to 1.8.28</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2. Check /etc/sudoers for configuration errors</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp; [Remark]: You’d better verify the greyscale before upgrading the new version for avoiding incidents.</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">[Relevant Links]</span>
+</p>
+<p><span style="font-family: 微软雅黑; font-size: 12px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;https://www.sudo.ws/alerts/minus_1_uid.html</span>
+</p>
+<p><br/></p>

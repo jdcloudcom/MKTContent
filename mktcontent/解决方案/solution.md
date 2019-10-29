@@ -214,5 +214,13 @@
 	{
 		"name":"JD Cloud E-store",
 		"id":159
+	},
+	{
+		"name":"Intelligent Production Solutions of Convergence Media",
+		"id":165
+	},
+	{
+		"name":"Intelligent News Service Platform for Convergence Media",
+		"id":166
 	}
 ]

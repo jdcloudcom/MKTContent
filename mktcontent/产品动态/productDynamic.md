@@ -2464,5 +2464,17 @@
 		"name":"Marketing Cloud  Official Release",
 		"description":"JD Cloud Marketing Cloud provides SaaS tools and value-added services required by marketing with timely and accurate insight into customers’ requirements depending on AI and big data, and provides the customers with one-stop full-link marketing solutions from marketing insight, marketing strategy, marketing creativity, marketing execution and marketing detection to marketing effect analysis.",
 		"id":2533
+	},
+	{
+		"introduce":"IoT Hub  Official Release",
+		"name":"IoT Hub  Official Release",
+		"description":"The IoT Hub provides the device connection communication function to help users with collection and JD Cloud onboarding of device data; the platform provides the device management function to help users with remote management and controlling",
+		"id":2559
+	},
+	{
+		"introduce":"Support Pay-In-Advance resource pack",
+		"name":"Support Pay-In-Advance resource pack",
+		"description":"Add Pay-In-Advance resource pack, including standard storage capacity pack and Internet downlink traffic pack.",
+		"id":2560
 	}
 ]

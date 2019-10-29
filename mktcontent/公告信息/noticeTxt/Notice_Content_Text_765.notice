@@ -4,12 +4,12 @@ To improve features and user experiences, JD Cloud is planned to upgrade "Create
 </p>
 <p class="MsoListParagraph" style="margin-left: 28px">
 <span style="font-family: &quot;Times New Roman&quot;; font-size: 9px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">
-1) &nbsp; all regions of Virtual Machines Console cannot be "created" and "resized", and corresponding API services of OpenAPI will be paused;
+1) All regions of Virtual Machines Console cannot be "created" and "resized", and corresponding API services of OpenAPI will be paused;
 </span>
 </p>
 <p class="MsoListParagraph" style="margin-left: 28px">
 <span style="font-family: &quot;Times New Roman&quot;; font-size: 9px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">
-2) All region list pages and details of Cloud Disk Service Console cannot be "created" and "resized", and corresponding API services of OpenAPI will be paused.
+2) "Create" and "Modify Cloud Disk" are not available in any region of Cloud Disk Console, and corresponding OpenAPI will be paused.
 </span>
 </p>
 <p class="MsoListParagraph" style="margin-left: 28px">

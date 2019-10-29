@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Security Training\",\"label\":[{\"TitleName\":\"Ticket Consulting\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=697\",\"classTag\":\"\"}],\"desc\":\"Provide customers with professional security training service and help the government and enterprise personnel improve the security awareness and capability.\"}",
+		"id":1468
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Customization\",\"proName\":\"Customize personalized security training course contents based on different industry demands and customers’ actual security needs.\\n\"},{\"showShade\":false,\"proGood\":\"Full Coverage\",\"proName\":\"The training contents cover security awareness, security management, security technology, security development and security operation.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Guaranteed Effect\",\"proName\":\"The training contents go from the easy to the difficult and complicated according to the acquisition degree of knowledge and skills of the government and enterprise personnel while providing detailed training courseware to guarantee the training effect.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Professional Lecturer\",\"proName\":\"The experienced and professional security training lecturers have abundant experience in the security industry and complete security knowledge, who can better response to customer needs.\"}]",
+		"id":1469
+	},
+	{
+		"txt":"[{\"funcName\":\"Construction of Security Capability of Employees\",\"funcContent\":[{\"funcTitle\":\"Security Awareness Training\",\"funcP\":\"The training of security awareness for the government and enterprise personnel focuses on security knowledge, security behavior and security responsibility to help with the improvement of the students’ security awareness and security risk recognition capability.\"},{\"funcTitle\":\"Security Operation and Maintenance Management Training\",\"funcP\":\"The security operation and maintenance tools, operation and maintenance security awareness and basic experience in the enterprise will be exposited to help with the improvement of the operation and maintenance capability and work efficiency of the security operation and maintenance personnel in the government and enterprises.\"}]},{\"funcName\":\"Security Skill Training\",\"funcContent\":[{\"funcTitle\":\"Defense Technology Training\",\"funcP\":\"The training contents cover penetration test, incident response, cellphone and mobile application, vulnerability digging and security reinforcement to help with the improvement of the capability of the government and enterprise personnel in security technology.\"},{\"funcTitle\":\"Security Development Training\",\"funcP\":\"The training contents cover code audit and website security development to provide professional guidance and suggestions on security development and help with the improvement of the security awareness and capability of the government and enterprise in overall development.\"}]}]",
+		"id":1470
+	},
+	{
+		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/information-security-training/product-overview\",\"classTag\":\"\"},{\"name\":\"Getting Started\",\"link\":\"https://docs.jdcloud.com/information-security-training/getting-started\",\"classTag\":\"\"},{\"name\":\"Product Pricing\",\"link\":\"https://docs.jdcloud.com/information-security-training/billing-overview\",\"classTag\":\"\"}]",
+		"id":1494
+	}
+]

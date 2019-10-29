@@ -586,5 +586,13 @@
 	{
 		"name":"Image Style Classification",
 		"id":1334
+	},
+	{
+		"name":"Security Training",
+		"id":1341
+	},
+	{
+		"name":"Network Security Key Protection Service",
+		"id":1342
 	}
 ]
