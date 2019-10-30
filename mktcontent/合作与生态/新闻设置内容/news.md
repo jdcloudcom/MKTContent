@@ -1486,5 +1486,13 @@
 		"jss_key":"News_Content_677",
 		"id":677,
 		"news_title":"GeekPwn2019上演实力攻防战 京东展示安全硬核实力"
+	},
+	{
+		"summary":"全球权威数据调研机构IDC正式对外发布《IDC MarketScape: 中国DevOps云市场，2019年厂商评估》报告。报告显示，基于产品现有能力、未来策略与投入、市场表现与客户满意度三大指标体系的综合评估，京东云跻身”Major Players“（核心厂商）位置。",
+		"image_url":"//img1.jcloudcs.com/cms/90013523-06e4-4a92-849f-267768410d6520191030180718.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_679",
+		"jss_key":"News_Content_679",
+		"id":679,
+		"news_title":"IDC MarketScape: 京东云位于中国DevOps云市场的\"Major Play"
 	}
 ]
