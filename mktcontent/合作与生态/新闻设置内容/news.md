@@ -1493,6 +1493,14 @@
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_679",
 		"jss_key":"News_Content_679",
 		"id":679,
-		"news_title":"IDC MarketScape: 京东云位于中国DevOps云市场的\"Major Play"
+		"news_title":"IDC MarketScape: 京东云入选中国DevOps云市场核心厂商"
+	},
+	{
+		"summary":"《我和我的祖国》由国内领先的图形云集群渲染服务平台渲云担纲其特效部分的后期渲染任务，提供全方位的项目渲染服务7*24小时专业化的团队，渲云借助京东云产品和平台作技术为输出口，打造公有云渲染平台，基于公有云前沿资源配置大规模高性能渲染数据中心，确保项目按期保质完成。",
+		"image_url":"//img1.jcloudcs.com/cms/aaf8bed8-c1e5-423a-8bba-53668f7950da20191031130418.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_680",
+		"jss_key":"News_Content_680",
+		"id":680,
+		"news_title":"《我和我的祖国》幕后的渲染特效：使用近千台京东云服务器"
 	}
 ]
