@@ -1043,7 +1043,7 @@
 		"main_title":"营销云 正式发布"
 	},
 	{
-		"sub_title":"公测期间 免费体验 风格识别·智能抠图·智能配色",
+		"sub_title":"风格识别·智能抠图·智能配色",
 		"name":"羚珑智能设计重磅上线",
 		"id":1162,
 		"button_title":"抢先体验",
@@ -1062,5 +1062,12 @@
 		"id":1166,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"入选《IDC MarketScape: 中国 DevOps 云服务市场》核心厂商",
+		"name":"京东云 DevOps 获权威认可",
+		"id":1168,
+		"button_title":"查看详情",
+		"main_title":"京东云 DevOps 获权威认可"
 	}
 ]
