@@ -1,0 +1,26 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"移动直播 SDK\",\"label\":[],\"desc\":\"移动直播SDK是京东云推出的应用于移动端平台的软件开发工具包，包含推流SDK、播放器SDK两个模块，可为客户提供移动端音视频数据采集、处理、推流和播放等功能。\"}",
+		"id":1519
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"快速集成\",\"proName\":\"提供Android和iOS两端，接口清晰，提供完善的文档和Demo演示，有专业开发人员指导，对接方便快速。\"},{\"showShade\":false,\"proGood\":\"功能丰富\",\"proName\":\"提供美颜、滤镜、录屏、静音推流、后台推流、镜像播放、后台播放、秒开等多样的推流和播放端功能，且同时支持直播、点播、本地视频等多种类型视频的播放，省去客户自己开发的成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"模块化一体化\",\"proName\":\"推流端和播放端各项功能模块化，可根据自身业务选择集成，推流播放可单独集成也可一体集成，结合云端京享超清转码、录制、分发等服务可提供端到端整体解决方案。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"低功耗、低延时\",\"proName\":\"对多种手机型号做兼容性测试，针对性优化，同时结合云端服务及优化的分发节点，提供低延时低功耗的服务。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"网络自适应\",\"proName\":\"SDK可自动实时计算实际网络状况，实现网络自适应，可根据实际网络情况动态调整目标码率，保证视频流畅的同时提供较高的视频质量。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"24小时专家客服\",\"proName\":\"提供7*24小时专家客服，随时处理客户问题，为客户的业务运营保驾护航。\"}]",
+		"id":1520
+	},
+	{
+		"txt":"[{\"funcName\":\"推流SDK\",\"funcContent\":[{\"funcTitle\":\"iOS、Android适配\",\"funcP\":\"提供iOS、Android端不同的推流安装包。\"},{\"funcTitle\":\"H.264/H.265推流\",\"funcP\":\"支持H.264/H.265两种编码格式进行推流，主播可自行选择。\"},{\"funcTitle\":\"视频美颜滤镜\",\"funcP\":\"支持磨皮、美白等美颜，清新、风景、人物、日光等视频滤镜供客户推流调用。\"},{\"funcTitle\":\"专业音频处理\",\"funcP\":\"支持支持大叔、萝莉、机器人、庄重等音频滤镜，支持混音、耳返、降噪、音频升降调等多种音频处理。\"},{\"funcTitle\":\"多种推流方式\",\"funcP\":\"支持镜像、画中画、悬浮窗、画笔、背景图、纯音频、静音等多种推流方式。\"},{\"funcTitle\":\"多种预览方式\",\"funcP\":\"支持通过GLSurfaceView或TextureView进行预览。\"},{\"funcTitle\":\"推流录制\",\"funcP\":\"支持录制推流视频片段和一键截屏，保存至本地相册。\"},{\"funcTitle\":\"添加水印\",\"funcP\":\"支持图片，文字及时间戳水印，且支持调整水印位置、大小、方向及透明度\"},{\"funcTitle\":\"网络自适应\",\"funcP\":\"支持自动实时计算实际网络状况，实现网络自适应，可根据实际网络情况动态调整目标码率，保证视频流畅性同时提供较高的视频质量。\"}]},{\"funcName\":\"播放SDK\",\"funcContent\":[{\"funcTitle\":\"iOS、Android适配\",\"funcP\":\"提供iOS、Android端不同的播放安装包。\"},{\"funcTitle\":\"多编码格式、多协议支持\",\"funcP\":\"支持H.264、H.265播放，支持RTMP、HTTP-FLV、HLS协议的直播视频播放。\"},{\"funcTitle\":\"首屏秒开\",\"funcP\":\"支持首屏秒开，快速起播。\"},{\"funcTitle\":\"直播追赶\",\"funcP\":\"支持RTMP、HTTP-FLV协议的直播追赶，保证音频视频的同步性。\"},{\"funcTitle\":\"播放预加载\",\"funcP\":\"播放当前视频时预加载下一个视频，适用于短视频播放。\"},{\"funcTitle\":\"Gif截图\",\"funcP\":\"视频播放时，可自定义位置截取视频或者GIF动图。\"},{\"funcTitle\":\"视频旋转\",\"funcP\":\"支持设置画面播放时的旋转角度，旋转方向为逆时针旋转，旋转角度为0度，90度，180度和270度。\"},{\"funcTitle\":\"多实例播放\",\"funcP\":\"支持使用一个实例进行多次播放，无需每次播放时创建新实例\"},{\"funcTitle\":\"动态重连\",\"funcP\":\"支持直播SDK动态重连。\"},{\"funcTitle\":\"播放功能丰富\",\"funcP\":\"支持倍速播放、加密播放、URL播放、纯音频播放、遍播边缓存、悬浮窗播放等。\"}]}]",
+		"id":1521
+	},
+	{
+		"txt":"{\"price\":\"//docs.jdcloud.com/mobile-live-video-sdk/billing-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1522
+	},
+	{
+		"txt":"[{\"name\":\"常见的推流方式？\",\"link\":\"https://docs.jdcloud.com/cn/mobile-live-video-sdk/faq\",\"classTag\":\"\"},{\"name\":\"目前支持的推流协议有哪些？\",\"link\":\"https://docs.jdcloud.com/cn/mobile-live-video-sdk/faq\",\"classTag\":\"\"},{\"name\":\"支持哪些播放协议？\",\"link\":\"https://docs.jdcloud.com/cn/mobile-live-video-sdk/faq\",\"classTag\":\"\"}]",
+		"id":1529
+	},
+	{
+		"txt":"[{\"name\":\"事件直播\",\"instruction\":\"移动直播SDK可应用于产品发布会、现场活动等事件直播活动，通过专业的信号采集设备，通过推流SDK 提供稳定、清晰、流畅的推流服务，播放SDK可完成直播流在用户端的稳定播放。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c05b7bea-32ea-4915-916e-7599c2f2313220191028170911.png\",\"showShade\":false},{\"name\":\"秀场/游戏直播\",\"instruction\":\"移动直播 SDK可广泛应用于秀场/游戏直播等行业，主播安装京东云移动直播SDK后，配合云端直播服务器，拿起手机即可开播，同时安装了移动直播SDK的用户可实时观看。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/173f47cc-f3d6-4a1e-a0c0-05b1cf83482320191028170925.png\",\"showShade\":false}]",
+		"id":1537
+	}
+]
