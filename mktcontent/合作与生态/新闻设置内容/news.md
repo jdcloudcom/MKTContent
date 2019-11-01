@@ -1502,5 +1502,13 @@
 		"jss_key":"News_Content_680",
 		"id":680,
 		"news_title":"《我和我的祖国》幕后的渲染特效：使用近千台京东云服务器"
+	},
+	{
+		"summary":"京东云入选爱分析年度榜单 “ 中国零售科技创新企业50强”，并进入综合榜单前十，在零售云服务商中排名第二。爱分析高级分析师黄勇认为：“京东云基于自身场景的技术和服务能力积累、多元化的零售场景、全链路的营销服务能力以及丰富的生态布局，为零售科技企业的创新提供了坚实支撑”。",
+		"image_url":"//img1.jcloudcs.com/cms/ad4b07ce-eae0-4e0a-a32f-7eaaf7b417e220191101180501.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_681",
+		"jss_key":"News_Content_681",
+		"id":681,
+		"news_title":"爱分析：京东云—中国零售科技创新企业综合前十"
 	}
 ]
