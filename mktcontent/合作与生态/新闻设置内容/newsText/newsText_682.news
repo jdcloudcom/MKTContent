@@ -1,0 +1,41 @@
+<p style="text-indent: 2em;">2019年11月2日-3日，业界最具影响力之一的开源年度盛会 “2019中国开源年会（COSCon&#39;19）”在上海举办。京东云参加了此次年会，并带来主题演讲，全面展示京东云开源产品、技术与服务，与现场的开源小伙伴共同探讨“开源之道”。</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/79633a2b-813d-4ed1-9aa3-3f70a34ef0af20191104142204.jpg" title="" alt="modify1.jpg"/></p>
+<p style="text-indent: 2em; text-align: center;">京东云参加2019中国开源年会</p>
+<p><br/></p>
+<p style="text-indent: 2em;">10月25日，中央政治局第十八次集体学习时强调：把区块链作为核心技术自主创新重要突破口，加快推动区块链技术和产业创新发展。而京东云区块链数据服务（BDS）目前正是区块链行业集深度、广度为一体的数据服务平台，它将在助力区块链创新企业发展中扮演重要角色。</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>京东云BDS 的开源之路</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">区块链由很多区块按时间顺序串联起来构成的，在每个区块中存储交易、账号等相关信息。每个区块就像一本纸账本，上面记录了很多人每天的流水账。如果我们想查看最近一年有多少笔大额支出，那我们需要将最近一年的所有账本搬出，一本一本从头到尾进行翻看，找出相应的记录。也可以说每个区块就像一本纸质书，如果我们想从一堆纸质书中按某些关键字进行查找，除了从头到尾进行翻看之外，就别无它法了。区块链上数据都是离散化的数据，需要更加有效的数据组织方式以便于做进一步的查询与分析。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">随着区块链技术的火爆，整个行业可谓是百家争鸣，有诸如BTC、ETH、XRP等耳熟能详的公有链项目，也有Fabric、Enterprise Ethereum Alliance、Corda R3等众所周知的联盟链项目，当然还有一些私有链项目。不管是公有链也好，联盟链、私有链也罢，每个链都是一个一个独立的信息孤岛，它们在技术上各有特色，在底层数据模型上也有很多相同之处。每个区块链项目就像一个一个手机App，我们可以统计分析出每个项目用户总量、日活、月活、留存、使用率、用户余额、平均交易金额等通用指标。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">如何将多个区块链项目的信息孤岛连接起来，将无序、离散的区块数据整合成有序、可方便查询的关系型数据，将链上透明、共识、可信的数据和信息聚合在一起，提供分析、建模服务，赋能产业互联网发展，是区块链技术产业价值的重要体现。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">当下，京东云区块链数据服务正在打造一个行业标准的区块链的BI+数据搜索服务，但是区块链项目的底层区块存储结构各不相同，需要对不同的项目的数据进行解析与整理。基于此，京东云开源了区块链数据服务BDS，以望让更多的开发者与社区可以参与其中，接入更多公有链、联盟链、私有链等区块链项目。区块链数据服务将以区块链数据搜索引擎形式聚合所有区块链相关的内容，最大化区块链上可信数据价值，方便社区能在BDS 上进行区块链数据的一站式查询。</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/591de4ea-c97e-4bf2-9b6b-2adac8e4f06020191104142228.jpg" title="" alt="modify2.jpg"/></p>
+<p style="text-indent: 2em; text-align: center;">京东云BDS开源架构图</p>
+<p><br/></p>
+<p style="text-indent: 2em;">目前，京东云BDS 团队先后开源了Blochain Node 和 Splitter 两个服务模块， Blochain Node模块目前已将BTC Node，BCH Node, BSV Node, ETH Node等10条公链分析代码开源了出来。未来，京东云BDS团队还会不断开源其他的全节点服务。</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>京东云提供四大开源扶持计划</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">京东云为开源项目提供免费云服务及云市场生态资源支持，解决开发者在开源项目发展过程中遇到的缺乏底层云资源、技术支持、生态合作等问题。助力开源项目快速发展，成就开源梦想。四大开源扶持计划包含：</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">云资源支持：为开源项目提供最高可达终生的免费云资源支持；合作开源项目的用户购买京东云服务可享受更多长期优惠。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">云市场生态支持：京东云致力携手各行业合作伙伴组建云上大生态联盟，开放赋能，共同为客户带来服务和价值。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">技术支持：根据项目合作内容，提供免费数据迁移、定制化服务、技术专家一对一指导支持、7x24客服等。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">项目推广&amp;其他支持：京东云开发者社区全力支持开源项目推广。</p>
+<p><br/></p>
+<p style="text-indent: 2em;">在本次2019中国开源年会（COSCon&#39;19）上，京东云产品研发部高级总监李道兵带来 《云上Cloud Native的落地方法》主题分享，展示京东云在微服务、Kubernetes、Serverless的落地方案。李道兵指出：“目前在京东运营着全世界最大规模的Docker集群、Kubernetes集群，以及最复杂的Vitess集群之一。作为云原生计算基金会（CNCF）的白金会员，京东云一直都在利用自身丰富的业务场景来推动开源技术的应用实践，不断为开源生态贡献价值，从而带动整个产业的技术发展。”</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/2444439c-0b20-40a6-b42b-dae969aaf44120191104142301.jpg" title="" alt="modify3.jpg"/></p>
+<p style="text-indent: 2em; text-align: center;">京东云产品研发部高级总监李道兵</p>
+<p><br/></p>
+<p style="text-indent: 2em;">本次大会的主题是“开源无疆、携手出航”，这也代表中国开源，不断走向世界、走向辉煌。京东云愿与各位开源小伙伴们携手并肩，合力生产内容，面向全球将中国开源技术推广、落地。</p>
+<p><br/></p>
