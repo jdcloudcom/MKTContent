@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Value-added Tax Invoice Recognize\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/ocr/value-added-tax-invoice-recognize\",\"classTag\":\"\"}],\"desc\":\"Based on the leading deep learning technology of the industry, 20 key fields such as invoice code, invoice number, buyer’s name, buyer’s tax number and others can be recognized. With the accurate and reliable deep learning technology, 20 key fields such as invoice code, invoice number, buyer’s name, buyer’s taxation number and others can be recognized precisely and reliably.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Value-added Tax Invoice Recognize\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/value-added-tax-invoice-recognize\",\"classTag\":\"\"}],\"desc\":\"Based on the leading deep learning technology of the industry, 20 key fields such as invoice code, invoice number, buyer’s name, buyer’s tax number and others can be recognized. With the accurate and reliable deep learning technology, 20 key fields such as invoice code, invoice number, buyer’s name, buyer’s taxation number and others can be recognized precisely and reliably.\"}",
 		"id":1097
 	},
 	{

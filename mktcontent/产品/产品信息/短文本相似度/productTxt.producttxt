@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Short Text Similarity\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/short-text-similarity\",\"classTag\":\"\"}],\"desc\":\"Similarity between different short texts can be computed and the similarity output is a real value within 0 to 1. The higher the value, the better the similarity. This similarity value can be directly used for ranking results as well as more complex systems as a one-dimension basic feature\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Short Text Similarity\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/short-text-similarity\",\"classTag\":\"\"}],\"desc\":\"Similarity between different short texts can be computed and the similarity output is a real value within 0 to 1. The higher the value, the better the similarity. This similarity value can be directly used for ranking results as well as more complex systems as a one-dimension basic feature\"}",
 		"id":1041
 	},
 	{

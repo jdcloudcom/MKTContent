@@ -1,0 +1,82 @@
+<p style="text-indent: 2em;">At the moment, the face swapping software based on AI technology becomes extremely popular on the Internet. The face swapping pictures and videos are bringing brand new Internet experiences too users.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">The H5 face swapping video app of 70 Years, I'm the Protagonist launched by JD AI, JD Cloud and the People's Daily new media received high attention during the just past National Day. This is the first national customized film greeting the National Day in China. The online user can revive the 70-year extraordinary times of China as long as he or she uploads a front face picture to incarnate as the protagonist of the micro film by AI face swapping technology. During the activity, the page views reached ten million-level and finally generated 10,000-hour videos, equivalent to the length of 6,000 films.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Liu Chen, Vice President of JD Cloud and Person in Charge of Customer Success Department of JD Cloud, when asked "how to view the smooth operation of H5 face swapping video project", answered that, "One of the major challenges to which the Project 70 Years, I'm the Protagonist faces is the guarantee of system performance and throughput. At the beginning of the project establishment, the team estimated the concurrent amount of H5 application and set the goal of guaranteeing ten million-level page views. On this basis, the team improved the throughput of the entire system with a series of tuning tests. At last, relying on JD Cloud's reliable technical strengths and efficient operation and maintenance guarantee capacity, the face swapping project was operated steadily, providing users with good experiences."</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Chen Feng, Senior Director of Product Research and Development Department of JD Cloud said about it, "I'm very glad to see that JD Cloud achieved the smooth and steady operation of the cloud computing technology under high-intensity, high-density and high-occurrence in this project, and ensured the excellent experiences of users."</p>
+<p><br/></p>
+<p style="text-indent: 2em;">From the view of a user, the 70 Years, I'm the Protagonist H5 face swapping video application gives an opportunity to all participated users to play a leading role in the customized film; from the view of a technology, the protagonist behind the project is "you" —— JD Cloud, who provides technical support and guarantee for the face swapping video application.</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>"You" experienced doubt</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">At the 70th anniversary of the founding of People’s Republic of China, the micro film 70 Years, I'm the Protagonist, directed by the young director Yao Qingtao, was released on line on the People's Daily new media and other major platforms on September 28. Later, the H5 face swapping video application of the 70 Years, I'm the Protagonist was launched.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">&nbsp;H5 refers to the 5th generation HTML (Hypertext Markup Language) and also all digital application products produced with H5 Language. Generally speaking, H5 is the foreground page used to write cool page interaction and 3D effects.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">The question is what kind of technical support should JD Cloud provide because the video clip of the 70 Years, I'm the Protagonist offered to users for face swapping is up to 15s, which is different from the face swapping of many static images or super short videos.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Liu Chen pointed out that the human face in the image provided by a user is plane. In the change to a video, the protagonist frequently shuttles among various scenarios including inside a railway carriage, indoors, outdoors and at nights, so the contrast of light and shade varies dramatically on the face of the protagonist and the lighting effects and face angles are also changeable. Handling the effect in a face swapping video will be essential to the immersive experience of a user. This was the first test for the technology research and development team of JD Cloud face swapping video project.</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/7d29fec5-3390-4780-8ffd-b28d1446b59c20191023175118.jpg" title="" alt="modify2.jpg"/></p>
+<p style="text-indent: 2em; text-align: center;"><strong><br/></strong></p>
+<p style="text-indent: 2em; text-align: center;"><strong style="text-indent: 2em;">Illustration: The changeable scenarios in the face swapping videos bring challenges to the technology research and development team of the project</strong><br/></p>
+<p><br/></p>
+<p style="text-indent: 2em;">The face swapping video technology gives extraordinary pressure to the cloud computing system. Compared to the current face swapping pictures, the amount of calculation required by a user to customize a blockbuster face swapping video is equivalent to about 100 times of face swapping pictures. Chen Feng indicated that if the computing services provided by JD Cloud want to process a large amount of face swapping video tasks within a short term, they need technical support relying on GPU service cluster resource of super-large scale and capable of flexible scheduling.</p>
+<p style="text-indent: 2em;">The second test for the technology research and development team of the project is to meet the high concurrency requirements when mass users access the video application. Before the launch of the project, the research and development team predicted that there would be mass users from the People's Daily new media platform after the project is launched, and JD Cloud also took an outburst and surge of mass user accesses at the beginning of the launch into consideration.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">The resolution to this problem depends on JD Cloud's CDN Service. The efficient CDN scheduling algorithm can deliver the face swapping posters and videos at the maximum speed and reach users, so as to guarantee good experience of users.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Even though there are numerous challenges of the 70 Years, I'm the Protagonist H5 face swapping video project in front of the technology research and development team of JD Cloud face swapping video project, they still forge ahead...</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>"You" seek breakthroughs</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">The seemingly cool face swapping video application only needs the user to open the frontend of the face swapping video application and upload a picture. The cloud computing processing system will then automatically generate a face swapping task and enter the task queue of JD Cloud background. At last, the user can get 5 posters and 1 video.</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/bfe2082f-9025-4a9e-9118-f044548f007020191023175132.jpg" title="" alt="modify1.jpg"/></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em; text-align: center;"><strong>Illustration: The user can get 5 posters and 1 video as the protagonist only by uploading a single-person front face photo and selecting the gender</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">Liu Chen indicated that when the traffic of the 70 Years, I'm the Protagonist face swapping video project reaches the peak, the background must synchronously process tens of thousands of face swapping tasks within more than ten seconds. Therefore, the team must conduct "peak clipping and valley filling" to guarantee the steady operation of high-concurrency face swapping during the peak without wasting computing resources. In JD Cloud computing cluster, an independent test area is even assigned to this project for traffic simulation to ensure the consistency between background monitoring and real experience of the customer.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Finally, the project was able to operate smoothly. On the one hand, the smooth operation was supported by a large number of GPU Cluster resources mobilized by JD Cloud in a short period. On the other hand, it depended on CDN technology enabling users to timely obtain posters and videos, so that the network congestion could be solved to improve the response speed of the user access face swapping video app.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Then, how does the JD Cloud Project technology team ensure that users can perfectly swap their faces?</p>
+<p><br/></p>
+<p style="text-indent: 2em;">The relevant technology official of People’s Daily once introduced, "This is the first national version of H5 intelligent face swapping app, and the app will be launched at a critical point when the 70th anniversary of the founding of the People’s Republic of China is celebrated." In addition, from the complexity of algorithm, the face swapping videos are the longest. Every video needs to go through three steps, including face detection, face swapping poster production and face swapping video production.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">The face swapping video operation needs to be processed by two calculation clusters, namely CPU server and GPU Service, provided by JD Cloud. Liu Chen said the project was supported by more than 500 GPU Services and 1,000 CPU servers during its operation.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Face detection means to recognize and extract 50,000 facial features, that is, 50,000 key points in one face. This is because the process of face swapping video is a process from 2D to 3D. Comparing with ordinary face swapping photo, face swapping video needs to extract more key points and features to build 3D modeling.</p>
+<p style="text-indent: 2em;">The face swapping poster is to obtain 5 face swapping posters by only submitting 1 photo. This requires more than 5 times computing power of the CPU servers.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Face detection is to divide a face swapping video into frames and then develops 3D key detection technology for facial features of each frame, so as to locate more than 50,000 key points in the face, and ensure that the face swapping app still works at any angle of the head when the head rotates. So that the success rate of the facing swapping video in various environments is guaranteed, and each frame can be merged into a video finally.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In terms of processing the light and shadow changes of the protagonist in video, JD AI adopted a method of fusion processing on texture images, making the texture generation independent from the head posture changes, so as to make the face swapping more coherent and natural.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">The above technology applications have put forward some extremely high requirements on the computing resources and overall technology system of JD Cloud. Chen Feng explained that AI face swapping project has been constantly developed, and the difficulty and computing amount of face swapping photos are quite easier than that of videos. For videos, each frame is an image, and a 15-second video contains a lot of pictures, which mean how to process and recompose and splicing after processing requires strong technical supports.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In order to maximize the efficiency of servers, the project technology R&D team made a special division of resources: the GPU Services are used for face detection, feature recognition and face swapping videos, and the CPU servers are used for face swapping posters. "It is the best practices to let CPU do some of the rendering and computing work while taking full advantage of GPU computing power, based on a large number of businesses for JD Cloud rendering customers. JD Cloud has many rendering customers, including many popular movies, the rendering tasks of which are also implemented with CPU and GPU hybrid deployment technology." Liu Chen said.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">The data shows that, over a week, H5 face swapping video app withstood ten million-level page views and million-level uniques, eventually generating about 2 million face swapping videos.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">To solve the second problem of letting Internet users all over our country and even the world can easily make their own custom blockbusters, and completely eradicating possibilities such as network path delay when users access, JD Cloud provided a complete and efficient CDN to accelerate to realize the coverage of services in the whole network and the whole zone without dead space, significantly improving the access speed for page access, file download, image loading and video playing and live streaming, and ensuring a good user experience to create custom blockbusters.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In addition, from the perspective of obtaining videos from users’ mobile phone traffic, the technology team thinks if the original face swapping videos with about decades of MB are directly delivered to users, the smoothness of transmission will be affected, and thus the experience of users who use their mobile traffic will be negatively affected. Therefore, JD Cloud compressed and transcoded the original videos to compress users’ face swapping videos to about 5 MB.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">It is worth mentioning that JD Cloud made great efforts in security, compliance and privacy protection in order to prevent the leakage of user information and other situations. Encrypting the content uploaded by users, providing users with random ID, and other methods prevented abnormal access from obtaining the user data information, so that users can only see the results generated by their own photos. Meanwhile, all the data of face swapping video project are collected in an encrypted bucket and marked to ensure that all images are only used for this project.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">A lot of technology and resource safeguard were reflected to the frontend and achieved good results.</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>"You" got recognition</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">"Opening the ‘70 Years, I'm the Protagonist’ in the ‘Hot spots’ interface of the People’s Daily APP, you can become the protagonist by just uploading your facial photo with one-click and selecting your gender. Here, you can review the eventful years of our great motherland. In my future, there is another item can be added to my resume: I once cooperated with People’s Daily in producing a blockbuster. Haw-haw."</p>
+<p><br/></p>
+<p style="text-indent: 2em;">"Hope to be with my motherland in such an immersive way. Become a protagonist of the movie to interpret it and personally feel the changes of our motherland for 70 years as a protagonist."</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Users’ feedback is the best proof. In the video, a series of landmark historical events were displayed, so that each user was infinitely close to the historical scene and became a protagonist, thus resonating with everyone who are struggling and paying tribute to you and the ear we have experienced together.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In the face swapping video project, JD Cloud customized high-efficiency solutions in pictures, video storage, intelligent analysis, fusion processing and other aspects, and had continuously optimized the algorithms of images and video processing, to improve the efficiency and experience of face swapping process from second and every frame.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">JD Cloud supported a large number of users to click and participate in and obtain their own posters and videos through its technical empowerment. In other projects, JD Cloud will continue to provide a stable, reliable, flexible and low-cost development environment for new business such as enterprise oriented AI business and new business model transformation with the advantages and technical strength of JD’s rich application scenario resources, to provide deep learning, scientific computing, and all-round operation and maintenance, and other supports.</p>
+<p><br/></p>

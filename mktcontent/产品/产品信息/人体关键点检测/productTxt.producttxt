@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Pose Estimation\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/body/pose-estimation\",\"classTag\":\"\"}],\"desc\":\"Based on the industry-leading AI technology, it provides the single-person and multi-person posture estimate technology, precisely estimating 14 major key points of human in pictures or videos and giving corresponding confidence coefficient. It can be applied for analysis, estimate and detection of human movement and posture in different fields\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Pose Estimation\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/body/pose-estimation\",\"classTag\":\"\"}],\"desc\":\"Based on the industry-leading AI technology, it provides the single-person and multi-person posture estimate technology, precisely estimating 14 major key points of human in pictures or videos and giving corresponding confidence coefficient. It can be applied for analysis, estimate and detection of human movement and posture in different fields\"}",
 		"id":1073
 	},
 	{

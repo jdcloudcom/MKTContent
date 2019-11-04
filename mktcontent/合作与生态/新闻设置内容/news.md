@@ -1176,6 +1176,14 @@
 		"news_title":"Strength Speaks | JD Cloud is selected to the Top camp of cloud computing enterprises with its innovation ability"
 	},
 	{
+		"summary":"JD Cloud, ranking in the first quadrant of the manufacturer competition pattern in Chinese Government Affairs Cloud Market, is well recognized from its existing market place to future development capacity.",
+		"image_url":"//img1.jcloudcs.com/cms/0da42fb7-443d-4c80-92b3-3aed41d5399820190809163929.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_603",
+		"jss_key":"News_Content_603",
+		"id":603,
+		"news_title":"JD Cloud ranks in the first quadrant in the CCID Government Affairs Cloud Report"
+	},
+	{
 		"summary":"Due to full advent of the digital era, digital technologies represented by cloud computing, big data, IoT and AI are driving the revolution and renascence of all industries. Not only enterprises need to create greater value with digital transformation, but also government organs need to further improve the efficiency of government operations and enhance the public service level by means of digital transformation.",
 		"image_url":"//img1.jcloudcs.com/cms/551186ff-c251-4812-a9dd-a58fd3c5f58420190809183802.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_604",
@@ -1190,6 +1198,14 @@
 		"jss_key":"News_Content_605",
 		"id":605,
 		"news_title":"JD Cloud Gaoqing Urban Chat Room Licensing Ceremony & Gaoqing Brand Release Conference were Held Successfully"
+	},
+	{
+		"summary":"On July 25, 2019, according to the latest Performance Evaluation Report of Virtual Machines in June 2019 released by Bonree, \"JD Cloud-Beijing\" took the crown in the complex ranking list, ranking the first place for consecutive 5 months, while \"JD Cloud-Shanghai\" was ranked the second place.",
+		"image_url":"//img1.jcloudcs.com/cms/2a7e9f6a-418e-495f-9f96-1ea4021edfa220190812142347.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_606",
+		"jss_key":"News_Content_606",
+		"id":606,
+		"news_title":"In Bonree's ranking list for June, JD Cloud-Beijing Node ranked the first place for consecutive 5 months while Shanghai Node took the second place"
 	},
 	{
 		"summary":"On August 13, JD released second quarter results of 2019. Four core indexes including revenue, profit, cash flow and active users all showed strong growth. In the technical research and development investment, JD Group keeps high investment: investment in technology research and development reached RMB 3.7 billion in the second quarter, increased 34% year-on-year. Technology is becoming the core driving force of industrial development.",
@@ -1438,5 +1454,37 @@
 		"jss_key":"News_Content_660",
 		"id":660,
 		"news_title":"Minecraft: Education Edition Lit Three Keywords of Education Informatization 2.0"
+	},
+	{
+		"summary":"The Exhibition on Shanxi Industrial Transformation and Upgrade Achievements was held at Shanxi Provincial Exhibition Hall. Themed with \"Innovation, Intelligence, Green and High-end\", this exhibition is characterized with emphasis on important achievements obtained by Shanxi Province in respect of practicing new development concept and fostering new development drives, presenting the innovation-driven transformation image with optimized structure. JD Cloud also participated in the exhibition to emphatically present the cooperation concepts and achievements of the Parties in respect of digital economy, big data, agriculture and e-commerce industry development after JD Cloud entered Datong.",
+		"image_url":"//img1.jcloudcs.com/cms/7d7b13b3-65c1-48ee-98f1-a51fc21c441020191022190051.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_672",
+		"jss_key":"News_Content_672",
+		"id":672,
+		"news_title":"JD Cloud attended the Exhibition on Shanxi Industrial Transformation and Upgrade Achievements to join hands with Datong to create new development patterns of data-driven industry"
+	},
+	{
+		"summary":"The H5 face swapping video app of 70 Years, I'm the Protagonist launched by JD AI, JD Cloud and the People's Daily new media received high attention during the just past National Day. This is the first national customized film greeting the National Day in China. The online user can revive the 70-year extraordinary times of China as long as he or she uploads a front face picture to incarnate as the protagonist of the micro film by AI face swapping technology.",
+		"image_url":"//img1.jcloudcs.com/cms/5d953a40-fc5b-4bee-bef4-abedf096394120191023160352.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_673",
+		"jss_key":"News_Content_673",
+		"id":673,
+		"news_title":"JD Cloud technology behind H5 face swapping video app of 70 Years, I'm the Protagonist  Process tens of thousands of face swapping tasks in over ten seconds"
+	},
+	{
+		"summary":"On October 23-24, Itcast.cn \"1024 No Bug Fair\" was opened at ZPark Plaza (Houchangcun) in celebration of 1024 Programmer's Day. As a cooperative enterprise of Itcast.cn, JD Cloud participated in the \"Joint Promotion on 1024 Programmer's Day\" held by it. Together with more than 20 enterprises on the scene, JD Cloud sent benefits to and interacted with the programmers in the booth set up in the fair, bringing site experience of warmth and happiness of the festival to the majority of programmers.",
+		"image_url":"//img1.jcloudcs.com/cms/790cb26a-998d-429f-bd8d-c632a19b08e720191024185958.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_676",
+		"jss_key":"News_Content_676",
+		"id":676,
+		"news_title":"1024 No Bug Fair Opens  JD Cloud Provides Serverless Backend Application Scenarios Experience"
+	},
+	{
+		"summary":"On October 24, GeekPwn2019 was held again. Top geeks worldwide gathered in Shanghai to explore potential security problems of industrial intelligence and consumer intelligence by rehearsing security risks, putting on a long awaited \"summit duel\".",
+		"image_url":"//img1.jcloudcs.com/cms/385fc4fa-8002-401f-85a4-85b786af5f3720191025183942.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_677",
+		"jss_key":"News_Content_677",
+		"id":677,
+		"news_title":"GeekPwn2019 Staged Reinforced Battle  JD Showed Hardcore Strength in Security"
 	}
 ]

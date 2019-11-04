@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Automatic Speech Recognition\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/voice/automatic-speech-recognition\",\"classTag\":\"\"}],\"desc\":\"Convert speech into text. Support recognition of multiple scenarios and provide voice solutions for scenarios such as retail, customer service and finance\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Automatic Speech Recognition\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/voice/automatic-speech-recognition\",\"classTag\":\"\"}],\"desc\":\"Convert speech into text. Support recognition of multiple scenarios and provide voice solutions for scenarios such as retail, customer service and finance\"}",
 		"id":1001
 	},
 	{

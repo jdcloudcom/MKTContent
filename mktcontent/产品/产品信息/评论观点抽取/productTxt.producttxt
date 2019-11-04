@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Commentary Extraction\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/commentary-extraction\",\"classTag\":\"\"}],\"desc\":\"Automatically analyze the commentary focus and point, extract the viewpoint tags for the comment. Assist users with content generation, decision-making on product, operation monitoring and so on\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Commentary Extraction\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/commentary-extraction\",\"classTag\":\"\"}],\"desc\":\"Automatically analyze the commentary focus and point, extract the viewpoint tags for the comment. Assist users with content generation, decision-making on product, operation monitoring and so on\"}",
 		"id":1045
 	},
 	{

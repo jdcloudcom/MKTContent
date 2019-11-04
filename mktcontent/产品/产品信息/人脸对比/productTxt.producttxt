@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Face Compare\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/face/face-compare\",\"classTag\":\"\"}],\"desc\":\"Based on characteristic human face information, similarity level of two faces are calculated and similarity scores are returned to judge if this is the same person\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Face Compare\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/face/face-compare\",\"classTag\":\"\"}],\"desc\":\"Based on characteristic human face information, similarity level of two faces are calculated and similarity scores are returned to judge if this is the same person\"}",
 		"id":1009
 	},
 	{

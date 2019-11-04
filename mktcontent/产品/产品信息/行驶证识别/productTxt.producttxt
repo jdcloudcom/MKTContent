@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Vehicle License Recognize\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/ocr/vehicle-license-recognize\",\"classTag\":\"\"}],\"desc\":\"Based on leading deep-learning technology of the industry, recognize key field recognition in vehicle license pages, including key fields: plate number, vehicle type, owner, address, use nature, brand model, vehicle identification number, engine number, registration date and issue date, achieving accuracy and reliability\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Vehicle License Recognize\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/vehicle-license-recognize\",\"classTag\":\"\"}],\"desc\":\"Based on leading deep-learning technology of the industry, recognize key field recognition in vehicle license pages, including key fields: plate number, vehicle type, owner, address, use nature, brand model, vehicle identification number, engine number, registration date and issue date, achieving accuracy and reliability\"}",
 		"id":1057
 	},
 	{

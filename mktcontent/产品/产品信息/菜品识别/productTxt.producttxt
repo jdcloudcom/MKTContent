@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Food Recognition\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/image/food-recognition\",\"classTag\":\"\"}],\"desc\":\"Based on the leading fine-grained image identification technology of the industry, Chinese food can be precisely recognized and food name can be returned\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Food Recognition\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/food-recognition\",\"classTag\":\"\"}],\"desc\":\"Based on the leading fine-grained image identification technology of the industry, Chinese food can be precisely recognized and food name can be returned\"}",
 		"id":1093
 	},
 	{

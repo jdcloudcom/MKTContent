@@ -594,5 +594,13 @@
 	{
 		"name":"Network Security Key Protection Service",
 		"id":1342
+	},
+	{
+		"name":"Data Transmission DTS",
+		"id":1345
+	},
+	{
+		"name":"Edge Network Tunnel",
+		"id":1351
 	}
 ]

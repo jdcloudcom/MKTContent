@@ -2468,7 +2468,7 @@
 	{
 		"introduce":"IoT Hub  Official Release",
 		"name":"IoT Hub  Official Release",
-		"description":"The IoT Hub provides the device connection communication function to help users with collection and JD Cloud onboarding of device data; the platform provides the device management function to help users with remote management and controlling",
+		"description":"The IoT Hub provides the device connection communication function to help users with collection and JD Cloud onboarding of device data; the platform provides the device management function to help users with remote management and controlling devices; the platform offers APIs to forward and store the device data to other JD Cloud services through the rule engine so as to help users with the integration of applications.",
 		"id":2559
 	},
 	{
@@ -2476,5 +2476,35 @@
 		"name":"Support Pay-In-Advance resource pack",
 		"description":"Add Pay-In-Advance resource pack, including standard storage capacity pack and Internet downlink traffic pack.",
 		"id":2560
+	},
+	{
+		"introduce":"Data Transmission DTS  Open Beta",
+		"name":"Data Transmission DTS  Open Beta",
+		"description":"Data transmission DTS is the database migration service provided by JD Cloud, supporting migration of databases such as MySQL, MariaDB, Percona, SQL Server and MongoDB and simply and quickly migrating local self-built database to JD Cloud.",
+		"id":2561
+	},
+	{
+		"introduce":"Support real-time monitoring to cloud product logs and user business application logs",
+		"name":"Support real-time monitoring to cloud product logs and user business application logs",
+		"description":"Create log monitoring configuration in corresponding log subject as per business demand, select satisfactory logs, and make aggregation for appointed fields in logs reaching screening conditions, such as count, summarization, maximum value, minimum value and average value. Meanwhile, users can also set alarm rules and trigger alarms as per their own business demands.",
+		"id":2562
+	},
+	{
+		"introduce":"Support aggregation dimension search monitoring graph and configuration alarm.",
+		"name":"Support aggregation dimension search monitoring graph and configuration alarm",
+		"description":"Provide functions of Custom Metric Monitoring dimension search monitoring graph and configuration alarm and meet users’ statistical demands for multi-dimensional monitoring data.",
+		"id":2563
+	},
+	{
+		"introduce":"Message Trace Page Logic Optimization",
+		"name":"Message Trace Page Optimization",
+		"description":"As information distribution on the message trace page is more reasonable, users can clearly search message status of each stage.",
+		"id":2564
+	},
+	{
+		"introduce":"Users can customizer subscription parameters in a specific range",
+		"name":"Support subscription configuration customization",
+		"description":"Users can customize extraction of message hiding time, maximum retry times and enabling of dead letter queue or not in a specific range.",
+		"id":2565
 	}
 ]

@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Face Search\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/face/face-search\",\"classTag\":\"\"}],\"desc\":\"The same face will be compared to N faces in the face base, the most similar face or faces will be found out and a series of similar face information and similarity scores will be returned, for verifying user’s identity, face swiping access control, security and protection monitoring and relevant scenarios\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Face Search\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/face/face-search\",\"classTag\":\"\"}],\"desc\":\"The same face will be compared to N faces in the face base, the most similar face or faces will be found out and a series of similar face information and similarity scores will be returned, for verifying user’s identity, face swiping access control, security and protection monitoring and relevant scenarios\"}",
 		"id":1013
 	},
 	{

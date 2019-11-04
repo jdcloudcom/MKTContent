@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Syntactic Parsing\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/syntactic-parsing\",\"classTag\":\"\"}],\"desc\":\"Provide dependency relationship and syntactic structure information between words in texts (such as subject-verb-object and attribute-adverbial-complement) and help the machine precisely understand the user’s intentions\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Syntactic Parsing\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/syntactic-parsing\",\"classTag\":\"\"}],\"desc\":\"Provide dependency relationship and syntactic structure information between words in texts (such as subject-verb-object and attribute-adverbial-complement) and help the machine precisely understand the user’s intentions\"}",
 		"id":1033
 	},
 	{

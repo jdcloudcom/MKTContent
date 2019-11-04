@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Text Categorization\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/text-categorization\",\"classTag\":\"\"}],\"desc\":\"Recognize field information of user’s speech and provide categorizations of 17 fields, including song, broadcasting, story, encyclopedia, weather, time, news, life style search, travel, stock, shopping, loudspeaker box instruction, household instruction, chatting, translation, computer and alarm clock\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Text Categorization\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/text-categorization\",\"classTag\":\"\"}],\"desc\":\"Recognize field information of user’s speech and provide categorizations of 17 fields, including song, broadcasting, story, encyclopedia, weather, time, news, life style search, travel, stock, shopping, loudspeaker box instruction, household instruction, chatting, translation, computer and alarm clock\"}",
 		"id":1049
 	},
 	{

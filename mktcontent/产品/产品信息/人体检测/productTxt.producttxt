@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Human Detection\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/body/human-detection\",\"classTag\":\"\"}],\"desc\":\"Based on industry-leading AI technology, it can precisely detect humans in images or videos and return human coordinate of high precision in a rectangular box\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Human Detection\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/body/human-detection\",\"classTag\":\"\"}],\"desc\":\"Based on industry-leading AI technology, it can precisely detect humans in images or videos and return human coordinate of high precision in a rectangular box\"}",
 		"id":1077
 	},
 	{

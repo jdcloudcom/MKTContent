@@ -1,0 +1,50 @@
+<p style="text-indent: 2em;">On October 23-24, Itcast.cn "1024 No Bug Fair" was opened at ZPark Plaza (Houchangcun) in celebration of 1024 Programmer's Day. As a cooperative enterprise of Itcast.cn, JD Cloud participated in the "Joint Promotion on 1024 Programmer's Day" held by it. Together with more than 20 enterprises on the scene, JD Cloud sent benefits to and interacted with the programmers in the booth set up in the fair, bringing site experience of warmth and happiness of the festival to the majority of programmers.</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/b6c72b04-d8b6-489b-8668-48f61b63fa4920191024190218.jpg" title="" alt="modify1.jpg"/></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">It is understood that "1024 No Bug Fair" is divided into 6 exhibition areas for programmers specially - professional debugging Lab, anti-hair loss motor, Debug concert hall, anti-scapegoat database, sincerely · lasting relationship dating party, technology library, which can easily solve the bugs they encounter in work, health, love, equipment and learning.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/b1336a21-5bd3-4be1-9189-7767b5ffd7ae20191024190227.jpg" title="" alt="modify2.jpg"/></p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em;">In order to send blessings and care to programmers in this special festival, JD Cloud actively participated in the activities and provided Serverless (JD Cloud function service) backend application scenarios experience on site.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/e614ed7d-50df-4150-a0bc-699da1533b3720191024190238.jpg" title="" alt="modify3.jpg"/></p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em;">JD Cloud Function Service is an event-driven Serverless computing service. With Function Service platform, users can elastically, reliably run business codes, rapidly construct applications and services without configuring and managing infrastructures such as servers, and only need to pay the resources that the codes actually consume.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">According to the on-site staff of JD Cloud, to experience the backend application scenarios of JD Cloud Serverless, you only need three steps: APP login, experience and submission. Upon completion, you can also get gifts and coupons from JD Cloud and participate in the lucky draw.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">On site, JD Cloud booth attracted many programmers.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">&nbsp; "We have participated in the off-line salon of JD Cloud before, and our company is engaged in agricultural and sideline products. We would like to know more about the relevant services of blockchain with you."</p>
+<p><br/></p>
+<p style="text-indent: 2em;">"My server is about to expire, and I am comparing your cloud services with other platforms’. The price of yours is very nice, so I will buy and try it for a year."</p>
+<p><br/></p>
+<p style="text-indent: 2em;">"I have heard of Serverless before, but I don't know it very well. Now, I am very clear about it from the face-to-face interpretation. I will go back to have a try and learn it."</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In 2019, Serverless is regarded as the most potential cloud computing technology development direction by Gartner, and is endowed with an inevitable development trend. Serverless changed the form of computing resources from the underlayer, which brought a new design idea for software architecture design and application service deployment. In the industry, there is no accepted accurate definition of Serverless. JD Cloud believes that Serverless technology can be realized in three ways:</p>
+<p><br/></p>
+<p style="text-indent: 2em;">The real no server is the so-called function computing FaaS;</p>
+<p><br/></p>
+<p style="text-indent: 2em;">The native container similar to JD Cloud is directly presented to users, and no supports of virtual machine are needed.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">The virtual machine behind the widely used no server is provided by cloud manufacturers, but it is not visible the users, so the container is still provided as a virtual machine.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Currently, JD Cloud Serverless is still under development, and the complete Serverless practice needs the following modules:</p>
+<p><br/></p>
+<p style="text-indent: 2em;">FaaS providing computing power;</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Queue Service and Notification Service providing communication capabilities;</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Serverless KV and Object Storage providing persistence capability;</p>
+<p><br/></p>
+<p style="text-indent: 2em;">API Gateway providing entry;</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Step Function providing choreography capability.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">JD Cloud Serverless is featured by zero operation and maintenance, auto scaling, billing on demand, etc. With the massive computing resources provided by JD Cloud, the Function Service has a nearly unlimited elastic expansion capability, and developers can easily and quickly conduct iteration and deployment, more effectively make use of computing resources and greatly reduce the operating and development costs, by only focusing on the code itself.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Currently, JD Cloud has provided FaaS, Queue Service, Object Storage and API Gateway, and other modules will be released in succession in the near future. Facing the future, JD Cloud hopes to go deeper in the field of cloud computing and invest more in the field of Serverless, so as to bring more high-quality experience to programmers and users.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In the end, JD Cloud wishes all programmers a happy holiday!</p>
+<p><br/></p>
