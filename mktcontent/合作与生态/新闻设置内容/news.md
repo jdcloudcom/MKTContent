@@ -1510,5 +1510,13 @@
 		"jss_key":"News_Content_681",
 		"id":681,
 		"news_title":"爱分析：京东云—中国零售科技创新企业综合前十"
+	},
+	{
+		"summary":"业界最具影响力之一的开源年度盛会 “2019中国开源年会（COSCon'19）”在上海举办。京东云参加了此次年会，并带来主题演讲，全面展示京东云开源产品、技术与服务，与现场的开源小伙伴共同探讨“开源之道”。",
+		"image_url":"//img1.jcloudcs.com/cms/2009c6ad-dc21-4c14-bbf4-00e86b2f09a020191104142145.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_682",
+		"jss_key":"News_Content_682",
+		"id":682,
+		"news_title":"京东云参加2019中国开源年会  探寻区块链数据服务的开源之路"
 	}
 ]
