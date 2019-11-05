@@ -12,7 +12,7 @@
 		"id":1397
 	},
 	{
-		"txt":"[{\"name\":\"物联网设备监控\",\"instruction\":\"通过IoT平台采集用户物联网设备的监控指标，数据全量写入TSDS，监控系统访问TSDS进行可视化监控。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c6d2a3bf-99b5-4fea-9032-5907177714b420190726151550.png\",\"showShade\":false},{\"name\":\"互联网业务性能监控\",\"instruction\":\"日志与监控指标写入Kafka，通过Flink 进行业务规则的实时计算，将计算结果存储到TSDS，业务监控系统访问TSDS数据进行系统分析与数据展示。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9b3a6b7c-81a8-4f21-86d6-cdd0d026c1ac20190726151557.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"物联网设备监控\",\"instruction\":\"通过IoT平台采集用户物联网设备的监控指标，数据全量写入InfluxDB，监控系统访问InfluxDB进行可视化监控。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c6d2a3bf-99b5-4fea-9032-5907177714b420190726151550.png\",\"showShade\":false},{\"name\":\"互联网业务性能监控\",\"instruction\":\"日志与监控指标写入Kafka，通过Flink 进行业务规则的实时计算，将计算结果存储到InfluxDB，业务监控系统访问InfluxDB数据进行系统分析与数据展示。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9b3a6b7c-81a8-4f21-86d6-cdd0d026c1ac20190726151557.png\",\"showShade\":false}]",
 		"id":1398
 	}
 ]
