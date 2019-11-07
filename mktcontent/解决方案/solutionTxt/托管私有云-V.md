@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"托管私有云-V\",\"description\":\"基于京东云托管物理计算服务，深度整合VMware标准套件，交付客户企业级混合云解决方案。客户可轻松将现有VMware环境从本地扩展至京东云上，并享受一站式贴心服务。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/004a0541-8712-4b8a-9378-66839b43dc7520190830193421.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[],\"tagMetas\":[]}]}",
+		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"托管私有云-V\",\"description\":\"基于京东云托管物理计算服务，深度整合VMware标准套件，交付客户企业级混合云解决方案。客户可轻松将现有VMware环境从本地扩展至京东云上，并享受一站式贴心服务。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/004a0541-8712-4b8a-9378-66839b43dc7520190830193421.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[{\"name\":\"立即咨询\",\"link\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"https://www.jdcloud.com/cn/forms/consultation\"}],\"tagMetas\":[]}]}",
 		"templet":"11",
 		"id":761,
 		"solution_id":"158"
@@ -12,7 +12,7 @@
 		"solution_id":"158"
 	},
 	{
-		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"应用场景图\",\"name\":\"newTab-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cd1708f6-e83a-4578-864c-6939df5a718220190902190709.png\",\"title\":\"应用场景说明\",\"descriptionDetail\":\"京东云提供基于托管物理计算服务的VMware解决方案，以解决托管客户的私有云部署。同时客户可通过专线或内部专用网络，连接用户私有数据中心VMware环境、京东云托管私有云VMware环境以及京东云公有云服务环境，轻松构建混合云环境。\n\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"应用场景图\",\"name\":\"newTab-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cd1708f6-e83a-4578-864c-6939df5a718220190902190709.png\",\"title\":\"应用场景说明\",\"descriptionDetail\":\"京东云提供基于托管物理计算服务的VMware解决方案，以解决托管客户的私有云部署。同时客户可通过专线或内部专用网络，连接用户私有数据中心VMware环境、京东云托管私有云VMware环境以及京东云公有云服务环境，轻松构建混合云环境。\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
 		"templet":"31",
 		"id":763,
 		"solution_id":"158"
