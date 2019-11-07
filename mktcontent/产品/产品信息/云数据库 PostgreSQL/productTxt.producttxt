@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云数据库 PostgreSQL\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://rds-console.jdcloud.com/rds/create?dataCenter=cn-north-1\",\"classTag\":\"\"}],\"desc\":\"云数据库 PostgreSQL 是京东云基于开源的 PostgreSQL 10.6 版本构建的一款功能强大的关系型数据库，其内置支持丰富的数据类型（JSON、XML、文本等等）。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云数据库 PostgreSQL\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://rds-console.jdcloud.com/rds/create?dataCenter=cn-north-1\",\"classTag\":\"\"}],\"desc\":\"云数据库 PostgreSQL 是京东云基于开源的 PostgreSQL构建的一款功能强大的关系型数据库，支持丰富的数据类型及地理信息扩展，具有强大的并行计算能力。支持备份、监控、迁移等全套解决方案。\"}",
 		"id":880
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":882
 	},
 	{
-		"txt":"[{\"name\":\"GIS 场景\",\"instruction\":\"云数据库 PostgreSQL 提供了 PostGIS 插件，支持所有的空间数据类型的存取和分析，从而更方便地构建基于 GIS 数据类型的软件服务。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/96e55be2-4091-4996-af1a-28e38f3a67fb20190321104546.png\",\"showShade\":false},{\"name\":\"数据分析场景\",\"instruction\":\"相比较于其他的关系型数据库（云数据库 MySQL，SQL Server等），云数据库 PostgreSQL 由于其自身产品特性，针对 OLAP 场景有更好的支持。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a9610b53-dc37-4613-b336-929c5bd0812520190321104553.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"GIS 场景\",\"instruction\":\"云数据库 PostgreSQL 提供了 PostGIS 插件，支持PostGIS空间类型，支持GIS几何数据类型、范围类型、IP类型，可满足基于地理位置的空间查询、空间索引、空间分析，从而更方便地构建基于 GIS 数据类型的软件服务。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/96e55be2-4091-4996-af1a-28e38f3a67fb20190321104546.png\",\"showShade\":false},{\"name\":\"数据分析场景\",\"instruction\":\"相比较于其他的关系型数据库（云数据库 MySQL，SQL Server等），云数据库 PostgreSQL 由于其自身产品特性，针对 OLAP 场景有更好的支持。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a9610b53-dc37-4613-b336-929c5bd0812520190321104553.png\",\"showShade\":false}]",
 		"id":883
 	},
 	{
