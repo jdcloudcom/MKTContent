@@ -1,0 +1,41 @@
+<p style="text-indent: 2em;">November 2 - 3, 2019, COSCon&#39;19, one of the most influential open source yearly events throughout the world, was held in Shanghai. JD Cloud participated in this event and gave its key-note speech to display JD Cloud's open source products, technologies and services in an all-round way and discuss the "approach to open source" with the fellows on the spot.</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/79633a2b-813d-4ed1-9aa3-3f70a34ef0af20191104142204.jpg" title="" alt="modify1.jpg"/></p>
+<p style="text-indent: 2em; text-align: center;">JD Cloud Joined COSCon&#39;19</p>
+<p><br/></p>
+<p style="text-indent: 2em;">On October 25, the 18th collective study of the Political Bureau of the CPC Central Committee emphasized: Blockchain will be taken as an essential way in independent innovation of core technologies, to accelerate the development of blockchain technology and industrial innovation. As a data service platform integrating depth and breadth in the current blockchain industry, JD Cloud Blockchain Data Service (BDS) will play an important role in facilitating the development of blockchain innovative enterprises.</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>Ways to Open Source for JD Cloud BDS</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">A blockchain consists of a series of blocks connected in chronological order. In each block, there is some information on transaction, account and others stored. Each block is like a paper ledger, in which the day-to day accounts of many people are recorded. If we want to view how many large expenses there were in the paper ledgers in the last year, we need to fetch out all ledgers, and read through each of them from beginning to end to find out the corresponding records. In other words, each block is also like a paper book. If we want to search certain keywords from a pile of paper books, there is no other way to do it except to read through each of them from beginning to end. Data on blockchain is discrete, so more effective data organization methods are required to facilitate further query and analysis.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">With the blockchain technology becoming hotter and hotter, hundreds of projects have been produced in the entire industry such as some well-known public chain projects as BTC, ETH and XRP, some well-known alliance chain projects as Fabric, Enterprise Ethereum Alliance and Corda R3, and some private chain projects. Each chain, whether it is public chain, alliance chain or private chain, is an isolated island with a lot of information, having its own characteristics in technology and many similarities in underlayer data model. Each blockchain project is like a mobile App. We can make statistics for and analyze the total number of users, daily active users, monthly active users, preservation, utilization rate, user balance, average transaction amount and other general indicators of each project.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">How to link information islands among multiple blockchain projects, make the unordered and scattered block data become ordered relational data easy to query, aggregate the transparent, consensual and reliable data and information on the chain, provide analysis and modeling services, and empower the development of the Internet industry is a significant manifestation of the value of the blockchain technology industry.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Currently, JD Cloud Blockchain Data Service is building an industry-standard BI+ data search service for blockchain. However, the underlayer block storage structure of each blockchain project is different, so data of different projects need to be analyzed and sorted out. Therefore, JD Cloud has opened up Blockchain Data Service BDS, hoping that more developers and communities can participate in and more blockchain projects such as public chain, alliance chain and private chain can be connected to this. Blockchain Data Service will aggregate all blockchain-related content in the form of blockchain data search engine, maximize the value of reliable data on the blockchain, and facilitate communities to conduct one-stop search of blockchain data on BDS.</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/591de4ea-c97e-4bf2-9b6b-2adac8e4f06020191104142228.jpg" title="" alt="modify2.jpg"/></p>
+<p style="text-indent: 2em; text-align: center;">Architecture Diagram to Open Source for JD Cloud BDS</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Currently, JD Cloud BDS team has opened source for two service modules, Blochain Node and Splitter. The Blochain Node module has opened source for 10 public chain analysis codes, including BTC Node, BCH Node, BSV Node and ETH Node. In the future, JD Cloud BDS team will continue to open source for other full-node services.</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>JD Cloud offers four open source support plans</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">JD Cloud provides free cloud services and cloud marketplace ecological resources support for open source projects to solve the problems such as the lack of underlayer cloud resources, technical supports and ecological cooperation which are encountered by developers during the process of developing open source projects. Help source projects to develop rapidly, and achieve the dream of open source. The four open source support plans include:</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">Cloud resource support: Provide life-long free cloud resource support for open source projects; users who cooperate with open source projects can enjoy more long-term discount when they purchase JD Cloud services.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Cloud marketplace ecology support: JD Cloud is committed to cooperate with partners in various industries to build a large ecological alliance on cloud for open empowerment and jointly bringing services and values to customers.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Technical support: Provide free data migration, customized services, one-to-one guidance by technical expert, 7x24 customer service, etc. based on the cooperation content of each project.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Project promotion &amp; other supports: JD Cloud Developer Community has fully supported the promotion of open source projects.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">At this COSCon&#39;19, Li Daobing, the Senior Director of Product Research and Development Department of JD Cloud, shared us a subject themed on the Launch Method of Cloud Native on Cloud, displaying us the launch schemes of JD Cloud on JD Distributed Service, Kubernetes, and Serverless. Li Daobing pointed out, "Currently, JD is operating the worldwide largest Docker cluster and JCS for Kubernetes as well as one of the most complicated Vitess clusters. As a platinum member of the CNCF, JD Cloud has been promoting the application and practice of open source technology by use of its rich business scenarios and contributing value to the open source ecology, thus driving the technological development of the whole industry."</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/2444439c-0b20-40a6-b42b-dae969aaf44120191104142301.jpg" title="" alt="modify3.jpg"/></p>
+<p style="text-indent: 2em; text-align: center;">Li Daobing, the Senior Director of Product Research and Development Department of JD Cloud</p>
+<p><br/></p>
+<p style="text-indent: 2em;">This conference was themed with "Let’s Cross the Boundaries Together", which also represented that the open source in China can keep on going to the world and a glorious future. JD Cloud wishes to cooperate with the open source partners to jointly produce content, promote and implement the open source technology in China to the global.</p>
+<p><br/></p>

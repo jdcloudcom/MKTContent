@@ -222,5 +222,13 @@
 	{
 		"name":"Intelligent News Service Platform for Convergence Media",
 		"id":166
+	},
+	{
+		"name":"JD Cloud Smart Marketing",
+		"id":171
+	},
+	{
+		"name":"JD Cloud Insight - Research",
+		"id":175
 	}
 ]

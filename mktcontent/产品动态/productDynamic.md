@@ -2506,5 +2506,11 @@
 		"name":"Support subscription configuration customization",
 		"description":"Users can customize extraction of message hiding time, maximum retry times and enabling of dead letter queue or not in a specific range.",
 		"id":2565
+	},
+	{
+		"introduce":"Edge Network Tunnel  Open Beta",
+		"name":"Edge Network Tunnel  Open Beta",
+		"description":"Edge Network Tunnel is a network penetration service built on the basis of telecommunication edge network and mass fragmented idle resource nodes. Obtain quality edge trunk line with this service and realize end-to-end quick connection and content transmission",
+		"id":2566
 	}
 ]

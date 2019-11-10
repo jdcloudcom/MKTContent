@@ -1486,5 +1486,37 @@
 		"jss_key":"News_Content_677",
 		"id":677,
 		"news_title":"GeekPwn2019 Staged Reinforced Battle  JD Showed Hardcore Strength in Security"
+	},
+	{
+		"summary":"The global data survey authority IDC officially released the report of IDC MarketScape: Worldwide DevOps Services. 2019 Vendor Assessment. As shown in this report, JD Cloud was named one of the major players based on the comprehensive assessment on existing product capability, future policy and input, market performance and customer satisfaction.",
+		"image_url":"//img1.jcloudcs.com/cms/90013523-06e4-4a92-849f-267768410d6520191030180718.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_679",
+		"jss_key":"News_Content_679",
+		"id":679,
+		"news_title":"IDC MarketScape: JD Cloud Named as a Major Player of DevOps Cloud Marketplace in China"
+	},
+	{
+		"summary":"My People, My Country has its post rendering tasks done by Xrender, a leading domestic rendering service platform for graph cloud cluster, who provides an all-round 7*24H professional team for project rendering service. Taking JD Cloud's product and platform as the technology output, Xrender creates a public cloud rendering platform and configures a large-scale high-performance rendering data center based on public cloud leading resources to ensure the completion of projects as per the schedule and quality.",
+		"image_url":"//img1.jcloudcs.com/cms/aaf8bed8-c1e5-423a-8bba-53668f7950da20191031130418.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_680",
+		"jss_key":"News_Content_680",
+		"id":680,
+		"news_title":"Rendering Effect behind My People, My Country: Using Nearly 1,000 JD Cloud Servers"
+	},
+	{
+		"summary":"JD Cloud was named in ifenxi's annual ranking list \"Top 50 Retail Technical Innovation Enterprises in China\" and ranked Top 10 on the comprehensive list and took the second place in the ranking of retail cloud service providers. Huang Yong, ifenxi consulting senior analyst, believed that, \"Based on its accumulative technical and service capabilities in scenarios, diversified retail scenarios, full-link marketing service capability and rich ecological layout, JD Cloud has laid a solid foundation for the innovation of retail technology enterprises.\"",
+		"image_url":"//img1.jcloudcs.com/cms/ad4b07ce-eae0-4e0a-a32f-7eaaf7b417e220191101180501.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_681",
+		"jss_key":"News_Content_681",
+		"id":681,
+		"news_title":"ifenxi: JD Cloud — Top 10 on Comprehensive List of Retail Technical Innovation Enterprises in China"
+	},
+	{
+		"summary":"COSCon’19, one of the most influential open source yearly events throughout the world, was held in Shanghai. JD Cloud participated in this event and gave its key-note speech to display JD Cloud's open source products, technologies and services in an all-round way and discuss the \"approach to open source\" with the fellows on the spot.",
+		"image_url":"//img1.jcloudcs.com/cms/2009c6ad-dc21-4c14-bbf4-00e86b2f09a020191104142145.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_682",
+		"jss_key":"News_Content_682",
+		"id":682,
+		"news_title":"JD Cloud Joined COSCon’19   Explored Way to Open Source for Blockchain Data Service"
 	}
 ]

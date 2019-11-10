@@ -600,7 +600,15 @@
 		"id":1345
 	},
 	{
+		"name":"Cloud Disaster Recovery",
+		"id":1349
+	},
+	{
 		"name":"Edge Network Tunnel",
 		"id":1351
+	},
+	{
+		"name":"Mobile Live Video Broadcasting SDK",
+		"id":1352
 	}
 ]
