@@ -1,0 +1,41 @@
+<p><span style="font-family:Calibri, sans-serif">您好，</span>
+京东云计划于<span style="font-family: Calibri, sans-serif;">2019</span>
+年<span style="font-family: Calibri, sans-serif;">11</span>
+月<span style="font-family: Calibri, sans-serif;">13</span>
+日<span style="font-family: Calibri, sans-serif;">22:00</span>
+至<span style="font-family: Calibri, sans-serif;">11</span>
+月<span style="font-family: Calibri, sans-serif;">14</span>
+日<span style="font-family: Calibri, sans-serif;">02:00 </span>
+，在【华北<span style="font-family: Calibri, sans-serif;">-</span>
+北京】地域进行云文件服务（<span style="font-family: Calibri, sans-serif;">CFS</span>
+）功能升级，提供容量型规格产品，并开放【华东<span style="font-family: Calibri, sans-serif;">-</span>
+上海】地域<span style="font-family: Calibri, sans-serif;">CFS</span>
+标准型规格服务，届时将停止【华北<span style="font-family: Calibri, sans-serif;">-</span>
+北京】地域云文件服务（<span style="font-family: Calibri, sans-serif;">CFS</span>
+）的控制台及<span style="font-family: Calibri, sans-serif;">OpenAPI</span>
+相关服务。</p>
+<p><span style=";color:black">影响如下：</span>
+</p>
+<p><span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">&nbsp; &nbsp; &nbsp; &nbsp; </span>
+<span style=";color:black">云文件服务（</span>
+<span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">CFS</span>
+<span style=";color:black">）控制台【华北</span>
+<span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">-</span>
+<span style=";color:black">北京】地域列表页暂停服务，不可进行</span>
+<span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">“</span>
+<span style=";color:black">创建</span>
+<span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">”</span>
+<span style=";color:black">操作，暂停对应功能的</span>
+<span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">OpenAPI</span>
+<span style=";color:black">服务，其他操作不受影响。</span>
+</p>
+<p><span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">&nbsp; &nbsp; &nbsp; &nbsp; </span>
+<span style=";color:black">此次功能升级不影响您现有云文件服务的正常运行。上线完成后，控制台相关功能及</span>
+<span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">OpenAPI</span>
+<span style=";color:black">对应接口将恢复正常使用。</span>
+</p>
+<p><span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">&nbsp; &nbsp; &nbsp; &nbsp; </span>
+<span style=";color:black">上线期间如果遇到相关问题，请您随时与京东云客服联系（电话：</span>
+<span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">4006151212</span>
+<span style=";color:black">），感谢您对京东云的支持。</span>
+</p>
