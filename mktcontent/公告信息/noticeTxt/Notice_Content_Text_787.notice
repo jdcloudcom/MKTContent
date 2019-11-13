@@ -1,0 +1,5 @@
+<p style="margin-left:28px;text-indent:28px"><span style="font-family: 微软雅黑, sans-serif; color: rgb(38, 38, 38); font-size: 12px;">您好</span>
+</p>
+<p style="margin-left:28px;text-indent:28px"><span style="font-family: 微软雅黑, sans-serif; color: rgb(38, 38, 38); font-size: 12px;">京东云计划于2019年11月18日22:00至11月19日00:00 ，在【华北-北京 可用区B】进行云物理服务器（CPS）底层服务升级，届时将停止【所有地域】的云物理服务器服务（CPS）的控制台及OpenAPI相关服务。<br/> <br/> 影响如下：<br/> <br/> 云物理服务器（CPS）控制台显示维护中页面，不可进行任何操作，暂停所有实例操作的OpenAPI服务，其他地域查询等操作不受影响。<br/> <br/> 此次功能升级不影响您现有云物理服务器的正常运行。上线完成后，控制台相关功能及OpenAPI对应接口将恢复正常使用。<br/> <br/> 上线期间如果遇到相关问题，请您随时与京东云客服联系（电话：4006151212），感谢您对京东云的支持。</span>
+</p>
+<p><br/></p>
