@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"分布式关系型数据库 DRDS\",\"label\":[{\"TitleName\":\"查看详情\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/drds/product-overview\"}],\"desc\":\"DRDS是京东云精心自研的数据库中间件产品，可实现海量数据下的自动分库分表，具有高性能，分布式，弹性升级，兼容MySQL等优点，适用于高并发、大规模数据的在线交易，历史数据查询，自动数据分片等业务场景，历经多次618，双十一的考验，已经在京东集团内大规模使用。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0a73ea02-7817-44f1-930a-b49ca2dab0a920181115165844.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|82\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|82\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"分布式关系型数据库 DRDS\",\"label\":[{\"TitleName\":\"查看详情\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/drds/product-overview\"},{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://drds-console.jdcloud.com/drds/create?regionId=cn-north-1\",\"classTag\":\"\"}],\"desc\":\"DRDS是京东云精心自研的数据库中间件产品，可实现海量数据下的自动分库分表，具有高性能，分布式，弹性升级，兼容MySQL等优点，适用于高并发、大规模数据的在线交易，历史数据查询，自动数据分片等业务场景，历经多次618，双十一的考验，已经在京东集团内大规模使用。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0a73ea02-7817-44f1-930a-b49ca2dab0a920181115165844.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|82\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|82\"}",
 		"id":227
 	},
 	{
