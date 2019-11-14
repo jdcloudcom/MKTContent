@@ -1,0 +1,33 @@
+<div class="jdc-whitepaper">
+
+  <div class="jdc-common-floor jdc-whitepaper-floor">
+    <div class="jdc-common-floor-item wp-floor1">
+      <div class="w">
+        <div class="row">
+          <div class="col-6 col-xs-12">
+            <div class="wp-floor1-item wp-floor1-item-2">
+              <div class="wp-floor1-item-hd">test</div>
+              <div class="wp-floor1-item-bd">
+                <div class="wp-floor1-img">
+                  <img src="https://img1.jcloudcs.com/portal/whitepaper/wp-3.png" alt="">
+                </div>
+                <div class="wp-floor1-right">
+                  <p class="wp-floor1-txt">
+                    test
+                  </p>
+
+                  <a clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_3" target="_blank" class="jdc-btn jdc-bg" onclick="whitepaperClick()">立即查看</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+
+</div>
