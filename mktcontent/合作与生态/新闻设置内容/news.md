@@ -1534,5 +1534,29 @@
 		"jss_key":"News_Content_690",
 		"id":690,
 		"news_title":"“11.11云上集市“累计下单28.7亿 京东云成拉动区域经济消费“实力派”"
+	},
+	{
+		"summary":"国际数据公司 （IDC）《中国公有云服务市场（2019上半年）跟踪》报告显示，2019上半年中国公有云IaaS市场增速稳健，整体达到约33.6亿美元（约合人民币235亿元），同比增长72.2%。中国公有云市场集中度进一步提升，排名前10的厂商已占超过93%的市场份额。其中，京东云的增长非常亮眼，同比增速达512%。",
+		"image_url":"//img1.jcloudcs.com/cms/31f174a0-bff5-47ef-b408-67304fa727eb20191115093713.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_695",
+		"jss_key":"News_Content_695",
+		"id":695,
+		"news_title":"IDC：2019 H1京东云公有云市场份额稳步提升 同比增速512%"
+	},
+	{
+		"summary":"泡菜产业是眉山市东坡区的特色优势产业，也是区重点的主导产业。中国泡菜食品国际博览会对扩大东坡泡菜影响、加快东坡泡菜产业升级发挥了巨大作用。作为本次博览会的一大创新亮点，京东云有效整合京东商城、京东直播、京东物流、京东技术等资源为本次盛会进行互联网现场直播，以四城互动的直播方式将整体活动带入高潮。",
+		"image_url":"//img1.jcloudcs.com/cms/d4c0f174-1750-40b4-9978-a3c44cf1b48e20191115104303.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_696",
+		"jss_key":"News_Content_696",
+		"id":696,
+		"news_title":"“第十一届京东东坡泡菜节”在眉山东坡区开幕"
+	},
+	{
+		"summary":"2019TOP100全球软件案例研究峰会（TOP100summit）在北京国家会议中心举办。Top100summit是科技界一年一度的案例研究峰会，每年会秉承“从用户角度出发，挑选年度最值得学习案例”的价值理念，甄选今年一年最值得研究和参考的行业100+顶级案例。",
+		"image_url":"//img1.jcloudcs.com/cms/bc1521be-9080-47cc-9558-668c7646604a20191115152801.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_697",
+		"jss_key":"News_Content_697",
+		"id":697,
+		"news_title":"京东云入选2019年度TOP100全球软件案例 新一代服务治理框架加速行业落地"
 	}
 ]
