@@ -1,0 +1,26 @@
+[
+	{
+		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"AI智慧园区\",\"description\":\"通过京东AI、大数据、物联网等技术，实现园区管理、生活、安防、办公、展厅的全面智能化，帮助园区提升服务品质与工作效率。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/4e1b9d3d-654a-46d9-a564-d59644b99d4220191108164248.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[],\"tagMetas\":[]}]}",
+		"templet":"11",
+		"id":832,
+		"solution_id":"174"
+	},
+	{
+		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"方案架构\",\"name\":\"architecture-2\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/dcc4959d-5eca-4ccc-ab2d-560b5025ac2f20191104163703.png\"}]}",
+		"templet":"32",
+		"id":833,
+		"solution_id":"174"
+	},
+	{
+		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"产品功能\",\"name\":\"scene\",\"data\":[{\"title\":\"智能管理\",\"sceneDescription\":\"园区人员从入园到办公、生活场景、出园通行场景；车辆从入园到停车、出园场景；访客从预约到入园、出园场景；园区内全场景信息发布。\",\"solution\":\"包含园区人员各个场景刷脸通行与消费，纯AI“一脸通”；通过智能停车系统、智能访客系统、智能信息发布系统解决路难找、人难行、车难停、难访客等问题。标准API接口，简化操作步骤，方便集成。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/af058bb9-13df-47d2-aba9-2861ad40081020191104163720.png\",\"showShade\":false},{\"title\":\"智能生活\",\"sceneDescription\":\"园区内便利店、服装店、卖场、药店等商业场景，园区食堂就餐场景。\",\"solution\":\"基于智能终端部署，基于人脸识别、商品识别和语音合成等AI技术，打造AI互动引流、会员识别、智能结算和客流分析等智能应用，赋能园区线下商业门店与食堂，提升人员体验、门店评估人效。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ebce0074-c344-47df-8f9c-62881be8c84720191104163728.png\",\"showShade\":false},{\"title\":\"智能安防\",\"sceneDescription\":\"园区出入口、周界、重点核心区域等多个复杂场景，人流密集，安保人员调配响应速度不足。\",\"solution\":\"基于领先的动态布控技术的京东智慧安防3.0版本。融合“人脸识别”和“行人重识别” 技术，实现实时跨镜跟踪可疑人员，同时还具有高效的视频结构化算法扩展能力，包括行为识别、人群热力分析和基于多模态的人、物、事的识别、定位、搜索。对实时视频进行全目标解析， 实现安防由事后检索变成事前事中实时防控及快速反应。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/10083ae7-3ee7-439c-9c66-e5438701363320191104163740.png\",\"showShade\":false},{\"title\":\"智能办公\",\"sceneDescription\":\"园区内办公场景，在会议室预定、签到、员工考勤、打印、排班、物业咨询服务、基础设施管控等方面进行升级。\",\"solution\":\"通过手机APP平台集成多项智能办公应用能力，并基于人脸识别、自然语言处理、语音等AI技术，园区的服务随身随时随地可获取，节省了大量人力、时间，提升了服务满意度。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/5bc01ac0-8d3b-4553-850e-c5f85abfbb9e20191104163751.png\",\"showShade\":false},{\"title\":\"智能展厅\",\"sceneDescription\":\"园区展馆展厅、展示中心、城市会客厅场景。\",\"solution\":\"重新定义展馆，引入5G+人工智能科技，增强观众与展厅之间的互动，带来新颖的观展体验，打造智慧化服务、智慧化安全、智慧化互动、智慧化展示、智慧化管理的城市一流会客厅。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/4103e4e9-da2a-4a2e-8244-680673147fad20191104163800.png\",\"showShade\":false}]}",
+		"templet":"41",
+		"id":834,
+		"solution_id":"174"
+	},
+	{
+		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"客户案例\",\"name\":\"cases-2\",\"data\":[{\"cases\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1e85c222-2978-4f84-be85-17abd9c8ca3720191108170633.png\",\"title\":\"福清政府产业园区\",\"sketch\":\"福清政府产业园区，利用人脸、图像识别等AI技术，用智能化方案提升园区的管理效率。\",\"linkUrl\":\"www.jdcloud.com/solutions/smart-park\",\"linkClassTag\":\"1\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f9ac9457-20a9-4655-984d-b0b0ad8b94f320191108170954.png\",\"title\":\"南京麒麟区社区\",\"sketch\":\"南京麒麟区方案，实现老人轻松刷脸，即可完成身份核验，享受政府的补贴福利。\",\"linkUrl\":\"www.jdcloud.com/solutions/smart-park\",\"linkClassTag\":\"1\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0699586c-a5c3-4f55-a009-f6b8f3e9d66b20191108171003.png\",\"title\":\"重庆数字经济产业园\",\"sketch\":\"重庆数字经济产业园，实现园区员工无感刷脸入门，VIP智能迎宾体验，提升园区体验。\",\"linkUrl\":\"www.jdcloud.com/solutions/smart-park\",\"linkClassTag\":\"1\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"templet":"92",
+		"id":835,
+		"solution_id":"174"
+	}
+]
