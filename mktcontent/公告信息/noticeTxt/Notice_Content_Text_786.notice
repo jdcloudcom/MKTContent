@@ -1,0 +1,23 @@
+<p>
+<span style="font-family:Calibri, sans-serif">
+JD Cloud intends to upgrade the Cloud File Service (CFS) function in [cn-north-1] region from 22:00 on November 13, 2019 to 02:00 on November 14, 2019 to offer products of capacity type and open the service of CFS standard type in [cn-east-2] region. Therefore, the Console and OpenAPI relevant service of Cloud File Service (CFS) in [cn-north-1] region will be suspended.
+</span>
+</p>
+<p>
+<span style=";color:black">
+Influences are as follows:
+</span>
+</p>
+<p><span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">
+&nbsp; &nbsp; &nbsp; &nbsp; The Cloud File Service (CFS) Console List Page in [cn-north-1] region will be suspended and no "Create" operations is available; the OpenAPI service with corresponding functions will be suspended and the other operations will not be affected.
+</span>
+</p>
+<p>
+<span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">
+&nbsp; &nbsp; &nbsp; &nbsp; This functional upgrade will not affect the normal running of your existing Cloud File Service. After completion of release, relevant functions of the Console and corresponding APIs of OpenAPI will be resumed for normal use.
+</span>
+</p>
+<p><span style="font-family:&#39;Calibri&#39;,sans-serif;color:black">
+&nbsp; &nbsp; &nbsp; &nbsp; If you have relevant questions during the launching, please contact JD Cloud customer service personnel at any time (hotline: 4006151212). Thank you for your support to JD Cloud.
+</span>
+</p>

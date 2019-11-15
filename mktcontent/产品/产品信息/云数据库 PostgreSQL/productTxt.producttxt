@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"JCS for PostgreSQL\",\"label\":[{\"TitleName\":\"Buy Now\",\"TitleUrl\":\"http://rds-console.jdcloud.com/rds/create?dataCenter=cn-north-1\",\"classTag\":\"\"}],\"desc\":\"JCS for PostgreSQL is powerful relational database built by JD Cloud based on open source PostgreSQL 10.6 version, installing with rich data types (such as JSON, XML and text).\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"JCS for PostgreSQL\",\"label\":[{\"TitleName\":\"Buy Now\",\"TitleUrl\":\"http://rds-console.jdcloud.com/rds/create?dataCenter=cn-north-1\",\"classTag\":\"\"}],\"desc\":\"JCS for PostgreSQL is a powerful relational database built by JD Cloud based on open source PostgreSQL, with rich data types and geographic information extension as well as strong concurrent computing power. It is equipped with a whole set of solutions including backup, monitoring and migration.\"}",
 		"id":880
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":882
 	},
 	{
-		"txt":"[{\"name\":\"GIS Scenario\",\"instruction\":\"JCS for PostgreSQL provides PostGIS plug-ins and supports storage and analysis of all space data types so as to build the software services based on GIS data type in a more convenient way.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/96e55be2-4091-4996-af1a-28e38f3a67fb20190321104546.png\",\"showShade\":false},{\"name\":\"Data Analysis Scenario\",\"instruction\":\"Compared to other relational databases (JCS for MySQL, SQL Server, etc.), JCS for PostgreSQL provides better supports for OLAP scenarios due to its own product features.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a9610b53-dc37-4613-b336-929c5bd0812520190321104553.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"GIS Scenario\",\"instruction\":\"JCS for PostgreSQL is provided with PostGIS plug-ins and supports types of PostGIS space, GIS geometric data, scope and IP. It can be used for spatial query, spatial index and spatial analysis to build the software services based on GIS data type in a more convenient way.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/96e55be2-4091-4996-af1a-28e38f3a67fb20190321104546.png\",\"showShade\":false},{\"name\":\"Data Analysis Scenario\",\"instruction\":\"Compared to other relational databases (JCS for MySQL, SQL Server, etc.), JCS for PostgreSQL provides better supports for OLAP scenarios due to its own product features.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a9610b53-dc37-4613-b336-929c5bd0812520190321104553.png\",\"showShade\":false}]",
 		"id":883
 	},
 	{

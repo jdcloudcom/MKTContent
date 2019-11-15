@@ -1518,5 +1518,13 @@
 		"jss_key":"News_Content_682",
 		"id":682,
 		"news_title":"JD Cloud Joined COSCon’19   Explored Way to Open Source for Blockchain Data Service"
+	},
+	{
+		"summary":"Supported by cloud computing technologies, the 11.11 Shopping Festival every year peaks its traffic throughout the world. Official statistics showed, just from 00:00 till 14:37 on November 11, 2019, the 11.11 JD Global Shopping Festival had the order amount break through RMB 179.4 billion. By breaching RMB 131.3 billion at 00:00 and RMB 165.8 billion at 9:00 on the same day, the 11.11 JD Global Shopping Festival successively created new highs, showing strong momentum in stimulating consumption.",
+		"image_url":"//img1.jcloudcs.com/cms/82b3cbf6-b594-45bc-a742-f5cf413841fc20191111213108.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_689",
+		"jss_key":"News_Content_689",
+		"id":689,
+		"news_title":"JD Created New Highs Again of Volume of Trade in 11.11 Shopping Festival  JD Cloud Beat Challenge of Peak Pressure"
 	}
 ]

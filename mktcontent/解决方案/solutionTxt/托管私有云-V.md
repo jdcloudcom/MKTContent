@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"Private Cloud Cabinet Service-V\",\"description\":\"Based on JD Cloud Cabinet Physical Computing service, it deeply integrates VMware standard sets and delivers customers with enterprise level Hybrid Cloud Solutions. Customers can easily extend the existing VMware environment from local to JD Cloud and enjoy the close one-stop service.\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/004a0541-8712-4b8a-9378-66839b43dc7520190830193421.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[],\"tagMetas\":[]}]}",
+		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"Private Cloud Cabinet Service-V\",\"description\":\"Based on JD Cloud Cabinet Physical Computing service, it deeply integrates VMware standard sets and delivers customers with enterprise level Hybrid Cloud Solutions. Customers can easily extend the existing VMware environment from local to JD Cloud and enjoy the close one-stop service.\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/004a0541-8712-4b8a-9378-66839b43dc7520190830193421.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[{\"name\":\"Consult Now\",\"link\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"https://www.jdcloud.com/cn/forms/consultation\"}],\"tagMetas\":[]}]}",
 		"templet":"11",
 		"id":761,
 		"solution_id":"158"
@@ -12,7 +12,7 @@
 		"solution_id":"158"
 	},
 	{
-		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"Chart of Application Scenarios\",\"name\":\"newTab-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cd1708f6-e83a-4578-864c-6939df5a718220190902190709.png\",\"title\":\"Descriptions for Application Scenarios\",\"descriptionDetail\":\"JD Cloud provides the VMware solutions based on the Cabinet Physical Computing, to solve the private CodeDeploy of the cabinet service customers. Meanwhile, customers can connect the VMware environment of the user’s private data center, the VMware environment of JD Cloud Private Cloud Cabinet service as well as the public service environment of JD Cloud via a private line or an internal private network, easily building the Hybrid Cloud environment.\\n\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"Chart of Application Scenarios\",\"name\":\"newTab-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cd1708f6-e83a-4578-864c-6939df5a718220190902190709.png\",\"title\":\"Descriptions for Application Scenarios\",\"descriptionDetail\":\"JD Cloud provides the VMware solutions based on the Cabinet Physical Computing, to solve the private CodeDeploy of the cabinet service customers. Meanwhile, customers can connect the VMware environment of the user’s private data center, the VMware environment of JD Cloud Private Cloud Cabinet service as well as the public service environment of JD Cloud via a private line or an internal private network, easily building the Hybrid Cloud environment.\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
 		"templet":"31",
 		"id":763,
 		"solution_id":"158"
