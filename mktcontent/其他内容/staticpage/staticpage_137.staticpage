@@ -25,7 +25,7 @@
                     《2019年中国智能城市发展战略与策略研究》从什么是智能城市、科技力量如何开启城市变革出发，相继提出智能城市建设框架、路径与策略。并从产业智能、服务智能、治理智能、环境智能和基础智能五个方面建立智能城市评估体系，为智能城市相关构建者提供参考。
                   </p>
 
-                  <a href="https://img1.jcloudcs.com/portal/whitepaper/JDCloud_intelligent_city_development_strategy_2019.pdf"  clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_3" target="_blank" class="jdc-btn jdc-bg">立即查看</a>
+                  <a clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_3" onclick="whitepaperClick('r',1)" class="jdc-btn jdc-bg">立即查看</a>
                 </div>
               </div>
             </div>
@@ -59,12 +59,12 @@
                     基于京东云公有云自研云计算架构，经过海量用户实践和验证，京东云推出新一代专有云平台JDStack，将京东云成熟、稳定的产品能力延伸至客户自有数据中心，为用户提供从IaaS、PaaS到SaaS多种产品的全栈式服务，通过建立一个安全、稳定、可信赖的专有云平台，助力客户加速数字化转型。
                   </p>
 
-                  <a href="https://download.jdcloud.com/download-pdf/pdf-view/web/viewer.html?file=https%3A%2F%2Fjdcloud-marketing.s3.cn-north-1.jdcloud-oss.com%2FWhitePaper%2FDedicated-Cloud-Thought-Leadership-Paper-by-JD-Cloud.pdf"  clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_2" target="_blank" class="jdc-btn jdc-bg">立即查看</a>
+                  <a clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_2" onclick="whitepaperClick('r',2)" class="jdc-btn jdc-bg">立即查看</a>
                 </div>
               </div>
             </div>
           </div>
-		  <div class="col-6 col-xs-12">
+          <div class="col-6 col-xs-12">
             <div class="wp-floor1-item wp-floor1-item-2">
               <div class="wp-floor1-item-hd">京东云专有云安全白皮书</div>
               <div class="wp-floor1-item-bd">
@@ -76,7 +76,7 @@
                     基于安全合规、隐私保护、安全权责、专有云安全架构、专有云安全产品和专有云安全产品服务几个方面，介绍了京东云专有云安全体系，给出了京东云专有云多种客户应用场景下的安全最佳实践。旨在为政府和企业客户提供大规模商业化全栈云平台，帮助政企客户构建安全可靠的新一代专有云平台，加速数字化转型，建立安全、稳定、可信赖的专有云平台。
                   </p>
 
-                  <a href="https://img1.jcloudcs.com/portal/whitepaper/JDCloud_Proprietary_Cloud_Security_Whitepaper.pdf"  clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_4" target="_blank" class="jdc-btn jdc-bg">立即查看</a>
+                  <a clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_4" onclick="whitepaperClick('r',3)" class="jdc-btn jdc-bg">立即查看</a>
                 </div>
               </div>
             </div>
@@ -89,61 +89,89 @@
       <div id="wp_list" class="wp-list w">
         <h4 class="jdc-common-floor-tit">平台与架构</h4>
         <div class="row">
-			<div class="col-3 col-xs-6">
-				<a href="//docs.jdcloud.com/cn/jdcloud-best-practice-whitepaper/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_9">
-				<div class="wp-item-img">
-					<img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-7.png" alt="">
-				</div>
-				<h5 class="wp-item-tit">用云最佳实践白皮书</h5>
-				</a>
+          <div class="col-3 col-xs-6">
+            <div class="wp-item">
+              <a class="wp-item-img" href="//docs.jdcloud.com/cn/jdcloud-best-practice-whitepaper/overview" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_9">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-7.png" alt="用云最佳实践白皮书">
+              </a>
+              <!--<h5 class="wp-item-tit">用云最佳实践白皮书</h5>-->
+              <div class="wp-item-bottom f-cb">
+                <a href="//docs.jdcloud.com/cn/jdcloud-best-practice-whitepaper/overview" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_9">立即查看</a>
+                <a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_9_2" onclick="whitepaperClick('w',1)">下载</a>
+              </div>
+            </div>
           </div>
           <div class="col-3 col-xs-6">
-            <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-private-and-hybrid-cloud/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_3">
-              <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-1.png" alt="">
+            <div class="wp-item">
+              <a class="wp-item-img" href="//docs.jdcloud.com/cn/jdcloud-whitepaper-private-and-hybrid-cloud/overview" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_3">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-1.png" alt="私有云&混合云白皮书">
+              </a>
+              <!--<h5 class="wp-item-tit">私有云&混合云白皮书</h5>-->
+              <div class="wp-item-bottom f-cb">
+                <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-private-and-hybrid-cloud/overview" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_3">立即查看</a>
+                <a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_3_2" onclick="whitepaperClick('w',2)">下载</a>
               </div>
-              <h5 class="wp-item-tit">私有云&混合云白皮书</h5>
-            </a>
+            </div>
           </div>
           <div class="col-3 col-xs-6">
-            <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-cloud-migration/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_4">
-              <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-2.png" alt="">
+            <div class="wp-item">
+              <a class="wp-item-img" href="//docs.jdcloud.com/cn/jdcloud-whitepaper-cloud-migration/overview" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_4">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-2.png" alt="云迁移技术白皮书">
+              </a>
+              <!--<h5 class="wp-item-tit">云迁移技术白皮书</h5>-->
+              <div class="wp-item-bottom f-cb">
+                <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-cloud-migration/overview" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_4">立即查看</a>
+                <a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_4_2" onclick="whitepaperClick('w',3)">下载</a>
               </div>
-              <h5 class="wp-item-tit">云迁移技术白皮书</h5>
-            </a>
+            </div>
           </div>
           <div class="col-3 col-xs-6">
-            <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-cloud-workspace/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_5">
-              <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-3.png" alt="">
+            <div class="wp-item">
+              <a class="wp-item-img" href="//docs.jdcloud.com/cn/jdcloud-whitepaper-cloud-workspace/overview" class="fl-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_5">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-3.png" alt="京东云云桌面白皮书">
+              </a>
+              <!--<h5 class="wp-item-tit">京东云云桌面白皮书</h5>-->
+              <div class="wp-item-bottom f-cb">
+                <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-cloud-workspace/overview" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_5">立即查看</a>
+                <a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_5_2" onclick="whitepaperClick('w',4)">下载</a>
               </div>
-              <h5 class="wp-item-tit">京东云云桌面白皮书</h5>
-            </a>
+            </div>
           </div>
           <div class="col-3 col-xs-6">
-            <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-gaming-cloud/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_6">
-              <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-4.png" alt="">
+            <div class="wp-item">
+              <a class="wp-item-img" href="//docs.jdcloud.com/cn/jdcloud-whitepaper-gaming-cloud/overview" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_6">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-4.png" alt="京东云游戏白皮书">
+              </a>
+              <!--<h5 class="wp-item-tit">京东云游戏白皮书</h5>-->
+              <div class="wp-item-bottom f-cb">
+                <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-gaming-cloud/overview" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_6">立即查看</a>
+                <a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_6_2" onclick="whitepaperClick('w',5)">下载</a>
               </div>
-              <h5 class="wp-item-tit">京东云游戏白皮书</h5>
-            </a>
+            </div>
           </div>
           <div class="col-3 col-xs-6">
-            <a href="//docs.jdcloud.com/cn/jdcloud-security-whitepaper/introduction" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_7">
-              <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-5.png" alt="">
+            <div class="wp-item">
+              <a class="wp-item-img" href="//docs.jdcloud.com/cn/jdcloud-security-whitepaper/introduction" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_7">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-5.png" alt="京东云安全白皮书">
+              </a>
+              <!--<h5 class="wp-item-tit">京东云安全白皮书</h5>-->
+              <div class="wp-item-bottom f-cb">
+                <a href="//docs.jdcloud.com/cn/jdcloud-security-whitepaper/introduction" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_7">立即查看</a>
+                <a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_7_2" onclick="whitepaperClick('w',6)">下载</a>
               </div>
-              <h5 class="wp-item-tit">京东云安全白皮书</h5>
-            </a>
+            </div>
           </div>
           <div class="col-3 col-xs-6">
-            <a href="//docs.jdcloud.com/cn/jdcloud-data-security-whitepaper/overview" class="wp-item" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_8">
-              <div class="wp-item-img">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-6.png" alt="">
+            <div class="wp-item">
+              <a class="wp-item-img" href="//docs.jdcloud.com/cn/jdcloud-data-security-whitepaper/overview" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_8">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-6.png" alt="京东云数据安全白皮书">
+              </a>
+              <!--<h5 class="wp-item-tit">京东云数据安全白皮书</h5>-->
+              <div class="wp-item-bottom f-cb">
+                <a href="//docs.jdcloud.com/cn/jdcloud-data-security-whitepaper/overview" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_8">立即查看</a>
+                <a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_8_2" onclick="whitepaperClick('w',7)">下载</a>
               </div>
-              <h5 class="wp-item-tit">京东云数据安全白皮书</h5>
-            </a>
+            </div>
           </div>
         </div>
       </div>
