@@ -1069,5 +1069,12 @@
 		"id":1168,
 		"button_title":"查看详情",
 		"main_title":"京东云 DevOps 获权威认可"
+	},
+	{
+		"sub_title":"",
+		"name":"JDD",
+		"id":1170,
+		"button_title":"",
+		"main_title":""
 	}
 ]
