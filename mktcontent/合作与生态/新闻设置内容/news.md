@@ -1558,5 +1558,21 @@
 		"jss_key":"News_Content_697",
 		"id":697,
 		"news_title":"京东云入选2019年度TOP100全球软件案例 新一代服务治理框架加速行业落地"
+	},
+	{
+		"summary":"在5G、云计算、大数据等技术快速发展的数字经济时代，京东云积极开展产业互联网扶贫，既致力于扶贫供给侧“造血“，又着力培养消费端的扶贫习惯，用“互联网+”的立体扶贫举措，让农家产品搭乘技术快车，“驶”出大山，销往海内外。",
+		"image_url":"//img1.jcloudcs.com/cms/0a1cee59-4208-4b3e-a11d-ff636993edeb20191119143059.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_698",
+		"jss_key":"News_Content_698",
+		"id":698,
+		"news_title":"构建供给侧造血机制 培养消费端扶贫习惯——京东云开拓“产业互联网”扶贫新路径"
+	},
+	{
+		"summary":"今年京东“11.11期间”，京东云联合西安、滁州、玉溪、眉山等37个合作区域的地方政府，上架了包括扶贫产品在内的万余种地方产品，推出了京东云“云上集市11.11”城市产业节。仅从2019年11月01日00:00到11月11日23:59，京东云“云上集市”累计下单金额达28.7亿，活动曝光量达10.6亿。",
+		"image_url":"//img1.jcloudcs.com/cms/c759927a-c9f6-485d-954c-c6b0ad5d63ab20191119143655.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_699",
+		"jss_key":"News_Content_699",
+		"id":699,
+		"news_title":"“云端”扶贫贵在“授人以渔” ——京东云深度开拓“扶贫特产馆”建设速写"
 	}
 ]
