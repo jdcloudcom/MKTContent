@@ -616,11 +616,19 @@
 		"title":"\\[Important Reminder\\] Notice on Upgrading Transaction System Service at 23:00 on October 16"
 	},
 	{
+		"id":771,
+		"title":"\\[cn-east-2\\] Suspension Notice on Native Container Console and OpenAPI Service at 21:00 on November 13"
+	},
+	{
 		"id":785,
 		"title":"\\[Year End Buying Season\\] Going on!! 350,000 JD beans will be given to a specified consumption amount. Cloud products are up to 90% off"
 	},
 	{
 		"id":786,
 		"title":"\\[cn-north-1\\] November 13 22:00:00 Suspension Notice on Cloud File Service Console List Page and OpenAPI \"Create\" API"
+	},
+	{
+		"id":787,
+		"title":"\\[cn-north-1\\] Service Suspension Notice on Cloud Physical Server Console and OpenAPI \"Create\" API at 22:00:00 on November 18"
 	}
 ]

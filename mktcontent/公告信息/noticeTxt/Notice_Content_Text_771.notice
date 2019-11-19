@@ -1,0 +1,11 @@
+<p style="margin-left:28px;text-indent:28px"><span style="font-family: 微软雅黑, sans-serif; color: rgb(38, 38, 38); font-size: 12px;"></span>
+</p>
+<p><span style="font-family: 微软雅黑, sans-serif; font-size: 12px;">To improve features and user experiences, JD Cloud plans to maintain the Native Container System in [cn-east-2] region from 21:00:00 on November 13, 2019 to 00:00:00 of the next day. By that time:</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-family: 微软雅黑, sans-serif; font-size: 12px;">Native Container-Container Instance, Native Container-POD, Native Container-Secrets, Console access and OpenAPI Service in [cn-east-2] region will be paused</span>
+</p>
+<p><span style="font-family: 微软雅黑, sans-serif; font-size: 12px;">Operation of existing operations in all of your regions will not be affected by the function upgrade. After completion of release, relevant functions of the Console and corresponding APIs of OpenAPI will be resumed for normal use.</span>
+</p>
+<p><span style="font-family: 微软雅黑, sans-serif; font-size: 12px;">If you have relevant questions during the launching, please contact JD Cloud customer service personnel at any time (phone number: 4006151212). Thank you for your support to JD Cloud.</span>
+</p>
+<p><br/></p>
