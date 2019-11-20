@@ -1574,5 +1574,21 @@
 		"jss_key":"News_Content_699",
 		"id":699,
 		"news_title":"“云端”扶贫贵在“授人以渔” ——京东云深度开拓“扶贫特产馆”建设速写"
+	},
+	{
+		"summary":"京东云作为最具产业属性的云智能厂商，重磅发布京东云“数字政府”解决方案、全场景京东云专有云系列产品，并发布“星空计划2.0”，让科技智能对接城市，以推动城市数字化、智能化升级。",
+		"image_url":"//img1.jcloudcs.com/cms/da0a9066-ffcf-4bf7-b559-877e9c3b071920191120101429.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_700",
+		"jss_key":"News_Content_700",
+		"id":700,
+		"news_title":"共建智能新城 京东云让城市生活变得简单美好"
+	},
+	{
+		"summary":"11月19日，主题为“突破与裂变”的2019京东全球科技探索者大会在京盛大开幕。京东全面的技术布局和现有成果将人、时间、空间完整地融为一体，而京东云将承载着沉甸甸的数据和资产，实现“突破”和“裂变”。 大会上，京东云发布“全场景京东云专有云”、“京东云数字政府解决方案”两款最新产品，为云市场释放了新力量。",
+		"image_url":"//img1.jcloudcs.com/cms/d46b0a4e-6a58-49e8-8e9a-91cf1999024020191120182847.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_701",
+		"jss_key":"News_Content_701",
+		"id":701,
+		"news_title":"发力云智能时代 京东云携全场景专有云和数字解决方案闪耀JDD大会"
 	}
 ]
