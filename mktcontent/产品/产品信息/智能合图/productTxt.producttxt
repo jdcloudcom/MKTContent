@@ -1,0 +1,26 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"智能合图\",\"label\":[{\"TitleName\":\"免费试用\",\"TitleUrl\":\"https://ling-console.jdcloud.com/server/cutout\",\"classTag\":\"\"}],\"desc\":\"智能合图服务是稳定、高效、智能的图片设计工具，用户输入图片和文案素材，可快速输出图片设计结果。系统会围绕输入的内容综合运用图像识别、风格识别等技术，完成素材解析、排版、配色等复杂费力的设计步骤。\"}",
+		"id":1485
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"设计手法灵活选择\",\"proName\":\"支持用户自定义模板，使用个性化图片和文案素材，深度贴合业务与使用场景，避免与他人雷同。同时，提供专业的智能设计手法可供选择，无需设计基础，轻松使用。方案更新频率快，符合当下设计趋势，以确保获得优质结果\"},{\"showShade\":false,\"proGood\":\"低成本极速合图\",\"proName\":\"AI技术代替设计人力，由系统智能生成不同配色、多种尺寸的图片，生成速度快，减少设计沟通和反复修改的损耗，针对不同场景匹配不同设计，将设计标准化、规范化，批量可复制地完成图片设计工作。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"版权无忧可商用\",\"proName\":\"由智能合图服务提供的设计方案100%由提供方设计出品，字体与素材均获得正规渠道授权，图片结果可商用，无侵权风险。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"智能技术助力优秀品质\",\"proName\":\"整合京东在设计、大数据和AI方面的能力，用海量设计手法训练机器并不断优化，学习大量业内顶尖设计方法，将图片配色技巧、组合结构等设计原理数据化，并应用于实际合图当中。\"}]",
+		"id":1486
+	},
+	{
+		"txt":"[{\"funcName\":\"自定义设计合图\",\"funcContent\":[{\"funcTitle\":\"支持调用方自定义模板，个性化定制合图服务\",\"funcP\":\"通过接入智能合图服务，可将用户提前上传的设计模板，调用时与图片/文案素材结合，以图片形式输出。调用方可根据业务情况自行设计合图模板。支持按尺寸随机匹配最优模板或指定单一模板进行合图。每次产出一张图片结果。\"}]},{\"funcName\":\"智能多尺寸设计\",\"funcContent\":[{\"funcTitle\":\"提供专业的合图方案，智能匹配灵活设计手法\",\"funcP\":\"精选平台专业、优质的合图方案，可根据用户需要挑选，无需设计基础，无设计成本，快速生成风格一致的多种尺寸图片结果。由系统智能计算并匹配设计方案，根据尺寸调整图片排版和配色。支持按尺寸随机匹配最优模板或指定单一模板进行合图。每次最多生成10种尺寸的10张图片。\"}]},{\"funcName\":\"开放设计手法查询\",\"funcContent\":[{\"funcTitle\":\"支持查询开放设计手法，可用于开发可视化操作界面\",\"funcP\":\"智能设计所需的开放设计手法，均可通过免费提供的接口进行查询，返回的信息可作为参数调用合图服务，也可用于搭建图形化的界面展示设计手法样式，方便调用方开放给调用方的服务对象使用。\"}]},{\"funcName\":\"模板存储与管理\",\"funcContent\":[{\"funcTitle\":\"开通服务即可获得存储空间用于存放自定义模板，并进行管理\",\"funcP\":\"为调用方提供自定义模板的操作界面，可进行模板上传、查看、删除等操作，并提供存储空间，用于存放自定义合图的模板。\"}]}]",
+		"id":1487
+	},
+	{
+		"txt":"[{\"name\":\"智能化设计\",\"instruction\":\"借助合图能力，可支持快速产出大批量高质量的广告图片。支持同系列多尺寸图片同时产出，释放设计师人力，无需人工完成拓版。智能合图服务提供专业的设计方案，调用方无需具备专业的设计能力，也可以快速完成图片设计工作，大大提升设计效率，节省设计成本。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/5ebda3d1-3785-4056-99c7-f3e440a7327520191120145447.png\",\"showShade\":false},{\"name\":\"个性化投放\",\"instruction\":\"使用合图技术提前针对不同款式、不同产品产出广告图片，针对不同服务对象差异化投放，展现不同内容，精准命中，充分挖掘资源位价值，实现投放效率最大化。赋予产品智能学习、自我进化的可能性。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/bbc8f7fc-5d7f-41c8-9631-8112ff52d4bf20191120145454.png\",\"showShade\":false},{\"name\":\"规范化设计\",\"instruction\":\"通过统一模板，个性化配置素材和文案的方式，实现特定位置、特定栏目、活动推广图片、VI衍生品如名片、工卡等图片风格统一，样式一致。可使用自定义模板方式标准、快速地完成输出。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3d8e59fb-80ee-412a-91e5-8d2ae57379ce20191120145501.png\",\"showShade\":false}]",
+		"id":1488
+	},
+	{
+		"txt":"[{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fcadad5e-0200-40c1-9112-50b5dffadd6020191016105551.jpg\",\"companyName\":\"\",\"sketch\":\"京东 S 级大促\",\"description\":\"在2018年中，为京东 S 级大促（年货节、6.18、11.11等），累计生成了超过17w张图片，节约了大促设计相关人员30%的工作量\"},{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/af29f3be-d159-4f70-a5db-1d9a2bc184d020191016105747.jpg\",\"companyName\":\"\",\"sketch\":\"京东外投广告创意系统\",\"description\":\"商家提供需要制作广告的商品图，智能合图处理后，直接返回广告图片，投放图片最高CTR达10%以上。\"},{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/54db15bb-680f-48e5-ade0-be16973d813d20191016111358.png\",\"companyName\":\"\",\"sketch\":\"京东智铺平台\",\"description\":\"智能合图与智铺系统进行系统对接，为在智铺中搭建店铺和页面的用户提供各类图片，截止目前已经提供了超过3万个设计。\"},{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1ba6bf32-7229-4382-94f1-b6e7ef7325ec20191016110921.png\",\"companyName\":\"\",\"sketch\":\"京东通天塔活动搭建平台\",\"description\":\"智能合图服务为通天塔平台提供合图服务，帮助各类用户快速完成活动页面的图片制作，服务京东内部员工与京东商家。\"}]",
+		"id":1489
+	},
+	{
+		"txt":"{\"opraUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/38a17817-dd54-404e-bc30-ce27ca3b42a720191120145429.png\",\"opraWebUrl\":\"\",\"operatingClasstag\":\"\",\"position\":\"2\"}",
+		"id":1599
+	}
+]
