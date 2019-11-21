@@ -1590,5 +1590,45 @@
 		"jss_key":"News_Content_701",
 		"id":701,
 		"news_title":"发力云智能时代 京东云携全场景专有云和数字解决方案闪耀JDD大会"
+	},
+	{
+		"summary":"京东云顺利通过中国网络安全审查技术与认证中心审核，获得三项国家信息安全服务资质认证（ISCCC），包括信息安全风险评估服务资质、信息系统安全集成服务资质、信息安全应急处理服务资质。此次三项认证的获得标志着京东云在信息安全风险评估服务管理、服务技术及服务过程方面的能力已达到了业界领先水平，并获得国家权威机构的认可。",
+		"image_url":"//img1.jcloudcs.com/cms/4ee54d63-9874-4ec3-8e0f-1689291890d720191121143611.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_702",
+		"jss_key":"News_Content_702",
+		"id":702,
+		"news_title":"把安全做到极致！京东云又获三项国家信息安全服务资质权威认证"
+	},
+	{
+		"summary":"2019数据中心年度峰会（CDCC）在北京国家会议中心隆重举办，来自互联网、金融、IDC、运营商、设计院等不同领域的数据中心领导、专家等超过5000人出席了本次峰会。作为京东集团旗下全平台云计算综合服务提供商，京东云应邀参会，并分享了京东云智能IDC业务及技术创新进展。",
+		"image_url":"//img1.jcloudcs.com/cms/9aafbfd4-c299-4387-a63c-5d1f40811d3620191121172626.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_703",
+		"jss_key":"News_Content_703",
+		"id":703,
+		"news_title":"京东云亮相2019数据中心年度峰会，智能IDC业务为数据时代加速"
+	},
+	{
+		"summary":"城镇化的加快，让城市面貌发生了日新月异的变化。新兴技术的发展，也为解决城市社会问题，降低不确定性，提供了更多可能。随着“互联网+”步入“智能+”，京东云凭借云计算、大数据等优势技术，赋能各地城市，将自身定义为“城市数字化转型的全生命周期合伙人”，锚定城市建设新坐标，致力于打造云上之城，让城市生活更简单美好。",
+		"image_url":"//img1.jcloudcs.com/cms/6e914e40-8fbd-4148-8306-2a9294c6f20f20191121173126.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_704",
+		"jss_key":"News_Content_704",
+		"id":704,
+		"news_title":"云上之城 让城市生活更简单美好"
+	},
+	{
+		"summary":"“聊解数字经济 云聚江北水城”为主题的“2019聊城数字经济产业发展大会暨京东云(聊城)数字经济产业园开园仪式”在山东聊城市召开。聊城市委常委、副市长郭建民 、聊城江北水城旅游度假区党工委书记、管委会主任王立民、京东集团副总裁曾晨出席大会并致辞。国家、省市有关部门以及企业代表300多人也到会参加。",
+		"image_url":"//img1.jcloudcs.com/cms/9cee221d-8702-4ea2-bf46-7ce3fe38601420191121173227.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_705",
+		"jss_key":"News_Content_705",
+		"id":705,
+		"news_title":"2019聊城数字经济产业发展大会暨京东云(聊城)数字经济产业园开园仪式胜利开幕"
+	},
+	{
+		"summary":"主题为“5G改变世界5G创造未来”的世界5G大会正式拉开帷幕。作为数字经济时代最具产业属性的云智能厂商，京东云正在布局全国范围的云网融合架构，并计划在短期内布局覆盖全国主要大区的多个核心节点以及一、二级边缘节点，以满足5G带来的数字化、网络化、智能化等产业数字化需求。",
+		"image_url":"//img1.jcloudcs.com/cms/0c9e78d9-31d8-4993-8dbe-eb6de1bafa0a20191121184647.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_707",
+		"jss_key":"News_Content_707",
+		"id":707,
+		"news_title":"亮相世界5G大会 京东云“云网融合”应对5G时代的产业数字化需求"
 	}
 ]
