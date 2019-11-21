@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"智能合图\",\"label\":[{\"TitleName\":\"免费试用\",\"TitleUrl\":\"https://ling-console.jdcloud.com/server/cutout\",\"classTag\":\"\"}],\"desc\":\"智能合图服务是稳定、高效、智能的图片设计工具，用户输入图片和文案素材，可快速输出图片设计结果。系统会围绕输入的内容综合运用图像识别、风格识别等技术，完成素材解析、排版、配色等复杂费力的设计步骤。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"智能合图\",\"label\":[{\"TitleName\":\"免费试用\",\"TitleUrl\":\"https://ling-console.jdcloud.com/server/compose/custom\",\"classTag\":\"\"}],\"desc\":\"智能合图服务是稳定、高效、智能的图片设计工具，用户输入图片和文案素材，可快速输出图片设计结果。系统会围绕输入的内容综合运用图像识别、风格识别等技术，完成素材解析、排版、配色等复杂费力的设计步骤。\"}",
 		"id":1485
 	},
 	{
@@ -20,7 +20,7 @@
 		"id":1489
 	},
 	{
-		"txt":"{\"opraUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/38a17817-dd54-404e-bc30-ce27ca3b42a720191120145429.png\",\"opraWebUrl\":\"\",\"operatingClasstag\":\"\",\"position\":\"2\"}",
+		"txt":"{\"position\":\"2\",\"opraUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/38a17817-dd54-404e-bc30-ce27ca3b42a720191120145429.png\",\"opraWebUrl\":\"\",\"operatingClasstag\":\"\"}",
 		"id":1599
 	}
 ]
