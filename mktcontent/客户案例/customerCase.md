@@ -250,5 +250,17 @@
 		"id":181,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution181",
 		"solution_jss_key":"Customer_Case_Solution181"
+	},
+	{
+		"project_overview":"玖耘科技有限公司(以下简称玖耘)通过公有云模式进行部署，并希望通过京东云结合云服务产品的灵活、弹性等特点，将核心数据放在托管云上，将前台业务以及计算部分放于京东云公有云上，以实现当整体业务量激增时，只需将业务前台横向扩展，灵活配置即可。",
+		"application_type":"适用于有公有云业务需求的客户",
+		"introduce":"北京玖耘科技有限公司是一家基于自主云计算技术的云协作、云增值运营服务商，是多方通信行业的领导者之一。拥有10年以上电话会议、网络会议、视频会议和网络视频直播等领域的产品、技术和运营经验。致力于为全球政企客户提供行业领先的全融合统一通讯云平台及音视频增值解决方案。",
+		"image_url":"//img1.jcloudcs.com/cms/6ddb814c-f183-4245-80ed-da21de9ba0b820191125144250.png",
+		"name":"北京玖纭科技有限公司",
+		"channel_agent":"互联网应用",
+		"customer_income":"玖耘通过京东云构筑视频会议解决方案，降低企业成本的同时大大提高了效率。实现如下收益： <br/>\n1) 无需硬件投入：  采用京东云会议灵活的SaaS服务和按需付费模式，可帮助企业节约成本； 通过统一运维管理平台，降低硬件成本<br/>\n2) 灵活的会议服务： 点对点会议、多点会议、双流会议、专属会议、数据会议、模板会议等<br/>\n3) 流媒体服务: 直播，政府职能部门的大型会议、听证会直播。 录播，协同会议录制、存档。点播，会议录制、多媒体资料点播、管理。直播转入会：一键式直播转双向视频会议",
+		"id":183,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution183",
+		"solution_jss_key":"Customer_Case_Solution183"
 	}
 ]
