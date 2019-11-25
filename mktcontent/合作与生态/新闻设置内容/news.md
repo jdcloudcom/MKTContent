@@ -1526,5 +1526,37 @@
 		"jss_key":"News_Content_689",
 		"id":689,
 		"news_title":"JD Created New Highs Again of Volume of Trade in 11.11 Shopping Festival  JD Cloud Beat Challenge of Peak Pressure"
+	},
+	{
+		"summary":"JD Cloud \"Cloud Marketplace\" has stood out. As an effective carrier for aggregating regional economies and connecting local resources with nationwide users, JD Cloud has handed over a brilliant report card. According to the data collected, during the 11.11 Shopping Festival (from 00:00 on November 1, 2019 to 23:59 on November 11, 2019), JD Cloud \"Cloud Marketplace\" had an order amount of RMB 2.87 billion and an activity exposure of 1.06 billion.",
+		"image_url":"//img1.jcloudcs.com/cms/ba195a0b-19d6-47c6-ae0e-3c25b138465e20191114094847.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_690",
+		"jss_key":"News_Content_690",
+		"id":690,
+		"news_title":"\"11.11 Cloud Marketplace\" had an accumulated order amount up to RMB 2.87 billion, and JD Cloud has become a \"true power\" driving regional economic consumption"
+	},
+	{
+		"summary":"According to the report of China Public Cloud Service Market (First Half of 2019) Tracking released by International Data Corporation (IDC), the growth rate of China’s public cloud IaaS market was steady in the first half of 2019, reaching about USD 3.36 billion (equivalent to about RMB 23.5 billion) on the whole, with a year-on-year growth of 72.2%. China's public cloud market concentration has been further improved, and the top 10 manufacturers has accounted for more than 93% of the market. Among them, JD Cloud has an extremely brilliant year-on-year growth rate of 512%.",
+		"image_url":"//img1.jcloudcs.com/cms/31f174a0-bff5-47ef-b408-67304fa727eb20191115093713.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_695",
+		"jss_key":"News_Content_695",
+		"id":695,
+		"news_title":"IDC: In 2019 H1, the market share of JD Cloud Public Cloud Market steadily increased by 512% on year-on-year basis."
+	},
+	{
+		"summary":"Pickles industry is not only just a characteristic advantaged industry but also a key leading industry in Dongpo District, Meishan City. China Pickles Food International Expo had played an important role in expanding the influence of Dongpo Pickle and accelerating the upgrade of Dongpo pickle industry. JD Cloud effectively integrated JD Mall, JD Live, JD Logistics, JD Technology and other resources and conducted a live broadcast on the Internet for the Expo, which is one of the creative highlights of the Expo, bringing the whole event into a climax with the live interactive broadcasting of the four cities.",
+		"image_url":"//img1.jcloudcs.com/cms/d4c0f174-1750-40b4-9978-a3c44cf1b48e20191115104303.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_696",
+		"jss_key":"News_Content_696",
+		"id":696,
+		"news_title":"The \"11th JD-Dongpo Pickle Festival\" was opened in Dongpo District, Meishan"
+	},
+	{
+		"summary":"The 2019 TOP100 Global Software Case Study Summit (TOP100summit) was held at the National Convention Centre in Beijing. TOP100summit is the annual case study summit of the scientific and technological circles. Adhering to the value idea of \"selecting the most worthwhile cases to learn from the perspective of users in this year\", it selects the top 100+ cases in the industry which are most worthwhile to study and refer to every year.",
+		"image_url":"//img1.jcloudcs.com/cms/bc1521be-9080-47cc-9558-668c7646604a20191115152801.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_697",
+		"jss_key":"News_Content_697",
+		"id":697,
+		"news_title":"JD Cloud was selected as one of the TOP100 global software cases in 2019, and its new generation of service governance framework accelerated the industry landing"
 	}
 ]

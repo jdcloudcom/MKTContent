@@ -1,31 +1,31 @@
 <p style="text-indent: 2em;">Recently, JD Cloud officially released the Technical White Paper for Cloud Migration of JD Cloud (hereinafter referred to as the "White Paper") to reflect the development of JD Cloud's latest technologies with regards to cloud migration. The White Paper elaborates the unique technical benefits and user value of JD Cloud Migration and provides technical guidance for users with cross-cloud migration needs. The release of this White Paper is of great reference value to users to realize technical innovation, cost decreasing and benefit increasing.</p>
 <p><br/></p>
-<p style="text-align: center;"><a href="https://jdcloud-marketing.s3.cn-north-1.jdcloud-oss.com/WhitePaper/JD-Cloud-Migration-Technology-WhitePaper.pdf" target="_blank"><img src="//img1.jcloudcs.com/cms/4f054d78-f3d1-4e2a-9f4b-26837627e5ca20190531102830.jpg" title="" alt="官网新闻.jpg"/></a></p>
+<p style="text-align: center;"><a href="https://www.jdcloud.com/cn/jdcloud-whitepaper/all?wp=3#wp_list" target="_blank"><img src="//img1.jcloudcs.com/cms/4f054d78-f3d1-4e2a-9f4b-26837627e5ca20190531102830.jpg" title="" alt="官网新闻.jpg"/></a></p>
 <p><br/></p>
 <p style="text-indent: 2em;"><strong>Provide reliable and efficient JDMigration services</strong></p>
 <p style="text-indent: 2em;"><strong><br/></strong></p>
-<p style="text-indent: 2em;"></p>
+<p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">The cloud computing market size is expanding nowadays. Some users may migrate all of or part of the system from one to another cloud computing environment in order to enhance the business performance, security and reduce costs or to improve the system reliability by using multi-cloud architecture. Demands on cloud migration is increasing and facing challenges.</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">JD Cloud supports immigration of user business system in an all-round way and provides reference guidance for JDMigration of users by building a complete cloud migration technical framework and design, effective JDMigration model and component migration policy. The White Paper provides both the effective JDMigration system and security guarantee measures as well as migration methods and main steps for migration of computing environment, data storage, network environment, middleware system, management environment and security product, offering powerful supports for smooth migration from user business system to JD Cloud, cost decreasing and benefit increasing of users and fast growth of businesses.</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>Elastic and Flexible Deployment of Modularized Migration Technology</strong></p>
 <p style="text-indent: 2em;"><strong><br/></strong></p>
-<p style="text-indent: 2em;"></p>
+<p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">The JDMigration architecture of cloud computing is mainly divided into four parts, i.e., analysis, design, implementation and verification as well as optimization. The White Paper indicates that, in order to implement the above migration framework, JD Cloud has designed a JDMigration model as shown in below figure based on system split and reorganization.</p>
 <p style="text-indent: 2em;"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">&nbsp;</span>
 </p>
 <p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/31861fe6-c84c-42a4-9f76-ec34e64e21e020190531104053.jpg" title="" alt="未标题-1.jpg"/></p>
 <p style="text-indent: 2em;"><span style="font-family:&#39;微软雅黑&#39;,sans-serif"><br/></span>
 </p>
-<p style="text-indent: 2em;"></p>
+<p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">The complex system migration model is divided into four parts, i.e. system split, module migration, system combination as well as evaluation and verification, and the system status during this process is divided into original status, submodule migration status, system integration status and fulfilled status. At the original status of the system, the system is spilt into several independent components according to the characteristics of each module of the system. With respect to each independent component spilt, the submodule will implement migration to form the submodule migration status. After all submodules are migrated and verified, the entire system shall be combined to form the system integration status. Fully verify the integrated system. In case of failing to pass the verification, roll back the process and re-assess the migration method; in case of passing the verification, the system enters the fulfilled status of migration and the business volumes of users can be switched to the new system.</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">For independent components spilt by the complex system, there are four main migration policies, namely rehosting, repurchase, platform replacement and rebuild.</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/5f9877b8-261d-4332-90c1-242de5aa76a520190531104255.jpg" title="" alt="未标题-2.jpg"/></p>
 <p style="text-indent: 2em;"><strong><br/></strong></p>
-<p style="text-indent: 2em;"></p>
+<p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>10 Benefits from Implementation of Product and Service</strong></p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>Powerful product support:</strong> JD Cloud has released a total of 16 major categories and more than 190 core products and services, having the capacity of migrating most business systems of users to JD Cloud and stable and high-efficiency running.</p>
@@ -46,8 +46,8 @@
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>Powerful migration tool:</strong> Provide cloud migration backup tool to JDMigration, support migration and backup of Virtual Machines, Cloud Disk Service, File System, Relational Database, NoSQL Database, NewSQL Database and Big Data and support incremental migration, data encryption as well as compression and transmission. Various migration tools such as Object Storage Service Osstransfer, SQLServer Cloud on Single Database tool and Redis migration tools are also provided, helping user easily carry out system migration.</p>
 <p style="text-indent: 2em;"><strong><br/></strong></p>
-<p style="text-indent: 2em;"></p>
+<p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>Multi-level SLA:</strong> Based on basic service and technical guarantee service of JD Cloud, provide users with basic service of JDMigration and system optimization service. On the basis of guaranteeing smooth and high-efficiency completion of system migration and stable system running, availability, performance, safety, expandability as well as easy operation and maintenance of the user’s business system are overall improved, reducing cost and enhancing effect.</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;">Liu Chen, the Vice President of JD Cloud and Person in Charge of Customer Success Department of JD Cloud, indicated that "The first driving force for public cloud onboarding by customer is to get elastic IT resource and higher system robustness in second level. The release of Technical White Paper for JDMigration is the best practice of JD Cloud based on Gartner‘6R’ model and ‘Six Major’ features of architecture design. The method of how to migrate cloud service to JD Cloud and rational architecture design are displayed to customers. Through smooth resource scheduling and the least business switch time, the best business robustness, agility, efficiency and the lowest IT cost are realized. "</p>
-<p style="text-align: center;"></p>
+<p style="text-align: center;"><br/></p>

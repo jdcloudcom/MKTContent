@@ -556,11 +556,11 @@
 		"id":1321
 	},
 	{
-		"name":"JDStack HCI",
+		"name":"JD Cloud Swift HCI Edition",
 		"id":1322
 	},
 	{
-		"name":"JDStack Agility",
+		"name":"JD Cloud Swift",
 		"id":1323
 	},
 	{
@@ -610,5 +610,9 @@
 	{
 		"name":"Mobile Live Video Broadcasting SDK",
 		"id":1352
+	},
+	{
+		"name":"Short Video  SDK",
+		"id":1362
 	}
 ]
