@@ -1083,5 +1083,12 @@
 		"id":1172,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"助力JT/T 808协议设备快速上云",
+		"name":"物联网协议适配",
+		"id":1174,
+		"button_title":"查看详情",
+		"main_title":"物联网协议适配 二折促销中"
 	}
 ]
