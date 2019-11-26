@@ -1090,5 +1090,12 @@
 		"id":1174,
 		"button_title":"查看详情",
 		"main_title":"物联网协议适配 二折促销中"
+	},
+	{
+		"sub_title":"",
+		"name":"双十一3期",
+		"id":1176,
+		"button_title":"",
+		"main_title":""
 	}
 ]
