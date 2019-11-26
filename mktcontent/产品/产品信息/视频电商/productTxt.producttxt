@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"视频电商\",\"label\":[{\"TitleName\":\"立即体验\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=352&questionId=701\",\"classTag\":\"\"}],\"desc\":\"视频电商服务依托京东优势，发挥视频云平台能力，利用微信等开放流量，促进电商变现\"}",
+		"id":1530
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"海量商品\",\"proName\":\"提供海量商品，商品质量及售后、物流等均为京东品质保障。\\n\"},{\"showShade\":false,\"proGood\":\"随时直播\",\"proName\":\"通过京东云视频电商产品，可随时随地发起和管理直播。\\n\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多渠道传播\",\"proName\":\"提供H5形态播放页，支持微信社交传播分享，支持其他渠道传播。\\n\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高转化率\",\"proName\":\"私域流量，社交传播，高效变现，电商直播下单转化率高于传统电商。\\n\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"智能推荐\",\"proName\":\"京东海量商品和用户画像数据，为用户精准推荐商品，专享高额优惠券，专享高佣金优质商品。\\n\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"零成本高佣金\",\"proName\":\"推广期免平台使用费，主播带货直播完成，佣金自动结算\"}]",
+		"id":1531
+	},
+	{
+		"txt":"[{\"funcName\":\"主播直播一键发起\",\"funcContent\":[{\"funcTitle\":\"手机随时直播\",\"funcP\":\"主播一部手机，即可随时随地发起带货直播。\\n\"},{\"funcTitle\":\"主播专属货架\",\"funcP\":\"主播可个性化选择自己的货架商品，自如管理直播商品\\n\"},{\"funcTitle\":\"智能推荐商品\",\"funcP\":\"基于京东大数据，智能推荐好券高佣商品，主播选货省时高效。\\n\"},{\"funcTitle\":\"佣金自动结算\",\"funcP\":\"直播观看数据、带货数据一目了然；直播结束，坐等佣金结算。\\n\"}]},{\"funcName\":\"观看端边看边买\",\"funcContent\":[{\"funcTitle\":\"边看边聊边买\",\"funcP\":\"粉丝观看直播时，可以边看边聊，与主播及其他观众实时互动，快速决策，领券下单。\\n\"},{\"funcTitle\":\"直播分享\",\"funcP\":\"直播可分享到微信或其他流量渠道，粉丝快速裂变增长\\n\"}]},{\"funcName\":\"平台AI管控\",\"funcContent\":[{\"funcTitle\":\"AI安全管控\",\"funcP\":\"AI自动管理聊天室敏感词过滤；主播鉴黄鉴恐鉴暴\\n\"}]}]",
+		"id":1532
+	},
+	{
+		"txt":"[{\"name\":\"KOL直播\",\"instruction\":\"KOL自有粉丝流量，需要寻找货源及直播工具实现流量变现。此场景可使用视频电商产品进行直播带货，盘活私域流量。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b437f117-444c-4fb3-86e7-2c0436416fd920191104111735.png\",\"showShade\":false},{\"name\":\"商城商家\",\"instruction\":\"京东商家自有商品，希望通过微信等开放渠道实现品牌传播、站外引流并高转化率。此场景可使用视频电商产品进行直播带货推广。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2d127b58-1ea8-4d1e-86f4-0e4cebda71cb20191025173626.png\",\"showShade\":false}]",
+		"id":1533
+	}
+]
