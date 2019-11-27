@@ -1646,5 +1646,13 @@
 		"jss_key":"News_Content_709",
 		"id":709,
 		"news_title":"计世资讯发布2019私有云市场竞争力分析：京东云跃居挑战者象限"
+	},
+	{
+		"summary":"2019京东（北海）数字经济产业园揭牌仪式及开园大会在中国北海举行。京东云与北海市政府共同夯实城市数字化基础设施建设，形成数字政府、数字社会发展新动能，依托京东云“平台+生态+运营”的赋能服务体系，全面助力推动北海数字经济城市建设。",
+		"image_url":"//img1.jcloudcs.com/cms/5d62f67c-a947-4568-ae2e-afcdc9db379520191127155433.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_710",
+		"jss_key":"News_Content_710",
+		"id":710,
+		"news_title":"“云+产业”带动高质量发展 2019京东（北海）数字经济产业园正式开园"
 	}
 ]
