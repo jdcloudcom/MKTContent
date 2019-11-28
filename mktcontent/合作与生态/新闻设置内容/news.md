@@ -1654,5 +1654,13 @@
 		"jss_key":"News_Content_710",
 		"id":710,
 		"news_title":"“云+产业”带动高质量发展 2019京东（北海）数字经济产业园正式开园"
+	},
+	{
+		"summary":"互联网安全领域最具影响力之一的年度峰会“CIS 2019网络安全创新大会”在上海隆重召开，大会王牌环节--“WitAwards 2019中国网络安全创新年度评选”结果也重磅揭晓，京东云 《云端数据全生命周期安全解决方案》成功斩获FreeBuf  WitAwards 2019年度优秀网络安全解决方案奖。",
+		"image_url":"//img1.jcloudcs.com/cms/6de891e8-a3e1-49b3-9ad6-bab0108d625e20191128141725.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_711",
+		"jss_key":"News_Content_711",
+		"id":711,
+		"news_title":"京东云荣获2019年度优秀网络安全解决方案奖，树立年度云数据安全标杆"
 	}
 ]
