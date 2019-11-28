@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"代码审计服务\",\"label\":[{\"TitleName\":\"工单咨询\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=763\",\"classTag\":\"\"}],\"desc\":\"通过人工和自动化工具结合的方式，检查源代码中的安全缺陷和规范性缺陷，分析由这些问题引发的安全漏洞，并提供代码修订措施和建议。\"}",
+		"id":1596
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"覆盖全面\",\"proName\":\"可审计Java、ASP、JSP、PHP等常见的程序源码。\"},{\"showShade\":false,\"proGood\":\"专家团队\",\"proName\":\"提供资深的安全专家团队，拥有丰富的项目经验，确保代码审计的服务质量。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"专业可靠\",\"proName\":\"全面分析代码中的安全隐患，提供安全修复建议，帮助提升企业开发人员的安全技能。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"人机结合\",\"proName\":\"采用人工和自动化工具结合的审计方式，保证代码审计的效率和质量。\"}]",
+		"id":1597
+	},
+	{
+		"txt":"[{\"funcName\":\"代码安全审计\",\"funcContent\":[{\"funcTitle\":\"代码安全现状分析\",\"funcP\":\"通过自动化工具扫描和人工代码审计结合的方式，对程序源代码逐条进行检查，分析其中存在的安全隐患，并提供代码修复措施和建议。\"},{\"funcTitle\":\"支持多种程序语言审计\",\"funcP\":\"可审计Java、ASP、JSP、PHP等常见的程序源码。\"},{\"funcTitle\":\"服务交付\",\"funcP\":\"代码审计完成后，提供给客户专业、完整的代码审计报告。\"}]},{\"funcName\":\"安全编码规范咨询\",\"funcContent\":[{\"funcTitle\":\"可提供安全编码咨询和建议\",\"funcP\":\"可为企业开发人员提供安全编码规范的咨询和建议，提前避免不安全的编码方式，提高企业源代码的质量和安全性。\"}]}]",
+		"id":1598
+	}
+]
