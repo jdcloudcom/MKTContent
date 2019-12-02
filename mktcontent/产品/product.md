@@ -596,6 +596,10 @@
 		"id":1342
 	},
 	{
+		"name":"Automatic Composing",
+		"id":1344
+	},
+	{
 		"name":"Data Transmission DTS",
 		"id":1345
 	},
@@ -610,6 +614,10 @@
 	{
 		"name":"Mobile Live Video Broadcasting SDK",
 		"id":1352
+	},
+	{
+		"name":"JD Cloud Mesh",
+		"id":1361
 	},
 	{
 		"name":"Short Video  SDK",

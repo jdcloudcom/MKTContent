@@ -34,5 +34,11 @@
 		"templet":"71",
 		"id":766,
 		"solution_id":"158"
+	},
+	{
+		"txt":"{\"operator\":\"qujiali\",\"floorName\":\"Operation Position - 1\",\"name\":\"newTab-2\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f55bae56-9c8c-4d20-b313-0b42b81565ae20191115173811.png\",\"operatingText\":\"\",\"operatingLink\":\"\",\"operatingClasstag\":\"\"}]}",
+		"templet":"101",
+		"id":864,
+		"solution_id":"158"
 	}
 ]

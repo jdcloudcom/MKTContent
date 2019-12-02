@@ -1558,5 +1558,93 @@
 		"jss_key":"News_Content_697",
 		"id":697,
 		"news_title":"JD Cloud was selected as one of the TOP100 global software cases in 2019, and its new generation of service governance framework accelerated the industry landing"
+	},
+	{
+		"summary":"In the era of the digital economy where technologies such as 5G, cloud computing and big data are rapidly developing, JD Cloud actively carries out poverty alleviation through industrial Internet. It is not only committed to \"making blood\" on the supply side of poverty alleviation, but also focusing on cultivating poverty reduction practices on the consumer side. Drawing support from these \"Internet+\" poverty alleviation measures, the farm products are enabled to \"drive\" out of the mountains with the help of technologies and be sold at home and abroad.",
+		"image_url":"//img1.jcloudcs.com/cms/0a1cee59-4208-4b3e-a11d-ff636993edeb20191119143059.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_698",
+		"jss_key":"News_Content_698",
+		"id":698,
+		"news_title":"Keeping Supply Side Alive and Developing Poverty Reduction Practices on Consumer Side — JD Cloud is Exploring New Path of Poverty Alleviation through \"Industrial Internet\""
+	},
+	{
+		"summary":"During the JD \"11.11 Shopping Festival\" this year, JD Cloud joined hands with local governments in 37 cooperation regions including Xi’an, Chuzhou, Yuxi and Meishan to launch over 10,000 kinds of local products, including poverty alleviation products, as well as the JD Cloud \"Cloud Marketplace 11.11\" Urban Industry Festival. Only from 00:00 on November 1, 2019 to 23:59 on November 11, the JD Cloud \"Cloud Marketplace\" had a total order amount up to RMB 2.87 billion and a total event exposure up to 1.06 billion.",
+		"image_url":"//img1.jcloudcs.com/cms/c759927a-c9f6-485d-954c-c6b0ad5d63ab20191119143655.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_699",
+		"jss_key":"News_Content_699",
+		"id":699,
+		"news_title":"It is Important to Teach a Man to Fish for Cloud Poverty Alleviation — JD Cloud is Exploring and Constructing Special Products Stores for Poverty Alleviation"
+	},
+	{
+		"summary":"JD Cloud, as the most industry-attributed cloud intelligence manufacturer, has released the JD Cloud \"Digital Government\" Solution and Full-Scenario JD Cloud Proprietary Cloud series products as well as the \"Star Plan 2.0\" in order to link technology and intelligence with cities to promote the digital and intelligent upgrade of cities.",
+		"image_url":"//img1.jcloudcs.com/cms/da0a9066-ffcf-4bf7-b559-877e9c3b071920191120101429.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_700",
+		"jss_key":"News_Content_700",
+		"id":700,
+		"news_title":"Build An Intelligent New Town Together  Make City Life Simpler and Better with JD Cloud"
+	},
+	{
+		"summary":"On November 19, the JDDiscovery Conference 2019 with the conference theme of \"Breakthroughs and Fission\" was grandly opened in Beijing. JD’s comprehensive technology layout and existing achievements have integrated people, time and space perfectly, while JD Cloud will carry these heavy data and assets to realize \"breakthroughs\" and \"fission\". On the conference, JD Cloud released two latest products, namely \"Full-Scenario JD Cloud Proprietary Cloud\" and \"JD Cloud Digital Government Solution\", giving new forces to the Cloud Marketplace.",
+		"image_url":"//img1.jcloudcs.com/cms/d46b0a4e-6a58-49e8-8e9a-91cf1999024020191120182847.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_701",
+		"jss_key":"News_Content_701",
+		"id":701,
+		"news_title":"Exert Strength in Era of Cloud Intelligence  JD Cloud Brings Full-Scenario Proprietary Cloud and Digital Solution to JDD Conference"
+	},
+	{
+		"summary":"JD Cloud has passed the audit of China Cybersecurity Review Technology and Certification Center (CCRC), and obtained three national information security service qualification certifications (ISCCC), including information security risk assessment service qualification, information system security integration service qualification and information security emergency handling service qualification. The acquisition of these three certifications indicates that JD Cloud's ability in information security risk assessment service management, service technology and service process has reached the industry-leading level and has been recognized by the national authorities.",
+		"image_url":"//img1.jcloudcs.com/cms/4ee54d63-9874-4ec3-8e0f-1689291890d720191121143611.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_702",
+		"jss_key":"News_Content_702",
+		"id":702,
+		"news_title":"Maximizing Security! JD Cloud Obtains Three National Information Security Service Qualification Certifications Again"
+	},
+	{
+		"summary":"The 2019 China Data Center Committee (CDCC) Summit was grandly held at the China National Convention Center in Beijing. Over 5,000 people including data center leaders and experts from different fields such as Internet, finance, IDC, operators and design institutes attended this summit. As a full-platform cloud computing comprehensive service provider under JD Group, JD Cloud was invited to attend this summit and shared the progress of JD Cloud's AIDC business and technological innovation.",
+		"image_url":"//img1.jcloudcs.com/cms/9aafbfd4-c299-4387-a63c-5d1f40811d3620191121172626.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_703",
+		"jss_key":"News_Content_703",
+		"id":703,
+		"news_title":"JD Cloud Attended 2019 CDCC Summit, AIDC Business Accelerates Data Era"
+	},
+	{
+		"summary":"The acceleration of urbanization has dramatic changed the city appearance. The development of emerging technologies also makes it more possible to solve urban social problems and reduce uncertainty. As the \"Internet+\" steps into the stage of \"Intelligence+\", JD Cloud empowers cities around the world with its technical merits such as cloud computing and big data, and defines itself as a \"full life cycle partner for urban digital transformation\" in order to set a new benchmark for urban construction and make city life simpler and better by devoting itself to the construction of the Cloud City.",
+		"image_url":"//img1.jcloudcs.com/cms/6e914e40-8fbd-4148-8306-2a9294c6f20f20191121173126.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_704",
+		"jss_key":"News_Content_704",
+		"id":704,
+		"news_title":"Cloud City  Make City Life Simpler and Better"
+	},
+	{
+		"summary":"The \"2019 Liaocheng Digital Economy Industry Development Conference and the Opening Ceremony of JD Cloud (Liaocheng) Digital Economy Industrial Park\" with the theme of \"Understand Digital Economy and Cloud in Liaocheng\" was held in Liaocheng, Shandong. Guo Jianmin, Member of Standing Committee and Deputy Mayor of Liaocheng, Wang Limin, Secretary of the Party Working Committee and Director of the Administrative Committee of Liaocheng Jiangbei Water City Tourist Resort, and Zeng Chen, Vice President of JD Group, attended the conference and gave speeches. More than 300 leaders and representatives from the state, provincial and municipal departments concerned and the enterprises also attended the conference.",
+		"image_url":"//img1.jcloudcs.com/cms/9cee221d-8702-4ea2-bf46-7ce3fe38601420191121173227.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_705",
+		"jss_key":"News_Content_705",
+		"id":705,
+		"news_title":"2019 Liaocheng Digital Economy Industry Development Conference and the Opening Ceremony of JD Cloud (Liaocheng) Digital Economy Industrial Park Held"
+	},
+	{
+		"summary":"The World 5G Convention, themed \"5G changes the world, 5G creates the future\", was officially opened. As the most industry-attributed cloud intelligence manufacturer in the digital economy era, JD Cloud is deploying a nationwide cloud-network fusion architecture, and plans to deploy multiple core nodes and primary and secondary edge nodes covering major regions of the country in the short term, so as to meet the digital needs of industries such as digitization, networking, and intelligence brought by 5G.",
+		"image_url":"//img1.jcloudcs.com/cms/0c9e78d9-31d8-4993-8dbe-eb6de1bafa0a20191121184647.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_707",
+		"jss_key":"News_Content_707",
+		"id":707,
+		"news_title":"Appeared at World 5G Convention JD Cloud's \"Cloud-network Fusion\" Responds to Industrial Digitization Needs in 5G Era"
+	},
+	{
+		"summary":"With the development of Internet technology, the system architecture has been therefore continuously evolving, upgrading and updating. From a single application, to vertical splitting, distributed services, SOA and the prevailing micro service-oriented architecture, the system scalability and development efficiency have both improved significantly. But at the same time, due to the surge in complexity of the system itself, traditional testing methods can no longer fully understand and cover all possible behaviors of the system, resulting in great reduction in the effectiveness of the test. In addition, developers underestimate and ignore the risks while introducing the complexity",
+		"image_url":"//img1.jcloudcs.com/cms/3d3560d2-4a6b-4935-8993-5acd387289d220191122173330.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_708",
+		"jss_key":"News_Content_708",
+		"id":708,
+		"news_title":"JD Cloud: Chaos Engineering Practices in 11.11 Great Promotion"
+	},
+	{
+		"summary":"According to the Market Research Report on Private Cloud Products 2018-2019 released by CCW Research, JD Cloud Private Cloud has gotten into the quadrant of challengers with its advantages in aspects of complete product chain support, flexible configuration and module combination, multi-dimensional monitoring to respond to emergencies, and multi-region, multi-availability zone and high-availability disaster recovery deployment solutions, which is the industry's dual recognition of JD Cloud's private cloud in the market and the technical capability. Most of the major Chinese Internet manufacturers are located in this quadrant and their locations are relatively concentrated, but JD Cloud's technological capabilities are relatively outstanding.",
+		"image_url":"//img1.jcloudcs.com/cms/0e3d4a89-972d-4865-a18e-bbcfc28c75b120191122170313.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_709",
+		"jss_key":"News_Content_709",
+		"id":709,
+		"news_title":"CCW Research Released 2019 Private Cloud Market Competitiveness Analysis: JD Cloud Got into Quadrant of Challengers"
 	}
 ]

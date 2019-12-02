@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Website Threat Scan\",\"label\":[{\"TitleName\":\"Apply for Trial\",\"TitleUrl\":\"https://www.jdcloud.com/en/public/testApply/threatscanner\",\"classTag\":\"\"}],\"desc\":\"Integrating four core functions, i.e. automatic asset association discovery, Web vulnerability scan, port vulnerability scan and weak password detection, it can discover network safety risk of website or server, provide multi-dimensional security detection service to cloud business, reach compliance requirements and detect every website security vulnerability\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Website Threat Scan\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://threatscanner-console.jdcloud.com/jsecscanner/overview\",\"classTag\":\"\"}],\"desc\":\"Integrating four core functions, i.e. automatic asset association discovery, Web vulnerability scan, port vulnerability scan and weak password detection, it can discover network safety risk of website or server, provide multi-dimensional security detection service to cloud business, reach compliance requirements and detect every website security vulnerability\"}",
 		"id":1356
 	},
 	{

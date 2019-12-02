@@ -250,5 +250,17 @@
 		"id":181,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution181",
 		"solution_jss_key":"Customer_Case_Solution181"
+	},
+	{
+		"project_overview":"Beijing Jiuyun Technology Co., Ltd. (hereinafter referred to as Jiuyun) makes deployment with the public cloud mode and expects to place core data on the hosted cloud in combination with flexibility, elasticity and other features of the cloud service product with JD Cloud and to place its foreground business and computing part on the public cloud of JD Cloud. In this way, the flexible configuration can be made only by horizontally expand business foreground when the overall business volume increases.",
+		"application_type":"It is applicable to customers with public cloud business demand",
+		"introduce":"Beijing Jiuyun Technology Co., Ltd. is a cloud cooperation and cloud value-added operation service provider based its own cloud computing technology as well as one of the leaders in the multi-party communication industry. It has more than 10 years of product, technology and operation experiences in fields such as conference call, network meeting, video conference and network live video. It is dedicated to provide global government and enterprise customers with the leading full-fusion and unified communication cloud platform as well as value-added video and audio solutions.",
+		"image_url":"//img1.jcloudcs.com/cms/6ddb814c-f183-4245-80ed-da21de9ba0b820191125144250.png",
+		"name":"Beijing Jiuyun Technology Co., Ltd.",
+		"channel_agent":"Internet Application",
+		"customer_income":"Jiuyun builds the video conference solutions under assistant of JD Cloud, reducing enterprise cost and greatly improving efficiency at the same time. The following earnings will be realized: <br/>\n1) No hardware input is required: By adopting flexible SaaS service and the pay-as-you-go mode of JD Cloud conference, the enterprise cost is saved; with the unified operation and maintenance platform, the hardware cost is reduced<br/>\n2) Flexible conference meetings are provided: point-to-point conference, multi-point conference, double-stream conference, exclusive conference, data conference, template conference, etc.<br/>\n3) Streaming media service: live broadcasting, live broadcasting is available for convention and hearing of government departments. Recorded broadcasting, collaborative conference recording and filing. VOD, meeting recording, multi-media data VOD and management. Switch from live broadcasting to conference: one-click switch from live broadcasting to two-way video conference",
+		"id":183,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution183",
+		"solution_jss_key":"Customer_Case_Solution183"
 	}
 ]

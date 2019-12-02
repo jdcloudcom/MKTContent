@@ -638,5 +638,17 @@
 	{
 		"id":789,
 		"title":"\\[cn-east-2\\] Suspension Notice on Native Container Console and OpenAPI Service at 21:00 on November 18"
+	},
+	{
+		"id":790,
+		"title":"November 21 Ticket System Maintenance"
+	},
+	{
+		"id":795,
+		"title":"\\[Service Suspension Notice\\] At 23:00 on November 26, Virtual Machines, Instance Template, Image, SSH Key Pair, Availability Group, Dedicated Host, Cloud Disk Service, Elastic Network Interface, Subnet, Elastic IP, Security Group, Load Balancer Console and VM OpenAPI will be suspended"
+	},
+	{
+		"id":796,
+		"title":"\\[Important Reminder\\] Notice on Upgrading Transaction System Service at 01:00 on November 27"
 	}
 ]
