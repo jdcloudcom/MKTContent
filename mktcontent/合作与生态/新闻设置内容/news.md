@@ -1662,5 +1662,13 @@
 		"jss_key":"News_Content_711",
 		"id":711,
 		"news_title":"京东云荣获2019年度优秀网络安全解决方案奖，树立年度云数据安全标杆"
+	},
+	{
+		"summary":"“仙游县运用互联网思维，借助京东等高端资源，合力共建京东（仙游）数字经济产业园，为传统产业注入新动能。”——11月8日，莆田市机关效能建设领导小组办公室，对“2019年推进高质量发展落实赶超效能督查”活动中，所发现的16项典型经验做法，给予表扬。",
+		"image_url":"//img1.jcloudcs.com/cms/53e964d5-833b-4079-a5ef-c67978bd44dc20191202183557.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_716",
+		"jss_key":"News_Content_716",
+		"id":716,
+		"news_title":"新时代·云力量∣云赋能 激发“仙游引力”"
 	}
 ]
