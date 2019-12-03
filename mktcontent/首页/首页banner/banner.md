@@ -1097,5 +1097,12 @@
 		"id":1176,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"免费领取云端体验包，开启简单上云之旅",
+		"name":"简单上云体验季",
+		"id":1178,
+		"button_title":"立即申请",
+		"main_title":"简单上云体验季"
 	}
 ]
