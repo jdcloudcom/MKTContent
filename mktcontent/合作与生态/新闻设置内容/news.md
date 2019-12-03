@@ -1670,5 +1670,13 @@
 		"jss_key":"News_Content_716",
 		"id":716,
 		"news_title":"新时代·云力量∣云赋能 激发“仙游引力”"
+	},
+	{
+		"summary":"国内知名互联网安全媒体《安全牛》发布了“中国网络安全细分领域矩阵图”(Matrix 2019.11)。在Web应用防火墙 （WAF）细分领域，京东云凭借领先的技术能力和强大的市场影响力，成功入选国内Web 应用防火墙“领先者”。",
+		"image_url":"//img1.jcloudcs.com/cms/6a3f1345-7135-4b9c-9700-c0b72255c45120191203114123.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_717",
+		"jss_key":"News_Content_717",
+		"id":717,
+		"news_title":"京东云入选安全牛Web应用防火墙矩阵，WAF产品成行业“领先者”"
 	}
 ]
