@@ -1,0 +1,37 @@
+<p><span style="font-size: 14px;"> &nbsp; &nbsp; &nbsp;您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 14px;">近日，京东云安全团队监测到镜像仓库Harbor官方发布了安全更新通告，近期修复了5个安全漏洞，其中包括权限提升、SQL注入、用户枚举。为避免您的业务受影响，建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被外部攻击者入侵。</span>
+</p>
+<p><span style="font-size: 14px;">【漏洞描述】</span>
+</p>
+<p><span style="font-size: 14px;"> &nbsp; &nbsp;Harbor是一个用于存储和分发Docker镜像的企业级Registry服务器。当其版本在1.8.6和1.9.3之前时，受权限提升、SQL注入、用户枚举在内的多个安全漏洞影响。攻击者可利用漏洞，达到提升用户的权限、获取大量敏感数据等危害，从而可能导致Harbor镜像仓库被攻击者接管。</span>
+</p>
+<p><span style="font-size: 14px;">【漏洞评级】</span>
+</p>
+<p><span style="font-size: 14px;">CVE-2019-19023 严重</span>
+</p>
+<p><span style="font-size: 14px;">CVE-2019-19025 严重</span>
+</p>
+<p><span style="font-size: 14px;">CVE-2019-19026 高危</span>
+</p>
+<p><span style="font-size: 14px;">CVE-2019-19029 高危</span>
+</p>
+<p><span style="font-size: 14px;">CVE-2019-3990 中危</span>
+</p>
+<p><span style="font-size: 14px;">【影响版本】</span>
+</p>
+<p><span style="font-size: 14px;">Harbor 1.7.x</span>
+</p>
+<p><span style="font-size: 14px;">Harbor 1.8.x &lt; 1.8.6</span>
+</p>
+<p><span style="font-size: 14px;">Harbor 1.9.x &lt; 1.9.3</span>
+</p>
+<p><span style="font-size: 14px;">【修复建议】</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 14px;">官方已发布新版本修复上述漏洞，京东云安全团队建议您：如在受影响版本内，请升级更新到安全的1.8.6,1.9.3版本</span>
+</p>
+<p><span style="font-size: 14px;">【相关链接】</span>
+</p>
+<p><a href="https://github.com/goharbor/harbor/security/advisories" target="_blank" style="text-decoration: underline; font-size: 14px;" microsoft="" font-size:=""><span style="font-size: 14px;">https://github.com/goharbor/harbor/security/advisories</span>
+</a></p>
+<p><br/></p>
