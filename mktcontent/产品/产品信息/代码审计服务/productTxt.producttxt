@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Code Audit Service\",\"label\":[{\"TitleName\":\"Ticket Consulting\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=763\",\"classTag\":\"\"}],\"desc\":\"Check security defects and normative defects in source codes via the combined method of manual work and automatic tool, analyze security vulnerabilities incurred by these problems and provide code revision measures and suggestions.\"}",
+		"id":1596
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Full Coverage\",\"proName\":\"Common program source codes such as Java, ASP, JSP and PHP can be audited.\"},{\"showShade\":false,\"proGood\":\"Expert Team\",\"proName\":\"A senior security expert team, with rich project experiences, is provided to guarantee code audit service quality.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Professional and Reliable\",\"proName\":\"Analyze potential security risks of codes in an overall way, provide security fix recommendations and help enterprise developers improve their security skills.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Human-Machine Combination\",\"proName\":\"The combined audit method of manual work and automatic tool is adopted to guarantee code audit efficiency and quality.\"}]",
+		"id":1597
+	},
+	{
+		"txt":"[{\"funcName\":\"Code Security Audit\",\"funcContent\":[{\"funcTitle\":\"Code Security Status Audit\",\"funcP\":\"Check program source codes one by one with the combined method of automatic scanning and manual code audit, analyze existing potential security risks and provide code fix measures and suggestions.\"},{\"funcTitle\":\"Support Audit to Multiple Program Languages\",\"funcP\":\"Common program source codes such as Java, ASP, JSP and PHP can be audited.\"},{\"funcTitle\":\"Service Delivery\",\"funcP\":\"After code audit is finished, a professional and complete code audit report will be submitted to the customer.\"}]},{\"funcName\":\"Security Coding Specification Consultation\",\"funcContent\":[{\"funcTitle\":\"Provide security coding consultation and suggestions\",\"funcP\":\"Provide consultation and suggestions on security coding specification for enterprise developers, avoid insecure coding methods in advance and improve source code quality and security for enterprises.\"}]}]",
+		"id":1598
+	}
+]

@@ -1,0 +1,9 @@
+<p>In order to improve the product features and user experience, and provide more VM monitoring indexes, JD Cloud will upgrade your instances of Virtual Machines with ability of automatic upgrade in all regions between 22:00~22:30 on November 28.</p>
+<p>1)<span style="white-space:pre">	</span>
+The upgrade will have no impact on your running business. To avoid upgrade failure, we suggest that you should not reboot or shut down the machine during such period. If your machine is shut down at the time of upgrade, it will be automatically upgraded within a few minutes in the following start;</p>
+<p>2)<span style="white-space:pre">	</span>
+Only machines created by public image updated from May to July 2019 have the ability of automatic upgrade. You may determine this ability by running "ps -ef |grep ifritd" to view whether there is a ifritd process;</p>
+<p>3)<span style="white-space:pre">	</span>
+We will provide monitoring and warning functions for more Virtual Machines indexes at the Console in the near future. At that time, if the Virtual Machines under your account cannot display these new index data, you can upgrade them with reference to the upgrade guide in the Help Documentation according to the functions guide.</p>
+<p><br/></p>
+<p>If you have any questions about this upgrade, please contact JD Cloud Customer Service at any time (hotline: 4006151212). Thank you for your support to JD Cloud.</p>

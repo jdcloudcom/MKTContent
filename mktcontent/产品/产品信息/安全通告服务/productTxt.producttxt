@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Security Notification Service\",\"label\":[{\"TitleName\":\"Ticket Consulting\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=755\",\"classTag\":\"\"}],\"desc\":\"Monitor risks and hidden dangers in real time, provide latest security vulnerability messages and threat intelligence, help customers discover potential security risks of systems in time and improve security risk controllability for enterprises.\"}",
+		"id":1579
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Real-time Monitoring\",\"proName\":\"Monitor network security risk incidents in real time and push threat warning information to customers in real time.\"},{\"showShade\":false,\"proGood\":\"Latest Intelligence\",\"proName\":\"Provide latest security vulnerability, threat information and corresponding solutions.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Content Customization\",\"proName\":\"Customize security notification according to features of different industries and real security demands of customers.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Convenient and flexible\",\"proName\":\"Flexible subscription methods are provided to help customers reducing IT personnel investment and management cost.\"}]",
+		"id":1580
+	},
+	{
+		"txt":"[{\"funcName\":\"Security Incident Push\",\"funcContent\":[{\"funcTitle\":\"Latest Security Incident Push\",\"funcP\":\"Push security incidents of the whole network in real time, including the latest vulnerability warning, 0Day threat warning and latest security incident. Provide security information meeting customers’ demands in time in combination with the customers’ realities.\"},{\"funcTitle\":\"Flexible Subscription Method\",\"funcP\":\"Support multiple subscription methods, including email, SMS, etc. Send \\\"security notification\\\" periodically or \\\"emergency security notification\\\" aperiodically to customers.\"}]},{\"funcName\":\"Threat Intelligence\",\"funcContent\":[{\"funcTitle\":\"Threat Intelligence Subscription\",\"funcP\":\"Based on massive JD security big data, JD Cloud work with excellent security partners in the industry to provide threat intelligence meeting customers’ demands, give warnings and help customers improve their real-time response.\"}]}]",
+		"id":1581
+	}
+]

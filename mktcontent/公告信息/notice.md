@@ -650,5 +650,17 @@
 	{
 		"id":796,
 		"title":"\\[Important Reminder\\] Notice on Upgrading Transaction System Service at 01:00 on November 27"
+	},
+	{
+		"id":797,
+		"title":"\\[Notice on Stopping Sales of Single-line IP and Upgrading BGP IP Service in cn-south-1\\]"
+	},
+	{
+		"id":798,
+		"title":"\\[All Region\\] Notice on Automatic Upgrade of Virtual Machines System Component JCS-Agent from November 28 to December 5"
+	},
+	{
+		"id":799,
+		"title":"Notice on Automatic Upgrade of Virtual Machines System Component JCS-Agent"
 	}
 ]

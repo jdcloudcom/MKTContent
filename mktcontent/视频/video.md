@@ -418,5 +418,25 @@
 		"description":"Nice Move! JD Cloud 2018  JD Cloud Brand Promotion Video",
 		"id":170,
 		"title":"Nice Move! JD Cloud 2018  JD Cloud Brand Promotion Video"
+	},
+	{
+		"description":"The Story of Nanzhu — JD Cloud City Stories  Beihai",
+		"id":173,
+		"title":"The Story of Nanzhu — JD Cloud City Stories  Beihai"
+	},
+	{
+		"description":"The Story of Nanzhu — JD Cloud City Stories  Beihai",
+		"id":174,
+		"title":"The Story of Nanzhu — JD Cloud City Stories  Beihai"
+	},
+	{
+		"description":"Video Title: Above the Clouds — JD Cloud City Stories  Songpan",
+		"id":175,
+		"title":"Above the Clouds — JD Cloud City Stories  Songpan"
+	},
+	{
+		"description":"Video Title: Above the Clouds — JD Cloud City Stories  Songpan",
+		"id":176,
+		"title":"Above the Clouds — JD Cloud City Stories  Songpan"
 	}
 ]

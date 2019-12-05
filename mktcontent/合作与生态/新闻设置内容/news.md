@@ -1646,5 +1646,21 @@
 		"jss_key":"News_Content_709",
 		"id":709,
 		"news_title":"CCW Research Released 2019 Private Cloud Market Competitiveness Analysis: JD Cloud Got into Quadrant of Challengers"
+	},
+	{
+		"summary":"The opening ceremony and opening conference of JD (Beihai) Digital Economy Industrial Park in 2019 was held in Beihai, China. JD Cloud and Beihai Municipal Government jointly tamped the construction of the digital infrastructure of the city, forming the new momentum of digital government and the digital society development; relying on the enabling service system of \"Platform + Ecological + Operation\" of JD Cloud, help to promote the construction of digital economic city of Beihai in an all-round way.",
+		"image_url":"//img1.jcloudcs.com/cms/5d62f67c-a947-4568-ae2e-afcdc9db379520191127155433.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_710",
+		"jss_key":"News_Content_710",
+		"id":710,
+		"news_title":"\"Cloud + Industry\" Promoted High-quality Development  2019 JD (Beihai) Digital Economy Industrial Park Officially Opened"
+	},
+	{
+		"summary":"\"CIS 2019 Network Security Innovation Conference\", which is one of the most influential annual summits in the field of internet security, was held in Shanghai. The result of the \"WitAwards 2019 China Network Security Innovation Annual Selection\", which is the trump card step of the Conference, was also announced. The Full Life Cycle Security Solution of Data in Cloud of JD Cloud successfully won the FreeBuf  WitAwards 2019 Outstanding Network Security Solution Award.",
+		"image_url":"//img1.jcloudcs.com/cms/6de891e8-a3e1-49b3-9ad6-bab0108d625e20191128141725.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_711",
+		"jss_key":"News_Content_711",
+		"id":711,
+		"news_title":"JD Cloud won the 2019 Outstanding Network Security Solution Award, setting up the benchmark of cloud data security of the year"
 	}
 ]

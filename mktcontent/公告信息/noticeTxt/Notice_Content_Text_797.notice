@@ -1,0 +1,8 @@
+<p>In order to improve the network service quality, JD Cloud plans to stop the sales of single-line IP and upgrade the BGP IP service in cn-south-1 on December 2, 2019. Please pay attention to the following changes:</p>
+<p>1.<span style="white-space:pre">	</span>
+At the end of the upgrade, you will not be able to purchase new single-line IP (not BGP IP) resources through the Console/SDK/CLI. The purchased single-line IP and BGP IP in use will not be affected, but they cannot be recovered if released by "deletion". The attribute "Availability Zone" of the purchased IP will be switched from "all AZs" to "Availability Zone A". After disassociated with the original resources, it can be associated again with resources such as Virtual Machines/Container/POD of the "Availability Zone A" but cannot be associated with Load Balancer;</p>
+<p>2.<span style="white-space:pre">	</span>
+At the end of the upgrade, the newly purchased BGP IP will serve JD Cloud's self-owned BGP IP service through the Console/SDK/CLI and the Availability Zone attribute shall be "all AZs". The newly purchased IPs can be associated with resources in the entire region of cn-south-1 (all availability zones), such as Virtual Machines/Container/POD/Load Balancer/Elastic Network Interface.</p>
+<p>Thank you for your support. We hope our product upgrades will bring you more stable and higher quality performance experience.</p>
+<p>If you need help, please timely contact us by ticket or telephone (customer service hotline: 400-615-1212).</p>
+<p><br/></p>

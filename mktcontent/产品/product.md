@@ -248,10 +248,6 @@
 		"id":1137
 	},
 	{
-		"name":"PLUS Smart SMS",
-		"id":1143
-	},
-	{
 		"name":"Resource Orchestration",
 		"id":1144
 	},
@@ -616,11 +612,27 @@
 		"id":1352
 	},
 	{
+		"name":"Video E-commerce",
+		"id":1354
+	},
+	{
 		"name":"JD Cloud Mesh",
 		"id":1361
 	},
 	{
 		"name":"Short Video  SDK",
 		"id":1362
+	},
+	{
+		"name":"Player SDK",
+		"id":1364
+	},
+	{
+		"name":"Security Notification Service",
+		"id":1365
+	},
+	{
+		"name":"Code Audit Service",
+		"id":1369
 	}
 ]
