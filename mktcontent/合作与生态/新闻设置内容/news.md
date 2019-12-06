@@ -1678,5 +1678,29 @@
 		"jss_key":"News_Content_717",
 		"id":717,
 		"news_title":"京东云入选安全牛Web应用防火墙矩阵，WAF产品成行业“领先者”"
+	},
+	{
+		"summary":"聚焦南京产业发展核心诉求，京东云携手南京政府构建的“平台+生态+赋能”的产业体系，搭建产业创新云平台，以人工智能产业创新链要素补齐为核心，围绕“研、产、供、销、服”五个环节，打通产品创新、产业孵化、产业加速、规模销售及持续经营五个可循环发展阶段，实现人工智能产业培育及区域人工智能品牌打造。",
+		"image_url":"//img1.jcloudcs.com/cms/7453a290-c216-46fa-867a-7e415fda2fab20191206100225.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_718",
+		"jss_key":"News_Content_718",
+		"id":718,
+		"news_title":"第二届中国“AI+”创新创业大赛完美收官，京东云赛道硕果累累"
+	},
+	{
+		"summary":"第七届京麒国际安全峰会由北京市政府主管部门指导，京东集团主办，并联合京东云、京东物流、京东物联共同推出。会议以“捍卫信任”为核心主题，涵盖了云安全、威胁情报共享、企业安全体系建设、生态安全建设、数据安全、AIoT安全、隐私保护等多个领域的安全话题，打造一场面向未来网络安全技术发展与变革的视听盛宴。",
+		"image_url":"//img1.jcloudcs.com/cms/f7a53981-57dc-4278-beb6-137c18dfd62520191206144136.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_719",
+		"jss_key":"News_Content_719",
+		"id":719,
+		"news_title":"京东云亮相2019京麒国际安全峰会，全生命周期安全服务助力企业云化转型"
+	},
+	{
+		"summary":"爱分析重磅发布“2019爱分析·中国科技创新企业百强榜单”。京东云凭借持续的技术创新能力、丰富的场景应用能力及厚积薄发的产业赋能等优势入选本年度百强榜第九，云计算领域第四。这是业界对京东云技术创新和综合能力的全面认可。",
+		"image_url":"//img1.jcloudcs.com/cms/3e0b33a5-8c0c-4853-a3fc-f5946bfd98f420191206150854.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_720",
+		"jss_key":"News_Content_720",
+		"id":720,
+		"news_title":"京东云入选2019爱分析 · 中国科技创新企业百强前十 云计算领域第四"
 	}
 ]
