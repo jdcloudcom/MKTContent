@@ -1,0 +1,26 @@
+[
+	{
+		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"AI智慧校园\",\"description\":\"统筹建设智慧校园，打造平安校园、智联校园、智慧教务。打造智能化、感知化、泛在化的新型智慧校园。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9a7f21bf-4649-48fc-b3e8-634d06c2fb5f20191202175400.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[],\"tagMetas\":[]}]}",
+		"templet":"11",
+		"id":876,
+		"solution_id":"183"
+	},
+	{
+		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"方案架构\",\"name\":\"newTab-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/430655bc-d6cb-4bf4-bef0-8cd5c35e084b20191202175018.png\"}]}",
+		"templet":"32",
+		"id":877,
+		"solution_id":"183"
+	},
+	{
+		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"方案能力\",\"name\":\"scene\",\"data\":[{\"title\":\"平安校园\",\"sceneDescription\":\"面向陌生人进校、校园暴力和一些意外伤害事件的安全场景，让家长和学校防不胜防，学生一卡通行校园也容易有被盗刷、仿制卡片的情况发生，为学校师生的安全带来安全隐患。\",\"solution\":\"校园通行、学习、工作、生活场景，通过刷人脸的方式实现校园内身份识别，大大提高了校园的便捷性、安全性。通过校园全场景高清视频布控与校园智能视频分析系统，实现实时跨镜跟踪可疑人员，同时还具有高效的视频结构化算法扩展能力，包括行为识别、人群热力分析和基于多模态的人、物、事的识别、定位、搜索。对实时视频进行全目标解析，实现安防由事后检索变成事前事中实时防控及快速反应。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d22e060a-c8c6-4419-9a2c-7185ac23970c20191202173408.png\",\"showShade\":false},{\"title\":\"智联校园\",\"sceneDescription\":\"面向校园食堂就餐、商店消费、校园服务场景，避免就餐排队、提高商店坪效、让校园服务无处不在。\",\"solution\":\"基于智能终端部署，基于人脸识别、商品识别和语音合成等AI技术，打造AI互动引流、会员识别、智能结算和客流分析等智能应用，赋能校园线下商业门店与食堂，提升人员体验、门店坪效人效。基于智能客服系统，赋能校园app、微信公众号、网页、电话端，师生访客随时随地即可获取校园服务。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/815b27c3-74fd-4c9a-adde-a99f03037bc420191202173443.png\",\"showShade\":false},{\"title\":\"智慧教务\",\"sceneDescription\":\"面向校园学生学习、文体活动，通过技术创新实现教务“共振”。\",\"solution\":\"通过在教堂、实验室、图书管等区域部署交互性强的机器人、智能屏幕等服务终端，实现展览、学习、咨询、文体活动创新以及科技体验。让学校咨询问答随时随地畅通起来，让迎宾接待有趣起来，让校园学习智慧起来，让科技启蒙简单起来。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/410b207c-3b70-458d-b119-6b191b81a2f120191202173519.png\",\"showShade\":false}]}",
+		"templet":"41",
+		"id":878,
+		"solution_id":"183"
+	},
+	{
+		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"方案优势\",\"name\":\"newTab-2\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cc032fc9-de87-488c-a754-994c393f1a4020191202175132.png\",\"title\":\"领先算法技术优势\",\"description\":\"技术能力覆盖AI全领域，可为客户提供定制化技术服务，并基于领先的算法技术优势，实现行业前沿技术应用。\",\"explain\":\"\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/71bd9b2d-0f2b-46ef-a09e-6701ab47224e20191202175135.png\",\"title\":\"以人为核心体验升级\",\"description\":\"依托京东商业积累，结合AI算法，实现打造真正“以人为核心”的智能体验升级。\",\"explain\":\"\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cdce974a-53b5-4b3c-843a-c432a3d4656d20191202175138.png\",\"title\":\"单场景智能迈向全场景智能\",\"description\":\"依托京东智能园区平台，具备融合、串联的特性，校园由原来单一模块、产品智能化改造迈向全场景智能。\",\"explain\":\"\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"templet":"71",
+		"id":879,
+		"solution_id":"183"
+	}
+]
