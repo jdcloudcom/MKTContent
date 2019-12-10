@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"性能测试\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/perftest\",\"classTag\":\"\"}],\"desc\":\"高效多场景发压、报告分析管理的性能测试系统\"}",
+		"id":1496
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"发压资源云化\",\"proName\":\"利用资源弹性扩缩容、和灵活的调度，快速实施多种模式的压测。用户无需关注机器资源。\"},{\"showShade\":false,\"proGood\":\"性能指标实时计算\",\"proName\":\"实时采集发压端、及目标端运行时数据，将关联信息统一展现分析，简化了执行和评估过程。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"分析定位\",\"proName\":\"性能瓶颈的分析定位、及优化改进验证\"}]",
+		"id":1497
+	},
+	{
+		"txt":"[{\"funcName\":\"发压引擎和发压资源\",\"funcContent\":[{\"funcTitle\":\"发压引擎\",\"funcP\":\"基于JMeter的二次开发，支持jmeter原生控件的参数配置：如线程数（Threads）、准备时长（Ramp-up）、延时、持续时间等。\"},{\"funcTitle\":\"支持多种协议\",\"funcP\":\"支持JMeter内建的HTTP、HTTPS、JMS等协议，以及扩展支持的HTTP2、MQTT协议，可根据需求继续扩展。\"},{\"funcTitle\":\"发压资源\",\"funcP\":\"发压机器基于强大的京东云主机资源，可按需弹性配置，分布式发压集群秒级启动。\"},{\"funcTitle\":\"发压脚本\",\"funcP\":\"平台支持上传JMeter脚本和在线创建脚本两种方式，灵活的运行控制逻辑和参数化处理。\"},{\"funcTitle\":\"发压方式\",\"funcP\":\"支持按并发数发压，也可指定目标QPS控制发压请求量。\"}]},{\"funcName\":\"执行方式\",\"funcContent\":[{\"funcTitle\":\"手动执行\",\"funcP\":\"根据需要可手动调整并发量、准备时长、持续时间等参数，自定义变量配置，手动发起压力测试。\"},{\"funcTitle\":\"定时执行\",\"funcP\":\"可个性化配置定时任务发起压测任务，邮件即时通知。\"}]},{\"funcName\":\"压测结果分析\",\"funcContent\":[{\"funcTitle\":\"测试结果\",\"funcP\":\"实时流式聚合计算压测结果，5s间隔动态刷新数据变化，用户可查看各指标变化趋势，测试完成后生成历史压测报告。\"},{\"funcTitle\":\"结果分析\",\"funcP\":\"包含吞吐量、响应时间、成功率、实时采样数量、并发数、响应体大小等各项指标。\"},{\"funcTitle\":\"详情分析\",\"funcP\":\"分类计算各采样器结果指标及样本数、最大（最小、平均）相应时间、平均响应体大小、TP90、TP95、TP99、方差等各项指标。\"},{\"funcTitle\":\"结果对比\",\"funcP\":\"用户可选择多次执行记录后生成各结果项的变化趋势图及详情数据报表，帮助用户分析被测系统性能变化趋势。\"}]},{\"funcName\":\"系统监控和日志采样\",\"funcContent\":[{\"funcTitle\":\"被测服务监控\",\"funcP\":\"若被监控目标在京东云上，压测服务集成了云监控的数据，主要包括内存、cpu、硬盘、网络指标。\"},{\"funcTitle\":\"发压引擎监控\",\"funcP\":\"发压机健康度实时显示如CPU、内存、网络、磁盘。\"},{\"funcTitle\":\"采样器日志\",\"funcP\":\"提供发压采样器的执行跟踪和错误日志分析，包括请求参数、响应内容，可准确定位问题。\"},{\"funcTitle\":\"压测告警\",\"funcP\":\"对压测结果错误，支持告警邮件订阅。\"}]}]",
+		"id":1498
+	},
+	{
+		"txt":"[{\"name\":\"应用场景\",\"instruction\":\"通常利用jmeter客户端，本地创建自定义脚本并上传或在线创建简单的http发压脚本，配置简单的发压参数，快速执行发压请求，并根据用户需要快速扩展发压资源。可以实时查看性能测试报告、采样日志追踪、历史执行记录以及监控数据，并且可以设置简单的定时任务执行发压。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"性能测试\",\"url\":\"//www.jdcloud.com/products/perftest\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ee04e6ef-92b6-4b65-a6ff-206e824bc49520191017182136.png\",\"showShade\":false}]",
+		"id":1499
+	}
+]
