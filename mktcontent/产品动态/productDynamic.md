@@ -2512,5 +2512,137 @@
 		"name":"Edge Network Tunnel  Open Beta",
 		"description":"Edge Network Tunnel is a network penetration service built on the basis of telecommunication edge network and mass fragmented idle resource nodes. Obtain quality edge trunk line with this service and realize end-to-end quick connection and content transmission",
 		"id":2566
+	},
+	{
+		"introduce":"Short Video SDK  Open Beta",
+		"name":"Short Video SDK  Open Beta",
+		"description":"Short video SDK is a mobile terminal short video SDK integrating the functions of video import, synthesis, editing, special effect, filter, caption, sticker, music, play, export and the like, developed based on the strong basic service ability of JD Cloud, with the purpose to provide customers with complete short video one-stop solutions.",
+		"id":2575
+	},
+	{
+		"introduce":"Import and Export of Additional Configuration File",
+		"name":"Import and Export of Additional Configuration File",
+		"description":"The function of importing and exporting configuration files is added, facilitating users to update configuration files via JD Distributed Service Framework",
+		"id":2576
+	},
+	{
+		"introduce":"Mobile Live Video Broadcasting SDK  Open Beta",
+		"name":"Mobile Live Video Broadcasting SDK  Open Beta",
+		"description":"Mobile Live Video Broadcasting SDK is a software development kit launched by JD Cloud to mobile platform, with two modules of pushing streaming SDK and player SDK, providing customers with functions such as mobile audio and video data collection, processing, pushing streaming and playing.",
+		"id":2577
+	},
+	{
+		"introduce":"Support change configuration, white list and Internet domain enabling",
+		"name":"Support change configuration, white list and Internet domain enabling",
+		"description":"The read-only instance of JCS for MariaDB supports change configuration, white list and Internet domain enabling",
+		"id":2578
+	},
+	{
+		"introduce":"Support change configuration, white list and Internet domain enabling",
+		"name":"Support change configuration, white list and Internet domain enabling",
+		"description":"The read-only instance of JCS for Percona supports change configuration, white list and Internet domain enabling",
+		"id":2579
+	},
+	{
+		"introduce":"Support change configuration, white list and Internet domain enabling",
+		"name":"Support change configuration, white list and Internet domain enabling",
+		"description":"The read-only instance of JCS for MySQL supports change configuration, white list and Internet domain enabling",
+		"id":2580
+	},
+	{
+		"introduce":"Capacity type CFS service, open \"general\" CFS service in [cn-east-2]",
+		"name":"Capacity type CFS service, open \"general\" CFS service in [cn-east-2]",
+		"description":"By adopting the HDD disk for storage, the underlayer \"capacity type\" Cloud File Service greatly reduces the cost, and can achieve the throughput performance which is only slightly less than that of the \"general type\" Cloud File Service in the infrequent read-write scenario, with the price equal to 77% of the \"general type\" (RMB 0.35/GB/month). It is applicable for file sharing and storage demand scenario where the read-write media for archiving and file sharing is sensitive to storage space and the file sharing memory is insensitive to read-write delay.",
+		"id":2581
+	},
+	{
+		"introduce":"JCS for MySQL instances provide error log and slow log management service",
+		"name":"JCS for MySQL instances provide error log and slow log management service",
+		"description":"JCS for MySQL instances provide error log and slow log management service. Users can download original log files by themselves via three methods such as Intranet domain, Internet domain and local download.",
+		"id":2582
+	},
+	{
+		"introduce":"JCS for MariaDB instances provide error log and slow log management service",
+		"name":"JCS for MariaDB instances provide error log and slow log management service",
+		"description":"JCS for MariaDB instances provide error log and slow log management service. Users can download original log files by themselves via three methods such as Intranet domain, Internet domain and local download.",
+		"id":2583
+	},
+	{
+		"introduce":"Log Management Service of JCS for Percona",
+		"name":"Log Management Service of JCS for Percona",
+		"description":"JCS for Percona instances provide error log and slow log management service. Users can download original log files by themselves via three methods such as Intranet domain, Internet domain and local download.",
+		"id":2584
+	},
+	{
+		"introduce":"Video E-commerce  Open Beta",
+		"name":"Video E-commerce  Open Beta",
+		"description":"Relying on JD’s benefits, the Video E-commerce service plays the capacities of video cloud platform and promotes e-commerce realization with open traffics such as WeChat",
+		"id":2585
+	},
+	{
+		"introduce":"Support storage optimized instance",
+		"name":"Support storage optimized instance",
+		"description":"Meet demands for self-built database and big data cluster",
+		"id":2586
+	},
+	{
+		"introduce":"Using Queue Service as triggering function is supported",
+		"name":"Using Queue Service as triggering function is supported",
+		"description":"Messages sent to Queue will trigger functions and Function Service will pull Queue messages from the Queue Service and delete messages.",
+		"id":2587
+	},
+	{
+		"introduce":"Support URI cache",
+		"name":"Support URI cache",
+		"description":"URI pages can be cached, improving access speed.",
+		"id":2588
+	},
+	{
+		"introduce":"Additional GTC Function",
+		"name":"Additional GTC Function",
+		"description":"GTC can provide users with domain resolution function for private deployment and website availability monitoring, to make global traffic scheduling",
+		"id":2589
+	},
+	{
+		"introduce":"Users can synchronize historical data of one space to another one",
+		"name":"Historical Data Synchronization",
+		"description":"By creating historical data synchronization task, the existing Bucket data can be asynchronously replicated to the target Bucket",
+		"id":2590
+	},
+	{
+		"introduce":"Support users to collect and view redis4.0 logs",
+		"name":"Support users to collect and view redis4.0 logs",
+		"description":"Users can select and collect redis4.0 instance logs and can search with the search function.",
+		"id":2591
+	},
+	{
+		"introduce":"Using Queue Service as function trigger is supported",
+		"name":"Using Queue Service as function trigger is supported",
+		"description":"The Function Service will continue round robin queue, including asynchronously calling functions via an event with Queue message.",
+		"id":2592
+	},
+	{
+		"introduce":"Optimization of Calling Chain",
+		"name":"Optimization of Calling Chain",
+		"description":"Support search by service name, method name, elapsed time, status code and IP and sort search results by elapsed time.",
+		"id":2593
+	},
+	{
+		"introduce":"Player SDK  Open Beta",
+		"name":"Player SDK  Open Beta",
+		"description":"Player SDK is a player software development toolkit launched by JD Cloud to provide VOD and live broadcasting, which comprises multiple terminals such as Web/H5, Android and iOS. It is designed to help developers quickly obtain the player capacity support.",
+		"id":2594
+	},
+	{
+		"introduce":"Security Notification Service  Official Release",
+		"name":"Security Notification Service  Official Release",
+		"description":"Monitor risks and hidden dangers in real time, provide latest security vulnerability messages and threat intelligence, help customers discover potential security risks of systems in time and improve security risk controllability for enterprises.",
+		"id":2595
+	},
+	{
+		"introduce":"Code Audit Service  Official Release",
+		"name":"Code Audit Service  Official Release",
+		"description":"Check security defects and normative defects in source codes via the combined method of manual work and automatic tool, analyze security vulnerabilities incurred by these problems and provide code revision measures and suggestions.",
+		"id":2596
 	}
 ]

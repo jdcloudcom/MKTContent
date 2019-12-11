@@ -1,0 +1,37 @@
+<p><span style="font-size: 14px;"> &nbsp; &nbsp; &nbsp; </span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 14px;">Recently, JD Cloud Security Team has monitored a security update notification officially released by Container Registry Harbor. 5 security vulnerabilities have been fixed recently, including permission promotion, SQL injection and user enumeration. In order to prevent your business from being affected, it is recommended that you conduct a security self-examination in a timely manner. If your business is in the affecting scope, please update and fix the problem in time to avoid attacks from an external attacker.</span>
+</p>
+<p><span style="font-size: 14px;">[Vulnerability Description]</span>
+</p>
+<p><span style="font-size: 14px;"> &nbsp; &nbsp;Harbor is an enterprise level Registry server for Docker image storage and distribution. The version between 1.8.6 and 1.9.3 will be subject to multiple security vulnerabilities caused by permission promotion, SQL injection and user enumeration. Attackers can make use of vulnerabilities and cause risks by improving users’ permissions and getting sensitive data. If so, Harbor Container Registry might be taken over by attackers.</span>
+</p>
+<p><span style="font-size: 14px;">[Vulnerability Rating]</span>
+</p>
+<p><span style="font-size: 14px;">CVE-2019-19023 Severe</span>
+</p>
+<p><span style="font-size: 14px;">CVE-2019-19025 Severe</span>
+</p>
+<p><span style="font-size: 14px;">CVE-2019-19026 High Risk</span>
+</p>
+<p><span style="font-size: 14px;">CVE-2019-19029 High Risk</span>
+</p>
+<p><span style="font-size: 14px;">CVE-2019-3990 Moderate Risk</span>
+</p>
+<p><span style="font-size: 14px;">[Affected Version]</span>
+</p>
+<p><span style="font-size: 14px;">Harbor 1.7.x</span>
+</p>
+<p><span style="font-size: 14px;">Harbor 1.8.x &lt; 1.8.6</span>
+</p>
+<p><span style="font-size: 14px;">Harbor 1.9.x &lt; 1.9.3</span>
+</p>
+<p><span style="font-size: 14px;">[Fix Recommendation]</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 14px;">New versions have been officially released to fix up the above vulnerabilities. JD Cloud Security Team suggests that: If your version is subject to the influence, please upgrade the version to the safe versions 1.8.6 and 1.9.3</span>
+</p>
+<p><span style="font-size: 14px;">[Relevant Links]</span>
+</p>
+<p><a href="https://github.com/goharbor/harbor/security/advisories" target="_blank" style="text-decoration: underline; font-size: 14px;" microsoft="" font-size:=""><span style="font-size: 14px;">https://github.com/goharbor/harbor/security/advisories</span>
+</a></p>
+<p><br/></p>

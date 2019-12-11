@@ -1662,5 +1662,21 @@
 		"jss_key":"News_Content_711",
 		"id":711,
 		"news_title":"JD Cloud won the 2019 Outstanding Network Security Solution Award, setting up the benchmark of cloud data security of the year"
+	},
+	{
+		"summary":"\"Xianyou County applies Internet thinking, uses high-end resources of JD and the like and jointly builds the JD (Xianyou) Digital Economy Industrial Park, injecting new driving force to the traditional industry.\" - On November 8, the Office of Authority Efficiency Construction and Leading Group of Putian City commended on 16 classic practices discovered during the activity of \"Supervision to Promotion of High Quality Development and Implementation on Catching Efficacy in 2019\".",
+		"image_url":"//img1.jcloudcs.com/cms/53e964d5-833b-4079-a5ef-c67978bd44dc20191202183557.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_716",
+		"jss_key":"News_Content_716",
+		"id":716,
+		"news_title":"New Times  Cloud Force∣Cloud Empowerment  Motivating \"Attraction of Xianyou\""
+	},
+	{
+		"summary":"The well-known Internet security media in China, AQNIU, has released the \"Network Security Subdivision Matrix Diagram of China\" (Matrix 2019.11). In the subdivision of Web Application Firewall (WAF), JD Cloud is successfully awarded as the \"leader\" of the Web Application Firewall in China by virtue of its leading technical skills and strong market influence.",
+		"image_url":"//img1.jcloudcs.com/cms/6a3f1345-7135-4b9c-9700-c0b72255c45120191203114123.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_717",
+		"jss_key":"News_Content_717",
+		"id":717,
+		"news_title":"JD Cloud was selected in the Web Application Firewall Matrix of AQNIU, with its WAF products selected as the industrial \"leader\""
 	}
 ]

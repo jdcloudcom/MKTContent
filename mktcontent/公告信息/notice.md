@@ -660,7 +660,11 @@
 		"title":"\\[All Region\\] Notice on Automatic Upgrade of Virtual Machines System Component JCS-Agent from November 28 to December 5"
 	},
 	{
-		"id":799,
-		"title":"Notice on Automatic Upgrade of Virtual Machines System Component JCS-Agent"
+		"id":802,
+		"title":"\\[Service Suspension Notice\\] At 22:00 on December 4, services of Virtual Machines, SSH Key Pair, Instance Template, Availability Group Console and OpenAPI will be suspended"
+	},
+	{
+		"id":803,
+		"title":"\\[Vulnerability Warning\\] Notice on High Risk Vulnerabilities of Harbor"
 	}
 ]
