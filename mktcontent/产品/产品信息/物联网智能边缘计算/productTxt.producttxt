@@ -1,18 +1,22 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"物联网智能边缘计算\",\"label\":[{\"TitleName\":\"立即申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/iotedge\",\"classTag\":\"\"}],\"desc\":\"部署和运行在边缘节点设备上的智能系统，将云端计算能力扩展到本地边缘节点，在现场执行智能计算。用户可以在设备部署现场通过边缘计算节点获得例如设备接入管理，数据就近处理，以及AI推断等能力。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"物联网智能边缘计算\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"https://iot-console.jdcloud.com/edge\",\"classTag\":\"\"}],\"desc\":\"运行在边缘设备上的智能系统，将云端计算能力扩展到边缘，用户可以在边缘侧方便的进行设备管理、信息过滤、数据分析以及AI推断。\"}",
 		"id":1109
 	},
 	{
-		"txt":"[{\"showShade\":false,\"proGood\":\"智能\",\"proName\":\"提供本地数据处理，AI学习、推断、识别等能力，让边缘具备一定的AI计算和推断能力。\"},{\"showShade\":false,\"proGood\":\"便捷\",\"proName\":\"多种协议支持，可将各类终端设备，传感器快速便捷的接入物联网平台。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"实时\",\"proName\":\"本地数据实时采集，实时处理，结果实时反馈至用户。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高效\",\"proName\":\"设备接入，控制，数据存储，分析，处理，AI推断等工作，均可在离线状态下进行，避免网络造成的延时和工作中断，加快边缘决策速度。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"经济\",\"proName\":\"大量的数据收集和处理工作在本地完成，减少云端传输，存储和计算的成本。\"}]",
+		"txt":"[{\"showShade\":false,\"proGood\":\"智能\",\"proName\":\"提供本地数据处理，AI学习、推断、识别等能力，将云端的计算能力下沉至边缘。\"},{\"showShade\":false,\"proGood\":\"便捷\",\"proName\":\"多种协议支持，可将各类终端设备、传感器快速便捷的接入物联网引擎（Iot Core）。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"实时\",\"proName\":\"本地数据实时采集，实时处理，结果实时反馈至用户。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高效\",\"proName\":\"设备接入，控制，数据存储，分析，处理，AI推断等工作，均可在离线状态下进行，避免网络抖动造成的延时和工作中断，加快边缘决策速度。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"经济\",\"proName\":\"大量的数据收集和处理工作在本地完成，减少云端传输，存储和计算的成本。\"}]",
 		"id":1110
 	},
 	{
-		"txt":"[{\"funcName\":\"设备接入\",\"funcContent\":[{\"funcTitle\":\"本地设备接入\",\"funcP\":\"提供设备接入支持服务，允许用户针对不同设备开发不同的设备服务。\"}]},{\"funcName\":\"边缘计算\",\"funcContent\":[{\"funcTitle\":\"图像检测模块\",\"funcP\":\"本地图片检测计算模块，caffe框架，支持多种AI模型，支持USB Camera。识别结果支持本地存储及OSS存储。\"}]}]",
+		"txt":"[{\"funcName\":\"设备接入\",\"funcContent\":[{\"funcTitle\":\"本地设备接入\",\"funcP\":\"提供网络摄像头设备服务，支持ONVIF协议，支持市面常见的网络摄像头接入，支持采集图片和视频并可以通过消息路由配置，将图像输出至对象检测应用。\"}]},{\"funcName\":\"边缘计算\",\"funcContent\":[{\"funcTitle\":\"对象检测应用\",\"funcP\":\"视觉AI应用，针对IP摄像头采集的图像，进行对象识别检测，支持设定检测对象，支持检测目标后录制视频，支持用户自定义AI模型。识别结果支持本地存储及京东云OSS存储。\"}]}]",
 		"id":1111
 	},
 	{
-		"txt":"[{\"name\":\"设备上云\",\"instruction\":\"通过物联网智能边缘计算（IoT Edge），您可以将各类传感器，无互联网连接能力的设备连接至边缘节点后，直接接入物联网平台进行管理。同时，可以将设备数据直接存储在边缘节点和京东云对象存储中。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"物联网中心\",\"url\":\"//www.jdcloud.com/products/iot-hub\"},{\"name\":\"对象存储\",\"url\":\"//www.jdcloud.com/products/object-storage-service\"},{\"name\":\"容器镜像仓库\",\"url\":\"//www.jdcloud.com/products/container-registry\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/330f10f1-8540-4488-a727-af7555dfb12020190409190835.png\",\"showShade\":false},{\"name\":\"图像检测\",\"instruction\":\"通过将图像检测模块部署到边缘节点，您可以使用您本地的摄像头设备进行图像采集，并通过不同的AI训练集对图像进行检测识别。检测结果和检测图片会自动保存至您自己的OSS中并且可再次用于打标和AI训练，以满足您不断发展的业务需求。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"物联网中心\",\"url\":\"//www.jdcloud.com/products/iot-hub\"},{\"name\":\"容器镜像仓库\",\"url\":\"//www.jdcloud.com/products/container-registry\"},{\"name\":\"对象存储\",\"url\":\"//www.jdcloud.com/products/object-storage-service\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f8023cac-cee1-4c68-bc18-f08af9eb1e4f20190409190934.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"设备上云\",\"instruction\":\"通过物联网智能边缘计算（IoT Edge），您可以将各类传感器，无互联网连接能力的设备连接至边缘节点后，直接接入物联网平台进行管理。同时，可以将设备数据直接存储在边缘节点和京东云对象存储中。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"物联网引擎\",\"url\":\"//www.jdcloud.com/products/iot-core\"},{\"name\":\"容器镜像仓库\",\"url\":\"//www.jdcloud.com/products/container-registry\"},{\"name\":\"对象存储\",\"url\":\"//www.jdcloud.com/products/object-storage-service\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ddd6904c-08a0-49b9-a66d-f5b99738338a20191212141009.png\",\"showShade\":false},{\"name\":\"对象检测\",\"instruction\":\"通过部署安装对象检测应用，您可以对本地网络摄像头采集的图像进行检测识别，支持使用自定义的AI训练模型。检测结果，检测图片和视频会自动保存至您的OSS中，你可将其用于打标和AI训练，以满足您不断发展的业务需求。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"物联网引擎\",\"url\":\"//www.jdcloud.com/products/iot-core\"},{\"name\":\"容器镜像仓库\",\"url\":\"//www.jdcloud.com/products/container-registry\"},{\"name\":\"对象存储\",\"url\":\"//www.jdcloud.com/products/object-storage-service\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e5e40bb7-9c61-46da-8929-4d550c9b76f120191212103130.png\",\"showShade\":false}]",
 		"id":1112
+	},
+	{
+		"txt":"[{\"name\":\"物联网智能边缘计算支持什么样的硬件平台？\",\"link\":\"https://docs.jdcloud.com/iot-edge/faq\",\"classTag\":\"\"},{\"name\":\"目前提供什么样的边缘计算服务？\",\"link\":\"https://docs.jdcloud.com/iot-edge/faq\",\"classTag\":\"\"},{\"name\":\"如何快速搭建边缘智能视觉业务？\",\"link\":\"https://docs.jdcloud.com/iot-edge/object-detect\",\"classTag\":\"\"}]",
+		"id":1650
 	}
 ]
