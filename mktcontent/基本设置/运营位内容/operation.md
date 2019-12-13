@@ -36,7 +36,7 @@
 	},
 	{
 		"name":"年终采购季",
-		"description":"全场低至1折",
+		"description":"全场低至0.9折",
 		"id":8
 	},
 	{
