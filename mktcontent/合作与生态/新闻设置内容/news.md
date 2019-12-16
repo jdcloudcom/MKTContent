@@ -1609,7 +1609,7 @@
 	},
 	{
 		"summary":"城镇化的加快，让城市面貌发生了日新月异的变化。新兴技术的发展，也为解决城市社会问题，降低不确定性，提供了更多可能。随着“互联网+”步入“智能+”，京东云凭借云计算、大数据等优势技术，赋能各地城市，将自身定义为“城市数字化转型的全生命周期合伙人”，锚定城市建设新坐标，致力于打造云上之城，让城市生活更简单美好。",
-		"image_url":"//img1.jcloudcs.com/cms/6e914e40-8fbd-4148-8306-2a9294c6f20f20191121173126.jpg",
+		"image_url":"//img1.jcloudcs.com/cms/b676d089-140e-4931-9d78-cef999ffe38e20191216115729.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_704",
 		"jss_key":"News_Content_704",
 		"id":704,
