@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"智能抠图\",\"label\":[{\"TitleName\":\"免费试用\",\"TitleUrl\":\"https://ling-console.jdcloud.com/server/cutout/\",\"classTag\":\"\"}],\"desc\":\"智能抠图服务是为图片主体抠除背景，生成透明底图片的智能服务。基于机器学习、图像智能识别技术，可大幅度提升图像处理效率，降低人工成本。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"智能抠图\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ling-console.jdcloud.com/server/cutout/\",\"classTag\":\"\"}],\"desc\":\"智能抠图服务是为图片主体抠除背景，生成透明底图片的智能服务。基于机器学习、图像智能识别技术，可大幅度提升图像处理效率，降低人工成本。\"}",
 		"id":1428
 	},
 	{
