@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"风格识别\",\"label\":[{\"TitleName\":\"免费试用\",\"TitleUrl\":\"https://ling-console.jdcloud.com/server/predict/ \",\"classTag\":\"\"}],\"desc\":\"风格识别服务是能够读取图片信息，实现按照风格进行智能归类管理的功能。由深度学习引擎打造，通过构建样本数据集训练机器，形成风格预测模型，根据模型，可从图片信息识别出风格特征元素，自动判别图片设计风格。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"风格识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ling-console.jdcloud.com/server/predict/ \",\"classTag\":\"\"}],\"desc\":\"风格识别服务是能够读取图片信息，实现按照风格进行智能归类管理的功能。由深度学习引擎打造，通过构建样本数据集训练机器，形成风格预测模型，根据模型，可从图片信息识别出风格特征元素，自动判别图片设计风格。\"}",
 		"id":1436
 	},
 	{
