@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"安全攻防演练服务\",\"label\":[{\"TitleName\":\"工单咨询\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=780\",\"classTag\":\"\"}],\"desc\":\"在了解企业实际安全现状的基础上，针对企业重要核心业务，模拟真实的网络攻防场景，帮助企业了解常见网络攻防过程与技术手段，提升企业安全人员的安全意识和能力。\"}",
+		"id":1618
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"场景丰富\",\"proName\":\"基于京东云多年的攻防经验，可模拟出多种安全攻防场景，确保企业能应对多种攻击场景。\"},{\"showShade\":false,\"proGood\":\"专家团队\",\"proName\":\"京东云资深的安全专家团队，拥有丰富的安全项目经验，保证服务质量。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"定制化\",\"proName\":\"根据企业实际情况制订安全攻防演练方案，确保企业员工都能参与对抗，熟悉安全事件基本应急处理，提高安全意识。\"}]",
+		"id":1619
+	},
+	{
+		"txt":"[{\"funcName\":\"服务内容\",\"funcContent\":[{\"funcTitle\":\"安全攻防演练\",\"funcP\":\"根据客户实际情况调研并制定安全攻防演练方案，在攻防演练过程将模拟进攻方和防守方，在模拟环境中或客户指定环境中进行安全攻击和防守的演练活动，通过安全攻防演练提升客户抵御安全风险的能力。\"}]},{\"funcName\":\"服务方式\",\"funcContent\":[{\"funcTitle\":\"现场技术支持\",\"funcP\":\"京东云提供专业的安全专家，可为客户提供现场技术支持，组织客户进行安全攻防演练的开展，培训和指导客户进行红蓝对抗模拟，并解答客户疑问。\"}]}]",
+		"id":1620
+	},
+	{
+		"txt":"[{\"name\":\"产品概述\",\"link\":\"https://docs.jdcloud.com/security-attack-and-defense-drill-service/product-overview\",\"classTag\":\"\"},{\"name\":\"入门指南\",\"link\":\"https://docs.jdcloud.com/security-attack-and-defense-drill-service/getting-started\",\"classTag\":\"\"},{\"name\":\"产品定价\",\"link\":\"https://docs.jdcloud.com/security-attack-and-defense-drill-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":1684
+	}
+]
