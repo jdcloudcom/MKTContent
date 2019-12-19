@@ -215,7 +215,7 @@
 	},
 	{
 		"summary":"",
-		"name":"Marketplace",
+		"name":"京东云市场",
 		"id":222
 	},
 	{
@@ -1881,5 +1881,40 @@
 		"summary":"",
 		"name":"性能测试",
 		"id":3478
+	},
+	{
+		"summary":"",
+		"name":"安全众测服务",
+		"id":3480
+	},
+	{
+		"summary":"",
+		"name":"安全攻防演练服务",
+		"id":3481
+	},
+	{
+		"summary":"",
+		"name":"PCI DSS 合规服务",
+		"id":3482
+	},
+	{
+		"summary":"",
+		"name":"VR 云服务",
+		"id":3483
+	},
+	{
+		"summary":"",
+		"name":"VR 播放器 SDK",
+		"id":3484
+	},
+	{
+		"summary":"",
+		"name":"VR 点播",
+		"id":3485
+	},
+	{
+		"summary":"",
+		"name":"VR 直播",
+		"id":3486
 	}
 ]
