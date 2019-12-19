@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"PCI DSS 合规服务\",\"label\":[{\"TitleName\":\"工单咨询\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=772\",\"classTag\":\"\"}],\"desc\":\"京东云联合专业的第三方评估机构和咨询机构，为客户提供系统化、定制化的PCI DSS合规服务，协助客户完成合规建设工作，提升安全能力。\"}",
+		"id":1621
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"一站式服务\",\"proName\":\"京东云联合业内具备完整PCI资质的合作伙伴为客户提供包含咨询指导、安全评估、安全产品和服务等一站式的PCI DSS合规服务。\"},{\"showShade\":false,\"proGood\":\"节约成本\",\"proName\":\"依托安全合规的京东云平台，客户可减少底层信息系统合规建设投入，按需的选用京东云合规的安全产品和服务，最大化的降低合规建设成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"量身定制\",\"proName\":\"专属的专家团队，根据客户的安全现状，为客户提供专属定制化的PCI DSS合规建设方案，帮助客户顺利通过PCI DSS评估。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"专家团队\",\"proName\":\"行业内资深的专家团队，拥有丰富的项目经验，保证服务质量。\"}]",
+		"id":1622
+	},
+	{
+		"txt":"[{\"funcName\":\"PCI DSS合规咨询服务\",\"funcContent\":[{\"funcTitle\":\"一站式的合规咨询服务\",\"funcP\":\"提供包含培训服务、咨询服务等覆盖 PCI DSS 所需要的管理和技术要求的一站式合规咨询服务，同时为客户提供专属的合规建设方案，按需的选用京东云合规的安全产品和服务，协助客户完成PCI DSS合规建设。\"}]},{\"funcName\":\"PCI DSS评估服务\",\"funcContent\":[{\"funcTitle\":\"专业的PCI DSS评估服务\",\"funcP\":\"联合支付卡行业安全标准委员会授权的合格安全评估机构 ，为京东云客户提供 PCI DSS 准备评估、实施整改、 弱点扫描、渗透测试、PCI DSS QSA 正式评估等服务。\"}]}]",
+		"id":1623
+	},
+	{
+		"txt":"[{\"name\":\"产品概述\",\"link\":\"https://docs.jdcloud.com/pci-dss-compliance-service/product-overview\",\"classTag\":\"\"},{\"name\":\"入门指南\",\"link\":\"https://docs.jdcloud.com/pci-dss-compliance-service/getting-started\",\"classTag\":\"\"},{\"name\":\"产品定价\",\"link\":\"https://docs.jdcloud.com/pci-dss-compliance-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":1696
+	}
+]
