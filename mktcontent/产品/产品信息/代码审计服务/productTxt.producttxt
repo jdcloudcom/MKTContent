@@ -10,5 +10,9 @@
 	{
 		"txt":"[{\"funcName\":\"代码安全审计\",\"funcContent\":[{\"funcTitle\":\"代码安全现状分析\",\"funcP\":\"通过自动化工具扫描和人工代码审计结合的方式，对程序源代码逐条进行检查，分析其中存在的安全隐患，并提供代码修复措施和建议。\"},{\"funcTitle\":\"支持多种程序语言审计\",\"funcP\":\"可审计Java、ASP、JSP、PHP等常见的程序源码。\"},{\"funcTitle\":\"服务交付\",\"funcP\":\"代码审计完成后，提供给客户专业、完整的代码审计报告。\"}]},{\"funcName\":\"安全编码规范咨询\",\"funcContent\":[{\"funcTitle\":\"可提供安全编码咨询和建议\",\"funcP\":\"可为企业开发人员提供安全编码规范的咨询和建议，提前避免不安全的编码方式，提高企业源代码的质量和安全性。\"}]}]",
 		"id":1598
+	},
+	{
+		"txt":"[{\"name\":\"产品概述\",\"link\":\"https://docs.jdcloud.com/code-audit-service/product-overview\",\"classTag\":\"\"},{\"name\":\"入门指南\",\"link\":\"https://docs.jdcloud.com/code-audit-service/getting-started\",\"classTag\":\"\"},{\"name\":\"产品定价\",\"link\":\"https://docs.jdcloud.com/code-audit-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":1686
 	}
 ]
