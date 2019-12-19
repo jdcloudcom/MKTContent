@@ -1734,5 +1734,21 @@
 		"jss_key":"News_Content_724",
 		"id":724,
 		"news_title":"IDC《2019年上半年中国云运营服务市场洞察》： 京东云位列第一梯队"
+	},
+	{
+		"summary":"京东云与AI事业部携手泉州经济技术开发区、北京科复时代科技有限公司在京东集团总部举行项目签约，正式签署新型显示数字经济产业园项目合作协议书。",
+		"image_url":"//img1.jcloudcs.com/cms/32d505c9-78b5-4072-b3e2-ba607c5451ca20191219115837.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_740",
+		"jss_key":"News_Content_740",
+		"id":740,
+		"news_title":"携手泉州 京东云达成新型显示数字经济产业园项目签约"
+	},
+	{
+		"summary":"围绕零售电商、金融、物流、保险、健康、城市等核心业务产生海量高价值数据，京东云催生出非常丰富的AI实际应用场景，再加上算法技术方面，通过建立算法技术、应用场景、数据模型的连接，构建出京东AI发展的全链条，实现AI能力平台化，打造出一个包括智能零售、智能金融、智能保险、智能城市、智能医疗等在内的全球领先的智能商业体。",
+		"image_url":"//img1.jcloudcs.com/cms/ee143199-b5e5-46ca-b960-432213fdba9820191219175853.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_741",
+		"jss_key":"News_Content_741",
+		"id":741,
+		"news_title":"NVIDIA GPU技术大会召开，京东云+AI开放平台让AI更普惠"
 	}
 ]
