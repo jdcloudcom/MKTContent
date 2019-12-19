@@ -16,7 +16,7 @@
 		"id":304
 	},
 	{
-		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|100\",\"price\":\"//docs.jdcloud.com/api-gateway/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|100\"}",
+		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|100\",\"price\":\"https://docs.jdcloud.com/cn/api-gateway/billing-rules\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|100\"}",
 		"id":305
 	}
 ]
