@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"VR 播放器 SDK\",\"label\":[],\"desc\":\"VR播放器SDK是京东云推出的应用于移动端VR播放的软件开发工具包，同时覆盖Android端和iOS端，支持VR直播流/点播文件的播放，旨在帮助开发者快速具备VR播放能力支撑。\"}",
+		"id":1624
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"功能强大\",\"proName\":\"提供VR直播流/点播文件的播放、畸变适配模式/原片模式切换、清晰度切换、方向控制、音量控制、节目名称展示、点播播放进度及时间展示等播放功能，结合VR头显设备可为用户带来沉浸式的VR播放体验。\"},{\"showShade\":false,\"proGood\":\"快速接入\",\"proName\":\"接口清晰，提供完善的文档和Demo演示，有专业开发人员指导，对接方便快速。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"VR服务一站式解决方案\",\"proName\":\"结合京东云VR直播、VR点播产品，可为客户提供VR视频采集、拼接、推流/上传、VR处理、分发、VR播放等一站式VR云服务解决方案，让客户快速具备VR业务支撑能力。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多编码格式、多协议支持\",\"proName\":\"支持H.264、H.265编码格式的VR视频播放，支持RTMP、HTTP-FLV、HLS协议的VR直播视频播放。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"支持清晰度自动切换\",\"proName\":\"可自动实时计算实际网络状况，实现清晰度自动切换，保证VR视频流畅播放的同时提供较高的视频质量。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"24小时专家客服\",\"proName\":\"提供7*24小时专家客服，随时处理客户问题，为客户的VR播放业务正常运行保驾护航。\"}]",
+		"id":1625
+	},
+	{
+		"txt":"[{\"funcName\":\"播放功能丰富\",\"funcContent\":[{\"funcTitle\":\"多种观看模式支持\",\"funcP\":\"同时支持畸变适配模式和原片模式，畸变适配模式下画面为弧形，适配了VR眼镜设备的光学畸变，戴VR眼镜看不变形；原片模式下画面为方形，即未适配畸变；用户可根据需求自由选择。\"},{\"funcTitle\":\"支持多种清晰度\",\"funcP\":\"支持多种清晰度，用户可按需自由选择。\"},{\"funcTitle\":\"播放器方向控制\",\"funcP\":\"支持播放器方向锁定/解锁。\"},{\"funcTitle\":\"音量控制\",\"funcP\":\"支持音量自定义控制。\"},{\"funcTitle\":\"播放/暂停控制\",\"funcP\":\"支持播放/暂停控制。\\n\"},{\"funcTitle\":\"自动播放下一个视频\",\"funcP\":\"支持自动播放下一个视频，头显设备播放更便捷。\"},{\"funcTitle\":\"播放节目名称展示\",\"funcP\":\"支持播放节目名称展示。\"},{\"funcTitle\":\"点播播放进度控制\",\"funcP\":\"支持点播文件播放进度的控制，快进/快退，视频总时长和当前播放时间点的展示等。\"}]},{\"funcName\":\"播放器能力健全\",\"funcContent\":[{\"funcTitle\":\"多终端支持\",\"funcP\":\"同时支持Android和iOS端。\"},{\"funcTitle\":\"支持VR直播、点播播放\",\"funcP\":\"同时支持VR直播流和VR点播文件的播放。\"},{\"funcTitle\":\"首屏秒开\",\"funcP\":\"支持首屏秒开，快速起播。\"},{\"funcTitle\":\"多编码格式、多协议支持\",\"funcP\":\"支持H.264、H.265编码格式的VR视频播放，支持RTMP、HTTP-FLV、HLS协议的VR直播视频播放。\"},{\"funcTitle\":\"支持清晰度自动切换\",\"funcP\":\"可自动实时计算实际网络状况，实现清晰度自动切换，保证VR视频流畅播放的同时提供较高的视频质量。\"}]}]",
+		"id":1626
+	},
+	{
+		"txt":"[{\"name\":\"Q：VR播放器SDK都包括那些端？\",\"link\":\"//docs.jdcloud.com/cn/vr-player-service-sdk/faq\",\"classTag\":\"\"},{\"name\":\"Q：VR播放器支持哪些播放协议？\",\"link\":\"//docs.jdcloud.com/cn/vr-player-service-sdk/faq\",\"classTag\":\"\"},{\"name\":\"Q：VR播放器SDK怎么收费？\",\"link\":\"//docs.jdcloud.com/cn/vr-player-service-sdk/faq\",\"classTag\":\"\"}]",
+		"id":1627
+	},
+	{
+		"txt":"{\"price\":\"//docs.jdcloud.com/cn/vr-player-service-sdk/billing-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1628
+	}
+]
