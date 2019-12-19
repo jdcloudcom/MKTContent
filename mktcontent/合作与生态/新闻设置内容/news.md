@@ -1678,5 +1678,37 @@
 		"jss_key":"News_Content_717",
 		"id":717,
 		"news_title":"JD Cloud was selected in the Web Application Firewall Matrix of AQNIU, with its WAF products selected as the industrial \"leader\""
+	},
+	{
+		"summary":"Focusing on the core requirements of Nanjing's industrial development, JD Cloud joined hands with Nanjing government to build a \"platform + ecology + empowerment\" industry system aiming at building an industry innovation cloud platform that centers on the completion of AI industry innovation chain elements and focuses on \"research, production, supply, sales and service\", so as to link up the five circular development stages including product innovation, industry incubation, industry acceleration, scale sales and sustainable operation and to achieve the cultivation of AI industry and the creation of regional AI brands.",
+		"image_url":"//img1.jcloudcs.com/cms/7453a290-c216-46fa-867a-7e415fda2fab20191206100225.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_718",
+		"jss_key":"News_Content_718",
+		"id":718,
+		"news_title":"JD Cloud Track was Fruitful at the Second China AI+ Innovation and Startup Championship"
+	},
+	{
+		"summary":"The Seventh JD Security Summit was hosted and launched by JD Group together with JD Cloud, JD Logistics and JD IoT under the guidance of Beijing Municipal Government Authority. The Summit took \"Safeguard The Trust\" as its core theme, covering security topics in multiple fields such as cloud security, threat intelligence sharing, corporate security system construction, ecological security construction, data security, AIoT security and privacy protection to create an audio-visual feast orienting at the development and transformation of future network security technology.",
+		"image_url":"//img1.jcloudcs.com/cms/f7a53981-57dc-4278-beb6-137c18dfd62520191206144136.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_719",
+		"jss_key":"News_Content_719",
+		"id":719,
+		"news_title":"JD Cloud Attended 2019 JD Security Summit and Delivered Full Life Cycle Security Service to Support Enterprises in Cloudification Transformation"
+	},
+	{
+		"summary":"ifenxi grandly released the \"2019 ifenxi· Top 100 Chinese Scientific and Technological Innovation-oriented Enterprise List\". JD Cloud was selected as Top 9 in this annual list and Top 4 in the field of cloud computing by virtue of its continuous technological innovation capabilities, rich scenario application capabilities, accumulated industrial empowerment and other advantages. This is an overall industrial recognition of JD Cloud with regards to technological innovation and comprehensive abilities.",
+		"image_url":"//img1.jcloudcs.com/cms/3e0b33a5-8c0c-4853-a3fc-f5946bfd98f420191206150854.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_720",
+		"jss_key":"News_Content_720",
+		"id":720,
+		"news_title":"JD Cloud Listed in Top 10 in 2019 ifenxi   Top 100 Chinese Scientific and Technological Innovation-oriented Enterprise List and Top 4 in the Field of Cloud Computing"
+	},
+	{
+		"summary":"As the router configuration, network speed, signal, security and simple configuration have become important indicators for users to choose a router, JD Cloud Wireless just emerged at the right moment. This is a home router product with 2100M intelligent acceleration and intelligent edge computing function. Based on the built-in high-speed storage chip and idle network resources and computing resources of the JD Wireless router, users can preset and download such large files as video, audio and installation packages in advance.",
+		"image_url":"//img1.jcloudcs.com/cms/11de9895-187e-4a04-99e1-796cf7647f5d20191209141510.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_721",
+		"jss_key":"News_Content_721",
+		"id":721,
+		"news_title":"JD Cloud Wireless Router Safeguards Your Internet Surfing with 2100M Intelligent Acceleration"
 	}
 ]

@@ -44,10 +44,6 @@
 		"id":24
 	},
 	{
-		"name":"Security Consulting Service",
-		"id":29
-	},
-	{
 		"name":"JCS for MongoDB",
 		"id":31
 	},
@@ -600,6 +596,10 @@
 		"id":1345
 	},
 	{
+		"name":"Performance Test",
+		"id":1346
+	},
+	{
 		"name":"Cloud Disaster Recovery",
 		"id":1349
 	},
@@ -630,6 +630,10 @@
 	{
 		"name":"Security Notification Service",
 		"id":1365
+	},
+	{
+		"name":"Security Consulting Service",
+		"id":1366
 	},
 	{
 		"name":"Code Audit Service",

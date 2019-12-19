@@ -666,5 +666,9 @@
 	{
 		"id":803,
 		"title":"\\[Vulnerability Warning\\] Notice on High Risk Vulnerabilities of Harbor"
+	},
+	{
+		"id":804,
+		"title":"\\[Important Reminder\\] Notice on Upgrading JD Cloud Internal Business System Service at 22:00 on December 10"
 	}
 ]

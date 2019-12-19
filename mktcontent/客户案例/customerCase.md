@@ -298,5 +298,29 @@
 		"id":186,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution186",
 		"solution_jss_key":"Customer_Case_Solution186"
+	},
+	{
+		"project_overview":"Shinewonder Technology has created high-speed rendering clusters with high-frequency Virtual Machines provided by JD Cloud. With deep professional technology capacities of JD Cloud, the R&D Department has continued in exploring and discovering in accordance with Shinewonder Technology’s demands. Finally, the Virtual Machines which are deeply optimized from the views of performance and stability are adopted. In cooperation with high-speed Cloud Disk Service and network, the rapid distribution and preheating mechanism is adopted to increase rendering cluster starting speed by times, providing Shinewonder Technology with capacities to assist more enterprises in increasing their working efficiency and bettering their visual performance.",
+		"application_type":"Suitable for customers with Internet business",
+		"introduce":"Beijing Shinewonder Technology Co., Ltd., established in 2009, focuses on providing rendering cluster management software, rendering cluster solutions and cloud rendering service. Shinewonder rendering cluster management software and rendering cluster solutions have been widely applied to industries such as video, animation, architectural visualization, cartoon base, television station and vocational colleges. At the second half of 2013, Shinewonder launched the industry-leading cloud rendering platform \"Shine Cloud\", leading the rendering service industry. In 2014, Shinewonder finished the Series A Financing and became the first enterprise realized financing in the industry. The 3D animated cartoon series Legend of a Rabbit and the series Great Bug made with Shinewonder software and schemes have been released in cinemas in China.",
+		"image_url":"//img1.jcloudcs.com/cms/b3c534ab-d99e-493b-837d-a8cda65b381720191129113500.jpg",
+		"name":"JD Cloud assists Shinewonder Technology to set up a super rendering center",
+		"channel_agent":"Internet Application",
+		"customer_income":"1.\t The high-performance JD Cloud Virtual Machines can help customers built the first-class super rendering center, realizing more and faster delivery and assisting full-speed development of customers’ businesses. <br/>\n2.\t JD Cloud Virtual Machines adopts the pay-on-demand mode, eliminating the risk of the customer’s high investment at one time. Customers can adopt the pay-as-you-go mode to solve their project fund turnover issues and invest more funds in business expansion. <br/>\n3.\t Customers no longer need to worry about the daily operation and maintenance, thus saving their efforts and resources. JD Cloud will provide all-around after-sales service, covering customers technical issues.",
+		"id":187,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution187",
+		"solution_jss_key":"Customer_Case_Solution187"
+	},
+	{
+		"project_overview":"On December 2018, JD Cloud conducted the overall strategic cooperation with the People’s Government of Xianyou County based on the advantages of Xianyou County, such as the characteristic arts and crafts industry, regional traffic, development backland, biological environment, cultural deposits and county region system, jointly promoting 100-billion-level industrial cluster creation, industrial transformation and upgrade as well as economic benchmark of platform. Based on JD (Xianyou) Digital Economy Industrial Park, the buildup effect of the rosewood industry is formed at first, improving regional industrial competitiveness and empowering the industry with new drives. Mainly implement the \"131\" plan, creating one platform, three centers and one research institute. One platform: Global (Xianyou) Arts and Crafts Exhibition and Trading Public Service Platform (mainly including the intelligent logistics supply chain system, the supply chain finance, the visual full process traceability system, the AR/VR exhibition platform, bulk commodity and forward business, etc.). Three centers: Global Arts and Crafts Big Data Center, E-Commerce Ecological Gathering Center and Industrial Innovation Service Center. One research institute: China \"Xianzuo\" Arts and Crafts Industrial Research Institute.",
+		"application_type":"Based on front technical innovation and quality service empowerment of JD Cloud and with innovation drive and digital empowerment, it is expected to solve five major pain points for Xianzuo industrial development, such as \"raw material, supply chain finance, marketing and brand quality, talent and logistics\", promote industrial transformation, upgrade as well high quality development of the arts and crafts in Xianyou, work on the global arts and crafts industry, create the 100-billion-level industrial cluster of arts and crafts industry, create the first brand of the global arts and crafts industry with the power of discourse and create the deeply-fused digital and economic platform benchmark of national \"arts and crafts industry + Internet\".",
+		"introduce":"Government Unit",
+		"image_url":"//img1.jcloudcs.com/cms/a3ba8126-34ba-4406-839e-719ad225781320191210183416.jpg",
+		"name":"The People’s Government of Xianyou County",
+		"channel_agent":"test",
+		"customer_income":"1 Improve cooperation relationship, keep tight relationship and promote project progress;<br />\n2 Improve project influence and \"Xianzuo\" popularity;<br />\n3 Promote marketing purpose via resources and reduce operation cost;<br />\n4 Positively promote external image of Xianyou County for propaganda",
+		"id":188,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution188",
+		"solution_jss_key":"Customer_Case_Solution188"
 	}
 ]
