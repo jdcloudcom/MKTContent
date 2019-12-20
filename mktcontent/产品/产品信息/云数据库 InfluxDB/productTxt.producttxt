@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云数据库 InfluxDB\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/tsds\",\"classTag\":\"https://www.jdcloud.com/public/testApply/tsds\"}],\"desc\":\"云数据库 InfluxDB 是京东云基于 InfluxDB 提供的高性能在线时序数据库服务，可广泛应用于大量时间戳数据的存储与分析场景，如：DevOps监控、物联网传感器数据收集和实时分析等。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云数据库 InfluxDB\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://tsds-console.jdcloud.com/create\",\"classTag\":\"https://tsds-console.jdcloud.com/create\"}],\"desc\":\"云数据库 InfluxDB 是京东云基于 InfluxDB 提供的高性能在线时序数据库服务，可广泛应用于大量时间戳数据的存储与分析场景，如：DevOps监控、物联网传感器数据收集和实时分析等。\"}",
 		"id":1395
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":1397
 	},
 	{
-		"txt":"[{\"name\":\"物联网设备监控\",\"instruction\":\"通过IoT平台采集用户物联网设备的监控指标，数据全量写入InfluxDB，监控系统访问InfluxDB进行可视化监控。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c6d2a3bf-99b5-4fea-9032-5907177714b420190726151550.png\",\"showShade\":false},{\"name\":\"互联网业务性能监控\",\"instruction\":\"日志与监控指标写入Kafka，通过Flink 进行业务规则的实时计算，将计算结果存储到InfluxDB，业务监控系统访问InfluxDB数据进行系统分析与数据展示。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9b3a6b7c-81a8-4f21-86d6-cdd0d026c1ac20190726151557.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"物联网设备监控\",\"instruction\":\"InfluxDB支持高性能的时序数据写入与分析，适用于物联网设备监控场景，通过IoT平台采集用户物联网设备的监控指标，将原始数据全量写入到InfluxDB中，通过其丰富的分析函数可快速分析物联网设备生成的时序数据，并输出到监控系统进行可视化监控。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c6d2a3bf-99b5-4fea-9032-5907177714b420190726151550.png\",\"showShade\":false},{\"name\":\"互联网业务性能监控\",\"instruction\":\"互联网服务的即时性和稳定性是服务能力的关键指标，InfluxDB适用于此类数据的存储和分析，将业务服务日志、系统监控指标写入Kafka，通过Flink 进行业务规则的实时计算之后将计算结果存储到InfluxDB，业务监控系统访问InfluxDB数据库进行系统分析与数据展示。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9b3a6b7c-81a8-4f21-86d6-cdd0d026c1ac20190726151557.png\",\"showShade\":false}]",
 		"id":1398
 	}
 ]
