@@ -1,0 +1,26 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"VR 点播\",\"label\":[],\"desc\":\"京东云VR点播基于京东云强大的视频处理技术和内容分发网络，融合畸变矫正、H.265编转码、全景LOGO、视频增强等功能于一体，旨在为客户提供从VR视频上传、VR视频处理到VR视频播放的端到端解决方案。\"}",
+		"id":1635
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"功能丰富\",\"proName\":\"提供畸变校正、8K/4K转码、视频增强、超分辨率、视频超帧率、全景LOGO、全景水印/字幕、云剪辑和媒资管理等多种功能。\"},{\"showShade\":false,\"proGood\":\"一站式服务\",\"proName\":\"提供从VR数据上传、拼接、云端VR处理到VR播放的一站式服务，支持多种接入方式，让客户快速拥有VR点播业务支撑能力。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"支持多种业务场景\",\"proName\":\"VR点播可广泛应用于VR影视、VR购物、VR家装、VR医疗等业务场景。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"智能灵活\",\"proName\":\"支持客户自定义转码、水印等各种模板，配置工作流按需组合，满足多种业务场景需求。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全可靠\",\"proName\":\"支持防盗链、播放鉴权等多种安全机制，充分保障VR视频内容和播放安全。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"快速分发\",\"proName\":\"基于京东云遍布全国的CDN节点、强大的边缘计算能力和iOS/Android VR播放器标准SDK，可为客户提供快速、稳定、流畅、全新的VR视频体验。\"}]",
+		"id":1636
+	},
+	{
+		"txt":"[{\"funcName\":\"VR视频上传\",\"funcContent\":[{\"funcTitle\":\"支持多文件多格式\",\"funcP\":\"支持H.264、H.265编码格式和MP4、FLV等多种文件格式上传。\"},{\"funcTitle\":\"支持多种上传方式\",\"funcP\":\"提供控制台、API、SDK等多种上传方式，支持断点续传，满足客户多种业务场景下的上传需求。\"},{\"funcTitle\":\"视频拼接\",\"funcP\":\"支持上传前的视频拼接，拼接时支持添加LOGO，且可自定义LOGO位置。\"}]},{\"funcName\":\"VR处理\",\"funcContent\":[{\"funcTitle\":\"畸变校正\",\"funcP\":\"支持对VR视频文件做畸变校正，充分还原视频的实际效果，为客户带来更优的观看体验。\"},{\"funcTitle\":\"8K/4K转码\",\"funcP\":\"依托于高性能分布式转码集群和H.265转码技术，支持VR视频文件的8K/4K转码。\"},{\"funcTitle\":\"ROI编码\",\"funcP\":\"通过设定的感兴趣区域（通常为人脸），在网络带宽或存储空间有限的情况下，提供即符合人眼观看画质要求，又满足网络传输或空间存储的的高质量视频编码。\"},{\"funcTitle\":\"全景LOGO\",\"funcP\":\"在不改变VR视频的情况下嵌入LOGO，可支持静态、动态、单个、多个LOGO，可为VR视频提供版权声明保护。\"},{\"funcTitle\":\"视频增强\",\"funcP\":\"通过视频降噪、去模糊、锐化、去抖动等画质增强等技术，为客户提供优质的VR点播服务，在提升用户观看体验的同时降低带宽成本。\"},{\"funcTitle\":\"超分辨率\",\"funcP\":\"通过超分辨率提升VR视频的角分辨率，提升视界清晰度和临场感体验。\"},{\"funcTitle\":\"视频超帧率\",\"funcP\":\"通过超帧率实现视频内插帧，提升视频帧率，降低帧延迟，减少观影的眩晕感，优化观影的沉浸式体验。\"}]},{\"funcName\":\"媒资管理\",\"funcContent\":[{\"funcTitle\":\"VR视频标签\",\"funcP\":\"可自定义标签类型，对VR视频进行标签管理，方便快速查找和推荐视频。\"},{\"funcTitle\":\"VR视频分类\",\"funcP\":\"可自定义分类类型，如影视、旅游、家装、医疗等，对视频进行多级分类，更好的管理视频文件。\"},{\"funcTitle\":\"VR视频封面\",\"funcP\":\"支持自动截取和自定义上传图片作为封面，可以更加清晰美观的展示VR视频文件。\"},{\"funcTitle\":\"视频预览\",\"funcP\":\"可对视频不同成品格式进行预览，查看视频处理效果。\"}]},{\"funcName\":\"VR视频播放\",\"funcContent\":[{\"funcTitle\":\"多终端支持\",\"funcP\":\"同时支持Android端和iOS端，且接口简单易用，方便客户快速接入。\"},{\"funcTitle\":\"支持清晰度自动切换\",\"funcP\":\"VR播放器SDK可自动实时计算实际网络状况，实现清晰度自动切换，保证VR视频流畅播放的同时提供较高的视频质量。\"},{\"funcTitle\":\"丰富的播放器功能\",\"funcP\":\"提供畸变适配模式/原片模式切换、清晰度切换、方向控制、音量控制、节目名称展示、播放进度及时间展示等播放功能，结合VR头显设备可为用户带来沉浸式的VR播放体验。\"}]},{\"funcName\":\"数据统计\",\"funcContent\":[{\"funcTitle\":\"数据查询\",\"funcP\":\"支持对存储量、带宽、流量、转码时长等各项用量数据按条件查询，及时了解资源使用情况。\"},{\"funcTitle\":\"数据监控\",\"funcP\":\"支持PV/UV、状态码、命中率等各项指标按不同粒度查询，及时了解VR点播业务状态。\"}]}]",
+		"id":1637
+	},
+	{
+		"txt":"[{\"name\":\"5G+VR点播应用场景\",\"instruction\":\"结合5G提供的强大数据传输能力和京东云海量数据存储和边界处理能力，VR点播可为客户提供从上传、处理、分发到播放的一站式产品化服务，可广泛应用于VR影视、VR购物、VR家装、VR医疗等业务场景。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/8c76aa99-edf8-4b3d-a96e-68f8c95e3c2920191217201823.png\",\"showShade\":false}]",
+		"id":1638
+	},
+	{
+		"txt":"[{\"name\":\"Q：VR点播都包含那些功能模块？\",\"link\":\"//docs.jdcloud.com/cn/vr-video-on-demand/faq\",\"classTag\":\"\"},{\"name\":\"Q：VR点播是否可以自定义域名？\",\"link\":\"//docs.jdcloud.com/cn/vr-video-on-demand/faq\",\"classTag\":\"\"},{\"name\":\"Q： VR点播是否支持多终端播放？\",\"link\":\"//docs.jdcloud.com/cn/vr-video-on-demand/faq\",\"classTag\":\"\"}]",
+		"id":1639
+	},
+	{
+		"txt":"{\"price\":\"//docs.jdcloud.com/cn/vr-video-on-demand/billing-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1640
+	}
+]
