@@ -1,0 +1,26 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"VR 直播\",\"label\":[],\"desc\":\"京东云VR直播基于京东云平台优质的网络基础设施和强大的视频处理技术，融合VR直播数据采集、拼接、推流、VR处理、VR播放等功能于一体，旨在为客户提供低延迟、高可用、易接入的VR直播一站式服务。\"}",
+		"id":1629
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"强大的VR处理能力\",\"proName\":\"提供畸变矫正、H.265编转码、全景LOGO、ROI编码、全景水印/字幕、VR质量检测等功能，满足多种VR直播业务场景。\"},{\"showShade\":false,\"proGood\":\"8K直播\",\"proName\":\"基于京东云强大的视频处理能力和优质的网络基础设施，支持8K直播，分辨率高达7680×4320，为客户带来超高清晰度、超低延时的沉浸式VR播放体验。 \"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"一站式解决方案\",\"proName\":\"提供从VR直播信号采集、拼接、推流、VR处理到VR播放的一站式解决方案，让客户快速拥有VR直播业务支撑能力。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多业务场景支撑\",\"proName\":\"VR直播可广泛应用于VR在线旅游、VR购物、VR家装、VR医疗、VR事件直播等业务场景。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"数据统计\",\"proName\":\"提供带宽流量、转码时长、数据监控、访问统计等维度的数据统计分析，且支持全量日志下载。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多终端多协议支持\",\"proName\":\"支持多终端、多机位VR直播信号采集，同时支持iOS/Android端的VR直播播放，且支持RTMP/HDL/HLS等多种播放协议，接口简单易用，可快速接入。\"}]",
+		"id":1630
+	},
+	{
+		"txt":"[{\"funcName\":\"VR处理\",\"funcContent\":[{\"funcTitle\":\"H.265实时转码\",\"funcP\":\"依托于高性能分布式转码集群和H.265转码，可实时将VR源流转成不同分辨率、码率的直播流，适用PC、PAD、手机等不同终端设备观看。\"},{\"funcTitle\":\"ROI编码\",\"funcP\":\"通过设定的感兴趣区域（通常为人脸），在网络带宽或存储空间有限的情况下，提供即符合人眼观看画质要求，又满足网络传输或空间存储的的高质量视频编码。\"},{\"funcTitle\":\"全景LOGO\",\"funcP\":\"在不改变VR视频的情况下嵌入LOGO，可支持静态、动态、单个、多个LOGO，可为VR视频提供版权声明保护。\"},{\"funcTitle\":\"VR直播录制\",\"funcP\":\"无缝对接京东云存储，可将VR直播内容实时录制，用作存档和回看。\"},{\"funcTitle\":\"低延时、高可用\",\"funcP\":\"丰富的CDN边缘节点数量和领先的分发技术，可提供低延时、高可用的VR直播服务。\"},{\"funcTitle\":\"VR视频质量检测\",\"funcP\":\"支持黑场、纯色、偏色、静帧、亮度、对比度等多种形式的VR视频质量检测，提高审核效率，降低审核成本。\"}]},{\"funcName\":\"VR直播信号采集拼接\",\"funcContent\":[{\"funcTitle\":\"多机位、多终端\",\"funcP\":\"结合VR摄像机和全景相机等设备，可实现多终端、多机位的VR直播数据采集。\"},{\"funcTitle\":\"实时拼接\",\"funcP\":\"支持VR直播信号采集过程中多个镜头的实时拼接，同时提供畸变校正能力，为客户提供更高质量的VR直播服务。\"},{\"funcTitle\":\"直播推流\",\"funcP\":\"支持H.264/H.265两种编码格式进行推流，且支持网络直播功能，同时提供检测推流地址可用性的能力。\"}]},{\"funcName\":\"VR直播播放\",\"funcContent\":[{\"funcTitle\":\"多终端支持\",\"funcP\":\"同时支持Android端和iOS端，且接口简单易用，方便客户快速接入。\"},{\"funcTitle\":\"多编码格式、多协议支持\",\"funcP\":\"支持H.264、H.265编码格式的VR视频播放，支持RTMP、HTTP-FLV、HLS协议的VR直播视频播放。\"},{\"funcTitle\":\"支持清晰度自动切换\",\"funcP\":\"VR播放器SDK可自动实时计算实际网络状况，实现清晰度自动切换，保证VR视频流畅播放的同时提供较高的视频质量。\"},{\"funcTitle\":\"丰富的播放器功能\",\"funcP\":\"提供畸变适配模式/原片模式切换、清晰度切换、方向控制、音量控制、节目名称展示等播放功能，结合VR头显设备可为用户带来沉浸式的VR播放体验。\"}]},{\"funcName\":\"数据统计\",\"funcContent\":[{\"funcTitle\":\"多维度数据统计\",\"funcP\":\"提供带宽流量、转码时长、数据监控、访问统计等维度的数据统计分析，且支持全量日志下载。\"}]},{\"funcName\":\"安全防护\",\"funcContent\":[{\"funcTitle\":\"防盗链\",\"funcP\":\"提供referer黑白名单，有效防止视频资源被盗取。\"},{\"funcTitle\":\"VR直播鉴权\",\"funcP\":\"支持VR直播鉴权，有效保证推流和播出的安全。\"},{\"funcTitle\":\"一键断流\",\"funcP\":\"丰富的流管理控制台接口，可实时进行断流操作，保证播出安全。\"}]}]",
+		"id":1631
+	},
+	{
+		"txt":"[{\"name\":\"5G+VR直播应用场景\",\"instruction\":\"结合5G提供的强大数据传输能力和京东云海量数据存储和边界处理能力，VR直播可为客户提供从采集、拼接、处理、压缩、分发到播放的一站式产品化服务，可广泛应用于VR在线旅游、VR购物、VR家装、VR医疗、VR事件直播等业务场景。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/dc63c9f0-5564-4658-a625-08c1160c74b020191217201903.png\",\"showShade\":false}]",
+		"id":1632
+	},
+	{
+		"txt":"[{\"name\":\"Q：VR直播都包含那些功能模块？\",\"link\":\"//docs.jdcloud.com/cn/vr-live/faq\",\"classTag\":\"\"},{\"name\":\"Q：VR直播是否可以自定义域名？\",\"link\":\"//docs.jdcloud.com/cn/vr-live/faq\",\"classTag\":\"\"},{\"name\":\"Q： VR直播是否支持多终端播放？\",\"link\":\"//docs.jdcloud.com/cn/vr-live/faq\",\"classTag\":\"\"}]",
+		"id":1633
+	},
+	{
+		"txt":"{\"price\":\"//docs.jdcloud.com/cn/vr-live/billing-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1634
+	}
+]
