@@ -356,5 +356,14 @@
 
         </div>
     </div>
+
+	<div class="jdc-common-floor-item jdc-bg-gray2">
+		<h4 class="jdc-common-floor-tit">京东云合规证据输出</h4>
+		<div class="jdc-trusted-floor4 w">
+		<p>为客户提供所需的云平台合规证据以支撑客户面对公安部等保、上市审计、监管审查等合规要求。如您需要，请随时联系我们。</p>
+
+		<a href="https://ticket.jdcloud.com/applyorder/form?cateId=7&questionId=816" target="_blank" class="jdc-btn">立即申请</a>
+		</div>
+	</div>
 </div>
 
