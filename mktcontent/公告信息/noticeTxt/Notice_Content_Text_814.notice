@@ -1,0 +1,15 @@
+<p><span style="color: rgb(45, 43, 42); font-size: 12px;">您好</span>
+</p>
+<p><span style="font-size: 15px; color: rgb(45, 43, 42);">&nbsp; &nbsp; &nbsp;为了提供更优质的产品服务，京东云负载均衡产品将于2019年12月23日21:00:00至2019年12月24日03:59:00&nbsp;进行SSL数字证书迁移操作，届时将暂停全地域(华北-北京、华南-广州、华东-宿迁、华东-上海)负载均衡控制台及OpenAPI服务。此次操作不影响您所有地域已有业务运行，操作完成后相应控制台及OpenAPI即将恢复访问及使用。&nbsp;此次操作，请您关注以下两方面变化：</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-size: 15px; color: rgb(45, 43, 42);">1.<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp; </span>
+负载均衡侧已有SSL数字证书将迁移至云安全-SSL数字证书，负载均衡-证书模块将不再提供证书查看、添加、删除等操作。</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-size: 15px; color: rgb(45, 43, 42);">2.<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp; </span>
+迁移操作后，负载均衡使用的证书都将由云安全-SSL数字证书统一进行管理。</span>
+</p>
+<p><span style="color: black; font-size: 12px;">&nbsp;</span>
+</p>
+<p><span style="color: rgb(45, 43, 42); font-size: 12px;">操作期间如果遇到相关问题，请您随时与京东云客服联系（电话：4006151212），感谢您对京东云的支持。</span>
+</p>
+<p><br/></p>
