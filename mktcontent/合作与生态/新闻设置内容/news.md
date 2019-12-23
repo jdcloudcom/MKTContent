@@ -1750,5 +1750,13 @@
 		"jss_key":"News_Content_741",
 		"id":741,
 		"news_title":"NVIDIA GPU技术大会召开，京东云+AI开放平台让AI更普惠"
+	},
+	{
+		"summary":"京东云在数据备份和系统容灾技术领域不断积累和探索，形成了京东云多级容灾解决方案，帮助客户解决各个场景下的数据备份和数据容灾技术问题，为金融、政务、电商等全部重要行业用户提供一站式备份、容灾能力。针对系统灾难恢复能力要求最高的客户，京东云基于先进的负载均衡产品并提供高端的架构设计技术，提供秒级系统容灾解决方案。",
+		"image_url":"//img1.jcloudcs.com/cms/92d3c502-28d8-44b1-a291-453f9d885d6020191223170309.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_742",
+		"jss_key":"News_Content_742",
+		"id":742,
+		"news_title":"京东云发布《备份和容灾技术白皮书》为客户提供秒级灾备服务"
 	}
 ]
