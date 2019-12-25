@@ -1,0 +1,26 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"视频质量检测\",\"label\":[],\"desc\":\"视频质量检测基于京东云强大的视频处理能力，提供黑场检测、纯色检测、偏色检测、静帧检测等多种视频内容检测功能，通过提取视频特征，快速、准确定位出视频中的缺陷，形成并输出规范的检测报告，提高审核效率。\\n\"}",
+		"id":1523
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"主流视频格式覆盖\",\"proName\":\"支持MP4、MOV、MKV、TS、FLV等主流视频文件格式的文件检测。\"},{\"showShade\":false,\"proGood\":\"高效智能\",\"proName\":\"通过技术手段智能识别并准确拦截有缺陷或低质量的片源，确保视频质量，降低客户成本，提升用户体验。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"灵活的检测模板配置\",\"proName\":\"功能丰富，支持自定义选择检测功能，检测内容包含黑场、纯色、偏色、静帧、亮度、对比度等。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"7*24不间断检测\",\"proName\":\"7*24不间断检测，降低人工审核成本，提升效率。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多行业多场景\",\"proName\":\"可广泛应用于视频网站、娱乐、在线教育等业务场景，支持点播、短视频等多种视频类型的检测。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"快速接入，24小时专家客服\",\"proName\":\"提供控制台、开放API等多种接入方式，专人协助，减少开发对接成本，且提供7*24小时专家客服，随时处理客户问题，保证业务连续。\"}]",
+		"id":1524
+	},
+	{
+		"txt":"[{\"funcName\":\"视频内容检测\",\"funcContent\":[{\"funcTitle\":\"黑场检测\",\"funcP\":\"针对视频中持续出现黑屏的现象进行检测。\"},{\"funcTitle\":\"纯色检测\",\"funcP\":\"针对视频中持续出现纯红色、纯绿色和纯蓝色的现象进行检测。\"},{\"funcTitle\":\"偏色检测\",\"funcP\":\"指针对视频中持续出现偏红、偏绿、偏蓝色现象进行检测。\"},{\"funcTitle\":\"静帧检测\",\"funcP\":\"针对视频播放时画面出现冻结、持续多帧为静止画面现象进行检测。\"},{\"funcTitle\":\"亮度检测\",\"funcP\":\"针对视频文件中突然出现持续高亮或低亮图像进行检测。\"},{\"funcTitle\":\"对比度检测\",\"funcP\":\"针对视频文件中出现低或高对比度的图像做检测。\"}]},{\"funcName\":\"视频质量检测管理\",\"funcContent\":[{\"funcTitle\":\"主流视频格式覆盖\",\"funcP\":\"支持MP4、MOV、MKV、TS、FLV等主流视频文件格式的文件检测。\"},{\"funcTitle\":\"灵活的检测模板配置\",\"funcP\":\"检测模板按需配置，且支持自定义选择检测功能项。\"},{\"funcTitle\":\"检测结果可视化\",\"funcP\":\"详细的检测结果展示，包过检测项的数量、检测输出值及出现/结束的时间点等。\"},{\"funcTitle\":\"回调配置\",\"funcP\":\"支持回调配置，若配置了回调通知，在检测任务完成后，会及时向客户的回调地址发送通知，告知客户检测任务执行结果。\"}]}]",
+		"id":1525
+	},
+	{
+		"txt":"[{\"name\":\"视频网站/媒体/短视频/电商/教育等\",\"instruction\":\"视频网站/媒体/短视频/电商/教育等行业拥有海量的音视频内容需要面向C端用户，音视频审核、用户观看体验等环节及其重要，视频质量检测可实现对其海量音视频内容进行7x24小时不间断检测，大大降低人工审核成本，提升用户观看体验。且京东云为客户提供控制台和开放的API等接入方式，接入方便，减少了开发对接成本。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/320e0c90-c969-483a-9262-58f2f5c0245520191203144942.png\",\"showShade\":false}]",
+		"id":1526
+	},
+	{
+		"txt":"[{\"name\":\"视频质量检测服务都支持哪些视频文件格式？\",\"link\":\"https://docs.jdcloud.com/cn/video-quality-detection/faq\",\"classTag\":\"\"},{\"name\":\"视频质量检测服务是否支持自定义检测项？\",\"link\":\"https://docs.jdcloud.com/cn/video-quality-detection/faq\",\"classTag\":\"\"},{\"name\":\"视频质量检测服务怎么接入？\",\"link\":\"https://docs.jdcloud.com/cn/video-quality-detection/faq\",\"classTag\":\"\"}]",
+		"id":1527
+	},
+	{
+		"txt":"{\"price\":\"//docs.jdcloud.com/cn/video-quality-detection/billing-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1528
+	}
+]
