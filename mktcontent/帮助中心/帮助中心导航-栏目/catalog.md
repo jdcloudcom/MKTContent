@@ -1926,5 +1926,10 @@
 		"summary":"",
 		"name":"Objective-C",
 		"id":3488
+	},
+	{
+		"summary":"",
+		"name":"视频质量检测",
+		"id":3494
 	}
 ]
