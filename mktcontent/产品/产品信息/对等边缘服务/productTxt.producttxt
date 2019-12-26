@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"对等边缘服务\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/epnc\",\"classTag\":\"https://www.jdcloud.com/public/testApply/epnc\"}],\"desc\":\"对等边缘服务(JDCloud Equal EdgeService，简称JEES)是基于京东云和用户侧边缘节点搭建的分布式算力资源平台。就近提供边缘服务，帮助用户将业务下沉至边缘，有效降低计算时延和成本\"}",
+		"id":1698
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"全面覆盖\",\"proName\":\"大量靠近用户边缘的节点资源，覆盖全国主流地区和运营商，从基础设施层面保障终端用户低延时\"},{\"showShade\":false,\"proGood\":\"弹性售卖\",\"proName\":\"边缘算力按需使用、按量付费，资源动态扩缩容\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"智能边缘\",\"proName\":\"可以将京东云的服务能力延伸至边缘，支持人脸识别、图像识别、大数据处理等能力，就近提供实时边缘服务\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"简化运行\",\"proName\":\"支持容器和Native两种运行方式，满足用户轻量化应用管理的诉求，快速构建边缘运行环境\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"开放兼容\",\"proName\":\"本地运行包支持X86、ARM、amd64、mips等多种硬件以及 Linux 和 Darwin主流操作系统\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全可靠\",\"proName\":\"对等连接具有互通性不传递的特点，保证数据安全；通过多租户算力和网络安全隔离、证书加密、自动化运维监控能力等保证通道的安全性\"}]",
+		"id":1699
+	},
+	{
+		"txt":"[{\"funcName\":\"设备接入\",\"funcContent\":[{\"funcTitle\":\"海量边缘节点安全接入\",\"funcP\":\"基于大量边缘节点构建，覆盖广、平均延时<5ms；支持多种终端类型的节点接入\"}]},{\"funcName\":\"任务管理\",\"funcContent\":[{\"funcTitle\":\"边缘应用生命周期管理\",\"funcP\":\"基于分布式系统架构，一站式完成应用实例的创建和管理；兼容docker生态，以镜像下发的方式帮助用户管理\"}]},{\"funcName\":\"自动调度\",\"funcContent\":[{\"funcTitle\":\"智能选点\",\"funcP\":\"根据任务算力需求、边缘节点负载进行智能选点；完善的监控和服务体系，基于服务质量的智能监控和调度\"}]},{\"funcName\":\"自助运维\",\"funcContent\":[{\"funcTitle\":\"一站式运维监控\",\"funcP\":\"平滑可预测的应用升级方式，升级风险可控；集成云监控，对网络环境进行实时通知；云端统一对边缘应用进行任务分发、管理、监控和运维\"}]}]",
+		"id":1700
+	}
+]
