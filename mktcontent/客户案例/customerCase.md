@@ -322,5 +322,29 @@
 		"id":188,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution188",
 		"solution_jss_key":"Customer_Case_Solution188"
+	},
+	{
+		"project_overview":"Xi’an, as the intelligent node for national cloud data centers of JD, serves as the industrial support center and cloud service and business center of the economic circle of Shaanxi and even the whole Northwest region. With technologies of cloud computing and big data, it integrates JD’s capacities such as e-commerce, logistics and finance, promotes JD Cloud Onboarding for enterprises, branding, industrial chain cultivation and creating the first \"on-cloud development zone\".",
+		"application_type":"The industrial digital upgrade promotes the closed industrial chain from the worknode to the consumption node, cultivates innovation projects of hard and core technologies and creates the city card of the city of technology;",
+		"introduce":"Government",
+		"image_url":"//img1.jcloudcs.com/cms/59357cc3-532a-4961-a4b3-3b220a7b1f0620191218135924.jpg",
+		"name":"Management Committee of Xi'an National Civil Aerospace Industrial Base",
+		"channel_agent":"test",
+		"customer_income":"1. JD Cloud realizes the digital drive for sales, digital production transform, digital brand promotion and digital industrial aggregation of fruit enterprises in Xi’an Aerospace Industrial Base. Now, more than 80 fruit enterprises from Shaanxi Province have been settled in the Base. The \"Shaanxi Digital Apple Economy Summit\" has been organized, the activity of \"Launch of Thousands of Fruit Enterprises and 10-billion-level Industrial Aggregation in Aviation Industrial Base\" has been initialized, the Promotion Week in Beijing of Apples from Shaanxi Province has been organized and the Online JD Festival of Apple from Shaanxi Province has been conducted. With these activities, the brand influence of fruit from Shaanxi Province is enhanced the promotion is improved (during the activities, the sales volume has been increased to 3500% on a year-to-year base);<br />\n2 JD Cloud has executed the Construction and Cooperation Agreement on National Apple Big Data Center with the Information Centre, Ministry of Agriculture, PRC, the Fruit Bureau of Shaanxi Province, Xi’an Aerospace Base and other organizations, for the purpose of setting up a provincial big data platform for apple production, supply and distribution, fusion of production data, logistic and supply chain data as well as on-line sales data, and realizing full-process monitoring from planting to users’ dining tables. By virtual of the big data application, JD Cloud was elected as the Standing Director Unit of Nationwide Apple Big Data Development Application and Coordination Group of the Ministry of Agriculture. <br />\n3. For the goals of gathering and cultivating hard and core technologies, registration and launch of projects of hard and core technological are guided, and assist & guide to market orientation, product design, technical research and development as well as market development are provided. Up to now, 11 enterprises of hard and core technologies have settled and registered under guide and 3 enterprises have gotten financing. Assist enterprises to realize application of technical results, quicken launch and conversion of scientific results, assist governments to realize citywide brand value promotion from regional-level industrial aggregation and assist creation of industrial cluster of new economy of aviation economy.",
+		"id":193,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution193",
+		"solution_jss_key":"Customer_Case_Solution193"
+	},
+	{
+		"project_overview":"With the overall goal of national innovative economy demonstration zone, JD Cloud and Qilin Technology Innovation Park Management Committee have introduced AI, related technologies of digital economy industry, talents and other advantageous resources, and created the intelligence industry highland which covers Nanjing and radiates the Yangtze River delta region and even East China based on Qilin.",
+		"application_type":"Create a strategic highland of AI industry, promote intelligent transformation and upgrade of local enterprises and create intelligence industry cluster;",
+		"introduce":"Government",
+		"image_url":"//img1.jcloudcs.com/cms/3a1c8536-ae31-47db-b332-278953cf88a720191218140526.jpg",
+		"name":"Nanjing Qilin Technology Innovation Park",
+		"channel_agent":"test",
+		"customer_income":"Nanjing Qilin Technology Innovation Park has good software and hardware environment and resource quickening innovation and entrepreneurship and always highlighted development of innovation and entrepreneurship. In recent years, it has continuously enlarged support to enterprises and talent innovation and entrepreneurship, made deeply cooperation in cloud computing, IoT and AI with JD Cloud, assisted industrial aggregation and industrial development as well as jointly cultivate and support development and expansion of middle and small scale enterprises. Cooperated with the Global Innovation Center, JD Cloud was launched in the park, attracting advanced technologies, scientific results and high-end talents all over the world to settle in Qilin and providing a quality platform for development of middle and small scale enterprises.",
+		"id":194,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution194",
+		"solution_jss_key":"Customer_Case_Solution194"
 	}
 ]

@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Image Style Classification\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ling-console.jdcloud.com/server/predict/ \",\"classTag\":\"\"}],\"desc\":\"The Image Style Classification service reads image information and realizes intelligent classification and management as per the styles. By building the sample data set training machine, a style prediction model is created by a deep learning engine. According to the model, characteristic style elements can be recognized from image information and image design style can be automatically distinguished.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Image Style Classification\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ling-console.jdcloud.com/server/predict/ \",\"classTag\":\"\"}],\"desc\":\"The Image Style Classification service reads image information and realizes intelligent classification and management as per the styles. By building the sample data set training machine, a style prediction model is created by a deep learning engine. According to the model, characteristic style elements can be recognized from image information and image design style can be automatically distinguished.\"}",
 		"id":1436
 	},
 	{

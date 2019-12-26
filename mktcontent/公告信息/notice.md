@@ -670,5 +670,13 @@
 	{
 		"id":804,
 		"title":"\\[Important Reminder\\] Notice on Upgrading JD Cloud Internal Business System Service at 22:00 on December 10"
+	},
+	{
+		"id":805,
+		"title":"JDSF will end the Beta and be officially opened for service on December 30, 2019"
+	},
+	{
+		"id":806,
+		"title":"\\[Service Suspension Notice\\] At 21:00 on December 18, services such as Virtual Machines, Cloud Disk Service, Native Container, JCS for Kubernetes, Container Registry, Availability Group, Proprietary Host, VPC, Load Balancer, Cloud File Storage Console and OpenAPI will be suspended"
 	}
 ]

@@ -1710,5 +1710,29 @@
 		"jss_key":"News_Content_721",
 		"id":721,
 		"news_title":"JD Cloud Wireless Router Safeguards Your Internet Surfing with 2100M Intelligent Acceleration"
+	},
+	{
+		"summary":"As JD Group's external empowerment window of technology, resource and service, JD Cloud and AI Business Unit joined hands with Leqing City to build \"JD Cloud Digital Economy Headquarters in Zhejiang Region\" to promote the deep integration of the Internet, big data, AI and the real economy, strive to develop the industrial Internet, strengthen the support capability for digital transformation, comprehensively drive the digital transformation of manufacturing, service industries, agriculture and other industries, vigorously cultivate new modes of new convergent industry situation, and deeply implement the construction of a comprehensive national demonstration zone with the deep integration of IT application and industrialization.",
+		"image_url":"//img1.jcloudcs.com/cms/7bedf4fc-bbd3-402e-be04-bd79793e45d720191213175833.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_722",
+		"jss_key":"News_Content_722",
+		"id":722,
+		"news_title":"The People's Government of Leqing Municipality and JD Cloud and AI Business Unit executed a contract in Beijing on the project of the Digital Economy Headquarters in Zhejiang Region"
+	},
+	{
+		"summary":"The opening ceremony of 2019 JD Cloud (Yuxi) New Economy Industrial Park was held in Yuxi, Yunnan Province. The conference was hosted by Yuxi Municipal People’s Government and jointly organized by the Management Committee of Yuxi High-tech Zone, the Bureau of Commerce of Yuxi and JD (Yunnan) Digital Economy Co., Ltd. JD Cloud joined hands with Yuxi to cultivate the \"Internet+\" industrial brand demonstration models to accelerate the progress of digital industrialization and industrial digitalization in Yuxi.",
+		"image_url":"//img1.jcloudcs.com/cms/6cf055c9-8232-44af-91bc-7e628c1cbfb620191217181009.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_723",
+		"jss_key":"News_Content_723",
+		"id":723,
+		"news_title":"JD and Yuxi City Work Together with Their Advantages to Create an Intelligent Future  Opening Ceremony of 2019 JD Cloud (Yuxi) New Economy Industrial Park Held in Yuxi, Yunnan Province"
+	},
+	{
+		"summary":"Thanks to the rapid development in recent years, JD Cloud has a mature cloud operation capability integrating consulting, development, construction, and operation and maintenance. Meanwhile, relying on JD Group's long-term experience in the fields of e-commerce and logistics, JD Cloud has been providing Government Cloud services throughout the country while taking full advantage of industrial agglomeration effect to promote economic growth of local industries. In recent years, JD Cloud has implemented the Government Cloud service in more than 30 cities around the country by virtue of rapid development. It will expand the development in industries such as finance and retail in the future.",
+		"image_url":"//img1.jcloudcs.com/cms/e82d2228-2084-4000-ba48-599bc226cd2a20191217181508.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_724",
+		"jss_key":"News_Content_724",
+		"id":724,
+		"news_title":"IDC Insights into China’s Cloud Operation Service Market in the First Half of 2019: JD Cloud ranked in the first echelon"
 	}
 ]
