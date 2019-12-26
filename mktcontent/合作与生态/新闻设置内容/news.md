@@ -1774,5 +1774,13 @@
 		"jss_key":"News_Content_744",
 		"id":744,
 		"news_title":"“云聚产业，智赢未来”京东云（重庆）数字经济产业园开园揭牌仪式在重庆南岸成功召开"
+	},
+	{
+		"summary":"京东云将通过AI等技术能力输出，助力合作伙伴更专注教育行业业务能力提升，并与合作伙伴一同探索、有效解决教育产业痛点与难点，通过技术赋能为教育行业、为提高教育水平作出贡献。",
+		"image_url":"//img1.jcloudcs.com/cms/fde3f1b3-304f-4176-b01f-eaa47f5f2dc520191226154108.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_745",
+		"jss_key":"News_Content_745",
+		"id":745,
+		"news_title":"教育科技发展需求旺盛 京东云助力科技与教育融合"
 	}
 ]
