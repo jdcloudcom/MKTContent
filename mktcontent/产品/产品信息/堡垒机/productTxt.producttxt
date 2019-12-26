@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"堡垒机\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/bastion\",\"classTag\":\"\"}],\"desc\":\"堡垒机是京东云提供的具备权限管控、安全审计、自动化运维能力的运维产品\"}",
+		"id":1512
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"安全运维\",\"proName\":\"符合“商业银行信息科技风险管理指引” 、《等级保护》等风险内控与审计要求\"},{\"showShade\":false,\"proGood\":\"权限管控\",\"proName\":\"提供主机、账号、角色管理功能，实现人与设备、资源的隔离\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高效运维\",\"proName\":\"自研SSH交互界面，简洁易用，方便管理大量主机，简化运维和安全操作，提升运维效率\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"合规审计\",\"proName\":\"实时审计、会话审计、命令审计、操作审计等多方面保障安全审计，做到事中监察、事后审计的运维闭环\\n\\n\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定可靠\",\"proName\":\"多实例部署方式保障服务高可用，协议引擎通过大流量数据流量测试，更可靠、更稳定\"}]",
+		"id":1513
+	},
+	{
+		"txt":"[{\"funcName\":\"权限管控\",\"funcContent\":[{\"funcTitle\":\"用户管理\",\"funcP\":\"建立用户与账号的对应关系，确保用户拥有完成任务的最小权限\\n\"},{\"funcTitle\":\"账号管理\",\"funcP\":\"提供Linux/Windows账号、管理员账号、普通用户账号及权限变更的管理\"},{\"funcTitle\":\"资产管理\",\"funcP\":\"支持对公有云、私有云、普通局域网设备的混合式管理\"}]},{\"funcName\":\"操作审计\",\"funcContent\":[{\"funcTitle\":\"会话审计\",\"funcP\":\"实时审计Linux操作命令、回放Windows操作录像，全程审计\\n\"},{\"funcTitle\":\"操作审计\",\"funcP\":\"对用户从登录到退出的全程操作进行审计，监控所有敏感操作、支持中断危险操作\"}]},{\"funcName\":\"安全认证\",\"funcContent\":[{\"funcTitle\":\"账号安全认证\",\"funcP\":\"提供双因子认证、多种访问策略控制、单点登录等方式保障账号密码安全，防止运维人员身份冒用和复用\"},{\"funcTitle\":\"访问控制策略\",\"funcP\":\"提供多种访问策略控制、多维度精细化授权管理\"}]},{\"funcName\":\"高效运维\",\"funcContent\":[{\"funcTitle\":\"高效运维\",\"funcP\":\"运维人员只需记忆一个账号和密码，一次维护多台资源，可实现对其所维护的多台资源的访问。\"},{\"funcTitle\":\"简单交互\",\"funcP\":\"SSH交互页面自动列出有权限主机列表，快速定位登录主机，提高工作效率，降低工作复杂度\"},{\"funcTitle\":\"操作便捷\",\"funcP\":\"一键同步京东云云主机，快速导入京东云子账号，支持批量运维和授权资源\"}]}]",
+		"id":1514
+	},
+	{
+		"txt":"[{\"name\":\"专注安全审计，满足合规要求\",\"instruction\":\"堡垒机提供完备的审计方案，可以完善组织的IT内控与审计体系，从而满足各种合规性要求，并且使组织能够顺利通过IT审计\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"},{\"name\":\"堡垒机\",\"url\":\"//www.jdcloud.com/products/bastion\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/271a1a88-82b9-42a1-aaa0-3587d93333a920191226155027.png\",\"showShade\":false},{\"name\":\"控制运维风险，防止数据泄露\",\"instruction\":\"堡垒机基于统一认证、集中管理、规范运维操作行为，对运维操作和数据流转过程做到严格的控制和记录，最大程度控制运维风险\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"},{\"name\":\"堡垒机\",\"url\":\"//www.jdcloud.com/products/bastion\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2280d093-5c3c-4ecb-9806-64e87fc95a3d20191226155036.png\",\"showShade\":false}]",
+		"id":1515
+	}
+]
