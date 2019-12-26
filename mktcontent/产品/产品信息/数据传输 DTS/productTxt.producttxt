@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"数据传输 DTS\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/DTS\",\"classTag\":\"https://www.jdcloud.com/public/testApply/DTS\"}],\"desc\":\"数据传输 DTS 是京东云提供的数据库迁移服务，支持MySQL、MariaDB、Percona、SQL Server、MongoDB等多种数据库迁移，可以简单快速地将本地自建数据库迁移至京东云。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"数据传输 DTS\",\"label\":[{\"TitleName\":\"创建任务\",\"TitleUrl\":\"https://dts-console.jdcloud.com/list\",\"classTag\":\"https://dts-console.jdcloud.com/list\"}],\"desc\":\"数据传输 DTS 是京东云提供的数据库迁移服务，支持MySQL、MariaDB、Percona、SQL Server、MongoDB等多种数据库迁移，可以简单快速地将本地自建数据库迁移至京东云。\"}",
 		"id":1490
 	},
 	{
