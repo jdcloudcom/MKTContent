@@ -2644,5 +2644,47 @@
 		"name":"代码审计服务  正式发布",
 		"description":"通过人工和自动化工具结合的方式，检查源代码中的安全缺陷和规范性缺陷，分析由这些问题引发的安全漏洞，并提供代码修订措施和建议。",
 		"id":2596
+	},
+	{
+		"introduce":"视频质量检测  开放公测",
+		"name":"视频质量检测  开放公测",
+		"description":"视频质量检测基于京东云强大的视频处理能力，提供黑场检测、纯色检测、偏色检测、静帧检测等多种视频内容检测功能，通过提取视频特征，快速、准确定位出视频中的缺陷，形成并输出规范的检测报告，提高审核效率。",
+		"id":2619
+	},
+	{
+		"introduce":"新增K8S部署",
+		"name":"新增K8S部署",
+		"description":"1.  源池新增K8S资源池\n2. 应用部署，新增对K8S应用的支持",
+		"id":2620
+	},
+	{
+		"introduce":"SCA CLI（Serverless Cloud Application，SCA）命令行工具",
+		"name":"新增 SCA CLI 命令行工具",
+		"description":"为京东云serverless应用服务提供更加便捷的本地管理功能，包括本地函数管理、测试、打包、部署等。",
+		"id":2621
+	},
+	{
+		"introduce":"应用负载均衡支持基于域名和URL路径转发功能在华南-广州和华东-宿迁公测上线",
+		"name":"支持基于域名和URL路径转发功能在华南-广州和华东-宿迁公测",
+		"description":"应用负载均衡支持基于域名和URL路径转发功能在华南-广州和华东-宿迁公测上线",
+		"id":2622
+	},
+	{
+		"introduce":"Ubuntu18.04官方镜像上线",
+		"name":"Ubuntu18.04官方镜像上线",
+		"description":"Ubuntu18.04官方镜像上线",
+		"id":2623
+	},
+	{
+		"introduce":"Kubernetes 1.14新版本",
+		"name":"Kubernetes 1.14新版本",
+		"description":"1. 全面支持CSI存储插件，同时用户也可以根据需要安装或开发第三方CSI插件。2. 使用IPVS作为默认网络数据面转发方案，替换iptables传统方案，从而获得更好性能和扩展性。3. 适配Cloud Controller Manager模块",
+		"id":2624
+	},
+	{
+		"introduce":"VR 播放器 SDK  开放公测",
+		"name":"VR 播放器 SDK  开放公测",
+		"description":"VR播放器SDK是京东云推出的应用于移动端VR播放的软件开发工具包，同时覆盖Android端和iOS端，支持VR直播流/点播文件的播放，旨在帮助开发者快速具备VR播放能力支撑。",
+		"id":2625
 	}
 ]
