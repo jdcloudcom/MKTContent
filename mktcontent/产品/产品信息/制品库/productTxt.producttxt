@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"制品库\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/artifacts\",\"classTag\":\"\"}],\"desc\":\"管理源代码编译后的构建产物，跟源代码协同进行版本化控制，提供编译依赖，制品存储等功能，与云编译、云部署结合组成持续交付工具链。\"}",
+		"id":1538
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"简单易用\",\"proName\":\"自动为用户初始化好私库，开通即可使用，无需复杂配置，基于开源技术，完全兼容maven和gradle工具，符合用户习惯\"},{\"showShade\":false,\"proGood\":\"安全稳定\",\"proName\":\"后端采用了京东云的文件存储和云主机服务，提供高可靠性的服务。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"无缝衔接\",\"proName\":\"制品库与京东云的云编译无缝集成。\"}]",
+		"id":1539
+	},
+	{
+		"txt":"[{\"funcName\":\"公共库代理\",\"funcContent\":[{\"funcTitle\":\"代理中央仓库等公共仓库\",\"funcP\":\"京东云制品库提供了对maven公共库的代理功能，包括central，jcenter，gradle-plugin，google等常用仓库\"}]},{\"funcName\":\"用户私库\",\"funcContent\":[{\"funcTitle\":\"私库管理\",\"funcP\":\"获取私库配置，重置私库密码，管理私库制品\"}]}]",
+		"id":1540
+	},
+	{
+		"txt":"[{\"name\":\"应用场景\",\"instruction\":\"公共代理库提供外部仓库的代理功能，提高依赖包的下载速度，用户私库提供了用户私有制品的管理功能，支持上传，下载，删除，搜索。制品库与代码托管，云编译相结合可以组成自动化的持续交付工具链。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"制品库\",\"url\":\"//www.jdcloud.com/products/artifacts\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/29045530-539d-4331-90dc-3ded9e927dd720191210105155.png\",\"showShade\":false}]",
+		"id":1645
+	}
+]
