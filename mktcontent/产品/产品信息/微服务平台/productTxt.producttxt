@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"微服务平台\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdsf\",\"classTag\":\"\"}],\"desc\":\"是一个提供了注册中心、配置管理、调用链分析服务等功能的微服务框架，方便用户实施Spring Cloud、Dubbo等微服务应用。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"微服务平台\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://jdsf-console.jdcloud.com/namespace\",\"classTag\":\"https://jdsf-console.jdcloud.com/namespace\"}],\"desc\":\"是一款服务于微服务应用的PaaS平台产品，围绕微服务的整个生命周期，提供服务部署、服务注册/发现、服务治理、调用分析、监控等全方位功能，方便用户实施Spring Cloud、Dubbo等微服务应用。\"}",
 		"id":707
 	},
 	{
