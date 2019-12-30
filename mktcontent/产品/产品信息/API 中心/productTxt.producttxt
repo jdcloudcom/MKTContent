@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"API 中心\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct\",\"classTag\":\"\"}],\"desc\":\"API中心是京东云API类型产品的集中展现入口。用户可以在API中心开通API产品，查看API列表，下载SDK和文档，进行API调试等。\"}",
+		"id":1769
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"快速开通\",\"proName\":\"您可在API中心的控制台中查看和立即开通API产品，并且进行在线调试与调用。\"},{\"showShade\":false,\"proGood\":\"安全可靠\",\"proName\":\"充分依托于京东云账户安全体系，保证请求的安全性。\"}]",
+		"id":1770
+	},
+	{
+		"txt":"[{\"funcName\":\"查看、开通\",\"funcContent\":[{\"funcTitle\":\"您可查看、开通API产品。\",\"funcP\":\"您可在API中心查看并开通现有的京东云API类型产品及其详细信息。\"}]},{\"funcName\":\"在线调试\",\"funcContent\":[{\"funcTitle\":\"您可在线调试已开通的API。\",\"funcP\":\"您可对已开通的API产品进行在线调试，方便快捷。\"}]},{\"funcName\":\"下载SDK及文档\",\"funcContent\":[{\"funcTitle\":\"您可进行SDK及文档的下载。\",\"funcP\":\"您可下载已开通API产品的SDK和文档，进行安全调用。\"}]},{\"funcName\":\"查看已开通的API产品\",\"funcContent\":[{\"funcTitle\":\"您可查看已开通的API产品\",\"funcP\":\"您可在API中心查看已开通的API产品及其详细信息。\"}]}]",
+		"id":1771
+	},
+	{
+		"txt":"[{\"name\":\"API产品开放\",\"instruction\":\"为用户提供了了解和选购京东云API 产品的平台。用户可以从API中心选择需要的产品进行购买开通，此后可对已购的API进行在线调试与调用。\\n\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fb9c44c9-3da8-4776-8df4-3389ab78e2ca20191227160829.png\",\"showShade\":false}]",
+		"id":1772
+	}
+]
