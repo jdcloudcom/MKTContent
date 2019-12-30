@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"云服务网格\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://mesh-console.jdcloud.com/istio\",\"classTag\":\"\"}],\"desc\":\"京东云云服务网格是一支使服务治理平台化的服务治理工具。无需对接，您即可在控制台一键安装后查看到应用的日志、监控、调用链等度量数据，大大简化运维工作。\"}",
+		"id":1774
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"简化运维工作\",\"proName\":\"用户可以一键安装、删除、升级云服务网格组件，简化运维工作。\"},{\"showShade\":false,\"proGood\":\"无需对接\",\"proName\":\"用户安装后即可看到应用的日志、监控、调用链等度量数据，无需对接。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全稳定\",\"proName\":\"京东云云服务网格可以帮助用户运维稳定的Istio版本，保证持续可用。\"}]",
+		"id":1775
+	},
+	{
+		"txt":"[{\"funcName\":\"部署/升级/卸载网格\",\"funcContent\":[{\"funcTitle\":\"部署/升级/卸载网格\",\"funcP\":\"基于Kubernetes集群提供网格的一键安装部署、升级网格版本、卸载网格。\"}]},{\"funcName\":\"网格组件管理\",\"funcContent\":[{\"funcTitle\":\"网格组件管理\",\"funcP\":\"用户可设置网格的配置组件的开关。\"}]},{\"funcName\":\"服务网关（Ingress Gateway）\",\"funcContent\":[{\"funcTitle\":\"服务网关（Ingress Gateway）\",\"funcP\":\"配置服务对外提供的网关信息。\"}]},{\"funcName\":\"虚拟服务（Virtual Service）\",\"funcContent\":[{\"funcTitle\":\"虚拟服务（Virtual Service）\",\"funcP\":\"配置服务的内部/外部分流规则。\"}]}]",
+		"id":1776
+	},
+	{
+		"txt":"[{\"name\":\"分流场景\",\"instruction\":\"云服务网格灵活的流量管理能力可以在系统运行时实现流量动态调配。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/710e4abd-cbf8-4875-85fd-075061b9688b20191227180143.png\",\"showShade\":false},{\"name\":\"跨语言服务治理场景\",\"instruction\":\"基于云服务网格边车模式的特性，可以实现跨语言的服务治理。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/52376b40-0836-44f6-925a-0535e1d16f5820191227180227.png\",\"showShade\":false},{\"name\":\"观测场景\",\"instruction\":\"云服务网格代理会自动收集服务运行数据，并转发到后端支撑监测系统，从而实时掌握系统运行状态。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/be67825f-749e-4c4d-9c04-0e7a311ac7e520191227181525.png\",\"showShade\":false}]",
+		"id":1777
+	}
+]
