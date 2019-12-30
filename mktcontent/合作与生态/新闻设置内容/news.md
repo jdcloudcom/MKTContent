@@ -1782,5 +1782,13 @@
 		"jss_key":"News_Content_745",
 		"id":745,
 		"news_title":"教育科技发展需求旺盛 京东云助力科技与教育融合"
+	},
+	{
+		"summary":"近日，京东云与全球知名虚拟化软件公司VMware达成合作，发布托管私有云-V解决方案。依托京东云托管“全家桶”（云托管及物理计算产品），为客户提供机柜（核心机房/边缘节点）、服务器、网络设备、带宽、IP、专线等物理资源，正版授权的VMware全系列软件套件以及高质量的数据中心运维服务。",
+		"image_url":"//img1.jcloudcs.com/cms/0b75b2cb-1c75-4a50-b558-2443419f7ba620191230111946.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_753",
+		"jss_key":"News_Content_753",
+		"id":753,
+		"news_title":"京东云与VMware达成合作 托管私有云助力企业迈入“云端”"
 	}
 ]
