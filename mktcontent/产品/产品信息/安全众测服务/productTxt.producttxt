@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Security Public Test Service\",\"label\":[{\"TitleName\":\"Ticket Consulting\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=776\",\"classTag\":\"\"}],\"desc\":\"JD Cloud Security Public Test Service means that the reliable partner tests and submits vulnerabilities of enterprise website or business systems, the payment is made according to effects and relevant reports are submitted, to help enterprises discover security vulnerabilities and risks in an overall way.\"}",
+		"id":1615
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Perfect Secrecy\",\"proName\":\"All professional white hat hackers have passed JD Cloud’s background investigation and executed the Confidentiality Agreement and shall never reveal customer privacy and service details to any third party.\"},{\"showShade\":false,\"proGood\":\"Effect Payment\",\"proName\":\"The payment is made according to vulnerability effect. The enterprise security demands are reached as well as cost and investment are reduced.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Full Coverage\",\"proName\":\"A lot of professional white hat hackers will participate in the test, achieving overall coverage and high test efficiency and helping enterprises to discover security vulnerabilities and risks in time.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Security and Reliability\",\"proName\":\"With technical means such as VPN and log audit, it is guaranteed that the test process is audited in an overall way and the test behavior is secure and controllable.\"}]",
+		"id":1616
+	},
+	{
+		"txt":"[{\"funcName\":\"Vulnerability Collection\",\"funcContent\":[{\"funcTitle\":\"Arrange test task\",\"funcP\":\"Under full authorization by customers, the professional white hat hackers which have passed JD Cloud’s background check and execute the confidentiality agreement shall be appointed to conduct security test to enterprise websites or systems.\"},{\"funcTitle\":\"Vulnerability Collection\",\"funcP\":\"The white hat hackers shall submit vulnerabilities to JD Cloud and JD Cloud security experts will audit such vulnerabilities. If such vulnerabilities are recognized as enterprise vulnerabilities, a notice will be given in time and assistance as for vulnerability patch will be provided.\"}]},{\"funcName\":\"Service Delivery\",\"funcContent\":[{\"funcTitle\":\"Provide vulnerability report\",\"funcP\":\"Provide customers with professional and specific vulnerability scanning reports and fix recommendations and assist customers to fix up vulnerabilities.\"}]}]",
+		"id":1617
+	},
+	{
+		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/security-crowdsourced-testing-service/product-overview\",\"classTag\":\"\"},{\"name\":\"Getting Started\",\"link\":\"https://docs.jdcloud.com/security-crowdsourced-testing-service/getting-started\",\"classTag\":\"\"},{\"name\":\"Product Pricing\",\"link\":\"https://docs.jdcloud.com/security-crowdsourced-testing-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":1697
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"PCI DSS Compliance Service\",\"label\":[{\"TitleName\":\"Ticket Consulting\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=772\",\"classTag\":\"\"}],\"desc\":\"JD Cloud, working with the professional third-part evaluation organization and consultation organization, provides customers with systematic and customized PCI DSS compliance service and helps customers complete compliance construction and improve their security capacities.\"}",
+		"id":1621
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"One-stop Service\",\"proName\":\"JD Cloud, working with partners with complete PCI qualifications, provides customers with one-stop PCI DSS compliance service including consultation guide, security evaluation, security product and service.\"},{\"showShade\":false,\"proGood\":\"Cost saving\",\"proName\":\"Relying on the secure and compliant JD Cloud platform, customers can reduce investment to compliance construction of underlayer information system, select compliant JD Cloud’s security products and service according to their demands and reduce maximum compliance construction cost.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Tailor-made\",\"proName\":\"The exclusive expert team provides customers with exclusive and customized PCI DSS compliance construction scheme according customers’ security statuses and helps customers pass the PCI DSS evaluation.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Expert Team\",\"proName\":\"A senior expert team in the industry with rich project experiences can guarantee service quality.\"}]",
+		"id":1622
+	},
+	{
+		"txt":"[{\"funcName\":\"PCI DSS Compliance Consulting Service\",\"funcContent\":[{\"funcTitle\":\"One-stop Compliance Consulting Service\",\"funcP\":\"The one-stop compliance consultation service of training service, consultation service and the like, covering management and technical requirements necessary for PCI DSS is provided. Meanwhile, the exclusive compliance construction scheme is provided to customers. Customers can select JD Cloud’s compliant security products and services according to their demands and assist customers to complete PCI DSS compliance construction.\"}]},{\"funcName\":\"PCI DSS Evaluation Service\",\"funcContent\":[{\"funcTitle\":\"Professional PCI DSS Evaluation Service\",\"funcP\":\"Working with the qualified security evaluation organizations authorized by the Payment Card Industry Security Standards Council, JD Cloud provides customers with service such as PCI DSS preparation evaluation, implementation rectification, weak point scanning, penetration test and PCI DSS QSA formal evaluation.\"}]}]",
+		"id":1623
+	},
+	{
+		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/pci-dss-compliance-service/product-overview\",\"classTag\":\"\"},{\"name\":\"Getting Started\",\"link\":\"https://docs.jdcloud.com/pci-dss-compliance-service/getting-started\",\"classTag\":\"\"},{\"name\":\"Product Pricing\",\"link\":\"https://docs.jdcloud.com/pci-dss-compliance-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":1696
+	}
+]

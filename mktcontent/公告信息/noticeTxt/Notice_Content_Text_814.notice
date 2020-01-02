@@ -1,0 +1,15 @@
+<p><span style="color: rgb(45, 43, 42); font-size: 12px;"></span>
+</p>
+<p><span style="font-size: 15px; color: rgb(45, 43, 42);">&nbsp; &nbsp; &nbsp;To provide you with better product service, JD Cloud Load Balancer will migrate SSL Certificate from December 23, 2019 21:00:00 to December 24, 2019 03:59:00&nbsp;. During this period, the Load Balancer Console and OpenAPI service will be temporarily suspended in all regions (cn-north-1, cn-south-1, cn-east-1 and cn-east-2). This operation will not affect your inherent business running in all of your regions. Access and use of the Console and OpenAPI will be resumed after the operation.&nbsp;As regards to this operation, please pay attention to two changes as below:</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-size: 15px; color: rgb(45, 43, 42);">1.<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp; </span>
+The existing SSL Certificate on the Load Balancer side will be migrated to Cloud Security - SSL Certificate and the Load Balancer - Certificate Module will no longer provide operations such as certificate viewing, adding and deleting.</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-size: 15px; color: rgb(45, 43, 42);">2.<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp; </span>
+After the migration, the certificate used by Load Balancer will be managed by Cloud Security - SSL Certificate.</span>
+</p>
+<p><span style="color: black; font-size: 12px;">&nbsp;</span>
+</p>
+<p><span style="color: rgb(45, 43, 42); font-size: 12px;">If you have relevant questions during the operation, please contact JD Cloud Customer Service at any time (Tel: 4006151212). Thank you for your support to JD Cloud.</span>
+</p>
+<p><br/></p>

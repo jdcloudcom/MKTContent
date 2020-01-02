@@ -55,9 +55,9 @@
 		"title":"Cloud Talk 06: Detailed Explanation of One-stop Strategy for Content Storage and Distribution and Network Acceleration"
 	},
 	{
-		"description":"Cloud Talk 07: No. “0” task on Exploration of Cloud Access - Cloud Security Deployment",
+		"description":"Cloud Talk 07: No. \"0\" task on Exploration of Cloud Access - Cloud Security Deployment",
 		"id":16,
-		"title":"Cloud Talk 07: No. “0” task on Exploration of Cloud Access - Cloud Security Deployment"
+		"title":"Cloud Talk 07: No. \"0\" task on Exploration of Cloud Access - Cloud Security Deployment"
 	},
 	{
 		"description":"Cloud Talk 06: Detailed Explanation of One-stop Strategy for Content Storage and Distribution and Network Acceleration",
@@ -65,9 +65,9 @@
 		"title":"Cloud Talk 06: Detailed Explanation of One-stop Strategy for Content Storage and Distribution and Network Acceleration"
 	},
 	{
-		"description":"Cloud Talk 07: No. “0” task on Exploration of Cloud Access - Cloud Security Deployment",
+		"description":"Cloud Talk 07: No. \"0\" task on Exploration of Cloud Access - Cloud Security Deployment",
 		"id":18,
-		"title":"Cloud Talk 07: No. “0” task on Exploration of Cloud Access - Cloud Security Deployment"
+		"title":"Cloud Talk 07: No. \"0\" task on Exploration of Cloud Access - Cloud Security Deployment"
 	},
 	{
 		"description":"Between Inches - JD Cloud City Story   Erdos",
@@ -110,9 +110,9 @@
 		"title":"Homeward Journey - JD Cloud City Story   Xi’an"
 	},
 	{
-		"description":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement “Cloud Cultivation”",
+		"description":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement \"Cloud Cultivation\"",
 		"id":27,
-		"title":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement “Cloud Cultivation”"
+		"title":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement \"Cloud Cultivation\""
 	},
 	{
 		"description":"Cloud Talk 09: E-commerce Cloud SaaS+PaaS Dual Mode Supports Modular Selection and Deep Customization of E-commerce Platform",
@@ -120,9 +120,9 @@
 		"title":"Cloud Talk 09: E-commerce Cloud SaaS+PaaS Dual Mode Supports Modular Selection and Deep Customization of E-commerce Platform"
 	},
 	{
-		"description":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement “Cloud Cultivation”",
+		"description":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement \"Cloud Cultivation\"",
 		"id":29,
-		"title":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement “Cloud Cultivation”"
+		"title":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement \"Cloud Cultivation\""
 	},
 	{
 		"description":"Cloud Talk 09: E-commerce Cloud SaaS+PaaS Dual Mode Supports Modular Selection and Deep Customization of E-commerce Platform",
@@ -130,7 +130,7 @@
 		"title":"Cloud Talk 09: E-commerce Cloud SaaS+PaaS Dual Mode Supports Modular Selection and Deep Customization of E-commerce Platform"
 	},
 	{
-		"description":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement “Cloud Cultivation”",
+		"description":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement \"Cloud Cultivation\"",
 		"id":31,
 		"title":"Cloud Talk 08"
 	},
@@ -438,5 +438,35 @@
 		"description":"Video Title: Above the Clouds — JD Cloud City Stories  Songpan",
 		"id":176,
 		"title":"Above the Clouds — JD Cloud City Stories  Songpan"
+	},
+	{
+		"description":"On the Road of Acquiring Wealth - JD Cloud City Brain Poverty  Alleviation Chapter",
+		"id":181,
+		"title":"On the Road of Acquiring Wealth - JD Cloud City Brain Poverty  Alleviation Chapter"
+	},
+	{
+		"description":"On the Road of Acquiring Wealth - JD Cloud City Brain Poverty  Alleviation Chapter",
+		"id":182,
+		"title":"On the Road of Acquiring Wealth - JD Cloud City Brain Poverty  Alleviation Chapter"
+	},
+	{
+		"description":"Invisible Family Member - JD Cloud City Brain  Pension Chapter",
+		"id":183,
+		"title":"Find the Right Person - JD Cloud City Brain Investment Attracting Chapter  Invisible Family Member - JD Cloud City Brain  Pension Chapter"
+	},
+	{
+		"description":"Find the Right Person - JD Cloud City Brain Investment Attracting Chapter",
+		"id":184,
+		"title":"Find the Right Person - JD Cloud City Brain Investment Attracting Chapter"
+	},
+	{
+		"description":"Invisible Family Member - JD Cloud City Brain  Pension Chapter",
+		"id":185,
+		"title":"Invisible Family Member - JD Cloud City Brain  Pension Chapter"
+	},
+	{
+		"description":"Invisible Family Member - JD Cloud City Brain  Pension Chapter",
+		"id":186,
+		"title":"Invisible Family Member - JD Cloud City Brain  Pension Chapter"
 	}
 ]

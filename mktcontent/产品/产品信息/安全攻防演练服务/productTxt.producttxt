@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Security Defense Drilling Service\",\"label\":[{\"TitleName\":\"Ticket Consulting\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=780\",\"classTag\":\"\"}],\"desc\":\"On the basis of acknowledge about real security status of enterprise, real network defense and attack scenario is simulated for key and core business of enterprise, helping enterprises know common network attack and defense process and technical means and improving security awareness and capacities for security staff of enterprises.\"}",
+		"id":1618
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Rich Scenarios\",\"proName\":\"Based on JD Cloud’s defense experiences of for years, a variety of security defense scenarios can be simulated, guaranteeing that enterprises can deal with various attack scenarios.\"},{\"showShade\":false,\"proGood\":\"Expert Team\",\"proName\":\"With rich security project experiences, JD Cloud senior security expert team can guarantee service quality.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Customization\",\"proName\":\"Make security defense drilling schemes according to real conditions of enterprises. Make sure that the staff can participate in confrontation, get familiar with basic emergency measures as for security incidents and improve their security awareness.\"}]",
+		"id":1619
+	},
+	{
+		"txt":"[{\"funcName\":\"Service Content\",\"funcContent\":[{\"funcTitle\":\"Security Defense Drilling\",\"funcP\":\"Make an investigation and survey on security defense drilling schemes according to customers’ real conditions, simulate the attacker and the defender during the defense drilling process, carry out drilling activities as for security attack and defense in the simulated environment or the one appointed by customer, and improve customers’ capacities in withstanding security risk by virtual of the security defense drilling.\"}]},{\"funcName\":\"Service Method\",\"funcContent\":[{\"funcTitle\":\"On-site Technical Support\",\"funcP\":\"JD Cloud provides professional security experts, provides customers with on-site technical support, organizes customers to carry out security defense drilling, provides customers with trainings and guide on stimulated Attack and Defense Drill and responses customers’ doubts.\"}]}]",
+		"id":1620
+	},
+	{
+		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/security-attack-and-defense-drill-service/product-overview\",\"classTag\":\"\"},{\"name\":\"Getting Started\",\"link\":\"https://docs.jdcloud.com/security-attack-and-defense-drill-service/getting-started\",\"classTag\":\"\"},{\"name\":\"Product Pricing\",\"link\":\"https://docs.jdcloud.com/security-attack-and-defense-drill-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":1684
+	}
+]

@@ -10,5 +10,9 @@
 	{
 		"txt":"[{\"funcName\":\"Security Incident Push\",\"funcContent\":[{\"funcTitle\":\"Latest Security Incident Push\",\"funcP\":\"Push security incidents of the whole network in real time, including the latest vulnerability warning, 0Day threat warning and latest security incident. Provide security information meeting customers’ demands in time in combination with the customers’ realities.\"},{\"funcTitle\":\"Flexible Subscription Method\",\"funcP\":\"Support multiple subscription methods, including email, SMS, etc. Send \\\"security notification\\\" periodically or \\\"emergency security notification\\\" aperiodically to customers.\"}]},{\"funcName\":\"Threat Intelligence\",\"funcContent\":[{\"funcTitle\":\"Threat Intelligence Subscription\",\"funcP\":\"Based on massive JD security big data, JD Cloud work with excellent security partners in the industry to provide threat intelligence meeting customers’ demands, give warnings and help customers improve their real-time response.\"}]}]",
 		"id":1581
+	},
+	{
+		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/security-notification-service/product-overview\",\"classTag\":\"\"},{\"name\":\"Getting Started\",\"link\":\"https://docs.jdcloud.com/security-notification-service/getting-started\",\"classTag\":\"\"},{\"name\":\"Product Pricing\",\"link\":\"https://docs.jdcloud.com/security-notification-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":1695
 	}
 ]

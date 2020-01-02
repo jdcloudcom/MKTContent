@@ -10,5 +10,9 @@
 	{
 		"txt":"[{\"funcName\":\"Code Security Audit\",\"funcContent\":[{\"funcTitle\":\"Code Security Status Audit\",\"funcP\":\"Check program source codes one by one with the combined method of automatic scanning and manual code audit, analyze existing potential security risks and provide code fix measures and suggestions.\"},{\"funcTitle\":\"Support Audit to Multiple Program Languages\",\"funcP\":\"Common program source codes such as Java, ASP, JSP and PHP can be audited.\"},{\"funcTitle\":\"Service Delivery\",\"funcP\":\"After code audit is finished, a professional and complete code audit report will be submitted to the customer.\"}]},{\"funcName\":\"Security Coding Specification Consultation\",\"funcContent\":[{\"funcTitle\":\"Provide security coding consultation and suggestions\",\"funcP\":\"Provide consultation and suggestions on security coding specification for enterprise developers, avoid insecure coding methods in advance and improve source code quality and security for enterprises.\"}]}]",
 		"id":1598
+	},
+	{
+		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/code-audit-service/product-overview\",\"classTag\":\"\"},{\"name\":\"Getting Started\",\"link\":\"https://docs.jdcloud.com/code-audit-service/getting-started\",\"classTag\":\"\"},{\"name\":\"Product Pricing\",\"link\":\"https://docs.jdcloud.com/code-audit-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":1686
 	}
 ]

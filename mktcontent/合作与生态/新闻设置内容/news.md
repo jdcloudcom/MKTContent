@@ -1734,5 +1734,45 @@
 		"jss_key":"News_Content_724",
 		"id":724,
 		"news_title":"IDC Insights into China’s Cloud Operation Service Market in the First Half of 2019: JD Cloud ranked in the first echelon"
+	},
+	{
+		"summary":"JD Cloud and AI Business Unit joined hands with Quanzhou Economic & Technological Development Zone and Beijing Kefu Shidai Technology Co., Ltd. to hold the official signing ceremony at JD Group Headquarters for the cooperation agreement on New Display Digital Economy Industrial Park Project.",
+		"image_url":"//img1.jcloudcs.com/cms/32d505c9-78b5-4072-b3e2-ba607c5451ca20191219115837.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_740",
+		"jss_key":"News_Content_740",
+		"id":740,
+		"news_title":"In Conjunction With Quanzhou  JD Cloud Reaches Agreements on New Display Digital Economy Industrial Park Project"
+	},
+	{
+		"summary":"By producing massive high-value data centering on core businesses such as retail e-commerce, finance, logistics, insurance, health, and cities, JD Cloud has spawned extremely rich actual AI application scenarios. In addition, by establishing connection among algorithm technology, application scenarios and data model in terms of the algorithm technology, JD Cloud has built the full chain for AI development to implement the platformization of AI capabilities, creating a worldwide leading intelligent commercial system containing smart retail, smart finance, smart insurance, smart city, and smart medical care.",
+		"image_url":"//img1.jcloudcs.com/cms/ee143199-b5e5-46ca-b960-432213fdba9820191219175853.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_741",
+		"jss_key":"News_Content_741",
+		"id":741,
+		"news_title":"As NVIDIA GPU Technology Conference is held, JD Cloud+AI Open Platform make AI more inclusive"
+	},
+	{
+		"summary":"By constantly accumulating experience and exploring in the fields of data backup and system disaster recovery technology, JD Cloud constitutes the JD Cloud multi-level disaster recovery solution to help customers resolve the data backup and data disaster recovery technology problems in each scenario, and provide all important industry users such as finance, government affairs and e-commerce with one-stop backup and disaster recovery capabilities. For customers with the highest requirements for system disaster recovery, JD Cloud provides second-level system disaster recovery solutions based on advanced Load Balancer products, and offers high-end architecture design technology.",
+		"image_url":"//img1.jcloudcs.com/cms/92d3c502-28d8-44b1-a291-453f9d885d6020191223170309.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_742",
+		"jss_key":"News_Content_742",
+		"id":742,
+		"news_title":"JD Cloud released the Backup and Disaster Recovery Technology White Paper to provide customers with second-level disaster recovery service"
+	},
+	{
+		"summary":"The release of the national standards on multi-level protection of information security scheme (MLPS) 2.0 marks a new era in the multi-level protection of national cybersecurity. As a cloud intelligent manufacturer with the most industrial attributes, JD Cloud will take initiative to cause the security system to comprehensively satisfy the national standards on multi-level protection scheme 2.0 and other applicable laws and regulations, and focus on building the new generation full-scenario cloud computing security protection system featured with active defense, overall prevention and control, precise protection, and intelligent evolution.",
+		"image_url":"//img1.jcloudcs.com/cms/4d0d96e4-dc75-46d1-8a32-6b65181afad820191225142722.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_743",
+		"jss_key":"News_Content_743",
+		"id":743,
+		"news_title":"JD Cloud Built a Full-Scenario Cloud Computing Security Protection System and Released White Paper on Cybersecurity Multi-level Protection Compliance Capability"
+	},
+	{
+		"summary":"JD Cloud (Chongqing) Digital Economy Industrial Park in Nan’an plot of China (Chongqing) Pilot Free Trade Zone (hereinafter referred to as JD Cloud (Chongqing) Digital Economy Industrial Park) was officially opened, providing more supports and services for the development of digital economy in Chongqing. Nan’an District will continue deepening the cooperation with JD Group in each field, and join hands with the enterprises to build a digital development highland for Chongqing even the west area.",
+		"image_url":"//img1.jcloudcs.com/cms/7c000e5e-c539-4601-8a13-1b9ea7f8188020191225181804.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_744",
+		"jss_key":"News_Content_744",
+		"id":744,
+		"news_title":"Themed with \"Cloud-focused Industry and Wining Future by Intelligence\", Opening Ceremony of JD Cloud (Chongqing) Digital Economy Industrial Park Held in Nan’an, Chongqing"
 	}
 ]

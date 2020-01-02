@@ -192,6 +192,10 @@
 		"id":139
 	},
 	{
+		"name":"Urban Operating System",
+		"id":140
+	},
+	{
 		"name":"JD Cloud Zhike",
 		"id":147
 	},

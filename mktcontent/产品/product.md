@@ -638,5 +638,29 @@
 	{
 		"name":"Code Audit Service",
 		"id":1369
+	},
+	{
+		"name":"Security Public Test Service",
+		"id":1373
+	},
+	{
+		"name":"Security Defense Drilling Service",
+		"id":1374
+	},
+	{
+		"name":"PCI DSS Compliance Service",
+		"id":1375
+	},
+	{
+		"name":"VR Player SDK",
+		"id":1376
+	},
+	{
+		"name":"VR Live Streaming",
+		"id":1377
+	},
+	{
+		"name":"VR VOD",
+		"id":1378
 	}
 ]

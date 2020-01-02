@@ -1,0 +1,189 @@
+<p style="text-indent: 2em;">
+    In a recent Backup and Disaster Recovery Technology White Paper (hereinafter referred to as "White Paper") officially released by JD Cloud, technological structure and typical application scenarios for backup and disaster recovery, and industrial solutions based on JD Cloud’s high-quality resources were highlighted. Based on many years of technological practice on accumulation and exploration of technology for data backup and system disaster recovery, JD Cloud Multi-Level Disaster Recovery Solution has been formed, which helped customers to solve technological problems on data backup and disaster tolerance in all kinds of scenarios, providing one-stop backup and disaster recovery capability for crucial customers in finance, government administration, e-commerce and other industries. For customers with the highest requirements for system disaster recovery, JD Cloud provides second-level system disaster recovery solutions based on advanced Load Balancer products, and offers high-end architecture design technology.
+</p>
+
+<p style="text-indent: 2em;">
+    <br/>
+</p>
+
+<p style="text-indent: 2em; text-align: center;">
+    <img src="//img1.jcloudcs.com/cms/86de0b2e-5cb4-4666-97cc-68898f51e0e720191223170437.jpg" title="" alt="modify2.jpg"/>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    <strong>Cloud enterprises increased input in disaster recovery</strong>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    Digital transformation has entered a crucial period currently with information system pervading throughout business construction in all kinds of industries. For enterprises, stable and reliable operation of system is an important foundation for business development, and once important information systems come to standstill, the business system will face a tremendous impact. With rapid development of Internet, 5G, cloud computing, AI, IoT and other technologies in recent years in China, higher requirements on business continuity has been put forward and an increasing number of enterprises have been dedicating themselves to the construction of disaster recovery so as to take preventive measures.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    Relevant data released by MarketsandMarkets showed that the amount of global backup and market recovery would increase from USD 7.13 billion in 2017 to USD 11.59 billion in 2022. Data analysis report publicly released by Gartner otherwise indicated that the global market of cloud disaster recovery DRaaS has been rapidly increasing. In 2016, the market reached USD 2 billion and in 2021, it is projected to reach USD 3.73 billion.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    <strong>Disaster recovery had industry attribute</strong>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    The enterprises’ requirements on disaster recovery are nothing else than backup, recovery and migration of data and high usability of business; however, for specific industry application scenarios, various solutions have been derived in accordance with characteristics of each industry including health care’s disaster recovery demand on unstructured data and government administration system’s high requirement on business continuity and shortage of IT operation and maintenance personnel.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    By contrast, finance industry enjoyed an extremely high level of informatization and requirement on security, therefore, it has put forward strict requirements on disaster recovery in that any data loss caused by system breakdown or network attack and business interruption might lead to great loss. JR/T 0168-2018 Financial Application Specification of Cloud Computing Technology released by the People’s Bank of China specified that the disaster recovery capability of cloud computing platform in finance was required to reach level 3 to level 6. Based on many years of accumulation of system construction and maintenance and with the usage of reliable cloud platform products, JD Cloud can help finance customer meet standard of finance cloud industry.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    In addition, JD Cloud provides disaster recovery and backup solutions on levels of hour, minute and second for industries that are highly dependent on data and presents high requirements on business continuity including governmental enterprises and e-commerce so as to ensure that crucial business systems can be operated steadily in a long term. JD Cloud can provide targeted system disaster recovery solutions for subdivided industries such as education, health care and agriculture, so as to ensure effective protection of customers’ data and that customers’ requirements on business continuity can be met.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    <strong>Disaster recovery and backup are two concepts</strong>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    Disaster recovery and backup would often occur simultaneously; however, disaster recovery and backup are two concepts and they are often confused. Disaster recovery aims to ensure normal operation of information system when it encounters disaster so as to help enterprises realize the goal of business continuity and it aims to deal with data losses caused by the disaster. The White Paper has introduced the two concepts discriminately.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    <strong>Start with backup</strong>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    The core of backup technology is back up online data in production environment to offline environment by using technological methods. Backup data is not used for business production, but retaining backup data of crucial versions is of great significance to long-term and effective operation of business system.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    According to different business scenarios and backup environment, JD Cloud provides two main methods for backing up data: one is to support forming data backup environment on cloud platform and back up core data of customers’ business system to cloud platform securely and securely. The other is to support backing up data to users’ own data center by virtue of exclusive network line or VPN.
+</p>
+
+<p style="text-indent: 2em;">
+    <br/>
+</p>
+
+<p style="text-indent: 2em; text-align: center;">
+    <img src="//img1.jcloudcs.com/cms/6e5e3aa0-53f9-456a-9ca9-b78d8d4a5dd820191223170525.jpg" title="" alt="modify3.jpg"/>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    With respect to platform support, JD Cloud supports users backing up data to the platform of public cloud, private cloud, proprietary cloud and hybrid cloud of JD Cloud, and also supports users to backing up data to users’ own IDC or a third public cloud. In terms of data backup technology, JD Cloud supports migrating and replicating database and data from object storage service, migrating document from document system, and transmitting data with encryption protection. In addition, at the same time of realizing data backup function, JD Cloud also ensured secure and reliable backup and recovery process by usage of effective technological means.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    <strong>Then turn to disaster recovery</strong>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    The core of the system disaster recovery technology is to protect customer data security and keep key core businesses stable when the information system encounters any disaster and any severe failure is caused. There are possibilities that disasters possibly causing severe system failure, such as earthquake, flood, and fire, may occur in the process of social operation. Therefore, it is extremely important to effectively protect the critical system design and construction with the system disaster recovery technology.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    JD Cloud supports data level disaster recovery and application level disaster recovery for the system. Data level disaster recovery supports backup and synchronous or asynchronous replication of customer data to maintain the customer data security, and ensure that the key data are available and recoverable in case of severe failure. Application level disaster recovery supports the establishment of a backup system that matches the business production environment, so as to ensure that the business traffic can be switched to the backup environment in a timely manner when the failure occurs, and the business system can continuously provide services externally.
+</p>
+
+<p style="text-indent: 2em;">
+    <br/>
+</p>
+
+<p style="text-indent: 2em; text-align: center;">
+    <img src="//img1.jcloudcs.com/cms/c84c13c0-36e3-4861-b7cc-0bbbee784eeb20191223170547.jpg" title="" alt="modify1.jpg"/>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    For different customer requirements, JD Cloud provides multi-level system disaster recovery solutions to help customers build systems that meet their own requirements. For customers with low requirements for system failure recovery capability (generally required RTO≤7 days), JD Cloud provides week-level disaster recovery solutions; for customers with general requirements for system failure recovery capability (generally required RTO≤1 day), JD Cloud provides day-level disaster recovery solutions; for systems may with great loss or great social influence in case of business system halt (generally the customer disaster recovery tolerability RTO≤4 hours and RPO≤1 hour), JD Cloud provides hour-level disaster recovery solutions to ensure the customer business systems can be quickly recovered; for customers in important industries such as finance with high requirements for system disaster recovery capability, JD Cloud provides minute-level system disaster recovery solutions to ensure the system disaster can be recovered rapidly, achieving RTO≤30 minutes and RPO≈0; for customers with the highest requirements for system disaster recovery capability, JD Cloud provides second-level system disaster recovery solutions with advanced Load Balancer technology.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    Disaster recovery is praised as the last line of defense for enterprise information security. Its ultimate goal is to ensure the data of organizational units will not be lost, and the business will not be stopped, which also is the ultimate goal of JD Cloud so that more enterprises can intelligently, agilely and securely use disaster recovery service and the business sustainability can be ensured.
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    Click and read &nbsp;<a href="https://www.jdcloud.com/white-paper/download" target="_blank" title="Backup and White Paper on Disaster Recovery Technology" style="color: rgb(0, 176, 240); text-decoration: underline;"><span style="color: rgb(0, 176, 240);"><strong>&gt;&gt;Backup and White Paper on Disaster Recovery Technology</strong></span>
+</a>
+</p>
+
+<p>
+    <br/>
+</p>
+
+<p style="text-indent: 2em;">
+    Download and read more about JD Cloud White Paper, please move to&nbsp;<span style="color: rgb(0, 176, 240); text-decoration: underline;"><strong><a href="https://www.jdcloud.com/en/jdcloud-whitepaper/all#wp_list" target="_blank" title="JD Cloud Technical White Paper" style="color: rgb(0, 176, 240); text-decoration: underline;">&gt;&gt;JD Cloud Technical White Paper</a>special area</strong></span>
+
+</p>
