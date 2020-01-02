@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"智能边缘安全\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=843\",\"classTag\":\"\"}],\"desc\":\"智能边缘安全（IntelligentEdgeSecurity）是京东云提供的一项安全增值服务，深度集成抗DDoS、WAF、CC攻击的防护功能，全面升级边缘加速网络的安全防护能力，为您的业务保驾护航。\"}",
+		"id":1610
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"独享IP\",\"proName\":\"用户在每个节点都独享IP，用户之间互相隔离，更加安全。\"},{\"showShade\":false,\"proGood\":\"一站式便捷快速接入\",\"proName\":\"域名接入智能边缘安全，就同时具备了安全和加速属性，并且安全和加速规则可细粒度灵活配置。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"智能化一体防护\",\"proName\":\"基于京东云的海量数据和计算能力，智能识别日常加速和恶意攻击，并自动调度全网带宽资源，为用户抵御DDoS、CC、Web应用攻击、恶意刷流量、恶意爬虫等攻击，加速的同时，大幅度降低企业安全防御的成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"弹性扩容 无惧突发\",\"proName\":\"资源弹性扩展，按需设置弹性防护，支持电信+联通+移动线路，最高可达1.5T的清洗能力，能从容应对各种大流量DDoS攻击，保证您的业务能够平稳安全地快速运行。\"}]",
+		"id":1611
+	},
+	{
+		"txt":"[{\"funcName\":\"DDoS攻击防护\",\"funcContent\":[{\"funcTitle\":\"防护多种类型的DDoS攻击\",\"funcP\":\"包括但不限于SYN Flood、ACK Flood 、ICMP Flood、UDP Flood、TCP Flood等攻击，并提供黑白名单等精准防御机制。\"},{\"funcTitle\":\"弹性防护，灵活计费\",\"funcP\":\"开启弹性防护后，当您受到的攻击超过购买套餐的峰值时，您的业务仍可继续得到京东云的防护。使用弹性防护功能，您无需再担心因为攻击超过套餐峰值导致服务中断的问题。\"}]},{\"funcName\":\"CC攻击防护\",\"funcContent\":[{\"funcTitle\":\"多种防御策略\",\"funcP\":\"可以根据网站的业务处理能力或者访问源IP的QPS制定防御规则，对所有超过阈值的请求进行有效人机识别，对垃圾流量直接封禁处理。\"}]},{\"funcName\":\"Web攻击防护\",\"funcContent\":[{\"funcTitle\":\"OWASP TOP 10威胁防护\",\"funcP\":\"有效防御 SQL注入、XSS攻击、命令/代码执行、文件包含、木马上传、路径穿越、恶意扫描等 OWASP TOP 10攻击。专业的攻防团队7*24小时跟进0day漏洞，分析漏洞原理，并制定安全防护策略，及时进行防护。\"},{\"funcTitle\":\"AI检测和行为分析\",\"funcP\":\"通过对京东积累海量日志进行学习和训练输出多种Web安全防护模型，对用户多请求的多元因子进行智能分析，有效提高检出率，降低误报率；通过信息孤岛、行为检测分析，识别恶意攻击源，保源站安全。\"}]},{\"funcName\":\"自助配置\",\"funcContent\":[{\"funcTitle\":\"提供丰富的域名管理和回源策略功能 \",\"funcP\":\"支持自助配置加速服务内容，可进行回源配置、参数过滤、Http Header设置等。\"}]},{\"funcName\":\"访问控制\",\"funcContent\":[{\"funcTitle\":\"支持Referer防盗链、访问秘钥鉴权等访问控制能力\",\"funcP\":\"支持Referer防盗链、URL鉴权、UA访问控制、IP黑名单等来验证用户的身份合法性，保障源站安全。\"}]},{\"funcName\":\"全链路HTTPS\",\"funcContent\":[{\"funcTitle\":\"全链路安全传输\",\"funcP\":\"提供全链路HTTPS安全加速解决方案，支持证书上传及管理。\"}]},{\"funcName\":\"攻击监控\",\"funcContent\":[{\"funcTitle\":\"攻击监控\",\"funcP\":\"支持网络层和应用层安全监控分析，提供全面实时的DDoS和CC攻击信息、攻击事件，可实时查看站点所受攻击及防御情况。\"}]}]",
+		"id":1612
+	},
+	{
+		"txt":"{\"price\":\"https://docs.jdcloud.com/cn/anti-ddos-pro/price-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1613
+	},
+	{
+		"txt":"[{\"name\":\"游戏安全加速\",\"instruction\":\"兼具内容稳定加速与全方位安全防护\\n在线游戏整个游戏过程依赖内容加速CDN服务，保证下载以及性能稳定；同时游戏行业频繁受到流量攻击干扰。SCDN安全加速，兼顾内容加载速度提升，保证跨网、多终端流畅运营的同时，可以避免因受频繁攻击导致的站点故障、玩家体验下滑、用户流失以及企业损失。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f3d80756-3701-45a6-8f33-d65c73ba359020191227203320.png\",\"showShade\":false},{\"name\":\"互联网金融\",\"instruction\":\"多线上业务系统，数据内容安全要求高\\n互联网金融类网站，多为线上业务系统，线上业务的安全性和稳定性，也是用户选择服务的重点。金融数据也是恶意爬虫攻击的首要对象，站点性能、网站安全以及内容安全需要同时兼顾。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/af8a250f-c4d6-4253-b4ac-1f6d0e5d06ee20191227203327.png\",\"showShade\":false},{\"name\":\"政企安防\",\"instruction\":\"政策性安防或者阶段性维稳需求\\n快速可靠的网络访问是政府类网站的基本要求，在会议或者特殊时段，需要保障网站的可用性，不会被DDoS攻击或者CC攻击而不能访问；同时在会议期间，访问会比平常多，需要保证高并发之下网站不会卡，访问速度快。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fad832d2-263d-4f1c-9b3a-c37701a3abf220191227203333.png\",\"showShade\":false},{\"name\":\"电商及医疗站点\",\"instruction\":\"兼具内容稳定加速与全方位安全防护\\n电商Web网站和各类医疗机构网站是最容易受到攻击的应用类型，潜在攻击者通过各种方式得到用户的真实IP地址，从而发起DDOS或者CC攻击，最终目的是让用户无法对外提供服务。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/65809f34-311b-4189-9f8f-c397ca13148120191227203337.png\",\"showShade\":false}]",
+		"id":1614
+	}
+]
