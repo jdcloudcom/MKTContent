@@ -174,8 +174,20 @@
             </div>
 			
           </div>
+
+			<div class="col-3 col-xs-6">
+				<div class="wp-item">
+					<a class="wp-item-img" href="//docs.jdcloud.com/jdcloud-backup-disaster-recovery-whitepaper/1-introduction" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_20191223">
+						<img src="https://img1.jcloudcs.com/portal/whitepaper/wp20191223.jpg" alt="京东云数据安全白皮书">
+					</a>
+					<div class="wp-item-bottom f-cb">
+						<a href="//docs.jdcloud.com/jdcloud-backup-disaster-recovery-whitepaper/1-introduction" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_20191223">立即查看</a>
+						<a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_20191223" onclick="whitepaperClick('w',8)">下载</a>
+					</div>
+				</div>
+			</div>
         </div>
-      </div>
+	  </div>
       <!--<div class="wp-list w">
         <h4 class="jdc-common-floor-tit">最佳实践</h4>
         <div class="row">
