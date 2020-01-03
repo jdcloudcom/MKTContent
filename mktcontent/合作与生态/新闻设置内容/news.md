@@ -1790,5 +1790,13 @@
 		"jss_key":"News_Content_753",
 		"id":753,
 		"news_title":"京东云与VMware达成合作 托管私有云助力企业迈入“云端”"
+	},
+	{
+		"summary":"京东完成了对云、AI、IoT及5G的全面部署，从而在技术层面上大幅领先同类型企业，在技术转型上获得成功，从而带动企业内部完成技术更新迭代。2019年京东在技术领域所取得的众多成果，也印证了京东技术创新与对外开放赋能的巨大潜力。",
+		"image_url":"//img1.jcloudcs.com/cms/c62becaf-f46c-4791-b2fb-76d39e5046f020200103181024.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_759",
+		"jss_key":"News_Content_759",
+		"id":759,
+		"news_title":"新华网：京东变—互联网技术突破与裂变下的新“巨人”"
 	}
 ]
