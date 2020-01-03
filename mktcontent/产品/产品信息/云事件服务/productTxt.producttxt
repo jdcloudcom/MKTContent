@@ -1,0 +1,34 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"云事件服务\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/events\",\"classTag\":\"\"}],\"desc\":\"云事件服务是京东云提供的事件管理与监控平台。用户可通过云事件服务完成对事件的查看及订阅。\"}",
+		"id":1600
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"事件源丰富\",\"proName\":\"事件订阅支持云产品系统事件、用户自定义上报事件、定时事件作为事件源，用户可根据需求设置不同的事件源。\"},{\"showShade\":false,\"proGood\":\"目的地设置灵活\",\"proName\":\"事件订阅支持同时将某个事件源订阅至多个目的地中，最多支持设置5个目的地，可以订阅至函数服务、邮件API等地。\"}]",
+		"id":1601
+	},
+	{
+		"txt":"[{\"funcName\":\"事件源设置\",\"funcContent\":[{\"funcTitle\":\"设置事件源\",\"funcP\":\"选择将云产品系统事件、自定义上报事件、定时事件作为事件源，当发生的事件与设置的事件源匹配时，调用目的地。\"}]},{\"funcName\":\"目的地设置\",\"funcContent\":[{\"funcTitle\":\"设置事件匹配时调用的目的地\",\"funcP\":\"选择云主机重启API、邮件API、函数服务等作为目的地，根据设置的目的地不同，当事件匹配时，会重启云主机、发送邮件、执行函数等。\"}]}]",
+		"id":1602
+	},
+	{
+		"txt":"[{\"name\":\"重启云主机\",\"instruction\":\"用户可根据自己的业务需求，设置当某台云主机的某个监控指标发生报警时，重启云主机。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c8493452-2cc7-4cf0-ae3c-5fc3f7626d6b20191213143747.png\",\"showShade\":false}]",
+		"id":1651
+	},
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"云事件服务\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/events\",\"classTag\":\"\"}],\"desc\":\"云事件服务是京东云提供的事件管理与监控平台。用户可通过云事件服务完成对事件的查看及订阅。\"}",
+		"id":1778
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"事件源丰富\",\"proName\":\"事件订阅支持云产品系统事件、用户自定义上报事件、定时事件作为事件源，用户可根据需求设置不同的事件源。\"},{\"showShade\":false,\"proGood\":\"目的地设置灵活\",\"proName\":\"事件订阅支持同时将某个事件源订阅至多个目的地中，最多支持设置5个目的地，可以订阅至函数服务、邮件API等地。\"}]",
+		"id":1779
+	},
+	{
+		"txt":"[{\"funcName\":\"事件源设置\",\"funcContent\":[{\"funcTitle\":\"设置事件源\",\"funcP\":\"选择将云产品系统事件、自定义上报事件、定时事件作为事件源，当发生的事件与设置的事件源匹配时，调用目的地。\"}]},{\"funcName\":\"目的地设置\",\"funcContent\":[{\"funcTitle\":\"设置事件匹配时调用的目的地\",\"funcP\":\"选择云主机重启API、邮件API、函数服务等作为目的地，根据设置的目的地不同，当事件匹配时，会重启云主机、发送邮件、执行函数等。\"}]}]",
+		"id":1780
+	},
+	{
+		"txt":"[{\"name\":\"重启云主机\",\"instruction\":\"用户可根据自己的业务需求，设置当某台云主机的某个监控指标发生报警时，重启云主机。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/48755d02-f388-404c-8382-43ad0406ed3820191230182708.png\",\"showShade\":false}]",
+		"id":1781
+	}
+]
