@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云服务网格\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://mesh-console.jdcloud.com/istio\",\"classTag\":\"\"}],\"desc\":\"京东云云服务网格是一支使服务治理平台化的服务治理工具。无需对接，您即可在控制台一键安装后查看到应用的日志、监控、调用链等度量数据，大大简化运维工作。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云服务网格\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/mesh\",\"classTag\":\"\"}],\"desc\":\"京东云云服务网格是一支使服务治理平台化的服务治理工具。无需对接，您即可在控制台一键安装后查看到应用的日志、监控、调用链等度量数据，大大简化运维工作。\"}",
 		"id":1774
 	},
 	{
