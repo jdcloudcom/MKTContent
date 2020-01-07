@@ -1798,5 +1798,13 @@
 		"jss_key":"News_Content_759",
 		"id":759,
 		"news_title":"新华网：京东变—互联网技术突破与裂变下的新“巨人”"
+	},
+	{
+		"summary":"产业创新云”是基于京东自有的BASIC+XY(区块链、人工智能、安全、物联网、云计算+无人科技、智能供应链等)的技术能力、容器、开发测试流水线、微服务等云原生技术构建的产品，将通过为企业提供产品从设计、研发、推广到应用一站式支撑平台，推动智能产业发展、提升行业应用智能化水平，促进产业数字化转型升级。",
+		"image_url":"//img1.jcloudcs.com/cms/350ab574-4dda-46f6-af16-0f8ec4b2cc5c20200107194548.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_761",
+		"jss_key":"News_Content_761",
+		"id":761,
+		"news_title":"东路演|2020济南先行区智能产业论坛在京成功举办"
 	}
 ]
