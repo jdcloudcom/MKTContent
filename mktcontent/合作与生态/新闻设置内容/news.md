@@ -1806,5 +1806,13 @@
 		"jss_key":"News_Content_761",
 		"id":761,
 		"news_title":"东路演|2020济南先行区智能产业论坛在京成功举办"
+	},
+	{
+		"summary":"在新一轮城市建设中，京东云不断发挥云计算、大数据等新技术优势，以“城市数字经济合伙人”的使命感，全面助力各地城市数字化、智能化的蝶变升级。着力构建“以云计算为支撑，以大数据为驱动，以场景化的智能应用为抓手”的城市生态，促进地方数字化升级，以形成城市发展新动能。",
+		"image_url":"//img1.jcloudcs.com/cms/bb7d3ee6-bc79-45f2-aa39-bf0e1893591020200108191405.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_762",
+		"jss_key":"News_Content_762",
+		"id":762,
+		"news_title":"新业态促进新发展 广西壮族自治区主要领导视察北海京东云数字经济展示中心"
 	}
 ]
