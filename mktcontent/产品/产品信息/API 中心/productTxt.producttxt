@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"API Center\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct\",\"classTag\":\"\"}],\"desc\":\"API Center is a concentrated exhibition entrance for JD Cloud products of API type. Users can subscribe API products, view API list, download SDK and document and make API debugging in API Center.\"}",
+		"id":1769
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Quick Subscription\",\"proName\":\"You can view and enable API product immediately in the Console of API Center and make on-line debugging and calling.\"},{\"showShade\":false,\"proGood\":\"Security and Reliability\",\"proName\":\"Fully rely on JD Cloud account security system to guarantee request security.\"}]",
+		"id":1770
+	},
+	{
+		"txt":"[{\"funcName\":\"View and Subscription\",\"funcContent\":[{\"funcTitle\":\"You can view and subscribe API products.\",\"funcP\":\"You can view details and subscribe existing JD Cloud products of API type in API Center.\"}]},{\"funcName\":\"On-line Debugging\",\"funcContent\":[{\"funcTitle\":\"You can debug subscribed API on line.\",\"funcP\":\"You can debug the subscribed API products on line in a convenient and quick manner.\"}]},{\"funcName\":\"Download SDK and Document\",\"funcContent\":[{\"funcTitle\":\"You can download SDK and documents.\",\"funcP\":\"You can download SDK for which API is subscribed and documents for security calling.\"}]},{\"funcName\":\"View subscribed API products\",\"funcContent\":[{\"funcTitle\":\"You can view subscribed API products\",\"funcP\":\"You can view subscribed API products and their details in API Center.\"}]}]",
+		"id":1771
+	},
+	{
+		"txt":"[{\"name\":\"Open of API Product\",\"instruction\":\"Provide users with a platform to know and purchase JD Cloud API products. Users can purchase and subscribe desired products from API Center and then make on-line debugging and calling for purchased API.\\n\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fb9c44c9-3da8-4776-8df4-3389ab78e2ca20191227160829.png\",\"showShade\":false}]",
+		"id":1772
+	}
+]

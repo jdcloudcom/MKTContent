@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Cloud Service Mesh\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://mesh-console.jdcloud.com/istio\",\"classTag\":\"\"}],\"desc\":\"Cloud Service Mesh of JD Cloud is a service governance tool realizing service governance platform. Without connection, you can view metric data such as application log, monitoring and call chain on the Console after one-click installation, greatly simplifying operation and maintenance work.\"}",
+		"id":1774
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Simplify operation and maintenance work\",\"proName\":\"Users can install, delete and upgrade cloud service mesh components via one-click and simplify operation and maintenance.\"},{\"showShade\":false,\"proGood\":\"No connection\",\"proName\":\"After installation, users can view metric data such as application log, monitoring and call chain without connection.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Secure and stable\",\"proName\":\"Cloud Service Mesh of JD Cloud can help users to apply stable operation and maintenance to Istio Version and guarantee its continuity and availability.\"}]",
+		"id":1775
+	},
+	{
+		"txt":"[{\"funcName\":\"Deploy/Upgrade/Uninstall mesh\",\"funcContent\":[{\"funcTitle\":\"Deploy/Upgrade/Uninstall mesh\",\"funcP\":\"Provide one-click installation and deployment, upgrade mesh version and uninstall mesh based on JCS for Kubernetes.\"}]},{\"funcName\":\"Mesh Component Management\",\"funcContent\":[{\"funcTitle\":\"Mesh Component Management\",\"funcP\":\"Users can set on and off of mesh configuration component.\"}]},{\"funcName\":\"Ingress Gateway\",\"funcContent\":[{\"funcTitle\":\"Ingress Gateway\",\"funcP\":\"Configure gateway information provided by service externally.\"}]},{\"funcName\":\"Virtual Service\",\"funcContent\":[{\"funcTitle\":\"Virtual Service\",\"funcP\":\"Configure internal/external distribution rules of service.\"}]}]",
+		"id":1776
+	},
+	{
+		"txt":"[{\"name\":\"Distribution Scenario\",\"instruction\":\"With traffic management capacity, Cloud Service Mesh can realize dynamic traffic deployment when the system is running.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/710e4abd-cbf8-4875-85fd-075061b9688b20191227180143.png\",\"showShade\":false},{\"name\":\"Cross-language Service Governance Scenario\",\"instruction\":\"Based on sidecar mode features of Cloud Service Mesh, cross-language service governance can be realized.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/52376b40-0836-44f6-925a-0535e1d16f5820191227180227.png\",\"showShade\":false},{\"name\":\"Observation Scenario\",\"instruction\":\"Cloud Service Mesh Agent will automatically collect service running data and forward them to backend support and monitoring system, so as to know system running status in real time.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/be67825f-749e-4c4d-9c04-0e7a311ac7e520191227181525.png\",\"showShade\":false}]",
+		"id":1777
+	}
+]

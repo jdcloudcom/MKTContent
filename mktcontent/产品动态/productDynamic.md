@@ -2644,5 +2644,47 @@
 		"name":"Code Audit Service  Official Release",
 		"description":"Check security defects and normative defects in source codes via the combined method of manual work and automatic tool, analyze security vulnerabilities incurred by these problems and provide code revision measures and suggestions.",
 		"id":2596
+	},
+	{
+		"introduce":"Video Quality Detection  Open Beta",
+		"name":"Video Quality Detection  Open Beta",
+		"description":"Based on powerful video processing capacity of JD Cloud, Video Quality Detection provides various video content detection functions such as black field detection, pure color detection, color cast detection and static frame detection. By extracting video features, defects in video can be rapidly and accurately positioned and standard detection report can be formed and outputted, improving audit efficiency.",
+		"id":2619
+	},
+	{
+		"introduce":"Add K8S deployment",
+		"name":"Add K8S deployment",
+		"description":"1. K8S resource pool \n2. Application deployment will be added to source pool and efforts will be added to support K8S application.",
+		"id":2620
+	},
+	{
+		"introduce":"SCA CLI (Serverless Cloud Application, SCA) command line tool",
+		"name":"Add SCA CLI command line tool",
+		"description":"It provides more convenient local management function to serverless application service of JD Cloud, including local function management, test, package, deployment, etc.",
+		"id":2621
+	},
+	{
+		"introduce":"Application Load Balancer supports open beta and release in cn-south-1 and cn-east-1 on the basis of domain and URL path forwarding function.",
+		"name":"It supports open beta in cn-south-1 and cn-east-1 on the basis of domain and URL path forwarding function.",
+		"description":"Application Load Balancer supports open beta and release in cn-south-1 and cn-east-1 on the basis of domain and URL path forwarding function.",
+		"id":2622
+	},
+	{
+		"introduce":"Ubuntu18.04 Public Image Release",
+		"name":"Ubuntu18.04 Public Image Release",
+		"description":"Ubuntu18.04 Public Image Release",
+		"id":2623
+	},
+	{
+		"introduce":"Kubernetes 1.14 Latest Version",
+		"name":"Kubernetes 1.14 Latest Version",
+		"description":"1. CSI storage plug-in is fully supported and third-party plug-in can also be installed and developed by users as needed. 2. IPVS is used as the scheme for forwarding default network data plane and is used to replace iptables traditional scheme so as to obtain upgraded performance and ductility. 3. Adaptive Cloud Controller Manager Module",
+		"id":2624
+	},
+	{
+		"introduce":"VR Player SDK  Open Beta",
+		"name":"VR Player SDK  Open Beta",
+		"description":"VR Player SDK is a software development kit launched by JD Cloud for application of mobile end VR playing, which covers the Android end the iOS end both and supports playing VR live streaming/VOD files, aiming to help developers quickly master VR playing capacity support.",
+		"id":2625
 	}
 ]

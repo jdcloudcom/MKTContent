@@ -604,6 +604,10 @@
 		"id":1349
 	},
 	{
+		"name":"Bastion Host",
+		"id":1350
+	},
+	{
 		"name":"Edge Network Tunnel",
 		"id":1351
 	},
@@ -612,8 +616,16 @@
 		"id":1352
 	},
 	{
+		"name":"Video Quality Detection",
+		"id":1353
+	},
+	{
 		"name":"Video E-commerce",
 		"id":1354
+	},
+	{
+		"name":"Artifact Repository",
+		"id":1355
 	},
 	{
 		"name":"JD Cloud Mesh",
@@ -640,6 +652,10 @@
 		"id":1369
 	},
 	{
+		"name":"Cloud Event",
+		"id":1370
+	},
+	{
 		"name":"Security Public Test Service",
 		"id":1373
 	},
@@ -662,5 +678,21 @@
 	{
 		"name":"VR VOD",
 		"id":1378
+	},
+	{
+		"name":"Notification Service",
+		"id":1388
+	},
+	{
+		"name":"Equal Edge Service",
+		"id":1391
+	},
+	{
+		"name":"API Center",
+		"id":1409
+	},
+	{
+		"name":"Cloud Service Mesh",
+		"id":1410
 	}
 ]

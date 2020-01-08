@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"VR VOD\",\"label\":[],\"desc\":\"Based on JD Cloud’s powerful video processing technology and content distribution network, JD Cloud VR VOD integrates functions such as distortion correction, H.265 coding and transcoding, full-view LOGO and video enhancement, aiming to provide customers with end-to-end solutions from VR video uploading, VR video processing to VR video playing.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"VR VOD\",\"label\":[{\"TitleName\":\"Instant Account Setup\",\"TitleUrl\":\"https://docs.jdcloud.com/en/vr-video-on-demand/service-provisioning\",\"classTag\":\"\"}],\"desc\":\"Based on JD Cloud’s powerful video processing technology and content distribution network, JD Cloud VR VOD integrates functions such as distortion correction, H.265 coding and transcoding, full-view LOGO and video enhancement, aiming to provide customers with end-to-end solutions from VR video uploading, VR video processing to VR video playing.\"}",
 		"id":1635
 	},
 	{

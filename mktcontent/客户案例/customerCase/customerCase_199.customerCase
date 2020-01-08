@@ -1,0 +1,9 @@
+As the leading integrated cloud computing service provider in China, JD Cloud has the global leading cloud computing technologies and complete service platform based on long-term business practice and technical deposits in cloud computing, big data, IoT and Mobile Internet of JD Group. It commits itself to setting up a socialized cloud service platform and providing secure, professional, stable and convenient cloud service to the society.<br />
+For demands and pain points of JD Cloud Onboarding as for Kemai’s retail and catering digital solutions, JD Cloud provides the following solutions:<br />
+1. IaaS Basic Resource<br />
+Make use of JD Cloud IaaS cloud service, such as Virtual Machines, Cloud Disk Service, OSS and VPC;<br />
+2. PaaS Platform Service<br />
+Make use of JD Cloud SQL Server, Mysql, VPC-WAF and the like;<br />
+3. SaaS <br />
+Based on underlayer IaaS and PaaS service of JD Cloud, Kemai Cloud SaaS software service is deployed. The terminal merchants can use the service just by accessing the network. For example, JD YunDing, Yushang, Convenience Pro, Food Court, Smart CRM, Websale, Smart Order, Smart Cashier and other software service are provided.<br />
+To guarantee cloud business security, Kemai Cloud uses JD Cloud Application Security Gateway (VPC-WAF) Service. VPC-WAF a Web application security protection product based on high-performance Load Balancer cluster of JD Cloud, which guarantees stable and sustainable running of Web or APP business of Kemai Cloud and improve users’ experience by providing WAF function, business security visualization, BOT behavior management, compliance check and other functions.

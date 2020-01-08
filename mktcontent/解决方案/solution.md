@@ -238,5 +238,9 @@
 	{
 		"name":"JD Cloud Insight - Research",
 		"id":175
+	},
+	{
+		"name":"JD Blockchain Medicine Tracing Platform",
+		"id":186
 	}
 ]

@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Artifact Repository\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/en/public/testApply/artifacts\",\"classTag\":\"\"}],\"desc\":\"Manage functions such as built artifacts after source code compilation, version control in coordination with source codes, provision of compilation dependency and product storage. Form a continuous delivery tool chain in combination with CodeBuild and CodeDeploy.\"}",
+		"id":1538
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Simple and Easy to Use\",\"proName\":\"The private repository is automatically initialized for users and is ready for use upon subscription, without complex configuration. Based on open-source technologies, it is completely compatible with tools of maven and gradle and conforms to users’ habits\"},{\"showShade\":false,\"proGood\":\"Secure and stable\",\"proName\":\"The backend adopts File Storage and Virtual Machines of JD Cloud to provide service of high reliability.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Seamless Connection\",\"proName\":\"The artifact repository is seamlessly integrated with JD Cloud CodeBuild.\"}]",
+		"id":1539
+	},
+	{
+		"txt":"[{\"funcName\":\"Public Repository Agent\",\"funcContent\":[{\"funcTitle\":\"Public Repository of Central Agent Repository\",\"funcP\":\"JD Cloud Artifact Repository provides the agent functions for maven public repositories, covering common repositories such as central, jcenter, gradle-plugin and google\"}]},{\"funcName\":\"Private Repository of User\",\"funcContent\":[{\"funcTitle\":\"Private Repository Management\",\"funcP\":\"Obtain private repository configuration, reset private repository password and manage private repository artifact\"}]}]",
+		"id":1540
+	},
+	{
+		"txt":"[{\"name\":\"Application Scenarios\",\"instruction\":\"The public agent repository provides the external repository agent function and increase download speed of dependency package. The private user repository provides users with the function of private artifact management and supports upload, download, deletion and search. Combination of artifact repository, CodeCommit and CodeBuild can form the automatic and continuous delivery tool chain.\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"Artifact Repository\",\"url\":\"//www.jdcloud.com/products/artifacts\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/29045530-539d-4331-90dc-3ded9e927dd720191210105155.png\",\"showShade\":false}]",
+		"id":1645
+	}
+]

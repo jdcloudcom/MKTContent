@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Data Transmission DTS\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/DTS\",\"classTag\":\"https://www.jdcloud.com/public/testApply/DTS\"}],\"desc\":\"Data transmission DTS is the database migration service provided by JD Cloud, supporting migration of databases such as MySQL, MariaDB, Percona, SQL Server and MongoDB and simply and quickly migrating local self-built database to JD Cloud.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Data Transmission DTS\",\"label\":[{\"TitleName\":\"Create Task\",\"TitleUrl\":\"https://dts-console.jdcloud.com/list\",\"classTag\":\"https://dts-console.jdcloud.com/list\"}],\"desc\":\"Data transmission DTS is the database migration service provided by JD Cloud, supporting migration of databases such as MySQL, MariaDB, Percona, SQL Server and MongoDB and simply and quickly migrating local self-built database to JD Cloud.\"}",
 		"id":1490
 	},
 	{

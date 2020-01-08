@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"JD Distributed Service Framework\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdsf\",\"classTag\":\"\"}],\"desc\":\"It is a JD Distributed Service Framework that provides functions of registration center, configuration management, call link analysis, etc. to facilitate users implementing Spring Cloud, Dubbo and other Microservice applications.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"JD Distributed Service Framework\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://jdsf-console.jdcloud.com/namespace\",\"classTag\":\"https://jdsf-console.jdcloud.com/namespace\"}],\"desc\":\"It is a PaaS Platform Product served for JD Distributed Service Applications, which can provide all-round functions of service deployment, service registration/discovery, service governance, call analysis, monitoring, etc. around the whole life cycle of the JD Distributed Service, facilitating implementation by users of JD Distributed Service Applications such as Spring Cloud, Dubbo, etc.\"}",
 		"id":707
 	},
 	{

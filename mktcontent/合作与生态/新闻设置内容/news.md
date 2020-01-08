@@ -1774,5 +1774,21 @@
 		"jss_key":"News_Content_744",
 		"id":744,
 		"news_title":"Themed with \"Cloud-focused Industry and Wining Future by Intelligence\", Opening Ceremony of JD Cloud (Chongqing) Digital Economy Industrial Park Held in Nan’an, Chongqing"
+	},
+	{
+		"summary":"JD Cloud will offer AI and other technical capabilities to help its partners focus better on the improvement in professional ability of education industry, and explore together with its partners to effectively address the challenges and difficulties of the education industry, making contributions to the education industry and increasing the education level through technical empowerment.",
+		"image_url":"//img1.jcloudcs.com/cms/fde3f1b3-304f-4176-b01f-eaa47f5f2dc520191226154108.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_745",
+		"jss_key":"News_Content_745",
+		"id":745,
+		"news_title":"Development of Education Technology in Great Demand  JD Cloud Helps Integration Between Technology and Education"
+	},
+	{
+		"summary":"Recently, JD Cloud entered into the cooperation with VMware, a global leader in virtualization software, and released the Hosted Private Cloud-V Solution. Relying on the hosted \"Family Meal\" (a Cloud Cabinet and Physical Computing product), JD Cloud provide customers with cabinet (core data center/edge node), server, network device, bandwidth, IP, direct connection and other physical resources, full range of originally authorized VMware software suite as well as high-quality DevOps Service of data center.",
+		"image_url":"//img1.jcloudcs.com/cms/0b75b2cb-1c75-4a50-b558-2443419f7ba620191230111946.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_753",
+		"jss_key":"News_Content_753",
+		"id":753,
+		"news_title":"JD Cloud Entered into Cooperation with VMware  Hosted Private Cloud Helps Enterprises Step into \"Cloud\""
 	}
 ]
