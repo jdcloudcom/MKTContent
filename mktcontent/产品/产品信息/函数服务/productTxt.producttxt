@@ -4,11 +4,11 @@
 		"id":716
 	},
 	{
-		"txt":"[{\"showShade\":false,\"proGood\":\"事件触发\",\"proName\":\"函数由事件触发，集成京东云OSS、API网关事件源服务，满足不同应用场景需求，快速构建应用与服务。\"},{\"showShade\":false,\"proGood\":\"无需运维\",\"proName\":\"只需关心业务代码，无需配置和管理服务器等基础设施，极大降低运维成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"弹性伸缩\",\"proName\":\"根据请求并发数实时自动调度资源运行函数，轻松应对业务高峰低谷。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"按需付费\",\"proName\":\"根据代码调用次数和运行时间计费，时长计量粒度低至百毫秒级别。\"}]",
+		"txt":"[{\"showShade\":false,\"proGood\":\"事件触发\",\"proName\":\"函数由事件触发，集成京东云对象存储、API网关、队列服务等事件源服务，满足不同应用场景需求，快速构建应用与服务。\"},{\"showShade\":false,\"proGood\":\"无需运维\",\"proName\":\"只需关心业务代码，无需配置和管理服务器等基础设施，极大降低运维成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"弹性伸缩\",\"proName\":\"根据请求并发数实时自动调度资源运行函数，轻松应对业务高峰低谷。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"按需付费\",\"proName\":\"根据代码调用次数和运行时间计费，时长计量粒度低至百毫秒级别。\"}]",
 		"id":717
 	},
 	{
-		"txt":"[{\"funcName\":\"事件触发\",\"funcContent\":[{\"funcTitle\":\"支持多种触发方式\",\"funcP\":\"通过关联事件源服务触发函数执行，通过API和SDK亦可直接调用函数。\"}]},{\"funcName\":\"函数管理\",\"funcContent\":[{\"funcTitle\":\"提供多种函数管理方式\",\"funcP\":\"通过控制台、open API、SDK和SCA CLI命令行工具可简单快速管理函数，完成函数测试及发布。\"}]},{\"funcName\":\"配置灵活\",\"funcContent\":[{\"funcTitle\":\"支持多种函数内存规格\",\"funcP\":\"提供128MB-1GB多种规格的函数运行内存选择，轻松匹配不同业务需求。\"}]},{\"funcName\":\"监控与日志\",\"funcContent\":[{\"funcTitle\":\"提供丰富函数指标监控及日志记录\",\"funcP\":\"监控函数运行状态和运行日志，方便用户查看函数执行情况。\"}]}]",
+		"txt":"[{\"funcName\":\"事件触发\",\"funcContent\":[{\"funcTitle\":\"支持多种触发方式\",\"funcP\":\"通过关联事件源服务触发函数执行，通过API、SDK亦可直接调用函数。\"}]},{\"funcName\":\"函数管理\",\"funcContent\":[{\"funcTitle\":\"提供多种函数管理方式\",\"funcP\":\"通过控制台、API、SDK和SCA CLI命令行工具可简单快速管理函数，完成函数测试及发布。\"}]},{\"funcName\":\"配置灵活\",\"funcContent\":[{\"funcTitle\":\"支持多种函数内存规格\",\"funcP\":\"提供128MB-1GB多种规格的函数运行内存选择，轻松匹配不同业务需求。\"}]},{\"funcName\":\"监控与日志\",\"funcContent\":[{\"funcTitle\":\"提供丰富函数指标监控及日志记录\",\"funcP\":\"监控函数运行状态和运行日志，方便用户查看函数执行情况。\"}]}]",
 		"id":718
 	},
 	{
