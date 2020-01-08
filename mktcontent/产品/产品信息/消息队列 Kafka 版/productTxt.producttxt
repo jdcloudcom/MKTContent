@@ -8,7 +8,7 @@
 		"id":1750
 	},
 	{
-		"txt":"[{\"funcName\":\"多样性\",\"funcContent\":[{\"funcTitle\":\"多种消息类型\",\"funcP\":\"支持事务性消息、顺序消息等多种消息类型。\"}]},{\"funcName\":\"即开即用\",\"funcContent\":[{\"funcTitle\":\"快速部署，易于管理\",\"funcP\":\"消息队列Kafka是一项全托管服务，完全兼容开源Apache Kafka，无需部署维护软硬件设施，用户分钟级即可成功创建出Kafka实例。\"}]}]",
+		"txt":"[{\"funcName\":\"兼容开源\",\"funcContent\":[{\"funcTitle\":\"100%兼容开源Apache Kafka\",\"funcP\":\"业务代码无需任何改造，即可无缝迁移上云。\"}]},{\"funcName\":\"即开即用\",\"funcContent\":[{\"funcTitle\":\"快速部署，易于管理\",\"funcP\":\"用户只需专注于业务开发，无需部署维护软硬件设施，分钟级即可成功创建出Kafka实例。\"}]},{\"funcName\":\"多样性\",\"funcContent\":[{\"funcTitle\":\"多种消息类型\",\"funcP\":\"支持事务性消息、顺序消息等多种消息类型。\"}]}]",
 		"id":1751
 	},
 	{
