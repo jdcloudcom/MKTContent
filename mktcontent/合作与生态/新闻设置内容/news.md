@@ -1809,7 +1809,7 @@
 	},
 	{
 		"summary":"在新一轮城市建设中，京东云不断发挥云计算、大数据等新技术优势，以“城市数字经济合伙人”的使命感，全面助力各地城市数字化、智能化的蝶变升级。着力构建“以云计算为支撑，以大数据为驱动，以场景化的智能应用为抓手”的城市生态，促进地方数字化升级，以形成城市发展新动能。",
-		"image_url":"//img1.jcloudcs.com/cms/bb7d3ee6-bc79-45f2-aa39-bf0e1893591020200108191405.jpg",
+		"image_url":"//img1.jcloudcs.com/cms/0d998d56-3557-4941-b2cf-6359293e468820200109192308.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_762",
 		"jss_key":"News_Content_762",
 		"id":762,
