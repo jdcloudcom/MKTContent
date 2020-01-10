@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"短网址\",\"label\":[],\"desc\":\"短网址服务是一种能将长链接缩短为定长短链的服务，主要使用在消息通知、推广、推送等对内容长度及样式较严格的场景\"}",
+		"id":1820
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"简便\",\"proName\":\"使用非常简单，SDK快速接入，无需额外开发\"},{\"showShade\":false,\"proGood\":\"解析迅速\",\"proName\":\"短网址解析长链准确、迅速，解析参数传递不丢失，满足各种请求需求\\n\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"生成快速\",\"proName\":\"单机满足万级TPS，碰撞率低，提供更快速的生成体验\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多种选择\",\"proName\":\"增值服务提供更短的短链生成，为文案提供更多空间，按需使用\"}]",
+		"id":1821
+	},
+	{
+		"txt":"[{\"funcName\":\"生成\",\"funcContent\":[{\"funcTitle\":\"生成短网址\",\"funcP\":\"支持默认域名及自定义域名的短网址生成\\n用户可使用自定义域名或默认域名，根据使用时间长短生成不同位数的短域，同时提供访问自动延长有效期功能。\"}]},{\"funcName\":\"解析\",\"funcContent\":[{\"funcTitle\":\"短网址解析\",\"funcP\":\"快速准确的短网址解析，自动跳转\\n短网址访问直达服务，快速返回长链跳转，用户访问无感知。\"}]}]",
+		"id":1822
+	},
+	{
+		"txt":"[{\"name\":\"短信推送内容生成\",\"instruction\":\"借助短网址系统，可以将较长的无规律长链转变为定长较短的短链，更适合对内容字数管控较严格的短信、消息等场景，可以在规定字数内为文字内容提供更为充裕的表达空间，节省短信推送成本。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"个性化投放\",\"instruction\":\"对于不同用户提供简便易记的链接地址，对比较长链接，短链接更易进行差异化，用户更容易接受，投放效果更好。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"设计规范化\",\"instruction\":\"通过统一化的短链接，生成更规范，格式更整齐，统计更清晰，便于管理，每个链接点击次数清晰明了，推广更便利。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1823
+	},
+	{
+		"txt":"[{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2545f4cf-f3d3-4b87-a9a2-fd988b37703620200110154643.jpg\",\"companyName\":\"京东零售-短信通知\",\"sketch\":\"商品的推广短信，内部的跳转链接，使用了短网址进行了内容拼装\",\"description\":\"针对不同的商品详情，不同的流程页，链接地址各不相同，同时包含了大量的参数，无法放入到短信通知中，通过短网址进行处理后，可在短信70字符控制内最大化的增加文本内容\"},{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/40d6b7ee-0f26-4a08-aac6-62705d9cec9520200110154652.jpg\",\"companyName\":\"京东金融一客一链推广\",\"sketch\":\"金融针对每个用户单独进行推广，使用不同的链接\",\"description\":\"较短的链接，更容易被用户所接受，较复杂的链接会将有用的信息埋藏起来，用户较反感，所以，使用短网址的方式，针对不同的用户生成不同的链接，快速分发，实时推送，效率提升\"},{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/69107e6a-a45c-4b6f-9992-0debcfcbc08d20200110154707.jpg\",\"companyName\":\"云服务通知\",\"sketch\":\"京东云各服务及容器的使用通知，在短信中使用了短网址服务生成的短链\",\"description\":\"京东云对各个服务的监控通知，在短信中使用短网址封装查看页面链接，发送给各个用户，及时通知用户服务详情，快速、高效、放心\"},{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f17f864b-fe40-4cac-bcd6-11e54ede802d20200110154722.jpg\",\"companyName\":\"京东S级大促\",\"sketch\":\"每年大促，是调用高峰，用户大量的订单处理及通知，会通过短连接的方式封装到通知消息中\",\"description\":\"短时间内大量调用，快速生成，延迟低，满足各种位数、有效期的短网址生成，保证业务的稳定、高效\"}]",
+		"id":1824
+	}
+]
