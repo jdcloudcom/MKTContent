@@ -358,5 +358,17 @@
 		"id":199,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution199",
 		"solution_jss_key":"Customer_Case_Solution199"
+	},
+	{
+		"project_overview":"易维云为Elite智能建站的伙伴，原本使用京东云公有云IaaS服务稳定的构建了智能建站系统，面向广大客户提供SaaS建站服务。在京东云文本短信服务上线后，开始使用发送客户通知、会员营销短信。",
+		"application_type":"其他建站类客户",
+		"introduce":"北京易维云数据科技有限公司（建站ABC）是一家专注为中小企业提供建站服务及数据运营的创新型企业，以SAAS平台为基点，为企业用户提供产品搭建、体系运营、简单实用的互联网建站工具，并配合我们的数据运营服务体系，帮助数百万企业用户有效地提升消费者体验与互联网营销核心竞争力。",
+		"image_url":"//img1.jcloudcs.com/cms/a5d2ab73-21a1-46bf-ad50-14cdf23b0d2e20200110173944.jpg",
+		"name":"北京易维云数据科技有限公司",
+		"channel_agent":"test",
+		"customer_income":"客户评价：京东云与AI的IaaS产品稳定、可靠、安全，可信、性能优异，防护周到，使用和扩展很方便，短信产品为我们的建站产品提供了附加增值服务。",
+		"id":200,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution200",
+		"solution_jss_key":"Customer_Case_Solution200"
 	}
 ]
