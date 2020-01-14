@@ -1797,7 +1797,7 @@
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_759",
 		"jss_key":"News_Content_759",
 		"id":759,
-		"news_title":"ttt新华网：京东变—互联网技术突破与裂变下的新“巨人”"
+		"news_title":"新华网：京东变—互联网技术突破与裂变下的新“巨人”"
 	},
 	{
 		"summary":"产业创新云”是基于京东自有的BASIC+XY(区块链、人工智能、安全、物联网、云计算+无人科技、智能供应链等)的技术能力、容器、开发测试流水线、微服务等云原生技术构建的产品，将通过为企业提供产品从设计、研发、推广到应用一站式支撑平台，推动智能产业发展、提升行业应用智能化水平，促进产业数字化转型升级。",
@@ -1814,5 +1814,21 @@
 		"jss_key":"News_Content_762",
 		"id":762,
 		"news_title":"新业态促进新发展 广西壮族自治区主要领导视察北海京东云数字经济展示中心"
+	},
+	{
+		"summary":"DNLB是一款基于京东云SDN技术的无状态四层负载均衡，提供软件定义的全可用区分布式负载均衡服务。相比于主要面向7层应用的ALB和具会话保持功能的NLB，DNLB不单独占用计算资源，天然具有转发性能无瓶颈、全可用区高可用、低时延、自动弹缩和长期免费的优点，满足客户三高一低（高性能、高可用、高弹性和低时延）服务场景需求。",
+		"image_url":"//img1.jcloudcs.com/cms/6250f17b-1bb3-4c91-80db-0e7f444d1f6b20200114094934.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_763",
+		"jss_key":"News_Content_763",
+		"id":763,
+		"news_title":"京东云与AI独创分布式网络负载均衡：智能网络枢纽“专家”"
+	},
+	{
+		"summary":"京东云与AI华东数据中心是京东云骨干网络节点核心数据中心之一，拥有30万台以上服务器运营能力，采用Uptime Tier3+标准以及TIA-924 T4标准设计并建造，能够提供全面的基础服务能力，成为全国IDC项目建设的样板。",
+		"image_url":"//img1.jcloudcs.com/cms/1b5010d7-ea33-4ce7-8438-7cb00b4ec51920200114184930.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_764",
+		"jss_key":"News_Content_764",
+		"id":764,
+		"news_title":"“享宿迁高铁之速，品京东机房之优” 走进华东数据中心"
 	}
 ]
