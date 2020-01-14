@@ -2830,5 +2830,23 @@
 		"name":"VR 点播  开放公测",
 		"description":"京东云VR点播基于京东云强大的视频处理技术和内容分发网络，融合畸变矫正、H.265编转码、全景LOGO、视频增强等功能于一体，旨在为客户提供从VR视频上传、VR视频处理到VR视频播放的端到端解决方案。",
 		"id":2649
+	},
+	{
+		"introduce":"云数据库 MySQL  支持 SSL 传输加密",
+		"name":"支持 SSL 传输加密",
+		"description":"提供了 SSL 传输加密功能，提高数据传输的安全性",
+		"id":2650
+	},
+	{
+		"introduce":"云数据库 Percona  支持 SSL 传输加密",
+		"name":"支持 SSL 传输加密",
+		"description":"提供了 SSL 传输加密功能，提高数据传输的安全性",
+		"id":2651
+	},
+	{
+		"introduce":"云数据库 MariaDB  支持 SSL 传输加密",
+		"name":"支持 SSL 传输加密",
+		"description":"提供了 SSL 传输加密功能，提高数据传输的安全性",
+		"id":2652
 	}
 ]
