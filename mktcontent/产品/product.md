@@ -652,8 +652,12 @@
 		"id":1369
 	},
 	{
-		"name":"Cloud Event",
+		"name":"Cloud Event Service",
 		"id":1370
+	},
+	{
+		"name":"Intelligent Edge Security",
+		"id":1372
 	},
 	{
 		"name":"Security Public Test Service",
@@ -688,11 +692,19 @@
 		"id":1391
 	},
 	{
+		"name":"Message Queue Kafka Version",
+		"id":1404
+	},
+	{
 		"name":"API Center",
 		"id":1409
 	},
 	{
 		"name":"Cloud Service Mesh",
 		"id":1410
+	},
+	{
+		"name":"Bare Metal Virtual Machines",
+		"id":1411
 	}
 ]

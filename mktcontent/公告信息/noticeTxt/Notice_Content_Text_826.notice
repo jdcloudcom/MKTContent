@@ -1,0 +1,8 @@
+<p></p>
+<p>&nbsp; &nbsp; &nbsp; In order to provide better products and service, the billing method for JD Cloud Application Load Balancer will be changed from Pay By Configuration to Pay By Consumption from January 7, 2020. At present, no matter which type of billing method is adopted, Application Load Balancer is temporarily free in all regions (cn-north-1, cn-south-1, cn-east-1 and cn-east-2). The follow-up Application Load Balancer will be formally charged with the method of Pay By Consumption. Your existing business operations and any other operation in all regions will not be affected by this operation. During this operation, please pay attention to the following two changes:</p>
+<p>1.<span style="white-space:pre">	</span>
+Billing method for Application Load Balancer created before the service is changed is still Pay By Configuration, while billing method for Application Load Balancer created after the service is changed will be Pay By Consumption</p>
+<p>2.<span style="white-space:pre">	</span>
+Before the follow-up Application Load Balancer is formally charged, all created Application Load Balancer billing methods shall be changed as Pay by Consumption</p>
+<p><br/></p>
+<p>If you have relevant questions during the operation, please contact JD Cloud Customer Service at any time (Tel: 4006151212). Thank you for your support to JD Cloud.</p>

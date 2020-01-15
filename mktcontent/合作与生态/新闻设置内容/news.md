@@ -1790,5 +1790,29 @@
 		"jss_key":"News_Content_753",
 		"id":753,
 		"news_title":"JD Cloud Entered into Cooperation with VMware  Hosted Private Cloud Helps Enterprises Step into \"Cloud\""
+	},
+	{
+		"summary":"JD has completed its full deployment of Cloud, AI, IoT and 5G, giving it a big technical lead over the same type of enterprises. Its success in the technology transformation drives the enterprise to complete the technology update and upgrade within the enterprise. The various achievements of JD in the field of technology in 2019 also confirm the great potential of JD's empowerment in technological innovation and opening up to the outside world.",
+		"image_url":"//img1.jcloudcs.com/cms/c62becaf-f46c-4791-b2fb-76d39e5046f020200103181024.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_759",
+		"jss_key":"News_Content_759",
+		"id":759,
+		"news_title":"Xinhuanet: JD has become a new \"giant\" under breakthrough and fission of Internet technology"
+	},
+	{
+		"summary":"Industry Innovation Cloud\" is a product built based on the technical competence of its own BASIC+XY (blockchain, AI, security, IoT, cloud computing + unmanned technology and intelligent supply chain, etc.), container, development test CodePipeline, JD Distributed Service and other cloud native technology, which will, through providing enterprises with one-stop support platform for products from design, research & development, promotion and application of, promote the development of intelligence industry, improve the level of industry application intelligence, and promote the digital transformation and upgrade of industry.",
+		"image_url":"//img1.jcloudcs.com/cms/350ab574-4dda-46f6-af16-0f8ec4b2cc5c20200107194548.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_761",
+		"jss_key":"News_Content_761",
+		"id":761,
+		"news_title":"JD Road Show | 2020 Ji’nan Pilot Area Intelligence Industry Forum successfully held in Beijing"
+	},
+	{
+		"summary":"In the new round of urban construction, JD Cloud constantly exerts the benefits of new technology such as cloud computing, big data and so on, comprehensively helping the digital and intelligent transformation and upgrade of various cities with the sense of mission of \"urban digital economic partners\". Focus on building the urban ecology \"supported by cloud computing, driven by bid data and adopting scenario-based intelligent applications\", to promote digital upgrade of different regions and to form new development motions of cities.",
+		"image_url":"//img1.jcloudcs.com/cms/bb7d3ee6-bc79-45f2-aa39-bf0e1893591020200108191405.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_762",
+		"jss_key":"News_Content_762",
+		"id":762,
+		"news_title":"New Models Promote New Development  Key Leaders of the Guangxi Zhuang Autonomous Region Visits Beihai JD Cloud Digital Economy Exhibition Center"
 	}
 ]

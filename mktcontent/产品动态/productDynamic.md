@@ -2678,7 +2678,7 @@
 	{
 		"introduce":"Kubernetes 1.14 Latest Version",
 		"name":"Kubernetes 1.14 Latest Version",
-		"description":"1. CSI storage plug-in is fully supported and third-party plug-in can also be installed and developed by users as needed. 2. IPVS is used as the scheme for forwarding default network data plane and is used to replace iptables traditional scheme so as to obtain upgraded performance and ductility. 3. Adaptive Cloud Controller Manager Module",
+		"description":"1. CSI storage plug-in is fully supported. \n2. IPVS is used as the scheme for forwarding default network data plane and is used to replace iptables traditional scheme so as to obtain upgraded performance and ductility. \n3. Adaptive Cloud Controller Manager Module, further improving scalability of Kubernetes",
 		"id":2624
 	},
 	{
@@ -2686,5 +2686,149 @@
 		"name":"VR Player SDK  Open Beta",
 		"description":"VR Player SDK is a software development kit launched by JD Cloud for application of mobile end VR playing, which covers the Android end the iOS end both and supports playing VR live streaming/VOD files, aiming to help developers quickly master VR playing capacity support.",
 		"id":2625
+	},
+	{
+		"introduce":"JCS for Greenplum  Official Release",
+		"name":"JCS for Greenplum  Official Release",
+		"description":"JCS for Greenplum is the online MPP large-scale parallel processing data warehouse service provided by JD Cloud based on the open source Greenplum, and users can set up and deploy new data warehouses within several minutes without complex large-scale MPP cluster operation and maintenance management.",
+		"id":2626
+	},
+	{
+		"introduce":"Data Transmission DTS  Official Release",
+		"name":"Data Transmission DTS  Official Release",
+		"description":"Data transmission DTS is the database migration service provided by JD Cloud, supporting migration of databases such as MySQL, MariaDB, Percona, SQL Server and MongoDB and simply and quickly migrating local self-built database to JD Cloud.",
+		"id":2627
+	},
+	{
+		"introduce":"Shard Cluster instance type family is provided",
+		"name":"Shard Cluster instance type family is provided",
+		"description":"-      Distributed Architecture can solve problems in performance and capacity bottleneck of copy set mode; \n-      Support flexible configuration of mongos and shard number and linear extension of reading and writing performance and bucket of database system; \n-      Three-node replica set architecture is adopted for shard and configserver, and supports deployment of multiple availability zones and improves service availability;",
+		"id":2628
+	},
+	{
+		"introduce":"Replica set supports version 4.0",
+		"name":"Replica set supports version 4.0",
+		"description":"Replica set supports version 4.0 and supports complete instance management functions including instance management, backup management, security management and cross-region data synchronization",
+		"id":2629
+	},
+	{
+		"introduce":"Support detection on domain and address of IPv6",
+		"name":"Support detection on domain and address of IPv6",
+		"description":"http(s) and ping protocol supports detection on domain and address of IPv6",
+		"id":2630
+	},
+	{
+		"introduce":"Support automatic backup, manual backup and creation of new instances based on the backup\t",
+		"name":"Support automatic backup, manual backup and creation of new instances based on the backup\t",
+		"description":"Support automatic backup, manual backup and creation of new instances based on the backup",
+		"id":2631
+	},
+	{
+		"introduce":"Cloud Disk Service Creation supports configuration of automatic renewal",
+		"name":"Cloud Disk Service Creation supports configuration of automatic renewal",
+		"description":"Virtual Machine Console Creation supports configuration of automatic renewal with renewal duration being the same as purchase duration",
+		"id":2632
+	},
+	{
+		"introduce":"Security Consulting Service  Official Release",
+		"name":"Security Consulting Service  Official Release",
+		"description":"Security Consulting Service is a service provided by JD Cloud in accordance with the national information security standards and industry regulatory norms to assist customers in different industries to identify information security risks, provide planning suggestions for processing targeted information security risks, and improve the security risk management and security assurance capabilities of customers’ information systems.",
+		"id":2633
+	},
+	{
+		"introduce":"Cloud Disk and System Disk Machine supports creation of private image in startup status",
+		"name":"Cloud Disk and System Disk Machine supports creation of private image in startup status",
+		"description":"Cloud Disk and System Disk Machine supports creation of private image in startup status",
+		"id":2634
+	},
+	{
+		"introduce":"Virtual Machines support crediting network interface",
+		"name":"Virtual Machines support crediting network interface",
+		"description":"Virtual Machines support crediting network interface",
+		"id":2635
+	},
+	{
+		"introduce":"Virtual Machine Console Creation supports configuration of automatic renewal with renewal duration being the same as purchase duration",
+		"name":"VM Instance Creation supports configuration of automatic renewal",
+		"description":"Virtual Machine Console Creation supports configuration of automatic renewal with renewal duration being the same as purchase duration",
+		"id":2636
+	},
+	{
+		"introduce":"Add support for service route \n Add support for alteration of IP forwarding address for VPC proxy pattern.",
+		"name":"Add support for service route, and add support for alteration of IP forwarding address for VPC proxy pattern.",
+		"description":"1. For service management, add routing service function \n2. VPC proxy pattern and add support for alteration of IP forwarding address",
+		"id":2637
+	},
+	{
+		"introduce":"Add PG product line access log service",
+		"name":"Add PG product line access log service",
+		"description":"Users can retrieve, dump and monitor PG logs on Log Service Console",
+		"id":2638
+	},
+	{
+		"introduce":"Crawler Protection capability is improved",
+		"name":"Add BOT behavior management",
+		"description":"Users can conveniently defend against BOT attacks known in the industry and can configure customized anti-crawling rules in accordance with their business situation",
+		"id":2639
+	},
+	{
+		"introduce":"Bastion Host  Open Beta",
+		"name":"Bastion Host  Open Beta",
+		"description":"The bastion host is an operation and maintenance product provided by JD Cloud, with capacities of permission control, security audit as well as automatic operation and maintenance",
+		"id":2640
+	},
+	{
+		"introduce":"Cloud Event  Open Beta",
+		"name":"Cloud Event  Open Beta",
+		"description":"Cloud Event is an event management and monitoring platform provided by JD Cloud. Via Cloud Event, users can view and subscribe events.",
+		"id":2641
+	},
+	{
+		"introduce":"Artifact Repository  Open Beta",
+		"name":"Artifact Repository  Open Beta",
+		"description":"Manage functions such as built artifacts after source code compilation, version control in coordination with source codes, provision of compilation dependency and product storage. Form a continuous delivery tool chain in combination with CodeBuild and CodeDeploy.",
+		"id":2642
+	},
+	{
+		"introduce":"Equal Edge Service  Open Beta",
+		"name":"Equal Edge Service  Open Beta",
+		"description":"JDCloud Equal Edge Service (JEES for short) is a distributed hash rate resource platform set up based on JD Cloud and user-side edge nodes. The edge services nearby shall be provided to help the user in CDN edge and effectively reducing computational delays and costs.",
+		"id":2643
+	},
+	{
+		"introduce":"Notification Service  Open Beta",
+		"name":"Notification Service  Open Beta",
+		"description":"JD Cloud Notification Service (JNS) is a message notification service releasing subscription mode based on serverless architecture, providing highly reliable, highly available, and dynamically extensible notification subjects.",
+		"id":2644
+	},
+	{
+		"introduce":"API Center  Open Beta",
+		"name":"API Center  Open Beta",
+		"description":"API Center is a concentrated exhibition entrance for JD Cloud products of API type. Users can subscribe API products, view API list, download SDK and document and make API debugging in API Center.",
+		"id":2645
+	},
+	{
+		"introduce":"Cloud Service Mesh  Open Beta",
+		"name":"Cloud Service Mesh  Open Beta",
+		"description":"Cloud Service Mesh of JD Cloud is a service governance tool realizing service governance platform. Without connection, you can view metric data such as application log, monitoring and call chain on the Console after one-click installation, greatly simplifying operation and maintenance work.",
+		"id":2646
+	},
+	{
+		"introduce":"JD Distributed Service Framework  Official Release",
+		"name":"JD Distributed Service Framework  Official Release",
+		"description":"It is a PaaS Platform Product served for JD Distributed Service Applications, which can provide all-round functions of service deployment, service registration/discovery, service governance, call analysis, monitoring, etc. around the whole life cycle of the JD Distributed Service, facilitating implementation by users of JD Distributed Service Applications such as Spring Cloud, Dubbo, etc.",
+		"id":2647
+	},
+	{
+		"introduce":"VR Live Streaming  Open Beta",
+		"name":"VR Live Streaming  Open Beta",
+		"description":"Relying on quality network infrastructures and powerful video processing technologies of JD Cloud platform, JD Cloud VR Live Streaming integrates functions of VR Live Streaming data collection, stitch, pushing streaming, VR processing and VR playing, aiming to provide customers with the one-stop service of VR Live Streaming with low delay, high availability and easy access.",
+		"id":2648
+	},
+	{
+		"introduce":"VR VOD  Open Beta",
+		"name":"VR VOD  Open Beta",
+		"description":"Based on JD Cloud’s powerful video processing technology and content distribution network, JD Cloud VR VOD integrates functions such as distortion correction, H.265 coding and transcoding, full-view LOGO and video enhancement, aiming to provide customers with end-to-end solutions from VR video uploading, VR video processing to VR video playing.",
+		"id":2649
 	}
 ]

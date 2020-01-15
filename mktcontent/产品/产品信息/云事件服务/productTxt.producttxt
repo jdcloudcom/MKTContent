@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Cloud Event Service\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/events\",\"classTag\":\"\"}],\"desc\":\"Cloud Event Service is an event management and monitoring platform provided by JD Cloud. Via Cloud Event Service, users can view and subscribe events.\"}",
+		"id":1600
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Rich Event Sources\",\"proName\":\"Event Subscription supports cloud product system events, customized reporting events and timing events, which serve as event source. Users can set different event sources according to different settings.\"},{\"showShade\":false,\"proGood\":\"Flexible Destination Setting\",\"proName\":\"Event Subscription supports subscription of an event source to multiple destinations, maximum 5 destinations. Event sources can be subscribed to Function Service, Email API and the like.\"}]",
+		"id":1601
+	},
+	{
+		"txt":"[{\"funcName\":\"Event Source Setting\",\"funcContent\":[{\"funcTitle\":\"Set event source\",\"funcP\":\"Select cloud product system events, customized reporting events and timing events as event sources. When the occurred events are matched with the set event sources, destinations will be called.\"}]},{\"funcName\":\"Destination Setting\",\"funcContent\":[{\"funcTitle\":\"Called destination while setting event match\",\"funcP\":\"Select Virtual Machines Reboot API, Email API and Function Service as destinations. According to different destination settings, Virtual Machines will be rebooted, emails will be sent and functions can be executed when events are matched.\"}]}]",
+		"id":1602
+	},
+	{
+		"txt":"[{\"name\":\"Reboot\",\"instruction\":\"Users can set according their own business demands that when a monitoring indicator of a Virtual Machine triggers the alarm, the Virtual Machine can be restarted.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c8493452-2cc7-4cf0-ae3c-5fc3f7626d6b20191213143747.png\",\"showShade\":false}]",
+		"id":1651
+	}
+]

@@ -698,5 +698,9 @@
 	{
 		"id":821,
 		"title":"2020 New Year’s Day Holiday Service Announcement"
+	},
+	{
+		"id":826,
+		"title":"\\[Service Change Notification\\] From January 7, Application Load Balancer billing method will be changed from Pay By Configuration to Pay By Consumption"
 	}
 ]

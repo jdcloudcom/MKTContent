@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Cloud Service Mesh\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://mesh-console.jdcloud.com/istio\",\"classTag\":\"\"}],\"desc\":\"Cloud Service Mesh of JD Cloud is a service governance tool realizing service governance platform. Without connection, you can view metric data such as application log, monitoring and call chain on the Console after one-click installation, greatly simplifying operation and maintenance work.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Cloud Service Mesh\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/mesh\",\"classTag\":\"\"}],\"desc\":\"Cloud Service Mesh of JD Cloud is a service governance tool realizing service governance platform. Without connection, you can view metric data such as application log, monitoring and call chain on the Console after one-click installation, greatly simplifying operation and maintenance work.\"}",
 		"id":1774
 	},
 	{
