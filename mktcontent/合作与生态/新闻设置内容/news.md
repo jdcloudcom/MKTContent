@@ -1830,5 +1830,21 @@
 		"jss_key":"News_Content_764",
 		"id":764,
 		"news_title":"“享宿迁高铁之速，品京东机房之优” 走进华东数据中心"
+	},
+	{
+		"summary":"京东云电子政务云平台作为IAAS云服务厂商，以“增强”级安全能力通过安全评估，京东的云计算技术在安全可控方面，再次获得国家认可。作为一家以供应链为基础的技术与服务公司，京东集团依托云+AI等前沿技术，未来将不断领衔推进国家层面的智能产业战略发展，助力各地政府加快数字化转型升级，“领跑”中国智能产业“新赛道”。",
+		"image_url":"//img1.jcloudcs.com/cms/42c8eb50-3380-4c16-bf5f-d3c92ca4a35f20200115100908.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_765",
+		"jss_key":"News_Content_765",
+		"id":765,
+		"news_title":"六朝古都的云与AI  以科技服务满足民生政务需求"
+	},
+	{
+		"summary":"京东云与AI下一代服务器在计算性能、内存带宽、系统架构等方面拥有显著优势。其硬件系统采用模块化设计，并针对供电、散热、管理、能耗等架构进行优化，以“高稳定、高灵活、高效率、低成本”的设计理念实现服务器全场景灵活部署，可满足企业对云服务器的不同应用场景的广泛需求，尤其在人工智能等高性能计算领域将发挥更大价值。",
+		"image_url":"//img1.jcloudcs.com/cms/707fe7bc-1d20-4122-898c-f5c710b77bbd20200115101607.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_766",
+		"jss_key":"News_Content_766",
+		"id":766,
+		"news_title":"京东云与AI下一代服务器量产将近  提供突破性的平台性能"
 	}
 ]
