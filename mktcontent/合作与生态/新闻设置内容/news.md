@@ -1846,5 +1846,13 @@
 		"jss_key":"News_Content_766",
 		"id":766,
 		"news_title":"京东云与AI下一代服务器量产将近  提供突破性的平台性能"
+	},
+	{
+		"summary":"京东云与AI成为人民日报新媒体选择的技术服务合作伙伴。随着京东“云+AI”持续赋能，人民日报新媒体不断完善自身的基因进化，向智慧媒体转型，而京东云与AI也迎来了快速增长的突破点，在To B市场攻坚战中迈向了新的阶段。",
+		"image_url":"//img1.jcloudcs.com/cms/7b30e5bf-922d-4a8b-901b-14ec291a2a8d20200116174311.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_772",
+		"jss_key":"News_Content_772",
+		"id":772,
+		"news_title":"京东与人民日报新媒体深入合作,“云+AI”驱动传媒业智能化升级"
 	}
 ]
