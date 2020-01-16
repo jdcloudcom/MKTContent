@@ -1146,5 +1146,12 @@
 		"id":1190,
 		"button_title":"查看详情",
 		"main_title":"裸金属云主机震撼登场"
+	},
+	{
+		"sub_title":"",
+		"name":"开年大促季",
+		"id":1192,
+		"button_title":"",
+		"main_title":""
 	}
 ]
