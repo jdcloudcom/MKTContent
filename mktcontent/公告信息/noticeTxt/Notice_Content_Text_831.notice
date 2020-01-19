@@ -1,0 +1,24 @@
+<p><span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">您好，</span>
+</p>
+<p><span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">为提升网络服务品质，京东云计划于2月20日进行华东-宿迁地域停售单线IP、升级BGP IP服务的操作。</span>
+<span style="font-family: 微软雅黑, sans-serif; font-size: 15px;">请您关注以下几方面变化：</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">1.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">升级结束后，通过控制台/SDK/CLI，将无法新购单线IP（非BGP IP）资源。已购并使用中的单线IP、BGP IP不受影响，可正常使用；但如果进行“删除”释放将无法找回。</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">2.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">升级结束后，通过控制台/SDK/CLI，新购买BGP IP将为京东云自有BGP IP服务。</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">请您注意：变更影响涉及的产品包括云主机、实例模板、原生容器、POD、负载均衡（应用型、网络型、分布式网络型）等。</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">感谢您的支持，希望我们的产品升级能够给您带来更稳定、更优质的性能体验。</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">如需帮助请及时与我们工单、电话联系，客服电话：400-615-1212。</span>
+</p>
+<p style="text-align:left"><strong><span style="font-size:15px;color:#2D2B2A">&nbsp;</span>
+</strong></p>
+<p><br/></p>
