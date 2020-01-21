@@ -1809,10 +1809,42 @@
 	},
 	{
 		"summary":"In the new round of urban construction, JD Cloud constantly exerts the benefits of new technology such as cloud computing, big data and so on, comprehensively helping the digital and intelligent transformation and upgrade of various cities with the sense of mission of \"urban digital economic partners\". Focus on building the urban ecology \"supported by cloud computing, driven by bid data and adopting scenario-based intelligent applications\", to promote digital upgrade of different regions and to form new development motions of cities.",
-		"image_url":"//img1.jcloudcs.com/cms/bb7d3ee6-bc79-45f2-aa39-bf0e1893591020200108191405.jpg",
+		"image_url":"//img1.jcloudcs.com/cms/0d998d56-3557-4941-b2cf-6359293e468820200109192308.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_762",
 		"jss_key":"News_Content_762",
 		"id":762,
 		"news_title":"New Models Promote New Development  Key Leaders of the Guangxi Zhuang Autonomous Region Visits Beihai JD Cloud Digital Economy Exhibition Center"
+	},
+	{
+		"summary":"DNLB is a stateless four-layer Load Balancer based on JD Cloud's SDN technology and provides software-defined distributed Load Balancer services to all AZs. Compared with ALB mainly facing to 7th layer application and NLB with session persistence function, DNLB does not independently occupy computing resource, with natural advantages of no forwarding performance bottleneck, high availability of all AZs, low latency, auto-scaling, as well as free in long term, which can satisfy the service scenario requirements of high performance, high availability, high scaling and low latency.",
+		"image_url":"//img1.jcloudcs.com/cms/6250f17b-1bb3-4c91-80db-0e7f444d1f6b20200114094934.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_763",
+		"jss_key":"News_Content_763",
+		"id":763,
+		"news_title":"JD Cloud and AI creative distributed network Load Balancer: Intelligent network hub \"specialist\""
+	},
+	{
+		"summary":"JD Cloud and AI East China Data Center is one of JD Cloud's core data centers of JD Cloud backbone network node, with ability for running more than 300,000 servers, adopting Uptime Tier3+ standard and TIA-924 T4 standard to design and build, capable of providing complete basic services, becoming the model of national IDC project construction.",
+		"image_url":"//img1.jcloudcs.com/cms/1b5010d7-ea33-4ce7-8438-7cb00b4ec51920200114184930.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_764",
+		"jss_key":"News_Content_764",
+		"id":764,
+		"news_title":"East China Data Center implements \"Enjoy the speed like Suqian High-speed Rail and experience the excellence of JD data center\""
+	},
+	{
+		"summary":"As an IAAS cloud service vendor, JD Cloud Electronic Government Cloud platform has passed security evaluation by its security ability at \"Enhanced\" level. The cloud computing technology of JD obtained national accreditation again in terms of controllable security. As a technical and service company based on supply chain, JD Group will rely on cutting-edge technologies such as cloud + AI to continue to lead intelligence industrial strategy development at national level, help local governments speed up their digital transformation and upgrade, lead \"new track\" of intelligence industry in the future.",
+		"image_url":"//img1.jcloudcs.com/cms/42c8eb50-3380-4c16-bf5f-d3c92ca4a35f20200115100908.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_765",
+		"jss_key":"News_Content_765",
+		"id":765,
+		"news_title":"Cloud and AI service in Nanjing City satisfies the requirements of people's livelihood and government affairs by science and technology services"
+	},
+	{
+		"summary":"Next generation server of JD Cloud and AI will have significant advantages in terms of computing performance, memory bandwidth, system architecture, etc. Its hardware system adopts modular design and optimizes for power supply, cooling, management and energy consumption and other architectures. It implements flexible deployment for full scenarios of server by its design philosophies of \"high stability, high flexibility, high efficiency, and low cost\" so as to meet the wide requirements of different application scenarios to cloud servers for the enterprises and play a greater role in the field of high performance computing such as Artificial Intelligence (AI).",
+		"image_url":"//img1.jcloudcs.com/cms/707fe7bc-1d20-4122-898c-f5c710b77bbd20200115101607.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_766",
+		"jss_key":"News_Content_766",
+		"id":766,
+		"news_title":"The next generation server of JD Cloud and AI, soon implementing mass production, will provide ground-breaking platform performance"
 	}
 ]

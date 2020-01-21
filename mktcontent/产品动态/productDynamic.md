@@ -2830,5 +2830,23 @@
 		"name":"VR VOD  Open Beta",
 		"description":"Based on JD Cloud’s powerful video processing technology and content distribution network, JD Cloud VR VOD integrates functions such as distortion correction, H.265 coding and transcoding, full-view LOGO and video enhancement, aiming to provide customers with end-to-end solutions from VR video uploading, VR video processing to VR video playing.",
 		"id":2649
+	},
+	{
+		"introduce":"JCS for MySQL supports SSL transmission encryption",
+		"name":"Support SSL transmission encryption",
+		"description":"Provide SSL transmission encryption function, so as to improve the security of data transmission",
+		"id":2650
+	},
+	{
+		"introduce":"JCS for Percona supports SSL transmission encryption",
+		"name":"Support SSL transmission encryption",
+		"description":"Provide SSL transmission encryption function, so as to improve the security of data transmission",
+		"id":2651
+	},
+	{
+		"introduce":"JCS for MariaDB supports SSL transmission encryption",
+		"name":"Support SSL transmission encryption",
+		"description":"Provide SSL transmission encryption function, so as to improve the security of data transmission",
+		"id":2652
 	}
 ]

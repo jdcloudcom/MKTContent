@@ -702,5 +702,13 @@
 	{
 		"id":826,
 		"title":"\\[Service Change Notification\\] From January 7, Application Load Balancer billing method will be changed from Pay By Configuration to Pay By Consumption"
+	},
+	{
+		"id":827,
+		"title":"2020 JD Cloud Spring Festival Holiday Service Announcement"
+	},
+	{
+		"id":828,
+		"title":"\\[Vulnerability Warning\\] Notification on weblogic High Risk Vulnerabilities"
 	}
 ]

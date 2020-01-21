@@ -358,5 +358,17 @@
 		"id":199,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution199",
 		"solution_jss_key":"Customer_Case_Solution199"
+	},
+	{
+		"project_overview":"Ewide Cloud is the partner of Elite intelligent website building that originally uses public cloud IaaS service of JD Cloud to build a stable intelligent website building system providing SaaS website building service for the majority of customers. After Text Message Service of JD Cloud has been put into service, it begins to send customer notifications and member marketing short messages.",
+		"application_type":"Other Customers of Website Building",
+		"introduce":"Beijing Ewide Cloud Data Technology Co., Ltd. (website building ABC) is an innovative enterprise focusing on providing website building service and data operation for middle and small-sized enterprises. It is based on SAAS platform to provide enterprise users with simple and practical Internet website building tools for product building and system operation. Combined with our data operation service system, it helps millions of enterprise users efficiently improve their consumer experience and core competitiveness of Internet marketing.",
+		"image_url":"//img1.jcloudcs.com/cms/a5d2ab73-21a1-46bf-ad50-14cdf23b0d2e20200110173944.jpg",
+		"name":"Beijing Ewide Cloud Data Technology Co., Ltd.",
+		"channel_agent":"test",
+		"customer_income":"Customers' comments: JD Cloud and AI's IaaS products are stable, reliable, secure and credible, with excellent performance, considerate protection, convenient use and extension. The short message product provides additional value-added service for our website building product.",
+		"id":200,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution200",
+		"solution_jss_key":"Customer_Case_Solution200"
 	}
 ]

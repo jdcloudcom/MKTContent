@@ -1,0 +1,33 @@
+<p>Recently, JD Cloud Security Team has monitored a security update notification disclosing multiple security vulnerabilities existing in WebLogic officially released by Oracle, out of which two severe security vulnerabilities (CVE-2020-2551 and CVE-2020-2546) can perform Remote Code Execution Attack by using of vulnerabilities. Please promptly update and fix the problem to avoid hack of external attackers.</p>
+<p><br/></p>
+<p>[Vulnerability Description]</p>
+<p>WebLogic is an application server produced by Oracle Corporation. Properly speaking, it is a middleware based on JAVAEE architecture. WebLogic is the Java application server used to develop, integrate, deploy and manage large distributed Web application, network application and database application.</p>
+<p><br/></p>
+<p>CVE-2020-2551</p>
+<p>Attackers without authorization can remotely access the remote interface on a WebLogic server through IIOP protocol and upload malicious data to obtain the permissions of the server and execute any codes without authorization.</p>
+<p><br/></p>
+<p>CVE-2020-2546</p>
+<p>Attackers without authorization can construct and send malicious T3 protocol requests that bypass the deserialized blacklist of WebLogic to control the WebLogic server.</p>
+<p><br/></p>
+<p>[Vulnerability Rating]</p>
+<p>CVE-2020-2551: Severe</p>
+<p>CVE-2020-2546: Severe</p>
+<p><br/></p>
+<p>[Affected Version]</p>
+<p>WebLogic 10.3.6.0.0</p>
+<p>WebLogic 12.1.3.0.0</p>
+<p>WebLogic 12.2.1.3.0</p>
+<p>WebLogic 12.2.1.4.0</p>
+<p><br/></p>
+<p>[Fix Recommendation]</p>
+<p>1. At present, Oracle official has released the patch updates, JD Cloud Security Team suggests you promptly to apply related patch updates</p>
+<p>2. In case users temporarily cannot install the latest patches, they can temporarily protect the vulnerabilities through the following measures:</p>
+<p>CVE-2020-2546</p>
+<p>Temporarily alleviate the vulnerabilities by disabling T3 protocol</p>
+<p>CVE-2020-2551</p>
+<p>Temporarily alleviate the vulnerabilities by disabling IIOP protocol</p>
+<p><br/></p>
+<p>Remark: You are suggested to back up your data before installing patches to avoid accidents</p>
+<p>[Relevant Links]</p>
+<p>https://www.oracle.com/security-alerts/cpujan2020.html</p>
+<p><br/></p>
