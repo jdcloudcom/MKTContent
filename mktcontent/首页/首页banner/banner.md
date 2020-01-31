@@ -1160,5 +1160,12 @@
 		"id":1194,
 		"button_title":"免费使用",
 		"main_title":"众志成城 抗击疫情"
+	},
+	{
+		"sub_title":"",
+		"name":"MEE 抗击疫情活动",
+		"id":1196,
+		"button_title":"",
+		"main_title":""
 	}
 ]
