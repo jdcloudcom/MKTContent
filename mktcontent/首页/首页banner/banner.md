@@ -1167,5 +1167,12 @@
 		"id":1196,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"mee 抗击疫情修改图",
+		"id":1198,
+		"button_title":"",
+		"main_title":""
 	}
 ]
