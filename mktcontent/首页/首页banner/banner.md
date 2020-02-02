@@ -1155,11 +1155,11 @@
 		"main_title":""
 	},
 	{
-		"sub_title":"即日起 京东云与AI为用户免费提供视频会议服务",
-		"name":"众志成城 抗击疫情",
+		"sub_title":"抗击疫情，京东云与AI免费提供服务，2000用户数、不限时长",
+		"name":"云视频会议，助力远程办公",
 		"id":1194,
 		"button_title":"免费使用",
-		"main_title":"众志成城 抗击疫情"
+		"main_title":"云视频会议，助力远程办公"
 	},
 	{
 		"sub_title":"",
@@ -1172,6 +1172,13 @@
 		"sub_title":"",
 		"name":"mee 抗击疫情修改图",
 		"id":1198,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"抗击疫情聚合页banner",
+		"id":1200,
 		"button_title":"",
 		"main_title":""
 	}
