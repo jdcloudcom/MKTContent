@@ -20,8 +20,8 @@
 		"label":"赔"
 	},
 	{
-		"name":"京东云 大有可为",
-		"description":"案例故事精彩呈现",
+		"name":"最新活动",
+		"description":"优惠尽享于此",
 		"id":5
 	},
 	{
