@@ -3317,8 +3317,8 @@
 		"id":5497
 	},
 	{
-		"name":"智能城市AI",
-		"description":"智能城市AI",
+		"name":"智能城市 AI",
+		"description":"智能城市 AI",
 		"id":5499
 	},
 	{
@@ -3490,5 +3490,30 @@
 		"name":"抗击疫情",
 		"description":"抗击疫情",
 		"id":5567
+	},
+	{
+		"name":"行业专有云",
+		"description":"行业专有云",
+		"id":5569
+	},
+	{
+		"name":"政务专有云",
+		"description":"政务专有云",
+		"id":5571
+	},
+	{
+		"name":"渲染专有云",
+		"description":"渲染专有云",
+		"id":5573
+	},
+	{
+		"name":"金融专区",
+		"description":"金融专区",
+		"id":5575
+	},
+	{
+		"name":"零售专区",
+		"description":"零售专区",
+		"id":5577
 	}
 ]
