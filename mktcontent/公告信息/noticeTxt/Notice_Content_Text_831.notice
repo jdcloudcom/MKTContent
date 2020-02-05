@@ -1,0 +1,24 @@
+<p><span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black"></span>
+</p>
+<p><span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">In order to improve the network service quality, JD Cloud plans to stop the sales of single-line IP and upgrade the BGP IP service in cn-east-1 on February 20.</span>
+<span style="font-family: 微软雅黑, sans-serif; font-size: 15px;">Please pay attention to the following changes:</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">1.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">At the end of the upgrade, you will not be able to purchase new single-line IP (not BGP IP) resources through the Console/SDK/CLI. The purchased single-line IP and BGP IP in use will not be affected, but they cannot be recovered if released by "deletion".</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">2.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">After the upgrade, the newly purchased BGP IP will serve JD Cloud's self-owned BGP IP service through the Console/SDK/CLI.</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">Please note: Products affected by such changes include Virtual Machines, Instance Template, Native Container, POD, Load Balancer (application type, network type, distributed network type), etc.</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">Thank you for your support. We hope our product upgrades will bring you more stable and higher quality performance experience.</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">If you need help, please timely contact us by ticket or telephone (customer service hotline: 400-615-1212).</span>
+</p>
+<p style="text-align:left"><strong><span style="font-size:15px;color:#2D2B2A">&nbsp;</span>
+</strong></p>
+<p><br/></p>

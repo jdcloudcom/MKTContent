@@ -1846,5 +1846,13 @@
 		"jss_key":"News_Content_766",
 		"id":766,
 		"news_title":"The next generation server of JD Cloud and AI, soon implementing mass production, will provide ground-breaking platform performance"
+	},
+	{
+		"summary":"JD Cloud and AI have been selected as technical service partners of the New Media Center of People’s Daily. With continuous empowerment of JD \"Cloud + AI\", the New Media Center of People’s Daily, has been continuously improving its own genic evolution and transforming toward intelligent media. JD Cloud and AI also have broken through their own rapid growth, stepping into a new stage in the tough fight for the To B market.",
+		"image_url":"//img1.jcloudcs.com/cms/7b30e5bf-922d-4a8b-901b-14ec291a2a8d20200116174311.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_772",
+		"jss_key":"News_Content_772",
+		"id":772,
+		"news_title":"JD and the New Media Center of People’s Daily have conducted deep cooperation, \"Cloud + AI\" drive intelligent upgrade of traditional media"
 	}
 ]

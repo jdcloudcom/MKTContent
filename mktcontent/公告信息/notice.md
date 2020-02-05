@@ -710,5 +710,9 @@
 	{
 		"id":828,
 		"title":"\\[Vulnerability Warning\\] Notification on weblogic High Risk Vulnerabilities"
+	},
+	{
+		"id":831,
+		"title":"\\[Notice on Stopping Sales of Single-line IP and Upgrading BGP IP Service in cn-east-1\\]"
 	}
 ]
