@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"目录服务\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"//www.jdcloud.com/cn/public/testApply/DirectoryService\",\"classTag\":\"\"}],\"desc\":\"京东云目录服务是一种在云上托管的Microsoft Active Directory，它支持企业单独使用或者将现有目录拓展到京东云中，都可使企业用户通过京东云目录服务访问京东云上的资源和应用。\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1137\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1137\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"目录服务\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//ad-console.jdcloud.com/directory/createDirectory?dataCenter=cn-north-1\",\"classTag\":\"\"}],\"desc\":\"京东云目录服务是一种在云上托管的Microsoft Active Directory，它支持企业单独使用或者将现有目录拓展到京东云中，都可使企业用户通过京东云目录服务访问京东云上的资源和应用。\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1137\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1137\"}",
 		"id":319
 	},
 	{
