@@ -1,0 +1,38 @@
+[
+	{
+		"txt":"{\"operator\":\"fanlong.meng\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"大数据OLAP分析\",\"description\":\"高可扩展、实时、分析型数据仓库\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/df3059cd-47a8-4846-ac08-9e52994bf38420200107105703.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[],\"tagMetas\":[]}]}",
+		"templet":"11",
+		"id":902,
+		"solution_id":"188"
+	},
+	{
+		"txt":"{\"operator\":\"fanlong.meng\",\"floorName\":\"典型场景\",\"name\":\"scene\",\"data\":[{\"title\":\"时序数据分析和统计\",\"sceneDescription\":\"实时对网站的网络流量，网页点击流进行数据统计分析，或对访问用户行为的日志信息进行统计分析，从中发现用户访问网站的规律，了解用户的行为习惯\\n\",\"solution\":\"\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/df430a39-81a1-4c61-8e91-e1b33ac52abf20200107110032.png\",\"showShade\":false},{\"title\":\"实时交易统计\",\"sceneDescription\":\"实时对订单、帐单、库存等海量数据进行分析，根据设置的分析模型和计算关系实时统计出订单总金额，库存量或者其他分类汇总，可以实时更新交易的退款，广告点击中的无效，库存数量\\n\",\"solution\":\"\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9d2904a4-cb88-4a6a-bb7a-2dda59a41fbc20200107110040.png\",\"showShade\":false},{\"title\":\"多维分析\",\"sceneDescription\":\"使用数据湖中已有的模型，或者基于已有模型创建出新的模型，基于这些用户可以进行BI多维分析\\n\",\"solution\":\"\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ed76fdd6-4afe-4c19-9e80-55925d4c5ac620200107105900.png\",\"showShade\":false}]}",
+		"templet":"41",
+		"id":903,
+		"solution_id":"188"
+	},
+	{
+		"txt":"{\"operator\":\"fanlong.meng\",\"floorName\":\"解决方案\",\"name\":\"advantage\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e3fd58f3-ae96-4ef1-ba78-e7d2869a0c1620200107110804.png\",\"title\":\"大规模并行处理\",\"description\":\"大规模并行处理 (MPP) 支持对大量数据快速地执行查询。多个计算节点同时处理查询以获得最终结果，查询任务分解为执行任务后在每个节点的计算资源上对整体数据的各个部分进行分段查询\\n\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/4a1b8ad7-6a0b-4245-bd29-8d2ca366a35520200107111743.png\",\"title\":\"多级缓存\",\"description\":\"用户可以根据自身需要设置查询结果缓存，用户可以随意设置缓存时间和缓存大小，应对用户大量并发请求。程序后端对根据数据访问，缓存最近使用数据以提高数据利用率和查询效率\\n\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/bf8400e7-7dae-4be4-923b-da5e7c8f125420200107110642.png\",\"title\":\"查询优化程序\",\"description\":\"用户的应用及工具使用标准的SQL连接JD OLAP，这意味着开发人员无需为数据分析学习新的技能，用户也能使用市场上支持SQL的报表分析工具进行数据的分析\\n\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3dee5d8a-7d15-4247-a90b-c96233db2c1020200107111856.png\",\"title\":\"数据自动平衡\",\"description\":\"根据副本数在集群内部自动分布数据，节点故障时从其他副本恢复数据；有新节点加入，集群自动管理新节点，数据自动进行均衡\\n\"}]}",
+		"templet":"51",
+		"id":904,
+		"solution_id":"188"
+	},
+	{
+		"txt":"{\"operator\":\"fanlong.meng\",\"floorName\":\"流程\",\"name\":\"process\",\"data\":[{\"progress\":[{\"name\":\"需求洽谈\"},{\"name\":\"方案制定\"},{\"name\":\"项目实施\"},{\"name\":\"结果交付\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"templet":"61",
+		"id":905,
+		"solution_id":"188"
+	},
+	{
+		"txt":"{\"operator\":\"fanlong.meng\",\"floorName\":\"方案优势\",\"name\":\"recommend\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/5cb4eb5a-5074-418b-858c-6cfd48341ed520200107105823.png\",\"title\":\"列式存储\",\"description\":\"只需要加载用到的列的数据，磁盘的IO及内存的消耗都显著减少，增加了性能\\n\",\"explain\":\"\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e3c84224-bd6a-48b3-8a63-273183bfb53b20200107105829.png\",\"title\":\"数据压缩\",\"description\":\"支持按列数据压缩，数据压缩减少了磁盘占用空间、减少了读写I/O、减少了内存占用空间\\n\",\"explain\":\"\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/8307a3ec-0cdb-483e-a36e-82b710ae0ec020200107105834.png\",\"title\":\"分区映射\",\"description\":\"设置分区方式，略过不包含数据的block\",\"explain\":\"\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"templet":"71",
+		"id":906,
+		"solution_id":"188"
+	},
+	{
+		"txt":"{\"operator\":\"fanlong.meng\",\"floorName\":\"解决问题\",\"name\":\"newTab-1\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c469a36c-cfb1-4dd9-a4bd-15897c04edfe20200107110008.png\",\"name\":\"实时分析\",\"sketch\":\"优势\",\"detailDescription\":\" 很多实时数据存在JDQ里面 用户对这些数据分析需要下载到本地再处理\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/33a92b2c-8e73-41cf-8eb7-20594e7398cd20200107110002.png\",\"name\":\"海量数据分析\",\"sketch\":\"优势\\n\",\"detailDescription\":\" 随着数量的增长分析性能下降 QPS的增长分析性能下降 分页增加性能下降\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/edf57e93-8ab4-43b1-b498-f542ea083ff920200107105956.png\",\"name\":\"开箱即用\",\"sketch\":\"优势\",\"detailDescription\":\" 搭建集群，对集群进行维护，对数据的转换和数据的加载都大大增加使用成本和难度\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a9faf12b-9dd2-43cf-82e2-c1673e934bc620200107105948.png\",\"name\":\"熟悉的方式找到数据\",\"sketch\":\"优势\\n\",\"detailDescription\":\" 用户熟悉使用SQL语句。不能直接使用 现有很多现成的查询语句，需要做大改动 无法使用熟悉的方式分析\"}]}",
+		"templet":"81",
+		"id":907,
+		"solution_id":"188"
+	}
+]
