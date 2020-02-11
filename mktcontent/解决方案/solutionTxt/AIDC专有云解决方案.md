@@ -1,30 +1,30 @@
 [
 	{
-		"txt":"{\"operator\":\"zhangcheng161\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"AIDC专有云解决方案\",\"description\":\"采用京东公有云架构，在京东云IDC内为企业构建专属私有云，并提供专业运维服务。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/8a8ded2b-fd55-4160-a173-7931a635582220190627190611.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[],\"tagMetas\":[]}]}",
+		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"AIDC专有云解决方案\",\"description\":\"采用京东公有云架构，在京东云IDC内为企业构建专属私有云，并提供专业运维服务。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/8a8ded2b-fd55-4160-a173-7931a635582220190627190611.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[],\"tagMetas\":[]}]}",
 		"templet":"11",
 		"id":664,
 		"solution_id":"139"
 	},
 	{
-		"txt":"{\"operator\":\"zhangcheng161\",\"floorName\":\"方案特点\",\"name\":\"description-1\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/69dca116-c652-4bf6-83a0-60c5ab9fbf5120190627190736.png\",\"title\":\"专属物理空间\",\"description\":\"空间独享，物理隔离，用户自定义现场安全方案\",\"subDescriptions\":[{\"descriptionText\":\"机房内划分独立的区域\"},{\"descriptionText\":\"独立机柜空间\"},{\"descriptionText\":\"独立冷热通道封闭\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2b7806bc-91a8-418d-80ad-a0a1be51f81320190627190822.png\",\"title\":\"专属网络架构\",\"description\":\"网络按需定制\",\"subDescriptions\":[{\"descriptionText\":\"丰富的专线资源\\t\"},{\"descriptionText\":\"根据客户需求定制网络架构(二层、三层、VxLAN等)\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/adbbae5d-f70f-43df-9a11-c6284ad7418920190627190902.png\",\"title\":\"专属供电\",\"description\":\"稳定的电力资源\",\"subDescriptions\":[{\"descriptionText\":\"独立配电列头柜 \"},{\"descriptionText\":\"独立电力监控\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3e41a2fa-59ab-4515-8a30-28cd80dfc60320190627190924.png\",\"title\":\"专业资深运维服务\",\"description\":\"7*24小时专业运维服务\",\"subDescriptions\":[{\"descriptionText\":\"专职运维团队\"},{\"descriptionText\":\"定制化运维\"}]}]}",
+		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案特点\",\"name\":\"description-1\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/69dca116-c652-4bf6-83a0-60c5ab9fbf5120190627190736.png\",\"title\":\"专属物理空间\",\"description\":\"空间独享，物理隔离，用户自定义现场安全方案\",\"subDescriptions\":[{\"descriptionText\":\"机房内划分独立的区域\"},{\"descriptionText\":\"独立机柜空间\"},{\"descriptionText\":\"独立冷热通道封闭\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2b7806bc-91a8-418d-80ad-a0a1be51f81320190627190822.png\",\"title\":\"专属网络架构\",\"description\":\"网络按需定制\",\"subDescriptions\":[{\"descriptionText\":\"丰富的专线资源\t\"},{\"descriptionText\":\"根据客户需求定制网络架构(二层、三层、VxLAN等)\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/adbbae5d-f70f-43df-9a11-c6284ad7418920190627190902.png\",\"title\":\"专属供电\",\"description\":\"稳定的电力资源\",\"subDescriptions\":[{\"descriptionText\":\"独立配电列头柜 \"},{\"descriptionText\":\"独立电力监控\"}]},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3e41a2fa-59ab-4515-8a30-28cd80dfc60320190627190924.png\",\"title\":\"专业资深运维服务\",\"description\":\"7*24小时专业运维服务\",\"subDescriptions\":[{\"descriptionText\":\"专职运维团队\"},{\"descriptionText\":\"定制化运维\"}]}]}",
 		"templet":"21",
 		"id":665,
 		"solution_id":"139"
 	},
 	{
-		"txt":"{\"operator\":\"zhangcheng161\",\"floorName\":\"方案架构\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9d370ccc-b92e-460d-a40b-f8f7276e183c20190627190944.png\",\"title\":\"AIDC专有云解决方案\",\"descriptionDetail\":\"依托京东丰富的基础设施及网络接入资源，为客户提供完备的分布式专有云解决方案，并可同京东公有云组成混合云解决方案。\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案架构\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7af496af-2d93-4a21-b192-7ba2a0fd8ebc20200211165810.png\",\"title\":\"AIDC专有云解决方案\",\"descriptionDetail\":\"依托京东丰富的基础设施及网络接入资源，为客户提供完备的分布式专有云解决方案，并可同京东公有云组成混合云解决方案。\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
 		"templet":"31",
 		"id":666,
 		"solution_id":"139"
 	},
 	{
-		"txt":"{\"operator\":\"zhangcheng161\",\"floorName\":\"方案优势\",\"name\":\"advantage\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/51b0bb59-7949-49c3-b627-3d99e2ac7b2f20190627191136.png\",\"title\":\"京东云IDC资源丰富\",\"description\":\"京东云在核心区域有充足的IDC资源，可满足用户高标准、高密度需求；\\n京东云有大量低成本IDC资源，依托京东自建骨干网优势，客户可将私有云托管在低成本区域，仍获得满意的网络体验，降低客户成本投入。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/87d75cd8-e6c5-4652-bc88-d3ebdd8b4ff120190627191209.png\",\"title\":\"无缝对接京东公有云\",\"description\":\"AIDC专有云与公有云同架构，无缝对接\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1794c7d8-0e74-44c7-b379-d29a368db70220190627191218.png\",\"title\":\"领先的AI技术\",\"description\":\"AI能效管理系统；\\nAI智能运维机器人。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e33428ca-6cfc-4d95-aca1-ac9869474e5720190701104138.png\",\"title\":\"专线接入\",\"description\":\"提供稳定、安全、快速的网络专线接入服务。\"}]}",
+		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案优势\",\"name\":\"advantage\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/51b0bb59-7949-49c3-b627-3d99e2ac7b2f20190627191136.png\",\"title\":\"京东云IDC资源丰富\",\"description\":\"京东云在核心区域有充足的IDC资源，可满足用户高标准、高密度需求；\n京东云有大量低成本IDC资源，依托京东自建骨干网优势，客户可将私有云托管在低成本区域，仍获得满意的网络体验，降低客户成本投入。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/87d75cd8-e6c5-4652-bc88-d3ebdd8b4ff120190627191209.png\",\"title\":\"无缝对接京东公有云\",\"description\":\"AIDC专有云与公有云同架构，无缝对接\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1794c7d8-0e74-44c7-b379-d29a368db70220190627191218.png\",\"title\":\"领先的AI技术\",\"description\":\"AI能效管理系统；\nAI智能运维机器人。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e33428ca-6cfc-4d95-aca1-ac9869474e5720190701104138.png\",\"title\":\"专线接入\",\"description\":\"提供稳定、安全、快速的网络专线接入服务。\"}]}",
 		"templet":"51",
 		"id":667,
 		"solution_id":"139"
 	},
 	{
-		"txt":"{\"operator\":\"zhangcheng161\",\"floorName\":\"方案产品构成\",\"name\":\"architecture-2\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/89daa1e5-e165-4ea0-91fc-0ad826333b5420190627191044.png\"}]}",
+		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案产品构成\",\"name\":\"architecture-2\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/89daa1e5-e165-4ea0-91fc-0ad826333b5420190627191044.png\"}]}",
 		"templet":"32",
 		"id":668,
 		"solution_id":"139"
