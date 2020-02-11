@@ -12,7 +12,7 @@
 		"id":713
 	},
 	{
-		"txt":"[{\"name\":\"移动解析\",\"instruction\":\"HTTPDNS是通过将移动APP及桌面应用的默认域名解析方式，替换为通过\\bHTTP协议进行域名解析，以规避由运营商Local DNS服务异常所导致的用户网络接入异常。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/82da57bc-f612-479d-8e3f-519d3ced3f8e20181211165105.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"移动解析\",\"instruction\":\"HTTPDNS是通过将移动APP及桌面应用的默认域名解析方式，替换为通过\\bHTTP协议进行域名解析，以规避由运营商Local DNS服务异常所导致的用户网络接入异常。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/da0482a2-fb21-41a5-93a2-40c64a9e39c920200211160108.jpg\",\"showShade\":false}]",
 		"id":714
 	}
 ]
