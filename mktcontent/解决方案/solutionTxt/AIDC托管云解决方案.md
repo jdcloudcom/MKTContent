@@ -12,13 +12,13 @@
 		"solution_id":"137"
 	},
 	{
-		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案架构\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ec67c99f-0845-40d8-a8c5-f844b690ace820200211165614.png\",\"title\":\"AIDC托管云架构\",\"descriptionDetail\":\"依托京东丰富的基础设施及网络接入资源，AIDC托管云为客户提供专线对接第三方公有云解决方案，并可同京东公有云组成混合云解决方案。\n\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案架构\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2fd73e49-65db-400a-b212-230153e8c92820200213221409.png\",\"title\":\"AIDC托管云架构\",\"descriptionDetail\":\"依托京东丰富的基础设施及网络接入资源，AIDC托管云为客户提供专线对接第三方公有云解决方案，并可同京东公有云组成混合云解决方案。\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
 		"templet":"31",
 		"id":656,
 		"solution_id":"137"
 	},
 	{
-		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案优势\",\"name\":\"advantage\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3ab50011-9814-4f90-9c18-e29d2a30052f20190627184502.png\",\"title\":\"京东云IDC资源丰富\",\"description\":\"京东云在核心区域有充足的IDC资源，可满足用户高标准、高密度需求；\n京东云有大量低成本IDC资源，依托京东自建骨干网优势，客户可将私有云托管在低成本区域，仍获得满意的网络体验，降低客户成本投入。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2c92dcc2-a6e1-49ac-b45f-d80c97d634f420190627184535.png\",\"title\":\"京东云研发实力雄厚\",\"description\":\"可根据用户需求定制化软件(对接京东公有云、第三方公有云等)；\n可根据用户需求定制硬件。\n\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/4d1a7edb-4250-4cc2-987b-51673b0cf11920190627184613.png\",\"title\":\"领先的AI技术\",\"description\":\"AI能效管理系统；\nAI智能运维机器人。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/89a05561-8329-4be3-b2fa-7cacf0cd995a20190628112845.png\",\"title\":\"专线接入\",\"description\":\"提供稳定、安全、快速的网络专线接入服务。\"}]}",
+		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案优势\",\"name\":\"advantage\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3ab50011-9814-4f90-9c18-e29d2a30052f20190627184502.png\",\"title\":\"京东云IDC资源丰富\",\"description\":\"京东云在核心区域有充足的IDC资源，可满足用户高标准、高密度需求；京东云有大量低成本IDC资源，依托京东自建骨干网优势，客户可将私有云托管在低成本区域，仍获得满意的网络体验，降低客户成本投入。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2c92dcc2-a6e1-49ac-b45f-d80c97d634f420190627184535.png\",\"title\":\"京东云研发实力雄厚\",\"description\":\"可根据用户需求定制化软件(对接京东公有云、第三方公有云等)；可根据用户需求定制硬件。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/4d1a7edb-4250-4cc2-987b-51673b0cf11920190627184613.png\",\"title\":\"领先的AI技术\",\"description\":\"AI能效管理系统；AI智能运维机器人。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/89a05561-8329-4be3-b2fa-7cacf0cd995a20190628112845.png\",\"title\":\"专线接入\",\"description\":\"提供稳定、安全、快速的网络专线接入服务。\"}]}",
 		"templet":"51",
 		"id":657,
 		"solution_id":"137"
