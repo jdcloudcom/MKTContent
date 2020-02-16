@@ -2848,5 +2848,65 @@
 		"name":"Support SSL transmission encryption",
 		"description":"Provide SSL transmission encryption function, so as to improve the security of data transmission",
 		"id":2652
+	},
+	{
+		"introduce":"Kubernetes Application Load Balancer and Cluster Capacity Expansion and Reduction Function",
+		"name":"Kubernetes Application Load Balancer and Cluster Capacity Expansion and Reduction Function",
+		"description":"After creating and deploying Kubernetes application, users can set up the application, including:\n configuration of load balancer for the application, in accordance with their business demands; \n users can also expand or reduce the capacity of the application in Kubernetes in an automatic/manual manner",
+		"id":2684
+	},
+	{
+		"introduce":"Sharded Cluster supports version 4.0",
+		"name":"Sharded Cluster version 4.0",
+		"description":"Sharded Cluster supports version 4.0 and supports complete management functions including instance management, security management and alarm and monitoring.",
+		"id":2685
+	},
+	{
+		"introduce":"Virtual Machines increase monitoring indicator",
+		"name":"Virtual Machines increase monitoring indicator",
+		"description":"More than twenty monitoring indicators are newly added. It can collect finer granularities, supports monitoring and alarming indicators related to disk, network interface and GPU card dimension, and adds whole indictors including average load and TCP link to instance.",
+		"id":2686
+	},
+	{
+		"introduce":"Virtual Machines New availability zones are opened in cn-south-1 region",
+		"name":"New availability zones are opened in cn-south-1 region",
+		"description":"Virtual Machines New availability zones are opened in cn-south-1 region",
+		"id":2689
+	},
+	{
+		"introduce":"The 3rd generation of VM is supported",
+		"name":"The 3rd generation of VM is supported",
+		"description":"The 3rd generation of VM is developed based on Cascade Lake Gold 6267, the 2nd generation Intel ® Xeon ® extensible processor, and Mellanox CX-5 Intelligent Network Interface customized by JD. Provide higher performance.",
+		"id":2690
+	},
+	{
+		"introduce":"Database supports primary character sets such as utf8mb4, gbk, lantin1\t",
+		"name":"Database supports more character sets",
+		"description":"Database supports primary character sets such as utf8mb4, gbk, lantin1",
+		"id":2691
+	},
+	{
+		"introduce":"Short Video  SDK  Official Release",
+		"name":"Short Video  SDK  Official Release",
+		"description":"Short video SDK is a mobile terminal short video SDK integrating the functions of video import, synthesis, editing, special effect, filter, caption, sticker, music, play, export and the like, developed based on the strong basic service ability of JD Cloud, with the purpose to provide customers with complete short video one-stop solutions.",
+		"id":2693
+	},
+	{
+		"introduce":"Player SDK Official Release",
+		"name":"Player SDK Official Release",
+		"description":"Player SDK is a player software development toolkit launched by JD Cloud to provide VOD and live broadcasting, which comprises multiple terminals such as Web/H5, Android and iOS. It is designed to help developers quickly obtain the player capacity support.",
+		"id":2694
+	},
+	{
+		"introduce":"Mobile Live Streaming SDK Official Release",
+		"name":"Mobile Live Streaming SDK Official Release",
+		"description":"Mobile Live Video Broadcasting SDK is a software development kit launched by JD Cloud to mobile platform, with two modules of pushing streaming SDK and player SDK, providing customers with functions such as mobile audio and video data collection, processing, pushing streaming and playing.",
+		"id":2695
+	},
+	{
+		"introduce":"VR Player SDK  Open Beta",
+		"name":"VR Player SDK  Open Beta",
+		"description":"VR Player SDK is a software development kit launched by JD Cloud for application of mobile end VR playing, which covers the Android end the iOS end both and supports playing VR live streaming/VOD files, aiming to help developers quickly master VR playing capacity support.",
+		"id":2696
 	}
 ]

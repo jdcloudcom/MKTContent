@@ -714,5 +714,25 @@
 	{
 		"id":831,
 		"title":"\\[Notice on Stopping Sales of Single-line IP and Upgrading BGP IP Service in cn-east-1\\]"
+	},
+	{
+		"id":832,
+		"title":"2020 JD Cloud Spring Festival Holiday Extension Service Announcement"
+	},
+	{
+		"id":833,
+		"title":"2020 JD Cloud Spring Festival ICP License Service Announcement"
+	},
+	{
+		"id":834,
+		"title":"Invoice Mailing Business Recovery Delay Announcement"
+	},
+	{
+		"id":835,
+		"title":"\\[Resisting against NCP\\] We are on the road! Several free services have been launched and Virtual Machines have been 90.3 percent off so as to promote enterprises’ operations"
+	},
+	{
+		"id":836,
+		"title":"License Announcement"
 	}
 ]
