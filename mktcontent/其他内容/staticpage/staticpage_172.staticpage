@@ -1,0 +1,182 @@
+<div class="activity-bg">
+  <div class="activity">
+    <div class="header-wrap">
+      <div class="banner">
+        <h2 class="banner-tit"><img src="https://img1.jcloudcs.com/portal/brand/banner-text.png"/> </h2>
+      </div>
+      <div class="m-banner" style="display: none">
+      </div>
+    </div>
+    <div class="w">
+        <div class="price-list">
+            <div class="brand-fl1">
+               <h2>品牌介绍</h2>
+               <div class="fl1-content">
+                  <p>京东智联云（JD Cloud & AI）是京东集团旗下的智能技术提供商，依托京东集团在人工智能、大数据、云计算、物联网等方面的业务实践和技术积淀，形成了从基础平台搭建、业务咨询规划，业务平台建设到运营维护的科技生态格局，拥有领先的数字化、智能化产品，打造服务于数字企业、数字政府的多维场景解决方案，为客户创造价值。</p>
+
+                  <p>京东智联云，提供包含公有云、私有云、混合云、专有云在内的多云、安全、可信赖的基础云服务；并以智能供应链为抓手，提供数字化、智能化的产业互联网应用云服务，2019 年8 月，京东智联云Neuhub平台入选”智能供应链国家新一代人工智能开放创新平台”，进一步提升京东智能供应链对外输出能力；同时，聚焦应用落地，提供以边缘计算为代表的云、边、端协同的下一代智能云服务，以可信赖的技术，探索商业模式，释放科技价值。</p>
+
+                  <p>京东智联云，致力于成为您最值得信赖的智能技术提供者。</p>
+
+               </div>
+            </div>
+            <div class="brand-fl2">
+               <h2>品牌解读</h2>
+               <div class="fl2-content">
+                  <img class="brand-img" src="https://img1.jcloudcs.com/portal/brand/brand-img.png" />
+                  <img class="brand-imgm" src="https://img1.jcloudcs.com/portal/brand/brand-img-m.png" />
+                  <dl>
+                    <dt>「融合技术，释放价值」</dt>
+                    <dd> 融合人工智能、物联网、云计算核心技术。整合优势，输出一体化解决方案，释放京东集团技术价值。</dd>
+                  </dl>
+                  <dl>
+                    <dt>「信息驱动、整合资源」</dt>
+                    <dd> 基于大数据能力，帮助客户补齐产业要素、实现产品创新、推进产业转型升级。</dd>
+                  </dl>
+                  <dl>
+                    <dt>「联接场景、赋能产业」</dt>
+                    <dd> 联接零售、物流、金融、城市等多维场景，服务数字企业与数字政府，构建统一平台生态。</dd>
+                  </dl>
+                  <dl>
+                    <dt>「探索科技、预见未来」</dt>
+                    <dd> 探索前沿科技，抵达真实生活，展望美好未来。</dd>
+                  </dl>
+               </div>
+            </div>
+            <div class="brand-fl3">
+               <h2>LOGO解读</h2>
+               <div class="fl3-content">
+                  <div class="vedio-bg">
+                     <div class="vedio-content">
+                      <img
+                        class="pic-revolution"
+                        src="https://img1.jcloudcs.com/portal/mce/oneHour/more.png"
+                      />
+                      <img
+                        class="pic-play"
+                        src="https://img1.jcloudcs.com/portal/brand/logo-play.png"
+                      />
+                      <video
+                        class="my-video"
+                        controls="controls"
+                        disablepictureinpicture
+                        controlslist="nodownload"
+                      >
+                        <source
+                          src="https://img1.jcloudcs.com/portal/mce/oneHour/more.mp4"
+                          type="video/mp4"
+                        />
+                      </video>
+                     </div> 
+                  </div>
+                  <dl>
+                    <dt>「组合示例」</dt>
+                    <dd> <img class="compose" src="https://img1.jcloudcs.com/portal/brand/brand-compose.png"/>  <img class="composem" src="https://img1.jcloudcs.com/portal/brand/brand-compose-m.png"/> </dd>
+                  </dl>
+                  <dl>
+                    <dt>「元素释义」</dt>
+                    <dd> 品牌符号 ——图形部分基于对无限符号“ ∞ ”的重新诠释，代表科技为社会带来无限动力，期望联手合作伙伴与客户创造无限价值。</dd>
+                    <dd> 品牌色彩 —— 设计选取京东红、科技蓝融合呈现，京东红传承了京东集团“可信赖”的品牌基因，科技蓝代表技术创新、预见未来的力量。</dd>
+                  </dl>
+                  <dl>
+                    <dt>「设计理念」</dt>
+                    <dd> 极简的线条流畅灵动，3个无限符号相互环绕交织，象征京东人工智能、物联网、云计算融合形成的科技体系，成为集团技术能力的统一输出窗口。</dd>
+                  </dl>
+               </div>
+            </div>
+            <div class="brand-fl4">
+               <h2>设计思路</h2>
+               <div class="fl4-content">
+                  <h3>颜色</h3>
+                  <img class="d-color" src="https://img1.jcloudcs.com/portal/brand/design-color.png"/>
+                  <img class="d-colorm" src="https://img1.jcloudcs.com/portal/brand/design-color-m.png"/>
+                  <dl>
+                    <dt>「品牌主色」</dt>
+                    <dd> 考虑京东技术的背景，采用带有未来感，科技感的蓝色为基调，同时继承京东的“可信赖”品牌红色基因。这三种颜色也是曾经的京东人工智能，京东云，物联网的品牌颜色的继承，代表着京东智联云继往开来，砥砺前行的态度。</dd>
+                  </dl>
+                  <h3>字体</h3>
+                  <img class="d-font" src="https://img1.jcloudcs.com/portal/brand/design-font1.png"/>
+                  <img class="d-fontm" src="https://img1.jcloudcs.com/portal/brand/design-font-m.png"/>
+                  <dl>
+                    <dt>「专属字体」</dt>
+                    <dd> 使用了具有京东企业文化特色的专属字体-京东朗正体，它承载着让世界更好地认识京东的使命。基于京东品牌的定位，以及一直奉行的客户为先、诚信、协作、感恩、拼搏、担当的价值观，京东朗正体的品牌识别度关键词落脚在了力量感、科技感、直接、简洁、友好五个维度上，并以此为设计理念来发散设计。</dd>
+                  </dl>
+                  <h3>形态</h3>
+                  <img class="d-status" src="https://img1.jcloudcs.com/portal/brand/design-status.png"/>
+                  <img class="d-statusm" src="https://img1.jcloudcs.com/portal/brand/design-status-m.png"/>
+                  <div class="xt">
+                     <p>
+                        图形部分的长宽比参考黄金比例进行设计，在复杂重叠的地方进行了切分简化，保证低分辨率下的清晰识别。多个圆环相互交织形成的无限符号，三色相交处相联寓意融合一体，两两相交处的留白寓意对未来的无限想象。
+                     </p>
+
+                     <p>
+                        在对LOGO图形与文字组合时，对LOGO的图形与文字的高度比例进行尝试。考虑实际应用时的文字可识别性、图形与文字组合的平衡，同时考虑到LOGO在实际应用时多呈现在印刷、屏幕的场景，对LOGO形状、LOGO和字体的间距进行了调整，优化了间距，使其在较小分辨率的场景下也可以完整而清晰的呈现。
+                     </p>
+
+                  </div>
+               </div>
+            </div>
+            <div class="brand-fl5">
+               <h2>品牌应用示例</h2>
+               <div class="fl5-content">
+                 <div class="row">
+                    <div class="col-4">
+                       <img src="https://img1.jcloudcs.com/portal/brand/sample-1.png"/>
+                    </div>
+                    <div class="col-4">
+                       <img src="https://img1.jcloudcs.com/portal/brand/sample-2.png"/>
+                    </div>
+                    <div class="col-4">
+                        <img src="https://img1.jcloudcs.com/portal/brand/sample-3.png"/>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col-4">
+                        <img src="https://img1.jcloudcs.com/portal/brand/sample-4.png"/>
+                    </div>
+                    <div class="col-8">
+                         <img src="https://img1.jcloudcs.com/portal/brand/sample-5.png"/>
+                    </div>
+                 </div>
+               </div>
+               <div class="fl5-contentm">
+                 <div class="row">
+                    <div class="col-xs-6">
+                       <img src="https://img1.jcloudcs.com/portal/brand/sample-m1.png"/>
+                    </div>
+                    <div class="col-xs-6 t-right">
+                       <img src="https://img1.jcloudcs.com/portal/brand/sample-m2.png"/>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col-xs-6">
+                       <img src="https://img1.jcloudcs.com/portal/brand/sample-m3.png"/>
+                    </div>
+                    <div class="col-xs-6 t-right">
+                       <img src="https://img1.jcloudcs.com/portal/brand/sample-m4.png"/>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col-xs-12">
+                        <img src="https://img1.jcloudcs.com/portal/brand/sample-m5.png"/>
+                    </div>
+                 </div>
+               </div>
+            </div>
+            <div class="brand-fl6">
+               <h2>支持团队</h2>
+               <div class="fl6-content">
+                 <img class="team" src="https://img1.jcloudcs.com/portal/brand/team.png" />
+                 <img class="teamm" src="https://img1.jcloudcs.com/portal/brand/team-m.png" />
+               </div>
+            </div>
+        </div>
+      </div>
+  </div>
+
+
+  <div class="bottom">
+     <img class="bottom-img" src="https://img1.jcloudcs.com/portal/brand/bottom.png" />
+     <img class="bottom-imgm" src="https://img1.jcloudcs.com/portal/brand/bottom-m.png" />
+  </div>
+</div>
