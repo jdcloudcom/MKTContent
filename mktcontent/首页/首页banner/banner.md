@@ -1195,5 +1195,12 @@
 		"id":1204,
 		"button_title":"查看详情",
 		"main_title":"京东智联云"
+	},
+	{
+		"sub_title":"",
+		"name":"开年大促二期",
+		"id":1206,
+		"button_title":"",
+		"main_title":""
 	}
 ]
