@@ -92,7 +92,7 @@
                   <img class="d-colorm" src="https://img1.jcloudcs.com/portal/brand/design-color-m.png"/>
                   <dl>
                     <dt>「品牌主色」</dt>
-                    <dd> 考虑京东技术的背景，采用带有未来感，科技感的蓝色为基调，同时继承京东的“可信赖”品牌红色基因。这三种颜色也是曾经的京东人工智能，京东云，物联网的品牌颜色的继承，代表着京东智联云继往开来，砥砺前行的态度。</dd>
+                    <dd> 考虑京东技术的背景，采用带有未来感，科技感的蓝色为基调，同时继承京东的“可信赖”品牌红色基因。品牌主色也是曾经的京东人工智能，京东云，物联网的品牌颜色的继承，代表着京东智联云继往开来，砥砺前行的态度。</dd>
                   </dl>
                   <h3>字体</h3>
                   <img class="d-font" src="https://img1.jcloudcs.com/portal/brand/design-font1.png"/>
@@ -101,19 +101,6 @@
                     <dt>「专属字体」</dt>
                     <dd> 使用了具有京东企业文化特色的专属字体-京东朗正体，它承载着让世界更好地认识京东的使命。基于京东品牌的定位，以及一直奉行的客户为先、诚信、协作、感恩、拼搏、担当的价值观，京东朗正体的品牌识别度关键词落脚在了力量感、科技感、直接、简洁、友好五个维度上，并以此为设计理念来发散设计。</dd>
                   </dl>
-                  <h3>形态</h3>
-                  <img class="d-status" src="https://img1.jcloudcs.com/portal/brand/design-status.png"/>
-                  <img class="d-statusm" src="https://img1.jcloudcs.com/portal/brand/design-status-m.png"/>
-                  <div class="xt">
-                     <p>
-                        图形部分的长宽比参考黄金比例进行设计，在复杂重叠的地方进行了切分简化，保证低分辨率下的清晰识别。多个圆环相互交织形成的无限符号，三色相交处相联寓意融合一体，两两相交处的留白寓意对未来的无限想象。
-                     </p>
-
-                     <p>
-                        在对LOGO图形与文字组合时，对LOGO的图形与文字的高度比例进行尝试。考虑实际应用时的文字可识别性、图形与文字组合的平衡，同时考虑到LOGO在实际应用时多呈现在印刷、屏幕的场景，对LOGO形状、LOGO和字体的间距进行了调整，优化了间距，使其在较小分辨率的场景下也可以完整而清晰的呈现。
-                     </p>
-
-                  </div>
                </div>
             </div>
             <div class="brand-fl5">
@@ -161,13 +148,6 @@
                         <img src="https://img1.jcloudcs.com/portal/brand/sample-m5.png"/>
                     </div>
                  </div>
-               </div>
-            </div>
-            <div class="brand-fl6">
-               <h2>支持团队</h2>
-               <div class="fl6-content">
-                 <img class="team" src="https://img1.jcloudcs.com/portal/brand/team.png" />
-                 <img class="teamm" src="https://img1.jcloudcs.com/portal/brand/team-m.png" />
                </div>
             </div>
         </div>
