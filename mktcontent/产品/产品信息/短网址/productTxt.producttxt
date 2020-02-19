@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"短网址\",\"label\":[{\"TitleName\":\"点击试用\",\"TitleUrl\":\"http://short.jdcloud.com/\",\"classTag\":\"\"},{\"TitleName\":\"接口服务购买\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct/\",\"classTag\":\"\"}],\"desc\":\"短网址服务是一种能将长链接缩短为定长短链的服务，主要使用在消息通知、推广、推送等对内容长度及样式较严格的场景\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"短网址\",\"label\":[{\"TitleName\":\"点击试用\",\"TitleUrl\":\"https://short.jdcloud.com/\",\"classTag\":\"\"},{\"TitleName\":\"接口服务购买\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct/\",\"classTag\":\"\"}],\"desc\":\"短网址服务是一种能将长链接缩短为定长短链的服务，主要使用在消息通知、推广、推送等对内容长度及样式较严格的场景\"}",
 		"id":1820
 	},
 	{
