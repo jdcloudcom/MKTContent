@@ -1,0 +1,121 @@
+<p style="text-indent: 2em; text-align: left;"><span style="font-family: 宋体; font-size: 14px;">近日，京东云安全团队监测到知名的Servlet容器 <span style="font-family: Calibri;">Apache Tomcat </span>
+被披露存在文件包含漏洞 ，攻击者可构造恶意的请求包进行文件包含操作，进而读取受影响 Apache Tomcat 服务器上的 <span style="font-family: Calibri;">Web </span>
+目录文件。</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;为避免您的业务受影响，京东云安全团队建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被外部攻击者入侵。</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;</span>
+</p>
+<p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">【漏洞详情】</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 14px;"><span style="font-family: 宋体; font-size: 14px;"><span style="font-size: 12px; font-family: 宋体;">默认情况下，</span>
+Apache Tomcat<span style="font-size: 12px; font-family: 宋体;">会开启</span>
+<span style="font-size: 12px; font-family: Calibri;">AJP</span>
+<span style="font-size: 12px; font-family: 宋体;">连接器，漏洞导致攻击者可以通过发送恶意的</span>
+<span style="font-size: 12px; font-family: Calibri;">AJP</span>
+<span style="font-size: 12px; font-family: 宋体;">请求，可以读取或者包含</span>
+<span style="font-size: 12px; font-family: Calibri;">Web</span>
+<span style="font-size: 12px; font-family: 宋体;">应用根目录下的任意文件，未开启</span>
+<span style="font-size: 12px; font-family: Calibri;">AJP</span>
+<span style="font-size: 12px; font-family: 宋体;">服务对外不受漏洞影响（</span>
+</span>
+<span style="font-family: Calibri; font-size: 14px;">T</span>
+<span style="font-family: 宋体; font-size: 14px;">omcat<span style="font-size: 12px; font-family: 宋体;">默认将</span>
+<span style="font-size: 12px; font-family: Calibri;">AJP</span>
+<span style="font-size: 12px; font-family: 宋体;">服务开启并绑定至</span>
+<span style="font-size: 12px; font-family: Calibri;">0.0.0.0</span>
+</span>
+<span style="font-family: Calibri; font-size: 14px;">:8009</span>
+<span style="font-size: 12px; font-family: 宋体;">）</span>
+</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">【风险等级】</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;高风险</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">【影响版本】</span>
+</p>
+<p><span style="font-size: 14px;"><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;Apache Tomcat 6</span>
+<span style="font-family: Calibri; font-size: 14px;">.x</span>
+</span>
+</p>
+<p><span style="font-size: 14px;"><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;Apache Tomcat 7</span>
+<span style="font-family: Calibri; font-size: 14px;">.x</span>
+<span style="font-family: 宋体; font-size: 14px;">&nbsp;&lt; 7.0.100</span>
+</span>
+</p>
+<p><span style="font-size: 14px;"><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;Apache Tomcat 8</span>
+<span style="font-family: Calibri; font-size: 14px;">.x</span>
+<span style="font-family: 宋体; font-size: 14px;">&nbsp;&lt; 8.5.51</span>
+</span>
+</p>
+<p><span style="font-size: 14px;"><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;Apache Tomcat 9</span>
+<span style="font-family: Calibri; font-size: 14px;">.x</span>
+<span style="font-family: 宋体; font-size: 14px;">&nbsp;&lt; 9.0.31</span>
+</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">【安全版本】</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;Apache Tomcat 7.0.100</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;Apache Tomcat 8.5.51</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;Apache Tomcat 9.0.31</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">【修复建议】</span>
+</p>
+<p><span style="font-size: 14px;"><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;<span style="font-size: 12px; font-family: 宋体;">目前官方均已发布新版本修复漏洞，</span>
+</span>
+<span style="font-size: 12px; font-family: 宋体;">京东云安全团队建议您：</span>
+</span>
+</p>
+<p><span style="font-size: 14px;"><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;1<span style="font-size: 12px; font-family: 宋体;">）更新</span>
+</span>
+<span style="font-size: 12px; font-family: 宋体;">至安全版本；</span>
+</span>
+</p>
+<p><span style="font-family: Calibri; font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<span style="font-size: 12px; font-family: 宋体;">）关闭</span>
+AJP Connector<span style="font-size: 12px; font-family: 宋体;">，或修改监听地址为本机</span>
+localhost</span>
+</p>
+<p><span style="font-size: 14px;"><span style="font-size: 12px; font-family: 宋体;">具体步骤：</span>
+<span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;</span>
+</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 14px;"><span style="font-family: Calibri; font-size: 14px;">1.</span>
+<span style="font-family: 宋体; font-size: 14px;"><span style="font-size: 12px; font-family: 宋体;">打开</span>
+ Tomcat <span style="font-size: 12px; font-family: 宋体;">配置文件 </span>
+<span style="font-size: 12px; font-family: Calibri;">Service.xml</span>
+<span style="font-size: 12px; font-family: 宋体;">，注释</span>
+</span>
+<span style="font-size: 12px; font-family: 宋体;">或删除如下行：</span>
+</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Connector port=&quot;8009&quot; protocol=&quot;AJP/1.3&quot; redirectPort=&quot;8443&quot; /&gt;</span>
+</p>
+<p style="text-indent:28px"><span style="font-family: Calibri; font-size: 14px;">2.<span style="font-size: 12px; font-family: 宋体;">重启</span>
+Tomcat </span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">【漏洞参考】</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;1）<span style="font-size: 12px; font-family: Calibri;">Tomcat </span>
+官网：<span style="font-size: 12px; font-family: Calibri;">http://tomcat.apache.org/</span>
+</span>
+</p>
+<p><span style="font-family: 宋体; font-size: 14px;">&nbsp;&nbsp;2）<span style="font-size: 12px; font-family: Calibri;">CNVD </span>
+公告：<span style="font-size: 12px; font-family: Calibri;">https://www.cnvd.org.cn/flaw/show/CNVD-2020-10487</span>
+</span>
+</p>
+<p><br/></p>
