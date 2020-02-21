@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"客源地预测模型\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"客源地预测模型通过大数据和线下位置信息分析人群来源，提供更丰富的用户信息，进而为广告，用户画像分析等业务提供支持。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"客源地预测模型\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apicenter-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"客源地预测模型通过大数据和线下位置信息分析人群来源，提供更丰富的用户信息，进而为广告，用户画像分析等业务提供支持。\"}",
 		"id":1687
 	},
 	{
