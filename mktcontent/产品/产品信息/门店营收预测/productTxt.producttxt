@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"门店营收预测\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"门店营收预测是基于大量现实场景中的数据并结合深度学习算法，来精准的对门店营收情况进行预测的服务。按要求输入多个门店的相关指标取值情况，即可对门店的营收情况进行预测。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"门店营收预测\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apicenter-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"门店营收预测是基于大量现实场景中的数据并结合深度学习算法，来精准的对门店营收情况进行预测的服务。按要求输入多个门店的相关指标取值情况，即可对门店的营收情况进行预测。\"}",
 		"id":1712
 	},
 	{
