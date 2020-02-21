@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"路径通行时间预测\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"城市路径通行时间预测是基于现实生活场景中的出行数据并结合深度学习算法，来精准的对某段行程时间进行预测的服务。按要求输入起始位置、中间各个节点位置的经纬度坐标，以及相关时间信息，来对城市路径通行时间进行\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"路径通行时间预测\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apicenter-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"城市路径通行时间预测是基于现实生活场景中的出行数据并结合深度学习算法，来精准的对某段行程时间进行预测的服务。按要求输入起始位置、中间各个节点位置的经纬度坐标，以及相关时间信息，来对城市路径通行时间进行\"}",
 		"id":1716
 	},
 	{
