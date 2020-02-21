@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"企业风险预警模型\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"随着越来越多的人迈开创业的步伐，企业风险评估成为构建安全智慧城市的重要组成部分。通过企业的基础信息、企业经营数据以及企业信用等相关信息，对企业进行风险评分，预测存在非法吸资现象的企业。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"企业风险预警模型\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apicenter-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"随着越来越多的人迈开创业的步伐，企业风险评估成为构建安全智慧城市的重要组成部分。通过企业的基础信息、企业经营数据以及企业信用等相关信息，对企业进行风险评分，预测存在非法吸资现象的企业。\"}",
 		"id":1691
 	},
 	{
