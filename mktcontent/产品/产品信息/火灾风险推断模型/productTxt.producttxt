@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"火灾风险推断模型\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"伴随着我国城镇化进程日益加快，火灾事故的多发性，破坏性以及灭火救援任务艰巨性日显突出，利用城市大数据与机器学习算法相结合，建立对火灾风险的推断预测模型，可以更好地衡量城市动态的火灾风险系数，帮助消防救\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"火灾风险推断模型\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apicenter-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"伴随着我国城镇化进程日益加快，火灾事故的多发性，破坏性以及灭火救援任务艰巨性日显突出，利用城市大数据与机器学习算法相结合，建立对火灾风险的推断预测模型，可以更好地衡量城市动态的火灾风险系数，帮助消防救\"}",
 		"id":1753
 	},
 	{
