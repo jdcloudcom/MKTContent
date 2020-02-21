@@ -382,5 +382,17 @@
 		"id":202,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution202",
 		"solution_jss_key":"Customer_Case_Solution202"
+	},
+	{
+		"project_overview":"qianlong.com was formerly deployed in its own IDC with high resource cost, complicated operation and maintenance and huge safety investment effort. <br/>\n JD Cloud can assist the customer in migrating from IDC to the cloud and in building a cloud environment with low cost, convenient operation and maintenance and high security with high availability, high safety and high performance of hosted cloud products. <br/>\n After attempts of about half a year, the main station, big data system, map depot system and the Belt and Road Initiative website of qianlong.com have been gradually migrated to the cloud, achieving good earnings.",
+		"application_type":"For website setup on the cloud by the media customer, there are high requirements for safety and stability. In the era of new Media Convergence, the media customer can spread news with new forms such as Live Streaming and VOD.",
+		"introduce":"qianlong.com is first composite news website in China, which is managed and sponsored by the Publicity Department of Beijing Municipal Committee of CPC, and initiated and created by main medias in Beijing, such as Beijing Daily, Beijing People’s Radio, Beijing TV, Beijing Youth Daily Group and Morning Post. It serves as the main front for network consensus and publicity of Beijing. qianlong.com has been officially launched in May 25, 2000. <br/>\n In August 2018, the integration program of three medias, including the Beijing News, the Morning Post and qianlong.com, was approved; in July 25, 2019, under the overall planning and full-course guide of Publicity Department of the CPC Beijing Committee and in the general background of media reform, the Beijing News lead and promoted reform of qianlong.com; and qianlong.com had its new era.",
+		"image_url":"//img1.jcloudcs.com/cms/9cd4ef93-bfd0-4331-bab5-98bc568352c520200213182856.jpg",
+		"name":"qianlong.com",
+		"channel_agent":"test",
+		"customer_income":"After JD Cloud Onboarding is made, the customer has achieved earnings from the following aspects: \n1, the resource cost is low. Compared with the physical data center, the on-cloud resource cost has been reduced by 40%. Meanwhile, as resources are flexible and expandable, the customer can create and revoke resources at any time depending on business development situation. The cost is greatly reduced for the customer.\n2, The operation and maintenance is more convenient. The hosted resources on the cloud have features of better availability, expandability and higher safety, which can be represented with simple configuration. Compared with original manual operation and maintenance, the operation and maintenance pressure is released.\n3, The safer environment is provided. As a website with government background, qianlong.com is most concerned with safety. The cloud has a complete safety product chain, including Safety Protection, Intrusion Detection, Endpoint Security, Situation Awareness, etc. These safety products take into each perspective and help build a safe cloud environment.",
+		"id":203,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution203",
+		"solution_jss_key":"Customer_Case_Solution203"
 	}
 ]
