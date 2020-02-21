@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"水质量预测\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"水质量预测服务是对水质量污染物指标进行预测的智能服务。基于大量现实数据结合深度学习技术，可精准的对水质量进行预测。输入水质量监测站点过去十二个小时的相关指标的监测情况，以及其他气象、时间等外部因素，来\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"水质量预测\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://apicenter-console.jdcloud.com/apiProduct\",\"classTag\":\"\"},{\"TitleName\":\"API使用指导\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/api-center/operation-guide\",\"classTag\":\"\"}],\"desc\":\"水质量预测服务是对水质量污染物指标进行预测的智能服务。基于大量现实数据结合深度学习技术，可精准的对水质量进行预测。输入水质量监测站点过去十二个小时的相关指标的监测情况，以及其他气象、时间等外部因素，来\"}",
 		"id":1704
 	},
 	{
