@@ -1,0 +1,7 @@
+<p><span style="font-family: 微软雅黑, sans-serif, serif, EmojiFont;">您好！</span>
+</p>
+<p><span style="font-family: 微软雅黑, sans-serif, serif, EmojiFont;">为提升和优化网络性能，京东云计划于2020年3月3日至3月10日进行华东-上海、华东-宿迁地域VPC内部网关的升级维护。升级期间从VPC内资源访问同地域部分VPC外的服务，可能有秒级中断。影响范围包括VPC内资源（如云主机、原生容器、Kubernetes集群、数据库、负载均衡等），访问同地域对象存储、yum源等内容服务。此次升级不影响所有地域其他业务的正常运行，如控制台/openAPI资源管理、VPC内资源互访、通过弹性公网IP的互联网互访等。请您关注以上升级情况，如需帮助请随时与我们工单或电话联系（400-615-1212），感谢您的支持。</span>
+</p>
+<p><span style="font-family: &#39;Calibri&#39;, sans-serif, serif, &#39;EmojiFont&#39;;color: rgb(31, 73, 125)">&nbsp;</span>
+</p>
+<p><br/></p>
