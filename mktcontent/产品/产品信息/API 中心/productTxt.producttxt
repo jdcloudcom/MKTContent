@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"API Center\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct\",\"classTag\":\"\"}],\"desc\":\"API Center is a concentrated exhibition entrance for JD Cloud products of API type. Users can subscribe API products, view API list, download SDK and document and make API debugging in API Center.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"API Center\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://apicenter-console.jdcloud.com/apiProduct\",\"classTag\":\"\"}],\"desc\":\"API Center is a concentrated exhibition entrance for JD Cloud products of API type. Users can subscribe API products, view API list, download SDK and document and make API debugging in API Center.\"}",
 		"id":1769
 	},
 	{

@@ -738,5 +738,13 @@
 	{
 		"id":837,
 		"title":"\\[Notice About Launching Offline Migration of South China Availability Zone A\\]"
+	},
+	{
+		"id":838,
+		"title":"Network Maintenance Announcement in South China"
+	},
+	{
+		"id":839,
+		"title":"\\[Security Announcement\\] Announcement for Vulnerability Risk of Apache Tomcat File (CVE-2020-1938)"
 	}
 ]

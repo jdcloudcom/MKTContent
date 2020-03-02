@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Short URL\",\"label\":[{\"TitleName\":\"Click for trial\",\"TitleUrl\":\"http://short.jdcloud.com/\",\"classTag\":\"\"},{\"TitleName\":\"Buy by API service\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct/\",\"classTag\":\"\"}],\"desc\":\"Short URL Service is a service that can shorten the long link to a fixed-length short link, mainly used in the scenarios strict with content length and style, such as message notification, promotion, and push\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Short URL\",\"label\":[{\"TitleName\":\"Click for trial\",\"TitleUrl\":\"https://short.jdcloud.com/\",\"classTag\":\"\"},{\"TitleName\":\"Buy by API service\",\"TitleUrl\":\"https://apigateway-console.jdcloud.com/apiProduct/\",\"classTag\":\"\"}],\"desc\":\"Short URL Service is a service that can shorten the long link to a fixed-length short link, mainly used in the scenarios strict with content length and style, such as message notification, promotion, and push\"}",
 		"id":1820
 	},
 	{

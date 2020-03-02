@@ -1,0 +1,7 @@
+<p><span style="font-family: 微软雅黑, sans-serif;"></span>
+</p>
+<p><span style="font-family: 微软雅黑, sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;To improve and optimize network performance, JD Cloud is planning to upgrade and maintain VPC internal gateway in South China from February 20, 2020 to February 27, 2020. During the upgrade, access to some service types (except VPC) in the same region by resources in VPC might be interrupted in a second level. The influence range includes resources in VPC (such as Virtual Machines, Native Container, JCS for Kubernetes, database, Load Balancer, etc.), access to OSS in the same region, yum source and other contents and services. Normal running of other businesses in all regions, including Console/openAPI resource management, reciprocal resource access in VPC, reciprocal Internet access via Elastic IP, etc., will not affected by this upgrade. Please pay attention to the above upgrade. If you need help, please contact us by a ticket or a call (400-615-1212) at any time. Thank you for your support.</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p><br/></p>
