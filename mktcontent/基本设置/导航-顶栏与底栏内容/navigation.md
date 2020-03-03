@@ -1,7 +1,7 @@
 [
 	{
 		"name":"产品",
-		"description":"",
+		"description":"产品",
 		"id":1
 	},
 	{
@@ -853,11 +853,6 @@
 		"name":"无界零售技术平台合作伙伴计划",
 		"description":"无界零售技术平台合作伙伴计划",
 		"id":366
-	},
-	{
-		"name":"京东云刊",
-		"description":"",
-		"id":367
 	},
 	{
 		"name":"分布式数据库 TiDB",
