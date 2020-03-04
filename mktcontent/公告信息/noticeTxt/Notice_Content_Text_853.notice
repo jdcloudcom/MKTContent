@@ -1,0 +1,53 @@
+<p><br/></p>
+<p><span style="font-family:宋体">您好！</span>
+</p>
+<p><span style="font-family:宋体">为了提升产品稳定性和用户体验，京东云计划于</span>
+2020<span style="font-family:宋体">年</span>
+3<span style="font-family:宋体">月</span>
+6<span style="font-family:宋体">日</span>
+22:00:00<span style="font-family:宋体">至当日</span>
+22:30:00 <span style="font-family:宋体">，在【华南</span>
+-<span style="font-family:宋体">广州】地域进行</span>
+“<span style="font-family:宋体">云硬盘</span>
+“<span style="font-family:宋体">后端服务调整，影响如下：</span>
+</p>
+<p><span style="font-family: Wingdings;">l<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+<span style="font-family: 宋体;">云主机【华南</span>
+<span style="font-family: 宋体;">-</span>
+<span style="font-family: 宋体;">广州】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、查询功能的</span>
+<span style="font-family: 宋体;">OpenAPI</span>
+<span style="font-family: 宋体;">服务；</span>
+</p>
+<p><span style="font-family: Wingdings;">l<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+<span style="font-family: 宋体;">云硬盘【华南</span>
+<span style="font-family: 宋体;">-</span>
+<span style="font-family: 宋体;">广州】地域在切换期间，不可进行控制台操作，暂停所有功能的</span>
+<span style="font-family: 宋体;">OpenAPI</span>
+<span style="font-family: 宋体;">服务；</span>
+</p>
+<p><span style="font-family: Wingdings;">l<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+<span style="font-family: 宋体;">原生容器【华南</span>
+<span style="font-family: 宋体;">-</span>
+<span style="font-family: 宋体;">广州】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、查询功能的</span>
+<span style="font-family: 宋体;">OpenAPI</span>
+<span style="font-family: 宋体;">服务；</span>
+</p>
+<p><span style="font-family: Wingdings;">l<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+<span style="font-family: 宋体;">kubernetes</span>
+<span style="font-family: 宋体;">服务【华南</span>
+<span style="font-family: 宋体;">-</span>
+<span style="font-family: 宋体;">广州】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、查询功能的</span>
+<span style="font-family: 宋体;">OpenAPI</span>
+<span style="font-family: 宋体;">服务。</span>
+</p>
+<p><span style="font-family:宋体">此次功能升级不影响您所有地域的已有业务运行。后端服务调整完成后，控制台相关功能及</span>
+OpenAPI<span style="font-family:宋体">对应接口将恢复正常使用。</span>
+</p>
+<p><span style="font-family:宋体">上线期间如果遇到相关问题，请您随时与京东云客服联系（电话：</span>
+4006151212<span style="font-family:宋体">），感谢您对京东云的支持。</span>
+</p>
+<p><br/></p>
