@@ -12,7 +12,7 @@
 		"solution_id":"137"
 	},
 	{
-		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案架构\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2fd73e49-65db-400a-b212-230153e8c92820200213221409.png\",\"title\":\"AIDC托管云架构\",\"descriptionDetail\":\"依托京东丰富的基础设施及网络接入资源，AIDC托管云为客户提供专线对接第三方公有云解决方案，并可同京东公有云组成混合云解决方案。\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案架构\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c1b73906-75c5-4407-976d-5eec2b2971ec20200304220004.png\",\"title\":\"AIDC托管云架构\",\"descriptionDetail\":\"依托京东丰富的基础设施及网络接入资源，AIDC托管云为客户提供专线对接第三方公有云解决方案，并可同京东公有云组成混合云解决方案。\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
 		"templet":"31",
 		"id":656,
 		"solution_id":"137"
