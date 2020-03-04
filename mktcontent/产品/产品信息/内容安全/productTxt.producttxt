@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"内容安全\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=843\",\"classTag\":\"\"}],\"desc\":\"内容安全基于深度学习技术，支持文本、图片、音视频等多媒体内容的安全检测，可以智能识别涉黄、涉政、涉恐、辱骂、违法等违规内容，大幅提升审核效率，规避违规内容带来的风险，保护业务健康发展。\"}",
+		"id":1646
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"丰富实战经验\",\"proName\":\"支撑京东商城、京东金融等核心业务，拥有海量的特征样本及丰富的数据模型分析经验。\"},{\"showShade\":false,\"proGood\":\"对海量数据快速检测\",\"proName\":\"基于云计算平台，对海量数据进行快速检测，支持毫秒级返回结果，每秒支持超过百万并发，保障您使用无后顾之忧。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"节约人力，成本低\",\"proName\":\"节省90%以上的人力成本，且每 100 次查询最低 0.1 元，只需低廉的成本即可抵御文本、图片各类风险。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"使用便捷\",\"proName\":\"一次接入即可提供图片、文字等形式内容检测，覆盖涉政、鉴黄、暴恐、违规等风险。\"}]",
+		"id":1647
+	},
+	{
+		"txt":"[{\"funcName\":\"文本检测\",\"funcContent\":[{\"funcTitle\":\" 反垃圾检测\",\"funcP\":\"采用NLP自然语言理解算法可以有效识别色情、涉政、暴恐、辱骂、违禁等违规文本，能够过滤符号、图标、外文等干扰信息，精准识别各种变体，从而有效打击违规和垃圾文本，净化平台环境。\"}]},{\"funcName\":\"图片检测\",\"funcContent\":[{\"funcTitle\":\"图片智能鉴黄服务\",\"funcP\":\" 通过深度学习算法和千万级图片样本库，可对图片进行色情度识别，包括色情、低俗、性感、正常图片识别、有效降低人工审核成本，帮助平台规避涉黄风险。\"},{\"funcTitle\":\"图片涉政暴恐服务\",\"funcP\":\"帮助平台规避法律风险。通过深度学习算法结合人脸识别、图片泛化等技术检测图片内容，可以识别图片中政治敏感人物、涉恐人物、枪支弹药、血腥暴力等场景，结合实时的情报、舆论，快速定位暴恐旗帜、人物场景等信息，帮助平台及时响应法律法规要求，规避舆论风险。\"}]},{\"funcName\":\"数据可视化\",\"funcContent\":[{\"funcTitle\":\"内容检测分析报表\",\"funcP\":\"提供文本、图片检测分析报表，满足业务汇报和趋势分析需求。\"},{\"funcTitle\":\"实时数据统计\",\"funcP\":\"提供识别量和违规内容量统计信息，提供违规内容占比及违规类型分布情况，随时关注内容安全状况。\"}]}]",
+		"id":1648
+	},
+	{
+		"txt":"[{\"name\":\"社区论坛\",\"instruction\":\"检测用户的文章、头像、帖子、评论等内容，智能识别违规信息，降低人工审核成本，提高审核效率。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fc394ca7-f1c5-4a42-978e-1922be0efce720191218133343.png\",\"showShade\":false},{\"name\":\"即时通讯\",\"instruction\":\"检测用户的头像、昵称、签名、私聊、群聊等内容，有效识别和打击违法信息，规避平台运营风险。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1c5f19dc-5ca3-497b-a6f7-ca32c2ab5d7820200302110424.png\",\"showShade\":false},{\"name\":\"电商平台\",\"instruction\":\"检测用户发布的商品图片，名称、介绍，评论等内容，智能识别敏感内容，降低人工审核成本，提高审核效率。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cf265070-4de0-46ca-afed-081f8afa03d720200302110449.png\",\"showShade\":false},{\"name\":\"视频直播\",\"instruction\":\"检测视频、直播中的画面、弹幕、用户评论，实时过滤违规内容，规避监管风险。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e900d084-d1c9-4ab3-8455-0c2b6d09f88120200302110441.png\",\"showShade\":false}]",
+		"id":1649
+	}
+]
