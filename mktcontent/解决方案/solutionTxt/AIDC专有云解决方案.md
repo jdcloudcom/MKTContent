@@ -12,7 +12,7 @@
 		"solution_id":"139"
 	},
 	{
-		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案架构\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f08660c9-b36e-48fd-a13b-8715db55eafc20200214111418.png\",\"title\":\"AIDC专有云解决方案\",\"descriptionDetail\":\"依托京东丰富的基础设施及网络接入资源，为客户提供完备的分布式专有云解决方案，并可同京东公有云组成混合云解决方案。\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案架构\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f9aa3931-2ce7-4224-b5a4-a7fd17302f1320200304220110.png\",\"title\":\"AIDC专有云解决方案\",\"descriptionDetail\":\"依托京东丰富的基础设施及网络接入资源，为客户提供完备的分布式专有云解决方案，并可同京东公有云组成混合云解决方案。\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
 		"templet":"31",
 		"id":666,
 		"solution_id":"139"
