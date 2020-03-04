@@ -50,12 +50,9 @@
                      <div class="vedio-content">
                       <img
                         class="pic-revolution"
-                        src="https://img1.jcloudcs.com/portal/mce/oneHour/more.png"
+                        src="https://img1.jcloudcs.com/portal/brand/introduce.jpg"
                       />
-                      <img
-                        class="pic-play"
-                        src="https://img1.jcloudcs.com/portal/brand/logo-play.png"
-                      />
+                      <svg class="pic-play" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><circle cx="100" cy="100" r="100" fill="#5c5c5c"/><path d="M152.9 98.7L75.3 53.9c-2.6-1.5-5.9-.6-7.4 2-.5.8-.7 1.8-.7 2.7v89.5c0 3 2.4 5.4 5.4 5.4.9 0 1.9-.2 2.7-.7l77.5-44.7c2.6-1.5 3.5-4.8 2-7.4-.4-.9-1.1-1.6-1.9-2z" fill="#fff"/></svg>
                       <video
                         class="my-video"
                         controls="controls"
@@ -63,7 +60,7 @@
                         controlslist="nodownload"
                       >
                         <source
-                          src="https://img1.jcloudcs.com/portal/mce/oneHour/more.mp4"
+                          src="https://img1.jcloudcs.com/portal/brand/introduce.mp4"
                           type="video/mp4"
                         />
                       </video>
