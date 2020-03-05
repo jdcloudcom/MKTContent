@@ -3,7 +3,7 @@
     <div class="w">
       <div class="jdc-common-banner-ct">
         <h4 class="jdc-common-banner-tit">白皮书 White Papers</h4>
-        <p class="jdc-common-banner-txt">京东云白皮书，提供我们对云计算的发展构想，平台设计考虑，以及最佳实践总结，帮助客户在京东云上构建高质量业务系统，实现数字化转型。</p>
+        <p class="jdc-common-banner-txt">京东智联云白皮书，提供我们对云计算的发展构想，平台设计考虑，以及最佳实践总结，帮助客户在京东智联云上构建高质量业务系统，实现数字化转型。</p>
 
       </div>
     </div>
@@ -32,14 +32,14 @@
           </div>
           <div class="col-6 col-xs-12">
             <div class="wp-floor1-item wp-floor1-item-1">
-              <div class="wp-floor1-item-hd">京东云智能城市白皮书 </div>
+              <div class="wp-floor1-item-hd">京东智联云智能城市白皮书 </div>
               <div class="wp-floor1-item-bd">
                 <div class="wp-floor1-img">
                   <img src="https://img1.jcloudcs.com/portal/whitepaper/wp-1.png" alt="">
                 </div>
                 <div class="wp-floor1-right">
                   <p class="wp-floor1-txt">
-                    《京东云智能城市白皮书（2019）》向外界展示了京东云对于智能城市的独到认知与解读、智能城市建设路径以及智能城市建设策略，通过分享京东云智能化解决方案在城市中的典型应用，展现了智能城市未来的美好蓝图。此次《京东云智能城市白皮书（2019）》的发布旨在利用技术创新，在城市数字化和网络化发展基础上主动、前瞻地分析解决问题，以“智能”引领城市发展，也为城市规划、建设、管理和服务提供创新思路与解决方案，实现城市精细化、智能化管理，推动包括城市经济在内的社会各领域从数字化、网络化向智能化加速跃升。
+                    《京东智联云智能城市白皮书（2019）》向外界展示了京东智联云对于智能城市的独到认知与解读、智能城市建设路径以及智能城市建设策略，通过分享京东智联云智能化解决方案在城市中的典型应用，展现了智能城市未来的美好蓝图。此次《京东智联云智能城市白皮书（2019）》的发布旨在利用技术创新，在城市数字化和网络化发展基础上主动、前瞻地分析解决问题，以“智能”引领城市发展，也为城市规划、建设、管理和服务提供创新思路与解决方案，实现城市精细化、智能化管理，推动包括城市经济在内的社会各领域从数字化、网络化向智能化加速跃升。
                   </p>
 
                   <a href="//www.jdcloud.com/cn/intelligentcity" target="_blank" class="jdc-btn jdc-bg" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_1">立即查看</a>
@@ -49,14 +49,14 @@
           </div>
           <div class="col-6 col-xs-12">
             <div class="wp-floor1-item wp-floor1-item-2">
-              <div class="wp-floor1-item-hd">京东云专有云思想领导力白皮书 </div>
+              <div class="wp-floor1-item-hd">京东智联云专有云思想领导力白皮书 </div>
               <div class="wp-floor1-item-bd">
                 <div class="wp-floor1-img">
                   <img src="https://img1.jcloudcs.com/portal/whitepaper/wp-2.png" alt="">
                 </div>
                 <div class="wp-floor1-right">
                   <p class="wp-floor1-txt">
-                    基于京东云公有云自研云计算架构，经过海量用户实践和验证，京东云推出新一代专有云平台JDStack，将京东云成熟、稳定的产品能力延伸至客户自有数据中心，为用户提供从IaaS、PaaS到SaaS多种产品的全栈式服务，通过建立一个安全、稳定、可信赖的专有云平台，助力客户加速数字化转型。
+                    基于京东智联云公有云自研云计算架构，经过海量用户实践和验证，京东智联云推出新一代专有云平台JDStack，将京东智联云成熟、稳定的产品能力延伸至客户自有数据中心，为用户提供从IaaS、PaaS到SaaS多种产品的全栈式服务，通过建立一个安全、稳定、可信赖的专有云平台，助力客户加速数字化转型。
                   </p>
 
                   <a clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_2" onclick="whitepaperClick('r',2)" class="jdc-btn jdc-bg">立即查看</a>
@@ -66,14 +66,14 @@
           </div>
           <div class="col-6 col-xs-12">
             <div class="wp-floor1-item wp-floor1-item-2">
-              <div class="wp-floor1-item-hd">京东云专有云安全白皮书</div>
+              <div class="wp-floor1-item-hd">京东智联云专有云安全白皮书</div>
               <div class="wp-floor1-item-bd">
                 <div class="wp-floor1-img">
                   <img src="https://img1.jcloudcs.com/portal/whitepaper/wp-4.jpg" alt="">
                 </div>
                 <div class="wp-floor1-right">
                   <p class="wp-floor1-txt">
-                    基于安全合规、隐私保护、安全权责、专有云安全架构、专有云安全产品和专有云安全产品服务几个方面，介绍了京东云专有云安全体系，给出了京东云专有云多种客户应用场景下的安全最佳实践。旨在为政府和企业客户提供大规模商业化全栈云平台，帮助政企客户构建安全可靠的新一代专有云平台，加速数字化转型，建立安全、稳定、可信赖的专有云平台。
+                    基于安全合规、隐私保护、安全权责、专有云安全架构、专有云安全产品和专有云安全产品服务几个方面，介绍了京东智联云专有云安全体系，给出了京东智联云专有云多种客户应用场景下的安全最佳实践。旨在为政府和企业客户提供大规模商业化全栈云平台，帮助政企客户构建安全可靠的新一代专有云平台，加速数字化转型，建立安全、稳定、可信赖的专有云平台。
                   </p>
 
                   <a clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_4" onclick="whitepaperClick('r',3)" class="jdc-btn jdc-bg">立即查看</a>
@@ -128,9 +128,9 @@
           <div class="col-3 col-xs-6">
             <div class="wp-item">
               <a class="wp-item-img" href="//docs.jdcloud.com/cn/jdcloud-whitepaper-cloud-workspace/overview" class="fl-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_5">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-3.png" alt="京东云云桌面白皮书">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-3.png" alt="京东智联云云桌面白皮书">
               </a>
-              <!--<h5 class="wp-item-tit">京东云云桌面白皮书</h5>-->
+              <!--<h5 class="wp-item-tit">京东智联云云桌面白皮书</h5>-->
               <div class="wp-item-bottom f-cb">
                 <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-cloud-workspace/overview" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_5">立即查看</a>
                 <a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_5_2" onclick="whitepaperClick('w',4)">下载</a>
@@ -140,9 +140,9 @@
           <div class="col-3 col-xs-6">
             <div class="wp-item">
               <a class="wp-item-img" href="//docs.jdcloud.com/cn/jdcloud-whitepaper-gaming-cloud/overview" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_6">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-4.png" alt="京东云游戏白皮书">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-4.png" alt="京东智联云游戏白皮书">
               </a>
-              <!--<h5 class="wp-item-tit">京东云游戏白皮书</h5>-->
+              <!--<h5 class="wp-item-tit">京东智联云游戏白皮书</h5>-->
               <div class="wp-item-bottom f-cb">
                 <a href="//docs.jdcloud.com/cn/jdcloud-whitepaper-gaming-cloud/overview" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_6">立即查看</a>
                 <a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_6_2" onclick="whitepaperClick('w',5)">下载</a>
@@ -152,9 +152,9 @@
           <div class="col-3 col-xs-6">
             <div class="wp-item">
               <a class="wp-item-img" href="//docs.jdcloud.com/cn/jdcloud-security-whitepaper/introduction" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_7">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-5.png" alt="京东云安全白皮书">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-5.png" alt="京东智联云安全白皮书">
               </a>
-              <!--<h5 class="wp-item-tit">京东云安全白皮书</h5>-->
+              <!--<h5 class="wp-item-tit">京东智联云安全白皮书</h5>-->
               <div class="wp-item-bottom f-cb">
                 <a href="//docs.jdcloud.com/cn/jdcloud-security-whitepaper/introduction" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_7">立即查看</a>
                 <a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_7_2" onclick="whitepaperClick('w',6)">下载</a>
@@ -164,9 +164,9 @@
           <div class="col-3 col-xs-6">
             <div class="wp-item">
               <a class="wp-item-img" href="//docs.jdcloud.com/cn/jdcloud-data-security-whitepaper/overview" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_8">
-                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-6.png" alt="京东云数据安全白皮书">
+                <img src="https://img1.jcloudcs.com/portal/whitepaper/wp1-6.png" alt="京东智联云数据安全白皮书">
               </a>
-              <!--<h5 class="wp-item-tit">京东云数据安全白皮书</h5>-->
+              <!--<h5 class="wp-item-tit">京东智联云数据安全白皮书</h5>-->
               <div class="wp-item-bottom f-cb">
                 <a href="//docs.jdcloud.com/cn/jdcloud-data-security-whitepaper/overview" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_8">立即查看</a>
                 <a class="fr-btn" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_8_2" onclick="whitepaperClick('w',7)">下载</a>
@@ -178,7 +178,7 @@
 			<div class="col-3 col-xs-6">
 				<div class="wp-item">
 					<a class="wp-item-img" href="//docs.jdcloud.com/jdcloud-backup-disaster-recovery-whitepaper/1-introduction" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaperImg_20191223">
-						<img src="https://img1.jcloudcs.com/portal/whitepaper/wp20191223.jpg" alt="京东云数据安全白皮书">
+						<img src="https://img1.jcloudcs.com/portal/whitepaper/wp20191223.jpg" alt="京东智联云数据安全白皮书">
 					</a>
 					<div class="wp-item-bottom f-cb">
 						<a href="//docs.jdcloud.com/jdcloud-backup-disaster-recovery-whitepaper/1-introduction" class="fl-btn" target="_blank" clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_20191223">立即查看</a>
@@ -196,7 +196,7 @@
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-1.png" alt="">
               </div>
-              <h5 class="wp-item-tit">畅捷通T+在京东云上的最佳实践</h5>
+              <h5 class="wp-item-tit">畅捷通T+在京东智联云上的最佳实践</h5>
             </a>
           </div>
           <div class="col-3 col-xs-6">
@@ -204,7 +204,7 @@
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-2.png" alt="">
               </div>
-              <h5 class="wp-item-tit">合众唯一资产管理在京东云上的最佳实践</h5>
+              <h5 class="wp-item-tit">合众唯一资产管理在京东智联云上的最佳实践</h5>
             </a>
           </div>
           <div class="col-3 col-xs-6">
@@ -212,7 +212,7 @@
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-3.png" alt="">
               </div>
-              <h5 class="wp-item-tit">金蝶K3WISE在京东云上的最佳实践</h5>
+              <h5 class="wp-item-tit">金蝶K3WISE在京东智联云上的最佳实践</h5>
             </a>
           </div>
           <div class="col-3 col-xs-6">
@@ -220,7 +220,7 @@
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-4.png" alt="">
               </div>
-              <h5 class="wp-item-tit">金蝶KIS在京东云上的最佳实践</h5>
+              <h5 class="wp-item-tit">金蝶KIS在京东智联云上的最佳实践</h5>
             </a>
           </div>
           <div class="col-3 col-xs-6">
@@ -228,7 +228,7 @@
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-5.png" alt="">
               </div>
-              <h5 class="wp-item-tit">金蝶云在京东云上的最佳实践</h5>
+              <h5 class="wp-item-tit">金蝶云在京东智联云上的最佳实践</h5>
             </a>
           </div>
           <div class="col-3 col-xs-6">
@@ -236,7 +236,7 @@
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-6.png" alt="">
               </div>
-              <h5 class="wp-item-tit">用友U8+在京东云上的最佳实践</h5>
+              <h5 class="wp-item-tit">用友U8+在京东智联云上的最佳实践</h5>
             </a>
           </div>
           <div class="col-3 col-xs-6">
@@ -252,7 +252,7 @@
               <div class="wp-item-img">
                 <img src="https://img1.jcloudcs.com/portal/whitepaper/wp2-8.png" alt="">
               </div>
-              <h5 class="wp-item-tit">七通智能制造云在京东云上的最佳实践</h5>
+              <h5 class="wp-item-tit">七通智能制造云在京东智联云上的最佳实践</h5>
             </a>
           </div>
         </div>
