@@ -1,0 +1,28 @@
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-size: 16px;font-family:&#39;微软雅黑&#39;,sans-serif"></span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 12px;">您好！</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-size: 14px;"><span style="font-family: 微软雅黑, sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="font-family: &quot;MS Gothic&quot;;"></span>
+<span style="font-family: 微软雅黑, sans-serif;">为了提升产品稳定性和用户体验，京东智联云计划于2020年3月6日21:00:00至当日22:00:00 ，在【华南-广州】地域进行私有网络、负载均衡、混合云连接</span>
+<span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">等服务的后</span>
+<span style="font-family: 微软雅黑, sans-serif;">端管理调整，</span>
+</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">影响如下：</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:28px;text-align:left"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">1、&nbsp;私有网络【华南-广州】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、删除、查询功能的OpenAPI服务；</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:28px;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">2、&nbsp;&nbsp;负载均衡【华南-广州】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、删除、查询功能的OpenAPI服务；</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:28px;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">3、混合云连接【华南-广州】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、删除、查询功能的OpenAPI服务。</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:28px;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">此次功能升级不影响您所有地域的已有业务运行。后端服务调整完成后，控制台相关功能及OpenAPI对应接口将恢复正常使用。</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">上线期间如果遇到相关问题，请您随时与京东智联云客服联系（电话：4006151212），感谢您对京东智联云的支持。</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-size:16px;font-family:&#39;微软雅黑&#39;,sans-serif"></span>
+<br/></p>
+<p><br/></p>
