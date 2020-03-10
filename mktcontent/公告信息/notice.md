@@ -746,5 +746,13 @@
 	{
 		"id":839,
 		"title":"\\[Security Announcement\\] Announcement for Vulnerability Risk of Apache Tomcat File (CVE-2020-1938)"
+	},
+	{
+		"id":848,
+		"title":"\\[Network Maintenance Announcement in cn-east-2 and cn-east-1\\]"
+	},
+	{
+		"id":849,
+		"title":"\\Official Implementation of [Administration Provisions for Ecology of Network Information\\]"
 	}
 ]
