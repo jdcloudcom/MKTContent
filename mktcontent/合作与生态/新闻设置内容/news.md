@@ -1854,5 +1854,13 @@
 		"jss_key":"News_Content_772",
 		"id":772,
 		"news_title":"京东与人民日报新媒体深入合作,“云+AI”驱动传媒业智能化升级"
+	},
+	{
+		"summary":"最近一段时间，全国疫情防控出现积极向好趋势，复工复产气氛渐浓。但鉴于目前的形势，管理机构需要更全面、更快速掌握疫情动态，及时定位疫情，随时做好防疫部署与决策工作。针对这一需求，京东智联云迅速研发上线了 “疫情通”。",
+		"image_url":"//img1.jcloudcs.com/cms/abe77ec1-35ec-4417-b2e0-2b096d65fbc220200312153336.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_778",
+		"jss_key":"News_Content_778",
+		"id":778,
+		"news_title":"京东智联云携手千龙网 打造媒体融合创新之路"
 	}
 ]
