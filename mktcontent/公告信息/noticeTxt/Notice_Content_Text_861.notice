@@ -1,0 +1,79 @@
+<p style="text-indent:28px">2020<span style="font-family:宋体">年</span>
+3<span style="font-family:宋体">月</span>
+11<span style="font-family:宋体">日，京东智联云安全团队监测到微软官方发布安全公告，披露某些</span>
+Windows<span style="font-family:宋体">版本的</span>
+SMBv3<span style="font-family:宋体">协议实现压缩功能存在一处远程代码执行漏洞。成功利用该漏洞的攻击者可以在目标</span>
+SMB<span style="font-family:宋体">服务器或</span>
+SMB<span style="font-family:宋体">客户端上执行代码。目前微软官方已提供安全补丁，并提供了无需安装补丁的缓解措施。</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">漏洞描述</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-indent:28px"><span style="font-family:宋体">该漏洞（</span>
+CVE-2020-0796<span style="font-family:宋体">）具有蠕虫特性。无须用户交互，普通用户权限即可直接远程利用，利用</span>
+Windows SMB<span style="font-family:宋体">服务漏洞远程攻击获取系统最高权限，风险极高。漏洞只影响</span>
+Windows 10<span style="font-family:宋体">系统和</span>
+Server 1903<span style="font-family:宋体">、</span>
+1909<span style="font-family:宋体">系统版本，京东智联云提供的官方镜像不受影响。</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">漏洞评级</span>
+</p>
+<p>&nbsp;</p>
+<p>CVE-2020-0796 <span style="font-family:宋体">高危</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">影响版本</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp; Windows 10 Version 1903 for 32-bit Systems</p>
+<p>&nbsp; Windows 10 Version 1903 for x64-based Systems</p>
+<p>&nbsp; Windows 10 Version 1903 for ARM64-based Systems</p>
+<p>&nbsp; Windows Server, version 1903 (Server Core installation)</p>
+<p>&nbsp; Windows 10 Version 1909 for 32-bit Systems</p>
+<p>&nbsp; Windows 10 Version 1909 for x64-based Systems</p>
+<p>&nbsp; Windows 10 Version 1909 for ARM64-based Systems</p>
+<p>&nbsp; Windows Server, version 1909 (Server Core installation)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">修复方案</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">针对使用受漏洞影响的</span>
+Windows<span style="font-family:宋体">系统版本的用户，可采用以下任意方式来进行修复或者缓解：</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:left">1. <span style="font-family:宋体">前往微软官方下载相应补丁进行更新</span>
+: https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796 <span style="font-family:宋体">。</span>
+</p>
+<p><span style="font-family:宋体">建议您在安装补丁前做好数据备份工作，避免出现意外</span>
+</p>
+<p>&nbsp;</p>
+<p>2.<span style="font-family:宋体">临时缓解方案：禁用</span>
+ SMBv3 <span style="font-family:宋体">服务，管理员模式启动</span>
+PowerShell<span style="font-family:宋体">，将以下命令复制到</span>
+Powershell<span style="font-family:宋体">命令行，执行即可：</span>
+</p>
+<p style="text-align:left">&nbsp; Set-ItemProperty -Path &quot;HKLM:\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters&quot; DisableCompression -Type DWORD -Value 1 -Force</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>3. <span style="font-family:宋体">关闭</span>
+SMB<span style="font-family:宋体">服务端口，禁止</span>
+139<span style="font-family:宋体">和</span>
+445<span style="font-family:宋体">端口对外部开放。</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">相关链接</span>
+</p>
+<p>&nbsp;</p>
+<p>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/adv200005</p>
+<p><br/></p>
