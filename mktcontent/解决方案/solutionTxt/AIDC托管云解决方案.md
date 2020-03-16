@@ -12,7 +12,7 @@
 		"solution_id":"137"
 	},
 	{
-		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"Solution Architecture\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2fd73e49-65db-400a-b212-230153e8c92820200213221409.png\",\"title\":\"AIDC Hosted Cloud Architecture\",\"descriptionDetail\":\"Based on JD’s rich infrastructure and network access resources, AIDC hosted cloud provides the customer with direct connection to third party public cloud solutions, which, moreover, can be combined into hybrid cloud solutions along with JD public cloud.\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"Solution Architecture\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c1b73906-75c5-4407-976d-5eec2b2971ec20200304220004.png\",\"title\":\"AIDC Hosted Cloud Architecture\",\"descriptionDetail\":\"Based on JD’s rich infrastructure and network access resources, AIDC hosted cloud provides the customer with direct connection to third party public cloud solutions, which, moreover, can be combined into hybrid cloud solutions along with JD public cloud.\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
 		"templet":"31",
 		"id":656,
 		"solution_id":"137"

@@ -1,0 +1,44 @@
+<p><br/></p>
+<p><span style="font-family:宋体"></span>
+</p>
+<p>
+<span style="font-family:宋体">
+To improve product stability and user experience, JD Cloud & AI is planning to make adjustment to backend service in [cn-south-1] to "Cloud Disk Service" from 22:00:00 on March 6, 2020 to 22:30:00 on the same day, with influences below:
+</span>
+</p>
+
+<p><span style="font-family: Wingdings;">l
+<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+During switch of Virtual Machines, Console operation cannot be conducted in [cn-south-1], and creation, resizing and search of OpenAPI service will be suspended;
+</span>
+</p>
+
+<p><span style="font-family: Wingdings;">l
+<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+During switch of Cloud Disk Service, Console operation cannot be conducted in [cn-south-1], and all functions of OpenAPI service will be suspended;
+</span>
+</p>
+
+<p><span style="font-family: Wingdings;">l
+<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+During switch of Native Container, Console operation cannot be conducted in [cn-south-1], and creation, resizing and search of OpenAPI service will be suspended;
+</span>
+</p>
+<p><span style="font-family: Wingdings;">l
+<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+During switch of kubernetes service, Console operation cannot be conducted in [cn-south-1], and creation, resizing and search of OpenAPI service will be suspended.
+</span>
+</p>
+<p><span style="font-family:宋体">
+Operation of existing businesses in all of your regions will not be affected by this function upgrade. After completion of backend service adjustment, relevant functions of the Console and corresponding APIs of OpenAPI will be resumed for normal use.
+</span>
+</p>
+<p><span style="font-family:宋体">
+If you have relevant questions during the migration, please contact JD Cloud customer service personnel at any time (Tel: 4006151212). Thanks for your support to JD Cloud.
+</span>
+</p>
+<p><br/></p>

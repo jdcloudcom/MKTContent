@@ -1,0 +1,38 @@
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-size: 16px;font-family:&#39;微软雅黑&#39;,sans-serif"></span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 12px;"></span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+<span style="font-size: 14px;"><span style="font-family: 微软雅黑, sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="font-family: &quot;MS Gothic&quot;;"></span>
+<span style="font-family: 微软雅黑, sans-serif;">
+To improve product stability and user experience, JD Cloud & AI is planning to make adjustment to backend management in [cn-south-1] to VPC, Load Balancer, Hybrid Cloud Connection, etc. from 21:00:00 on March 6, 2020 to 22:00:00 on the same day, with influences below:
+</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:28px;text-align:left">
+<span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">
+1. &nbsp;During switch of VPC, Console operation cannot be conducted in [cn-south-1], and creation, resizing and search of OpenAPI service will be suspended;
+</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:28px;text-align:left">
+<span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">
+2. &nbsp;&nbsp;During switch of Load Balancer, Console operation cannot be conducted in [cn-south-1], and creation, resizing and search of OpenAPI service will be suspended;
+</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:28px;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">
+3. During switch of Hybrid Cloud Connection, Console operation cannot be conducted in [cn-south-1], and creation, resizing and search of OpenAPI service will be suspended.
+</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:28px;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">
+Operation of existing businesses in all of your regions will not be affected by this function upgrade. After completion of backend service adjustment, relevant functions of the Console and corresponding APIs of OpenAPI will be resumed for normal use.
+</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-family: 微软雅黑, sans-serif; font-size: 14px;">
+If you have relevant questions during the launch, please contact JD Cloud & AI customer service personnel at any time (Tel: 4006151212). Thanks for your support to JD Cloud & AI.
+</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style="font-size:16px;font-family:&#39;微软雅黑&#39;,sans-serif"></span>
+<br/></p>
+<p><br/></p>

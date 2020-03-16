@@ -12,7 +12,7 @@
 		"solution_id":"139"
 	},
 	{
-		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"Solution Architecture\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f08660c9-b36e-48fd-a13b-8715db55eafc20200214111418.png\",\"title\":\"AIDC Proprietary Cloud Solutions\",\"descriptionDetail\":\"Based on JD’s rich infrastructure and network access resources, the customer is provided with complete distributed proprietary cloud solutions, which, moreover, can be combined into hybrid cloud solutions along with JD public cloud.\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
+		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"Solution Architecture\",\"name\":\"architecture-1\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f9aa3931-2ce7-4224-b5a4-a7fd17302f1320200304220110.png\",\"title\":\"AIDC Proprietary Cloud Solutions\",\"descriptionDetail\":\"Based on JD’s rich infrastructure and network access resources, the customer is provided with complete distributed proprietary cloud solutions, which, moreover, can be combined into hybrid cloud solutions along with JD public cloud.\",\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
 		"templet":"31",
 		"id":666,
 		"solution_id":"139"
