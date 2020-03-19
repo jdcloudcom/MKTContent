@@ -1,0 +1,26 @@
+<p><span style="font-family: arial, helvetica, sans-serif;">您好！</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif;">为了提升产品稳定性和用户体验，京东智联云计划于2020年3月19日21:00:00至当日22:30:00 ，在【华北-北京】地域进行私有网络、负载均衡、混合云连接等服务的后端管理调整，影响如下：</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-family: Wingdings;">l<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+私有网络【华北-北京】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、删除、查询功能的<span style="font-family: 宋体;">OpenAPI</span>
+服务；</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-family: Wingdings;">l<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+负载均衡【华北-北京】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、删除、查询功能的<span style="font-family: 宋体;">OpenAPI</span>
+服务；</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-family: Wingdings;">l<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+混合云连接【华北-北京】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、删除、查询功能的<span style="font-family: 宋体;">OpenAPI</span>
+服务。</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-indent:0"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif;">此次功能升级不影响您所有地域的已有业务运行。后端服务调整完成后，控制台相关功能及OpenAPI对应接口将恢复正常使用。</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif;">上线期间如果遇到相关问题，请您随时与京东智联云客服联系（电话：4006151212），感谢您对京东智联云的支持。</span>
+</p>
+<p><br/></p>
