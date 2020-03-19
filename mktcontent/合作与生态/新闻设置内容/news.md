@@ -1862,5 +1862,13 @@
 		"jss_key":"News_Content_778",
 		"id":778,
 		"news_title":"京东智联云携手千龙网 打造媒体融合创新之路"
+	},
+	{
+		"summary":"在京东集团、京东智联云、生态农业公司等多方的共同努力下，“江汉生态农业商城”电商平台极速上线，有效解决油城居民的“菜篮子”难题，保障居民生活需求。2月1日，共1480户居民，收到前一天通过“江汉生态农业商城”下单订购的蔬菜。",
+		"image_url":"//img1.jcloudcs.com/cms/4b7e0041-b638-49ea-9622-fc1e5c68762e20200319160003.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_779",
+		"jss_key":"News_Content_779",
+		"id":779,
+		"news_title":"京东携手江汉油田 守护居民菜篮子"
 	}
 ]
