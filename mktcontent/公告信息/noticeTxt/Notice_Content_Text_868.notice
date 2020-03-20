@@ -1,0 +1,10 @@
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">您好！</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">为了提升产品功能及用户体验，京东智联云计划于2020年3月21日12:00:00至3月21日20:00:00 ，在【华东-上海】地域进行Kubernetes系统维护，届时将：</span>
+</p>
+<p><span style="font-family: 微软雅黑, sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;暂停【华东-上海】地域 Kubernetes集群服务所有控制台访问以及OpenAPI服务。用户对已有集群仍可以通过Kubectl命令进行操作和管理。</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">此次功能升级不影响您所有地域的已有业务运行。上线完成后，控制台相关功能及OpenAPI对应接口将恢复正常使用。</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">上线期间如果遇到相关问题，请您随时与京东智联云客服联系（电话：4006151212），感谢您对京东智联云的支持。</span>
+</p>
