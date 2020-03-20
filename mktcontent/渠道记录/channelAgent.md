@@ -26,5 +26,45 @@
 	{
 		"channel_agent":"互联网应用",
 		"id":70
+	},
+	{
+		"channel_agent":"金融",
+		"id":72
+	},
+	{
+		"channel_agent":"零售",
+		"id":73
+	},
+	{
+		"channel_agent":"物流",
+		"id":74
+	},
+	{
+		"channel_agent":"城市政务",
+		"id":75
+	},
+	{
+		"channel_agent":"泛互联网",
+		"id":76
+	},
+	{
+		"channel_agent":"城市场景",
+		"id":77
+	},
+	{
+		"channel_agent":"医疗健康",
+		"id":78
+	},
+	{
+		"channel_agent":"教育",
+		"id":79
+	},
+	{
+		"channel_agent":"制造",
+		"id":80
+	},
+	{
+		"channel_agent":"京东智联云",
+		"id":81
 	}
 ]
