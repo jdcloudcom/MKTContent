@@ -48,5 +48,11 @@
 		"name":"京东云技术专场",
 		"description":"揭秘视频云端到端产品技术实践",
 		"id":112
+	},
+	{
+		"name":"banner 运营位1",
+		"description":"blabla",
+		"id":115,
+		"label":"直播"
 	}
 ]
