@@ -1870,5 +1870,125 @@
 		"jss_key":"News_Content_779",
 		"id":779,
 		"news_title":"京东携手江汉油田 守护居民菜篮子"
+	},
+	{
+		"summary":"京东云与AI事业部对原京东云、京东人工智能、京东物联三个品牌及相关业务进行整合升级，推出了全新的”京东智联云”品牌。京东智联云以“云智联世界”为使命，以信赖为原点和基石，致力于成为“最值得信赖的智能技术提供者”。",
+		"image_url":"//img1.jcloudcs.com/cms/6fda9c60-ab65-4386-a142-9d9726ec679c20200320171833.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_780",
+		"jss_key":"News_Content_780",
+		"id":780,
+		"news_title":"三张图看懂京东智联云的过去、现在和未来"
+	},
+	{
+		"summary":"后疫情时期，京东智联云将在技术创新、产品打造、服务提升、责任建设等方面不断前行，持续推动经济更好融入全球产业链、价值链、创新链，坚定地开放产业互联网“ABCDE”技术能力和生态、服务资源，携手各级政府和企业助力复工复产，释放京东全产业、全链条的社会价值，展现新型基础设施向上生长的力量。",
+		"image_url":"//img1.jcloudcs.com/cms/4fdc6269-0e3d-4f10-ad60-3d42a950add220200320172948.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_781",
+		"jss_key":"News_Content_781",
+		"id":781,
+		"news_title":"扎根“新基建” 京东智联云释放向上生长的力量"
+	},
+	{
+		"summary":"科技创造美好生活。未来，京东IoT将探索更多的使用场景，优化老年人使用体验，全链路打造产品生态圈，用科技去满足大家对生活的期待，更智能化地关爱长辈，构建家庭生活服务圈，让父母老有所乐，让子女心有所安。",
+		"image_url":"//img1.jcloudcs.com/cms/8f3a43ca-6a3c-488a-adfc-9d821ce69aee20200320183004.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_782",
+		"jss_key":"News_Content_782",
+		"id":782,
+		"news_title":"助力中国智能养老 京东IoT帮助长辈跨越“不智能”鸿沟"
+	},
+	{
+		"summary":"“突破与裂变”，2019京东全球科技探索者大会(JDDiscovery)在北京顺利召开，这已经是京东连续3年举办JDD大会，来自全球数百位行业领军人物和学术界大咖汇聚一堂，就零售科技、智能物流、金融科技、5G、数字营销、物联网等热门话题进行深度探讨。",
+		"image_url":"//img1.jcloudcs.com/cms/6e26845a-e3f1-4857-9645-9f5c2581ab9a20200320191006.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_783",
+		"jss_key":"News_Content_783",
+		"id":783,
+		"news_title":"京东发力AI、IoT领域 打造智能经济时代新优势"
+	},
+	{
+		"summary":"峰会由中国计算机学会（CCF）主办，雷锋网、香港中文大学（深圳）承办，深圳市人工智能与机器人研究院协办，得到了深圳市政府的大力指导，是国内人工智能和机器人学术界、工业界及投资界三大领域的顶级交流博览盛会，旨在打造国内人工智能领域极具实力的跨界交流合作平台。",
+		"image_url":"//img1.jcloudcs.com/cms/acc3ad30-e561-46ba-8fb7-c2af5b7703ec20200320191231.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_784",
+		"jss_key":"News_Content_784",
+		"id":784,
+		"news_title":"京东物联周炯：京东IoT场景布局的“三段斩”"
+	},
+	{
+		"summary":"由京东集团主办的“JDDiscovery-2019京东全球科技探索者大会”在北京举行。本届大会以“突破与裂变”为主题，吸引了国内外科技界、产业界、学术界、投资界的领军人物以及跨行业的意见领袖齐聚，共同探索在数字经济时代如何实现价值最大化。",
+		"image_url":"//img1.jcloudcs.com/cms/f0d604a5-7df1-49ee-b108-73eb8004580820200320192534.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_785",
+		"jss_key":"News_Content_785",
+		"id":785,
+		"news_title":"京东物联战略全面升级 双引擎驱动产业赋能新征程"
+	},
+	{
+		"summary":"京东房产与京东物联主办的“地产未来，从京开始”京东首届科技地产大会在上海举行，来自保利、碧桂园、中建、绿城等近千位地产行业领军人物及行业代表，在会上共同探讨数字化与地产结合及未来发展趋势，展望地产发展未来。",
+		"image_url":"//img1.jcloudcs.com/cms/e6543aa4-5a99-44df-bf5a-c4413dd64b8320200320195017.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_786",
+		"jss_key":"News_Content_786",
+		"id":786,
+		"news_title":"京东首届科技地产大会，助力房企转型智能生活运营商"
+	},
+	{
+		"summary":"京东物联工业物联网解决方案携手京东工业品，共同亮相本次盛会，集中展示了京东物联在工业物联、智能园区等领域的物联网应用成果，向业界展现了京东向以零售为基础的技术与服务转型的开放合作路径。",
+		"image_url":"//img1.jcloudcs.com/cms/4a5ba587-206b-43a2-9e08-97f9993e969f20200320200841.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_787",
+		"jss_key":"News_Content_787",
+		"id":787,
+		"news_title":"京东物联工业物联网解决方案亮相国际工博会 助力产业数字化升级"
+	},
+	{
+		"summary":"京东云、京东物联携手南京麒麟高新区参加本次盛会。博览会以“融合创新·万物智联”为主题，旨在通过展示全球物联网领域的最新技术成果，围绕车联网、人工智能、大数据等物联网技术与应用领域热点问题，携手社会各界交流思想、分享经验，共同展望物联网广阔发展前景。",
+		"image_url":"//img1.jcloudcs.com/cms/bb1cdf30-e7d9-4835-999a-fca21db7af9720200320203245.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_788",
+		"jss_key":"News_Content_788",
+		"id":788,
+		"news_title":"京东云&京东物联&南京麒麟高新区亮相物博会 共促智能科技新发展"
+	},
+	{
+		"summary":"京东物联总经理周炯代表京东集团赴山东青岛签署战略合作协议，青岛市市委副书记、市长孟凡利，青岛市政府秘书长卞建平，信通产业集团党委书记、董事长王政涛、副总经理辛永等领导出席签约仪式。",
+		"image_url":"//img1.jcloudcs.com/cms/29b83bda-7ec9-43a6-bf44-058df46dbb7720200320204221.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_789",
+		"jss_key":"News_Content_789",
+		"id":789,
+		"news_title":"京东参与发起山东省泛在电力物联网产业联盟，推进能源产业新升级"
+	},
+	{
+		"summary":"基于京东物联智能车联解决方案，将车、家等多场景打通，不仅实现通过车机系统控制如空调、冰箱、扫地机器人等多种品类的小京鱼智能家居设备，还可以通过京鱼座智能音箱，查询车辆状态和控制车辆内部分设备，让VV6车主体验到前所未有的智能生活体验。",
+		"image_url":"//img1.jcloudcs.com/cms/c676a370-23ca-4d4a-9465-6a38ad7356f920200320204630.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_790",
+		"jss_key":"News_Content_790",
+		"id":790,
+		"news_title":"京东物联助力长城汽车 为WEY品牌车主带来智能生活体验"
+	},
+	{
+		"summary":"浙江欧伦电气集团董事长陈先勇、营销总经理余栋斌、研发总监陈明生、中国家用电器研究院中国家用电器检测所副所长李欣、中国标准化协会电器电子分会副秘书长亓新、京东物联事业部平台合作部总经理方超、京东家电事业部生活电器总监杨琪、京东家电事业部商企赋能部经理王斌亮等领导出席了本次新品发布会。",
+		"image_url":"//img1.jcloudcs.com/cms/df916586-ec42-46dd-92a5-88c32f6ede9520200320205338.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_791",
+		"jss_key":"News_Content_791",
+		"id":791,
+		"news_title":"京东物联携手欧井，打造智能除湿+净化新时代"
+	},
+	{
+		"summary":"今年4月份在上海车展期间，京东即与海马正式达成无界零售战略合作，双方在汽车零售、车后服务、汽车金融以及IoT等领域进行深度合作。京东集团副总裁、京东零售集团生活服务事业群总裁辛利军认为，海马8S是京东与海马战略合作的重要落地之作。作为智能SUV，海马8S为双方在IoT领域的深度合作提供了重要抓手。",
+		"image_url":"//img1.jcloudcs.com/cms/94ef5c9c-91d8-4db7-b6e8-412d5291b9c520200320205942.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_792",
+		"jss_key":"News_Content_792",
+		"id":792,
+		"news_title":"京东与海马汽车战略合作升级 联手打造多元出行时代新范本"
+	},
+	{
+		"summary":"除了成熟的音频和智能交互设计，全面开放的小京鱼平台还为它带来了丰富的资源、海量的内容及服务、不断升级的家居操控等特性，让C1成为万物互联时代重要的连接节点。该产品全面开售，目前已在京东商城上架，原价269元，新品首发限时199元。",
+		"image_url":"//img1.jcloudcs.com/cms/dde07bbf-5ad4-4021-ae9e-26e7ce2c26b420200320210419.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_793",
+		"jss_key":"News_Content_793",
+		"id":793,
+		"news_title":"京鱼座AI音箱C1新品隆重上市，万物互联时代触手可及"
+	},
+	{
+		"summary":"在2019科大讯飞1024开发者节上，京东物联总裁周炯博士宣布京东物联AIoT平台将与科大讯飞iFLYOS达成全面战略合作，双方将在核心技术、应用服务、平台生态、行业方案等方面展开深度合作，进一步丰富AIoT落地场景，打造更卓越的用户体验，共同推动产业智能化升级。",
+		"image_url":"//img1.jcloudcs.com/cms/8fcff0c1-8b75-45f7-a649-f55d61a6efe820200320225842.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_794",
+		"jss_key":"News_Content_794",
+		"id":794,
+		"news_title":"京东物联携手科大讯飞 双引擎驱动引领智能经济"
 	}
 ]
