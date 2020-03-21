@@ -53,6 +53,12 @@
 		"name":"banner 运营位1",
 		"description":"blabla",
 		"id":115,
-		"label":"直播"
+		"label":"直播1"
+	},
+	{
+		"name":"laxin",
+		"description":"1",
+		"id":116,
+		"label":"111"
 	}
 ]
