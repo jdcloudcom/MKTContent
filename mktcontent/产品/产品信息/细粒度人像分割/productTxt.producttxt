@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"细粒度人像分割\",\"desc\":\"根据图片中的人体进行像素级识别，可识别出帽子，头发，上衣，袜子，裤子，围巾，裙子，脸，左右手臂，左右腿，左右鞋等20个类别\",\"label\":[],\"instruction\":[]}",
+		"id":1900
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"算法领先\",\"proName\":\"高精度细粒度人像分割算法，适应摄像头俯拍，斜拍等复杂背景\"},{\"showShade\":false,\"proGood\":\"特征多样\",\"proName\":\"对人体的关键部分进行识别，可识别，脸，头发，左右腿，等20个类别\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定可靠\",\"proName\":\"依托京东云计算，提供高并发高可靠的\"}]",
+		"id":1901
+	},
+	{
+		"txt":"[{\"funcName\":\"人体检测\",\"funcContent\":[{\"funcTitle\":\"基于图片和视频检测人体\",\"funcP\":\"根据输入的图片或视频，检测出图片或视频中的人体\"}]},{\"funcName\":\"细粒度识别\",\"funcContent\":[{\"funcTitle\":\"对人体进行像素级识别\",\"funcP\":\"准确的识别出头发，上衣，裤子，脸，左右臂，左右腿等\"}]}]",
+		"id":1902
+	},
+	{
+		"txt":"[{\"name\":\"安防监控\",\"instruction\":\"识别出人体的外观特征，辅助定位追踪特定人员，监测特定人员的动作等。可预警各类相关危险、违规行为，规避相关风险\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"行为分析\",\"instruction\":\"实时检测人体的各个部位特征，可根据需求分析其行为动作，判断是否符合要求.可以对人类行为进行分析找出规律\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"虚拟现实\",\"instruction\":\"实时监测人体的各个关键部位，判断动作，进行体感交互。可以提升用户的参与度，增加乐趣\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1903
+	}
+]
