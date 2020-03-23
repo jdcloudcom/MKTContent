@@ -1990,5 +1990,13 @@
 		"jss_key":"News_Content_794",
 		"id":794,
 		"news_title":"京东物联携手科大讯飞 双引擎驱动引领智能经济"
+	},
+	{
+		"summary":"为了保障疫情期间的正常医疗服务，减轻一线医务工作者的负担、缓解公众焦虑、帮助普通问诊人群及时了解自身病情，京东云与AI联合战略合作伙伴推出远程家庭医生服务。在疫情期间，向公众免费提供全天候、全职全科医生的远程视频问诊服务。",
+		"image_url":"//img1.jcloudcs.com/cms/a718a8b3-9b0c-481b-907d-7b01b271669320200323130630.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_795",
+		"jss_key":"News_Content_795",
+		"id":795,
+		"news_title":"抗击疫情与寻医诊脉两不误 京东云与AI远程家庭医生在行动"
 	}
 ]
