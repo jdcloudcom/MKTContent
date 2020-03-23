@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"商品图片搜索\",\"desc\":\"基于京东数亿级商品数据训练模型，支持自定义商品图图库，可在各种场景下搜索库中同款或相似款商品；方便用户在电商平台拍照搜索购物\",\"label\":[],\"instruction\":[]}",
+		"id":1920
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"自定义海量图库\",\"proName\":\"支持亿级以上图片自定义上传入库，支持灵活的图库数据管理\"},{\"showShade\":false,\"proGood\":\"毫秒级搜索响应\",\"proName\":\"数亿图片中搜索相同、相似图片耗时在毫秒级，满足在面向C端场景下仍然提供良好的用户体验\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"行业领先算法能力\",\"proName\":\"依靠京东海量商品数据进行模型训练和优化，经过真实的用户使用场景检验，达到行业领先水平\"}]",
+		"id":1921
+	},
+	{
+		"txt":"[{\"funcName\":\"图库管理\",\"funcContent\":[{\"funcTitle\":\"自定义图库管理\",\"funcP\":\"提供完整图片库增删改查服务，支持快速创建专属的商品图片库，支持亿级商品图片入库\"}]},{\"funcName\":\"图片检索\",\"funcContent\":[{\"funcTitle\":\"相同相似图片检索\",\"funcP\":\"支持在亿级的自定义的商品图库中检索相同或相似的商品图片，并返回相应的相似度\"}]},{\"funcName\":\"任务查询\",\"funcContent\":[{\"funcTitle\":\"任务状态查询\",\"funcP\":\"支持对商品入库任务的状态查询，保障业务线上健康运行\\\"\"}]}]",
+		"id":1922
+	},
+	{
+		"txt":"[{\"name\":\"电商图片搜索\",\"instruction\":\"在电商平台提供图片搜索功能，有利补充传统文字搜索在非标品商品搜索上的缺失\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"平台商家商品管理\",\"instruction\":\"通过图片搜索的功能，能够辅助专业机构及行业从业者进行市场行业调研，快速定位相同及相似竞品\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"行业信息调研\",\"instruction\":\"通过图片搜索的功能，能够辅助专业机构及行业从业者进行市场行业调研，快速定位相同及相似竞品\\\"\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1923
+	}
+]
