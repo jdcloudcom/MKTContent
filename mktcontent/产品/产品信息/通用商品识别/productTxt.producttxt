@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"通用商品识别\",\"desc\":\"基于京东海量商品数据及丰富购物场景，支持对图片、视频场景中对商品的识别，获得物品的商品类别和名称；支持在购物场景下的内容分析及拍照视图\",\"label\":[],\"instruction\":[]}",
+		"id":1916
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"海量商品识别\",\"proName\":\"毫秒级的图片处理和识别服务，满足各种业务场景下使用需求\"},{\"showShade\":false,\"proGood\":\"毫秒级搜索响应\",\"proName\":\"毫秒级的图片处理和识别服务，满足各种业务场景下使用需求\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"行业领先算法能力\",\"proName\":\"依靠京东海量商品数据进行模型训练和优化，经过真实的用户使用场景检验，达到行业领先水平\"}]",
+		"id":1917
+	},
+	{
+		"txt":"[{\"funcName\":\"主体检测\",\"funcContent\":[{\"funcTitle\":\"商品主体检测\",\"funcP\":\"识别图片中商品的主体，并返回相应的位置框坐标\"}]},{\"funcName\":\"类目识别\",\"funcContent\":[{\"funcTitle\":\"商品类目识别\",\"funcP\":\"识别图片中商品的4级类目，并返回相应的类目名称\"}]},{\"funcName\":\"名称识别\",\"funcContent\":[{\"funcTitle\":\"商品名称识别\",\"funcP\":\"识别图片中商品名称并返回\\\"\"}]}]",
+		"id":1918
+	},
+	{
+		"txt":"[{\"name\":\"全渠道商品识别\",\"instruction\":\"在线上、线下各种场景中对商品主体检测并识别出相应的类目及商品名称\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"视频直播商品推荐\",\"instruction\":\"在视频、直播等场景中识别相应商品类目及名称，根据场景可推荐相似相关商品，提升点击转化\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"行业数据分析\",\"instruction\":\"支持专业机构及行业从业者进行市场行业调研，快速分析产品在市场多种场景下的展示、销售及用户触达情况\\\"\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1919
+	}
+]
