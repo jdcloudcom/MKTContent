@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"声纹识别\",\"desc\":\"依托京东自研的声纹识别技术，实现声纹注册和声纹1:1对比验证服务，对说话人的声波特征进行提取和验证辨识\",\"label\":[],\"instruction\":[]}",
+		"id":1896
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"技术领先\",\"proName\":\"行业领先的算法引擎、准确率高于99%\"},{\"showShade\":false,\"proGood\":\"设置灵活\",\"proName\":\"数字、自由说等多种声纹验证模式\"}]",
+		"id":1897
+	},
+	{
+		"txt":"[{\"funcName\":\"声纹注册\",\"funcContent\":[{\"funcTitle\":\"声纹注册\",\"funcP\":\"可以从说话人的声音中提取声纹信息，注册到声纹库中\"}]},{\"funcName\":\"声纹确认\",\"funcContent\":[{\"funcTitle\":\"声纹确认\",\"funcP\":\"将说话人所发出的声音与云端声纹库中该用户注册的声纹做1:1比对，进行说话人确认\"}]}]",
+		"id":1898
+	},
+	{
+		"txt":"[{\"name\":\"远程认证\",\"instruction\":\"在银行、证券和借贷等实名制和安全性要求较高的领域，可作为用户远程注册和密码找回环节中的辅助验证\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"智能门禁\",\"instruction\":\"使用声纹识别结合其他生物识别作为门禁系统的开锁方式，可实现无需携带任何物品的验证流程\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"智能考勤\",\"instruction\":\"使用声纹识别结合其他生物识别进行考勤\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1899
+	}
+]
