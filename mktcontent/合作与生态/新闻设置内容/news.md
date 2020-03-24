@@ -1998,5 +1998,13 @@
 		"jss_key":"News_Content_795",
 		"id":795,
 		"news_title":"抗击疫情与寻医诊脉两不误 京东云与AI远程家庭医生在行动"
+	},
+	{
+		"summary":"面对疫情，作为最懂产业的数字经济服务企业，京东智联云携手各地政府“穿针引线”，聚合区域经济、整合地方资源，打通电商销售渠道，助力农产品电商上行，激发各地产业生命力，为各地政府打造了一条“助农保供”的数字供应链。",
+		"image_url":"//img1.jcloudcs.com/cms/b969a997-642b-4525-9341-00de8f37db7620200324135139.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_796",
+		"jss_key":"News_Content_796",
+		"id":796,
+		"news_title":"京东智联云携手政府科技抗疫 共克时艰"
 	}
 ]
