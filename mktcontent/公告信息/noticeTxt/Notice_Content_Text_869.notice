@@ -1,0 +1,42 @@
+<p>您好！</p>
+<p>&nbsp;</p>
+<p>为了提升产品稳定性和用户体验，京东智联云计划于2020年3月26日凌晨00:30:00至02:00:00 ，在【华北-北京】地域进行私有网络、负载均衡、混合云连接等服务的后端管理进行升级，影响如下：</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+私有网络【华北-北京】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+负载均衡【华北-北京】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+混合云连接【华北-北京】地域在切换期间，不可进行控制台操作<span style="font-family: arial, helvetica, sans-serif;"></span>
+，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+云主机&amp;实例模板&amp;高可用组【华北-北京】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+原生容器&amp; Kubernetes集群【华北-北京】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+云文件服务【华北-北京】地域在切换期间，不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+数据库与缓存在切换期间，<span style="color:black">全地域控制台管理操作不可用</span>
+，暂停【华北-北京】地域创建、删除等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings;color:black">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+弹性伸缩&amp;消息队列&amp;云搜索&amp;微服务平台&amp;API网关&amp;列式存储&amp;JMR&amp;云监控在切换期间，全地域控制台管理操作不可用，暂停【华北-北京】地域创建、删除等功能的OpenAPI服务。</p>
+<p style="text-indent:28px">&nbsp;</p>
+<p style="text-indent:28px">除以上产品之外，如下业务也将受影响</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+官网促销：在切换期间，线上相关促销活动、均将暂停售卖，请提前安排相关业务的购买。</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+京东智联云APP：在切换期间，如上产品的创建、调整配置、删除、查询功能，将提示“网络异常，请重试”。</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-indent:0"><span style="font-family:宋体">&nbsp;</span>
+</p>
+<p><strong>此次功能升级不影响您所有地域的已有业务运行</strong>。后端服务调整完成后，控制台相关功能及OpenAPI对应接口将恢复正常使用。</p>
+<p>上线期间如果遇到相关问题，请您随时与京东智联云客服联系（电话：4006151212），感谢您对京东智联云的支持。</p>
+<p><br/></p>
