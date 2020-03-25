@@ -1,14 +1,18 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"网站威胁扫描\",\"label\":[{\"TitleName\":\"立刻试用\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/threatscanner\",\"classTag\":\"\"}],\"desc\":\"集资产自动关联发现、Web漏洞扫描、端口漏洞扫描、弱密码检测四大核心功能，发现网站或服务器在网络中的安全风险，为云上业务提供多维度的安全检测服务，满足合规要求，让网站安全漏洞无所遁形\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"网站威胁扫描\",\"label\":[{\"TitleName\":\"立刻购买\",\"TitleUrl\":\"https://threatscanner-console.jdcloud.com/jsecscanner/create\",\"classTag\":\"\"}],\"desc\":\"集资产自动关联发现、Web漏洞扫描、端口漏洞扫描、弱密码检测四大核心功能于一身，覆盖云上用户VPC内网资产、提供互联网服务的IP/域名资产、用户IDC机房内网资产三大业务场景的漏洞威胁扫描类产品\"}",
 		"id":1356
 	},
 	{
-		"txt":"[{\"showShade\":false,\"proGood\":\"深度漏洞扫描\",\"proName\":\"支持：OWASP Top10 漏洞检测类型，PoC插件检测，资产指纹扫描关联能力\"},{\"showShade\":false,\"proGood\":\"详尽报告\",\"proName\":\"提供详尽的漏洞扫描报告，包括：系统存在的Web安全漏洞、应用系统安全漏洞，系统存在的弱口令等及修复建议，引导并帮助用户修补漏洞\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高效精准\",\"proName\":\"采用web2.0智能爬虫技术，内部验证机制不断优化，提高检测准确\"}]",
+		"txt":"[{\"showShade\":false,\"proGood\":\"漏洞检测高度精准\",\"proName\":\"采用web2.0智能爬虫技术，优化内部验证机制，最大限度减少漏洞误报给客户带来的干扰。\"},{\"showShade\":false,\"proGood\":\"漏洞种类覆盖全面\",\"proName\":\"覆盖OWASP Top10 漏洞检测、PoC插件检测等多种漏洞监测类型。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"资产类型支持广泛\",\"proName\":\"支持扫描互联网服务的IP/域名资产、云上用户VPC内网资产、用户IDC机房内网资产等多种扫描资产类型\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"立体式扫描风险管理\",\"proName\":\"详尽的漏洞扫描报告，，为您从多种角度分析资产安全风险；包括：系统存在的Web安全漏洞、应用系统安全漏洞，系统存在的弱口令等及修复建议，引导并帮助用户修补漏洞\"}]",
 		"id":1357
 	},
 	{
-		"txt":"[{\"funcName\":\"威胁概览\",\"funcContent\":[{\"funcTitle\":\"展示漏扫扫描统计结果\",\"funcP\":\"提供风险等级，漏洞数量，漏洞IP，漏洞域名，以及漏洞发展趋势，IP维度，域名维度的Top10风险资产，Top10漏洞分类\"}]},{\"funcName\":\"资产管理\",\"funcContent\":[{\"funcTitle\":\"添加漏洞扫描资产\",\"funcP\":\"自动导入京东云托管的公网IP、域名资产，同时支持cookies扫描、URL白名单，以及对资产认证。\"}]},{\"funcName\":\"任务管理\",\"funcContent\":[{\"funcTitle\":\"扫描任务管理\",\"funcP\":\"提供创建扫描任务，修改扫描任务各项参数，以及对任务状态的管理，最终下载扫描报告。\"}]},{\"funcName\":\"风险管理\",\"funcContent\":[{\"funcTitle\":\"扫描结果展示\",\"funcP\":\"提供基于漏洞维度、IP维度、域名维度的扫描结果展示，同时提供漏洞修复建议。\"}]}]",
+		"txt":"[{\"funcName\":\"威胁可视化概览\",\"funcContent\":[{\"funcTitle\":\"展示资产威胁扫描统计结果\",\"funcP\":\"支持资产风险评估，资产漏洞统计，风险资产统计，漏洞变化分析，TOP N的风险资产与漏洞类型等功能\"}]},{\"funcName\":\"扫描资产管理\",\"funcContent\":[{\"funcTitle\":\"管理各类扫描资产状态信息\",\"funcP\":\"支持多种类型添加扫描资产，资产自动关联发现，资产认证与管理，资产登录态管理，URI白名单设置自定义，模糊匹配查询资产，资产管理可视化等功能\"}]},{\"funcName\":\"扫描任务管理\",\"funcContent\":[{\"funcTitle\":\"灵活按需选择扫描任务类型\",\"funcP\":\"支持快速添加扫描目标资产，按需选择多种扫描模式，灵活选择多种扫描方式，自定义选择扫描速度与选择端口配置，支持UDP高级扫描模式，自定义web扫描配置以及模糊匹配查询扫描任务等功能\"}]},{\"funcName\":\"扫描风险管理\",\"funcContent\":[{\"funcTitle\":\"多维度呈现扫描资产风险状态\",\"funcP\":\"支持针对安全漏洞风险、IP资产风险、域名资产风险进行管理，具备海量漏洞检测类型，数百种PoC插件检测，以及资产指纹扫描关联能力\"}]},{\"funcName\":\"安全评估报告\",\"funcContent\":[{\"funcTitle\":\"提供清晰直观的风险评估报告\",\"funcP\":\"提供清晰的评估报告摘要，详细的资产指纹信息，完善的资产漏洞信息，包括：系统存在的Web安全漏洞、应用系统安全漏洞，系统存在的弱口令等及修复建议，引导并帮助用户修补漏洞等信息\"}]}]",
 		"id":1358
+	},
+	{
+		"txt":"[{\"name\":\"各类企业网站扫描\",\"instruction\":\"网站的漏洞与弱点易于被黑客利用，形成攻击，带来不良影响，造成经济损失。网站威胁扫描产品基于数据分析统计模型和先进的漏洞扫描引擎，为企业输出全面的漏洞检测报告，并给出专业的修复建议，可以有效避免漏洞被黑客利用。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7231600f-4f7e-4bdb-9d92-37eacb70f25b20200325153839.png\",\"showShade\":false},{\"name\":\"云上VPC内网扫描\",\"instruction\":\"随着企业不断将自身业务逐渐迁移上云，云上网络拓扑一般分为业务访问、外网访问和管理访问，云内各类应用系统都封装到VPC的虚拟局域网（VLAN）中，当前大部分公有云漏洞扫描的解决方案是通过互联网扫描暴露在公网的IP或域名。针对云内的网络架构，大都束手无策。有鉴于此，产品推出了针对云内VPC内网的资产支持威胁扫描的场景，并可以结合态势感知产品进一步评估云内的整体安全态势。进而达到先于黑客了解内网资产漏洞的目的，同时减少内部网络的攻击面，降低云上内网横向攻击渗透风险。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/26ab2fe9-e642-4d7d-b3e0-a202372d427a20200325155136.png\",\"showShade\":false},{\"name\":\"外部IDC资产扫描\",\"instruction\":\"在企业将业务逐步迁移上云的过程中，对于企业来说，在一段相当长的时间内，都存在一部分业务已迁移上云，而也有一部分业务还在本地机房或托管在IDC机房中。然而对于企业运维人员的资产漏洞风险管理运维，无疑增加了不小的工作量。有鉴于此，产品推出了针对用户IDC机房的资产支持威胁扫描的场景，只需要手动下载快速部署探针，并在外部IDC环节中手动部署后，就可以通过京东智联云网站威胁扫描产品，集中管理分布在外部IDC资产漏洞风险状态。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b65d2b1f-61da-42fb-9e6c-17bd8815253020200325155405.png\",\"showShade\":false}]",
+		"id":1947
 	}
 ]
