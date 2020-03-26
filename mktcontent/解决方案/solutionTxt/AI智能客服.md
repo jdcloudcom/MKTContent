@@ -10,17 +10,5 @@
 		"templet":"71",
 		"id":817,
 		"solution_id":"170"
-	},
-	{
-		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"方案详述\",\"name\":\"scene\",\"data\":[{\"title\":\"在线客服机器人\",\"sceneDescription\":\"零售、市政、客服、医疗等领域客服场景。\",\"solution\":\"提供多伦对话、千人千面、情绪感知等能力结合，实现7×24小时便捷的智能应答服务，降低客服人力成本。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/25347ae6-84c9-4134-8452-36d0f11ef6e220191021105027.png\",\"showShade\":false},{\"title\":\"语音客服机器人\",\"sceneDescription\":\"零售、市政、客服、医疗等领域客服场景。\",\"solution\":\"包含语音应答（自动转接）和语音外呼（自动呼出）两种服务，以拟人化的语音交互为用户提供服务。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ec97dbf9-e75d-4a59-bc68-28ed2d8c10eb20191021100816.png\",\"showShade\":false},{\"title\":\"智能工作台\",\"sceneDescription\":\"零售、市政、客服、医疗等领域客服场景\",\"solution\":\"引入AI能力，通过会话提炼、应答推荐及自动工单等，全面升级人工坐席工作台，实现人工坐席效率大幅提升。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ca9b4a10-2210-45a8-8a5e-b547b81bd95e20191021100844.png\",\"showShade\":false},{\"title\":\"智能调度\",\"sceneDescription\":\"零售、市政、客服、医疗等领域客服场景。\",\"solution\":\"实现用户咨询和服务资源之间的最优调度，降低用户等待时长，提升用户体验，优化客服中心的人员利用率。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3d5912f5-518c-4a51-a069-9c150ccdc3ec20191021101054.png\",\"showShade\":false},{\"title\":\"智能质检\",\"sceneDescription\":\"零售、市政、客服、医疗等领域客服场景。\",\"solution\":\"通过从对话文本和录音中挖掘风险、商机的智能对话分析工具，可帮助企业提升客服服务质量、监控舆情风险。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/759a04d3-2dd1-48ec-aae8-c8858cd7ab6a20191021101018.png\",\"showShade\":false}]}",
-		"templet":"41",
-		"id":818,
-		"solution_id":"170"
-	},
-	{
-		"txt":"{\"operator\":\"duanhui5\",\"floorName\":\"客户案例\",\"name\":\"cases-2\",\"data\":[{\"cases\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1245f513-e910-4bbd-af55-46893a9a2b8220191021150542.png\",\"title\":\"大同12345市长热线\",\"sketch\":\"为大同12345市长热线提供智能升级方案，人机无缝衔接，全面覆盖民生触达渠道。\",\"linkUrl\":\"http://neuhub.jd.com/solution/znkf\",\"linkClassTag\":\"1\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/387a1608-503c-41c9-8c6b-dfd9bd96e73820191021150554.png\",\"title\":\"中华人民共和国商务部\",\"sketch\":\"为商务部提供完整全渠道智能政务咨询服务，准确率高达90%+，灵活定制，安全可靠。\",\"linkUrl\":\"http://neuhub.jd.com/solution/znkf\",\"linkClassTag\":\"1\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/659aa873-5361-4c63-8205-7de457e99e1420191021150609.png\",\"title\":\"京东集团\",\"sketch\":\"为京东零售、物流、金融等场景上亿用户提供智能客服服务，大幅提升体验和商品转化率。\",\"linkUrl\":\"http://neuhub.jd.com/solution/znkf\",\"linkClassTag\":\"1\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]}",
-		"templet":"92",
-		"id":819,
-		"solution_id":"170"
 	}
 ]
