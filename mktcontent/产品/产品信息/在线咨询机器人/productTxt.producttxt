@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"在线咨询机器人\",\"label\":[],\"desc\":\"业界首个大规模商用的情感机器人，多轮对话精准理解意图，人机无缝协作，以解决问题为导向，智能连接用户，为企业全场景赋能的在线咨询机器人\"}",
+		"id":1932
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"智能化升级最佳实践\",\"proName\":\"京东集团客户体验与服务中心智能化升级最佳实践\"},{\"showShade\":false,\"proGood\":\"情感智能，服务更拟人\",\"proName\":\"多维度用户情感感知，拟人化服务更贴心\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多轮对话，应答更精准\",\"proName\":\"多 Bot 对话引擎，意图识别更精准，闭环解决用户问题，服务直达\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"人机融合，协作更高效\",\"proName\":\"智能分流无缝转人工，人机协作，为用户提供恰到好处的服务\"}]",
+		"id":1933
+	},
+	{
+		"txt":"[{\"funcName\":\"智能对话\",\"funcContent\":[{\"funcTitle\":\"对话引擎\",\"funcP\":\"智能对话中台：支持多 Bot 对话引擎（任务型、问答型、知识图谱、机器阅读、闲聊等），灵活解决多种场景、不同复杂度的用户咨询\"},{\"funcTitle\":\"体验拟人\",\"funcP\":\"图文、语音等多模态交互，有温度、个性化的情感感知，对话流畅更拟人\"}]},{\"funcName\":\"个性化运营\",\"funcContent\":[{\"funcTitle\":\"运营便捷\",\"funcP\":\"丰富的运营工具，对话搭建更便捷；可视化会话流程，易理解配置更灵活\"},{\"funcTitle\":\"接入快速\",\"funcP\":\"Web/H5、微信、API 等全渠道自助快捷接入，灵活支持多渠道内容运营\"}]},{\"funcName\":\"训练调优\",\"funcContent\":[{\"funcTitle\":\"自助调优\",\"funcP\":\"自助执行测试与发布流程，快捷轻量化训练与调优，闭环全流程运营服务\"},{\"funcTitle\":\"智能分析\",\"funcP\":\"多维度数据可视化，智能诊断分析与建议，持续自学习优化\"}]}]",
+		"id":1934
+	},
+	{
+		"txt":"[{\"name\":\"业务咨询\",\"instruction\":\"解决业务大量重复性、高频问题，减少用户等待时长，缓解高峰期接待压力，提升用户体验与服务效率\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ed640f4a-7d2b-44b6-b280-b58e91c98ca920200326115538.png\",\"showShade\":false},{\"name\":\"信息查询\",\"instruction\":\"针对人工客服需在多个系统多次查询的场景，提供一站式自助查询服务，简化操作流程，缓解人工压力\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e051a479-f407-427f-9f87-aececb3b4f1620200326115546.png\",\"showShade\":false},{\"name\":\"业务办理\",\"instruction\":\"以闭环解决用户问题为导向，通过联动业务系统，提供精准服务直达，提升业务处理效率\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d62be7f9-fd7b-44c0-be1d-d121d8dda02320200326115551.png\",\"showShade\":false},{\"name\":\"服务分流\",\"instruction\":\"根据用户咨询意图与画像进行智能资源调度，人机无缝衔接，为用户提供最恰当的服务\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/af5cd3fe-acc8-4709-85a7-1ed491b4b5ea20200326115555.png\",\"showShade\":false}]",
+		"id":1935
+	},
+	{
+		"txt":"[{\"name\":\"如何开通？\",\"link\":\"https://jimi3-chat.jd.com/bot?venderId=897612092\",\"classTag\":\"https://www.jdcloud.com/\"},{\"name\":\"否支持定制？\",\"link\":\"https://jimi3-chat.jd.com/bot?venderId=897612092\",\"classTag\":\"https://www.jdcloud.com/\"},{\"name\":\"如何进行项目搭建及实施，有哪些流程？\",\"link\":\"https://jimi3-chat.jd.com/bot?venderId=897612092\",\"classTag\":\"https://www.jdcloud.com/\"}]",
+		"id":1936
+	}
+]
