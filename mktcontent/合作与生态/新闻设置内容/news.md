@@ -2005,6 +2005,22 @@
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_796",
 		"jss_key":"News_Content_796",
 		"id":796,
-		"news_title":"京东智联云携手政府科技抗疫 共克时艰"
+		"news_title":"17封感谢信背后—京东智联云与地方政府携手共同抗疫的感人故事"
+	},
+	{
+		"summary":"京东云与AI基于多年技术沉淀及智能供应链优势和定向开发的产品服务能力，针对无接触体温筛查需求，推出了“京东智能温感筛查系统”。目前，该系统已在京东集团总部及全国10余个城市的人群密集区域、关键出入口应用。",
+		"image_url":"//img1.jcloudcs.com/cms/2b656f43-ad76-4163-987e-e22caf06158220200325112910.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_797",
+		"jss_key":"News_Content_797",
+		"id":797,
+		"news_title":"蔡奇为京东技术防控点赞，称企业商务楼宇防疫向京东看齐"
+	},
+	{
+		"summary":"疫情爆发以来，京东云与AI相继上线了应急资源信息发布平台、京东情感智能客服等抗击疫情产品。同时，京东云与AI也高度重视疫情的防控，先后上线了“京东智能温感筛查系统”和口罩识别技术，作为员工安全的一道屏障，形成了一套复工解决方案，全力保障广大员工的安全。",
+		"image_url":"//img1.jcloudcs.com/cms/4c539e5f-fd63-42b6-8451-48eb95dac0eb20200325115554.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_798",
+		"jss_key":"News_Content_798",
+		"id":798,
+		"news_title":"科技护航：京东云与AI上线口罩识别技术 多项产品组合保障员工安全复工"
 	}
 ]
