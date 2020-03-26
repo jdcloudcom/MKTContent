@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"智能语音外呼\",\"label\":[],\"desc\":\"基于领先的AI技术，机器人代替人工，主动向外呼出电话，打造媲美真人的语音互动体验，低成本高精准触达客户，高效解决企业回访、通知、调研等业务场景问题\"}",
+		"id":1942
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"智能化升级最佳实践\",\"proName\":\"京东集团客户体验与服务中心智能化升级最佳实践\"},{\"showShade\":false,\"proGood\":\"语音语义多维情感识别\",\"proName\":\"语音情绪模型与语义情绪模型相结合，多维度识别用户情感，拟人化服务更贴心\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"真人化语音交互\",\"proName\":\"提供多种高拟人音色，根据客户需求量身定制，灵活支持语速、音量、重读等效果调整\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高接通高转化\",\"proName\":\"大规模商用实践，接通率行业领先，消息触达、信息采集、潜在客户挖掘效果显著\"}]",
+		"id":1943
+	},
+	{
+		"txt":"[{\"funcName\":\"语音情感智能\",\"funcContent\":[{\"funcTitle\":\"语音引擎\",\"funcP\":\"智能语音中台：基于领先的ASR、TTS技术，支持拟人化多轮语音交互，精准识别用户意图，灵活支持多行业、多场景的外呼任务\"},{\"funcTitle\":\"人机协同\",\"funcP\":\"支持对话过程中无缝转接人工，外呼数据实时分析，灵活进行人工干预\"}]},{\"funcName\":\"个性化运营调优\",\"funcContent\":[{\"funcTitle\":\"运营便捷\",\"funcP\":\"丰富的运营工具：多行业话术模板、可视化配置界面、自定义拨打设置，便捷易用，配置高效\"},{\"funcTitle\":\"自助调优\",\"funcP\":\"提供语音及语义调优工具，快捷训练优化，自助执行测试与发布流程，闭环全流程运营服务\"},{\"funcTitle\":\"智能分析\",\"funcP\":\"自定义客户标签，通话中自动生成客户画像，多维度可视化数据报表，为精细化用户运营提供智能化工具\"}]}]",
+		"id":1944
+	},
+	{
+		"txt":"[{\"name\":\"用户回访\",\"instruction\":\"有温度、个性化的用户回访，精准收集用户反馈，智能统计分析反馈信息。常见场景包括客户关怀，满意度调研，流动人口排查等\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/bd4d352a-c5fb-43d5-b1ae-24b869fede9c20200326120019.png\",\"showShade\":false},{\"name\":\"信息通知\",\"instruction\":\"操作便捷高效，信息通知规范严谨，应用行业广泛，大幅提升信息通知效率。常见场景包括续费通知，物流配送通知，活动邀约等\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/82168f18-c7ba-485f-bc7e-78ead1e4d30620200326120024.png\",\"showShade\":false},{\"name\":\"提醒催收\",\"instruction\":\"多行业话术模板沉淀，批量自动外呼，降低人力成本，实现更高效的提醒催收。常见场景包括金融催收，还款提醒等\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a174080c-c437-4024-9b18-2e9577e9a71720200326120028.png\",\"showShade\":false},{\"name\":\"意向筛选\",\"instruction\":\"自定义意向标签，基于AI技术和大数据分析，实现海量客户意向筛选，提升清洗和筛选效率，精准获客。常见场景包括信用卡开卡用户邀请，活动推荐等\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/227521c4-3ea1-4bc9-b69e-63784bce32c820200326120031.png\",\"showShade\":false}]",
+		"id":1945
+	},
+	{
+		"txt":"[{\"name\":\"如何开通？\",\"link\":\"https://jimi3-chat.jd.com/bot?venderId=897612092\",\"classTag\":\"https://www.jdcloud.com/\"},{\"name\":\"是否支持定制？\",\"link\":\"https://jimi3-chat.jd.com/bot?venderId=897612092\",\"classTag\":\"https://www.jdcloud.com/\"},{\"name\":\"电话系统和线路如何接入？\",\"link\":\"https://jimi3-chat.jd.com/bot?venderId=897612092\",\"classTag\":\"https://www.jdcloud.com/\"}]",
+		"id":1946
+	}
+]
