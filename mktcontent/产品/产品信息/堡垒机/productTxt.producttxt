@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"堡垒机\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/bastion\",\"classTag\":\"\"}],\"desc\":\"堡垒机是京东云提供的具备权限管控、安全审计、自动化运维能力的运维产品\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"堡垒机\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://bastion-console.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"堡垒机是京东云提供的具备权限管控、安全审计、自动化运维能力的运维产品\"}",
 		"id":1512
 	},
 	{
