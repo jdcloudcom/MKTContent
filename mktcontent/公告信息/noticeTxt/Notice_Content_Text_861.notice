@@ -1,0 +1,69 @@
+<p style="text-indent:28px">
+On March 11, 2020, JD Cloud & AI Security Team detected that Microsoft released an official security announcement, disclosing that some Windows versions of SMBv3 protocol has a remote code execution vulnerability when implementing the compression function, and that the attacker successfully using this vulnerability can execute the code in the target SMB server or SMB client. Currently, Microsoft has officially provided a security patch and a mitigation measure that requires no patch.
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">Vulnerability Description</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-indent:28px">
+This vulnerability (CVE-2020-0796) has worm features. Attackers without user interaction can directly remotely use the Windows SMB service vulnerability to remotely attack and obtain the highest permission of the system by virtue of ordinary user permission, which is of extremely high risk. This vulnerability will only have impact on Windows 10 system and Server 1903, 1909 system version, and will not affect the Public Image provided by JD Cloud & AI.
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">Vulnerability Rating</span>
+</p>
+<p>&nbsp;</p>
+<p>CVE-2020-0796 <span style="font-family:宋体">High Risk</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span style="font-family:宋体">Affected Version</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp; Windows 10 Version 1903 for 32-bit Systems</p>
+<p>&nbsp; Windows 10 Version 1903 for x64-based Systems</p>
+<p>&nbsp; Windows 10 Version 1903 for ARM64-based Systems</p>
+<p>&nbsp; Windows Server, version 1903 (Server Core installation)</p>
+<p>&nbsp; Windows 10 Version 1909 for 32-bit Systems</p>
+<p>&nbsp; Windows 10 Version 1909 for x64-based Systems</p>
+<p>&nbsp; Windows 10 Version 1909 for ARM64-based Systems</p>
+<p>&nbsp; Windows Server, version 1909 (Server Core installation)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span style="font-family:宋体">Repair Solution</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+Users using Windows system versions affected by the vulnerability may repair or alleviate the problem by any of the following ways:
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:left">
+1. Go to Microsoft official website and download relevant patches for update: https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796.</span>
+</p>
+<p>
+<span style="font-family:宋体">You are suggested to back up your data before installing patches to avoid accidental loss</span>
+</p>
+<p>&nbsp;</p>
+<p>
+2. Workaround: Disable SMBv3 service, enable PowerShell in administrator mode, and replicate the following command to the Powershell command line, and then execute:
+</p>
+<p style="text-align:left">&nbsp; Set-ItemProperty -Path &quot;HKLM:\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters&quot; DisableCompression -Type DWORD -Value 1 -Force</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+3. Disable SMB service port and prohibit Ports 139 and 445 from opening to the Internet.
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">Relevant Links</span>
+</p>
+<p>&nbsp;</p>
+<p>https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/adv200005</p>
+<p><br/></p>

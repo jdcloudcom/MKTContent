@@ -1,0 +1,49 @@
+<p style="text-indent: 2em;">qianlong.com, governed and organized by the Publicity Department of the CPC Beijing Committee, is the portal of Beijing Municipal key news websites and Beijing network news information. Therefore, qianlong.com is not only the source of authoritative policies but can truly express citizens’ voice.</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>Focus on Epidemic</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>Media Authority Launches "Epidemic Information"</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">Recently, people gradually resume economic activities and production as the epidemic prevention and control across the country manifested a positive trend. However, in consideration of the current situation, the administrations need to keep up with the epidemic updates in a more comprehensive and faster way in order to immediately locate the epidemic and prepare at any time for the deployment and decision-making on the epidemic prevention and control. To meet this need, JD Cloud & AI promptly researched, developed and launched the "Epidemic Information".</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Go where there is epidemic, fight it till it perishes. There have been a dozen of social administrations and primary-level organizations using the "Epidemic Information" real-time big data analysis platform as of February 24. As a municipal key news website in Beijing, qianlong.com promptly launched the "Epidemic Information" service platform.</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/5e119dec-87e7-42b0-a048-8b8c3d953efa20200312153453.jpg" title="" alt="modify1.jpg"/></p>
+<p style="text-indent: 2em; text-align: center;">qianlong.com's Frame of Beijing Epidemic Real-time Monitoring</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Based on JD Cloud & AI's core technologies in cloud, AI and big data, "Epidemic Information" provides the social administrations with "multidimensional", "visual" and "five-in-one" (patients, locations, items, events and organizations) information release and epidemic prevention and control services, provides the primary-level organizations with dynamic health assessment of people resuming production in grid affected areas, and provides the public within areas under the administrations with consulting services of the epidemic.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Win the battle against the epidemic with science and technology. Relevant chief of qianlong.com said, the launch of "Epidemic Information" gets extensive attention of the users who can view the real-time data of the epidemic at any time and any place on one hand, and on the other hand, enables qianlong.com to better serve the terminal users during the epidemic.</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>Customized Service</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>Provide Operational Support for Cloud Media</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">On August 1, 2019, Beijing News and qianlong.com completed the conformity, realizing the integrations of compilation, operation and administration respectively. So far, another solid step has been taken towards the development of media convergence in Beijing.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In the project of qianlong.com JD Cloud Onboarding, JD Cloud & AI advances intensification, digitalization, cloudification and intellectualization of media production with information technologies such as AI, big data, cloud computing and Internet. JD Cloud & AI adopts the basic architecture which is separated statically and dynamically. The dynamic part adopted the PHP technical system, while the static part adopted Nginx to set up a static page server. The website has 3 portals: including the background editing portal, the static page portal and the dynamic page portal.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">JD Cloud & AI uses the "Load Balancer + Clusters of Virtual Machines" for background editors, foreground static servers and foreground dynamic servers to improve the resource utilization rate and performance of the machine while guaranteeing the failure of a single set of performance backend server will not affect the user services and there are other server arrays to enhance the service capability.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In order to process the video news, qianlong.com uses JD Cloud & AI's VOD product. The VOD service is a one-stop VOD service that is developed as an integration of video upload, media assets management, video processing, delivery, play and other functions based on the powerful basic service capability of JD Cloud & AI. The product includes functions such as media assets management, "Jingxiang" super definition transcode, distribution and play, solving the full-process processing of video news in one stop.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In addition, it uses JD Cloud & AI's Live Video product. The product provides one-stop live video service of low delay, high availability and easy access with the distributed real-time transcode technology, technically securing the live streaming of major events of qianlong.com.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In January 2020, qianlong.com reported NPC & CPPCC in Beijing 2020 in an all-round way. JD Cloud & AI provided key guarantee for this report: Before the launch of NPC & CPPCC, JD Cloud & AI made an overall routing inspection for cloud resources and consolidated the security system. During NPC & CPPCC, resource pressure and alarm situation was checked and the daily key guarantee report was sent every day. JD Cloud & AI's products including Live Streaming, VOD, CDN and Virtual Machines stably support the reporting of NPC & CPPCC by qianlong.com, achieving zero faults.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">Relevant chief of qianlong.com said, the technical support provided by JD Cloud & AI enables the platform to realize synchronous collaboration among different places, from long distances and among multiple platforms, send multiple platforms by one-click, and improve the operation efficiency; it not only satisfies the high-performance requirements of qianlong.com, but also provides flexible deployment capabilities.</p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>Full-coverage of Product Line</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>Lower Cost, Convenient Operation and Maintenance, High Security</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">After attempts of about half a year by JD Cloud & AI's R&D Team, the main station, big data system, map depot system and the Belt and Road Initiative website of qianlong.com have been gradually migrated to the cloud, achieving good earnings.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">For qianlong.com, it was formerly deployed in its own IDC with high resource cost, complicated operation and maintenance and huge security investment effort.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">The abundant and powerful IaaS products, video products and security products of JD Cloud & AI have brought qianlong.com huge benefits. First of all, as the cloud computing resources are flexible and scalable, qianlong.com can create and revoke resources at any time according to the needs of business development, which helps qianlong.com reduce the operation and maintenance workload and the security protection costs after its JD Cloud Onboarding, saving about 40% of resource costs; secondly, as the cloud computing resources are highly available and highly secure, compared with manual operation and maintenance, the pressure is released; at last, in view of the high security requirements of government media, technologies such as security product chain, security protection, intrusion detection, Endpoint Security, Situation Awareness, vulnerability scanning and penetration test can be applied to comprehensively protect customer security and provide a more secure cloud environment.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In the project, JD Cloud & AI provided qianlong.com with many basic services such as Virtual Machines, Database, Cloud File Storage, Live Streaming and VOD. Relying on its overall product line, JD Cloud & AI offered all resource types needed by qianlong.com so as to lay a solid foundation for rapidly building a stable government media website.</p>
+<p><br/></p>
+<p style="text-indent: 2em;">In an IoE era, as the media continuously develops, information and messages are everywhere used by everyone in every aspect, leading to profound changes in the information ecology, media pattern and mode of transmission. Supported by its technologies, JD Cloud & AI will challenge the new trend of information dissemination. We will stay true to the mission and make a determined effort to move forward with qianlong.com to keep pace with the times.</p>
+<p><br/></p>

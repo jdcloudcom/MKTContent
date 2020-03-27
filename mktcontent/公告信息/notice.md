@@ -762,5 +762,21 @@
 	{
 		"id":854,
 		"title":"Notice on Suspension at 21:00:00 on March 6 for \\[Creation\\], \\[Resizing\\], \\[Deletion\\] and \\[Search\\] of VPC, Load Balancer, Hybrid Cloud Connection in \\[cn-south-1\\]"
+	},
+	{
+		"id":855,
+		"title":"Application Load Balancer Service Charges on April 9, 2020"
+	},
+	{
+		"id":858,
+		"title":"\\[cn-east-1\\] Notice on Upgrading Application Load Balancer Service"
+	},
+	{
+		"id":859,
+		"title":"Announcement on Network Maintenance in North China"
+	},
+	{
+		"id":861,
+		"title":"\\[Security Notification\\] Windows SMBv3 Worm Remote Code Execution Vulnerability (CVE-2020-0796)"
 	}
 ]

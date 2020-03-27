@@ -1854,5 +1854,13 @@
 		"jss_key":"News_Content_772",
 		"id":772,
 		"news_title":"JD and the New Media Center of People’s Daily have conducted deep cooperation, \"Cloud + AI\" drive intelligent upgrade of traditional media"
+	},
+	{
+		"summary":"Recently, people gradually resume economic activities and production as the epidemic prevention and control across the country manifested a positive trend. However, in consideration of the current situation, the administrations need to keep up with the epidemic updates in a more comprehensive and faster way in order to immediately locate the epidemic and prepare at any time for the deployment and decision-making on the epidemic prevention and control. To meet this need, JD Cloud & AI promptly researched, developed and launched the \"Epidemic Information\".",
+		"image_url":"//img1.jcloudcs.com/cms/abe77ec1-35ec-4417-b2e0-2b096d65fbc220200312153336.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_778",
+		"jss_key":"News_Content_778",
+		"id":778,
+		"news_title":"JD Cloud & AI Cooperates with qianlong.com to Create a Media Convergence Innovative Program"
 	}
 ]
