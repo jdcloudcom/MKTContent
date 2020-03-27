@@ -16,7 +16,7 @@
 		"id":1935
 	},
 	{
-		"txt":"[{\"name\":\"如何开通？\",\"link\":\"https://jimi3-chat.jd.com/bot?venderId=897612092\",\"classTag\":\"https://www.jdcloud.com/\"},{\"name\":\"否支持定制？\",\"link\":\"https://jimi3-chat.jd.com/bot?venderId=897612092\",\"classTag\":\"https://www.jdcloud.com/\"},{\"name\":\"如何进行项目搭建及实施，有哪些流程？\",\"link\":\"https://jimi3-chat.jd.com/bot?venderId=897612092\",\"classTag\":\"https://www.jdcloud.com/\"}]",
-		"id":1936
+		"txt":"[{\"name\":\"如何开通？\",\"link\":\"https://docs.jdcloud.com\",\"classTag\":\"https://docs.jdcloud.com/cn/?act=0\"},{\"name\":\"是否支持定制？\",\"link\":\"https://docs.jdcloud.com/\",\"classTag\":\"https://docs.jdcloud.com/cn/?act=0\"},{\"name\":\"如何进行项目搭建及实施，有哪些流程？\",\"link\":\"https://docs.jdcloud.com/\",\"classTag\":\"https://docs.jdcloud.com/cn/?act=0\"}]",
+		"id":1956
 	}
 ]
