@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"小京鱼设备池开放\",\"label\":[{\"TitleName\":\"联系我们\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"desc\":\"开放京东智能家居生态设备池，助力智能硬件或App快速拥有亿级智能家居设备控制能力。产品提供触控版、语音版，以应对App、车机等不同场景需求\"}",
+		"id":1877
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"开放设备控制能力\",\"proName\":\"服务基于京东IoT多年积累的被控设备资源，是智能家居领域唯一一款开放设备控制能力的产品\"},{\"showShade\":false,\"proGood\":\"优质产品库\",\"proName\":\"京鱼座提供了跨品牌跨品类体量最大的智能家居设备池，涵盖230+品类、1000+品牌、4000+产品、1.5亿+设备\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多种交互方式\",\"proName\":\"提供语音版、触控版两种交互方案，适用于手机App、智能音箱等不同场景\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"简单易用\",\"proName\":\"提供API和SDK两种服务类型，无论客户有无云服务能力均可获取服务\"}]",
+		"id":1878
+	},
+	{
+		"txt":"[{\"funcName\":\"设备控制\",\"funcContent\":[{\"funcTitle\":\"控制家居设备的核心功能，如电源开关、温度、亮度等\",\"funcP\":\"支持空调、插座、电视等230+品类的核心功能控制，如电源开关、温湿度调节、工作模式切换等，具体话术及操作方式以实际产品功能为准\"}]},{\"funcName\":\"新设备绑定\",\"funcContent\":[{\"funcTitle\":\"绑定用户新购买的小京鱼产品（仅触控版支持）\",\"funcP\":\"提供1000+品牌，4000+产品资源库，所有外包装及机身标有“小京鱼”或“京鱼座”的产品均支持绑定，京东商城“京鱼智能”频道有售\"}]},{\"funcName\":\"京东账号授权\",\"funcContent\":[{\"funcTitle\":\"关联用户京东账号，获取用户名下设备\",\"funcP\":\"提供App登录、二维码扫码等授权触发方式，基于Oauth2.0协议提供后端服务，保证整体过程安全、便捷\"}]},{\"funcName\":\"设备信息推送\",\"funcContent\":[{\"funcTitle\":\"以消息推送的形式提供用户设备、场景的数据更新\",\"funcP\":\"通过订阅设备、场景相关消息，确保用户及时获取设备状态变化，避免由于数据不一致导致的操作失败，提升控制成功率\"}]}]",
+		"id":1879
+	},
+	{
+		"txt":"[{\"title\":\"触控版\",\"description\":\"常用于手机App、车机屏等使用场景，触摸控制更安心\",\"specificationDescription\":[{\"title\":\"功能齐全，两种对接方式\",\"description\":\"集成设备控制、新设备绑定全套能力，实时查看设备状态，通过详情页控制设备更多功能，提供SDK和API两种对接方式\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"price\":\"\"},{\"title\":\"语音版\",\"description\":\"常用于智能音箱、车载语音等场景，语音控制更便捷\",\"specificationDescription\":[{\"title\":\"提供核心功能，API对接\",\"description\":\"集成设备控制功能，控制结果立即返回，API对接，重云轻端\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"price\":\"\"},{\"title\":\"触控语音二合一\",\"description\":\"常用于车机、大屏等场景，触摸和语音两种控制方式，智能体验更全面\",\"specificationDescription\":[{\"title\":\"双模态只需一次集成\",\"description\":\"覆盖触控和语音二者功能，以API和SDK形式提供\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"price\":\"\"}]",
+		"id":1880
+	},
+	{
+		"txt":"{\"price\":\"文档链接\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1881
+	}
+]
