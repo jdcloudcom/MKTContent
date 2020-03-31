@@ -1,0 +1,1169 @@
+<body class="jdc-rwd">
+    <div class="subMenu-box">
+    <h2>物联网</h2>
+    <div class="subMenu-level1">
+        <ul>
+            <li class="subMenu-link submenu-index">
+                <a href="https://www.jdcloud.com" target="_blank">首页</a>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" class="drop-link">产品</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a href="https://www.jdcloud.com/cn/products/iot-core" target="_blank">物联网引擎</a></li>
+                        <li><a href="https://www.jdcloud.com/cn/products/iot-hub" target="_blank">物联网中心</a></li>
+                        <li><a href="https://www.jdcloud.com/cn/products/iot-protocol-adaptor" target="_blank">物联网协议适配</a></li>
+                        <li><a href="https://www.jdcloud.com/cn/products/iot-edge" target="_blank">物联网智能边缘计算</a></li>
+                        <li><a href="https://www.jdcloud.com/cn/products/iot-link-service" target="_blank">物联网卡服务</a></li>
+                        <li><a href="https://www.jdcloud.com/products/jdwhale-dcs" target="_blank">京鱼座设备池开放</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" class="drop-link">行业解决方案</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a href="https://www.jdcloud.com/solutions/smarthome-connectivity" target="_blank">单品智能化</a></li>
+                        <li><a href="https://www.jdcloud.com/solutions/jdwhale-assistant" target="_blank">智能助手赋能</a></li>
+                        <li><a href="https://www.jdcloud.com/solutions/iov-automotive-services" target="_blank">车联网</a></li>
+                        <li><a href="https://www.jdcloud.com/solutions/iov-v2x" target="_blank">车路协同</a></li>
+                        <li><a href="https://www.jdcloud.com/cn/solutions/community" target="_blank">智能社区</a></li>
+                        <li><a href="https://www.jdcloud.com/solutions/iiot" target="_blank">工业物联</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link">
+                <a href="https://mall.jd.com/index-1000039942.html" target="_blank">智能硬件</a>
+            </li>
+        </ul>
+    </div>
+    <div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i><a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank">售前咨询：400-623-0183</a></div>
+    </div>
+
+    <div class="CH-container">
+        <section class="CH-section section-firstScreen">
+            <div class="panel col-carousel">
+                <div class="swiper-container CH-carousel-type-1">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="CH-carousel-container">
+                                <img src="https://img1.jcloudcs.com/portal/channel/iot/m/banner-01.png" class="CH-carousel-img-m">
+                                <div class="CH-carousel-content">
+                                    <h3 class="CH-carousel-title">万物智联，引领产业升级</h3>
+                                    <p class="CH-carousel-desc">致力于成为物联网技术与服务生态的建设者</p>
+
+                                </div>
+                                <a class="CH-carousel-button" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">立即咨询</a>
+                                <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/banner.png" class="CH-carousel-img-pc">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel col-broadcast">
+                <div class="CH-card-broadcast">
+                    <dl class="list-news">
+                        <dt class="list-news-title">抗击疫情</dt>
+                        <dd class="list-news-desc f-toe2"><a href="https://www.jdcloud.com/cn/news/detail/795" target="_blank">抗击疫情与寻医诊脉两不误 京东云与AI远程家庭医生在行动</a></dd>
+                    </dl>
+                    <dl class="list-news">
+                        <dt class="list-news-title">新闻动态</dt>
+                        <dd class="list-news-desc f-toe2"><a href="https://www.jdcloud.com/cn/news/detail/782" target="_blank">助力中国智能养老 京东IoT帮助长辈跨越“不智能”鸿沟</a></dd>
+                    </dl>
+                    <dl class="list-news">
+                        <dt class="list-news-title">新闻动态</dt>
+                        <dd class="list-news-desc f-toe2"><a href="https://www.jdcloud.com/cn/news/detail/783" target="_blank">京东发力AI、IoT领域 打造智能经济时代新优势</a></dd>
+                    </dl>
+                </div>
+            </div>
+        </section>
+        <section class="CH-section section-introduce">
+            <div class="CH-section-body">
+                <div class="CH-container-imageText">
+                    <div class="col-image">
+                        <div class="CH-carousel-container">
+                            <h3>引领消费物联网，构建行业领先的全品类连接生态</h3>
+                            <p class="contant">京东智联云于2014年率先进行业务布局并发布了第一个自主研发、跨品牌、跨品类的智能家居互联互通平台，目前平台可连接设备突破1.5亿台，连接品类超230种，连接品牌超1000家，累计已服务2500万家庭。</p>
+
+                            <div class="CH-card-group row">
+                                <div class="col-3">
+                                    <span><img src="https://img1.jcloudcs.com/portal/channel/iot/pc/icon-pinlei.png" width="30" height="30" />跨品类</span>
+
+                                </div>
+                                <div class="col-3">
+                                    <span><img src="https://img1.jcloudcs.com/portal/channel/iot/pc/icon-pinpai.png" width="30" height="30" />跨品牌</span>
+
+                                </div>
+                                <div class="col-3">
+                                    <span><img src="https://img1.jcloudcs.com/portal/channel/iot/pc/icon-changjing.png" width="30" height="30" />全场景</span>
+
+                                </div>
+                                <div class="col-3">
+                                    <span><img src="https://img1.jcloudcs.com/portal/channel/iot/pc/icon-quanzhanshi.png" width="30" height="30" />全栈式</span>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-content">
+                        <div class="col-cons CH-card-group row">
+                            <div class="col-con col-4">
+                                <div class="col-desc">
+                                    <div><strong>1.5亿</strong></div>
+                                    <p>高质量设备</p>
+
+                                </div>
+                            </div>
+                            <div class="col-con col-4">
+                                <div class="col-desc center">
+                                    <div><strong>2500万</strong></div>
+                                    <p>家庭</p>
+
+                                </div>
+                            </div>
+                            <div class="col-con col-4">
+                                <div class="col-desc right">
+                                    <div><strong>1天</strong></div>
+                                    <p>极速接入</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <p class="col-text">面向智能行业全面开放，赋能智能硬件、智能家居、智能车联等领域，提供“技术+服务+渠道”的一站式智能解决方案。</p>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- 行业解决方案部分 -->
+        <section class="CH-section section-resolve">
+            <header>
+                <h1>行业解决方案</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="CH-container-scroll-box">
+                    <div class="CH-container-scroll">
+                        <div class="CH-carousel-container">
+                            <div class="container-contant">
+                                <h3 class="CH-carousel-title">智能家居解决方案</h3>
+                                <p class="CH-carousel-desc">围绕家居场景提供一站式的单品及场景智能化解决方案，帮助各类单品快速实现智能化升级，同时提供智能安防、智能照明、智能厨电、健康穿戴等场景的完整解决方案。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">提供200余个品类的智能化升级方案，支持品牌App定制</li>
+                                    <li class="CH-list-item">提供完整的语音赋能解决方案，包括语音模组、语音识别、语义识别、内容技能等内容</li>
+                                    <li class="CH-list-item">提供数据统计、产品营销以及丰富的增值服务（流媒体、厨电、健康等方向）</li>
+                                </ul>
+                                <p class="section-case-product">推荐产品/方案：
+                                    <a href="https://www.jdcloud.com/solutions/smarthome-connectivity" target="_blank">单品智能化</a>
+                                    <a href="https://www.jdcloud.com/solutions/jdwhale-assistant" target="_blank">智能助手赋能</a>
+                                    <a href="https://www.jdcloud.com/products/jdwhale-dcs" target="_blank">京鱼座设备池开放产品</a>
+                                </p>
+
+                                <a class="CH-carousel-button" href="https://www.jdcloud.com/solutions/smarthome" target="_blank">查看详情</a>
+                            </div>
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/jiaju-bg.png" class="CH-carousel-img-pc" width="1200" height="420">
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/jianbian-jiejuefangan.png" class="jianbian" />
+                            <a  class="channel-play-button" clstag="Activity|keycount|MiddleContentSec|iot-1" data-video="https://img1.jcloudcs.com/portal/channel/iot/pc/inte-home.mp4"><img class="player-pc"  src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"></a>
+                        </div>
+                        <div class="CH-carousel-container">
+                            <div class="container-contant">
+                                <h3 class="CH-carousel-title">智能地产解决方案</h3>
+                                <p class="CH-carousel-desc">基于AIoT+5G，实现人员通行无感化、停车管理自动化、物业管理模块化、安全防范系统化、家居控制智能化，为居民提供资源共享、联动共管、安全共居的生活体验。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">实现“人、地、事、物、情、组织”统一管理</li>
+                                    <li class="CH-list-item">整合京东社区生态服务，提升用户的生活服务的便利性</li>
+                                    <li class="CH-list-item">跨品类、跨品牌、跨协议间设备的互联互通，通过联动规则实现设备联动的场景应用</li>
+                                </ul>
+                                <p class="section-case-product">推荐产品/方案：
+                                    <a href="https://www.jdcloud.com/solutions/community" target="_blank">智能社区</a>
+                                    <span>物业管理</span>
+
+                                </p>
+
+                                <a class="CH-carousel-button" href="https://www.jdcloud.com/solutions/community" target="_blank">查看详情</a>
+                            </div>
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/dicha-bg.png" class="CH-carousel-img-pc" width="1200" height="420">
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/jianbian-jiejuefangan.png" class="jianbian" />
+                            <a  class="channel-play-button" clstag="Activity|keycount|MiddleContentSec|iot-1" data-video="https://img1.jcloudcs.com/portal/channel/iot/pc/inte-land.mp4"><img class="player-pc"  src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"></a>
+                        </div>
+                        <div class="CH-carousel-container">
+                            <div class="container-contant">
+                                <h3 class="CH-carousel-title">智能车联解决方案</h3>
+                                <p class="CH-carousel-desc">以汽车行业超级中台为基础，延伸出车主出行服务平台、车联云平台，支撑小京鱼车载OS和V2X服务平台，为车企和政府提供技术与服务，打造“人-车-家-生活圈”全场景解决方案。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">共建云-端车联架构，为车企提供“从产到销”一站式服务，实现“降本增效”</li>
+                                    <li class="CH-list-item">共享数字能力，通过京东生态服务，挖掘数据价值，实现商业变现</li>
+                                    <li class="CH-list-item">共创产业价值，通过在网联化平台优化功能体验，降低车企成本，提升竞争力</li>
+                                </ul>
+                                <p class="section-case-product">推荐产品/方案：
+                                    <a href="https://www.jdcloud.com/solutions/iov-automotive-services" target="_blank">车联网</a>
+                                    <a href="https://www.jdcloud.com/solutions/iov-v2x" target="_blank">车路协同</a>
+                                    <span>车载智能硬件</span>
+
+                                </p>
+
+                                <a class="CH-carousel-button" href="https://www.jdcloud.com/solutions/iov" target="_blank">查看详情</a>
+                            </div>
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/chelian-bg.png" class="CH-carousel-img-pc" width="1200" height="420">
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/jianbian-jiejuefangan.png" class="jianbian" />
+                        </div>
+                        <div class="CH-carousel-container">
+                            <div class="container-contant">
+                                <h3 class="CH-carousel-title">工业物联解决方案</h3>
+                                <p class="CH-carousel-desc">面向企业提供软硬件一体化服务，协助企业建立完整的数字化链条，完成企业各类生产要素与互联网的对接，并基于海量工业数据分析形成智能化的生产运营决策，重构生产组织模式和制造方式。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">全品类，多品牌设备接入</li>
+                                    <li class="CH-list-item">多用户、多场景应用，帮助用户由粗犷式用能向精细化用能转型</li>
+                                    <li class="CH-list-item">通过平台可触达最终用户，作为国家电网物联管理平台承建商已在多场景验证</li>
+                                </ul>
+                                <p class="section-case-product">推荐产品/方案：
+                                    <span>综合能源</span>
+
+                                    <span>智能制造</span>
+
+                                </p>
+
+                                <a class="CH-carousel-button" href="https://www.jdcloud.com/solutions/iiot" target="_blank">查看详情</a>
+                            </div>
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/gongye-bg.png" class="CH-carousel-img-pc" width="1200" height="420">
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/jianbian-jiejuefangan.png" class="jianbian" />
+                            <a  class="channel-play-button" clstag="Activity|keycount|MiddleContentSec|iot-1" data-video="https://img1.jcloudcs.com/portal/channel/iot/pc/inte-industry.mp4"><img class="player-pc"  src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-card-group row">
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card is-selected" data-index="1">
+                            <div class="CH-card-header">
+                                <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/jiaju-xiao.png" height="184" width="100%">
+                            </div>
+                            <div class="CH-card-contant">
+                                <p>智能家居</p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card"  data-index="2">
+                            <div class="CH-card-header">
+                                <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/dichan-xiao.png" height="184" width="100%">
+                            </div>
+                            <div class="CH-card-contant">
+                                <p>智能地产</p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card"  data-index="3">
+                            <div class="CH-card-header">
+                                <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/chelian-xiao.png" height="184" width="100%">
+                            </div>
+                            <div class="CH-card-contant">
+                                <p>智能车联</p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card"  data-index="4">
+                            <div class="CH-card-header">
+                                <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/gongye-xiao.png" height="184" width="100%">
+                            </div>
+                            <div class="CH-card-contant">
+                                <p>工业物联</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="CH-section section-resolve-m">
+            <header>
+                <h1>行业解决方案</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="CH-card-group row">
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card">
+                            <div class="container-contant">
+                                <h3 class="CH-carousel-title">智能家居解决方案</h3>
+                                <p class="CH-carousel-desc">围绕家居场景提供一站式的单品及场景智能化解决方案，帮助各类单品快速实现智能化升级，同时提供智能安防、智能照明、智能厨电、健康穿戴等场景的完整解决方案。</p>
+
+                                <p class="section-case-product">推荐产品/方案：
+                                    <a href="https://www.jdcloud.com/solutions/smarthome-connectivity" target="_blank">单品智能化</a>
+                                    </br>
+<a href="https://www.jdcloud.com/solutions/jdwhale-assistant" target="_blank">智能助手赋能</a>
+                                    <a href="https://www.jdcloud.com/products/jdwhale-dcs" target="_blank">京鱼座设备池开放产品</a>
+                                </p>
+
+                                <a class="CH-carousel-button" href="https://www.jdcloud.com/solutions/smarthome" target="_blank">查看详情</a>
+                                <a  class="channel-play-button" clstag="Activity|keycount|MiddleContentSec|iot-1" data-video="https://img1.jcloudcs.com/portal/channel/iot/pc/inte-home.mp4"><img class="player-m"  src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"></a>
+                            </div>
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/m/jiaju.png" class="CH-carousel-img-pc" width="100%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card">
+                            <div class="container-contant">
+                                <h3 class="CH-carousel-title">智能地产解决方案</h3>
+                                <p class="CH-carousel-desc">基于AIoT+5G，实现人员通行无感化、停车管理自动化、物业管理模块化、安全防范系统化、家居控制智能化，为居民提供资源共享、联动共管、安全共居的生活体验。</p>
+
+                                <p class="section-case-product">推荐产品/方案：
+                                    <a href="https://www.jdcloud.com/solutions/community" target="_blank">智能社区</a>
+                                    <span>物业管理</span>
+
+                                </p>
+
+                                <a class="CH-carousel-button" href="https://www.jdcloud.com/solutions/community" target="_blank">查看详情</a>
+                                <a  class="channel-play-button" clstag="Activity|keycount|MiddleContentSec|iot-1" data-video="https://img1.jcloudcs.com/portal/channel/iot/pc/inte-land.mp4"><img class="player-m"  src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"></a>
+                            </div>
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/m/dichan.png" class="CH-carousel-img-pc" width="100%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card">
+                            <div class="container-contant">
+                                <h3 class="CH-carousel-title">智能车联解决方案</h3>
+                                <p class="CH-carousel-desc">以汽车行业超级中台为基础，延伸出车主出行服务平台、车联云平台，支撑小京鱼车载OS和V2X服务平台，为车企和政府提供技术与服务，打造“人-车-家-生活圈”全场景解决方案。</p>
+
+                                <p class="section-case-product">推荐产品/方案：
+                                    <a href="https://www.jdcloud.com/solutions/iov-automotive-services" target="_blank">车联网</a>
+                                    <a href="https://www.jdcloud.com/solutions/iov-v2x" target="_blank">车路协同</a>
+                                    </br>
+<span>车载智能硬件</span>
+
+                                </p>
+
+                                <a class="CH-carousel-button" href="https://www.jdcloud.com/solutions/iov" target="_blank">查看详情</a>
+                            </div>
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/m/chelian.png" class="CH-carousel-img-pc" width="100%">
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card">
+                            <div class="container-contant">
+                                <h3 class="CH-carousel-title">工业物联解决方案</h3>
+                                <p class="CH-carousel-desc">面向企业提供软硬件一体化服务，协助企业建立完整的数字化链条，完成企业各类生产要素与互联网的对接，并基于海量工业数据分析形成智能化的生产运营决策，重构生产组织模式和制造方式。</p>
+
+                                <p class="section-case-product">推荐产品/方案：
+                                    <span>综合能源</span>
+
+                                    <span>智能制造</span>
+
+                                </p>
+
+                                <a class="CH-carousel-button" href="https://www.jdcloud.com/solutions/iiot" target="_blank">查看详情</a>
+                                <a  class="channel-play-button" clstag="Activity|keycount|MiddleContentSec|iot-1" data-video="https://img1.jcloudcs.com/portal/channel/iot/pc/inte-industry.mp4"><img class="player-m"  src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"></a>
+                            </div>
+                            <img src="https://img1.jcloudcs.com/portal/channel/iot/m/gongye.png" class="CH-carousel-img-pc" width="100%">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- 智能硬件部分 -->
+        <section class="CH-section section-hard">
+            <header>
+                <h1>智能硬件</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="CH-carousel-container container-pc">
+                    <div class="container-contant">
+                        <h3 class="CH-carousel-title">智能硬件</h3>
+                        <p class="CH-carousel-desc">依托京东旗下独立科技品牌“京鱼座”，采取「自研+合作」的产品策略。现有智能音箱、家庭安防、物联网路由器、智慧家居套装、智能耳机、VR等产品线。</p>
+
+                        <a class="CH-carousel-button" href="https://mall.jd.com/index-10170022.html" target="_blank">了解更多</a>
+                    </div>
+                    <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/zhinengyingjian-bg.png" class="CH-carousel-img-pc" width="1200" height="322">
+                    <a  class="channel-play-button" clstag="Activity|keycount|MiddleContentSec|iot-1" data-video="https://img1.jcloudcs.com/portal/channel/iot/pc/inte-hardware.mp4"><img class="player-pc"  src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"></a>
+                </div>
+                <div class="CH-card-group row">
+                    <div class="col-xs-12 col-3 container-m">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <img src="https://img1.jcloudcs.com/portal/channel/iot/m/zhinengyingjian-bg.png" width="100%">
+                                <a  class="channel-play-button" clstag="Activity|keycount|MiddleContentSec|iot-1" data-video="https://img1.jcloudcs.com/portal/channel/iot/pc/inte-hardware.mp4"><img class="player"  src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"></a>
+                            </div>
+                            <div class="CH-card-body">
+                                <h3 class="CH-card-title is-icon"><a href="https://item.jd.com/100003303704.html" target="_blank">智能硬件</a></h3>
+                                <p>依托京东旗下独立科技品牌“京鱼座”，采取「自研+合作」的产品策略。现有智能音箱、家庭安防、物联网路由器、智慧家居套装、智能耳机、VR等产品线</p>
+
+                                <a class="CH-carousel-button" href="https://mall.jd.com/index-10170022.html" target="_blank">了解更多</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/yinxiang.png" width="100%">
+                            </div>
+                            <div class="CH-card-body">
+                                <h3 class="CH-card-title is-icon"><a href="https://item.jd.com/100003303704.html" target="_blank">京鱼座人工智能AI音箱C1</a></h3>
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">海量内容，千万级正版优质有声资源</li>
+                                    <li class="CH-list-item">智能家居，语音控制2000+款品牌家电</li>
+                                    <li class="CH-list-item">生活助手，一句话解决日常小事</li>
+                                </ul>
+                                <div class="CH-card-price">199<sub>元</sub></div>
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="">
+                                    <div class="col-12">
+                                        <a class="CH-card-button-primary" href="https://item.jd.com/100003303704.html" target="_blank">立即购买</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/zhinengping.png" width="100%">
+                            </div>
+                            <div class="CH-card-body">
+                                <h3 class="CH-card-title is-icon"><a href="https://item.jd.com/100011107400.html" target="_blank">京鱼座智能屏1X 魔方版</a></h3>
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">7英寸IPS，广角高清屏</li>
+                                    <li class="CH-list-item">视频通话，随时随地连线家人</li>
+                                    <li class="CH-list-item">内置电池，超长待机 12 小时</li>
+                                </ul>
+                                <div class="CH-card-price">699<sub>元</sub></div>
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="">
+                                    <div class="col-12">
+                                        <a class="CH-card-button-primary" href="https://item.jd.com/100011107400.html" target="_blank">立即购买</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/erji.png" width="100%">
+                            </div>
+                            <div class="CH-card-body">
+                                <h3 class="CH-card-title is-icon"><a href="https://item.jd.com/65562947356.html" target="_blank">京鱼座智能蓝牙耳机 N1</a></h3>
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">颈挂入耳式，降噪防水轻盈舒适</li>
+                                    <li class="CH-list-item">解放双手，智能语音助手唤醒</li>
+                                    <li class="CH-list-item">听觉盛宴，石墨烯动圈振膜</li>
+                                </ul>
+                                <div class="CH-card-price">179<sub>元</sub></div>
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="">
+                                    <div class="col-12">
+                                        <a class="CH-card-button-primary" href="https://item.jd.com/65562947356.html" target="_blank">立即购买</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/jiajutaozhuang.png" width="100%" height="184">
+                            </div>
+                            <div class="CH-card-body">
+                                <h3 class="CH-card-title is-icon"><a href="https://item.jd.com/100000390098.html" target="_blank">京鱼座智能家居套装</a></h3>
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">网关/人体传感器/门窗传感器/智能插座/无线开关</li>
+                                    <li class="CH-list-item">玩转智能场景，生活随心定制</li>
+                                    <li class="CH-list-item">多重保护，安全可靠</li>
+                                </ul>
+                                <div class="CH-card-price">499<sub>元</sub></div>
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="">
+                                    <div class="col-12">
+                                        <a class="CH-card-button-primary" href="https://item.jd.com/100000390098.html" target="_blank">立即购买</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+         <!-- 精选客户成功案例部分 -->
+         <section class="CH-section section-case">
+                <header>
+                    <h1>精选成功案例</h1>
+                </header>
+                <div class="CH-section-body seccessCase">
+                    <div class="CH-panel">
+                        <div class="swiper-container CH-carousel-type-2 swiper-no-swiping">
+                            <div class="swiper-wrapper">
+                                    <div class="swiper-slide CH-card is-selected" data-index='1'><img src="https://img1.jcloudcs.com/portal/channel/iot/pc/logo-haixin.png" alt=""></div>
+                                    <div class="swiper-slide CH-card" data-index='2'><img src="https://img1.jcloudcs.com/portal/channel/iot/pc/logo-haima.png" alt=""></div>
+                                    <div class="swiper-slide CH-card" data-index='3'><img src="https://img1.jcloudcs.com/portal/channel/iot/pc/logo-shouchuangzhiye.png" alt=""></div>
+                                    <div class="swiper-slide CH-card" data-index='4'><img src="https://img1.jcloudcs.com/portal/channel/iot/pc/logo-NARI.png" alt=""></div>
+                            </div>
+                        </div>
+                        <div class="CH-container-scroll-box">
+                            <div class="CH-container-scroll">
+                                <div class="CH-container-column">
+                                    <div class="CH-container-imageText">
+                                        <div class="col-image">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/haixin.png" alt="">
+                                        </div>
+                                        <div class="col-content">
+                                            <h3 class="section-case-title">海信智能电视</h3>
+                                            <p class=" section-case-desc">通过集成智能助手赋能方案，海信电视E75F已实现语音控制小京鱼生态的智能设备，抢先成为智能家居控制入口。结合购物、闲聊、天气等技能，该电视为用户提供了更丰富的生活服务，正逐步转变为家庭智能控制中枢。</p>
+
+                                            <p class="section-case-product">使用产品/方案：<strong><a href="https://www.jdcloud.com/solutions/jdwhale-assistant" target="_blank">智能助手赋能</a></strong></p>
+
+                                            <div>
+                                                <a class="section-case-button" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">免费咨询方案</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="CH-container-column">
+                                    <div class="CH-container-imageText">
+                                        <div class="col-image">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/haima_03.png" alt="">
+                                        </div>
+                                        <div class="col-content">
+                                            <h3 class="section-case-title">海马车联网项目</h3>
+                                            <p class=" section-case-desc">与海马汽车合作搭建小京鱼车载OS，以车联云-端平台框架为核心，整合京东自有车主服务生态，打造京东首个汽车行业云整体解决方案，树立京东技术标杆。</p>
+
+                                            <ul class="section-case-feature">
+                                            </ul>
+                                            <p class="section-case-product">使用产品/方案：<strong>小京鱼车载OS</strong></p>
+
+                                            <div>
+                                                <a class="section-case-button" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">免费咨询方案</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="CH-container-column">
+                                    <div class="CH-container-imageText">
+                                        <div class="col-image">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/shouchuangzhiye_03.png" alt="">
+                                        </div>
+                                        <div class="col-content">
+                                            <h3 class="section-case-title">首创置业</h3>
+                                            <p class=" section-case-desc">基于京东智能社区平台，实现人员通行无感化、停车管理自动化、物业管理模块化、安全防范系统化、家居控制智能化等，为居民提供资源共享、联动共管、安全共居的科技社区生活体验。</p>
+
+                                            <ul class="section-case-feature">
+                                            </ul>
+                                            <p class="section-case-product">使用产品/方案：<strong><a href="https://www.jdcloud.com/solutions/community" target="_blank">智能社区</a></strong></p>
+
+                                            <div>
+                                                <a class="section-case-button" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">免费咨询方案</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="CH-container-column">
+                                    <div class="CH-container-imageText">
+                                        <div class="col-image">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/NARI_03.png" alt="">
+                                        </div>
+                                        <div class="col-content">
+                                            <h3 class="section-case-title">国家电网辽宁省电力公司物联管理平台</h3>
+                                            <p class=" section-case-desc">提供定制化物联管理平台，通过选取葫芦岛、辽阳等典型场景，完成智能电表智能融合终端等设备的标准化接入，实现云、管、边、端数据链路的贯通，有力支撑国网电力物联网的建设要求。</p>
+
+                                            <ul class="section-case-feature">
+                                            </ul>
+                                            <p class="section-case-product">使用产品/方案：<strong>工业物联网平台</strong></p>
+
+                                            <div>
+                                                <a class="section-case-button" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">免费咨询方案</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        <section class="CH-section section-case-m">
+            <header>
+                <h1>精选客户成功案例</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="CH-collapse">
+                    <div class="CH-collapse-item is-selected">
+                        <div class="CH-collapse-item-header"><a name="case1">海信智能电视</a><i class="iconfont jc-icon-my-down"></i></div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/iot/m/haixin.png" alt="" width="100%">
+                                </div>
+                                <div class="col-content">
+                                    <h3 class="section-case-title">海信智能电视</h3>
+                                    <p class=" section-case-desc">通过集成智能助手赋能方案，海信电视E75F已实现语音控制小京鱼生态的智能设备，抢先成为智能家居控制入口。结合购物、闲聊、天气等技能，该电视为用户提供了更丰富的生活服务，正逐步转变为家庭智能控制中枢。</p>
+
+                                    <ul class="section-case-feature">
+                                    </ul>
+                                    <p class="section-case-product">
+                                        <label>使用产品/方案：</label>
+                                        <strong><a href="https://www.jdcloud.com/solutions/jdwhale-assistant" target="_blank">智能助手赋能</a></strong>
+                                    </p>
+
+                                    <a class="section-case-button" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">免费咨询方案</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="CH-collapse-item">
+                        <div class="CH-collapse-item-header"><a name="case2">海马车联网项目</a><i class="iconfont jc-icon-my-down"></i></div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/iot/m/haima.png" alt="" width="100%">
+                                </div>
+                                <div class="col-content">
+                                    <h3 class="section-case-title">海马车联网项目</h3>
+                                    <p class=" section-case-desc">与海马汽车合作搭建小京鱼车载OS，以车联云-端平台框架为核心，整合京东自有车主服务生态，打造京东首个汽车行业云整体解决方案，树立京东技术标杆。</p>
+
+                                    <ul class="section-case-feature">
+                                    </ul>
+                                    <p class="section-case-product">
+                                        <label>使用产品/方案：</label><span>小京鱼车载OS</span>
+
+                                    </p>
+
+                                    <a class="section-case-button" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">免费咨询方案</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="CH-collapse-item">
+                        <div class="CH-collapse-item-header"><a name="case3">首创置业</a><i class="iconfont jc-icon-my-down"></i></div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/iot/m/shouchuangzhiye.png" alt="" width="100%">
+                                </div>
+                                <div class="col-content">
+                                    <h3 class="section-case-title">首创置业</h3>
+                                    <p class=" section-case-desc">基于京东智能社区平台，实现人员通行无感化、停车管理自动化、物业管理模块化、安全防范系统化、家居控制智能化等，为居民提供资源共享、联动共管、安全共居的科技社区生活体验。</p>
+
+                                    <ul class="section-case-feature">
+                                    </ul>
+                                    <p class="section-case-product">
+                                        <label>使用产品/方案：</label>
+                                        <strong><a href="https://www.jdcloud.com/solutions/community" target="_blank">智能社区</a></strong>
+                                    </p>
+
+                                    <a class="section-case-button" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">免费咨询方案</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="CH-collapse-item">
+                        <div class="CH-collapse-item-header"><a name="case4">国家电网辽宁省电力公司物联管理平台</a><i class="iconfont jc-icon-my-down"></i></div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/iot/m/NARI.png" alt="" width="100%">
+                                </div>
+                                <div class="col-content">
+                                    <h3 class="section-case-title">国家电网辽宁省电力公司物联管理平台</h3>
+                                    <p class=" section-case-desc">提供定制化物联管理平台，通过选取葫芦岛、辽阳等典型场景，完成智能电表智能融合终端等设备的标准化接入，实现云、管、边、端数据链路的贯通，有力支撑国网电力物联网的建设要求。</p>
+
+                                    <ul class="section-case-feature">
+                                    </ul>
+                                    <p class="section-case-product">
+                                        <label>使用产品/方案：</label><span>工业物联网平台</span>
+
+                                    </p>
+
+                                    <a class="section-case-button" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">免费咨询方案</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="CH-section section-partner fl7">
+            <header>
+              <h1>专业可靠的合作伙伴</h1>
+            </header>
+            <div class="CH-section-body seccessCase">
+              <div class="CH-panel">
+                <div class="swiper-container CH-carousel-type-6">
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide" data-index="1">
+                      <div class="row">
+                        <div class="col-3 col-xs-6">
+                          <img
+                            src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-01.png"
+                            alt=""
+                          />
+                        </div>
+                        <div class="col-3 col-xs-6">
+                            <img
+                              src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-02.png"
+                              alt=""
+                            />
+                        </div>
+                        <div class="col-3 col-xs-6">
+                            <img
+                              src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-03.png"
+                              alt=""
+                            />
+                        </div>
+                        <div class="col-3 col-xs-6">
+                            <img
+                              src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-04.png"
+                              alt=""
+                            />
+                        </div>
+                        <div class="col-3 col-xs-6">
+                            <img
+                              src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-05.png"
+                              alt=""
+                            />
+                          </div>
+                          <div class="col-3 col-xs-6">
+                              <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-06.png"
+                                alt=""
+                              />
+                          </div>
+                          <div class="col-3 col-xs-6">
+                              <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-07.png"
+                                alt=""
+                              />
+                          </div>
+                          <div class="col-3 col-xs-6">
+                              <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-08.png"
+                                alt=""
+                              />
+                          </div>
+                          <div class="col-3 col-xs-6">
+                            <img
+                              src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-09.png"
+                              alt=""
+                            />
+                          </div>
+                          <div class="col-3 col-xs-6">
+                              <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-10.png"
+                                alt=""
+                              />
+                          </div>
+                          <div class="col-3 col-xs-6">
+                              <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-11.png"
+                                alt=""
+                              />
+                          </div>
+                          <div class="col-3 col-xs-6">
+                              <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-12.png"
+                                alt=""
+                              />
+                          </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide" data-index="1">
+                        <div class="row">
+                           <div class="col-3 col-xs-6">
+                            <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-13.png"
+                                alt=""
+                            />
+                            </div>
+                            <div class="col-3 col-xs-6">
+                                <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-14.png"
+                                alt=""
+                                />
+                            </div>
+                            <div class="col-3 col-xs-6">
+                                <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-15.png"
+                                alt=""
+                                />
+                            </div>
+                            <div class="col-3 col-xs-6">
+                                <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-16.png"
+                                alt=""
+                                />
+                            </div>
+                          <div class="col-3 col-xs-6">
+                            <img
+                              src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-17.png"
+                              alt=""
+                            />
+                          </div>
+                          <div class="col-3 col-xs-6">
+                              <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-18.png"
+                                alt=""
+                              />
+                          </div>
+                          <div class="col-3 col-xs-6">
+                              <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-19.png"
+                                alt=""
+                              />
+                          </div>
+                          <div class="col-3 col-xs-6">
+                              <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-20.png"
+                                alt=""
+                              />
+                          </div>
+                          <div class="col-3 col-xs-6">
+                              <img
+                                src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-21.png"
+                                alt=""
+                              />
+                            </div>
+                            <div class="col-3 col-xs-6">
+                                <img
+                                  src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-22.png"
+                                  alt=""
+                                />
+                            </div>
+                            <div class="col-3 col-xs-6">
+                                <img
+                                  src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-23.png"
+                                  alt=""
+                                />
+                            </div>
+                            <div class="col-3 col-xs-6">
+                                <img
+                                  src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-24.png"
+                                  alt=""
+                                />
+                            </div>
+                        </div>
+                      </div>
+                      <div class="swiper-slide" data-index="1">
+                        <div class="row">
+                            <div class="col-3 col-xs-6">
+                                <img
+                                  src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-25.png"
+                                  alt=""
+                                />
+                              </div>
+                              <div class="col-3 col-xs-6">
+                                  <img
+                                    src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-26.png"
+                                    alt=""
+                                  />
+                              </div>
+                              <div class="col-3 col-xs-6">
+                                  <img
+                                    src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-27.png"
+                                    alt=""
+                                  />
+                              </div>
+                              <div class="col-3 col-xs-6">
+                                  <img
+                                    src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-28.png"
+                                    alt=""
+                                  />
+                              </div>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="swiper-pagination"></div>
+                </div>
+                <div class="partner">
+                  <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank"
+                    >加入合作伙伴</a
+                  >
+                </div>
+              </div>
+            </div>
+        </section> 
+        <section class="CH-section section-partner-m fl7">
+        <header>
+            <h1>专业可靠的合作伙伴</h1>
+        </header>
+        <div class="CH-section-body seccessCase">
+            <div class="CH-panel">
+            <div class="swiper-container CH-carousel-type-6">
+                <div class="swiper-wrapper">
+                <div class="swiper-slide" data-index="1">
+                    <div class="row">
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-01.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-02.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-03.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-04.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-05.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-06.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-07.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-08.png"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                </div>
+                <div class="swiper-slide" data-index="2">
+                    <div class="row">
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-09.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-10.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-11.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-12.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-13.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-14.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-15.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-16.png"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                </div>
+                <div class="swiper-slide" data-index="3">
+                    <div class="row">
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-17.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-18.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-19.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-20.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-21.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-22.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-23.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-24.png"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                </div>
+                <div class="swiper-slide" data-index="4">
+                    <div class="row">
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-25.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-26.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-27.png"
+                        alt=""
+                        />
+                    </div>
+                    <div class="col-xs-6">
+                        <img
+                        src="https://img1.jcloudcs.com/portal/channel/iot/pc/partnerlogo/logo-icon-28.png"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                </div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+            <div class="partner">
+                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank"
+                >加入合作伙伴</a
+                >
+            </div>
+            </div>
+        </div>
+        </section>
+        <!-- 最新动态、获取前沿见解部分 -->
+        <section class="CH-section section-industry">
+            <header>
+                <h1>最新动态、获取前沿见解</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="CH-panel">
+                    <div class="CH-container-imageText">
+                        <div class="col-image">
+                            <div class="swiper-container CH-carousel-type-4">
+                                <div class="CH-carousel-container">
+                                    <h3 class="CH-carousel-title">京东首届科技地产大会 </br>
+助力房企转型智能生活运营商</h3>
+                                    <a class="CH-carousel-button" href="https://www.jdcloud.com/cn/news/detail/786" target="_blank">查看详情 ></a>
+                                    <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/zuixindongtai.png" class="CH-carousel-img-pc">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-content">
+                            <dl>
+                                <dt><a href="https://www.jdcloud.com/cn/news/detail/784" target="_blank">京东物联周炯：京东IoT场景布局的“三段斩”</a></dt>
+                                <dd>峰会由中国计算机学会（CCF）主办，雷锋网、香港中文大学（深圳）承办，深圳市人工智能与机器人研究院协办，得到了深圳市政府的大力指导，是国内人工智能和机器人学...</dd>
+                            </dl>
+                            <dl>
+                                <dt><a href="https://www.jdcloud.com/cn/news/detail/785" target="_blank">京东物联战略全面升级 双引擎驱动产业赋能新征程</a></dt>
+                                <dd>由京东集团主办的“JDDiscovery-2019京东全球科技探索者大会”在北京举行。本届大会以“突破与裂变”为主题，吸引了国内外科技界、产业界、学术界、投资界的领军人物以...</dd>
+                            </dl>
+                            <dl>
+                                <dt><a href="https://www.jdcloud.com/cn/news/detail/794" target="_blank">京东物联携手科大讯飞 双引擎驱动引领智能经济</a></dt>
+                                <dd>在2019科大讯飞1024开发者节上，京东物联总裁周炯博士宣布京东物联AIoT平台将与科大讯飞iFLYOS达成全面战略合作，双方将在核心技术、应用服务、平台生态、行业方...</dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>  
+        <div class="pop-video-wrap">
+            <div class="mask"></div>
+            <div class="pop-video-video">
+                <video id="my-player" class="my-video" controls preload="auto" >
+                <source src="" type="video/mp4" id="my-player-source">
+                </video>
+                <div class="video-close">&times;</div>
+            </div>
+        </div>  
+    </div>
+    <div class="CH-footer">
+            <div class="CH-container">
+                <div class="row">
+                    <div class="col-3 col-xs-12">
+                        <div class="CH-footer-slogan">
+                            联系我们的专家，为您免费提供量身定制的方案咨询服务
+                        </div>
+                    </div>
+                    <div class="col-3 col-xs-12">
+                        <dl class="CH-footer-info-list">
+                            <dt>免费咨询专家：400-623-0183</dt>
+                            <dd>周一至周五 9:00-18:00</dd>
+                        </dl>
+                    </div>
+                    <div class="col-3 col-xs-12">
+                        <dl class="CH-footer-info-list">
+                            <dt><a href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务<i class="iconfont jc-icon-my-right"></i></a></dt>
+                            <dd>周一至周五 9:00-18:00</dd>
+                        </dl>
+                    </div>
+                    <div class="col-3 col-xs-12">
+                        <dl class="CH-footer-info-list">
+                            <dt><a href="https://www.jdcloud.com/forms/consultation" target="_blank">请销售顾问联系我<i class="iconfont jc-icon-my-right"></i></a></dt>
+                            <dd>不限时间，提交需求后，我们会尽快联系您</dd>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
