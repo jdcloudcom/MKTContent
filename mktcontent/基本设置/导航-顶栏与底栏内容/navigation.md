@@ -371,22 +371,22 @@
 	},
 	{
 		"name":"运行环境",
-		"description":"",
+		"description":"运行环境",
 		"id":201
 	},
 	{
 		"name":"管理与监控",
-		"description":"",
+		"description":"管理与监控",
 		"id":202
 	},
 	{
 		"name":"数据库",
-		"description":"",
+		"description":"数据库",
 		"id":203
 	},
 	{
 		"name":"应用开发工具",
-		"description":"",
+		"description":"应用开发工具",
 		"id":204
 	},
 	{
@@ -416,42 +416,42 @@
 	},
 	{
 		"name":"协同办公",
-		"description":"",
+		"description":"协同办公",
 		"id":210
 	},
 	{
 		"name":"财务管理",
-		"description":"",
+		"description":"财务管理",
 		"id":211
 	},
 	{
 		"name":"人事管理",
-		"description":"",
+		"description":"人事管理",
 		"id":212
 	},
 	{
 		"name":"营销管理",
-		"description":"",
+		"description":"营销管理",
 		"id":213
 	},
 	{
 		"name":"生产/供应链",
-		"description":"",
+		"description":"生产/供应链",
 		"id":214
 	},
 	{
 		"name":"电商管理",
-		"description":"",
+		"description":"电商管理",
 		"id":215
 	},
 	{
 		"name":"企业服务",
-		"description":"",
+		"description":"企业服务",
 		"id":216
 	},
 	{
 		"name":"企业展示",
-		"description":"",
+		"description":"企业展示",
 		"id":217
 	},
 	{
@@ -461,82 +461,82 @@
 	},
 	{
 		"name":"信息门户",
-		"description":"",
+		"description":"信息门户",
 		"id":219
 	},
 	{
 		"name":"社区论坛",
-		"description":"",
+		"description":"社区论坛",
 		"id":220
 	},
 	{
 		"name":"环境配置",
-		"description":"",
+		"description":"环境配置",
 		"id":221
 	},
 	{
 		"name":"数据迁移",
-		"description":"",
+		"description":"数据迁移",
 		"id":222
 	},
 	{
 		"name":"云代维",
-		"description":"",
+		"description":"云代维",
 		"id":223
 	},
 	{
 		"name":"故障排查",
-		"description":"",
+		"description":"故障排查",
 		"id":224
 	},
 	{
 		"name":"培训认证",
-		"description":"",
+		"description":"培训认证",
 		"id":225
 	},
 	{
 		"name":"架构咨询",
-		"description":"",
+		"description":"架构咨询",
 		"id":226
 	},
 	{
 		"name":"主机安全",
-		"description":"",
+		"description":"主机安全",
 		"id":227
 	},
 	{
 		"name":"应用安全",
-		"description":"",
+		"description":"应用安全",
 		"id":228
 	},
 	{
 		"name":"数据安全",
-		"description":"",
+		"description":"数据安全",
 		"id":229
 	},
 	{
 		"name":"网络安全",
-		"description":"",
+		"description":"网络安全",
 		"id":230
 	},
 	{
 		"name":"安全服务",
-		"description":"",
+		"description":"安全服务",
 		"id":231
 	},
 	{
 		"name":"数据分析",
-		"description":"",
+		"description":"数据分析",
 		"id":232
 	},
 	{
 		"name":"电商营销",
-		"description":"",
+		"description":"电商营销",
 		"id":233
 	},
 	{
 		"name":"人工智能",
-		"description":"",
+		"description":"人工智能",
 		"id":234
 	},
 	{
@@ -546,12 +546,12 @@
 	},
 	{
 		"name":"舆情分析",
-		"description":"",
+		"description":"舆情分析",
 		"id":248
 	},
 	{
 		"name":"金融财务",
-		"description":"",
+		"description":"金融财务",
 		"id":249
 	},
 	{
@@ -561,7 +561,7 @@
 	},
 	{
 		"name":"智慧旅游",
-		"description":"",
+		"description":"智慧旅游",
 		"id":251
 	},
 	{
@@ -671,7 +671,7 @@
 	},
 	{
 		"name":"云办公",
-		"description":"",
+		"description":"云办公",
 		"id":285
 	},
 	{
@@ -1569,8 +1569,8 @@
 		"id":3165
 	},
 	{
-		"name":"京东 AI",
-		"description":"京东 AI",
+		"name":"人工智能 NeuHub",
+		"description":"人工智能 NeuHub",
 		"id":3169
 	},
 	{
@@ -1849,8 +1849,8 @@
 		"id":3295
 	},
 	{
-		"name":"大数据与 AI",
-		"description":"大数据与 AI",
+		"name":"人工智能 NeuHub",
+		"description":"人工智能 NeuHub",
 		"id":3297
 	},
 	{
@@ -1894,8 +1894,8 @@
 		"id":3315
 	},
 	{
-		"name":"精选案例",
-		"description":"精选案例",
+		"name":"客户成功案例",
+		"description":"客户成功案例",
 		"id":3317
 	},
 	{
@@ -1914,8 +1914,8 @@
 		"id":3323
 	},
 	{
-		"name":"物联网",
-		"description":"物联网",
+		"name":"基础服务",
+		"description":"基础服务",
 		"id":3357
 	},
 	{
@@ -2303,8 +2303,8 @@
 		"id":3521
 	},
 	{
-		"name":"AI蜂巢空间机器人",
-		"description":"AI蜂巢空间机器人",
+		"name":"智能空间解决方案",
+		"description":"智能空间解决方案",
 		"id":3523
 	},
 	{
@@ -3132,7 +3132,7 @@
 		"id":5421
 	},
 	{
-		"name":"AI 智能客服",
+		"name":"智能客服全链路解决方案",
 		"description":"AI 智能客服解决方案包含客服全渠道软硬件产品，可为企业定制搭配使用，从而实现降成本、提效率、增收入、优体验。",
 		"id":5423
 	},
@@ -3207,7 +3207,7 @@
 		"id":5451
 	},
 	{
-		"name":"AI 智慧园区",
+		"name":"智能园区解决方案",
 		"description":"通过AI、大数据、物联网等技术，实现园区管理、生活、安防、办公、展厅的全面智能化，提升园区服务品质与工作效率。",
 		"id":5453
 	},
@@ -3895,5 +3895,69 @@
 		"name":"京鱼座设备池开放",
 		"description":"助力客户的终端快速拥有亿级智能家居设备控制能力",
 		"id":5731
+	},
+	{
+		"name":"智能客服与营销",
+		"description":"智能客服与营销",
+		"id":5733
+	},
+	{
+		"name":"NeuFoundry一站式AI开发平台",
+		"description":"基于京东丰富场景的最佳实践，助力企业智能化升级。",
+		"id":5735
+	},
+	{
+		"name":"智能温感筛查系统",
+		"description":"基于人脸识别、温感识别等能力的快速精准测温系统",
+		"id":5737
+	},
+	{
+		"name":"京东智联云简介",
+		"description":"京东智联云简介",
+		"id":5739
+	},
+	{
+		"name":"客户成功案例",
+		"description":"客户成功案例",
+		"id":5741
+	},
+	{
+		"name":"分析师报告与白皮书",
+		"description":"分析师报告与白皮书",
+		"id":5743
+	},
+	{
+		"name":"京鱼座设备池开放",
+		"description":"助力客户的终端快速拥有亿级智能家居设备控制能力",
+		"id":5745
+	},
+	{
+		"name":"智能客服与营销",
+		"description":"智能客服与营销",
+		"id":5747
+	},
+	{
+		"name":"物联网卡服务",
+		"id":5751
+	},
+	{
+		"name":"物联网卡服务",
+		"description":"平台提供三大运营商物联网卡购买、充值和管理功能",
+		"id":5753
+	},
+	{
+		"name":"定价",
+		"description":"定价",
+		"id":5755
+	},
+	{
+		"name":"智能车联",
+		"description":"智能车联",
+		"id":5757
+	},
+	{
+		"name":"车主出行服务",
+		"description":"京东智联云车主生态服务平台通过SaaS化，提供车联网生态服务",
+		"id":5759
 	}
 ]
