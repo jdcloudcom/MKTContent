@@ -1,0 +1,2029 @@
+<body class="jdc-rwd">
+    <div class="subMenu-box">
+        <h2>金融</h2>
+        <div class="subMenu-level1">
+            <ul>
+                <!-- <li class="subMenu-link submenu-index">
+                    <a href="https://www.jdcloud.com" target="_blank">首页</a>
+                </li> -->
+                <li class="subMenu-link hasChild">
+                    <a href="#" class="drop-link">通用产品</a>
+                    <div class="subMenu-drop-box">
+                        <ul class="subMenu-level2">
+                            <li><a href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack 专有云</a></li>
+                            <li><a href="https://www.jdcloud.com/cn/products/jd-cloud-swift" target="_blank">京东云敏捷专有云</a></li>
+                            <li><a href="https://www.jdcloud.com/cn/products/gpu-VM" target="_blank">GPU云主机</a></li>
+                            <li><a href="https://market.jdcloud.com/service/details/454403" target="_blank">智能运维</a></li>
+                            <li><a href="https://www.jdcloud.com/cn/products/nf1-adc" target="_blank">NF1 ADC</a></li>
+                            <li><a href="https://www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></li>
+                            <li><a href="https://www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></li>
+                            <li><a href="https://www.jdcloud.com/cn/solutions/neuhive" target="_blank">AI蜂巢空间机器人</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="subMenu-link">
+                    <a href="https://www.jdcloud.com/cn/case/list" target="_blank">精选案例</a>
+                </li>
+                <li class="subMenu-link">
+                    <a href="https://www.jdcloud.com/cn/aboutus" target="_blank">了解我们</a>
+                </li>
+            </ul>
+        </div>
+        <div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i><a href="https://www.jdcloud.com/forms/consultation" target="_blank">售前咨询：400-623-0183</a></div>
+    </div>
+    <div class="CH-container">
+        <section class="CH-section section-firstScreen">
+            <div class="panel col-carousel">
+                <div class="swiper-container CH-carousel-type-1 swiper-no-swiping">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="CH-carousel-container">
+                                <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-01-m.png" class="CH-carousel-img-m">
+                                <div class="CH-carousel-content">
+                                    <h3 class="CH-carousel-title">全栈式金融方案，助力客户实践云上创新</h3>
+                                    <p class="CH-carousel-desc">京东智联云金融服务+ 数字化金融场景解决方案</p>
+
+                                </div>
+                                <a class="CH-carousel-button" href="https://www.jdcloud.com/cn/forms/consultation" target="_blank">立即咨询</a>
+                                <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-01.png" class="CH-carousel-img-pc">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel col-broadcast">
+                <div class="CH-card-broadcast">
+                    <dl class="list-news">
+                        <dt class="list-news-title">新闻动态</dt>
+                        <dd class="list-news-desc f-toe2"><a href="https://www.jdcloud.com/cn/news/detail/780" target="_blank">三张图看懂京东智联云的过去、现在和未来</a></dd>
+                    </dl>
+                    <dl class="list-news">
+                        <dt class="list-news-title">新基建</dt>
+                        <dd class="list-news-desc f-toe2"><a href="https://www.jdcloud.com/cn/news/detail/781" target="_blank">扎根“新基建”，京东智联云释放向上生长的力量</a></dd>
+                    </dl>
+                    <dl class="list-news">
+                        <dt class="list-news-title">行业话题</dt>
+                        <dd class="list-news-desc f-toe2"><a href="https://developer.jdcloud.com/topics/909" target="_blank">
+                            随着AI、云计算等技术快速发展，有哪些金融科技对金融业影响最大？</a></dd>
+                    </dl>
+                </div>
+            </div>
+        </section>
+        <!-- 行业洞察部分 -->
+        <section class="CH-section section-industry">
+            <header>
+                <h1>行业洞察</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="CH-panel">
+                    <div class="CH-container-imageText">
+                        <div class="col-image">
+                            <div class="swiper-container CH-carousel-type-4 swiper-no-swiping">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="CH-carousel-container">
+                                            <div class="CH-carousel-content">
+                                                <h3 class="CH-carousel-title">京东智联云全栈式金融级技术方案及数字化金融解决方案，将在保障金融业务的安全、稳定、高效的同时，为金融机构降本增效，全方位助推金融行业客户的数字化升级。</h3>
+                                                <a target="_blank" href="https://www.jdcloud.com/cn/forms/consultation" class="CH-carousel-button">联系我们 <i class="iconfont jc-icon-my-right"></i></a>
+                                            </div>
+                                            <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-02.png" class="CH-carousel-img-pc">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-content">
+                            <dl>
+                                <dt>金融行业科技的地位正在上升</dt>
+                                <dd>2019年10月，人民银行印发《金融科技（FinTech）发展规划（2019-2021年）》。科技之于金融，正在逐步从辅助业务的地位，上升成为决定金融未来发展的关键因素，也成为传统金融企业竞争的核心支撑。未来，科技将更加深入金融体系内部，从本质上改变经营业态、降本增效，助力创造新型金融业务模式和业务形态，为用户带来全新业务体验。</dd>
+                            </dl>
+                            <dl>
+                                <dt>三大科技赋能趋势形成
+
+                                    </dt>
+                                <dd>【严监管防风险】严监管之下，金融业稳增长、促改革、防风险是“主线任务”。新技术的应用将增强金融业务稳定、安全的严要求，变被动应对为主动预防风险的监管能力。</dd>
+                                        <dd>【数字化转型】随着数据经济时代的到来，传统ICT架构已经难以满足金融业务的发展趋势，云+Fintech、开放金融、数据智能决定了数字金融发展速度。</dd>
+                                                <dd>【创新驱动发展】金融科技的核心是利用现代科技成果优化和创新金融产品、经营模式和业务流程。前沿技术应用创新，能够有效提升金融机构综合实力，不断增强核心竞争力。</dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+         <!-- 行业场景化方案部分 -->
+        <section class="CH-section section-solution">
+            <header>
+                <h1>行业场景化方案</h1>
+            </header>
+            <ul class="CH-tab">
+                <li class="CH-tab-item is-selected"><a href="javascript:;">银行</a></li>
+                <li class="CH-tab-item"><a href="javascript:;">证券</a></li>
+                <li class="CH-tab-item"><a href="javascript:;">保险</a></li>
+                <li class="CH-tab-item"><a href="javascript:;">互联网金融</a></li>
+                <li class="CH-tab-item"><a href="javascript:;">地方政府</a></li>
+            </ul>
+            <div class="CH-section-body">
+                <div class="CH-secion-box">
+                    <div class="row CH-gutter-20">
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-yitihuanzhinengxindai.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">一体化智能信贷风控解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">依托“银税互动”还原小微企业经营信用数据进行价值挖掘与应用，帮助银行开发“秒批秒贷”全线上小微信贷产品，精准服务小微企业。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">多维数据信息</li>
+                                        <li class="CH-list-item">信贷风控逻辑</li>
+                                        <li class="CH-list-item">科学信用风险建模方法</li>
+                                        <li class="CH-list-item">智能信贷流程</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-yunweiyunying.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">运维运营一体化解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">面向异构多云环境的资源统一管理和运营平台，针对所有日常运维场景，提供全流程端到端的自动化运维能力。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">十万级以上的超大规模自动化管理能力</li>
+                                        <li class="CH-list-item">无死角的异构资源和多云环境的统一纳管</li>
+                                        <li class="CH-list-item">可视化任务编排和分布式调度能力</li>
+                                        <li class="CH-list-item">从业务和管理的角度优化资源调度策略</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-xuniyinhang.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">虚拟银行混合云方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">根据银行客户需求灵活搭建的混合云平台，可实现多云环境统一管理，提供专线或云接入、托管租赁、7*24运维服务。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">稳定可靠，极致性能</li>
+                                        <li class="CH-list-item">数据保护，安全可靠</li>
+                                        <li class="CH-list-item">租户管理，安全区隔</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-kaifaceshi.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">开发测试解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">基于敏捷专有云平台提供云计算基础服务与高性能AI算力，为银行智能分析类系统提供可信赖开发测试底层支撑。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">敏捷部署，轻松上云</li>
+                                        <li class="CH-list-item">即开即用，弹性算力</li>
+                                        <li class="CH-list-item">极简运维，统一监控</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row CH-gutter-20">
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-fengchao.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">蜂巢金融太空舱5G+智能银行</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">依托人工智能、5G等新一代信息技术打造的沉浸式、多维交互体验银行智能服务空间，连接人与未来5G智能银行。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">带给银行顾客真正的沉浸式体验</li>
+                                        <li class="CH-list-item">视觉、听觉、触觉和手势动作的多维交互</li>
+                                        <li class="CH-list-item">先进的技术领先性</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-t1.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">T1解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">提供从智能营销、智能风控到智能运营的全链路银行线上业务整体解决方案。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">智能营销</li>
+                                        <li class="CH-list-item">智能风控</li>
+                                        <li class="CH-list-item">智能运营</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-kaipuledaogao.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">开普勒导购解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">针对金融服务行业高品质的用户群体，提供独立运营的京东商城资源，让用户体验专享服务。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">积分商城升级</li>
+                                        <li class="CH-list-item">唯一支付定制</li>
+                                        <li class="CH-list-item">学生特权营销 </li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-jingdongzhifu.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">京东支付</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">兼容线上线下场景，为客户优化支付、资金调配、对账、结算等环节节约人力成本，提升资金流动效率。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">支付方式便捷</li>
+                                        <li class="CH-list-item">节约人力成本</li>
+                                        <li class="CH-list-item">降低资损风险</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-secion-box">
+                    <div class="row CH-gutter-20">
+                            <div class="col-3">
+                                <div class="CH-card is-hover">
+                                    <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-yunzhuomian.png" alt=""></div>
+                                    <div class="CH-card-header is-border-bottom">
+                                        <h3 class="CH-card-title">云桌面解决方案</h3>
+                                    </div>
+                                    <div class="CH-card-body">
+                                        <p class="CH-card-desc">面向证券行业研发外包场景的云桌面产品，可根据客户需求快速实施、定制化开发部署，极速交付，安全可靠。</p>
+
+                                        <ul class="CH-list">
+                                            <li class="CH-list-item">流畅体验，资源弹性</li>
+                                            <li class="CH-list-item">即开即用，随处访问</li>
+                                            <li class="CH-list-item">数据保护，安全可靠</li>
+                                            <li class="CH-list-item">灵活部署，极简运维</li>
+                                        </ul>
+                                    </div>
+                                    <div class="CH-card-footer">
+                                        <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-3">
+                                <div class="CH-card is-hover">
+                                    <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-kaifayunying.png" alt=""></div>
+                                    <div class="CH-card-header is-border-bottom">
+                                        <h3 class="CH-card-title">开发运营一体化解决方案</h3>
+                                    </div>
+                                    <div class="CH-card-body">
+                                        <p class="CH-card-desc">基于京东智联云多年业务实践经验，以DevOps技术完善和提升持续交付和IT服务的能力，高效支撑证券业务发展。</p>
+
+                                        <ul class="CH-list">
+                                            <li class="CH-list-item">自定义pipeline，秒级部署</li>
+                                            <li class="CH-list-item">统一智能调度计算</li>
+                                            <li class="CH-list-item">多环境统一部署和管理</li>
+                                            <li class="CH-list-item">全链路监控故障自愈</li>
+                                        </ul>
+                                    </div>
+                                    <div class="CH-card-footer">
+                                        <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-3">
+                                <div class="CH-card is-hover">
+                                    <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-jt2.png" alt=""></div>
+                                    <div class="CH-card-header is-border-bottom">
+                                        <h3 class="CH-card-title">JT²智管有方</h3>
+                                    </div>
+                                    <div class="CH-card-body">
+                                        <p class="CH-card-desc">为以客户为中心，覆盖多市场、多产品、多客户的，金融与科技服务于一体的领先资管科技平台。</p>
+
+                                        <ul class="CH-list">
+                                            <li class="CH-list-item">多资产交易信息平台</li>
+                                            <li class="CH-list-item">智能风控系统</li>
+                                            <li class="CH-list-item">智能基金管理</li>
+                                            <li class="CH-list-item">投后管理</li>
+                                        </ul>
+                                    </div>
+                                    <div class="CH-card-footer">
+                                        <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+                <div class="CH-secion-box">
+                    <div class="row CH-gutter-20">
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Insurance-shuanghuo.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">双活专有云平台</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">提供高容灾等级的专有云核心系统搭载平台。集成多级双活功能，符合各级业务系统的安全和监管要求。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">支持双活，多活</li>
+                                        <li class="CH-list-item">私有云部署交付</li>
+                                        <li class="CH-list-item">系统容灾5级</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Insurance-zhinengkefu.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">金融智能客服</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">金融在线客服机器人提供7×24小时精确、便捷的智能应答服务。支持上下文智能识别情感温度和智能语音交互。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">流畅体验，资源弹性</li>
+                                        <li class="CH-list-item">即开即用，随处访问</li>
+                                        <li class="CH-list-item">数据保护，安全可靠</li>
+                                        <li class="CH-list-item">灵活部署，极简运维</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-secion-box">
+                    <div class="row CH-gutter-20">
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Internet-xiaofeixingweipinggu.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">消费行为评估系统</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">以京东与外部大数据为依托，基于大数据、人工智能技术与算法为金融机构提供一套完整的风控解决方案体系。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">提供合规来源电商场景风控决策模型</li>
+                                        <li class="CH-list-item">提供线上可行性风控模型和多样化获客方式</li>
+                                        <li class="CH-list-item">提供安全可靠的风控分析产品</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Internet-jinrongtuoguan.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">互联网金融托管专区</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">基于京东智联云和京东集团在数据中心运营、政务云、金融支付等场景多年积累的实践经验，提供运营运维、实施和资产相关服务。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">等保4级机房</li>
+                                        <li class="CH-list-item">机房遍布全国</li>
+                                        <li class="CH-list-item">金融云业务运维能力</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Internet-jifenshangcheng.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">积分商城</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">为金融类客户（银行、保险、证券等）建立B2B2C的积分商城，建立全面、有效的用户成长运营体系，打造业务闭环系统。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">有效提高新增、转化、激活用户</li>
+                                        <li class="CH-list-item">提供用户分层运营，促进自传播</li>
+                                        <li class="CH-list-item">实现自身的存量用户价值转化</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Internet-jingyi.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title f-toe">京翼：一体化运营和运维</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">基于容器技术和DevOPS实践搭建一体化开发测试平台，助力金融机构提高软件研发的交付效率，高效的支撑业务的发展。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">10W级超大规模管理能力</li>
+                                        <li class="CH-list-item">异构资源和多云环境的统一纳管</li>
+                                        <li class="CH-list-item">一体化运维和运营解决方案</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="row CH-gutter-20">
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Internet-kaifaceshi.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">京效：一体化开发测试平台</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">依托人工智能、5G等新一代信息技术打造的沉浸式、多维交互体验银行智能服务空间，连接人与未来5G智能银行。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">一站式完成应用的生命周期管控</li>
+                                        <li class="CH-list-item">自定义编排PipeLine</li>
+                                        <li class="CH-list-item">提供多环境管理和分级发布</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>  
+                </div>
+                <div class="CH-secion-box">
+                    <div class="row CH-gutter-20">
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-gov-fuwupingtai.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">产业金融服务平台</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">为政府建立了企业与金融机构之间的科技互信渠道，高效智能链接企业与金融机构的融资/信贷需求，助力政府扶持地方企业发展壮大。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">提供专业化线上+线下运营服务</li>
+                                        <li class="CH-list-item">提供完善的贷前、贷中、贷后金融风控服务</li>
+                                        <li class="CH-list-item">同时提供信用风控和担保服务模式</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-gov-gongyinglian.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">供应链金融服务平台</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">服务于供应链核心企业及上下游企业，帮助企业全面优化上下游供需链运行效率，建立运行稳定并自我优化的供应链金融体系循环。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">线上交易流程可视化及信息透明化管理</li>
+                                        <li class="CH-list-item">有效提高供应链资金弹性及效率</li>
+                                        <li class="CH-list-item">完善供应链金融业务的风险控制机制</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="CH-section section-solution-m">
+            <header>
+                <h1>行业场景化方案</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="CH-collapse">
+                    <div class="CH-collapse-item is-selected">
+                        <div class="CH-collapse-item-header"><a name="bank">
+                            银行</a><i class="iconfont jc-icon-my-down"></i>
+                        </div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-yitihuanzhinengxindai.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">一体化智能信贷风控解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">依托“银税互动”还原小微企业经营信用数据进行价值挖掘与应用，帮助银行开发“秒批秒贷”全线上小微信贷产品，精准服务小微企业。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">多维数据信息</li>
+                                        <li class="CH-list-item">信贷风控逻辑</li>
+                                        <li class="CH-list-item">科学信用风险建模方法</li>
+                                        <li class="CH-list-item">智能信贷流程</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-yunweiyunying.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">运维运营一体化解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">面向异构多云环境的资源统一管理和运营平台，针对所有日常运维场景，提供全流程端到端的自动化运维能力。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">十万级以上的超大规模自动化管理能力</li>
+                                        <li class="CH-list-item">无死角的异构资源和多云环境的统一纳管</li>
+                                        <li class="CH-list-item">可视化任务编排和分布式调度能力</li>
+                                        <li class="CH-list-item">从业务和管理的角度优化资源调度策略</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-xuniyinhang.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">虚拟银行混合云方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">根据银行客户需求灵活搭建的混合云平台，可实现多云环境统一管理，提供专线或云接入、托管租赁、7*24运维服务。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">稳定可靠，极致性能</li>
+                                        <li class="CH-list-item">数据保护，安全可靠</li>
+                                        <li class="CH-list-item">租户管理，安全区隔</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-kaifaceshi.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">开发测试解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">基于敏捷专有云平台提供云计算基础服务与高性能AI算力，为银行智能分析类系统提供可信赖开发测试底层支撑。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">敏捷部署，轻松上云</li>
+                                        <li class="CH-list-item">即开即用，弹性算力</li>
+                                        <li class="CH-list-item">极简运维，统一监控</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-fengchao.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">蜂巢金融太空舱5G+智能银行</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">依托人工智能、5G等新一代信息技术打造的沉浸式、多维交互体验银行智能服务空间，连接人与未来5G智能银行。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">带给银行顾客真正的沉浸式体验</li>
+                                        <li class="CH-list-item">视觉、听觉、触觉和手势动作的多维交互</li>
+                                        <li class="CH-list-item">先进的技术领先性</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-t1.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">T1解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">提供从智能营销、智能风控到智能运营的全链路银行线上业务整体解决方案。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">智能营销</li>
+                                        <li class="CH-list-item">智能风控</li>
+                                        <li class="CH-list-item">智能运营</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-kaipuledaogao.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">开普勒导购解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">针对金融服务行业高品质的用户群体，提供独立运营的京东商城资源，让用户体验专享服务。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">积分商城升级</li>
+                                        <li class="CH-list-item">唯一支付定制</li>
+                                        <li class="CH-list-item">学生特权营销 </li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bank-jingdongzhifu.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">京东支付</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">兼容线上线下场景，为客户优化支付、资金调配、对账、结算等环节节约人力成本，提升资金流动效率。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">支付方式便捷</li>
+                                        <li class="CH-list-item">节约人力成本</li>
+                                        <li class="CH-list-item">降低资损风险</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="CH-collapse-item">
+                        <div class="CH-collapse-item-header"><a name="security">
+                            证券</a><i class="iconfont jc-icon-my-down"></i>
+                        </div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-yunzhuomian.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">云桌面解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">面向证券行业研发外包场景的云桌面产品，可根据客户需求快速实施、定制化开发部署，极速交付，安全可靠。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">流畅体验，资源弹性</li>
+                                        <li class="CH-list-item">即开即用，随处访问</li>
+                                        <li class="CH-list-item">数据保护，安全可靠</li>
+                                        <li class="CH-list-item">灵活部署，极简运维</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-kaifayunying.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">开发运营一体化解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">基于京东智联云多年业务实践经验，以DevOps技术完善和提升持续交付和IT服务的能力，高效支撑证券业务发展。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">自定义pipeline，秒级部署</li>
+                                        <li class="CH-list-item">统一智能调度计算</li>
+                                        <li class="CH-list-item">多环境统一部署和管理</li>
+                                        <li class="CH-list-item">全链路监控故障自愈</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-jt2.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">JT²智管有方</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">为以客户为中心，覆盖多市场、多产品、多客户的，金融与科技服务于一体的领先资管科技平台。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">多资产交易信息平台</li>
+                                        <li class="CH-list-item">智能风控系统</li>
+                                        <li class="CH-list-item">智能基金管理</li>
+                                        <li class="CH-list-item">投后管理</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="CH-collapse-item">
+                        <div class="CH-collapse-item-header"><a name="insurance">
+                            保险</a><i class="iconfont jc-icon-my-down"></i>
+                        </div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Insurance-shuanghuo.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">双活专有云平台</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">提供高容灾等级的专有云核心系统搭载平台。集成多级双活功能，符合各级业务系统的安全和监管要求。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">支持双活，多活</li>
+                                        <li class="CH-list-item">私有云部署交付</li>
+                                        <li class="CH-list-item">系统容灾5级</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Insurance-zhinengkefu.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">金融智能客服</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">金融在线客服机器人提供7×24小时精确、便捷的智能应答服务。支持上下文智能识别情感温度和智能语音交互。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">流畅体验，资源弹性</li>
+                                        <li class="CH-list-item">即开即用，随处访问</li>
+                                        <li class="CH-list-item">数据保护，安全可靠</li>
+                                        <li class="CH-list-item">灵活部署，极简运维</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="CH-collapse-item">
+                        <div class="CH-collapse-item-header"><a name="financial">
+                            互联网金融</a><i class="iconfont jc-icon-my-down"></i>
+                        </div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Internet-xiaofeixingweipinggu.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">消费行为评估系统</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">以京东与外部大数据为依托，基于大数据、人工智能技术与算法为金融机构提供一套完整的风控解决方案体系。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">提供合规来源电商场景风控决策模型</li>
+                                        <li class="CH-list-item">提供线上可行性风控模型和多样化获客方式</li>
+                                        <li class="CH-list-item">提供安全可靠的风控分析产品</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Internet-jinrongtuoguan.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">互联网金融托管专区</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">基于京东智联云和京东集团在数据中心运营、政务云、金融支付等场景多年积累的实践经验，提供运营运维、实施和资产相关服务。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">等保4级机房</li>
+                                        <li class="CH-list-item">机房遍布全国</li>
+                                        <li class="CH-list-item">金融云业务运维能力</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Internet-jifenshangcheng.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">积分商城</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">为金融类客户（银行、保险、证券等）建立B2B2C的积分商城，建立全面、有效的用户成长运营体系，打造业务闭环系统。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">有效提高新增、转化、激活用户</li>
+                                        <li class="CH-list-item">提供用户分层运营，促进自传播</li>
+                                        <li class="CH-list-item">实现自身的存量用户价值转化</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Internet-jingyi.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title f-toe">京翼：一体化运营和运维解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">基于容器技术和DevOPS实践搭建一体化开发测试平台，助力金融机构提高软件研发的交付效率，高效的支撑业务的发展。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">10W级超大规模管理能力</li>
+                                        <li class="CH-list-item">异构资源和多云环境的统一纳管</li>
+                                        <li class="CH-list-item">一体化运维和运营解决方案</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-Internet-kaifaceshi.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">京效：一体化开发测试平台</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">依托人工智能、5G等新一代信息技术打造的沉浸式、多维交互体验银行智能服务空间，连接人与未来5G智能银行。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">一站式完成应用的生命周期管控</li>
+                                        <li class="CH-list-item">自定义编排PipeLine</li>
+                                        <li class="CH-list-item">提供多环境管理和分级发布</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="CH-collapse-item">
+                        <div class="CH-collapse-item-header"><a name="government">
+                            地方政府</a><i class="iconfont jc-icon-my-down"></i>
+                        </div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-gov-fuwupingtai.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">产业金融服务平台</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">为政府建立了企业与金融机构之间的科技互信渠道，高效智能链接企业与金融机构的融资/信贷需求，助力政府扶持地方企业发展壮大。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">提供专业化线上+线下运营服务</li>
+                                        <li class="CH-list-item">提供完善的贷前、贷中、贷后金融风控服务</li>
+                                        <li class="CH-list-item">同时提供信用风控和担保服务模式</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                            <div class="CH-card">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-gov-gongyinglian.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">供应链金融服务平台</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">服务于供应链核心企业及上下游企业，帮助企业全面优化上下游供需链运行效率，建立运行稳定并自我优化的供应链金融体系循环。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">线上交易流程可视化及信息透明化管理</li>
+                                        <li class="CH-list-item">有效提高供应链资金弹性及效率</li>
+                                        <li class="CH-list-item">完善供应链金融业务的风险控制机制</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+         <!-- 一站式企业金融服务部分 -->
+        <section class="CH-section section-finance">
+            <header>
+                <h1>一站式企业金融服务</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="row CH-gutter-20">
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <div class="CH-tag">支付与结算</div>
+                                <h3 class="CH-card-title">京东支付</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">兼容PC、无线端主流环境的跨平台支付产品，具有支付快捷、体验好、维度广、安全和简化标准接入五大特点。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">代扣代付</li>
+                                    <li class="CH-list-item">网关支付</li>
+                                    <li class="CH-list-item">快捷支付</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <div class="CH-tag">保理与信贷</div>
+                                <h3 class="CH-card-title">店主贷</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">为以企业法人的个人信用及企业经营情况为授信依据，提供用于企业日常生产经营的小额信用贷款产品。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">纯信用贷</li>
+                                    <li class="CH-list-item">无担保、无抵押</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <div class="CH-tag">保理与信贷</div>
+                                <h3 class="CH-card-title">京保贝</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">帮助供应商解决融资难、放款慢、应收账款周转周期长的问题，全流程流畅、方便、快捷。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">全程监控追踪</li>
+                                    <li class="CH-list-item">深入跟踪物流、资金流、信息流</li>
+                                    <li class="CH-list-item">掌控整体贸易流转</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <div class="CH-tag">保理与信贷</div>
+                                <h3 class="CH-card-title">京小贷</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">面向京东商城POP商家提供的信贷产品，根据店铺信用评级及运营情况提供贷款，线上操作，即时发放。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">大数据风控模型</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row CH-gutter-20">
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <div class="CH-tag">财务税务管理</div>
+                                <h3 class="CH-card-title">大象优税</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">大象优税是专门面向企业提供"优税、智税、解税"一站式、专业化的财税综合服务产品。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">票财税一站式管理</li>
+                                    <li class="CH-list-item">财税风险全程监控</li>
+                                    <li class="CH-list-item">资深专家在线答疑</li>
+                                    <li class="CH-list-item">运营分析精细管理</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <div class="CH-tag">数据管理</div>
+                                <h3 class="CH-card-title">行业报告</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">提供多维度模型与分析，开放与强大的数据合作生态圈，多标签助力企业完善会员线上线下特征。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">产业发展分析</li>
+                                    <li class="CH-list-item">企业对标分析</li>
+                                    <li class="CH-list-item">品牌洞察分析</li>
+                                    <li class="CH-list-item">政府招商指引</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <div class="CH-tag">数据管理</div>
+                                <h3 class="CH-card-title">数据营销平台</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">通过选择细分的行业和品牌，创建人群包，进而在短信、户外、互联网媒体等渠道做精准投放。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">营销人群筛选与扩散</li>
+                                    <li class="CH-list-item">投放模型构建与策略</li>
+                                    <li class="CH-list-item">线上/线下广告投放</li>
+                                    <li class="CH-list-item">效果监测与模型优化</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-header">
+                                <div class="CH-tag">数据管理</div>
+                                <h3 class="CH-card-title">大数据资产管理平台</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">有效输出平台的资源支撑能力、计算能力、数据整合处理能力、数据管控及安全保障能力。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">数据服务一体化</li>
+                                    <li class="CH-list-item">数据模型统一开发管理</li>
+                                    <li class="CH-list-item">保障数据安全</li>
+                                    <li class="CH-list-item">完善平台监控</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+        </section>
+        <section class="CH-section section-finance-m">
+            <header>
+                <h1>一站式企业金融服务</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="swiper-container CH-carousel-type-5">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="CH-card">
+                                <div class="CH-card-header">
+                                    <div class="CH-tag">支付与结算</div>
+                                    <h3 class="CH-card-title">京东支付</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">兼容PC、无线端主流环境的跨平台支付产品，具有支付快捷、体验好、维度广、安全和简化标准接入五大特点。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">代扣代付</li>
+                                        <li class="CH-list-item">网关支付</li>
+                                        <li class="CH-list-item">快捷支付</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                                <div class="CH-card">
+                                    <div class="CH-card-header">
+                                        <div class="CH-tag">保理与信贷</div>
+                                        <h3 class="CH-card-title">店主贷</h3>
+                                    </div>
+                                    <div class="CH-card-body">
+                                        <p class="CH-card-desc">为以企业法人的个人信用及企业经营情况为授信依据，提供用于企业日常生产经营的小额信用贷款产品。</p>
+
+                                        <ul class="CH-list">
+                                            <li class="CH-list-item">纯信用贷</li>
+                                            <li class="CH-list-item">无担保、无抵押</li>
+                                        </ul>
+                                    </div>
+                                    <div class="CH-card-footer">
+                                        <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    </div>
+                                </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="CH-card">
+                                <div class="CH-card-header">
+                                    <div class="CH-tag">保理与信贷</div>
+                                    <h3 class="CH-card-title">京保贝</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">帮助供应商解决融资难、放款慢、应收账款周转周期长的问题，全流程流畅、方便、快捷。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">全程监控追踪</li>
+                                        <li class="CH-list-item">深入跟踪物流、资金流、信息流</li>
+                                        <li class="CH-list-item">掌控整体贸易流转</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="CH-card">
+                                <div class="CH-card-header">
+                                    <div class="CH-tag">保理与信贷</div>
+                                    <h3 class="CH-card-title">京小贷</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">面向京东商城POP商家提供的信贷产品，根据店铺信用评级及运营情况提供贷款，线上操作，即时发放。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">大数据风控模型</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="CH-card">
+                                <div class="CH-card-header">
+                                    <div class="CH-tag">财务税务管理</div>
+                                    <h3 class="CH-card-title">大象优税</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">大象优税是专门面向企业提供"优税、智税、解税"一站式、专业化的财税综合服务产品。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">票财税一站式管理</li>
+                                        <li class="CH-list-item">财税风险全程监控</li>
+                                        <li class="CH-list-item">资深专家在线答疑</li>
+                                        <li class="CH-list-item">运营分析精细管理</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="CH-card">
+                                <div class="CH-card-header">
+                                    <div class="CH-tag">数据管理</div>
+                                    <h3 class="CH-card-title">行业报告</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">提供多维度模型与分析，开放与强大的数据合作生态圈，多标签助力企业完善会员线上线下特征。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">产业发展分析</li>
+                                        <li class="CH-list-item">企业对标分析</li>
+                                        <li class="CH-list-item">品牌洞察分析</li>
+                                        <li class="CH-list-item">政府招商指引</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="CH-card">
+                                <div class="CH-card-header">
+                                    <div class="CH-tag">数据管理</div>
+                                    <h3 class="CH-card-title">数据营销平台</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">通过选择细分的行业和品牌，创建人群包，进而在短信、户外、互联网媒体等渠道做精准投放。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">营销人群筛选与扩散</li>
+                                        <li class="CH-list-item">投放模型构建与策略</li>
+                                        <li class="CH-list-item">线上/线下广告投放</li>
+                                        <li class="CH-list-item">效果监测与模型优化</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="CH-card">
+                                <div class="CH-card-header">
+                                    <div class="CH-tag">数据管理</div>
+                                    <h3 class="CH-card-title">大数据资产管理平台</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">有效输出平台的资源支撑能力、计算能力、数据整合处理能力、数据管控及安全保障能力。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">数据服务一体化</li>
+                                        <li class="CH-list-item">数据模型统一开发管理</li>
+                                        <li class="CH-list-item">保障数据安全</li>
+                                        <li class="CH-list-item">完善平台监控</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </section>
+         <!-- 核心优势部分 -->
+        <section class="CH-section section-advantage">
+            <header>
+                <h1>核心优势</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="row CH-gutter-20">
+                    <div class="col-4 col-xs-12">
+                        <div class="CH-card">
+                            <div class="CH-card-icon">
+                                <div class="CH-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-youshi-01.png" alt="智能金融科技应用"></div>
+                            </div>
+                            <div class="CH-card-header is-align-center">
+                                <h3 class="CH-card-title">智能金融应用</h3>
+                            </div>
+                            <div class="CH-card-body is-align-center">
+                                <ul class="CH-list is-size-media">
+                                    <li class="CH-list-item f-toe2">经过京东业务场景打磨的人工智能、云计算、大数据、区块链等核心技术</li>
+                                    <li class="CH-list-item f-toe2">金融科技的技术化赋能，助力业务协同创新</li>
+                                    <li class="CH-list-item f-toe2">智能供应链的数字化、智能化金融科技应用赋能</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4 col-xs-12">
+                        <div class="CH-card">
+                            <div class="CH-card-icon">
+                                    <div class="CH-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-youshi-02.png" alt="智能金融科技应用"></div>
+                                </div>
+                            <div class="CH-card-header is-align-center">
+                                <h3 class="CH-card-title">全面多云服务</h3>
+                            </div>
+                            <div class="CH-card-body is-align-center">
+                                <ul class="CH-list is-size-media">
+                                    <li class="CH-list-item f-toe2">京东智联云多年集大成的公有云、超大型专有云、敏捷专有云系列产品</li>
+                                    <li class="CH-list-item f-toe2">提供全栈式、全场景的多云环境解决方案</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4 col-xs-12">
+                        <div class="CH-card">
+                            <div class="CH-card-icon">
+                                <div class="CH-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-youshi-03.png" alt="智能金融科技应用"></div>
+                            </div>
+                            <div class="CH-card-header is-align-center">
+                                <h3 class="CH-card-title">海量场景沉淀</h3>
+                            </div>
+                            <div class="CH-card-body is-align-center">
+                                <ul class="CH-list is-size-media">
+                                    <li class="CH-list-item f-toe2">最完整的智能供应链应用场景与实践经验</li>
+                                    <li class="CH-list-item f-toe2">最精准的大数据技术沉淀与高并发、高频线上交易的数据处理分析能力</li>
+                                    <li class="CH-list-item f-toe2">丰富的城市金融服务场景建模及服务经验</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+         <!-- 部署模式部分 -->
+        <section class="CH-section section-deploy">
+            <header>
+                <h1>部署模式</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="row CH-gutter-20">
+                    <div class="col-4 col-xs-12">
+                        <div class="CH-card">
+                            <div class="CH-card-icon">
+                                <div class="CH-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-bushu-01.png" alt="智能金融科技应用"></div>
+                            </div>
+                            <div class="CH-card-header is-align-center">
+                                <h3 class="CH-card-title">专有云</h3>
+                            </div>
+                            <div class="CH-card-body is-align-center">
+                                <ul class="CH-list is-size-media">
+                                    <li class="CH-list-item">3~3000台服务器节点规模</li>
+                                    <li class="CH-list-item">支持容灾5级的多AZ双活协同</li>
+                                    <li class="CH-list-item">京东云原生代码</li>
+                                    <li class="CH-list-item">支持X86/ARM架构</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4 col-xs-12">
+                        <div class="CH-card">
+                            <div class="CH-card-icon">
+                                <div class="CH-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-bushu-02.png" alt="智能金融科技应用"></div>
+                            </div>
+                            <div class="CH-card-header is-align-center">
+                                <h3 class="CH-card-title">托管云</h3>
+                            </div>
+                            <div class="CH-card-body is-align-center">
+                                <ul class="CH-list is-size-media">
+                                    <li class="CH-list-item">Tier 4 级数据中心</li>
+                                    <li class="CH-list-item">独立隔离托管区域</li>
+                                    <li class="CH-list-item">党政云资质认证</li>
+                                    <li class="CH-list-item">7*24公有云SLA等级</li>
+                                </ul>
+                                <div>
+                                    <a href="https://www.jdcloud.com/cn/solutions/ft-cloud-infra" target="_blank" class="link-finance">了解金融专区</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4 col-xs-12">
+                        <div class="CH-card">
+                            <div class="CH-card-icon">
+                                <div class="CH-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-bushu-03.png" alt="智能金融科技应用"></div>
+                            </div>
+                            <div class="CH-card-header is-align-center">
+                                <h3 class="CH-card-title">混合云</h3>
+                            </div>
+                            <div class="CH-card-body is-align-center">
+                                <ul class="CH-list is-size-media">
+                                    <li class="CH-list-item">数据、业务迁移支持</li>
+                                    <li class="CH-list-item">多云CMP协同工具支持</li>
+                                    <li class="CH-list-item">异构云协同工作支持</li>
+                                    <li class="CH-list-item">BSM管理工具支持</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+         <!-- 精选成功案例部分 -->
+        <section class="CH-section section-case section-case">
+            <header>
+                <h1>精选成功案例</h1>
+            </header>
+            <div class="CH-section-body seccessCase">
+                <div class="CH-panel">
+                    <div class="swiper-container CH-carousel-type-2 swiper-no-swiping">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide" data-index='1'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-daxianghuiyun.png" alt=""></div>
+                            <div class="swiper-slide" data-index='2'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-jingdonganlian.png" alt=""></div>
+                            <div class="swiper-slide" data-index='3'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-yuxi.png" alt=""></div>
+                            <div class="swiper-slide" data-index='4'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-shenfu.png" alt=""></div>
+                            <div class="swiper-slide" data-index='5'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-jianhang.png" alt=""></div>
+                        </div>
+                    </div>
+                    <div class="CH-container-scroll-box">
+                        <div class="CH-container-scroll">
+                            <div class="CH-container-column">
+                                <div class="CH-container-imageText">
+                                    <div class="col-image">
+                                        <img src="https://img1.jcloudcs.com/portal/channel/finance/image-case-daxianghuiyun.png" alt="">
+                                    </div>
+                                    <div class="col-content">
+                                        <h3 class="section-case-title">大象慧云</h3>
+                                        <p class=" section-case-desc">京东智联云和客户共同分析业务模型，建立测试系统，提供全方位云计算服务。在使用京东智联云平台后，客户实现了降本增效，高效管理，极简运维，各方面业务指标均有显著提升。</p>
+
+                                        <ul class="section-case-feature">
+                                            <li>提升开发人员效率30%</li>
+                                            <li>节省IT投入</li>
+                                            <li>整机交付，即开即用</li>
+                                            <li>提升性能，稳定可靠</li>
+                                        </ul>
+                                        <p class="section-case-product">使用产品：<strong><a href="www.jdcloud.com/cn/products/jdstack" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">云缓存 Redis</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">云数据库 MYSQL</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">对象存储</a></strong></p>
+                                    </div>
+                                        <div>
+                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                            <a href="https://www.jdcloud.com/cn/case/detail/6" target="_blank" class="section-case-link">查看案例</a>
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="CH-container-column"><div class="CH-container-imageText">
+                                    <div class="col-image">
+                                        <img src="https://img1.jcloudcs.com/portal/channel/finance/image-case-jingdonganlian.png" alt="">
+                                    </div>
+                                    <div class="col-content">
+                                        <h3 class="section-case-title">京东安联财险</h3>
+                                        <p class=" section-case-desc">京东安联私有云，是基于智联云私有云技术构建的保险核心业务系统。整体系统以超高可用云服务搭载了京东安联财险的保险业务系统、敏捷开发平台等核心组件。是京东安联公司实现全业务开发、全业务营销和公司生产运行的重要IT基础设施。</p>
+
+                                        <ul class="section-case-feature">
+                                            <li>超高可用</li>
+                                            <li>超大规模</li>
+                                            <li>安全合规</li>
+                                            <li>全生命周期服务</li>
+                                        </ul>
+                                        <p class="section-case-product">使用产品：<strong><a href="www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></strong><strong><a href="www.jdcloud.com/cn/products/nf1-adc" target="_blank">NF1 ADC</a></strong><strong><a href="market.jdcloud.com/service/details/454403" target="_blank">智能运维</a></strong></p>
+
+                                        <div>
+                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="CH-container-column"><div class="CH-container-imageText">
+                                    <div class="col-image">
+                                        <img src="https://img1.jcloudcs.com/portal/channel/finance/image-case-yuxi.png" alt="">
+                                    </div>
+                                    <div class="col-content">
+                                        <h3 class="section-case-title">玉溪市人民政府</h3>
+                                        <p class=" section-case-desc">玉溪市产业金融服务平台以“区块链+互联网”为引领，用互联网思维和理念创新普惠金融，平台帮助构建完整、完善的企业信用体系，实现资金端愿意贷、放心贷，解决企业端融资/贷款难、贵的问题，激活全市产业经济发展新动能。</p>
+
+                                        <ul class="section-case-feature">
+                                            <li>建立企业信用体系</li>
+                                            <li>智能链接企业银行</li>
+                                            <li>100+款金融产品上架</li>
+                                            <li>211项数据梳理对接</li>
+                                        </ul>
+                                        <p class="section-case-product">使用产品：<strong><a href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">京东云敏捷专有云</a></strong><strong><a href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
+
+                                        <div>
+                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                        </div>
+                                    </div>
+                            </div>
+                            </div>
+                            <div class="CH-container-column">
+                                <div class="CH-container-imageText">
+                                    <div class="col-image">
+                                        <img src="https://img1.jcloudcs.com/portal/channel/finance/image-case-shenfu.png" alt="">
+                                    </div>
+                                    <div class="col-content">
+                                        <h3 class="section-case-title">沈抚新区管理委员会</h3>
+                                        <p class=" section-case-desc">沈抚新区产业金融服务平台，按照政府牵头、企业参与、共建共营的原则，高效智能链接企业与银行的融资/信贷需求，提供全流程服务，降低中小微企业融资成本，实现银企双方合作共赢，服务地方实体经济，实现新区高质量发展。</p>
+
+                                        <ul class="section-case-feature">
+                                            <li>风控管理</li>
+                                            <li>交易撮合</li>
+                                            <li>过程监管</li>
+                                            <li>业务运营</li>
+                                        </ul>
+                                        <p class="section-case-product">使用产品：<strong><a href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">京东云敏捷专有云</a></strong><strong><a href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
+
+                                        <div>
+                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="CH-container-column"><div class="CH-container-imageText">
+                                    <div class="col-image">
+                                        <img src="https://img1.jcloudcs.com/portal/channel/finance/image-case-jianhang.png" alt="">
+                                    </div>
+                                    <div class="col-content">
+                                        <h3 class="section-case-title">中国建设银行</h3>
+                                        <p class=" section-case-desc">金融太空舱为中国建设银行提供龙财富、龙智投、理财产品、速盈、保险、基金、信用卡等七大业务板块的交互体验，通过高科技作为抓手，提升用户在银行线下网点的体验感，在用户体验的过程中将创新的银行业务介绍给用户。</p>
+
+                                        <ul class="section-case-feature">
+                                            <li>日服务100+人次</li>
+                                            <li>顾客满意度93%+</li>
+                                            <li>98%使用率</li>
+                                            <li>增强竞争力</li>
+                                        </ul>
+                                        <p class="section-case-product">使用产品：<strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">蜂巢空间机器人</a></strong></p>
+
+                                        <div>
+                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="CH-section section-case-m">
+            <header>
+                <h1>精选成功案例</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="CH-collapse">
+                    <div class="CH-collapse-item is-selected">
+                        <div class="CH-collapse-item-header"><a name="case1">大象慧云</a><i class="iconfont jc-icon-my-down"></i></div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/finance/image-case-daxianghuiyun.png" alt="">
+                                </div>
+                                <div class="col-content">
+                                    <h3 class="section-case-title">大象慧云</h3>
+                                    <p class=" section-case-desc">京东智联云和客户共同分析业务模型，建立测试系统，提供全方位云计算服务。在使用京东智联云平台后，客户实现了降本增效，高效管理，极简运维，各方面业务指标均有显著提升。</p>
+
+                                    <ul class="section-case-feature">
+                                        <li>提升开发人员效率30%</li>
+                                        <li>节省IT投入</li>
+                                        <li>整机交付，即开即用</li>
+                                        <li>提升性能，稳定可靠</li>
+                                    </ul>
+                                    <p class="section-case-product"><label>使用产品：</label><strong><a href="www.jdcloud.com/cn/products/jdstack" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">云缓存 Redis</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">云数据库 MYSQL</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">对象存储</a></strong></p>
+
+                                    <div>
+                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                        <a href="https://www.jdcloud.com/cn/case/detail/6" target="_blank" class="section-case-link">查看案例</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="CH-collapse-item">
+                        <div class="CH-collapse-item-header"><a name="case2">京东安联财险</a><i class="iconfont jc-icon-my-down"></i></div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/finance/image-case-jingdonganlian.png" alt="">
+                                </div>
+                                <div class="col-content">
+                                    <h3 class="section-case-title">京东安联财险</h3>
+                                    <p class=" section-case-desc">京东安联私有云，是基于智联云私有云技术构建的保险核心业务系统。整体系统以超高可用云服务搭载了京东安联财险的保险业务系统、敏捷开发平台等核心组件。是京东安联公司实现全业务开发、全业务营销和公司生产运行的重要IT基础设施。</p>
+
+                                    <ul class="section-case-feature">
+                                        <li>超高可用</li>
+                                        <li>超大规模</li>
+                                        <li>安全合规</li>
+                                        <li>全生命周期服务</li>
+                                    </ul>
+                                    <p class="section-case-product"><label>使用产品：</label><strong><a href="www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></strong><strong><a href="www.jdcloud.com/cn/products/nf1-adc" target="_blank">NF1 ADC</a></strong><strong><a href="market.jdcloud.com/service/details/454403" target="_blank">智能运维</a></strong></p>
+
+                                    <div>
+                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="CH-collapse-item">
+                        <div class="CH-collapse-item-header"><a name="case2">玉溪市人民政府</a><i class="iconfont jc-icon-my-down"></i></div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/finance/image-case-yuxi.png" alt="">
+                                </div>
+                                <div class="col-content">
+                                    <h3 class="section-case-title">玉溪市人民政府</h3>
+                                    <p class=" section-case-desc">玉溪市产业金融服务平台以“区块链+互联网”为引领，用互联网思维和理念创新普惠金融，平台帮助构建完整、完善的企业信用体系，实现资金端愿意贷、放心贷，解决企业端融资/贷款难、贵的问题，激活全市产业经济发展新动能。</p>
+
+                                    <ul class="section-case-feature">
+                                        <li>建立企业信用体系</li>
+                                        <li>智能链接企业银行</li>
+                                        <li>100+款金融产品上架</li>
+                                        <li>211项数据梳理对接</li>
+                                    </ul>
+                                    <p class="section-case-product"><label>使用产品：</label><strong><a href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">京东云敏捷专有云</a></strong><strong><a href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
+
+                                    <div>
+                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="CH-collapse-item">
+                        <div class="CH-collapse-item-header"><a name="case2">沈抚新区管理委员会</a><i class="iconfont jc-icon-my-down"></i></div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/finance/image-case-shenfu.png" alt="">
+                                </div>
+                                <div class="col-content">
+                                    <h3 class="section-case-title">沈抚新区管理委员会</h3>
+                                    <p class=" section-case-desc">沈抚新区产业金融服务平台，按照政府牵头、企业参与、共建共营的原则，高效智能链接企业与银行的融资/信贷需求，提供全流程服务，降低中小微企业融资成本，实现银企双方合作共赢，服务地方实体经济，实现新区高质量发展。</p>
+
+                                    <ul class="section-case-feature">
+                                        <li>风控管理</li>
+                                        <li>交易撮合</li>
+                                        <li>过程监管</li>
+                                        <li>业务运营</li>
+                                    </ul>
+                                    <p class="section-case-product"><label>使用产品：</label><strong><a href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">京东云敏捷专有云</a></strong><strong><a href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
+
+                                    <div>
+                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="CH-collapse-item">
+                        <div class="CH-collapse-item-header"><a name="case2">中国建设银行</a><i class="iconfont jc-icon-my-down"></i></div>
+                        <div class="CH-collapse-item-body">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/finance/image-case-jianhang.png" alt="">
+                                </div>
+                                <div class="col-content">
+                                    <h3 class="section-case-title">中国建设银行</h3>
+                                    <p class=" section-case-desc">金融太空舱为中国建设银行提供龙财富、龙智投、理财产品、速盈、保险、基金、信用卡等七大业务板块的交互体验，通过高科技作为抓手，提升用户在银行线下网点的体验感，在用户体验的过程中将创新的银行业务介绍给用户。</p>
+
+                                    <ul class="section-case-feature">
+                                        <li>日服务100+人次</li>
+                                        <li>顾客满意度93%+</li>
+                                        <li>98%使用率</li>
+                                        <li>增强竞争力</li>
+                                    </ul>
+                                    <p class="section-case-product"><label>使用产品：</label><strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">蜂巢空间机器人</a></strong></p>
+
+                                    <div>
+                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+     <!-- 专业、可靠的合作伙伴部分 -->
+    <section class="CH-section section-cooperation">
+        <header>
+            <h1>专业、可靠的合作伙伴</h1>
+        </header>
+        <div class="CH-section-body">
+            <div class="CH-container">
+                <div class="swiper-container CH-carousel-type-3">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="container-slide">
+                                <div class="box-logo"><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-cooperation-dongfang.png"></div>
+                                <div class="box-content">
+                                    <h4>东方微银</h4>
+                                    <p>东方微银科技（北京）有限公司成立于2015年，致力于应用人工智能及开创性的数据算法，依托金融化产品应用矩阵群组，助力金融机构形成精准、灵活的小微金融服务方案，实现小微金融服务的全方位布局。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="container-slide">
+                                <div class="box-logo"><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-cooperation-youji.png"></div>
+                                <div class="box-content">
+                                    <h4>北京有迹</h4>
+                                    <p>有迹科技是一家基于大数据分析、机器学习的智能金融科技服务商，以金融科技技术为核心，结合丰富的线上运营和风控经验，进行精准信用及风险评估，专注打造高标准信用评级平台，推进构建完善的小微企业和个人信用体系。</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="container-slide">
+                                <div class="box-logo"><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-cooperation-wenli.png"></div>
+                                <div class="box-content">
+                                    <h4>文沥信息</h4>
+                                    <p>文沥（WelinkData）是领先的消费品渠道数字化建设者，为品牌企业构筑连接渠道伙伴、金融机构伙伴价值一体化的数字化管理工具和平台，赋能渠道业务伙伴发展，升级精准终端营销模式，打造核心线下生意增长引擎。</p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                </div>
+                <a href="https://www.jdcloud.com/cn/partner/index" target="_blank" class="link-cooperation">成为合作伙伴</a>
+            </div>
+        </div>
+    </section>
+    <div class="CH-container">
+         <!-- 热销产品推荐部分 -->
+        <section class="CH-section section-product">
+            <header>
+                <h1>热销产品推荐</h1>
+            </header>
+            <div class="CH-section-body">
+                <div class="CH-card-group row">
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card is-hover is-hover-shadow">
+                            <div class="CH-card-header">
+                                <h3 class="CH-card-title is-icon"><i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-product-dstack-zhuanyouyun.png"></i>JDStack 专有云</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">安全、合规、成熟、专业的企业级云平台</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">可靠品质</li>
+                                    <li class="CH-list-item">功能完备</li>
+                                    <li class="CH-list-item">专业服务</li>
+                                    <li class="CH-list-item">永续经营</li>
+                                </ul>
+                                <div class="CH-card-price">免费咨询专家</div>
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-6">
+                                        <a href="https://www.jdcloud.com/cn/products/jdstack" target="_blank" class="CH-card-button-default">查看详情</a>
+                                    </div>
+                                    <div class="col-6">
+                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3"> 
+                        <div class="CH-card is-hover is-hover-shadow">
+                            <div class="CH-card-header">
+                                <h3 class="CH-card-title is-icon"><i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-product-mijiezhuanyouyun.png"></i>京东云敏捷专有云</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">京东云敏捷专有云是支持中小集群规模的私有云软件平台</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">开放兼容、持续进化</li>
+                                    <li class="CH-list-item">软件自研、自主可控</li>
+                                    <li class="CH-list-item">平台稳定、数据可靠、极致性能</li>
+                                    <li class="CH-list-item">快速部署、平滑升级、自主扩展</li>
+                                </ul>
+                                <div class="CH-card-price">免费咨询专家</div>
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-6">
+                                        <a href="https://www.jdcloud.com/cn/products/jd-cloud-swift" target="_blank" class="CH-card-button-default">查看详情</a>
+                                    </div>
+                                    <div class="col-6">
+                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card is-hover is-hover-shadow">
+                            <div class="CH-card-header">
+                                <h3 class="CH-card-title is-icon"><i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-product-GPU.png"></i>GPU云主机</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">加速深度学习、科学计算的高性能计算服务</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">性能卓越</li>
+                                    <li class="CH-list-item">简单易用</li>
+                                    <li class="CH-list-item">稳定安全</li>
+                                    <li class="CH-list-item">高性价比</li>
+                                </ul>
+                                <div class="CH-card-price">免费咨询专家</div>
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-6">
+                                        <a href="https://www.jdcloud.com/cn/products/gpu-VM" target="_blank" class="CH-card-button-default">查看详情</a>
+                                    </div>
+                                    <div class="col-6">
+                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">                         
+                        <div class="CH-card is-hover is-hover-shadow">
+                            <div class="CH-card-header">
+                                <h3 class="CH-card-title is-icon"><i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-product-zhinengyunwei.png"></i>智能运维</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc">智能运维帮助企业推进生产运维监控精细化、自动化、智能化建设。</p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">多维度可视化视图</li>
+                                    <li class="CH-list-item">全自动化</li>
+                                    <li class="CH-list-item">超大规模集群</li>
+                                    <li class="CH-list-item">聚合管理、批量运维</li>
+                                </ul>
+                                <div class="CH-card-price">免费咨询专家</div>
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-6">
+                                        <a href="https://market.jdcloud.com/service/details/454403" target="_blank" class="CH-card-button-default">查看详情</a>
+                                    </div>
+                                    <div class="col-6">
+                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-card-group row">
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon"><i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-product-ADC.png"></i>NF1 ADC</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">助力建立高性能、高可用的用户接入体系</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">创新的用户体验、Cloud Native亲和性</li>
+                                        <li class="CH-list-item">易部署与横向扩展、安全防护能力</li>
+                                        <li class="CH-list-item">多维度数据可视化、超高投资回报比</li>
+                                        <li class="CH-list-item">专家团队咨询服务、解决方案交付</li>
+                                    </ul>
+                                    <div class="CH-card-price">免费咨询专家</div>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a href="https://www.jdcloud.com/cn/products/nf1-adc" target="_blank" class="CH-card-button-default">查看详情</a>
+                                        </div>
+                                        <div class="col-6">
+                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon"><i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-product-yunzhuji.png"></i>云主机</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">稳定、安全的弹性计算服务</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">稳定可靠</li>
+                                        <li class="CH-list-item">灵活配置</li>
+                                        <li class="CH-list-item">安全防护</li>
+                                        <li class="CH-list-item">高性价比</li>
+                                    </ul>
+                                    <div class="CH-card-price">免费咨询专家</div>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a href="https://www.jdcloud.com/cn/products/virtual-machines" target="_blank" class="CH-card-button-default">查看详情</a>
+                                        </div>
+                                        <div class="col-6">
+                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon"><i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-product-vpn.png"></i>VPN</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">连接京东云和企业内网，安全可靠</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">操作简单</li>
+                                        <li class="CH-list-item">高安全性</li>
+                                        <li class="CH-list-item">低成本</li>
+                                    </ul>
+                                        <div class="CH-card-price">免费咨询专家</div>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a href="https://www.jdcloud.com/cn/products/vpn" target="_blank" class="CH-card-button-default">查看详情</a>
+                                        </div>
+                                        <div class="col-6">
+                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon"><i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-product-jiqiren.png"></i>蜂巢智能空间解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">面向银行、政务、城市等行业，以AI为基础，打造高质量创新服务，助力行业智能化升级。</p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">创新多模态、沉浸式交互体验</li>
+                                        <li class="CH-list-item">多人工智能技术的创新、集成应用</li>
+                                        <li class="CH-list-item">先进的计算机视觉识别技术</li>
+                                        <li class="CH-list-item">计算机视觉技术和智能语音对话技术</li>
+                                    </ul>
+                                    <div class="CH-card-price">免费咨询专家</div>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a href="https://www.jdcloud.com/cn/solutions/neuhive" target="_blank" class="CH-card-button-default">查看详情</a>
+                                        </div>
+                                        <div class="col-6">
+                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <div class="CH-footer">
+        <div class="CH-container">
+            <div class="row">
+                <div class="col-3 col-xs-12">
+                    <div class="CH-footer-slogan">
+                        联系我们的专家，为您免费提供量身定制的方案咨询服务
+                    </div>
+                </div>
+                <div class="col-3 col-xs-12">
+                    <dl class="CH-footer-info-list">
+                        <dt>免费咨询专家：400-623-0183</dt>
+                        <dd>周一至周五 9:00-18:00</dd>
+                    </dl>
+                </div>
+                <div class="col-3 col-xs-12">
+                    <dl class="CH-footer-info-list">
+                        <dt><a href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务<i class="iconfont jc-icon-my-right"></i></a></dt>
+                        <dd>周一至周五 9:00-18:00</dd>
+                    </dl>
+                </div>
+                <div class="col-3 col-xs-12">
+                    <dl class="CH-footer-info-list">
+                        <dt><a href="https://www.jdcloud.com/forms/consultation" target="_blank">请销售顾问联系我<i class="iconfont jc-icon-my-right"></i></a></dt>
+                        <dd>不限时间，提交需求后，我们会尽快联系您</dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
