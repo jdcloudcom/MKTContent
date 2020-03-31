@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Bastion Host\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/en/public/testApply/bastion\",\"classTag\":\"\"}],\"desc\":\"The bastion host is an operation and maintenance product provided by JD Cloud, with capacities of permission control, security audit as well as automatic operation and maintenance\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Bastion Host\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://bastion-console.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"The bastion host is an operation and maintenance product provided by JD Cloud, with capacities of permission control, security audit as well as automatic operation and maintenance\"}",
 		"id":1512
 	},
 	{
