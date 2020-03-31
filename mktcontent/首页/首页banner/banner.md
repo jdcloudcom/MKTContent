@@ -1202,5 +1202,47 @@
 		"id":1206,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"mee new",
+		"id":1208,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"聚合页 new",
+		"id":1210,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"五色石 new",
+		"id":1212,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"公有云 new",
+		"id":1214,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"全栈式AI能力，助力业务智能化转型",
+		"name":"AI 频道页 new",
+		"id":1216,
+		"button_title":"查看详情",
+		"main_title":"NeuFoundry 智能开发平台"
+	},
+	{
+		"sub_title":"提供云、AI、IoT产品及服务，扎根新基建，助力产业升级",
+		"name":"京东智联云全新升级 new",
+		"id":1218,
+		"button_title":"",
+		"main_title":"京东智联云全新升级"
 	}
 ]
