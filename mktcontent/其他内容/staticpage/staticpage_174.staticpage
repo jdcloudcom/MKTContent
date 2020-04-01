@@ -10,26 +10,26 @@
                     <a href="#" class="drop-link">通用产品</a>
                     <div class="subMenu-drop-box">
                         <ul class="subMenu-level2">
-                            <li><a href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack 专有云</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/products/jd-cloud-swift" target="_blank">京东云敏捷专有云</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/products/gpu-VM" target="_blank">GPU云主机</a></li>
-                            <li><a href="https://market.jdcloud.com/service/details/454403" target="_blank">智能运维</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/products/nf1-adc" target="_blank">NF1 ADC</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/solutions/neuhive" target="_blank">AI蜂巢空间机器人</a></li>
+                            <li><a clstag="fintech|keycount|TopNav|JDStack" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack 专有云</a></li>
+                            <li><a clstag="fintech|keycount|TopNav|JDCloudSwift" href="https://www.jdcloud.com/cn/products/jd-cloud-swift" target="_blank">京东云敏捷专有云</a></li>
+                            <li><a clstag="fintech|keycount|TopNav|GPU" href="https://www.jdcloud.com/cn/products/gpu-VM" target="_blank">GPU云主机</a></li>
+                            <li><a clstag="fintech|keycount|TopNav|IntelligentDevOps" href="https://market.jdcloud.com/service/details/454403" target="_blank">智能运维</a></li>
+                            <li><a clstag="fintech|keycount|TopNav|NF1ADC" href="https://www.jdcloud.com/cn/products/nf1-adc" target="_blank">NF1 ADC</a></li>
+                            <li><a clstag="fintech|keycount|TopNav|CloudHost" href="https://www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></li>
+                            <li><a clstag="fintech|keycount|TopNav|VPN" href="https://www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></li>
+                            <li><a clstag="fintech|keycount|TopNav|neuhive" href="https://www.jdcloud.com/cn/solutions/neuhive" target="_blank">AI蜂巢空间机器人</a></li>
                         </ul>
                     </div>
                 </li>
                 <li class="subMenu-link">
-                    <a href="https://www.jdcloud.com/cn/case/list" target="_blank">精选案例</a>
+                    <a clstag="fintech|keycount|TopNav|case" href="https://www.jdcloud.com/cn/case/list" target="_blank">精选案例</a>
                 </li>
                 <li class="subMenu-link">
-                    <a href="https://www.jdcloud.com/cn/aboutus" target="_blank">了解我们</a>
+                    <a clstag="fintech|keycount|TopNav|about" href="https://www.jdcloud.com/cn/aboutus" target="_blank">了解我们</a>
                 </li>
             </ul>
         </div>
-        <div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i><a href="https://www.jdcloud.com/forms/consultation" target="_blank">售前咨询：400-623-0183</a></div>
+        <div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i><a clstag="fintech|keycount|TopNav|tel" href="https://www.jdcloud.com/forms/consultation" target="_blank">售前咨询：400-623-0183</a></div>
     </div>
     <div class="CH-container">
         <section class="CH-section section-firstScreen">
@@ -44,7 +44,7 @@
                                     <p class="CH-carousel-desc">京东智联云金融服务+ 数字化金融场景解决方案</p>
 
                                 </div>
-                                <a class="CH-carousel-button" href="https://www.jdcloud.com/cn/forms/consultation" target="_blank">立即咨询</a>
+                                <a clstag="fintech|keycount|BannerswiperSlide1|consultation" class="CH-carousel-button" href="https://www.jdcloud.com/cn/forms/consultation" target="_blank">立即咨询</a>
                                 <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-01.png" class="CH-carousel-img-pc">
                             </div>
                         </div>
@@ -55,16 +55,15 @@
                 <div class="CH-card-broadcast">
                     <dl class="list-news">
                         <dt class="list-news-title">新闻动态</dt>
-                        <dd class="list-news-desc f-toe2"><a href="https://www.jdcloud.com/cn/news/detail/780" target="_blank">三张图看懂京东智联云的过去、现在和未来</a></dd>
+                        <dd class="list-news-desc f-toe2"><a clstag="fintech|keycount|broadcast|article1" href="https://www.jdcloud.com/cn/news/detail/780" target="_blank">三张图看懂京东智联云的过去、现在和未来。</a></dd>
                     </dl>
                     <dl class="list-news">
                         <dt class="list-news-title">新基建</dt>
-                        <dd class="list-news-desc f-toe2"><a href="https://www.jdcloud.com/cn/news/detail/781" target="_blank">扎根“新基建”，京东智联云释放向上生长的力量</a></dd>
+                        <dd class="list-news-desc f-toe2"><a clstag="fintech|keycount|broadcast|article2" href="https://www.jdcloud.com/cn/news/detail/781" target="_blank">扎根“新基建”，京东智联云释放向上生长的力量。</a></dd>
                     </dl>
                     <dl class="list-news">
                         <dt class="list-news-title">行业话题</dt>
-                        <dd class="list-news-desc f-toe2"><a href="https://developer.jdcloud.com/topics/909" target="_blank">
-                            随着AI、云计算等技术快速发展，有哪些金融科技对金融业影响最大？</a></dd>
+                        <dd class="list-news-desc f-toe2"><a clstag="fintech|keycount|broadcast|article3" href="https://developer.jdcloud.com/topics/909" target="_blank">随着AI、云计算等技术快速发展，有哪些金融科技对金融业影响最大？</a></dd>
                     </dl>
                 </div>
             </div>
@@ -84,7 +83,7 @@
                                         <div class="CH-carousel-container">
                                             <div class="CH-carousel-content">
                                                 <h3 class="CH-carousel-title">京东智联云全栈式金融级技术方案及数字化金融解决方案，将在保障金融业务的安全、稳定、高效的同时，为金融机构降本增效，全方位助推金融行业客户的数字化升级。</h3>
-                                                <a target="_blank" href="https://www.jdcloud.com/cn/forms/consultation" class="CH-carousel-button">联系我们 <i class="iconfont jc-icon-my-right"></i></a>
+                                                <a target="_blank" clstag="fintech|keycount|industryCarouselSwiperSlide1|contrust" href="https://www.jdcloud.com/cn/forms/consultation" class="CH-carousel-button">联系我们 <i class="iconfont jc-icon-my-right"></i></a>
                                             </div>
                                             <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-02.png" class="CH-carousel-img-pc">
                                         </div>
@@ -116,11 +115,11 @@
                 <h1>行业场景化方案</h1>
             </header>
             <ul class="CH-tab">
-                <li class="CH-tab-item is-selected"><a href="javascript:;">银行</a></li>
-                <li class="CH-tab-item"><a href="javascript:;">证券</a></li>
-                <li class="CH-tab-item"><a href="javascript:;">保险</a></li>
-                <li class="CH-tab-item"><a href="javascript:;">互联网金融</a></li>
-                <li class="CH-tab-item"><a href="javascript:;">地方政府</a></li>
+                <li class="CH-tab-item is-selected"><a clstag="fintech|keycount|solutionTab|bank" href="javascript:;">银行</a></li>
+                <li class="CH-tab-item"><a clstag="fintech|keycount|solutionTab|bond" href="javascript:;">证券</a></li>
+                <li class="CH-tab-item"><a clstag="fintech|keycount|solutionTab|insurance" href="javascript:;">保险</a></li>
+                <li class="CH-tab-item"><a clstag="fintech|keycount|solutionTab|onlineFinance" href="javascript:;">互联网金融</a></li>
+                <li class="CH-tab-item"><a clstag="fintech|keycount|solutionTab|localGovernment" href="javascript:;">地方政府</a></li>
             </ul>
             <div class="CH-section-body">
                 <div class="CH-secion-box">
@@ -142,7 +141,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankCreditRiskControl|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -163,7 +162,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankDevOps|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -183,7 +182,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankVirtualBank|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -203,7 +202,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankDevelopmentTesting|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -225,7 +224,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankHoneycombFinance|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -245,7 +244,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankT1|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -265,7 +264,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankKeplerShoppingGuide|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -285,7 +284,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankJDPay|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -293,69 +292,69 @@
                 </div>
                 <div class="CH-secion-box">
                     <div class="row CH-gutter-20">
-                            <div class="col-3">
-                                <div class="CH-card is-hover">
-                                    <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-yunzhuomian.png" alt=""></div>
-                                    <div class="CH-card-header is-border-bottom">
-                                        <h3 class="CH-card-title">云桌面解决方案</h3>
-                                    </div>
-                                    <div class="CH-card-body">
-                                        <p class="CH-card-desc">面向证券行业研发外包场景的云桌面产品，可根据客户需求快速实施、定制化开发部署，极速交付，安全可靠。</p>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-yunzhuomian.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">云桌面解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">面向证券行业研发外包场景的云桌面产品，可根据客户需求快速实施、定制化开发部署，极速交付，安全可靠。</p>
 
-                                        <ul class="CH-list">
-                                            <li class="CH-list-item">流畅体验，资源弹性</li>
-                                            <li class="CH-list-item">即开即用，随处访问</li>
-                                            <li class="CH-list-item">数据保护，安全可靠</li>
-                                            <li class="CH-list-item">灵活部署，极简运维</li>
-                                        </ul>
-                                    </div>
-                                    <div class="CH-card-footer">
-                                        <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
-                                    </div>
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">流畅体验，资源弹性</li>
+                                        <li class="CH-list-item">即开即用，随处访问</li>
+                                        <li class="CH-list-item">数据保护，安全可靠</li>
+                                        <li class="CH-list-item">灵活部署，极简运维</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a clstag="fintech|keycount|solutionBondCloudDesktop|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
-                            <div class="col-3">
-                                <div class="CH-card is-hover">
-                                    <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-kaifayunying.png" alt=""></div>
-                                    <div class="CH-card-header is-border-bottom">
-                                        <h3 class="CH-card-title">开发运营一体化解决方案</h3>
-                                    </div>
-                                    <div class="CH-card-body">
-                                        <p class="CH-card-desc">基于京东智联云多年业务实践经验，以DevOps技术完善和提升持续交付和IT服务的能力，高效支撑证券业务发展。</p>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-kaifayunying.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">开发运营一体化解决方案</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">基于京东智联云多年业务实践经验，以DevOps技术完善和提升持续交付和IT服务的能力，高效支撑证券业务发展。</p>
 
-                                        <ul class="CH-list">
-                                            <li class="CH-list-item">自定义pipeline，秒级部署</li>
-                                            <li class="CH-list-item">统一智能调度计算</li>
-                                            <li class="CH-list-item">多环境统一部署和管理</li>
-                                            <li class="CH-list-item">全链路监控故障自愈</li>
-                                        </ul>
-                                    </div>
-                                    <div class="CH-card-footer">
-                                        <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
-                                    </div>
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">自定义pipeline，秒级部署</li>
+                                        <li class="CH-list-item">统一智能调度计算</li>
+                                        <li class="CH-list-item">多环境统一部署和管理</li>
+                                        <li class="CH-list-item">全链路监控故障自愈</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a clstag="fintech|keycount|solutionBondDevelopmentOperation|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
-                            <div class="col-3">
-                                <div class="CH-card is-hover">
-                                    <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-jt2.png" alt=""></div>
-                                    <div class="CH-card-header is-border-bottom">
-                                        <h3 class="CH-card-title">JT²智管有方</h3>
-                                    </div>
-                                    <div class="CH-card-body">
-                                        <p class="CH-card-desc">为以客户为中心，覆盖多市场、多产品、多客户的，金融与科技服务于一体的领先资管科技平台。</p>
+                        </div>
+                        <div class="col-3">
+                            <div class="CH-card is-hover">
+                                <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/finance/image-bond-jt2.png" alt=""></div>
+                                <div class="CH-card-header is-border-bottom">
+                                    <h3 class="CH-card-title">JT²智管有方</h3>
+                                </div>
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc">为以客户为中心，覆盖多市场、多产品、多客户的，金融与科技服务于一体的领先资管科技平台。</p>
 
-                                        <ul class="CH-list">
-                                            <li class="CH-list-item">多资产交易信息平台</li>
-                                            <li class="CH-list-item">智能风控系统</li>
-                                            <li class="CH-list-item">智能基金管理</li>
-                                            <li class="CH-list-item">投后管理</li>
-                                        </ul>
-                                    </div>
-                                    <div class="CH-card-footer">
-                                        <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
-                                    </div>
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">多资产交易信息平台</li>
+                                        <li class="CH-list-item">智能风控系统</li>
+                                        <li class="CH-list-item">智能基金管理</li>
+                                        <li class="CH-list-item">投后管理</li>
+                                    </ul>
+                                </div>
+                                <div class="CH-card-footer">
+                                    <a clstag="fintech|keycount|solutionBondJT2|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
+                        </div>
                     </div>
                 </div>
                 <div class="CH-secion-box">
@@ -376,7 +375,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionInsuranceDoubleLive|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -397,7 +396,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionInsuranceIntelligentCustomerService|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -421,7 +420,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionOnlineFinanceConsumerBehaviorAssessment|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -441,7 +440,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionOnlineFinanceFinancialTrusteeship|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -461,7 +460,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionOnlineFinanceIntegral|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -481,7 +480,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionOnlineJingYi|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -503,7 +502,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionOnlineJingXiao|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -527,7 +526,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionLocalGovernmentIndustrialFinancialServices|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -547,7 +546,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionLocalGovernmentSupplyChainFinance|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -562,8 +561,8 @@
             <div class="CH-section-body">
                 <div class="CH-collapse">
                     <div class="CH-collapse-item is-selected">
-                        <div class="CH-collapse-item-header"><a name="bank">
-                            银行</a><i class="iconfont jc-icon-my-down"></i>
+                        <div class="CH-collapse-item-header">
+                            <a name="bank">银行</a><i class="iconfont jc-icon-my-down"></i>
                         </div>
                         <div class="CH-collapse-item-body">
                             <div class="CH-card">
@@ -582,7 +581,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankCreditRiskControl|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -601,7 +600,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankDevOps|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -619,7 +618,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankVirtualBank|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -637,7 +636,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankDevelopmentTesting|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -655,7 +654,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankHoneycombFinance|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -673,7 +672,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankT1|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -691,7 +690,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankKeplerShoppingGuide|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -709,7 +708,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBankJDPay|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -735,7 +734,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBondCloudDesktop|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -754,7 +753,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBondDevelopmentOperation|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -773,7 +772,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionBondJT2|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -798,7 +797,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionInsuranceDoubleLive|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -817,7 +816,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionInsuranceIntelligentCustomerService|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -842,7 +841,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionOnlineFinanceConsumerBehaviorAssessment|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -860,7 +859,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionOnlineFinanceFinancialTrusteeship|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -878,7 +877,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionOnlineFinanceIntegral|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -896,7 +895,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionOnlineJingYi|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -914,7 +913,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionOnlineJingXiao|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -939,7 +938,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionLocalGovernmentIndustrialFinancialServices|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                             <div class="CH-card">
@@ -957,7 +956,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionLocalGovernmentSupplyChainFinance|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -988,7 +987,7 @@
                                 </ul>
                             </div>
                             <div class="CH-card-footer">
-                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                <a clstag="fintech|keycount|solutionFinancialServiceJDPay|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                             </div>
                         </div>
                     </div>
@@ -1007,7 +1006,7 @@
                                 </ul>
                             </div>
                             <div class="CH-card-footer">
-                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                <a clstag="fintech|keycount|solutionFinancialServiceShopkeeperLoan|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                             </div>
                         </div>
                     </div>
@@ -1027,7 +1026,7 @@
                                 </ul>
                             </div>
                             <div class="CH-card-footer">
-                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                <a clstag="fintech|keycount|solutionFinancialServiceJingBaoBei|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                             </div>
                         </div>
                     </div>
@@ -1045,7 +1044,7 @@
                                 </ul>
                             </div>
                             <div class="CH-card-footer">
-                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                <a clstag="fintech|keycount|solutionFinancialServiceJingXiaoDai|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                             </div>
                         </div>
                     </div>
@@ -1068,7 +1067,7 @@
                                 </ul>
                             </div>
                             <div class="CH-card-footer">
-                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                <a clstag="fintech|keycount|solutionFinancialServiceDaXiangYouShui|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                             </div>
                         </div>
                     </div>
@@ -1089,7 +1088,7 @@
                                 </ul>
                             </div>
                             <div class="CH-card-footer">
-                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                <a clstag="fintech|keycount|solutionFinancialServiceIndustryReport|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                             </div>
                         </div>
                     </div>
@@ -1110,7 +1109,7 @@
                                 </ul>
                             </div>
                             <div class="CH-card-footer">
-                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                <a clstag="fintech|keycount|solutionFinancialServiceDataMarketingPlatform|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                             </div>
                         </div>
                     </div>
@@ -1131,7 +1130,7 @@
                                 </ul>
                             </div>
                             <div class="CH-card-footer">
-                                <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                <a clstag="fintech|keycount|solutionFinancialServiceBigDataAssetManagementPlatform|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                             </div>
                         </div>
                     </div>
@@ -1161,7 +1160,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionFinancialServiceJDPay|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -1180,7 +1179,7 @@
                                         </ul>
                                     </div>
                                     <div class="CH-card-footer">
-                                        <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        <a clstag="fintech|keycount|solutionFinancialServiceShopkeeperLoan|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                     </div>
                                 </div>
                         </div>
@@ -1200,7 +1199,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionFinancialServiceJingBaoBei|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -1218,7 +1217,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionFinancialServiceJingXiaoDai|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -1239,7 +1238,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionFinancialServiceDaXiangYouShui|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -1260,7 +1259,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionFinancialServiceIndustryReport|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -1281,7 +1280,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionFinancialServiceDataMarketingPlatform|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -1302,7 +1301,7 @@
                                     </ul>
                                 </div>
                                 <div class="CH-card-footer">
-                                    <a class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                    <a clstag="fintech|keycount|solutionFinancialServiceBigDataAssetManagementPlatform|consultation" class="CH-card-button-primary" target="_blank" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                                 </div>
                             </div>
                         </div>
@@ -1412,7 +1411,7 @@
                                     <li class="CH-list-item">7*24公有云SLA等级</li>
                                 </ul>
                                 <div>
-                                    <a href="https://www.jdcloud.com/cn/solutions/ft-cloud-infra" target="_blank" class="link-finance">了解金融专区</a>
+                                    <a clstag="fintech|keycount|deploy|more" href="https://www.jdcloud.com/cn/solutions/ft-cloud-infra" target="_blank" class="link-finance">了解金融专区</a>
                                 </div>
                             </div>
                         </div>
@@ -1447,11 +1446,11 @@
                 <div class="CH-panel">
                     <div class="swiper-container CH-carousel-type-2 swiper-no-swiping">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide" data-index='1'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-daxianghuiyun.png" alt=""></div>
-                            <div class="swiper-slide" data-index='2'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-jingdonganlian.png" alt=""></div>
-                            <div class="swiper-slide" data-index='3'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-yuxi.png" alt=""></div>
-                            <div class="swiper-slide" data-index='4'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-shenfu.png" alt=""></div>
-                            <div class="swiper-slide" data-index='5'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-jianhang.png" alt=""></div>
+                            <div clstag="fintech|keycount|caseCarouselSwiperSlide1|daXiangHuiYun" class="swiper-slide" data-index='1'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-daxianghuiyun.png" alt=""></div>
+                            <div clstag="fintech|keycount|caseCarouselSwiperSlide2|jingDongAnLian" class="swiper-slide" data-index='2'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-jingdonganlian.png" alt=""></div>
+                            <div clstag="fintech|keycount|caseCarouselSwiperSlide3|yuXi" class="swiper-slide" data-index='3'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-yuxi.png" alt=""></div>
+                            <div clstag="fintech|keycount|caseCarouselSwiperSlide4|shenFu" class="swiper-slide" data-index='4'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-shenfu.png" alt=""></div>
+                            <div clstag="fintech|keycount|caseCarouselSwiperSlide5|jianHang" class="swiper-slide" data-index='5'><img src="https://img1.jcloudcs.com/portal/channel/finance/logo-case-jianhang.png" alt=""></div>
                         </div>
                     </div>
                     <div class="CH-container-scroll-box">
@@ -1471,11 +1470,11 @@
                                             <li>整机交付，即开即用</li>
                                             <li>提升性能，稳定可靠</li>
                                         </ul>
-                                        <p class="section-case-product">使用产品：<strong><a href="www.jdcloud.com/cn/products/jdstack" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">云缓存 Redis</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">云数据库 MYSQL</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">对象存储</a></strong></p>
+                                        <p class="section-case-product">使用产品：<strong><a clstag="fintech|keycount|caseDaxiangHuiYunProduct|cloudHost" href="www.jdcloud.com/cn/products/jdstack" target="_blank">云主机</a></strong><strong><a clstag="fintech|keycount|caseDaxiangHuiYunProduct|redis" href="https://www.jdcloud.com/cn/products/jcs-for-redis" target="_blank">云缓存 Redis</a></strong><strong><a clstag="fintech|keycount|caseDaxiangHuiYunProduct|mysql" href="https://www.jdcloud.com/cn/products/jcs-for-mysql" target="_blank">云数据库 MYSQL</a></strong><strong><a clstag="fintech|keycount|caseDaxiangHuiYunProduct|objectStorage" href="https://www.jdcloud.com/cn/products/object-storage-service" target="_blank">对象存储</a></strong></p>
                                     </div>
                                         <div>
-                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
-                                            <a href="https://www.jdcloud.com/cn/case/detail/6" target="_blank" class="section-case-link">查看案例</a>
+                                            <a clstag="fintech|keycount|caseDaxiangHuiYun|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                            <a clstag="fintech|keycount|caseDaxiangHuiYun|detail" href="https://www.jdcloud.com/cn/case/detail/6" target="_blank" class="section-case-link">查看案例</a>
                                         </div>
                                 </div>
                             </div>
@@ -1493,10 +1492,10 @@
                                             <li>安全合规</li>
                                             <li>全生命周期服务</li>
                                         </ul>
-                                        <p class="section-case-product">使用产品：<strong><a href="www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></strong><strong><a href="www.jdcloud.com/cn/products/nf1-adc" target="_blank">NF1 ADC</a></strong><strong><a href="market.jdcloud.com/service/details/454403" target="_blank">智能运维</a></strong></p>
+                                        <p class="section-case-product">使用产品：<strong><a clstag="fintech|keycount|caseJingDongAnLianProduct|JDStack" href="www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></strong><strong><a clstag="fintech|keycount|caseJingDongAnLianProduct|NF1ADC" href="www.jdcloud.com/cn/products/nf1-adc" target="_blank">NF1 ADC</a></strong><strong><a clstag="fintech|keycount|caseJingDongAnLianProduct|IntelligentOperationMaintenance" href="market.jdcloud.com/service/details/454403" target="_blank">智能运维</a></strong></p>
 
                                         <div>
-                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                            <a clstag="fintech|keycount|caseJingDongAnLian|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1515,10 +1514,10 @@
                                             <li>100+款金融产品上架</li>
                                             <li>211项数据梳理对接</li>
                                         </ul>
-                                        <p class="section-case-product">使用产品：<strong><a href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">京东云敏捷专有云</a></strong><strong><a href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
+                                        <p class="section-case-product">使用产品：<strong><a clstag="fintech|keycount|caseYuXiProduct|cloudHost" href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a clstag="fintech|keycount|caseYuXiProduct|JDCAgileCloud" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">京东云敏捷专有云</a></strong><strong><a clstag="fintech|keycount|caseYuXiProduct|VPN" href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
 
                                         <div>
-                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                            <a clstag="fintech|keycount|caseYuXi|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
                                         </div>
                                     </div>
                             </div>
@@ -1538,10 +1537,10 @@
                                             <li>过程监管</li>
                                             <li>业务运营</li>
                                         </ul>
-                                        <p class="section-case-product">使用产品：<strong><a href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">京东云敏捷专有云</a></strong><strong><a href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
+                                        <p class="section-case-product">使用产品：<strong><a clstag="fintech|keycount|caseShenFuProduct|cloudHost" href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a clstag="fintech|keycount|caseShenFuProduct|JDCAgileCloud" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">京东云敏捷专有云</a></strong><strong><a clstag="fintech|keycount|caseShenFuProduct|VPN" href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
 
                                         <div>
-                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                            <a clstag="fintech|keycount|caseShenFu|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1560,10 +1559,10 @@
                                             <li>98%使用率</li>
                                             <li>增强竞争力</li>
                                         </ul>
-                                        <p class="section-case-product">使用产品：<strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">蜂巢空间机器人</a></strong></p>
+                                        <p class="section-case-product">使用产品：<strong><a clstag="fintech|keycount|caseShenFuProduct|neuhive" href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">蜂巢空间机器人</a></strong></p>
 
                                         <div>
-                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                            <a clstag="fintech|keycount|caseJianHang|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1596,11 +1595,11 @@
                                         <li>整机交付，即开即用</li>
                                         <li>提升性能，稳定可靠</li>
                                     </ul>
-                                    <p class="section-case-product"><label>使用产品：</label><strong><a href="www.jdcloud.com/cn/products/jdstack" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">云缓存 Redis</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">云数据库 MYSQL</a></strong><strong><a href="www.jdcloud.com/cn/products/gpu-VM" target="_blank">对象存储</a></strong></p>
-
+                                    <p class="section-case-product"><label>使用产品：</label><strong><a clstag="fintech|keycount|caseDaxiangHuiYunProduct|cloudHost" href="www.jdcloud.com/cn/products/jdstack" target="_blank">云主机</a></strong><strong><a clstag="fintech|keycount|caseDaxiangHuiYunProduct|redis" href="https://www.jdcloud.com/cn/products/jcs-for-redis" target="_blank">云缓存 Redis</a></strong><strong><a clstag="fintech|keycount|caseDaxiangHuiYunProduct|mysql" href="https://www.jdcloud.com/cn/products/jcs-for-mysql" target="_blank">云数据库 MYSQL</a></strong><strong><a clstag="fintech|keycount|caseDaxiangHuiYunProduct|objectStorage" href="https://www.jdcloud.com/cn/products/object-storage-service" target="_blank">对象存储</a></strong></p>
+         
                                     <div>
-                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
-                                        <a href="https://www.jdcloud.com/cn/case/detail/6" target="_blank" class="section-case-link">查看案例</a>
+                                        <a clstag="fintech|keycount|caseDaxiangHuiYun|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                        <a clstag="fintech|keycount|caseDaxiangHuiYun|detail" href="https://www.jdcloud.com/cn/case/detail/6" target="_blank" class="section-case-link">查看案例</a>
                                     </div>
                                 </div>
                             </div>
@@ -1623,10 +1622,10 @@
                                         <li>安全合规</li>
                                         <li>全生命周期服务</li>
                                     </ul>
-                                    <p class="section-case-product"><label>使用产品：</label><strong><a href="www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></strong><strong><a href="www.jdcloud.com/cn/products/nf1-adc" target="_blank">NF1 ADC</a></strong><strong><a href="market.jdcloud.com/service/details/454403" target="_blank">智能运维</a></strong></p>
+                                    <p class="section-case-product"><label>使用产品：</label><strong><a clstag="fintech|keycount|caseJingDongAnLianProduct|JDStack" href="www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></strong><strong><a clstag="fintech|keycount|caseJingDongAnLianProduct|NF1ADC" href="www.jdcloud.com/cn/products/nf1-adc" target="_blank">NF1 ADC</a></strong><strong><a clstag="fintech|keycount|caseJingDongAnLianProduct|IntelligentOperationMaintenance" href="market.jdcloud.com/service/details/454403" target="_blank">智能运维</a></strong></p>
 
                                     <div>
-                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                        <a clstag="fintech|keycount|caseJingDongAnLian|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
                                     </div>
                                 </div>
                             </div>
@@ -1649,10 +1648,10 @@
                                         <li>100+款金融产品上架</li>
                                         <li>211项数据梳理对接</li>
                                     </ul>
-                                    <p class="section-case-product"><label>使用产品：</label><strong><a href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">京东云敏捷专有云</a></strong><strong><a href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
+                                    <p class="section-case-product"><label>使用产品：</label><strong><a clstag="fintech|keycount|caseYuXiProduct|cloudHost" href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a clstag="fintech|keycount|caseYuXiProduct|JDCAgileCloud" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">京东云敏捷专有云</a></strong><strong><a clstag="fintech|keycount|caseYuXiProduct|VPN" href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
 
                                     <div>
-                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                        <a clstag="fintech|keycount|caseYuXi|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
                                     </div>
                                 </div>
                             </div>
@@ -1675,11 +1674,11 @@
                                         <li>过程监管</li>
                                         <li>业务运营</li>
                                     </ul>
-                                    <p class="section-case-product"><label>使用产品：</label><strong><a href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">京东云敏捷专有云</a></strong><strong><a href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
+                                    <p class="section-case-product"><label>使用产品：</label><strong><a clstag="fintech|keycount|caseShenFuProduct|cloudHost" href="www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></strong><strong><a clstag="fintech|keycount|caseShenFuProduct|JDCAgileCloud" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">京东云敏捷专有云</a></strong><strong><a clstag="fintech|keycount|caseShenFuProduct|VPN" href="www.jdcloud.com/cn/products/vpn" target="_blank">VPN</a></strong></p>
 
-                                    <div>
-                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
-                                    </div>
+                                        <div>
+                                            <a clstag="fintech|keycount|caseShenFu|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                        </div>
                                 </div>
                             </div>
                         </div>
@@ -1701,16 +1700,16 @@
                                         <li>98%使用率</li>
                                         <li>增强竞争力</li>
                                     </ul>
-                                    <p class="section-case-product"><label>使用产品：</label><strong><a href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">蜂巢空间机器人</a></strong></p>
+                                    <p class="section-case-product"><label>使用产品：</label><strong><a clstag="fintech|keycount|caseShenFuProduct|neuhive" href="www.jdcloud.com/cn/solutions/neuhive" target="_blank">蜂巢空间机器人</a></strong></p>
 
                                     <div>
-                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
+                                        <a clstag="fintech|keycount|caseJianHang|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="section-case-button">立即咨询</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+            </div>
             </div>
         </section>
     </div>
@@ -1756,7 +1755,7 @@
                     <div class="swiper-button-next"></div>
                     <div class="swiper-button-prev"></div>
                 </div>
-                <a href="https://www.jdcloud.com/cn/partner/index" target="_blank" class="link-cooperation">成为合作伙伴</a>
+                <a clstag="fintech|keycount|cooperation|becomePartner" href="https://www.jdcloud.com/cn/partner/index" target="_blank" class="link-cooperation">成为合作伙伴</a>
             </div>
         </div>
     </section>
@@ -1787,10 +1786,10 @@
                             <div class="CH-card-footer">
                                 <div class="row">
                                     <div class="col-6">
-                                        <a href="https://www.jdcloud.com/cn/products/jdstack" target="_blank" class="CH-card-button-default">查看详情</a>
+                                        <a clstag="fintech|keycount|hotSaleProductJDStack|detail" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank" class="CH-card-button-default">查看详情</a>
                                     </div>
                                     <div class="col-6">
-                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                        <a clstag="fintech|keycount|hotSaleProductJDStack|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
                                     </div>
                                 </div>
                             </div>
@@ -1815,10 +1814,10 @@
                             <div class="CH-card-footer">
                                 <div class="row">
                                     <div class="col-6">
-                                        <a href="https://www.jdcloud.com/cn/products/jd-cloud-swift" target="_blank" class="CH-card-button-default">查看详情</a>
+                                        <a clstag="fintech|keycount|hotSaleProductJDCAgileCloud|detail" href="https://www.jdcloud.com/cn/products/jd-cloud-swift" target="_blank" class="CH-card-button-default">查看详情</a>
                                     </div>
                                     <div class="col-6">
-                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                        <a clstag="fintech|keycount|hotSaleProductJDCAgileCloud|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
                                     </div>
                                 </div>
                             </div>
@@ -1843,10 +1842,10 @@
                             <div class="CH-card-footer">
                                 <div class="row">
                                     <div class="col-6">
-                                        <a href="https://www.jdcloud.com/cn/products/gpu-VM" target="_blank" class="CH-card-button-default">查看详情</a>
+                                        <a clstag="fintech|keycount|hotSaleProductGPU|detail" href="https://www.jdcloud.com/cn/products/gpu-VM" target="_blank" class="CH-card-button-default">查看详情</a>
                                     </div>
                                     <div class="col-6">
-                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                        <a clstag="fintech|keycount|hotSaleProductGPU|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
                                     </div>
                                 </div>
                             </div>
@@ -1858,7 +1857,7 @@
                                 <h3 class="CH-card-title is-icon"><i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-product-zhinengyunwei.png"></i>智能运维</h3>
                             </div>
                             <div class="CH-card-body">
-                                <p class="CH-card-desc">智能运维帮助企业推进生产运维监控精细化、自动化、智能化建设。</p>
+                                <p class="CH-card-desc">智能运维帮助企业推进生产运维监控精细化、自动化、智能化建设</p>
 
                                 <ul class="CH-list">
                                     <li class="CH-list-item">多维度可视化视图</li>
@@ -1871,10 +1870,10 @@
                             <div class="CH-card-footer">
                                 <div class="row">
                                     <div class="col-6">
-                                        <a href="https://market.jdcloud.com/service/details/454403" target="_blank" class="CH-card-button-default">查看详情</a>
+                                        <a clstag="fintech|keycount|hotSaleProductIntelligentOperationMaintenance|detail" href="https://market.jdcloud.com/service/details/454403" target="_blank" class="CH-card-button-default">查看详情</a>
                                     </div>
                                     <div class="col-6">
-                                        <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                        <a clstag="fintech|keycount|hotSaleProductIntelligentOperationMaintenance|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
                                     </div>
                                 </div>
                             </div>
@@ -1901,10 +1900,10 @@
                                 <div class="CH-card-footer">
                                     <div class="row">
                                         <div class="col-6">
-                                            <a href="https://www.jdcloud.com/cn/products/nf1-adc" target="_blank" class="CH-card-button-default">查看详情</a>
+                                            <a clstag="fintech|keycount|hotSaleProductNF1ADC|detail" href="https://www.jdcloud.com/cn/products/nf1-adc" target="_blank" class="CH-card-button-default">查看详情</a>
                                         </div>
                                         <div class="col-6">
-                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                            <a clstag="fintech|keycount|hotSaleProductNF1ADC|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1929,10 +1928,10 @@
                                 <div class="CH-card-footer">
                                     <div class="row">
                                         <div class="col-6">
-                                            <a href="https://www.jdcloud.com/cn/products/virtual-machines" target="_blank" class="CH-card-button-default">查看详情</a>
+                                            <a clstag="fintech|keycount|hotSaleProductCloudHost|detail" href="https://www.jdcloud.com/cn/products/virtual-machines" target="_blank" class="CH-card-button-default">查看详情</a>
                                         </div>
                                         <div class="col-6">
-                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                            <a clstag="fintech|keycount|hotSaleProductCloudHost|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1956,10 +1955,10 @@
                                 <div class="CH-card-footer">
                                     <div class="row">
                                         <div class="col-6">
-                                            <a href="https://www.jdcloud.com/cn/products/vpn" target="_blank" class="CH-card-button-default">查看详情</a>
+                                            <a clstag="fintech|keycount|hotSaleProductVPN|detail" href="https://www.jdcloud.com/cn/products/vpn" target="_blank" class="CH-card-button-default">查看详情</a>
                                         </div>
                                         <div class="col-6">
-                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                            <a clstag="fintech|keycount|hotSaleProductVPN|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1971,7 +1970,7 @@
                                     <h3 class="CH-card-title is-icon"><i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/finance/icon-product-jiqiren.png"></i>蜂巢智能空间解决方案</h3>
                                 </div>
                                 <div class="CH-card-body">
-                                    <p class="CH-card-desc">面向银行、政务、城市等行业，以AI为基础，打造高质量创新服务，助力行业智能化升级。</p>
+                                    <p class="CH-card-desc">面向银行、政务、城市等行业，以AI为基础，打造高质量创新服务，助力行业智能化升级</p>
 
                                     <ul class="CH-list">
                                         <li class="CH-list-item">创新多模态、沉浸式交互体验</li>
@@ -1984,10 +1983,10 @@
                                 <div class="CH-card-footer">
                                     <div class="row">
                                         <div class="col-6">
-                                            <a href="https://www.jdcloud.com/cn/solutions/neuhive" target="_blank" class="CH-card-button-default">查看详情</a>
+                                            <a clstag="fintech|keycount|hotSaleProductNeuhive|detail" href="https://www.jdcloud.com/cn/solutions/neuhive" target="_blank" class="CH-card-button-default">查看详情</a>
                                         </div>
                                         <div class="col-6">
-                                            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
+                                            <a clstag="fintech|keycount|hotSaleProductNeuhive|consultation" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" class="CH-card-button-primary">免费咨询</a>
                                         </div>
                                     </div>
                                 </div>
@@ -2013,13 +2012,13 @@
                 </div>
                 <div class="col-3 col-xs-12">
                     <dl class="CH-footer-info-list">
-                        <dt><a href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务<i class="iconfont jc-icon-my-right"></i></a></dt>
+                        <dt><a clstag="supplyChain|keycount|footer|online" href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
                         <dd>周一至周五 9:00-18:00</dd>
                     </dl>
                 </div>
                 <div class="col-3 col-xs-12">
                     <dl class="CH-footer-info-list">
-                        <dt><a href="https://www.jdcloud.com/forms/consultation" target="_blank">请销售顾问联系我<i class="iconfont jc-icon-my-right"></i></a></dt>
+                        <dt><a clstag="supplyChain|keycount|footer|consultation" href="https://www.jdcloud.com/forms/consultation" target="_blank">请销售顾问联系我&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
                         <dd>不限时间，提交需求后，我们会尽快联系您</dd>
                     </dl>
                 </div>
