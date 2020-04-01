@@ -1,12 +1,12 @@
 [
 	{
-		"txt":"{\"operator\":\"zhangyunxing2\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"NeuFoundry一站式AI开发平台\",\"description\":\"基于京东丰富场景的最佳实践，为企业提供一站式AI开发平台，“私有化AI能力的铸造厂”JDAI NeuFoundry， 以帮助企业用户快速低成本地构建起自己的智能中台，完成智能化的升级转型。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/247fe1b1-c5d0-4a36-a39c-1aca09ef29f820200324180907.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[{\"name\":\"立即申请\",\"link\":\"http://neuhub.jd.com/neufoundry\",\"classTag\":\"http://neuhub.jd.com/neufoundry\"}],\"tagMetas\":[]}]}",
+		"txt":"{\"operator\":\"zhangyunxing2\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"NeuFoundry智能开发平台\",\"description\":\"基于京东丰富场景的最佳实践，为企业提供一站式AI开发平台， 助力企业快速低成本地构建智能中台，完成智能化的升级。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/247fe1b1-c5d0-4a36-a39c-1aca09ef29f820200324180907.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[{\"name\":\"立即申请\",\"link\":\"http://neuhub.jd.com/neufoundry\",\"classTag\":\"http://neuhub.jd.com/neufoundry\"}],\"tagMetas\":[]}]}",
 		"templet":"11",
 		"id":1020,
 		"solution_id":"207"
 	},
 	{
-		"txt":"{\"operator\":\"zhangyunxing2\",\"floorName\":\"方案架构-2\",\"name\":\"architecture-2\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0a86c3f0-3f8f-43a4-8aa7-2239d5cb7e2f20200324182454.jpg\"}]}",
+		"txt":"{\"operator\":\"zhangyunxing2\",\"floorName\":\"方案架构\",\"name\":\"architecture-2\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0a86c3f0-3f8f-43a4-8aa7-2239d5cb7e2f20200324182454.jpg\"}]}",
 		"templet":"32",
 		"id":1021,
 		"solution_id":"207"
