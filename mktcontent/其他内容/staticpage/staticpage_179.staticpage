@@ -123,7 +123,7 @@
                   <ul class="subMenu-level2">
                       <li><a clstag="Channel_Retail|keycount|Header|Link_3_0_0" href="https://www.jdcloud.com/cn/case/detail/3" target="_blank">京东</a></li>
                       <li><a clstag="Channel_Retail|keycount|Header|Link_3_0_1" href="https://www.jdcloud.com/cn/case/detail/170" target="_blank">妥了网</a></li>
-                      <li><a clstag="Channel_Retail|keycount|Header|Link_3_0_2" href="https://www.jdcloud.com/cn/case-detail/5" target="_blank">金蝶</a></li>
+                      <li><a clstag="Channel_Retail|keycount|Header|Link_3_0_2" href="https://www.jdcloud.com/cn/case/detail/5" target="_blank">金蝶</a></li>
                   </ul>
               </div>
             </li>
@@ -2128,11 +2128,11 @@
 
         <div class="CH-panel">
 
-          <div class="swiper-container CH-carousel-type-2">
+          <div class="swiper-container swiper-no-swiping CH-carousel-type-2">
 
             <div class="swiper-wrapper">
 
-              <div class="swiper-slide" data-index="1">
+              <div class="swiper-slide on" data-index="1">
 
                 <img src="https://img1.jcloudcs.com/portal/channel/retail/jd-3c.png" alt="" />
 
