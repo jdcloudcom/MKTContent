@@ -1,4 +1,4 @@
- <body class="jdc-rwd">
+  <body class="jdc-rwd">
     <div class="subMenu-box">
         <h2>城市</h2>
         <div class="subMenu-level1">
@@ -113,7 +113,7 @@
                 </li>
             </ul>
         </div>
-        <div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i>售前咨询：400-623-0183</div>
+        <div class="tel-info"><a href="https://www.jdcloud.com/cn/forms/consultation"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i>售前咨询：400-623-0183</a> </div>
     </div>
     <div class="CH-container">
       <section class="CH-section section-firstScreen">
@@ -146,19 +146,19 @@
             <dl class="list-news">
               <dt class="list-news-title">新闻动态</dt>
               <dd class="list-news-desc f-toe2">
-                <a href="https://www.jdcloud.com/cn/news/detail/780" clstag="Channel_City|keycount|BannerRight|Link_0" >三张图看懂京东智联云的过去、现在和未来</a>
+                <a href="https://www.jdcloud.com/cn/news/detail/780" clstag="Channel_City|keycount|BannerRight|Link_0" target="_blank">三张图看懂京东智联云的过去、现在和未来</a>
               </dd>
             </dl>
             <dl class="list-news">
               <dt class="list-news-title">新基建</dt>
               <dd class="list-news-desc f-toe2">
-                <a href="https://www.jdcloud.com/cn/news/detail/781" clstag="Channel_City|keycount|BannerRight|Link_1" >扎根“新基建”，京东智联云释放向上生长的力量 </a>
+                <a href="https://www.jdcloud.com/cn/news/detail/781" clstag="Channel_City|keycount|BannerRight|Link_1" target="_blank">扎根“新基建”，京东智联云释放向上生长的力量 </a>
               </dd>
             </dl>
             <dl class="list-news">
               <dt class="list-news-title">行业话题</dt>
               <dd class="list-news-desc f-toe2">
-                <a href="https://developer.jdcloud.com/topics/908" clstag="Channel_City|keycount|BannerRight|Link_2" >2020年，“新基建”风口已至，你做好准备了吗？</a>
+                <a href="https://developer.jdcloud.com/topics/908" clstag="Channel_City|keycount|BannerRight|Link_2" target="_blank">2020年，“新基建”风口已至，你做好准备了吗？</a>
               </dd>
             </dl>
           </div>
@@ -184,7 +184,7 @@
 
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          class="text-link" clstag="Channel_City|keycount|Floor1|Btn_0"
+                          class="text-link" clstag="Channel_City|keycount|Floor1|Btn_0" target="_blank"
                         >立即咨询 ></a
                         >
                       </div>
@@ -210,7 +210,7 @@
 
                           <a
                             href="https://www.jdcloud.com/cn/forms/consultation"
-                            class="jdc-btn retail-btn" clstag="Channel_City|keycount|Floor1|Btn_1"
+                            class="jdc-btn retail-btn" clstag="Channel_City|keycount|Floor1|Btn_1" target="_blank"
                           >请专家联系我</a
                           >
                         </div>
@@ -245,7 +245,7 @@
             </div>
             <div class="row retail-list">
               <div class="col-3 col-xs-12">
-                <a href="https://www.jdcloud.com/cn/news/detail/" clstag="Channel_City|keycount|Floor1|Link_0">
+                <a href="https://www.jdcloud.com/cn/news/detail/" clstag="Channel_City|keycount|Floor1|Link_0" target="_blank">
                   <div class="re-block">
                     <span class="re-moments">
                       测评报告
@@ -259,7 +259,7 @@
                 </a>
               </div>
               <div class="col-3 col-xs-12">
-                <a href="https://www.jdcloud.com/cn/news/detail/355" clstag="Channel_City|keycount|Floor1|Link_1">
+                <a href="https://www.jdcloud.com/cn/news/detail/355" clstag="Channel_City|keycount|Floor1|Link_1" target="_blank">
                   <div class="re-block">
                     <span class="re-moments">测评报告</span>
 
@@ -271,7 +271,7 @@
                 </a>
               </div>
               <div class="col-3 col-xs-12">
-                <a href="https://www.jdcloud.com/cn/jdcloud-whitepaper/all#wp_list" clstag="Channel_City|keycount|Floor1|Link_2">
+                <a href="https://www.jdcloud.com/cn/jdcloud-whitepaper/all#wp_list" clstag="Channel_City|keycount|Floor1|Link_2" target="_blank">
                   <div class="re-block">
                     <div class="re-left">
                       <span class="re-moments">白皮书</span>
@@ -289,7 +289,7 @@
                 </a>
               </div>
               <div class="col-3 col-xs-12">
-                <a href="https://www.jdcloud.com/cn/jdcloud-whitepaper/all#wp_list" clstag="Channel_City|keycount|Floor1|Link_3">
+                <a href="https://www.jdcloud.com/cn/jdcloud-whitepaper/all#wp_list" clstag="Channel_City|keycount|Floor1|Link_3" target="_blank">
                   <div class="re-block">
                     <div class="re-left">
                       <span class="re-moments">白皮书</span>
@@ -358,7 +358,7 @@
                   <div class="CH-card-footer">
                     <div class="row">
                       <div class="col-6">
-                        <a href="https://city.jdcloud.com/" clstag="Channel_City|keycount|Floor2|Btn_0">
+                        <a href="https://city.jdcloud.com/" clstag="Channel_City|keycount|Floor2|Btn_0" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -367,7 +367,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_1">
+                          clstag="Channel_City|keycount|Floor2|Btn_1" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -405,7 +405,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_2">
+                          clstag="Channel_City|keycount|Floor2|Btn_2" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -442,7 +442,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/solutions/internet-government-affairs-service-solution"
-                          clstag="Channel_City|keycount|Floor2|Btn_3">
+                          clstag="Channel_City|keycount|Floor2|Btn_3" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -451,7 +451,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_4">
+                          clstag="Channel_City|keycount|Floor2|Btn_4" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -489,7 +489,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_5">
+                          clstag="Channel_City|keycount|Floor2|Btn_5" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -530,7 +530,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_6">
+                          clstag="Channel_City|keycount|Floor2|Btn_6" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -566,7 +566,7 @@
                   <div class="CH-card-footer">
                     <div class="row">
                       <div class="col-6">
-                        <a href="https://city.jdcloud.com/exp/frame/ecommerce" clstag="Channel_City|keycount|Floor2|Btn_7">
+                        <a href="https://city.jdcloud.com/exp/frame/ecommerce" clstag="Channel_City|keycount|Floor2|Btn_7" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -575,7 +575,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_8">
+                          clstag="Channel_City|keycount|Floor2|Btn_8" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -612,7 +612,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution"
-                          clstag="Channel_City|keycount|Floor2|Btn_9">
+                          clstag="Channel_City|keycount|Floor2|Btn_9" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -621,7 +621,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_10">
+                          clstag="Channel_City|keycount|Floor2|Btn_10" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -659,7 +659,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_11">
+                          clstag="Channel_City|keycount|Floor2|Btn_11" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -701,7 +701,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_12">
+                          clstag="Channel_City|keycount|Floor2|Btn_12" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -738,7 +738,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/solutions/urban-industry-service-platform"
-                          clstag="Channel_City|keycount|Floor2|Btn_13">
+                          clstag="Channel_City|keycount|Floor2|Btn_13" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -747,7 +747,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_14">
+                          clstag="Channel_City|keycount|Floor2|Btn_14" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -784,7 +784,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/solutions/intelligent-culture-and-tourism-solution"
-                          clstag="Channel_City|keycount|Floor2|Btn_15">
+                          clstag="Channel_City|keycount|Floor2|Btn_15" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -793,7 +793,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_16">
+                          clstag="Channel_City|keycount|Floor2|Btn_16" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -831,7 +831,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/solutions/industrial-internet-solution"
-                          clstag="Channel_City|keycount|Floor2|Btn_17">
+                          clstag="Channel_City|keycount|Floor2|Btn_17" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -840,7 +840,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_18">
+                          clstag="Channel_City|keycount|Floor2|Btn_18" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -890,7 +890,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_19">
+                          clstag="Channel_City|keycount|Floor2|Btn_19" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -928,7 +928,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_20">
+                          clstag="Channel_City|keycount|Floor2|Btn_20" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -965,7 +965,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_21">
+                          clstag="Channel_City|keycount|Floor2|Btn_21" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1002,7 +1002,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_22">
+                          clstag="Channel_City|keycount|Floor2|Btn_22" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1044,7 +1044,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/products/data-middle-end"
-                          clstag="Channel_City|keycount|Floor2|Btn_23">
+                          clstag="Channel_City|keycount|Floor2|Btn_23" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -1053,7 +1053,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_24">
+                          clstag="Channel_City|keycount|Floor2|Btn_24" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1091,7 +1091,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_25">
+                          clstag="Channel_City|keycount|Floor2|Btn_25" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1129,7 +1129,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_26">
+                          clstag="Channel_City|keycount|Floor2|Btn_26" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1169,7 +1169,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_27">
+                          clstag="Channel_City|keycount|Floor2|Btn_27" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1211,7 +1211,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/solutions/intelligent-environmental-protection-solution"
-                          clstag="Channel_City|keycount|Floor2|Btn_28">
+                          clstag="Channel_City|keycount|Floor2|Btn_28" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -1220,7 +1220,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_29">
+                          clstag="Channel_City|keycount|Floor2|Btn_29" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1257,7 +1257,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|Btn_30">
+                          clstag="Channel_City|keycount|Floor2|Btn_30" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1310,7 +1310,7 @@
                   <div class="CH-card-footer">
                     <div class="row">
                       <div class="col-6">
-                        <a href="https://city.jdcloud.com/" clstag="Channel_City|keycount|Floor2|MBtn_0">
+                        <a href="https://city.jdcloud.com/" clstag="Channel_City|keycount|Floor2|MBtn_0" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -1319,7 +1319,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_1">
+                          clstag="Channel_City|keycount|Floor2|MBtn_1" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1355,7 +1355,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_2">
+                          clstag="Channel_City|keycount|Floor2|MBtn_2" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1390,7 +1390,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/solutions/internet-government-affairs-service-solution"
-                          clstag="Channel_City|keycount|Floor2|MBtn_3">
+                          clstag="Channel_City|keycount|Floor2|MBtn_3" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -1399,7 +1399,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_4">
+                          clstag="Channel_City|keycount|Floor2|MBtn_4" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1435,7 +1435,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_5">
+                          clstag="Channel_City|keycount|Floor2|MBtn_5" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1475,7 +1475,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_6">
+                          clstag="Channel_City|keycount|Floor2|MBtn_6" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1509,7 +1509,7 @@
                   <div class="CH-card-footer">
                     <div class="row">
                       <div class="col-6">
-                        <a href="https://city.jdcloud.com/exp/frame/ecommerce" clstag="Channel_City|keycount|Floor2|MBtn_7">
+                        <a href="https://city.jdcloud.com/exp/frame/ecommerce" clstag="Channel_City|keycount|Floor2|MBtn_7" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -1518,7 +1518,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_8">
+                          clstag="Channel_City|keycount|Floor2|MBtn_8" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1553,7 +1553,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution"
-                          clstag="Channel_City|keycount|Floor2|MBtn_9">
+                          clstag="Channel_City|keycount|Floor2|MBtn_9" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -1562,7 +1562,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_10">
+                          clstag="Channel_City|keycount|Floor2|MBtn_10" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1598,7 +1598,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_11">
+                          clstag="Channel_City|keycount|Floor2|MBtn_11" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1636,7 +1636,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_12">
+                          clstag="Channel_City|keycount|Floor2|MBtn_12" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1671,7 +1671,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/solutions/urban-industry-service-platform"
-                          clstag="Channel_City|keycount|Floor2|MBtn_13">
+                          clstag="Channel_City|keycount|Floor2|MBtn_13" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -1680,7 +1680,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_14">
+                          clstag="Channel_City|keycount|Floor2|MBtn_14" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1715,7 +1715,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/solutions/intelligent-culture-and-tourism-solution"
-                          clstag="Channel_City|keycount|Floor2|MBtn_15">
+                          clstag="Channel_City|keycount|Floor2|MBtn_15" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -1724,7 +1724,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_16">
+                          clstag="Channel_City|keycount|Floor2|MBtn_16" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1760,7 +1760,7 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/solutions/industrial-internet-solution"
-                          clstag="Channel_City|keycount|Floor2|MBtn_17">
+                          clstag="Channel_City|keycount|Floor2|MBtn_17" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
@@ -1769,7 +1769,7 @@
                       <div class="col-6">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_18">
+                          clstag="Channel_City|keycount|Floor2|MBtn_18" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1817,7 +1817,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_19">
+                          clstag="Channel_City|keycount|Floor2|MBtn_19" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1853,7 +1853,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_20">
+                          clstag="Channel_City|keycount|Floor2|MBtn_20" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1888,7 +1888,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_21">
+                          clstag="Channel_City|keycount|Floor2|MBtn_21" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1923,7 +1923,7 @@
                       <div class="col-12">
                         <a
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
-                          clstag="Channel_City|keycount|Floor2|MBtn_22">
+                          clstag="Channel_City|keycount|Floor2|MBtn_22" target="_blank">
                           <button class="CH-card-button-primary">
                             立即咨询
                           </button>
@@ -1963,14 +1963,14 @@
                       <div class="col-6">
                         <a
                           href="https://www.jdcloud.com/cn/products/data-middle-end"
-                          clstag="Channel_City|keycount|Floor2|MBtn_23">
+                          clstag="Channel_City|keycount|Floor2|MBtn_23" target="_blank">
                           <button class="CH-card-button-default">
                             查看详情
                           </button>
                         </a>
                       </div>
                       <div class="col-6">
-                        <a
+                         <a target="_blank"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                           clstag="Channel_City|keycount|Floor2|MBtn_24">
                           <button class="CH-card-button-primary">
@@ -2006,7 +2006,7 @@
                   <div class="CH-card-footer">
                     <div class="row">
                       <div class="col-12">
-                        <a
+                         <a target="_blank"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                           clstag="Channel_City|keycount|Floor2|MBtn_25">
                           <button class="CH-card-button-primary">
@@ -2042,7 +2042,7 @@
                   <div class="CH-card-footer">
                     <div class="row">
                       <div class="col-12">
-                        <a
+                         <a target="_blank"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                           clstag="Channel_City|keycount|Floor2|MBtn_26">
                           <button class="CH-card-button-primary">
@@ -2080,7 +2080,7 @@
                   <div class="CH-card-footer">
                     <div class="row">
                       <div class="col-12">
-                        <a
+                         <a target="_blank"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                           clstag="Channel_City|keycount|Floor2|MBtn_27">
                           <button class="CH-card-button-primary">
@@ -2120,7 +2120,7 @@
                   <div class="CH-card-footer">
                     <div class="row">
                       <div class="col-6">
-                        <a
+                         <a target="_blank"
                           href="https://www.jdcloud.com/cn/solutions/intelligent-environmental-protection-solution"
                           clstag="Channel_City|keycount|Floor2|MBtn_28">
                           <button class="CH-card-button-default">
@@ -2129,7 +2129,7 @@
                         </a>
                       </div>
                       <div class="col-6">
-                        <a
+                         <a target="_blank"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                           clstag="Channel_City|keycount|Floor2|MBtn_29">
                           <button class="CH-card-button-primary">
@@ -2164,7 +2164,7 @@
                   <div class="CH-card-footer">
                     <div class="row">
                       <div class="col-12">
-                        <a
+                         <a target="_blank"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                           clstag="Channel_City|keycount|Floor2|MBtn_30">
                           <button class="CH-card-button-primary">
@@ -2230,7 +2230,7 @@
             </p>
 
             <p class="col align-self-end text-right">
-              如果您的城市也希望快速数字化转型 <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
+              如果您的城市也希望快速数字化转型  <a target="_blank" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
               clstag="Channel_City|keycount|Floor3|Btn_0">快来咨询落地方案></a>
             </p>
 
@@ -2261,17 +2261,17 @@
                           <li>• 大数据</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_1">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_1">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_2">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_2">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_1">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_1">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_2">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_2">商务合作></a>
                         </p>
 
                       </div>
@@ -2298,17 +2298,17 @@
                           <li>• 智能智造</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_3">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_3">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_4">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_4">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_3">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_3">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_4">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_4">预约报告厅></a>
                         </p>
 
                       </div>
@@ -2336,17 +2336,17 @@
                           <li>• 元洪品牌</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_5">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_5">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_6">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_6">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_5">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_5">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_6">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_6">商务合作></a>
                         </p>
 
                       </div>
@@ -2373,17 +2373,17 @@
                           <li>• 工艺美术</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_7">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_7">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_8">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_8">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_7">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_7">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_8">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_8">预约报告厅></a>
                         </p>
 
                       </div>
@@ -2411,17 +2411,17 @@
                           <li>• 魅力北海</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_9">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_9">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_10">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_10">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_9">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_9">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_10">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_10">商务合作></a>
                         </p>
 
                       </div>
@@ -2448,17 +2448,17 @@
                           <li>• 十佳可持续发展城市</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_11">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_11">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_12">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_12">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_11">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_11">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_12">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_12">商务合作></a>
                         </p>
 
                       </div>
@@ -2486,17 +2486,17 @@
                           <li>• 科技</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_13">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_13">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_14">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_14">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_13">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_13">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_14">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_14">预约报告厅></a>
                         </p>
 
                       </div>
@@ -2522,17 +2522,17 @@
                           <li>• 共享未来</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_15">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_15">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_16">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_16">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_15">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_15">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_16">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_16">商务合作></a>
                         </p>
 
                       </div>
@@ -2559,17 +2559,17 @@
                           <li>• 东哥老家</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_17">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_17">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_18">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_18">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_17">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_17">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_18">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_18">商务合作></a>
                         </p>
 
                       </div>
@@ -2597,17 +2597,17 @@
                           <li>• 文化产业</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_19">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_19">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_20">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_20">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_19">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_19">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_20">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_20">商务合作></a>
                         </p>
 
                       </div>
@@ -2635,17 +2635,17 @@
                           <li>• 武当山</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_21">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_21">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_22">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_22">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_21">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_21">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_22">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_22">商务合作></a>
                         </p>
 
                       </div>
@@ -2672,17 +2672,17 @@
                           <li>• 农产品</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_23">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_23">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_24">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_24">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_23">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_23">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_24">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_24">预约报告厅></a>
                         </p>
 
                       </div>
@@ -2710,17 +2710,17 @@
                           <li>• 智能制造</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_25">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_25">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_26">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_26">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_25">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_25">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_26">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_26">预约报告厅></a>
                         </p>
 
                       </div>
@@ -2747,17 +2747,17 @@
                           <li>• 惠民</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_27">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_27">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_28">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_28">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_27">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_27">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_28">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_28">商务合作></a>
                         </p>
 
                       </div>
@@ -2784,17 +2784,17 @@
                           <li>• 云+产业</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9"  clstag="Channel_City|keycount|Floor3|Btn_31">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9"  clstag="Channel_City|keycount|Floor3|Btn_31">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_30">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_30">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_29">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_29">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_30">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_30">商务合作></a>
                         </p>
 
                       </div>
@@ -2821,17 +2821,17 @@
                           <li>• 电商</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_31">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_31">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_32">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_32">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_31">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_31">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_32">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_32">预约报告厅></a>
                         </p>
 
                       </div>
@@ -2859,17 +2859,17 @@
                           <li>• 大数据</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_33">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_33">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_34">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_34">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_33">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_33">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_34">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_34">商务合作></a>
                         </p>
 
                       </div>
@@ -2896,17 +2896,17 @@
                           <li>• 农业</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_35">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_35">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_36">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_36">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_35">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_35">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_36">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_36">预约报告厅></a>
                         </p>
 
                       </div>
@@ -2934,17 +2934,17 @@
                           <li>• 3C数码</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_37">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_37">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_38">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_38">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_37">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_37">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_38">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_38">预约报告厅></a>
                         </p>
 
                       </div>
@@ -2972,17 +2972,17 @@
                           <li>• 眉州味道</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_39">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_39">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_40">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_40">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_39">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_39">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_40">商务合作></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_40">商务合作></a>
                         </p>
 
                       </div>
@@ -3012,17 +3012,17 @@
                           <li>• 文化创意</li>
                         </ul>
                         <p class="xs-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_41">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_41">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_42">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_42">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_41">
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_41">
                             <button class="section-case-button">预约参观</button>
                           </a>
-                          <a href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_42">预约报告厅></a>
+                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_42">预约报告厅></a>
                         </p>
 
                       </div>
@@ -3046,21 +3046,21 @@
 
           <div class="footer xs-hidden">
             <div class="footer-item">
-              <h5><a href="https://www.jdcloud.com/cn/solutions/industry-innovation" clstag="Channel_City|keycount|Floor3|Link_0"> 全国创新中心 ></a></h5>
+              <h5> <a target="_blank" href="https://www.jdcloud.com/cn/solutions/industry-innovation" clstag="Channel_City|keycount|Floor3|Link_0"> 全国创新中心 ></a></h5>
               <p>
                 目前已覆盖全国24个城市，含天津、南京、重庆、西安等，获得3项省级、7项市级资质。
               </p>
 
             </div>
             <div class="footer-item">
-              <h5><a href="https://www.jdcloud.com/cn/solutions/industrial-e-commerce-cloud" clstag="Channel_City|keycount|Floor3|Link_1"> 数字经济产业园 ></a></h5>
+              <h5> <a target="_blank" href="https://www.jdcloud.com/cn/solutions/industrial-e-commerce-cloud" clstag="Channel_City|keycount|Floor3|Link_1"> 数字经济产业园 ></a></h5>
               <p>
                 已覆盖全国37个城市，涉及近20万平方米，自2017年起持续为政府提供数字经济产业发展服务。
               </p>
 
             </div>
             <div class="footer-item">
-              <h5><a href="https://www.jdcloud.com/cn/neec/index"  clstag="Channel_City|keycount|Floor3|MLink_2"> 城市新经济展示中心 ></a></h5>
+              <h5> <a target="_blank" href="https://www.jdcloud.com/cn/neec/index"  clstag="Channel_City|keycount|Floor3|MLink_2"> 城市新经济展示中心 ></a></h5>
               <p>
                 以多媒体和数字化技术作为展示手段，以数字经济合伙人的身份与政府共建城市名片——数字经济展示中心。
               </p>
@@ -3072,7 +3072,7 @@
             <div class="swiper-wrapper">
               <div class="swiper-slide footer">
                 <div class="footer-item">
-                  <h5><a href="https://www.jdcloud.com/cn/solutions/industry-innovation" clstag="Channel_City|keycount|Floor3|MLink_0"> 全国创新中心 ></a></h5>
+                  <h5> <a target="_blank" href="https://www.jdcloud.com/cn/solutions/industry-innovation" clstag="Channel_City|keycount|Floor3|MLink_0"> 全国创新中心 ></a></h5>
                   <p>
                     目前已覆盖全国24个城市，含天津、南京、重庆、西安等，获得3项省级、7项市级资质。
                   </p>
@@ -3082,7 +3082,7 @@
 
               <div class="swiper-slide footer">
                 <div class="footer-item">
-                  <h5><a href="https://www.jdcloud.com/cn/solutions/industrial-e-commerce-cloud" clstag="Channel_City|keycount|Floor3|MLink_1"> 数字经济产业园 ></a></h5>
+                  <h5> <a target="_blank" href="https://www.jdcloud.com/cn/solutions/industrial-e-commerce-cloud" clstag="Channel_City|keycount|Floor3|MLink_1"> 数字经济产业园 ></a></h5>
                   <p>
                     已覆盖全国37个城市，涉及近20万平方米，自2017年起持续为政府提供数字经济产业发展服务。
                   </p>
@@ -3092,7 +3092,7 @@
 
               <div class="swiper-slide footer">
                 <div class="footer-item">
-                  <h5><a href="https://www.jdcloud.com/cn/neec/index" clstag="Channel_City|keycount|Floor3|MLink_2"> 城市新经济展示中心 ></a></h5>
+                  <h5> <a target="_blank" href="https://www.jdcloud.com/cn/neec/index" clstag="Channel_City|keycount|Floor3|MLink_2"> 城市新经济展示中心 ></a></h5>
                   <p>
                     以多媒体和数字化技术作为展示手段，以数字经济合伙人的身份与政府共建城市名片——数字经济展示中心。
                   </p>
@@ -3121,7 +3121,7 @@
                     ><span>京东云脑</span>
 
                     <i>
-                      <a href="javascript:;" clstag="Channel_City|keycount|Floor4|Btn_0">
+                       <a target="_blank" href="javascript:;" clstag="Channel_City|keycount|Floor4|Btn_0">
                         <img
                           src="https://img1.jcloudcs.com/portal/channel/city/fl5/icon-city-play.png"
                           alt="播放按钮"
@@ -3147,68 +3147,60 @@
                 <div class="exper-item2">
                   <div class="row">
                     <div class="col-4 col-xs-12">
-                      <dl>
-                        <dt>领导驾驶舱：</dt>
-                        <dd class="desc">
-                          城市运行态势呈现，基于
-                          GIS展示各领域数据，打造城市仪表盘。
-                        </dd>
-                        <dd>
-                          <a clstag="Channel_City|keycount|Floor4|Link_0" href="https://city.jdcloud.com/exp/" target="_blank">立即体验</a>
-                        </dd>
-                      </dl>
+                      <div class="dl-box">
+                        <dl>
+                          <dt>领导驾驶舱：</dt>
+                          <dd class="desc">
+                            城市运行态势呈现，基于
+                            GIS展示各领域数据，打造城市仪表盘。
+                          </dd>
+                        </dl>
+                         <a href="https://city.jdcloud.com/exp/" clstag="Channel_City|keycount|Floor4|Link_0" target="_blank">立即体验</a>
+                      </div>
                     </div>
                     <div class="col-4 col-xs-12">
-                      <dl>
-                        <dt>产业链招商：</dt>
-                        <dd class="desc">
-                          京东云智能招商主题建设一系列应用，让招商工作摸得清、找得准、招得来、留得住。
-                        </dd>
-                        <dd>
-                          <a clstag="Channel_City|keycount|Floor4|Link_1"
-                            href="https://city.jdcloud.com/exp/industrychain/industriesTabs"
-                            target="_blank"
-                            >立即体验</a
-                          >
-                        </dd>
-                      </dl>
+                      <div class="dl-box">
+                        <dl>
+                          <dt>产业链招商：</dt>
+                          <dd class="desc">
+                            京东云智能招商主题建设一系列应用，让招商工作摸得清、找得准、招得来、留得住。
+                          </dd>
+                        </dl>
+                        <a  href="https://city.jdcloud.com/exp/industrychain/industriesTabs" clstag="Channel_City|keycount|Floor4|Link_1" target="_blank">立即体验</a>
+                      </div>
                     </div>
                     <div class="col-4 col-xs-12">
-                      <dl>
-                        <dt>产业电商：</dt>
-                        <dd class="desc">
-                          通过对四个地域维度的产业布局分析，通过数据直观感知本地产业运行动态。
-                        </dd>
-                        <dd>
-                          <a clstag="Channel_City|keycount|Floor4|Link_2" href="https://city.jdcloud.com/exp/frame/ecommerce"
-                            >立即体验</a
-                          >
-                        </dd>
-                      </dl>
+                      <div class="dl-box">
+                        <dl>
+                          <dt>产业电商：</dt>
+                          <dd class="desc">
+                            通过对四个地域维度的产业布局分析，通过数据直观感知本地产业运行动态。
+                          </dd>
+                        </dl>
+                         <a target="_blank" href="https://city.jdcloud.com/exp/frame/ecommerce" clstag="Channel_City|keycount|Floor4|Link_2">立即体验</a>
+                      </div>
                     </div>
                     <div class="col-4 col-xs-12">
-                      <dl>
-                        <dt>政务服务：</dt>
-                        <dd class="desc">
-                          直观展现政务服务工作成果，落实最多跑一次，提升民众满意度。
-                        </dd>
-                        <dd>
-                          <a clstag="Channel_City|keycount|Floor4|Link_3" href="https://city.jdcloud.com/exp/frame/affair"
-                            >立即体验</a
-                          >
-                        </dd>
-                      </dl>
+                      <div class="dl-box">
+                        <dl>
+                          <dt>政务服务：</dt>
+                          <dd class="desc">
+                            直观展现政务服务工作成果，落实最多跑一次，提升民众满意度。
+                          </dd>
+                        </dl>
+                         <a target="_blank" href="https://city.jdcloud.com/exp/frame/affair" clstag="Channel_City|keycount|Floor4|Link_3" >立即体验</a>
+                      </div>
                     </div>
                     <div class="col-4 col-xs-12">
-                      <dl>
-                        <dt>设备运营监测：</dt>
-                        <dd class="desc">
-                          通过3D可视化展示市政设施和智能设备，实时掌握设备运行状态。
-                        </dd>
-                        <dd>
-                          <a clstag="Channel_City|keycount|Floor4|Link_4" href="https://city.jdcloud.com/exp/frame/affair">立即体验</a>
-                        </dd>
-                      </dl>
+                      <div class="dl-box mgr-b">
+                        <dl>
+                          <dt>设备运营监测：</dt>
+                          <dd class="desc">
+                            通过3D可视化展示市政设施和智能设备，实时掌握设备运行状态。
+                          </dd>
+                        </dl>
+                         <a target="_blank" href="https://city.jdcloud.com/exp/equipment" clstag="Channel_City|keycount|Floor4|Link_4">立即体验</a>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -3226,7 +3218,7 @@
         </header>
         <div class="CH-section-body seccessCase">
           <div class="CH-panel">
-            <div class="swiper-container CH-carousel-type-2">
+            <div class="swiper-container swiper-no-swiping  CH-carousel-type-2">
               <div class="swiper-wrapper">
                 <div class="swiper-slide on" data-index="1">
                   <img
@@ -3335,13 +3327,13 @@
 
                     </div>
                     <div>
-                      <a
+                       <a target="_blank"
                         href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         clstag="Channel_City|keycount|Floor5|Link_1">
                         <span class="section-case-button">立即咨询</span>
 
                       </a>
-                      <a clstag="Channel_City|keycount|Floor5|Link_2" href="https://www.jdcloud.com/cn/case/detail/186" class="section-case-link">查看案例</a>
+                       <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_2" href="https://www.jdcloud.com/cn/case/detail/186" class="section-case-link">查看案例</a>
                     </div>
                   </div>
                 </div>
@@ -3368,7 +3360,7 @@
                       </p>
 
                       <div>
-                        <a clstag="Channel_City|keycount|Floor5|Link_4" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_4" href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
                         <span class="section-case-button">立即咨询</span>
 
                         </a>
@@ -3405,7 +3397,7 @@
                       </p>
 
                       <div>
-                        <a clstag="Channel_City|keycount|Floor5|Link_7"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_7"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
@@ -3443,13 +3435,13 @@
                       </p>
 
                       <div>
-                        <a clstag="Channel_City|keycount|Floor5|Link_9"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_9"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
 
                         </a>
-                        <a clstag="Channel_City|keycount|Floor5|Link_10" href="https://www.jdcloud.com/cn/case/detail/188" class="section-case-link">查看案例</a>
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_10" href="https://www.jdcloud.com/cn/case/detail/188" class="section-case-link">查看案例</a>
                       </div>
                     </div>
                   </div>
@@ -3475,14 +3467,14 @@
                       </ul>
                       <p class="section-case-product">
                         使用产品：<strong
-                          ><a clstag="Channel_City|keycount|Floor5|Link_11" href="https://city.jdcloud.com/" target="_blank"
+                          > <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_11" href="https://city.jdcloud.com/" target="_blank"
                             >城市云脑</a
                           ></strong
                         >
                       </p>
 
                       <div>
-                        <a clstag="Channel_City|keycount|Floor5|Link_12"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_12"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
@@ -3522,7 +3514,7 @@
 
                     </div>
                     <div>
-                      <a clstag="Channel_City|keycount|Floor5|Link_14"
+                       <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_14"
                         href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                       >
                         <span class="section-case-button">立即咨询</span>
@@ -3566,7 +3558,7 @@
                       </p>
 
                       <div>
-                        <a clstag="Channel_City|keycount|Floor5|Link_18"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_18"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
@@ -3601,7 +3593,7 @@
                       </p>
 
                       <div>
-                        <a clstag="Channel_City|keycount|Floor5|Link_20"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_20"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
@@ -3641,7 +3633,7 @@
                       </p>
 
                       <div>
-                        <a clstag="Channel_City|keycount|Floor5|Link_22"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_22"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
@@ -3655,7 +3647,7 @@
                   <div class="CH-container-imageText">
                     <div class="col-image">
                       <img
-                        src="https://img1.jcloudcs.com/portal/channel/city/fl6/banner-02.png"
+                        src="https://img1.jcloudcs.com/portal/channel/city/fl6/liaocheng_pc.png"
                         alt=""
                       />
                     </div>
@@ -3672,14 +3664,14 @@
                       </ul>
                       <p class="section-case-product">
                         使用产品：<strong
-                          ><a clstag="Channel_City|keycount|Floor5|Link_23" href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution" target="_blank">智能农场</a></strong
+                          > <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_23" href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution" target="_blank">智能农场</a></strong
                         ><strong
                           ><a clstag="Channel_City|keycount|Floor5|Link_24" href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution" target="_blank">神农大脑</a></strong
                         >
                       </p>
 
                       <div>
-                        <a clstag="Channel_City|keycount|Floor5|Link_25"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_25"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
@@ -3715,13 +3707,13 @@
                       </p>
 
                       <div>
-                        <a clstag="Channel_City|keycount|Floor5|Link_27"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_27"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
 
                         </a>
-                        <a clstag="Channel_City|keycount|Floor5|Link_28" href="https://www.jdcloud.com/cn/case/detail/194" class="section-case-link">查看案例</a>
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_28" href="https://www.jdcloud.com/cn/case/detail/194" class="section-case-link">查看案例</a>
                       </div>
                     </div>
                   </div>
@@ -3746,7 +3738,7 @@
                         <li>企业服务</li>
                       </ul>
                       <div>
-                        <a clstag="Channel_City|keycount|Floor5|Link_29"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_29"
                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
@@ -3801,7 +3793,7 @@
 
                     <div class="tbl-box">
                       <div class="tbl-cell">
-                        <a clstag="Channel_City|keycount|Floor5|MLink_1"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_1"
                            href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
@@ -3809,7 +3801,7 @@
                         </a>
                       </div>
                       <div class="tbl-cell">
-                        <a clstag="Channel_City|keycount|Floor5|Link_2" href="https://www.jdcloud.com/cn/case/detail/186" class="section-case-link">查看案例</a>
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_2" href="https://www.jdcloud.com/cn/case/detail/186" class="section-case-link">查看案例</a>
                       </div>
                     </div>
                   </div>
@@ -3842,22 +3834,10 @@
                       ><strong
                         ><span clstag="Channel_City|keycount|Floor5|MLink_2" href="" >产业助贷平台</span>
 </strong
-                      ><strong
-                        ><a clstag="Channel_City|keycount|Floor5|MLink_3"
-                          href="www.jdcloud.com/cn/products/nf1-adc"
-                          target="_blank"
-                          >NF1 ADC</a
-                        ></strong
-                      ><strong
-                        ><a clstag="Channel_City|keycount|Floor5|MLink_4"
-                          href="market.jdcloud.com/service/details/454403"
-                          target="_blank"
-                          >智能运维</a
-                        ></strong
                       >
                     </p>
 
-                    <a clstag="Channel_City|keycount|Floor5|MLink_5"
+                     <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_5"
                       href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                     >
                       <span class="section-case-button">立即咨询</span>
@@ -3900,7 +3880,7 @@
 </strong>
                     </p>
 
-                    <a clstag="Channel_City|keycount|Floor5|MLink_7"
+                     <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_7"
                       href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                     >
                       <span class="section-case-button">立即咨询</span>
@@ -3944,7 +3924,7 @@
 
                     <div class="tbl-box">
                       <div class="tbl-cell">
-                        <a clstag="Channel_City|keycount|Floor5|MLink_9"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_9"
                            href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
@@ -3952,7 +3932,7 @@
                         </a>
                       </div>
                       <div class="tbl-cell">
-                        <a clstag="Channel_City|keycount|Floor5|Link_10" href="https://www.jdcloud.com/cn/case/detail/188" class="section-case-link">查看案例</a>
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_10" href="https://www.jdcloud.com/cn/case/detail/188" class="section-case-link">查看案例</a>
                       </div>
                     </div>
                   </div>
@@ -3991,7 +3971,7 @@
                       >
                     </p>
 
-                    <a clstag="Channel_City|keycount|Floor5|MLink_11"
+                     <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_11"
                       href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                     >
                       <span class="section-case-button">立即咨询</span>
@@ -4034,7 +4014,7 @@
                       >
                     </p>
 
-                    <a clstag="Channel_City|keycount|Floor5|MLink_13"
+                     <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_13"
                       href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                     >
                       <span class="section-case-button">立即咨询</span>
@@ -4080,7 +4060,7 @@
                     >
                     </p>
 
-                    <a clstag="Channel_City|keycount|Floor5|MLink_17"
+                     <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_17"
                             href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                     >
                       <span class="section-case-button">立即咨询</span>
@@ -4119,7 +4099,7 @@
                     >
                     </p>
 
-                    <a clstag="Channel_City|keycount|Floor5|MLink_19"
+                     <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_19"
                             href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                     >
                       <span class="section-case-button">立即咨询</span>
@@ -4163,7 +4143,7 @@
                     >
                     </p>
 
-                    <a clstag="Channel_City|keycount|Floor5|MLink_21"
+                     <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_21"
                             href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                     >
                       <span class="section-case-button">立即咨询</span>
@@ -4202,7 +4182,7 @@
                     ><strong><a clstag="Channel_City|keycount|Floor5|MLink_23" href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution" target="_blank">神农大脑</a></strong>
                     </p>
 
-                    <a clstag="Channel_City|keycount|Floor5|MLink_24"
+                     <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_24"
                             href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                     >
                       <span class="section-case-button">立即咨询</span>
@@ -4244,7 +4224,7 @@
 
                     <div class="tbl-box">
                       <div class="tbl-cell">
-                        <a clstag="Channel_City|keycount|Floor5|MLink_26"
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_26"
                            href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                         >
                           <span class="section-case-button">立即咨询</span>
@@ -4252,7 +4232,7 @@
                         </a>
                       </div>
                       <div class="tbl-cell">
-                        <a clstag="Channel_City|keycount|Floor5|Link_28" href="https://www.jdcloud.com/cn/case/detail/194" class="section-case-link">查看案例</a>
+                         <a target="_blank" clstag="Channel_City|keycount|Floor5|Link_28" href="https://www.jdcloud.com/cn/case/detail/194" class="section-case-link">查看案例</a>
                       </div>
                     </div>
                   </div>
@@ -4282,7 +4262,7 @@
                       <li>资源扶持</li>
                       <li>企业服务</li>
                     </ul>
-                    <a clstag="Channel_City|keycount|Floor5|MLink_27"
+                     <a target="_blank" clstag="Channel_City|keycount|Floor5|MLink_27"
                             href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"
                     >
                       <span class="section-case-button">立即咨询</span>
@@ -4462,7 +4442,7 @@
               <div class="swiper-pagination"></div>
             </div>
             <div class="partner">
-              <a clstag="Channel_City|keycount|Floor6|Btn_0" href="https://www.jdcloud.com/cn/partner/index"
+               <a target="_blank" clstag="Channel_City|keycount|Floor6|Btn_0" href="https://www.jdcloud.com/cn/partner/index"
                 >加入合作伙伴</a
               >
             </div>
@@ -4637,7 +4617,7 @@
               <div class="swiper-pagination"></div>
             </div>
             <div class="partner">
-              <a clstag="Channel_City|keycount|Floor6|MBtn_0" href="https://www.jdcloud.com/cn/partner/index"
+               <a target="_blank" clstag="Channel_City|keycount|Floor6|MBtn_0" href="https://www.jdcloud.com/cn/partner/index"
                 >加入合作伙伴</a
               >
             </div>
