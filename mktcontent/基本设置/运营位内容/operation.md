@@ -20,8 +20,8 @@
 		"label":"赔"
 	},
 	{
-		"name":"最新活动",
-		"description":"优惠尽享于此",
+		"name":"案例故事",
+		"description":"助力各行各业数字化升级",
 		"id":5
 	},
 	{
@@ -30,14 +30,15 @@
 		"id":6
 	},
 	{
-		"name":"京东云 大有可为",
-		"description":"案例故事精彩呈现",
+		"name":"三张图",
+		"description":"看懂京东智联云的过去、现在和未来",
 		"id":7
 	},
 	{
-		"name":"开年大促季",
-		"description":"云主机72元秒杀",
-		"id":8
+		"name":"抗击疫情",
+		"description":"多款产品首次免费",
+		"id":8,
+		"label":""
 	},
 	{
 		"name":"京东云APP",
@@ -50,21 +51,51 @@
 		"id":112
 	},
 	{
-		"name":"banner 运营位1",
-		"description":"blabla",
-		"id":115,
-		"label":"直播1"
+		"name":"特惠专区",
+		"description":"拉新",
+		"id":385,
+		"label":""
 	},
 	{
-		"name":"laxin",
-		"description":"1",
-		"id":116,
-		"label":"111"
+		"name":"感谢信",
+		"description":"17封感谢信背后：京东智联云与地方政府携手抗疫的感人故事",
+		"id":386,
+		"label":""
 	},
 	{
-		"name":"拉新运营位",
-		"description":"11",
-		"id":117,
-		"label":"11"
+		"name":"新基建",
+		"description":"扎根“新基建”  京东智联云释放向上生长的力量",
+		"id":387,
+		"label":""
+	},
+	{
+		"name":"三张图",
+		"description":"看懂京东智联云的过去、现在和未来",
+		"id":388,
+		"label":""
+	},
+	{
+		"name":"测试运营位置1",
+		"description":"描述：描述：描述：描述：描述：描述：",
+		"id":389,
+		"label":"0"
+	},
+	{
+		"name":"智能客服",
+		"description":"京东客服中心智能化最佳实践，可为企业定制搭配使用",
+		"id":390,
+		"label":""
+	},
+	{
+		"name":"让专家联系我",
+		"description":"测试拉新运营位置测试拉新运营位置",
+		"id":392,
+		"label":"ppp"
+	},
+	{
+		"name":"免费试用",
+		"description":"智能客服",
+		"id":394,
+		"label":""
 	}
 ]
