@@ -829,7 +829,7 @@
                         <div class="swiper-pagination"></div>
                     </div>
                 </div>
-                <div clstag="supplyChain|keycount|NeuHub|more" class="CH-box-link"><a href="https://www.jdcloud.com/cn/neuhub/all/" target="_blank">了解更多 <i class="iconfont jc-icon-my-right"></i></a></div>
+                <div clstag="supplyChain|keycount|NeuHub|more" class="CH-box-link"><a href="https://www.jdcloud.com/cn/neuhub/all" target="_blank">了解更多 <i class="iconfont jc-icon-my-right"></i></a></div>
             </div>
         </section>
 
