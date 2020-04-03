@@ -2022,5 +2022,13 @@
 		"jss_key":"News_Content_798",
 		"id":798,
 		"news_title":"科技护航：京东云与AI上线口罩识别技术 多项产品组合保障员工安全复工"
+	},
+	{
+		"summary":"神州数码将依托其强大的技术和方案能力，帮助京东智联云构建渠道生态体系。双方携手打造的生态合作伙伴体系将划分为代理、开发、咨询和服务四个发展方向，从产品、方案、市场等不同维度，对体系中的合作伙伴进行赋能，提升合作伙伴在数字化时代的核心竞争力。",
+		"image_url":"//img1.jcloudcs.com/cms/647c597a-e90f-4dac-bb67-88d64bdf658d20200403102101.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_799",
+		"jss_key":"News_Content_799",
+		"id":799,
+		"news_title":"京东智联云携手神州数码 共建创新共赢的渠道生态"
 	}
 ]
