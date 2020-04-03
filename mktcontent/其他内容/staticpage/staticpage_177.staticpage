@@ -856,7 +856,7 @@
                                         <div class="ai-power-cnt-case">
                                             <h4>客户案例</h4>
                                             <ul>
-                                                <li><img src="https://www.jdcloud.com/cn/case/detail/212" alt="京东"></li>
+                                                <li><img src="https://img1.jcloudcs.com/portal/channel/ai/logo-jd.jpg" alt="京东"></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -1976,7 +1976,7 @@
             </header>
             <div class="CH-section-body seccessCase">
                 <div class="CH-panel">
-                    <div class="swiper-container CH-carousel-type-2">
+                    <div class="swiper-container CH-carousel-type-2 swiper-no-swiping">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide is-selected" data-index='1'><img clstag="AIChannel|keycount|SelectedSuccessfulCases|tab-case-sk"
                                     src="https://img1.jcloudcs.com/portal/channel/ai/case/logo-sk.png" alt="寺库"></div>
