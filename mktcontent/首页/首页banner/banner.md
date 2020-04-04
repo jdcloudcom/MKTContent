@@ -1244,5 +1244,12 @@
 		"id":1218,
 		"button_title":"",
 		"main_title":"京东智联云全新升级"
+	},
+	{
+		"sub_title":"提供云、AI、IoT产品及服务，扎根新基建，助力产业升级",
+		"name":"品牌黑白模式",
+		"id":1220,
+		"button_title":"",
+		"main_title":"京东智联云全新升级"
 	}
 ]
