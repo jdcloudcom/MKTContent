@@ -1,4 +1,4 @@
-  <body class="jdc-rwd">
+<body class="jdc-rwd">
     <div class="subMenu-box">
         <h2>城市</h2>
         <div class="subMenu-level1">
@@ -333,7 +333,7 @@
                   <div class="CH-card-img">
                       <i>
                           <a href="javascript:;">
-                              <img src="https://img1.jcloudcs.com/portal/channel/city/fl5/icon-city-play.png" alt="播放按钮" class="channel-play-button" clstag="Activity|keycount|MiddleContentSec|2" data-video="https://img1.jcloudcs.com/portal/channel/city/fl5/city-yn.mp4">
+                              <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png" alt="播放按钮" class="channel-play-button channel-play-button-v1" clstag="Activity|keycount|MiddleContentSec|2" data-video="https://img1.jcloudcs.com/portal/channel/city/fl5/city-yn.mp4">
                           </a>
                       </i>
                     <img
@@ -549,7 +549,7 @@
                     />
                   </div>
                   <div class="CH-card-header is-border-bottom">
-                    <h3 class="CH-card-title">智能电商</h3>
+                    <h3 class="CH-card-title">产业电商</h3>
                   </div>
                   <div class="CH-card-body">
                     <p class="CH-card-desc f-toe2">
@@ -1288,7 +1288,7 @@
 
                     <a href="javascript:;">
                     <i>
-                        <img src="https://img1.jcloudcs.com/portal/channel/city/fl5/icon-city-play.png"  class="channel-play-button" alt="播放按钮" data-video="https://img1.jcloudcs.com/portal/channel/city/fl5/city-yn.mp4">
+                        <img src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"  class="channel-play-button channel-play-button-m-v1" alt="播放按钮" data-video="https://img1.jcloudcs.com/portal/channel/city/fl5/city-yn.mp4">
                     </i>
                     <img src="https://img1.jcloudcs.com/portal/channel/city/fl3/sz/img_aioc.png" alt="" class="channel-play-button" clstag="Activity|keycount|MiddleContentSec|2" data-video="https://img1.jcloudcs.com/portal/channel/city/fl5/city-yn.mp4"/>
                     </a>
@@ -1492,7 +1492,7 @@
                     />
                   </div>
                   <div class="CH-card-header is-border-bottom">
-                    <h3 class="CH-card-title">智能电商</h3>
+                    <h3 class="CH-card-title">产业电商</h3>
                   </div>
                   <div class="CH-card-body">
                     <p class="CH-card-desc f-toe2">
@@ -2262,14 +2262,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_1">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_2">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_1">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_2">商务合作></a>
                         </p>
@@ -2299,14 +2301,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_3">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_4">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_3">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_4">预约报告厅></a>
                         </p>
@@ -2337,14 +2341,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_5">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_6">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_5">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_6">商务合作></a>
                         </p>
@@ -2374,14 +2380,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_7">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_8">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_7">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_8">预约报告厅></a>
                         </p>
@@ -2412,14 +2420,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_9">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_10">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_9">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_10">商务合作></a>
                         </p>
@@ -2449,14 +2459,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_11">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_12">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_11">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_12">商务合作></a>
                         </p>
@@ -2487,14 +2499,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_13">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_14">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_13">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_14">预约报告厅></a>
                         </p>
@@ -2523,14 +2537,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_15">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_16">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_15">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_16">商务合作></a>
                         </p>
@@ -2543,7 +2559,7 @@
                       <div class="CH-carousel-img-m pcbg pcbg-9"></div>
                       <div class="box-content">
                         <h3 class="CH-carousel-title">
-                          宿迁新经济展示中心
+                          宿迁数字经济展示中心
                         </h3>
                         <p class="CH-carousel-desc xs-line-3">
                           京东智联云宿迁品牌展厅秉承着“一座城市，一朵云”的理念，已在全国落地了30+ 个城市云，助力政府数字化转型升级。目前宿迁现已形成“3+2”产业体系，即呼叫客服、电商运营、物流仓储三大基础产业以及未来重点发展的物联网智能制造、互联网金融两大特色产业。
@@ -2560,14 +2576,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_17">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_18">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_17">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_18">商务合作></a>
                         </p>
@@ -2598,14 +2616,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_19">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_20">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_19">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_20">商务合作></a>
                         </p>
@@ -2636,14 +2656,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_21">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_22">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_21">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_22">商务合作></a>
                         </p>
@@ -2673,14 +2695,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_23">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_24">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_23">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_24">预约报告厅></a>
                         </p>
@@ -2711,14 +2735,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_25">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_26">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_25">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_26">预约报告厅></a>
                         </p>
@@ -2748,14 +2774,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_27">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_28">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_27">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_28">商务合作></a>
                         </p>
@@ -2785,14 +2813,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9"  clstag="Channel_City|keycount|Floor3|Btn_31">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_30">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_29">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_30">商务合作></a>
                         </p>
@@ -2822,14 +2852,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_31">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_32">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_31">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_32">预约报告厅></a>
                         </p>
@@ -2860,14 +2892,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_33">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_34">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_33">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_34">商务合作></a>
                         </p>
@@ -2897,14 +2931,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_35">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_36">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_35">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_36">预约报告厅></a>
                         </p>
@@ -2935,14 +2971,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_37">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_38">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_37">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_38">预约报告厅></a>
                         </p>
@@ -2973,14 +3011,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_39">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_40">商务合作></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_39">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_40">商务合作></a>
                         </p>
@@ -3013,14 +3053,16 @@
                         </ul>
                         <p class="xs-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_41">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_42">预约报告厅></a>
                         </p>
 
                         <p class="md-hidden">
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_41">
-                            <button class="section-case-button">预约参观</button>
+                            <span class="section-case-button">预约参观</span>
+
                           </a>
                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_42">预约报告厅></a>
                         </p>
@@ -3060,7 +3102,7 @@
 
             </div>
             <div class="footer-item">
-              <h5> <a target="_blank" href="https://www.jdcloud.com/cn/neec/index"  clstag="Channel_City|keycount|Floor3|MLink_2"> 城市新经济展示中心 ></a></h5>
+              <h5> <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::all-exhibition-halls"  clstag="Channel_City|keycount|Floor3|MLink_2"> 数字经济展示中心 ></a></h5>
               <p>
                 以多媒体和数字化技术作为展示手段，以数字经济合伙人的身份与政府共建城市名片——数字经济展示中心。
               </p>
@@ -3092,7 +3134,7 @@
 
               <div class="swiper-slide footer">
                 <div class="footer-item">
-                  <h5> <a target="_blank" href="https://www.jdcloud.com/cn/neec/index" clstag="Channel_City|keycount|Floor3|MLink_2"> 城市新经济展示中心 ></a></h5>
+                  <h5> <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::all-exhibition-halls" clstag="Channel_City|keycount|Floor3|MLink_2"> 数字经济展示中心 ></a></h5>
                   <p>
                     以多媒体和数字化技术作为展示手段，以数字经济合伙人的身份与政府共建城市名片——数字经济展示中心。
                   </p>
@@ -3123,9 +3165,9 @@
                     <i>
                        <a target="_blank" href="javascript:;" clstag="Channel_City|keycount|Floor4|Btn_0">
                         <img
-                          src="https://img1.jcloudcs.com/portal/channel/city/fl5/icon-city-play.png"
+                          src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"
                           alt="播放按钮"
-                          class="channel-play-button" clstag="Channel_City|keycount|Floor4|Btn_1" data-video="https://img1.jcloudcs.com/portal/channel/city/fl5/city-yn.mp4"
+                          class="channel-play-button channel-play-button-v1" clstag="Channel_City|keycount|Floor4|Btn_1" data-video="https://img1.jcloudcs.com/portal/channel/city/fl5/city-yn.mp4"
                         />
                       </a>
                     </i>
