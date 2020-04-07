@@ -2,22 +2,22 @@
 	{
 		"name":"7*24小时售后支持",
 		"id":1,
-		"label":"专"
+		"label":""
 	},
 	{
 		"name":"VIP一对一服务",
 		"id":2,
-		"label":"尊"
+		"label":""
 	},
 	{
 		"name":"免费备案服务",
 		"id":3,
-		"label":"备"
+		"label":""
 	},
 	{
 		"name":"100倍故障延时赔偿",
 		"id":4,
-		"label":"赔"
+		"label":""
 	},
 	{
 		"name":"案例故事",
