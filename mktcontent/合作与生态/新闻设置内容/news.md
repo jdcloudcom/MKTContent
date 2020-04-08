@@ -2030,5 +2030,13 @@
 		"jss_key":"News_Content_799",
 		"id":799,
 		"news_title":"京东智联云携手神州数码 共建创新共赢的渠道生态"
+	},
+	{
+		"summary":"京东智联云发布《京东智联云专有云JD Cloud Stack 产品白皮书》， 深入介绍了京东智联云专有云的基本架构、产品和模块组成、核心产品功能和优势特点。向政府、组织机构和企业的领导者和核心技术人员介绍京东智联云专有云各产品模块典型应用方法和云平台的整体运维和管理方法，帮助客户了解京东智联云专有云的技术优势。",
+		"image_url":"//img1.jcloudcs.com/cms/893fd3d3-c9ce-4125-89d5-adfe00a4d58e20200408175056.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_800",
+		"jss_key":"News_Content_800",
+		"id":800,
+		"news_title":"加码“新基建” 京东智联云发布专有云JD Cloud Stack产品白皮书"
 	}
 ]
