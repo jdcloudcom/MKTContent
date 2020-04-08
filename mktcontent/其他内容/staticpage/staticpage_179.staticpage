@@ -91,7 +91,7 @@
                         <div>
                             <ul>
                                 <li><a clstag="Channel_Retail|keycount|Header|Link_1_4_0" href="https://www.jdcloud.com/cn/products/idc-assets-management" target="_blank">资产管理</a></li>
-                                <li><a clstag="Channel_Retail|keycount|Header|Link_1_4_1" href="https://www.jdcloud.com/service/details/577812" target="_blank">客聚智能</a></li>
+                                <li><a clstag="Channel_Retail|keycount|Header|Link_1_4_1" href="https://www.jdcloud.com/service/details/577812" target="_blank">  </a></li>
                             </ul>
                         </div>
                     </li>
@@ -123,7 +123,7 @@
                   <ul class="subMenu-level2">
                       <li><a clstag="Channel_Retail|keycount|Header|Link_3_0_0" href="https://www.jdcloud.com/cn/case/detail/3" target="_blank">京东</a></li>
                       <li><a clstag="Channel_Retail|keycount|Header|Link_3_0_1" href="https://www.jdcloud.com/cn/case/detail/170" target="_blank">妥了网</a></li>
-                      <li><a clstag="Channel_Retail|keycount|Header|Link_3_0_2" href="https://www.jdcloud.com/cn/case/detail/5" target="_blank">金蝶</a></li>
+                      <li><a clstag="Channel_Retail|keycount|Header|Link_3_0_2" href="https://www.jdcloud.com/cn/case-detail/5" target="_blank">金蝶</a></li>
                   </ul>
               </div>
             </li>
@@ -988,16 +988,16 @@
               <div class="CH-card is-hover">
                 <div class="CH-card-img"><img src="https://img1.jcloudcs.com/portal/channel/retail/all-channel-m.jpg" alt=""></div>
                 <div class="CH-card-header is-border-bottom">
-                  <h3 class="CH-card-title">一体化智能信贷风控解决方案</h3>
+                  <h3 class="CH-card-title">全渠道零售</h3>
                 </div>
                 <div class="CH-card-body">
                   <p class="CH-card-desc f-toe2">
-                    与京东零售打通的企业级交付平台，包括B2B交易平台、企业采购平台、供应链平台等，提供一体化的解决方案，在产业互联网升级转型大潮中，实现企业的商业价值链。</p>
+                    与京东零售打通的企业级交付平台，包括B2B交易平台、企业采购平台、供应链平台等，提供一体化的解决方案，在产业互联网升级转型大潮中，实现企业的商业价值链。。</p>
 
                   <ul class="CH-list">
-                    <li class="CH-list-item">多维数据信息</li>
-                    <li class="CH-list-item">信贷风控逻辑</li>
-                    <li class="CH-list-item">科学信用风险建模方法</li>
+                    <li class="CH-list-item">全面开放的无界零售</li>
+                    <li class="CH-list-item">数字化的线上线下技术与服务产品</li>
+                    <li class="CH-list-item">打造体验佳、更受用户信赖的综合零售平台</li>
                   </ul>
                 </div>
                 <div class="CH-card-footer">
@@ -2568,7 +2568,7 @@
 
                       <li>用户体验提升</li>
 
-                      <li>降本增效</li>
+                      <li>降本增效</li>
 
                       <li>推动价值中心转型</li>
 
@@ -2638,6 +2638,8 @@
 
                   <a target="_blank" class="section-case-button" clstag="Channel_Retail|keycount|Floor4|MLink_2"
                     href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                    <a target="_blank" class="section-case-button2" clstag="Channel_Retail|keycount|Floor4|MLink_c1"
+                    href="https://www.jdcloud.com/cn/case/detail/3">查看案例</a>
                 </div>
               </div>
             </div>
@@ -2735,6 +2737,8 @@
 
                         <a target="_blank" class="section-case-button" clstag="Channel_Retail|keycount|Floor4|MLink_11"
                         href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                        <a target="_blank" class="section-case-button2" clstag="Channel_Retail|keycount|Floor4|MLink_c2"
+                        href="https://www.jdcloud.com/cn/case/detail/170">查看案例</a>
                 </div>
               </div>
             </div>
@@ -2767,6 +2771,8 @@
 
                   <a target="_blank" class="section-case-button" clstag="Channel_Retail|keycount|Floor4|MLink_13"
                     href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                    <a target="_blank" class="section-case-button2" clstag="Channel_Retail|keycount|Floor4|MLink_c3"
+                    href="https://www.jdcloud.com/cn/case/detail/5">查看案例</a>  
                 </div>
               </div>
             </div>
@@ -2787,7 +2793,7 @@
                   <ul class="section-case-feature">
                     <li>用户体验提升</li>
 
-                    <li>降本增效</li>
+                    <li>降本增效</li>
 
                     <li>推动价值中心转型</li>
                   </ul>
