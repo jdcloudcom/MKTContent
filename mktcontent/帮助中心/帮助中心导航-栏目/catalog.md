@@ -2141,5 +2141,15 @@
 		"summary":"",
 		"name":"分布式协调服务 Zookeeper 版",
 		"id":3566
+	},
+	{
+		"summary":"",
+		"name":"实名认证服务",
+		"id":3567
+	},
+	{
+		"summary":"",
+		"name":"消息队列 Kafka 版",
+		"id":3568
 	}
 ]
