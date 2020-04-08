@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Website Threat Scan\",\"label\":[{\"TitleName\":\"Purchase Now\",\"TitleUrl\":\"https://threatscanner-console.jdcloud.com/jsecscanner/create\",\"classTag\":\"\"}],\"desc\":\"Integrate four core functions, including automatic asset association and discovery, web vulnerability scan, port vulnerability scan and weak password detection, cover VPC intranet assets of cloud users and provide vulnerability threat scan products for three business scenarios (IP/domain assets of Internet service, and intranet assets in the user’s IDC data center)\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Website Threat Scan\",\"label\":[{\"TitleName\":\"Purchase Now\",\"TitleUrl\":\"https://threatscanner-console.jdcloud.com/jsecscanner/create\",\"classTag\":\"\"},{\"TitleName\":\"Try Now\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/threatscanner\",\"classTag\":\"\"}],\"desc\":\"Integrate four core functions, including automatic asset association and discovery, web vulnerability scan, port vulnerability scan and weak password detection, cover VPC intranet assets of cloud users and provide vulnerability threat scan products for three business scenarios (IP/domain assets of Internet service, and intranet assets in the user’s IDC data center)\"}",
 		"id":1356
 	},
 	{
