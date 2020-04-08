@@ -2205,27 +2205,27 @@
               <span class="md-label">选择省份 :</span>
 
               <select id="intelligencenetSelection">
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_0" value="0" class="cc">安徽-滁州</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_1" value="1">重庆-南岸</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_2" value="2">福建-福清</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_3" value="3">福建-仙游</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_4" value="4">广西-北海</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_5" value="5">江苏-常州</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_6" value="6">江苏-南京</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_7" value="7">江苏-南通</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_8" value="8">江苏-宿迁</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_9" value="9">河南-鹤壁</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_10" value="10">湖北-十堰</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_11" value="11">湖南-怀化</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_12" value="12">湖南-湘潭</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_13" value="13">辽宁</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_14" value="14">山东-滨州</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_15" value="15">山东-东营</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_16" value="16">山东-济南</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_17" value="17">山西-大同</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_18" value="18">陕西-西安</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_19" value="19">四川-眉州</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_20" value="20">天津</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_0" value="0" class="op">安徽-滁州</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_1" value="1" class="op">重庆-南岸</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_2" value="2" class="op">福建-福清</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_3" value="3" class="op">福建-仙游</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_4" value="4" class="op">广西-北海</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_5" value="5" class="op">江苏-常州</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_6" value="6" class="op">江苏-南京</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_7" value="7" class="op">江苏-南通</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_8" value="8" class="op">江苏-宿迁</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_9" value="9" class="op">河南-鹤壁</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_10" value="10" class="op">湖北-十堰</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_11" value="11" class="op">湖南-怀化</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_12" value="12" class="op">湖南-湘潭</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_13" value="13" class="op">辽宁</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_14" value="14" class="op">山东-滨州</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_15" value="15" class="op">山东-东营</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_16" value="16" class="op">山东-济南</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_17" value="17" class="op">山西-大同</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_18" value="18" class="op">陕西-西安</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_19" value="19" class="op">四川-眉州</option>
+                <option clstag="Channel_City|keycount|Floor3|SelectCity_20" value="20" class="op">天津</option>
               </select>
             </p>
 
@@ -3163,7 +3163,7 @@
                     ><span>京东云脑</span>
 
                     <i>
-                       <a target="_blank" href="javascript:;" clstag="Channel_City|keycount|Floor4|Btn_0">
+                       <a  href="javascript:;" clstag="Channel_City|keycount|Floor4|Btn_0">
                         <img
                           src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"
                           alt="播放按钮"
