@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"消息队列 RabbitMQ版\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/rabbitmq\",\"classTag\":\"\"}],\"desc\":\"消息队列 RabbitMQ 版是基于AMQP协议兼容开源RabbitMQ的高可用分布式消息队列服务，广泛应用于异步处理、应用解耦、流量削峰等场景。\"}",
+		"id":1937
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"开箱即用\",\"proName\":\"完全支持 AMQP 标准协议和开源RabbitMQ 生态，业务代码无需改造，无缝迁移上云。\"},{\"showShade\":false,\"proGood\":\"弹性伸缩\",\"proName\":\"可根据业务需求水平或者垂直弹性伸缩，用户无需担心性能瓶颈问题。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"托管服务\",\"proName\":\"免运维，配备节点级健康检查，不健康的状态自动failover，无需用户运维，即可保证服务可用性。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全可靠\",\"proName\":\"部署在用户私有网络（VPC）中，资源独享，安全可控。\"}]",
+		"id":1938
+	},
+	{
+		"txt":"[{\"funcName\":\"消息收发\",\"funcContent\":[{\"funcTitle\":\"消息类型\",\"funcP\":\"支持普通消息、顺序消息、延迟消息等消息类型。\"},{\"funcTitle\":\"消息特性\",\"funcP\":\"支持消息确认、优先级队列、广播消息、死信队列等消息特性。\"}]},{\"funcName\":\"路由分发\",\"funcContent\":[{\"funcTitle\":\"exchange类型\",\"funcP\":\"提供四种direct，topic，headers 和 fanout 的路由方式，满足不同分发需求。\"}]},{\"funcName\":\"监控预警\",\"funcContent\":[{\"funcTitle\":\"监控\",\"funcP\":\"对RabbitMQ集群状态进行监控，支持实例、节点、队列等多维度指标。\"},{\"funcTitle\":\"报警\",\"funcP\":\"支持设置报警规则，监控状态异常时触发告警，及时发现问题。\"}]},{\"funcName\":\"访问控制\",\"funcContent\":[{\"funcTitle\":\"权限管理\",\"funcP\":\"支持实例级别的访问控制，支持内置的权限管理。\"}]}]",
+		"id":1939
+	},
+	{
+		"txt":"[{\"name\":\"异步解耦\",\"instruction\":\"消息队列 RabbitMQ 版可以作为企业级消息系统，异步解耦应用系统，适用于例如金融交易账单，电商订单分发等场景。\\n\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"消息队列 RabbitMQ版\",\"url\":\"//www.jdcloud.com/products/jcs-for-rabbitmq\"},{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9c06ba6e-2213-4fc8-9413-90807f16572a20200327121110.png\",\"showShade\":false},{\"name\":\"流量控制\",\"instruction\":\"当上下游系统处理能力存在差距时，出现访问流量高峰，利用消息队列 RabbitMQ 版作为中间件，做到控制访问流量，削峰填谷。例如电商秒杀、热点事件。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"消息队列 RabbitMQ版\",\"url\":\"//www.jdcloud.com/products/jcs-for-rabbitmq\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2217da5e-ab97-4ffa-8a88-84d0c45536dc20200327121154.png\",\"showShade\":false}]",
+		"id":1940
+	},
+	{
+		"txt":"{\"price\":\"https://docs.jdcloud.com/jcs-for-rabbitmq/price-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1941
+	}
+]
