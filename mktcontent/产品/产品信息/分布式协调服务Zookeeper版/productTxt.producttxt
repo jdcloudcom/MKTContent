@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"分布式协调服务Zookeeper版\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://zk-console.jdcloud.com/list\",\"classTag\":\"\"}],\"desc\":\"分布式协调服务Zookeeper版是一项基于开源Zookeeper的分布式应用程序协调服务，完全兼容了开源产品的标准接口，旨在简化分布式系统构建的任务，给开发人员提供一套容易理解和开发的接口。\"}",
+		"id":1948
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"完全托管\",\"proName\":\"快速部署，易于管理。用户只需专注于业务开发，无需部署运维，分钟级即可成功创建出Zookeeper实例。\"},{\"showShade\":false,\"proGood\":\"兼容开源\",\"proName\":\"100%兼容开源Zookeeper。业务代码无需任何改造，即可无缝迁移上云。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全性\",\"proName\":\"资源独享，安全可控。部署在逻辑隔离的用户VPC内，杜绝了外网直连风险，保障了用户资源的安全。\"}]",
+		"id":1949
+	},
+	{
+		"txt":"[{\"funcName\":\"弹性扩缩容\",\"funcContent\":[{\"funcTitle\":\"轻松扩展，方便快捷\",\"funcP\":\"用户可根据资源使用情况按需扩缩容，不影响现有业务的同时以满足业务增长需求。\"}]},{\"funcName\":\"自动监控报警\",\"funcContent\":[{\"funcTitle\":\"丰富的监控告警体系\",\"funcP\":\"实例列表可分类当前集群状态，并提供多种监控指标，支持丰富的告警规则设置，全面掌握集群健康情况。 \"}]}]",
+		"id":1950
+	},
+	{
+		"txt":"[{\"name\":\"分布式协调\",\"instruction\":\"利用 ZooKeeper 实现分布式配置管理、系统协调等，例如：HBase、Kafka 和 Hadoop 等\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/433c2fd6-204c-4a34-808d-70e329b098fa20200326105822.png\",\"showShade\":false}]",
+		"id":1951
+	}
+]
