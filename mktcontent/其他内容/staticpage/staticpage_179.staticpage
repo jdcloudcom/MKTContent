@@ -2132,9 +2132,9 @@
 
             <div class="swiper-wrapper">
 
-              <div class="swiper-slide on" data-index="1">
+              <div class="swiper-slide" data-index="1">
 
-                <img src="https://img1.jcloudcs.com/portal/channel/retail/jd-3c.png" alt="" />
+                <img class="on" src="https://img1.jcloudcs.com/portal/channel/retail/jd-3c.png" alt="" />
 
               </div>
 
