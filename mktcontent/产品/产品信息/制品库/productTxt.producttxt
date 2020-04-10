@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"制品库\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/artifacts\",\"classTag\":\"\"}],\"desc\":\"管理源代码编译后的构建产物，跟源代码协同进行版本化控制，提供编译依赖，制品存储等功能，与云编译、云部署结合组成持续交付工具链。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"制品库\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://artifacts-console.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"管理源代码编译后的构建产物，跟源代码协同进行版本化控制，提供编译依赖，制品存储等功能，与云编译、云部署结合组成持续交付工具链。\"}",
 		"id":1538
 	},
 	{
