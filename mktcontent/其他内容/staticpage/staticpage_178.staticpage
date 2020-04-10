@@ -1,4 +1,4 @@
-<body class="jdc-rwd">
+  <body class="jdc-rwd">
     <div class="subMenu-box">
         <h2>城市</h2>
         <div class="subMenu-level1">
@@ -3262,8 +3262,9 @@
           <div class="CH-panel">
             <div class="swiper-container swiper-no-swiping  CH-carousel-type-2">
               <div class="swiper-wrapper">
-                <div class="swiper-slide on" data-index="1">
+                <div class="swiper-slide" data-index="1">
                   <img
+                    class="on"
                     src="https://img1.jcloudcs.com/portal/channel/city/fl6/case_01.png"
                     alt=""
                   />
