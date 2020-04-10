@@ -2038,5 +2038,21 @@
 		"jss_key":"News_Content_800",
 		"id":800,
 		"news_title":"加码“新基建” 京东智联云发布专有云JD Cloud Stack产品白皮书"
+	},
+	{
+		"summary":"为解决自建边缘基础设施的问题，京东智联云基于成熟的公有云计算产品研发能力，借助核心数据中心基础设施交付和运维服务能力，将计算能力延展至边缘计算节点，推出 “边缘云”形态的边缘计算产品组合，包括侧重人工定制化交付的“边缘物理计算服务”、以自动化弹性交付为主的“分布式云物理服务器”产品。",
+		"image_url":"//img1.jcloudcs.com/cms/8ae8ac7e-63a9-4433-a495-27689afe4d4320200410154032.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_801",
+		"jss_key":"News_Content_801",
+		"id":801,
+		"news_title":"京东智联云发布边缘计算产品组合 解决企业自建边缘基础设施难题"
+	},
+	{
+		"summary":"近日，京东智联云与加和科技联合打造的用户洞察与分析产品（Consumer Insight &Analysis京东智联云用户认知洞察）面向企业客户发布，旨在帮助企业利用数据智能提升品牌效率。",
+		"image_url":"//img1.jcloudcs.com/cms/b1febce6-51e0-4fe7-94d8-a11795aa9b7b20200410205321.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_802",
+		"jss_key":"News_Content_802",
+		"id":802,
+		"news_title":"全方位连接品牌与用户：京东智联云携手加和科技加速智能营销"
 	}
 ]
