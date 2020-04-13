@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"车主出行服务\",\"label\":[{\"TitleName\":\"方案咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"},{\"TitleName\":\"点击购买\",\"TitleUrl\":\"http://iovmobilityservice-console.jdcloud.com/car/app\",\"classTag\":\"\"}],\"desc\":\"京东智联云车主出行服务平台，并整合京东集团优质生态服务如智能维保、救援、洗车等，同时基于LBS、车身传感器、时空等感知信息，打造智能生活场景，致力于让用户在驾驶时也能畅享日常互联生活。\"}",
+		"id":1958
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"场景推送\",\"proName\":\"基于LBS、时空、天气等感知信息，可实现自动唤醒或者消息提醒，打造“服务找人”的智能化场景服务\"},{\"showShade\":false,\"proGood\":\"优质服务\",\"proName\":\"整合京东集团优质生态服务如京救援、洗车、前装ETC、惠加油、违章查询、油卡充值，以及生活旅行和车辆保险等\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"标准接口\",\"proName\":\"提供标准API接口文档，便于服务快速接入\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"数据沉淀\",\"proName\":\"通过车企tsp平台自动获取车辆数据\"}]",
+		"id":1959
+	},
+	{
+		"txt":"[{\"funcName\":\"智能维保\",\"funcContent\":[{\"funcTitle\":\"维保找人\",\"funcP\":\"与车企云打通，通过车辆检测数据及环境数据，实现维保产品的智能匹配和精准推荐，支持全量导流主机厂授权服务体系。\"}]},{\"funcName\":\"洗车\",\"funcContent\":[{\"funcTitle\":\"享受优质洗车服务\",\"funcP\":\"1.2w家合作门店，同时有京车会门店提供品质保障。洗车服务提供精准推送，并采用车内预约，到店核销的方式，简单便捷\"}]},{\"funcName\":\"救援\",\"funcContent\":[{\"funcTitle\":\"道路救援，秒级派送\",\"funcP\":\"全国800+市专业救援公司全面覆盖；2800+县城专业修理厂全面覆盖；偏远乡镇亦能保证救援。支持搭电、拖车、补胎，支持语音快速发起救援，自动获取定位，缩短交互流程。\"}]}]",
+		"id":1960
+	}
+]
