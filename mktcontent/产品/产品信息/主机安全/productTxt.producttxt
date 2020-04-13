@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"主机安全\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://hips-console.jdcloud.com/gz/safetyDogStatistics?dataCenter=bj_02\"},{\"TitleName\":\"企业版申请试用\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/baseline\",\"classTag\":\"\"}],\"desc\":\"主机安全是京东云为云上企业或者个人租户提供的云工作负载保护平台，通过主机层面基础数据采集，风险发现，入侵检测，调查分析等功能帮助租户构建服务器安全防护体系，降低入侵风险，等保合规。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7352f134-9fd8-4121-bcfb-1a8eb1caacb220181115172336.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|45\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|45\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"主机安全\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://hips-console.jdcloud.com/gz/safetyDogStatistics?dataCenter=bj_02\"}],\"desc\":\"主机安全是京东云为云上企业或者个人租户提供的云工作负载保护平台，通过主机层面基础数据采集，风险发现，入侵检测，调查分析等功能帮助租户构建服务器安全防护体系，降低入侵风险，等保合规。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7352f134-9fd8-4121-bcfb-1a8eb1caacb220181115172336.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|45\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|45\"}",
 		"id":106
 	},
 	{
