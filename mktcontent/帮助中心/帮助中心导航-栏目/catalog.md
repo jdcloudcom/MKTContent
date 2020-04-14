@@ -2226,5 +2226,10 @@
 		"summary":"",
 		"name":"车主出行服务",
 		"id":3583
+	},
+	{
+		"summary":"",
+		"name":"专有云JD Cloud Stack产品白",
+		"id":3584
 	}
 ]
