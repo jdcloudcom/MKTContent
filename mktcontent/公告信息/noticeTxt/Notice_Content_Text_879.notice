@@ -1,0 +1,28 @@
+<p>近日，京东云安全团队监测到IBM官方发布了安全更新通告，披露了WebSphere Application Server应用中存在高危命令执行漏洞(CVE-2020-4276、CVE-2020-4362)，利用漏洞可进行远程代码执行攻击,请您及时进行更新修复，避免被外部攻击者入侵。</p>
+<p><br/></p>
+<p><strong>【漏洞描述】</strong></p>
+<p><br/></p>
+<p>WebSphere Application Server 是一款由IBM 公司开发的高性能的Java 中间件服务器，可用于构建、运行、集成、保护和管理部署的动态云和Web 应用。</p>
+<p>已披露的编号为CVE-2020-4276 和CVE-2020-4362的两个漏洞存在于WebSphere SOAP Connector 服务中，远程且未经授权的攻击者通过利用此漏洞，可以在目标服务端执行任意恶意代码，获取系统权限。</p>
+<p><br/></p>
+<p><strong>【漏洞评级】</strong></p>
+<p><br/></p>
+<p>高危</p>
+<p><br/></p>
+<p><strong>【影响版本】</strong></p>
+<p><br/></p>
+<p>WebSphere Application Server 9.0.x</p>
+<p>WebSphere Application Server 8.5.x</p>
+<p>WebSphere Application Server 8.0.x</p>
+<p>WebSphere Application Server 7.0.x</p>
+<p><br/></p>
+<p><strong>【修复建议】</strong></p>
+<p><br/></p>
+<p>1.通过安全组配置，禁止WebSphere SOAP Connector 服务对外开放（默认端口为8880）</p>
+<p>2.升级WebSphere Application Server至最新版本，并安装相应的安全补丁PH21511 及PH23853</p>
+<p><br/></p>
+<p><strong>【相关链接】</strong></p>
+<p><br/></p>
+<p><a href="https://www.ibm.com/support/pages/node/6118222" target="_blank" title="https://www.ibm.com/support/pages/node/6118222">https://www.ibm.com/support/pages/node/6118222</a></p>
+<p><a href="https://www.ibm.com/support/pages/node/6174417" target="_blank" title="https://www.ibm.com/support/pages/node/6174417">https://www.ibm.com/support/pages/node/6174417</a></p>
+<p><br/></p>
