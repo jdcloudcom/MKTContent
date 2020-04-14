@@ -1,0 +1,72 @@
+<p style="text-align:justify"><span style="font-size:14px">您好！</span>
+</p>
+<p style="text-align:justify"><span style="font-size:14px;font-family:等线">&nbsp;</span>
+</p>
+<p style="margin-left:16px;text-align:justify"><span style="font-size:14px;font-family:等线">4</span>
+<span style="font-size:14px">月</span>
+<span style="font-size:14px;font-family:等线">14</span>
+<span style="font-size:14px">日（本周二））凌晨</span>
+<span style="font-size:14px;font-family:等线">00:00:00</span>
+<span style="font-size:14px">至</span>
+<span style="font-size:14px;font-family:等线">01:30:00</span>
+<span style="font-size:14px">，上海电信运营商侧需要进行网络运维、调整京东智联云【华东</span>
+<span style="font-size:14px">-</span>
+<span style="font-size:14px">上海】地域</span>
+<span style="font-size:14px">116.198.160.0/22</span>
+<span style="font-size:14px">相关网段的路由广播。该运维操作、正常情况对用户相关网段业务无影响，极端异常情况可能导致该网段弹性公网</span>
+<span style="font-size:14px">IP</span>
+<span style="font-size:14px">的电信方向访问中断约</span>
+<span style="font-size:14px">5</span>
+<span style="font-size:14px">分钟。详细情况如下：</span>
+</p>
+<p style="text-align:justify"><span style="font-size:14px;font-family:等线">&nbsp;</span>
+</p>
+<p style="margin-left:32px"><span style="font-size:14px">业务范围：京东智联云</span>
+</p>
+<p style="margin-left:32px"><span style="font-size:14px">调整时间：</span>
+<span style="font-size:14px;font-family:&#39;\.AppleSystemUIFont&#39;">2020</span>
+<span style="font-size:14px">年</span>
+<span style="font-size:14px;font-family:&#39;\.AppleSystemUIFont&#39;">4</span>
+<span style="font-size:14px">月</span>
+<span style="font-size:14px;font-family:&#39;\.AppleSystemUIFont&#39;">14</span>
+<span style="font-size:14px">日</span>
+<span style="font-size:14px;font-family:&#39;\.AppleSystemUIFont&#39;">00:00:00-01:30:00</span>
+<span style="font-size:14px;font-family:&#39;\.PingFang SC&#39;">(</span>
+<span style="font-size:14px">本周二凌晨</span>
+<span style="font-size:14px;font-family:&#39;\.PingFang SC&#39;">)</span>
+</p>
+<p style="margin-left:32px"><span style="font-size:14px">调整原因：上海电信运营商地址段广播调整</span>
+</p>
+<p style="margin-left:32px"><span style="font-size:14px">影响产品：云主机、原生容器、POD、Kubernetes集群、NAT网关、负载均衡、数据库、云桌面、JMR等使用公网IP服务的产品</span>
+</p>
+<p style="margin-left:32px"><span style="font-size:14px">影响范围：【华东-上海】地域116.198.160.0/22网段公网IP、其相关联产品的电信方向访问</span>
+</p>
+<p style="margin-left:32px"><span style="font-size:14px;color:blue">影响时长：</span>
+</p>
+<p style="margin-left:70px;text-align:justify"><span style="font-size:14px;font-family:Wingdings;color:blue">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-size:14px;color:blue">正常情况：</span>
+<span style="font-size:14px;font-family:&#39;\.AppleSystemUIFont&#39;;color:blue">116.198.160.0/22</span>
+<span style="font-size:14px;color:blue">网段业务<strong>无影响</strong></span>
+</p>
+<p style="margin-left:70px;text-align:justify"><span style="font-size:14px;font-family:Wingdings;color:blue">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-size:14px;color:blue">极端异常情况：</span>
+<span style="font-size:14px;font-family:&#39;\.AppleSystemUIFont&#39;;color:blue">116.198.160.0/22</span>
+<span style="font-size:14px;color:blue">网段的电信方向访问中断，如有问题要求运营商</span>
+<strong><span style="font-size:14px;font-family:&#39;\.AppleSystemUIFont&#39;;color:blue">5</span>
+</strong><strong><span style="font-size:14px;color:blue">分钟</span>
+</strong><span style="font-size:14px;color:blue">回退</span>
+</p>
+<p style="text-align:justify"><span style="font-size:14px;font-family:等线">&nbsp;</span>
+</p>
+<p style="text-align:justify;text-indent:28px"><strong><span style="font-size:14px;color:red">以上电信运营商运维过程中、不影响京东智联云控制台与</span>
+</strong><strong><span style="font-size:14px;font-family:等线;color:red">openAPI</span>
+</strong><strong><span style="font-size:14px;color:red">的正常操作</span>
+</strong><span style="font-size:14px">。</span>
+</p>
+<p style="text-align:justify;text-indent:28px"><span style="font-size:14px">运维期间如果遇到相关问题，请您随时与京东智联云客服联系（电话：</span>
+<span style="font-size:14px;font-family:等线">4006151212</span>
+<span style="font-size:14px">），感谢您对京东智联云的支持。</span>
+</p>
+<p><br/></p>
