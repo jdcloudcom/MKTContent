@@ -2054,5 +2054,13 @@
 		"jss_key":"News_Content_802",
 		"id":802,
 		"news_title":"全方位连接品牌与用户：京东智联云携手加和科技加速智能营销"
+	},
+	{
+		"summary":"京东智联云凭借其深厚的技术底蕴、优秀的市场表现和良好的客户评价等综合优势入围全景图中的多个重要细分领域，在云网络架构安全，云应用安全，云原生安全，态势感知，内容安全，安全运维，安全会议等多个细分市场榜上有名，全面覆盖云安全、智能安全、业务安全、区块链安全、安全服务5大领域。",
+		"image_url":"//img1.jcloudcs.com/cms/31fa575b-b1ad-48f0-ad13-5876d0d8215120200414152749.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_803",
+		"jss_key":"News_Content_803",
+		"id":803,
+		"news_title":"《中国网络安全行业全景图》发布 京东智联云入围5大关键领域"
 	}
 ]
