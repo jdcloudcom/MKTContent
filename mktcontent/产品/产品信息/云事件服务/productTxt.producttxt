@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云事件服务\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/events\",\"classTag\":\"\"}],\"desc\":\"云事件服务是京东云提供的事件管理与监控平台。用户可通过云事件服务完成对事件的查看及订阅。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云事件服务\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://events-console.jdcloud.com/event/list\",\"classTag\":\"\"}],\"desc\":\"云事件服务是京东云提供的事件管理与监控平台。用户可通过云事件服务完成对事件的查看及订阅。\"}",
 		"id":1600
 	},
 	{
