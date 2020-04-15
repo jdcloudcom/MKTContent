@@ -2062,5 +2062,13 @@
 		"jss_key":"News_Content_803",
 		"id":803,
 		"news_title":"《中国网络安全行业全景图》发布 京东智联云入围5大关键领域"
+	},
+	{
+		"summary":"京东智联云SCRM不仅能借助海量大数据标签，针对不同用户千人千面精准营销，还能与粉丝有效互动，精准运营品牌商微信私域流量，通过京豆、优惠券等方式助力社交裂变，拉新并挖掘潜客，促进转化提升销量。",
+		"image_url":"//img1.jcloudcs.com/cms/22cb8d19-74ac-4c10-ba39-b6d82a38b8ca20200415102820.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_804",
+		"jss_key":"News_Content_804",
+		"id":804,
+		"news_title":"京东智联云SCRM 携手赛诺贝斯开启营销新形态"
 	}
 ]
