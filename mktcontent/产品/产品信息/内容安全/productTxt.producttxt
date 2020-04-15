@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"内容安全\",\"label\":[{\"TitleName\":\"立刻购买\",\"TitleUrl\":\"https://common-buy.jdcloud.com/resource/create?serviceCode=censorpkg\",\"classTag\":\"\"}],\"desc\":\"内容安全基于深度学习技术，支持文本、图片、音视频等多媒体内容的安全检测，可以智能识别涉黄、涉政、涉恐、辱骂、违法等违规内容，大幅提升审核效率，规避违规内容带来的风险，保护业务健康发展。       \"}",
+		"txt":"{\"instruction\":[],\"productName\":\"内容安全\",\"label\":[{\"TitleName\":\"立刻购买\",\"TitleUrl\":\"https://common-buy.jdcloud.com/resource/create?serviceCode=censorpkg\",\"classTag\":\"\"},{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://censor-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"内容安全基于深度学习技术，支持文本、图片、音视频等多媒体内容的安全检测，可以智能识别涉黄、涉政、涉恐、辱骂、违法等违规内容，大幅提升审核效率，规避违规内容带来的风险，保护业务健康发展。       \"}",
 		"id":1646
 	},
 	{
