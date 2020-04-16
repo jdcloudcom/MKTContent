@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"智能边缘安全\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=843\",\"classTag\":\"\"}],\"desc\":\"智能边缘安全（IntelligentEdgeSecurity）是京东云提供的一项安全增值服务，深度集成抗DDoS、WAF、CC攻击的防护功能，全面升级边缘加速网络的安全防护能力，为您的业务保驾护航。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"智能边缘安全\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://edge-security-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"智能边缘安全（IntelligentEdgeSecurity）是京东云提供的一项安全增值服务，深度集成抗DDoS、WAF、CC攻击的防护功能，全面升级边缘加速网络的安全防护能力，为您的业务保驾护航。\"}",
 		"id":1610
 	},
 	{
