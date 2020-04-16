@@ -97,5 +97,11 @@
 		"description":"智能客服",
 		"id":394,
 		"label":""
+	},
+	{
+		"name":"免费领",
+		"description":"云小店-流量变现神器",
+		"id":410,
+		"label":""
 	}
 ]
