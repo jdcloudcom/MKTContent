@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"网站威胁扫描\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://threatscanner-console.jdcloud.com/jsecscanner/create\",\"classTag\":\"\"},{\"TitleName\":\"管理控制台\",\"TitleUrl\":\"https://threatscanner-console.jdcloud.com/jsecscanner/overview\",\"classTag\":\"\"}],\"desc\":\"集资产自动关联发现、Web漏洞扫描、端口漏洞扫描、弱密码检测四大核心功能于一身，覆盖云上用户VPC内网资产、提供互联网服务的IP/域名资产、用户IDC机房内网资产三大业务场景的漏洞威胁扫描类产品\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"网站威胁扫描\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://threatscanner-console.jdcloud.com/jsecscanner/create?version=basic\",\"classTag\":\"\"},{\"TitleName\":\"管理控制台\",\"TitleUrl\":\"https://threatscanner-console.jdcloud.com/jsecscanner/overview\",\"classTag\":\"\"}],\"desc\":\"集资产自动关联发现、Web漏洞扫描、端口漏洞扫描、弱密码检测四大核心功能于一身，覆盖云上用户VPC内网资产、提供互联网服务的IP/域名资产、用户IDC机房内网资产三大业务场景的漏洞威胁扫描类产品\"}",
 		"id":1356
 	},
 	{
