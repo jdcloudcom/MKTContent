@@ -33,5 +33,30 @@
 		"partner_type":"云市场伙伴",
 		"description":"京东智联云市场是京东智联云连接服务商与客户的门户，是技术驱动的一站式企业IT交易平台。",
 		"id":93
+	},
+	{
+		"partner_type":"标准级",
+		"description":"标准级",
+		"id":94
+	},
+	{
+		"partner_type":"银牌级",
+		"description":"银牌级",
+		"id":95
+	},
+	{
+		"partner_type":"金牌级/京选级",
+		"description":"金牌级",
+		"id":96
+	},
+	{
+		"partner_type":"钻石级/京英级",
+		"description":"钻石级",
+		"id":97
+	},
+	{
+		"partner_type":"战略级",
+		"description":"战略级",
+		"id":98
 	}
 ]
