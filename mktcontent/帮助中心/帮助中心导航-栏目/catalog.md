@@ -2229,7 +2229,12 @@
 	},
 	{
 		"summary":"",
-		"name":"专有云JD Cloud Stack产品白",
+		"name":"专有云JD Cloud Stack白皮书",
 		"id":3584
+	},
+	{
+		"summary":"",
+		"name":"云搜索 Elasticsearch",
+		"id":3585
 	}
 ]
