@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Edge Physical Computing Service\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/epcs\",\"classTag\":\"\"}],\"desc\":\"The edge physical computing service provides high-quality edge node resources, distributes computing, network and storage capacity to network edges, provides low-delay, high-bandwidth, high-real-time, local computing and storage service as well as site DevOps Service close to customers and is applicable to customized deployment based on customers’ demands.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Edge Physical Computing Service\",\"label\":[{\"TitleName\":\"Instant Account Setup\",\"TitleUrl\":\"https://docs.jdcloud.com/en/edge-physical-computing-service/overview\",\"classTag\":\"\"}],\"desc\":\"The edge physical computing service provides high-quality edge node resources, distributes computing, network and storage capacity to network edges, provides low-delay, high-bandwidth, high-real-time, local computing and storage service as well as site DevOps Service close to customers and is applicable to customized deployment based on customers’ demands.\"}",
 		"id":1335
 	},
 	{

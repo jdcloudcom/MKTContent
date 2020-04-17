@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"User Pool\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/ias\",\"classTag\":\"Products|keycount|SectionBannerSec|tryUserpoolBtn\"}],\"desc\":\"It provides users with account cabinet service and customized identity verification service. Using this service, the application developer can focus on his primary business for quick release rather than invest excessive resources in creating an account system and complex verification process\"}",
+		"id":1882
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Rapidly Construct a Set of User System\",\"proName\":\"The user growth will begin since the user pool is enabled. The sensitive data will be encrypted and stored, automatically synchronized for backup, ensuring high availability of data.\"},{\"showShade\":false,\"proGood\":\"Provide Unique Interaction Experience\",\"proName\":\"The key elements of logging in the portal can be immediately replaced by configuration. You can also elaborately customize all page styles to create interaction experience characterized with brand personality for your users.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Expand Desirable Functions with Open APIs\",\"proName\":\"Enterprises can expand their own user centers and management backgrounds based on the sound open APIs. It also supports in adding a third-party login service provider to connect the cross-platform account.\"}]",
+		"id":1883
+	},
+	{
+		"txt":"[{\"funcName\":\"Hosted Application of User Pool\",\"funcContent\":[{\"funcTitle\":\"Set User Pool\",\"funcP\":\"Set user information and field rules, account security policy and identity verification process\"},{\"funcTitle\":\"Associated Application\",\"funcP\":\"Create an application and associate it with the designated user pool, and then implement user identity verification in the application by logging in the open API\"},{\"funcTitle\":\"Manage User\",\"funcP\":\"Mange users in the administrator background by integrating the APIs and provide the application with user center services\"}]},{\"funcName\":\"Joint Login\",\"funcContent\":[{\"funcTitle\":\"Login with a JD Cloud & AI Account\",\"funcP\":\"The third-party platform can directly use a primary account of JD Cloud & AI or IAM sub-user account for login after association as JD Cloud & AI provides standard OAuth2 service\"},{\"funcTitle\":\"Login with a Third-party Login Service Provider\",\"funcP\":\"The user pool application can designate a third-party login service provider, providing users with more choices of login methods\"}]}]",
+		"id":1884
+	}
+]

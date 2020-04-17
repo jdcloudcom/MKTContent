@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Distributed Coordination Service Zookeeper Version\",\"label\":[{\"TitleName\":\"Buy Now\",\"TitleUrl\":\"https://zk-console.jdcloud.com/list\",\"classTag\":\"\"}],\"desc\":\"Distributed Coordination Service Zookeeper Version is a distributed application program coordination service based on open source Zookeeper, which is fully compatible with the standard APIs of open source products. This service aims at simplifying the task of building a distributed system and providing development personnel with a set of easy-to-understand-and-develop APIs.\"}",
+		"id":1948
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Complete Cabinet Service\",\"proName\":\"Rapid Deployment and Easy Management. Users only need to focus on business development without deploying and conducting operation and maintenance and can successfully create Zookeeper instances within minutes.\"},{\"showShade\":false,\"proGood\":\"Compatible with Open Source\",\"proName\":\"Fully Compatible with Open Source Zookeeper. Seamless migration and JD Cloud Onboarding of business code can be implemented without any alteration.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Security\",\"proName\":\"Exclusive Resource Enjoyment, Safe and Controllable. Deployed in a logically isolated user VPC, the risk of Internet direct connection is eliminated, which ensures the security of user resources.\"}]",
+		"id":1949
+	},
+	{
+		"txt":"[{\"funcName\":\"Elastic Expansion and Contraction\",\"funcContent\":[{\"funcTitle\":\"Easy, Convenient and Rapid Expansion\",\"funcP\":\"Users can expand and shrink the capacity in accordance with their resources usage status without influencing current businesses while meeting demands on business growth.\"}]},{\"funcName\":\"Automatic Monitoring Alarm\",\"funcContent\":[{\"funcTitle\":\"Rich Monitoring Alarm System\",\"funcP\":\"The instance list can classify the current cluster statuses and provide multiple monitoring indicators to support abundant alarm rules settings and comprehensively master health statuses of clusters. \"}]}]",
+		"id":1950
+	},
+	{
+		"txt":"[{\"name\":\"Distributed Coordination\",\"instruction\":\"ZooKeeper is used to implement the distributed configuration management, system coordination and so on, such as HBase, Kafka and Hadoop\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/433c2fd6-204c-4a34-808d-70e329b098fa20200326105822.png\",\"showShade\":false}]",
+		"id":1951
+	}
+]

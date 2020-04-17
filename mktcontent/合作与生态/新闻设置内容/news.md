@@ -1862,5 +1862,21 @@
 		"jss_key":"News_Content_778",
 		"id":778,
 		"news_title":"JD Cloud & AI Cooperates with qianlong.com to Create a Media Convergence Innovative Program"
+	},
+	{
+		"summary":"Relying on its powerful ability in technology and planning, Digital China is helping JD Cloud & AI build a channel ecosystem. The ecological partner system jointly built by the parties will be developed toward four aspects - agency, development, consultation and service. The partners in the system will be empowered in terms of product, planning, market and others to enhance their core competitiveness in the digital era.",
+		"image_url":"//img1.jcloudcs.com/cms/647c597a-e90f-4dac-bb67-88d64bdf658d20200403102101.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_799",
+		"jss_key":"News_Content_799",
+		"id":799,
+		"news_title":"JD Cloud & AI Builds an Innovative and Win-win Channel Ecosystem with Digital China"
+	},
+	{
+		"summary":"JD Cloud & AI released the White Paper of JD Cloud & AI on Proprietary Cloud JD Cloud Stack Product, giving an in-depth introduction of basic architecture, product and module composition, core features and benefits of JD Cloud & AI Proprietary Cloud. This paper describes the typical application methods of each product module and the overall operation and maintenance and management methods of the cloud platform of JD Cloud & AI Proprietary Cloud for leaders and core technicians from the government, organizations and enterprises, and helps the customers understand the technical superiority of JD Cloud & AI Proprietary Cloud.",
+		"image_url":"//img1.jcloudcs.com/cms/893fd3d3-c9ce-4125-89d5-adfe00a4d58e20200408175056.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_800",
+		"jss_key":"News_Content_800",
+		"id":800,
+		"news_title":"White Paper of JD Cloud & AI on Proprietary Cloud JD Cloud Stack Product is Released to Improve \"New Infrastructure\""
 	}
 ]

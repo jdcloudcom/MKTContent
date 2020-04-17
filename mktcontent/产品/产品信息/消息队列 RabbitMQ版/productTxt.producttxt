@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Message Queue RabbitMQ Version\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/en/public/testApply/rabbitmq\",\"classTag\":\"\"}],\"desc\":\"Message Queue RabbitMQ Version is a high-availability distributed message queue service based on AMQP protocol and compatible with the open source RabbitMQ, and applied widely to scenarios such as asynchronous processing, application decoupling, and traffic peak clipping.\"}",
+		"id":1937
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Out-of-the-box Use\",\"proName\":\"The AMQP standard protocol and open source RabbitMQ ecology are fully supported and the seamless migration and JD Cloud Onboarding of business code can be implemented without any alteration.\"},{\"showShade\":false,\"proGood\":\"Auto Scaling\",\"proName\":\"Users need not to worry about problem of performance bottleneck as horizontal or vertical Auto Scaling can be made according to the business demand.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Cabinet Service\",\"proName\":\"The node-level health check is provided and the automatic failover will be conducted in unhealthy status without operation and maintenance by users to guarantee the service availability.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Security and Reliability\",\"proName\":\"It is deployed in the user's Virtual Private Cloud (VPC) where resources are exclusive, safe and controllable.\"}]",
+		"id":1938
+	},
+	{
+		"txt":"[{\"funcName\":\"Message Receiving and Sending\",\"funcContent\":[{\"funcTitle\":\"Message Type\",\"funcP\":\"Message types including common message, sequential message and delayed message are supported.\"},{\"funcTitle\":\"Message Features\",\"funcP\":\"Message features including message acknowledgment, priority queue, broadcast message and dead letter queue are supported.\"}]},{\"funcName\":\"Routing Distribution\",\"funcContent\":[{\"funcTitle\":\"Exchange Type\",\"funcP\":\"There are four routing methods, namely direct, topic, headers and fanout, to satisfy different distribution needs.\"}]},{\"funcName\":\"Monitoring Warning\",\"funcContent\":[{\"funcTitle\":\"Monitoring\",\"funcP\":\"The RabbitMQ cluster status can be monitored in terms of multiple indexes such as instance, node and queue.\"},{\"funcTitle\":\"Alarm\",\"funcP\":\"Alarm rules can be set so that an alarm will be triggered when an abnormal status is monitored to immediately find out the problem.\"}]},{\"funcName\":\"IAM\",\"funcContent\":[{\"funcTitle\":\"Permission Management\",\"funcP\":\"The IAM at instance level and the built-in permission management are supported.\"}]}]",
+		"id":1939
+	},
+	{
+		"txt":"[{\"name\":\"Asynchronous Decoupling\",\"instruction\":\"The Message Queue RabbitMQ Version, as an enterprise-level message system and an asynchronous decoupling application system, can be applied to scenarios such as financial transaction billing and E-commerce order distribution.\\n\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"Message Queue RabbitMQ Version\",\"url\":\"//www.jdcloud.com/products/jcs-for-rabbitmq\"},{\"name\":\"Virtual Machines\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9c06ba6e-2213-4fc8-9413-90807f16572a20200327121110.png\",\"showShade\":false},{\"name\":\"Traffic Control\",\"instruction\":\"An access traffic peak will emerge when there is a gap in processing capability between upstream and downstream systems, in which case the Message Queue RabbitMQ Version can be used as middleware to control the access traffic, clip the peak and fill the valley. For example, E-commerce seckill, hot issues.\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"Message Queue RabbitMQ Version\",\"url\":\"//www.jdcloud.com/products/jcs-for-rabbitmq\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2217da5e-ab97-4ffa-8a88-84d0c45536dc20200327121154.png\",\"showShade\":false}]",
+		"id":1940
+	},
+	{
+		"txt":"{\"price\":\"https://docs.jdcloud.com/jcs-for-rabbitmq/price-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1941
+	}
+]

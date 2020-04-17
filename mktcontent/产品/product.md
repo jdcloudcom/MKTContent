@@ -564,7 +564,7 @@
 		"id":1325
 	},
 	{
-		"name":"JCS for Greenplum",
+		"name":"Data Repository JDW",
 		"id":1326
 	},
 	{
@@ -700,6 +700,10 @@
 		"id":1391
 	},
 	{
+		"name":"Real-name Verification Service",
+		"id":1392
+	},
+	{
 		"name":"Message Queue Kafka Version",
 		"id":1404
 	},
@@ -718,5 +722,29 @@
 	{
 		"name":"Short URL",
 		"id":1418
+	},
+	{
+		"name":"User Pool",
+		"id":1432
+	},
+	{
+		"name":"IoT OS",
+		"id":1443
+	},
+	{
+		"name":"Identity",
+		"id":1444
+	},
+	{
+		"name":"Message Queue RabbitMQ Version",
+		"id":1446
+	},
+	{
+		"name":"Distributed Coordination Service Zookeeper Version",
+		"id":1448
+	},
+	{
+		"name":"Project Management",
+		"id":1453
 	}
 ]

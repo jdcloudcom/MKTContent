@@ -1,0 +1,28 @@
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"></span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">
+<span style="font-family: 微软雅黑, sans-serif;">
+To improve the features and user experience, JD Cloud & AI plans to maintain the Kubernetes System in [cn-north-1] region from 22:00:00 on April 7 to 2:00:00 on April 8, 2020. During this period:
+</span>
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><span style="font-family: 微软雅黑, sans-serif;">
+all Console access and OpenAPI services of the JCS for Kubernetes in [cn-north-1] will be suspended.</span>
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><span style="font-family: 微软雅黑, sans-serif;">
+Users can still use the Kubectl command to operate and manage the existing clusters.
+</span>
+</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">
+Operation of existing businesses in all of your regions will not be affected by this function upgrade. After completion of release, relevant functions of the Console and corresponding APIs of OpenAPI will be resumed for normal use.
+</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">
+If you have relevant questions during the launch, please contact JD Cloud & AI customer service personnel at any time (Tel: 4006151212). Thanks for your support to JD Cloud & AI.
+</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p><br/></p>

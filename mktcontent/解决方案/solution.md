@@ -242,5 +242,17 @@
 	{
 		"name":"JD Blockchain Medicine Tracing Platform",
 		"id":186
+	},
+	{
+		"name":"JD StarLink IoT Retail Platform",
+		"id":208
+	},
+	{
+		"name":"Digital Commercial Motorcade Solution",
+		"id":209
+	},
+	{
+		"name":"IoV Digital Marketing Solution",
+		"id":211
 	}
 ]
