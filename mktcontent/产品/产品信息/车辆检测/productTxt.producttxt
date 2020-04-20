@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"车辆检测\",\"desc\":\"准确地检测出图片或视频中车辆的位置，并返回其坐标与置信度\",\"label\":[],\"instruction\":[]}",
+		"id":2012
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"算法领先\",\"proName\":\"高精度车辆检测算法，适应摄像头俯拍，斜拍等复杂背景\"},{\"showShade\":false,\"proGood\":\"简单易用\",\"proName\":\"不仅提供稳定可靠的在线API、同时支持私有化部署或SDK，适应多种需求\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定可靠\",\"proName\":\"依托京东云计算，提供高并发高可靠的服务，同时基于内外部大量的业务实战验证，稳定可靠\"}]",
+		"id":2013
+	},
+	{
+		"txt":"[{\"funcName\":\"检测车辆\",\"funcContent\":[{\"funcTitle\":\"检测车辆\",\"funcP\":\"根据输入的图片或视频，检测出图片或视频中的所有车辆\"}]},{\"funcName\":\"返回车辆参数\",\"funcContent\":[{\"funcTitle\":\"返回车辆参数\",\"funcP\":\"返回车辆的坐标和置信度，支持对车辆数的统计\"}]}]",
+		"id":2014
+	},
+	{
+		"txt":"[{\"name\":\"路况分析\",\"instruction\":\"实时监测交通道路的车流量，分析路段的交通状况为路况优化、车辆调度提供参考\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"违章停车\",\"instruction\":\"实时监测城市道路、社区广场，高速应急车道的车辆情况，从而能判断是否有违章停车降低人工巡查工作量\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"智慧停车\",\"instruction\":\"实时监测室内外停车场的车位状态，及时了解车位剩余数量和位置，提升工作效率及停车调度效率\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2015
+	}
+]
