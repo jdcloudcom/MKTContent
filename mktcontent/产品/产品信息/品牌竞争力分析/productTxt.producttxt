@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"品牌竞争力分析\",\"label\":[],\"desc\":\"使用先进的AI技术对某品类下的品牌，从品牌忠诚度、品牌美誉度和品牌知名度等特征进行全方位的分析，对品牌单维度和整体进行精准定位\"}",
+		"id":2064
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"品牌齐全\",\"proName\":\"支持京东零售所有的在售品牌           \"},{\"showShade\":false,\"proGood\":\"分析维度齐全\",\"proName\":\"进行销量、销售额、品牌忠诚度等全方位的评价\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"自动化程度高\",\"proName\":\"只要输入对应的品类和品牌，就可以查出品牌排名及各维度得分\"}]",
+		"id":2065
+	},
+	{
+		"txt":"[{\"funcName\":\"品牌竞争力分析\",\"funcContent\":[{\"funcTitle\":\"品牌竞争力分析\",\"funcP\":\"利用大数据及AI输出各品牌全维度打分\"}]},{\"funcName\":\"品牌综合排名\",\"funcContent\":[{\"funcTitle\":\"品牌综合排名\",\"funcP\":\"对每个品牌综合打分和排名\"}]}]",
+		"id":2066
+	},
+	{
+		"txt":"[{\"name\":\"品牌竞争格局分析\",\"instruction\":\"洞察某产业品牌格局分布\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"区域公共新品牌打造\",\"instruction\":\"为新品牌打造提供精准定位，节省市场调研成本并提升效率\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"老品牌能力加强\",\"instruction\":\"根据品牌综合打分和竞争态势，从数据侧洞悉品牌短板和潜力，完善品牌能力\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2067
+	}
+]
