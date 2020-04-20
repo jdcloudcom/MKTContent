@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"词义相似度\",\"desc\":\"根据输入的两个词语，计算两个词语的相似度，相似度越大的两个词在词义上越相似\",\"label\":[],\"instruction\":[]}",
+		"id":2024
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"语料丰富\",\"proName\":\"基于大规模行业数据进行模型训练，拥有丰富的样本数据\"},{\"showShade\":false,\"proGood\":\"高精准度\",\"proName\":\"精准识别词和词之间的相似程度，精度高\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"技术领先\",\"proName\":\"基于领先的深度学习技术建立模型\"}]",
+		"id":2025
+	},
+	{
+		"txt":"[{\"funcName\":\"词义解析\",\"funcContent\":[{\"funcTitle\":\"词义解析\",\"funcP\":\"词义相似度是自然语言理解的基础，计算两个目标词语的语义相似程度，为构建复杂系统提供精准的基础技术支持\"}]},{\"funcName\":\"相似词挖掘\",\"funcContent\":[{\"funcTitle\":\"相似词挖掘\",\"funcP\":\"根据不同词汇的两两相似程度，智能挖掘目标词汇中的相似词汇，为复杂文本任务的精准处理提供基础技术支撑\"}]}]",
+		"id":2026
+	},
+	{
+		"txt":"[{\"name\":\"智能问答\",\"instruction\":\"智能计算两个问题的相似度，进行精准应答。精准挖掘对话内容，识别自然语言特征，提高对话准确度\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"个性化推荐\",\"instruction\":\"基于行为特征，与候选推荐信息进行智能匹配，实现个性化的推荐。精准匹配语义相似内容，提高智能推荐的用户体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"文本审核\",\"instruction\":\"检测文本中所包含的色情、涉政、谩骂等违禁内容，净化网络环境。支撑文本检测范围扩展，提高文本审核召回率\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2027
+	}
+]
