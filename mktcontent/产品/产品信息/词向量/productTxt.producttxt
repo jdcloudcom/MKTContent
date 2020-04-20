@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"词向量\",\"desc\":\"将自然语言中的词，映射为固定维度的空间向量，实现自然语言的标准化量化，提升自然语言处理的效果\",\"label\":[],\"instruction\":[]}",
+		"id":2020
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"语料丰富\",\"proName\":\"基于大规模行业数据进行模型训练，拥有丰富的样本数据\"},{\"showShade\":false,\"proGood\":\"技术领先\",\"proName\":\"基于领先的深度学习技术建立词向量模型\"}]",
+		"id":2021
+	},
+	{
+		"txt":"[{\"funcName\":\"词向量维度查询\",\"funcContent\":[{\"funcTitle\":\"词向量维度查询\",\"funcP\":\"输入文本语料，输出词向量的维度\"}]},{\"funcName\":\"词向量值查询\",\"funcContent\":[{\"funcTitle\":\"词向量值查询\",\"funcP\":\"输入文本语料，计算词向量值\"}]}]",
+		"id":2022
+	},
+	{
+		"txt":"[{\"name\":\"智能问答\",\"instruction\":\"智能计算两个问题的相似度，进行精准应答。精准挖掘对话内容，识别自然语言特征，提高对话准确度\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"个性化推荐\",\"instruction\":\"基于行为特征，与候选推荐信息进行智能匹配，实现个性化的推荐。精准匹配语义相似内容，提高智能推荐的用户体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"文本审核\",\"instruction\":\"检测文本中所包含的色情、涉政、谩骂等违禁内容，净化网络环境。支撑文本检测范围扩展，提高文本审核召回率\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2023
+	}
+]
