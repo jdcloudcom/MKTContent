@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"语音合成-精品音库\",\"desc\":\"提供高自然度、有感情色彩，个性化的语音合成服务，包括文字转声音，声音转声音服务，同时提供更多精品音色以适配不同应用场景\",\"label\":[],\"instruction\":[]}",
+		"id":2040
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"即输即说\",\"proName\":\"通过在线云端语音合成引擎合成，响应速度毫秒级。离在线模式无缝切换，有力支持有网、无网、弱网环境下的合成播报，多样化服务部署打造完美用户体验\"},{\"showShade\":false,\"proGood\":\"效果自然\",\"proName\":\"支持中英文合成，并且能根据业务调整语速与音量。接近普通人的朗读水平\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"个性语音定制\",\"proName\":\"通过提交个性化发音人的语料，使机器模仿出该发言人的语音\"}]",
+		"id":2041
+	},
+	{
+		"txt":"[{\"funcName\":\"提供多场景音库\",\"funcContent\":[{\"funcTitle\":\"提供多场景音库\",\"funcP\":\"提供基础音库和精品音库，支持多种男声、女声的选择，使得音色能够覆盖泛阅读、订单播报、智能硬件等多样化的应用场景\"}]},{\"funcName\":\"自然人朗读\",\"funcContent\":[{\"funcTitle\":\"自然人朗读\",\"funcP\":\"高自然度，效果接近普通人的朗读水平\"}]},{\"funcName\":\"个性化定制\",\"funcContent\":[{\"funcTitle\":\"个性化定制\",\"funcP\":\"依据用户提交的音频数据，定制个性合成声音\"}]}]",
+		"id":2042
+	},
+	{
+		"txt":"[{\"name\":\"阅读资讯\",\"instruction\":\"可应用于读书、读报等产品客户端，扩展产品用户群体，提升用户体验；有效提升用户使用时长，提升APP活跃度；增加更多盈利方式，提升商业价值\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"智能客服回答\",\"instruction\":\"智能客服回答通过语音合成，客服机器人用语音回答出用户问题的答案，降低客服的人力资源投入，提高客户服务接待能力，减少客户等待时间\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"提示播报\",\"instruction\":\"提示播报通过语音合成进行语音播报，广播通知，降低人力成本，提升用户体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"智能外呼\",\"instruction\":\"智能外呼智能外呼合成的语音通过电话外呼，告知用户重要信息，如告知用户物流延迟，账号异常等\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2043
+	}
+]
