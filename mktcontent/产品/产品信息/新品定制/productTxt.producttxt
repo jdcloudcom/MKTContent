@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"新品定制\",\"desc\":\"新品定制是在挖掘的高潜力细分市场中，结合企业生产规划和挖掘的产品卖点，利用机器学习算法在海量的属性组合方案中，自动输出满足多重约束的最优属性定制方案，辅助企业打造爆款产品\",\"label\":[],\"instruction\":[]}",
+		"id":2032
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"复杂定制\",\"proName\":\"能够对属性数目或属性取值较多的产品进行全新的定制\"},{\"showShade\":false,\"proGood\":\"用户分群\",\"proName\":\"能针对不同细分市场进行个性化定制\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"灵活方便\",\"proName\":\"企业可以生产条件，约束定制新品的价格和品牌等属性，从而进行更加灵活的定制\"}]",
+		"id":2033
+	},
+	{
+		"txt":"[{\"funcName\":\"定制新品\",\"funcContent\":[{\"funcTitle\":\"定制新品\",\"funcP\":\"结合企业生产规划和从数据中挖掘的产品卖点，针对特定的细分市场，通过机器学习算法自动输出最优属性定制方案\"}]},{\"funcName\":\"新品UV转化预估\",\"funcContent\":[{\"funcTitle\":\"新品UV转化预估\",\"funcP\":\"通过对比新品与其所在细分市场所有产品的UV转化效果，输出UV转化得分越高，表明新品在其细分市场竞争力越强\"}]}]",
+		"id":2034
+	},
+	{
+		"txt":"[{\"name\":\"定制新品\",\"instruction\":\"在细分市场中输出最优的产品属性定制方案，辅助企业生产爆款产品\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"产品UV转化评估\",\"instruction\":\"对一款定制新品的UV转化效果进行评估，辅助企业评估新品未来的上市销售情况\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"新品定价\",\"instruction\":\"根据一款新品的各维属性给出合理的价格参考，平衡UV转化与价格之间的关系，辅助企业对新品进行合理定价\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2035
+	}
+]
