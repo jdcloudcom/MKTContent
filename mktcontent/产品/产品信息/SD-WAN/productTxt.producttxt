@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"SD-WAN\",\"label\":[],\"desc\":\"基于SD-WAN控制台、智能接入终端，企业可快速上云。支持端到端的数据连通、统一管理与监控，降低交付成本，帮助企业快速实现业务上线\"}",
+		"id":2052
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"透明运维\",\"proName\":\"SD-WAN终端设备以及链路设置可通过控制台统一进行管理，简单易控。用户可实时查看网络详细情况及管理自己网络节点。\"},{\"showShade\":false,\"proGood\":\"性价比高\",\"proName\":\"通过SD-WAN建立与京东智联云节点的加密通道，可大大减小专线施工的时间成本以及专线费用，以公网的价格享受私网的质量。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"组网灵活\",\"proName\":\"企业只需添加SD-WAN终端设备，即可实现与公有云的连接及总部与分支机构间的组网，更加灵活便捷。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"线路稳定\",\"proName\":\"SD-WAN终端设备可自动寻找两条至京东智联云节点的最优路径作为主备线，可有效保障线路的稳定性。\"}]",
+		"id":2053
+	},
+	{
+		"txt":"[{\"funcName\":\"多元接入选择\",\"funcContent\":[{\"funcTitle\":\"传统互连网络接入\",\"funcP\":\"传统网络运营商，如联通、移动、电信。用户可以根据自身情况选择。\"},{\"funcTitle\":\"移动互连网络接入\",\"funcP\":\"移动网络运营商，如联通、移动、电信的3G\\\\4G\\\\5G网络接入，用户可以根据自身情况选择。\"}]},{\"funcName\":\"配置操作灵活\",\"funcContent\":[{\"funcTitle\":\"自动配置\",\"funcP\":\"用户站点无需手工配置，CPE设备联网后自动从控制器读取配置，无论是初始配置或者配置变更，皆可在控制平台统一操作并下发，可把分支及总部的网络当成一个整体管理。\"},{\"funcTitle\":\"手动配置\",\"funcP\":\"用户手工配置，根据需要配置网络拓扑收敛方式以及组网细节优化。\"}]},{\"funcName\":\"运维管理轻松\",\"funcContent\":[{\"funcTitle\":\"支持用户控制台\",\"funcP\":\"用户可自行登录控制平台配置自己所有站点的LAN/WAN，及每个站点QOS通道的带宽比例并查看网络详细情况，无需登录每台设备单独控制管理，极大简化了网络的运维工作。\"}]}]",
+		"id":2054
+	},
+	{
+		"txt":"[{\"name\":\"企业上云\",\"instruction\":\"企业传统的上云方式是通过专线实现数据中心与公有云之间的互联，但存在最后一公里交付较慢、成本高等问题。京东智联云SD-WAN服务可以解决这些问题。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/914199d1-af05-41a3-869f-7bd30c835e6220200420170156.png\",\"showShade\":false},{\"name\":\"企业组网\",\"instruction\":\"大型集团和连锁企业机构，往往在不同地域分布着众多分支机构，有迫切的组网需求。京东智联云SD-WAN服务支持企业搭建专属网络，分支机构部署SD-WAN设备就近连接京东智联云2个节点完成主备专线接入，显著提高组网效率，降低组网成本。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c9f0ec80-39c2-42fb-9d08-eab03f51def920200420170223.png\",\"showShade\":false}]",
+		"id":2055
+	}
+]
