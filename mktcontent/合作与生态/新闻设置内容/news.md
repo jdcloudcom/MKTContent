@@ -2070,5 +2070,13 @@
 		"jss_key":"News_Content_804",
 		"id":804,
 		"news_title":"京东智联云SCRM 携手赛诺贝斯开启营销新形态"
+	},
+	{
+		"summary":"这是继上月京东智联云品牌升级后推出的第一款智能音箱硬件产品，涵盖多模态人机交互的人工智能黑科技，并全面开放京鱼座生态平台的丰富资源、海量视听内容、贴心的生活服务功能、个性化的智能家居操控等特性，让i8 Pro成为万物互联时代重要的连接节点。",
+		"image_url":"//img1.jcloudcs.com/cms/60a16477-290d-43f0-aee9-6541bbaa8d4d20200421102235.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_808",
+		"jss_key":"News_Content_808",
+		"id":808,
+		"news_title":"京东智联云发布新品京鱼座智能屏i8 Pro  用“万物互联”见证爱的连接"
 	}
 ]
