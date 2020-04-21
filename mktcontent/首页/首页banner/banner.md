@@ -1265,5 +1265,19 @@
 		"id":1224,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"京鱼座活动",
+		"id":1226,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"技术沙龙",
+		"id":1228,
+		"button_title":"",
+		"main_title":""
 	}
 ]
