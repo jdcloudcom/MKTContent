@@ -16,7 +16,9 @@
                             <li><a href="https://www.jdcloud.com/cn/products/iot-edge" target="_blank" clstag="IoT|keycount|subMenu|edge">物联网智能边缘计算</a></li>
                             <li><a href="https://www.jdcloud.com/cn/products/iot-link-service" target="_blank" clstag="IoT|keycount|subMenu|linkService">物联网卡服务</a></li>
                             <li><a href="https://www.jdcloud.com/products/jdwhale-dcs" target="_blank" clstag="IoT|keycount|subMenu|dcs">京鱼座设备池开放</a></li>
-                        </ul>
+							<li><a href="https://www.jdcloud.com/cn/products/rt-thread" target="_blank" clstag="IoT|keycount|subMenu|thread">物联网操作系统</a></li>
+                            <li><a href="https://www.jdcloud.com/cn/products/iov-mobility-service" target="_blank" clstag="IoT|keycount|subMenu|service">车主出行服务</a></li>
+						</ul>
                     </div>
                 </li>
                 <li class="subMenu-link hasChild">
@@ -29,6 +31,10 @@
                             <li><a href="https://www.jdcloud.com/solutions/iov-v2x" target="_blank" clstag="IoT|keycount|subMenu|iovV2x">车路协同</a></li>
                             <li><a href="https://www.jdcloud.com/cn/solutions/community" target="_blank" clstag="IoT|keycount|subMenu|community">智能社区</a></li>
                             <li><a href="https://www.jdcloud.com/solutions/iiot" target="_blank" clstag="IoT|keycount|subMenu|iiot">工业物联</a></li>
+							<li><a href="https://www.jdcloud.com/solutions/starlink " target="_blank" clstag="IoT|keycount|subMenu|starlink">京东星链零售物联平台</a></li>
+                            <li><a href="https://www.jdcloud.com/cn/solutions/commercial-vehicle" target="_blank" clstag="IoT|keycount|subMenu|vehicle">商用车数字车队</a></li>
+                            <li><a href="https://www.jdcloud.com/solutions/iov-telematics-devices" target="_blank" clstag="IoT|keycount|subMenu|devices">车载智能硬件</a></li>
+                            <li><a href="https://www.jdcloud.com/solutions/iov-digital-marketing" target="_blank" clstag="IoT|keycount|subMenu|marketing">车联数字营销</a></li>
                         </ul>
                     </div>
                 </li>
