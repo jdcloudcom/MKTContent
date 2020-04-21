@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"专线互联\",\"label\":[],\"desc\":\"专线互联为用户连接京东智联云智能数据中心平台的各种产品及京东云服务提供高可靠、最优化路径、更安全、更快速的网络传输服务，方便快速打通产品间数据通道。\"}",
+		"id":2048
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"安全性高，私密性强\",\"proName\":\"用户专享数据通道，无数据泄露风险，安全性高，能够满足金融、政企等高安全等级的网络传输需求。\"},{\"showShade\":false,\"proGood\":\"稳定可靠，冗余有保障\",\"proName\":\"网络转发设备均采用分布式集群化部署，全链路高可靠配置，多链路冗余，保证客户应用平稳运行。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高性能，低延迟数据传输\",\"proName\":\"为提供最佳的通信质量，免去网络拥堵或故障绕行带来的时延不稳定困扰。依托于京东智联云健壮的基础设施能力，确保网络体验。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"网络拓扑灵活可变\",\"proName\":\"多数据中心部署、云下数据中心与云上VPC构建融合网络，可通过高速通道轻松实现。\"}]",
+		"id":2049
+	},
+	{
+		"txt":"[{\"funcName\":\"端口规格选择丰富\",\"funcContent\":[{\"funcTitle\":\"物理端口\",\"funcP\":\"用户接入点支持电口，以及各种规格。如100MBase、1GBase、10GBase。\"},{\"funcTitle\":\"物理光口\",\"funcP\":\"用户接入点支持光口，以及各种规格。如10GBase、40GBase、100GBase。还支持多端口组合捆绑使用。\"}]},{\"funcName\":\"业务场景覆盖全面\",\"funcContent\":[{\"funcTitle\":\"上云业务\",\"funcP\":\"接入后可访问京东智联云托管区、京东智联云物理云、京东智联云公有云等各种京东智联云资源。\"},{\"funcTitle\":\"异地容灾业务\",\"funcP\":\"支持京东智联云资源的跨区高速数据传输业务。\"}]},{\"funcName\":\"更多配置选择\",\"funcContent\":[{\"funcTitle\":\"支持多种封装协议\",\"funcP\":\"封装协议支持有802.1Q、802.1AD、UnTag 可供选择，用户可根据需要选择。\"}]}]",
+		"id":2050
+	},
+	{
+		"txt":"[{\"name\":\"托管区与数据中心互联\",\"instruction\":\"打通用户托管数据中心与京东智联云托管区，使用户业务从单数据中心向多数据中心发展，消灭单点问题，规避单数据中心故障带来的风险。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2b43c07f-c226-4a69-86f0-a5b83df0c27c20200420145153.png\",\"showShade\":false},{\"name\":\"托管区与物理云互联\",\"instruction\":\"快速打通京东智联云托管服务与京东物理云，对于需要业务扩容的场景，满足用户弹性扩容及快速部署业务，在业务高峰期，可以通过京东物理云作为弹性扩容手段，同时可以满足业务备份及容灾部署的需求。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0964ca59-e431-43ac-9d1e-d39d547d471c20200420145229.png\",\"showShade\":false}]",
+		"id":2051
+	}
+]
