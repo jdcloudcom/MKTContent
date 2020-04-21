@@ -2236,5 +2236,65 @@
 		"summary":"",
 		"name":"云搜索 Elasticsearch",
 		"id":3585
+	},
+	{
+		"summary":"",
+		"name":"京东智联云 App",
+		"id":3587
+	},
+	{
+		"summary":"",
+		"name":"语音合成-精品音库",
+		"id":3588
+	},
+	{
+		"summary":"",
+		"name":"驾驶证识别",
+		"id":3589
+	},
+	{
+		"summary":"",
+		"name":"车牌识别",
+		"id":3590
+	},
+	{
+		"summary":"",
+		"name":"词向量",
+		"id":3591
+	},
+	{
+		"summary":"",
+		"name":"词义相似度",
+		"id":3592
+	},
+	{
+		"summary":"",
+		"name":"智能分诊",
+		"id":3593
+	},
+	{
+		"summary":"",
+		"name":"新品定制",
+		"id":3594
+	},
+	{
+		"summary":"",
+		"name":"老品升级",
+		"id":3595
+	},
+	{
+		"summary":"",
+		"name":"细分市场划分",
+		"id":3596
+	},
+	{
+		"summary":"",
+		"name":"品牌竞争力分析",
+		"id":3597
+	},
+	{
+		"summary":"",
+		"name":"智能写作",
+		"id":3598
 	}
 ]
