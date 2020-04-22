@@ -1279,5 +1279,12 @@
 		"id":1228,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"京东小程序推广",
+		"id":1230,
+		"button_title":"",
+		"main_title":""
 	}
 ]
