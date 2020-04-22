@@ -142,5 +142,13 @@
 		"id":660,
 		"partner_label":"产品方案伙伴",
 		"tableName":"cms_partner"
+	},
+	{
+		"name":"北京神州数码云计算有限公司",
+		"description":"神州数码，是中国最大的IT分销商、增值分销商，当前转型云服务提供商，和京东智联云发力toB市场的用意不谋而合。",
+		"short_name":"神州数码云计算",
+		"id":661,
+		"partner_label":"分销渠道伙伴",
+		"tableName":"cms_partner"
 	}
 ]
