@@ -1,22 +1,17 @@
 [
 	{
-		"partner_type":"Solution Provider",
-		"description":"System integration, industry solutions, consulting services, custom development, hybrid cloud solutions, etc.",
+		"partner_type":"Product Solution Partner",
+		"description":"Based on full-stack product service capacities of JD Cloud & AI, cloud applications of intelligent innovations are created in combination with SI, ISV and others to application scenarios in the vertical industries.",
 		"id":1
 	},
 	{
-		"partner_type":"Software Developer",
-		"description":"Providing cloud-based business application systems, ERP, OA, collaborative office, e-commerce management, cloud service tools, etc.",
-		"id":2
-	},
-	{
-		"partner_type":"Cloud Service Provider",
-		"description":"Providing cloud services such as operation and maintenance services, data migration, cloud services, and program management",
+		"partner_type":"Service Delivery Partner",
+		"description":"With delivery capacities of JD Cloud & AI’s products or services, businesses and applications are designed, built, set up, migrated and managed on JD Cloud & AI for customers.",
 		"id":3
 	},
 	{
-		"partner_type":"Sales Agent",
-		"description":"Authorized by JD Cloud to provide sales, display, consultation, services, solution and other products of JD Cloud.",
+		"partner_type":"Distribution Channel Partner",
+		"description":"Work with JD Cloud & AI to develop the market, and provide customers with sales service for all products of JD Cloud & AI.",
 		"id":4
 	},
 	{
@@ -33,5 +28,10 @@
 		"partner_type":"Platinum",
 		"description":"Platinum-level member",
 		"id":7
+	},
+	{
+		"partner_type":"Cloud Marketplace Partner",
+		"description":"The Cloud Marketplace of JD Cloud & AI, serving as the gateway connecting service providers and customers, is a technology-driven one-stop IT service trading platform for enterprises.",
+		"id":93
 	}
 ]

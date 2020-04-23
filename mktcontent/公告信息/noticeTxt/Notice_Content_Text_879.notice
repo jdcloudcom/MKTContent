@@ -1,0 +1,28 @@
+<p>Recently, the Security Team of JD Cloud has monitored that IBM officially release its security update announcement, disclosing that the application WebSphere Application Server has high-risk command execution vulnerabilities (CVE-2020-4276 and CVE-2020-4362). Attacks can be executed via remote codes by taking advantages of the vulnerabilities. Please update and fix these vulnerabilities in time to avoid intrusion by external attackers.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Description]</strong></p>
+<p><br/></p>
+<p>WebSphere Application Server, a high-performance Java middleware developed by IBM, can be used for building, running, integrating, protecting, managing and deploying dynamic clouds and Web applications.</p>
+<p>Two disclosed vulnerabilities, No.: CVE-2020-4276 and CVE-2020-4362, have existed in the service of WebSphere SOAP Connector. The remote and unauthorized attackers can execute any malicious codes at the target server and obtain system permissions by taking advantages of the vulnerabilities.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Rating]</strong></p>
+<p><br/></p>
+<p>High Risk</p>
+<p><br/></p>
+<p><strong>[Affected Version]</strong></p>
+<p><br/></p>
+<p>WebSphere Application Server 9.0.x</p>
+<p>WebSphere Application Server 8.5.x</p>
+<p>WebSphere Application Server 8.0.x</p>
+<p>WebSphere Application Server 7.0.x</p>
+<p><br/></p>
+<p><strong>[Fix Recommendation]</strong></p>
+<p><br/></p>
+<p>1. By configuring Security Group, the service of WebSphere SOAP Connector is forbidden to be opened (the default port is 8880)</p>
+<p>2. Update WebSphere Application Server to the latest version and install corresponding security patches PH21511 and PH23853</p>
+<p><br/></p>
+<p><strong>[Relevant Links]</strong></p>
+<p><br/></p>
+<p><a href="https://www.ibm.com/support/pages/node/6118222" target="_blank" title="https://www.ibm.com/support/pages/node/6118222">https://www.ibm.com/support/pages/node/6118222</a></p>
+<p><a href="https://www.ibm.com/support/pages/node/6174417" target="_blank" title="https://www.ibm.com/support/pages/node/6174417">https://www.ibm.com/support/pages/node/6174417</a></p>
+<p><br/></p>

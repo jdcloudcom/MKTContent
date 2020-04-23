@@ -782,5 +782,13 @@
 	{
 		"id":876,
 		"title":"\\[cn-north-1\\] Suspension Notice on Kubernetes Console and OpenAPI Service at 22:00 on April 7"
+	},
+	{
+		"id":878,
+		"title":"\\[cn-east-2\\] The Telecom Operator will make relevant network operation and maintenance to the segments 116.198.160.0/22 from 00:00 to 01:30 on April 14"
+	},
+	{
+		"id":879,
+		"title":"\\[Vulnerability Warning\\] WebSphere Emote Code Execution Vulnerability (CVE-2020-4276 and CVE-2020-4362)"
 	}
 ]

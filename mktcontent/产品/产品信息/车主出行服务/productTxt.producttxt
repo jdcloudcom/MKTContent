@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Car Owner Travel Service\",\"label\":[{\"TitleName\":\"Solution Consultation\",\"TitleUrl\":\"https://www.jdcloud.com/en/forms/consultation\",\"classTag\":\"\"},{\"TitleName\":\"Click to Buy\",\"TitleUrl\":\"http://iovmobilityservice-console.jdcloud.com/car/app\",\"classTag\":\"\"}],\"desc\":\"The Car Owner Travel Service Platform of JD Cloud & AI integrates quality ecological services of JD Group, such as intelligent maintenance, rescue and car washing. Meanwhile, based on perception information such as LBS, car body sensor and time-space, it creates intelligent living scenarios and commits to making the user enjoy daily interconnected lifestyle while driving.\"}",
+		"id":1958
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Scenario Pushing\",\"proName\":\"Based on perception information such as LBS, space-time and weather, it can realize automatic wake-up or notification and create the intelligent scenario service of \\\"searching people by service\\\"\"},{\"showShade\":false,\"proGood\":\"Quality Service\",\"proName\":\"Integrate JD Group’s quality ecological services such as JD Rescue, Car Washing, Front-mounted ETC, Oil Discount, Violation Search, Oil Card Recharging, Life & Travel, Vehicle Insurance, etc.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Standard API\",\"proName\":\"It provides standard API documents, facilitating quick access of service\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Data Setting\",\"proName\":\"Vehicle data can be automatically gotten via TSP of automobile enterprises\"}]",
+		"id":1959
+	},
+	{
+		"txt":"[{\"funcName\":\"Intelligent Maintenance\",\"funcContent\":[{\"funcTitle\":\"Maintenance Searching the People\",\"funcP\":\"Connect with automobile enterprise clouds, realize intelligent match and precise recommendation for maintenance products via vehicle-detection data and environment data and support authorized service systems of full guide OEM.\"}]},{\"funcName\":\"Car Washing\",\"funcContent\":[{\"funcTitle\":\"Enjoy high-quality car washing service\",\"funcP\":\"Have 12,000 cooperation stores and provide quality guarantee via the JCH stores. The Car Washing service provides precision push and adopts the simple and convenient method of in-vehicle appointment and in-store write off\"}]},{\"funcName\":\"Rescue\",\"funcContent\":[{\"funcTitle\":\"Road Rescue, Second-level Delivery\",\"funcP\":\"Provide overall coverage of 800+ professional rescue companies in cities as well as 2800+ professional repair plants in counties, guaranteeing rescue in remote villages and towns. Support charging, car towing and tire repair and support rapid audio initialization for rescue and automatic positioning, shortening interaction process.\"}]}]",
+		"id":1960
+	}
+]

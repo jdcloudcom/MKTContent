@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Artifact Repository\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/en/public/testApply/artifacts\",\"classTag\":\"\"}],\"desc\":\"Manage functions such as built artifacts after source code compilation, version control in coordination with source codes, provision of compilation dependency and product storage. Form a continuous delivery tool chain in combination with CodeBuild and CodeDeploy.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Artifact Repository\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://artifacts-console.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"Manage functions such as built artifacts after source code compilation, version control in coordination with source codes, provision of compilation dependency and product storage. Form a continuous delivery tool chain in combination with CodeBuild and CodeDeploy.\"}",
 		"id":1538
 	},
 	{

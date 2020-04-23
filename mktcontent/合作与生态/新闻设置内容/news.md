@@ -1878,5 +1878,37 @@
 		"jss_key":"News_Content_800",
 		"id":800,
 		"news_title":"White Paper of JD Cloud & AI on Proprietary Cloud JD Cloud Stack Product is Released to Improve \"New Infrastructure\""
+	},
+	{
+		"summary":"To solve problems of self-built edge infrastructure problems, JD Cloud & AI, based on research and development capacity of the mature product Public Cloud Computation and supported by the infrastructure delivery as well as DevOps service capacity of its core data centers, expands its computing power to the Edge Computation nodes and proposes the product portfolio Edge Computation in the \"Edge Cloud\" state, including \"Edge Physical Computing Service\" stressed on manual-customization delivery and \"Distributed Cloud Physical Server\" mainly featured by automatic and flexible delivery.",
+		"image_url":"//img1.jcloudcs.com/cms/8ae8ac7e-63a9-4433-a495-27689afe4d4320200410154032.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_801",
+		"jss_key":"News_Content_801",
+		"id":801,
+		"news_title":"JD Cloud & AI launches the product portfolio of Edge Computing, solving the difficulties of building edge infrastructures by enterprises themselves"
+	},
+	{
+		"summary":"Recently, the product Consumer Insight &Analysis (JD Cloud & AI Consumer Cognition and Insight), jointly created by JD Cloud & AI and AddNewer, has been released to the enterprise customers, aiming at help enterprises improve their respective brand efficiency via data intelligence.",
+		"image_url":"//img1.jcloudcs.com/cms/b1febce6-51e0-4fe7-94d8-a11795aa9b7b20200410205321.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_802",
+		"jss_key":"News_Content_802",
+		"id":802,
+		"news_title":"Provide all-around connection to brands and users: JD Cloud & AI works with AddNewer on accelerating intelligent marketing"
+	},
+	{
+		"summary":"With comprehensive advantages such as solid technical background, excellent market performance and good customer comments, JD Cloud & AI has gotten into many important subdivisions of the overall market. It has ranked the top in market subdivisions such as Cloud Application Security, Cloud Native Security, Situation Awareness, Content Security, Safe DevOps service Security and Safe Conference, covering 5 major fields in an overall way, including cloud security, intelligent security, business security, blockchain security and security service.",
+		"image_url":"//img1.jcloudcs.com/cms/31fa575b-b1ad-48f0-ad13-5876d0d8215120200414152749.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_803",
+		"jss_key":"News_Content_803",
+		"id":803,
+		"news_title":"Release of the Panorama of Network Security Industry in China, JD Cloud & AI entering 5 major fields"
+	},
+	{
+		"summary":"JD Cloud & AI SCRM not only can provide individual precision marketing to different users with massive big data tags, but also can perform effective interaction with fans and precisely run WeChat private traffic for brand owners. Via methods of JD beans and coupons, it helps social fission, attracts new customers, digs out potential customers, promotes conversion and improves sales volume.",
+		"image_url":"//img1.jcloudcs.com/cms/22cb8d19-74ac-4c10-ba39-b6d82a38b8ca20200415102820.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_804",
+		"jss_key":"News_Content_804",
+		"id":804,
+		"news_title":"JD Cloud & AI SCRM works with SINObase to enable the new marketing form"
 	}
 ]

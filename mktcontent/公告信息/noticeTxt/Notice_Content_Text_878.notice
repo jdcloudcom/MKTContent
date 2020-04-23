@@ -1,0 +1,64 @@
+<p style="text-align:justify"><span style="font-size:14px"></span>
+</p>
+<p style="text-align:justify"><span style="font-size:14px;font-family:等线">&nbsp;</span>
+</p>
+<p style="margin-left:16px;text-align:justify">
+<span style="font-size:14px;font-family:等线">
+From 00:00:00 to 01:30:00 on April 14 (Tuesday), the Shanghai Telecom Operator is to conduct network operation and maintenance and adjust routing broadcasting of relevant segments 116.198.160.0/22 of JD Cloud & AI in [cn-east-2]. The operation and maintenance shall have no influence to the users’ businesses in relevant segments in normal conditions, but in case of extreme conditions, the access of the Elastic IP of these segments to Telecom may be interrupted for about 5 minutes. Details are as follows:
+</span>
+</p>
+<p style="text-align:justify"><span style="font-size:14px;font-family:等线">&nbsp;</span>
+</p>
+<p style="margin-left:32px">
+<span style="font-size:14px">Business scope: JD Cloud & AI</span>
+</p>
+<p style="margin-left:32px">
+<span style="font-size:14px">
+Adjustment time: 00:00:00-01:30:00 (before dawn of Tuesday), April 14, 2020
+</span>
+</p>
+<p style="margin-left:32px">
+<span style="font-size:14px">
+Reason for adjustment: Broadcasting adjustment to segments of Shanghai Telecom Operator
+</span>
+</p>
+<p style="margin-left:32px"><span style="font-size:14px">
+Products affected include: Virtual Machines, Native Container, Pod, JCS for Kubernetes, NAT Gateway, Load Balancer, Database, JD WorkSpaces, JD MapReduce and other products using the Public IP service
+</span>
+</p>
+<p style="margin-left:32px"><span style="font-size:14px">
+The influence ranges include: Public IP of segments in 116.198.160.0/22, access of its associated products to Telecom in [cn-east-2]
+</span>
+</p>
+<p style="margin-left:32px"><span style="font-size:14px;color:blue">Period of influence:</span>
+</p>
+<p style="margin-left:70px;text-align:justify">
+<span style="font-size:14px;font-family:Wingdings;color:blue">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-size:14px;color:blue">Normal condition:</span>
+<span style="font-size:14px;font-family:&#39;\.AppleSystemUIFont&#39;;color:blue">116.198.160.0/22</span>
+<span style="font-size:14px;color:blue">
+No influence to segment business<strong></strong>
+</span>
+</p>
+<p style="margin-left:70px;text-align:justify"><span style="font-size:14px;font-family:Wingdings;color:blue">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-size:14px;color:blue">Extreme exception situation:</span>
+<span style="font-size:14px;font-family:&#39;\.AppleSystemUIFont&#39;;color:blue">116.198.160.0/22</span>
+<span style="font-size:14px;color:blue">
+The access of segment to Telecom is interrupted and if there is any failure, the Operator shall provide 5-minute rollback
+</span>
+</p>
+<p style="text-align:justify"><span style="font-size:14px;font-family:等线">&nbsp;</span>
+</p>
+<p style="text-align:justify;text-indent:28px">
+<span style="font-size:14px;color:red">
+During operation and maintenance by the above Telecom Operator, normal operation of JD Cloud & AI’s Console and OpenAPI will not be affected.
+</span>
+</p>
+<p style="text-align:justify;text-indent:28px">
+<span style="font-size:14px">
+If you have relevant questions during the operation and maintenance, please contact JD Cloud & AI customer service personnel at any time (Tel: 4006151212). Thank you for your support to JD Cloud & AI.
+</span>
+</p>
+<p><br/></p>
