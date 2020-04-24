@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"银行卡识别\",\"desc\":\"基于业界领先的深度学习技术，识别银行卡号，银行名称等关键字段，准确可靠\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"银行卡识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/ocr-for-bank-card\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的深度学习技术，识别银行卡号，银行名称等关键字段，准确可靠\"}",
 		"id":1061
 	},
 	{
