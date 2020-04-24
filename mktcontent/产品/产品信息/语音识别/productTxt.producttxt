@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"语音识别\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/voice/automatic-speech-recognition\",\"classTag\":\"\"}],\"desc\":\"将语音转成文字。支持多场景识别，为零售、客服、金融等场景提供语音解决方案\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"语音识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/voice/automatic-speech-recognition\",\"classTag\":\"\"}],\"desc\":\"将语音转成文字。支持多场景识别，为零售、客服、金融等场景提供语音解决方案\"}",
 		"id":1001
 	},
 	{
