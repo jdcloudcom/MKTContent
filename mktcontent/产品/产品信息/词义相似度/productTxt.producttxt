@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"词义相似度\",\"desc\":\"根据输入的两个词语，计算两个词语的相似度，相似度越大的两个词在词义上越相似\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"词义相似度\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/word-embedding-similarity\",\"classTag\":\"\"}],\"desc\":\"根据输入的两个词语，计算两个词语的相似度，相似度越大的两个词在词义上越相似\"}",
 		"id":2024
 	},
 	{
