@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"声纹识别\",\"desc\":\"依托京东自研的声纹识别技术，实现声纹注册和声纹1:1对比验证服务，对说话人的声波特征进行提取和验证辨识\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"声纹识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/voiceprint-recognition\",\"classTag\":\"\"}],\"desc\":\"依托京东自研的声纹识别技术，实现声纹注册和声纹1:1对比验证服务，对说话人的声波特征进行提取和验证辨识\"}",
 		"id":1896
 	},
 	{
