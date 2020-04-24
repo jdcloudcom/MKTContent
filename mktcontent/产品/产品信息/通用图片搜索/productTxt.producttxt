@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"通用图片搜索\",\"desc\":\"基于京东相关业务数亿级图片数据训练模型，支持自定义商品图图库，可在各种场景下图库中搜索相同或者相似的图片\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"通用图片搜索\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/image-search-engine-incoming\",\"classTag\":\"\"}],\"desc\":\"基于京东相关业务数亿级图片数据训练模型，支持自定义商品图图库，可在各种场景下图库中搜索相同或者相似的图片\"}",
 		"id":1908
 	},
 	{
