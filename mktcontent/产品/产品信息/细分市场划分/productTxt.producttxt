@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"细分市场划分\",\"label\":[],\"desc\":\"使用先进的AI技术对某品类下的市场进行细分，并结合京东零售的流量、销售和市场反馈数据，对细分市场进行分析\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"细分市场划分\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ml/segmented-market-analysis\",\"classTag\":\"\"}],\"desc\":\"使用先进的AI技术对某品类下的市场进行细分，并结合京东零售的流量、销售和市场反馈数据，对细分市场进行分析\"}",
 		"id":2056
 	},
 	{
