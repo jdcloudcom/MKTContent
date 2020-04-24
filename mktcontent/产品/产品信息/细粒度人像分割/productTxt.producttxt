@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"细粒度人像分割\",\"desc\":\"根据图片中的人体进行像素级识别，可识别出帽子，头发，上衣，袜子，裤子，围巾，裙子，脸，左右手臂，左右腿，左右鞋等20个类别\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"细粒度人像分割\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/body/fine-grained-portrait-segmentation\",\"classTag\":\"\"}],\"desc\":\"根据图片中的人体进行像素级识别，可识别出帽子，头发，上衣，袜子，裤子，围巾，裙子，脸，左右手臂，左右腿，左右鞋等20个类别\"}",
 		"id":1900
 	},
 	{
