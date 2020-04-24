@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"人脸对比\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/face/face-compare\",\"classTag\":\"\"}],\"desc\":\"基于人的脸部特征信息，计算两张脸的相似程度，并返回相似度评分，判断两者是否为同一个人\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"人脸对比\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/face/face-compare\",\"classTag\":\"\"}],\"desc\":\"基于人的脸部特征信息，计算两张脸的相似程度，并返回相似度评分，判断两者是否为同一个人\"}",
 		"id":1009
 	},
 	{
