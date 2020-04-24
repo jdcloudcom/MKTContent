@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"智能写作\",\"desc\":\"基于自然语言处理和知识图谱技术，智能挖掘商品营销卖点，提供标题、短文等题材营销内容智能写作服务，全面提升内容创作效率和营销效果\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"智能写作\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/intelligent-creation\",\"classTag\":\"\"}],\"desc\":\"基于自然语言处理和知识图谱技术，智能挖掘商品营销卖点，提供标题、短文等题材营销内容智能写作服务，全面提升内容创作效率和营销效果\"}",
 		"id":2016
 	},
 	{
