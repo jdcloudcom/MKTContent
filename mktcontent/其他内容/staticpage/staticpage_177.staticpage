@@ -1,364 +1,382 @@
 <body class="jdc-rwd">
-<div class="subMenu-box">
-    <h2>人工智能NeuHub</h2>
-    <div class="subMenu-level1">
-        <ul>
-            <li class="subMenu-link hasChild fullDrop">
-                <a href="javascript:;" class="drop-link">产品与服务</a>
-                <div class="subMenu-drop-box">
-                    <ul class="subDropMenu">
-                        <li>
-                            <h3>语音技术</h3>
-                            <div>
-                                <ul>
-                                    <li><a href="//www.jdcloud.com/cn/products/automatic-speech-recognition"
-                                           target="_blank" clstag="AIChannel|keycount|Header|automaticSpeechRecognition">语音识别<span class="tag tag-test">公测中</span>
+<div class="subMenu-fix">
+    <div class="subMenu-box">
+        <h2>人工智能NeuHub</h2>
+        <div class="subMenu-level1">
+            <ul>
+                <li class="subMenu-link hasChild fullDrop">
+                    <a href="javascript:;" class="drop-link">产品与服务</a>
+                    <div class="subMenu-drop-box">
+                        <ul class="subDropMenu">
+                            <li>
+                                <h3>AI平台服务</h3>
+                                <div>
+                                    <ul>
+                                        <li><a href="https://neufoundry.jdcloud.com/"
+                                               target="_blank" clstag="AIChannel|keycount|Header|neufoundry">NeuFoundry一站式AI开发平台</a></li>
+                                        </ul>
+                                </div>
+                                <h3>语音技术</h3>
+                                <div>
+                                    <ul>
+                                        <li><a href="//www.jdcloud.com/cn/products/automatic-speech-recognition"
+                                               target="_blank" clstag="AIChannel|keycount|Header|automaticSpeechRecognition">语音识别</a></li>
+                                        <li><a href="//www.jdcloud.com/cn/products/text-to-speech"
+                                               target="_blank" clstag="AIChannel|keycount|Header|text-to-speech">语音合成-基础音库</a></li>
+                                        <li><a href="//www.jdcloud.com/cn/products/text-to-speech-high-quality"
+                                               target="_blank" clstag="AIChannel|keycount|Header|text-to-speech-high-quality">语音合成-精品音库</a></li>
+                                        <li><a href="//www.jdcloud.com/cn/products/voiceprint-recognition"
+                                               target="_blank" clstag="AIChannel|keycount|Header|voiceprintRecognition">声纹识别</a></li>
+                                    </ul>
+                                </div>
+                                <h3>智能城市 AI</h3>
+                                <div>
+                                    <ul>
+                                        <li><a target="_blank" data-ga="TopNavSec_人流量缺失值填补"
+                                               clstag="AIChannel|keycount|Header|DataFillingForHumanFlowrate"
+                                               href="//www.jdcloud.com/cn/products/data-filling-for-human-flowrate">人流量缺失值填补<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a href="//www.jdcloud.com/cn/products/text-to-speech"
-                                           target="_blank" clstag="AIChannel|keycount|Header|textToSpeech">语音合成<span class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_空气质量缺失值填补"
+                                               clstag="AIChannel|keycount|Header|DataFillingForAirQuality"
+                                               href="//www.jdcloud.com/cn/products/data-filling-for-air-quality">空气质量缺失值填补<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a href="//www.jdcloud.com/cn/products/voiceprint-recognition"
-                                           target="_blank" clstag="AIChannel|keycount|Header|voiceprintRecognition">声纹识别<span class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_空气质量预测"
+                                               clstag="AIChannel|keycount|Header|AirQualityPrediction"
+                                               href="//www.jdcloud.com/cn/products/air-quality-prediction">空气质量预测<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                </ul>
-                            </div>
-                            <h3>智能城市 AI</h3>
-                            <div>
-                                <ul>
-                                    <li><a target="_blank" data-ga="TopNavSec_人流量缺失值填补"
-                                           clstag="AIChannel|keycount|Header|DataFillingForHumanFlowrate"
-                                           href="//www.jdcloud.com/cn/products/data-filling-for-human-flowrate">人流量缺失值填补<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_订单流量预测"
+                                               clstag="AIChannel|keycount|Header|Order Flowrate Prediction"
+                                               href="//www.jdcloud.com/cn/products/order-flowrate-prediction">订单流量预测<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_空气质量缺失值填补"
-                                           clstag="AIChannel|keycount|Header|DataFillingForAirQuality"
-                                           href="//www.jdcloud.com/cn/products/data-filling-for-air-quality">空气质量缺失值填补<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_水质量预测"
+                                               clstag="AIChannel|keycount|Header|Water Quality Prediction"
+                                               href="//www.jdcloud.com/cn/products/water-quality-prediction">水质量预测<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_空气质量预测"
-                                           clstag="AIChannel|keycount|Header|AirQualityPrediction"
-                                           href="//www.jdcloud.com/cn/products/air-quality-prediction">空气质量预测<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_车流量缺失值填补"
+                                               clstag="AIChannel|keycount|Header|Data Filling For Vehicle Flowrate"
+                                               href="//www.jdcloud.com/cn/products/data-filling-for-vehicle-flowrate">车流量缺失值填补<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_订单流量预测"
-                                           clstag="AIChannel|keycount|Header|Order Flowrate Prediction"
-                                           href="//www.jdcloud.com/cn/products/order-flowrate-prediction">订单流量预测<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_企业风险预警模型" clstag="AIChannel|keycount|Header|Company Risk Model"
+                                               href="//www.jdcloud.com/cn/products/company-risk-model">企业风险预警模型<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_水质量预测"
-                                           clstag="AIChannel|keycount|Header|Water Quality Prediction"
-                                           href="//www.jdcloud.com/cn/products/water-quality-prediction">水质量预测<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_人流量预测"
+                                               clstag="AIChannel|keycount|Header|Human Flowrate Prediction"
+                                               href="//www.jdcloud.com/cn/products/human-flowrate-prediction">人流量预测<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_车流量缺失值填补"
-                                           clstag="AIChannel|keycount|Header|Data Filling For Vehicle Flowrate"
-                                           href="//www.jdcloud.com/cn/products/data-filling-for-vehicle-flowrate">车流量缺失值填补<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_路径通行时间预测"
+                                               clstag="AIChannel|keycount|Header|Travel Time Prediction"
+                                               href="//www.jdcloud.com/cn/products/travel-time-prediction">路径通行时间预测<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_企业风险预警模型" clstag="AIChannel|keycount|Header|Company Risk Model"
-                                           href="//www.jdcloud.com/cn/products/company-risk-model">企业风险预警模型<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_门店营收预测"
+                                               clstag="AIChannel|keycount|Header|Store Revenue Prediction"
+                                               href="//www.jdcloud.com/cn/products/store-revenue-prediction">门店营收预测<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_人流量预测"
-                                           clstag="AIChannel|keycount|Header|Human Flowrate Prediction"
-                                           href="//www.jdcloud.com/cn/products/human-flowrate-prediction">人流量预测<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_客源地预测模型"
+                                               clstag="AIChannel|keycount|Header|Customer Source Model"
+                                               href="//www.jdcloud.com/cn/products/lcustomer-source-model">客源地预测模型<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_路径通行时间预测"
-                                           clstag="AIChannel|keycount|Header|Travel Time Prediction"
-                                           href="//www.jdcloud.com/cn/products/travel-time-prediction">路径通行时间预测<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_车流量预测"
+                                               clstag="AIChannel|keycount|Header|Vehicle Flowrate Prediction"
+                                               href="//www.jdcloud.com/cn/products/vehicle-flowrate-prediction">车流量预测<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_门店营收预测"
-                                           clstag="AIChannel|keycount|Header|Store Revenue Prediction"
-                                           href="//www.jdcloud.com/cn/products/store-revenue-prediction">门店营收预测<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_水质量缺失值填补"
+                                               clstag="AIChannel|keycount|Header|Data Filling For Water Quality"
+                                               href="//www.jdcloud.com/cn/products/data-filling-for-water-quality">水质量缺失值填补<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_客源地预测模型"
-                                           clstag="AIChannel|keycount|Header|Customer Source Model"
-                                           href="//www.jdcloud.com/cn/products/lcustomer-source-model">客源地预测模型<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_火灾风险推断模型" clstag="AIChannel|keycount|Header|Fire Risk Model"
+                                               href="//www.jdcloud.com/cn/products/fire-risk-model">火灾风险推断模型<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_车流量预测"
-                                           clstag="AIChannel|keycount|Header|Vehicle Flowrate Prediction"
-                                           href="//www.jdcloud.com/cn/products/vehicle-flowrate-prediction">车流量预测<span
-                                            class="tag tag-test">公测中</span>
+                                        <li><a target="_blank" data-ga="TopNavSec_门店选址评分"
+                                               clstag="AIChannel|keycount|Header|Site Selection Ranking"
+                                               href="//www.jdcloud.com/cn/products/site-selection-ranking">门店选址评分<span
+                                                class="tag tag-test">公测中</span>
 </a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_水质量缺失值填补"
-                                           clstag="AIChannel|keycount|Header|Data Filling For Water Quality"
-                                           href="//www.jdcloud.com/cn/products/data-filling-for-water-quality">水质量缺失值填补<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_火灾风险推断模型" clstag="AIChannel|keycount|Header|Fire Risk Model"
-                                           href="//www.jdcloud.com/cn/products/fire-risk-model">火灾风险推断模型<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_门店选址评分"
-                                           clstag="AIChannel|keycount|Header|Site Selection Ranking"
-                                           href="//www.jdcloud.com/cn/products/site-selection-ranking">门店选址评分<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li>
-                            <h3>人脸识别</h3>
-                            <div>
-                                <ul>
-                                    <li><a target="_blank" data-ga="TopNavSec_人脸对比"
-                                           clstag="AIChannel|keycount|Header|FaceCompare"
-                                           href="//www.jdcloud.com/cn/products/face-compare">人脸对比<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_人脸搜索"
-                                           clstag="Header|keycount|TopNavSecProductJDAIFaceRecognitiony|FaceSearch"
-                                           href="//www.jdcloud.com/cn/products/face-search">人脸搜索<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_人脸检测与属性分析"
-                                           clstag="AIChannel|keycount|Header|FaceDetectandAnalysis"
-                                           href="//www.jdcloud.com/cn/products/face-detect-and-analysis">人脸检测与属性分析<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_人脸活体检测"
-                                           clstag="AIChannel|keycount|Header|FaceAnti-spoofing"
-                                           href="//www.jdcloud.com/cn/products/face-anti-spoofing">人脸活体检测<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_自拍人像抠图"
-                                           clstag="AIChannel|keycount|Header|SelfieSegmentation"
-                                           href="//www.jdcloud.com/cn/products/selfie-segmentation">自拍人像抠图<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_人脸口罩识别"
-                                           clstag="AIChannel|keycount|Header|faceMskRecognition"
-                                           href="//www.jdcloud.com/cn/products/face-mask-recognition">人脸口罩识别<span class="tag tag-test">公测中</span>
-</a></li>
-                                </ul>
-                            </div>
-                            <h3>图像理解</h3>
-                            <div>
-                                <ul>
-                                    <li><a target="_blank" data-ga="TopNavSec_特定人物识别"
-                                           clstag="AIChannel|keycount|Header|SpecificSubjectFaceRecognition"
-                                           href="//www.jdcloud.com/cn/products/specific-subject-face-recognition">特定人物识别<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_拍照购"
-                                           clstag="AIChannel|keycount|Header|SnapShop"
-                                           href="//www.jdcloud.com/cn/products/snap-shop">拍照购<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_智能鉴黄"
-                                           clstag="AIChannel|keycount|Header|ImageAntipornRecognize"
-                                           href="//www.jdcloud.com/cn/products/image-antiporn-recognize">智能鉴黄<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_菜品识别"
-                                           clstag="AIChannel|keycount|Header|FoodRecognition"
-                                           href="//www.jdcloud.com/cn/products/food-recognition">菜品识别<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <h3>人脸识别</h3>
+                                <div>
+                                    <ul>
+                                        <li><a target="_blank" data-ga="TopNavSec_人脸对比"
+                                               clstag="AIChannel|keycount|Header|FaceCompare"
+                                               href="//www.jdcloud.com/cn/products/face-compare">人脸对比</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_人脸搜索"
+                                               clstag="Header|keycount|TopNavSecProductJDAIFaceRecognitiony|FaceSearch"
+                                               href="//www.jdcloud.com/cn/products/face-search">人脸搜索</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_人脸检测与属性分析"
+                                               clstag="AIChannel|keycount|Header|FaceDetectandAnalysis"
+                                               href="//www.jdcloud.com/cn/products/face-detect-and-analysis">人脸检测与属性分析</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_人脸活体检测"
+                                               clstag="AIChannel|keycount|Header|FaceAnti-spoofing"
+                                               href="//www.jdcloud.com/cn/products/face-anti-spoofing">人脸活体检测</a></li>
+<!--                                        <li><a target="_blank" data-ga="TopNavSec_自拍人像抠图"-->
+<!--                                               clstag="AIChannel|keycount|Header|SelfieSegmentation"-->
+<!--                                               href="//www.jdcloud.com/cn/products/selfie-segmentation">自拍人像抠图</a></li>-->
+                                        <li><a target="_blank" data-ga="TopNavSec_人脸口罩识别"
+                                               clstag="AIChannel|keycount|Header|faceMskRecognition"
+                                               href="//www.jdcloud.com/cn/products/face-mask-recognition">人脸口罩识别</a></li>
+                                    </ul>
+                                </div>
+                                <h3>图像理解</h3>
+                                <div>
+                                    <ul>
+                                        <li><a target="_blank" data-ga="TopNavSec_车辆检测"
+                                               clstag="AIChannel|keycount|Header|vehicle-detection"
+                                               href="//www.jdcloud.com/cn/products/vehicle-detection">车辆检测</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_特定人物识别"
+                                               clstag="AIChannel|keycount|Header|SpecificSubjectFaceRecognition"
+                                               href="//www.jdcloud.com/cn/products/specific-subject-face-recognition">特定人物识别</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_拍照购"
+                                               clstag="AIChannel|keycount|Header|SnapShop"
+                                               href="//www.jdcloud.com/cn/products/snap-shop">拍照购</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能鉴黄"
+                                               clstag="AIChannel|keycount|Header|ImageAntipornRecognize"
+                                               href="//www.jdcloud.com/cn/products/image-antiporn-recognize">智能鉴黄</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_菜品识别"
+                                               clstag="AIChannel|keycount|Header|FoodRecognition"
+                                               href="//www.jdcloud.com/cn/products/food-recognition">菜品识别
+                                        <li><a target="_blank" data-ga="TopNavSec_垃圾分类"
+                                               clstag="AIChannel|keycount|Header|garbageClassification"
+                                               href="//www.jdcloud.com/cn/products/garbage-classification">垃圾分类</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_通用图片搜索" clstag="Header|keycount|imageSearchEngine"
+                                               href="//www.jdcloud.com/cn/products/image-search-engine">通用图片搜索</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_疫情物资识别"
+                                               clstag="AIChannel|keycount|Header|identificationOfEpidemicMaterials"
+                                               href="//www.jdcloud.com/cn/products/identification-of-epidemic-materials">疫情物资识别</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_通用商品识别"
+                                               clstag="AIChannel|keycount|Header|generalCommodityIdentification"
+                                               href="//www.jdcloud.com/cn/products/general-commodity-identification">通用商品识别</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_商品图片搜索"
+                                               clstag="AIChannel|keycount|Header|productImageSearchEngine"
+                                               href="//www.jdcloud.com/cn/products/product-image-search-engine">商品图片搜索</a></li>
+                                    </ul>
+                                </div>
 
-                                    <li><a target="_blank" data-ga="TopNavSec_垃圾分类"
-                                           clstag="AIChannel|keycount|Header|garbageClassification"
-                                           href="//www.jdcloud.com/cn/products/garbage-classification">垃圾分类<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_通用图片搜索" clstag="Header|keycount|imageSearchEngine"
-                                           href="//www.jdcloud.com/cn/products/image-search-engine">通用图片搜索<span class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_疫情物资识别"
-                                           clstag="AIChannel|keycount|Header|identificationOfEpidemicMaterials"
-                                           href="//www.jdcloud.com/cn/products/identification-of-epidemic-materials">疫情物资识别<span class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_通用商品识别"
-                                           clstag="AIChannel|keycount|Header|generalCommodityIdentification"
-                                           href="//www.jdcloud.com/cn/products/general-commodity-identification">通用商品识别<span class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_商品图片搜索"
-                                           clstag="AIChannel|keycount|Header|productImageSearchEngine"
-                                           href="//www.jdcloud.com/cn/products/product-image-search-engine">商品图片搜索<span class="tag tag-test">公测中</span>
-</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li>
-                            <h3>自然语言处理</h3>
-                            <div>
-                                <ul>
-                                    <li><a target="_blank" data-ga="TopNavSec_词法分析"
-                                           clstag="AIChannel|keycount|Header|LexicalAnalysis"
-                                           href="//www.jdcloud.com/cn/products/lexical-analysis">词法分析<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_句法分析"
-                                           clstag="AIChannel|keycount|Header|SyntacticParsing"
-                                           href="//www.jdcloud.com/cn/products/syntactic-parsing">句法分析<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_情感分析"
-                                           clstag="AIChannel|keycount|Header|SentimentClassifier"
-                                           href="//www.jdcloud.com/cn/products/sentiment-classifier">情感分析<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_短文本相似度"
-                                           clstag="AIChannel|keycount|Header|ShortTextSimilarity"
-                                           href="//www.jdcloud.com/cn/products/short-text-similarity">短文本相似度<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_评论观点抽取"
-                                           clstag="AIChannel|keycount|Header|CommentaryExtraction"
-                                           href="//www.jdcloud.com/cn/products/commentary-extraction">评论观点抽取<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_文本分类"
-                                           clstag="AIChannel|keycount|Header|TextCategorization"
-                                           href="//www.jdcloud.com/cn/products/text-categorization">文本分类<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                </ul>
-                            </div>
-                            <h3>人体识别</h3>
-                            <div>
-                                <ul>
-                                    <li><a target="_blank" data-ga="TopNavSec_人体关键点检测"
-                                           clstag="AIChannel|keycount|Header|PoseEstimation"
-                                           href="//www.jdcloud.com/cn/products/pose-estimation">人体关键点检测<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_人体检测"
-                                           clstag="AIChannel|keycount|Header|HumanDetection"
-                                           href="//www.jdcloud.com/cn/products/human-detection">人体检测<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_细粒度人像分割"
-                                           clstag="AIChannel|keycount|Header|fineGrainedPortraitSegmentation"
-                                           href="//www.jdcloud.com/cn/products/fine-grained-portrait-segmentation">细粒度人像分割<span class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_行人重识别"
-                                           clstag="AIChannel|keycount|Header|pedestrianRecognition"
-                                           href="//www.jdcloud.com/cn/products/pedestrian-recognition">行人重识别<span class="tag tag-test">公测中</span>
-</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li>
-                            <h3>OCR文字识别</h3>
-                            <div>
-                                <ul>
-                                    <li><a target="_blank" data-ga="TopNavSec_身份证识别"
-                                           clstag="AIChannel|keycount|Header|IdentityCardRecognize"
-                                           href="//www.jdcloud.com/cn/products/identity-card-recognize">身份证识别<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_行驶证识别"
-                                           clstag="AIChannel|keycount|Header|VehicleLicenseRecognize"
-                                           href="//www.jdcloud.com/cn/products/vehicle-license-recognize">行驶证识别<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_通用文字识别"
-                                           clstag="AIChannel|keycount|Header|GeneralImageOCR"
-                                           href="//www.jdcloud.com/cn/products/general-image-ocr">通用文字识别<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_增值税发票识别"
-                                           clstag="AIChannel|keycount|Header|Value-addedTaxInvoiceRecognize"
-                                           href="//www.jdcloud.com/cn/products/value-added-tax-invoice-recognize">增值税发票识别<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                </ul>
-                            </div>
-                            <h3>智能设计</h3>
-                            <div>
-                                <ul>
-                                    <li><a target="_blank" data-ga="TopNavSec_智能合图"
-                                           clstag="AIChannel|keycount|Header|AutomaticComposing"
-                                           href="//www.jdcloud.com/cn/products/automatic-composing">智能合图<span
-                                            class="tag tag-test">公测中</span>
-</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_智能抠图"
-                                           clstag="AIChannel|keycount|Header|ImageMatting"
-                                           href="//www.jdcloud.com/cn/products/image-matting">智能抠图</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_智能配色"
-                                           clstag="AIChannel|keycount|Header|PhotoFiltersMatching"
-                                           href="//www.jdcloud.com/cn/products/photo-filters-matching">智能配色</a>
-                                    </li>
-                                    <li><a target="_blank" data-ga="TopNavSec_风格识别"
-                                           clstag="AIChannel|keycount|Header|ImageStyleClassification"
-                                           href="//www.jdcloud.com/cn/products/image-style-classification">风格识别</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <h3>智能客服与营销</h3>
-                            <div>
-                                <ul>
-                                    <li><a target="_blank" data-ga="TopNavSec_在线咨询机器人"
-                                           clstag="AIChannel|keycount|Header|onlineChatbot"
-                                           href="//www.jdcloud.com/cn/products/online-chatbot">在线咨询机器人</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_智能语音外呼" clstag="AIChannel|keycount|Header|robocall"
-                                           href="//www.jdcloud.com/cn/products/robocall">智能语音外呼</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li>
-                            <h3>解决方案</h3>
-                            <div>
-                                <ul>
-                                    <li><a target="_blank" data-ga="TopNavSec_NeuFoundry一站式AI开发平台" clstag="AIChannel|keycount|Header|neufoundry"
-                                           href="//www.jdcloud.com/cn/solutions/neufoundry">NeuFoundry一站式AI开发平台</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_智能空间解决方案" clstag="AIChannel|keycount|Header|AINeuHive"
-                                           href="//www.jdcloud.com/cn/solutions/neuhive">智能空间解决方案</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_智能温感筛查系统" clstag="AIChannel|keycount|Header|smartTemperatureScreeningSolutio"
-                                           href="//www.jdcloud.com/cn/solutions/smart-temperature-screening-solutio">智能温感筛查系统</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_智能园区解决方案" clstag="AI Smart Park"
-                                           href="//www.jdcloud.com/cn/solutions/smart-park">智能园区解决方案</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_智能客服全链路解决方案" clstag="Intelligent Customer Service"
-                                           href="//www.jdcloud.com/cn/solutions/intelligent-customer-service">智能客服全链路解决方案</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_AI智慧门店解决方案"
-                                           clstag="AIChannel|keycount|Header|AIStoreSolutions"
-                                           href="//www.jdcloud.com/cn/solutions/ai-store">AI智慧门店解决方案</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_智能验证码"
-                                           clstag="AIChannel|keycount|Header|IntelligentVerifyCode"
-                                           href="//www.jdcloud.com/cn/solutions/intelligent-verify-code">智能验证码</a>
-                                    </li>
-                                    <li><a target="_blank" data-ga="TopNavSec_AR试妆镜解决方案"
-                                           clstag="AIChannel|keycount|Header|ARMirrorSolution"
-                                           href="//www.jdcloud.com/cn/solutions/armirror">AR试妆镜解决方案</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_京灵服务机器人"
-                                           clstag="AIChannel|keycount|Header|AINeubot"
-                                           href="//www.jdcloud.com/cn/solutions/neubot">京灵服务机器人</a></li>
-                                    <li><a target="_blank" data-ga="TopNavSec_AI 智慧校园" clstag="AIChannel|keycount|Header|Smart Campus"
-                                           href="//www.jdcloud.com/cn/solutions/smart-campus">AI 智慧校园</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </li>
-            <li class="subMenu-link">
-                <a href="http://air.jd.com/" target="_blank" clstag="AIChannel|keycount|Header|xxxxxxxx">研究院</a>
-            </li>
-            <li class="subMenu-link hasChild">
-                <a href="javascript:;" class="drop-link">客户案例</a>
-                <div class="subMenu-drop-box">
-                    <ul class="subMenu-level2">
-                        <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/216" clstag="AIChannel|keycount|Header|case-siku">寺库-通用文字识别</a></li>
-                        <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/217" clstag="AIChannel|keycount|Header|case-ccb">中国建设银行</a></li>
-                        <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/210" clstag="AIChannel|keycount|Header|case-huaxiHospital">华西第二医院</a></li>
-                        <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/211" clstag="AIChannel|keycount|Header|case-samsung">三星</a></li>
-                        <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/215" clstag="AIChannel|keycount|Header|case-mi">小米</a></li>
-                        <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/214" clstag="AIChannel|keycount|Header|case-gly">工联院</a></li>
-                        <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/208" clstag="AIChannel|keycount|Header|case-philips">飞利浦</a></li>
-                        <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/213" clstag="AIChannel|keycount|Header|case-JDAIservice">京东-智能客服</a></li>
-                        <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/212" clstag="AIChannel|keycount|Header|case-JDAIwrite">京东-智能写作</a></li>
-                        <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/209" clstag="AIChannel|keycount|Header|case-JDReader">京东读书-语音合成</a></li>
-                    </ul>
-                </div>
-            </li>
-        </ul>
+                                <h3>机器学习</h3>
+                                <div>
+                                    <ul>
+                                        <li><a target="_blank" data-ga="TopNavSec_商品竞争力分析"
+                                               clstag="AIChannel|keycount|Header|commodity-competitiveness-analysis"
+                                               href="//www.jdcloud.com/cn/products/commodity-competitiveness-analysis">商品竞争力分析</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_新品定制"
+                                               clstag="AIChannel|keycount|Header|new-product-customization"
+                                               href="//www.jdcloud.com/cn/products/new-product-customization">新品定制</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_老品升级"
+                                               clstag="AIChannel|keycount|Header|old-product-upgrade"
+                                               href="//www.jdcloud.com/cn/products/old-product-upgrade">老品升级</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_细分市场划分"
+                                               clstag="AIChannel|keycount|Header|segmented-market-analysis"
+                                               href="//www.jdcloud.com/cn/products/segmented-market-analysis">细分市场划分</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_品牌竞争力分析"
+                                               clstag="AIChannel|keycount|Header|brand_compete_analyse"
+                                               href="//www.jdcloud.com/cn/products/brand_compete_analyse">品牌竞争力分析</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <h3>自然语言处理</h3>
+                                <div>
+                                    <ul>
+                                        <li><a target="_blank" data-ga="TopNavSec_词法分析"
+                                               clstag="AIChannel|keycount|Header|LexicalAnalysis"
+                                               href="//www.jdcloud.com/cn/products/lexical-analysis">词法分析</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_句法分析"
+                                               clstag="AIChannel|keycount|Header|SyntacticParsing"
+                                               href="//www.jdcloud.com/cn/products/syntactic-parsing">句法分析</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_情感分析"
+                                               clstag="AIChannel|keycount|Header|SentimentClassifier"
+                                               href="//www.jdcloud.com/cn/products/sentiment-classifier">情感分析</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_短文本相似度"
+                                               clstag="AIChannel|keycount|Header|ShortTextSimilarity"
+                                               href="//www.jdcloud.com/cn/products/short-text-similarity">短文本相似度</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_评论观点抽取"
+                                               clstag="AIChannel|keycount|Header|CommentaryExtraction"
+                                               href="//www.jdcloud.com/cn/products/commentary-extraction">评论观点抽取</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_文本分类"
+                                               clstag="AIChannel|keycount|Header|TextCategorization"
+                                               href="//www.jdcloud.com/cn/products/text-categorization">文本分类</a></li>
+
+                                        <li><a target="_blank" data-ga="TopNavSec_智能写作"
+                                               clstag="AIChannel|keycount|Header|intelligent-creation"
+                                               href="//www.jdcloud.com/cn/products/intelligent-creation">智能写作</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_词向量"
+                                               clstag="AIChannel|keycount|Header|word-embedding"
+                                               href="//www.jdcloud.com/cn/products/word-embedding">词向量</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_词义相似度"
+                                               clstag="AIChannel|keycount|Header|word-embedding-similarity"
+                                               href="//www.jdcloud.com/cn/products/word-embedding-similarity">词义相似度</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能分诊"
+                                               clstag="AIChannel|keycount|Header|intelligent-triage"
+                                               href="//www.jdcloud.com/cn/products/intelligent-triage">智能分诊</a></li>
+                                    </ul>
+                                </div>
+                                <h3>人体识别</h3>
+                                <div>
+                                    <ul>
+                                        <li><a target="_blank" data-ga="TopNavSec_人体关键点检测"
+                                               clstag="AIChannel|keycount|Header|PoseEstimation"
+                                               href="//www.jdcloud.com/cn/products/pose-estimation">人体关键点检测</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_人体检测"
+                                               clstag="AIChannel|keycount|Header|HumanDetection"
+                                               href="//www.jdcloud.com/cn/products/human-detection">人体检测</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_细粒度人像分割"
+                                               clstag="AIChannel|keycount|Header|fineGrainedPortraitSegmentation"
+                                               href="//www.jdcloud.com/cn/products/fine-grained-portrait-segmentation">细粒度人像分割</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_行人重识别"
+                                               clstag="AIChannel|keycount|Header|pedestrianRecognition"
+                                               href="//www.jdcloud.com/cn/products/pedestrian-recognition">行人重识别</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <h3>OCR文字识别</h3>
+                                <div>
+                                    <ul>
+                                        <li><a target="_blank" data-ga="TopNavSec_银行卡识别"
+                                               clstag="AIChannel|keycount|Header|ocr-for-bank-card"
+                                               href="//www.jdcloud.com/cn/products/ocr-for-bank-card">银行卡识别</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_营业执照识别"
+                                               clstag="AIChannel|keycount|Header|ocr-for-business-license"
+                                               href="//www.jdcloud.com/cn/products/ocr-for-business-license">营业执照识别</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_身份证识别"
+                                               clstag="AIChannel|keycount|Header|IdentityCardRecognize"
+                                               href="//www.jdcloud.com/cn/products/identity-card-recognize">身份证识别</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_行驶证识别"
+                                               clstag="AIChannel|keycount|Header|VehicleLicenseRecognize"
+                                               href="//www.jdcloud.com/cn/products/vehicle-license-recognize">行驶证识别</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_通用文字识别"
+                                               clstag="AIChannel|keycount|Header|GeneralImageOCR"
+                                               href="//www.jdcloud.com/cn/products/general-image-ocr">通用文字识别</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_增值税发票识别"
+                                               clstag="AIChannel|keycount|Header|Value-addedTaxInvoiceRecognize"
+                                               href="//www.jdcloud.com/cn/products/value-added-tax-invoice-recognize">增值税发票识别</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_驾驶证识别"
+                                               clstag="AIChannel|keycount|Header|ocr-for-driving-license"
+                                               href="//www.jdcloud.com/cn/products/ocr-for-driving-license">驾驶证识别</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_车牌识别"
+                                               clstag="AIChannel|keycount|Header|ocr-for-vehicle-license-plate"
+                                               href="//www.jdcloud.com/cn/products/ocr-for-vehicle-license-plate">车牌识别</a></li>
+
+                                    </ul>
+                                </div>
+                                <h3>智能设计</h3>
+                                <div>
+                                    <ul>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能合图"
+                                               clstag="AIChannel|keycount|Header|AutomaticComposing"
+                                               href="//www.jdcloud.com/cn/products/automatic-composing">智能合图</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能抠图"
+                                               clstag="AIChannel|keycount|Header|ImageMatting"
+                                               href="//www.jdcloud.com/cn/products/image-matting">智能抠图</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能配色"
+                                               clstag="AIChannel|keycount|Header|PhotoFiltersMatching"
+                                               href="//www.jdcloud.com/cn/products/photo-filters-matching">智能配色</a>
+                                        </li>
+                                        <li><a target="_blank" data-ga="TopNavSec_风格识别"
+                                               clstag="AIChannel|keycount|Header|ImageStyleClassification"
+                                               href="//www.jdcloud.com/cn/products/image-style-classification">风格识别</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h3>智能客服与营销</h3>
+                                <div>
+                                    <ul>
+                                        <li><a target="_blank" data-ga="TopNavSec_在线咨询机器人"
+                                               clstag="AIChannel|keycount|Header|onlineChatbot"
+                                               href="//www.jdcloud.com/cn/products/online-chatbot">在线咨询机器人</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能语音外呼" clstag="AIChannel|keycount|Header|robocall"
+                                               href="//www.jdcloud.com/cn/products/robocall">智能语音外呼</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <h3>解决方案</h3>
+                                <div>
+                                    <ul>
+<!--                                        <li><a target="_blank" data-ga="TopNavSec_NeuFoundry一站式AI开发平台" clstag="AIChannel|keycount|Header|neufoundry"-->
+<!--                                               href="//www.jdcloud.com/cn/solutions/neufoundry">NeuFoundry一站式AI开发平台</a></li>-->
+                                        <li><a target="_blank" data-ga="TopNavSec_智能空间解决方案" clstag="AIChannel|keycount|Header|AINeuHive"
+                                               href="//www.jdcloud.com/cn/solutions/neuhive">智能空间解决方案</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能温感筛查系统" clstag="AIChannel|keycount|Header|smartTemperatureScreeningSolutio"
+                                               href="//www.jdcloud.com/cn/solutions/smart-temperature-screening-solutio">智能温感筛查系统</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能园区解决方案" clstag="AI Smart Park"
+                                               href="//www.jdcloud.com/cn/solutions/smart-park">智能园区解决方案</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能客服全链路解决方案" clstag="Intelligent Customer Service"
+                                               href="//www.jdcloud.com/cn/solutions/intelligent-customer-service">智能客服全链路解决方案</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_AI智慧门店解决方案"
+                                               clstag="AIChannel|keycount|Header|AIStoreSolutions"
+                                               href="//www.jdcloud.com/cn/solutions/ai-store">AI智慧门店解决方案</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能验证码"
+                                               clstag="AIChannel|keycount|Header|IntelligentVerifyCode"
+                                               href="//www.jdcloud.com/cn/solutions/intelligent-verify-code">智能验证码</a>
+                                        </li>
+                                        <li><a target="_blank" data-ga="TopNavSec_AR试妆镜解决方案"
+                                               clstag="AIChannel|keycount|Header|ARMirrorSolution"
+                                               href="//www.jdcloud.com/cn/solutions/armirror">AR试妆镜解决方案</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_京灵服务机器人"
+                                               clstag="AIChannel|keycount|Header|AINeubot"
+                                               href="//www.jdcloud.com/cn/solutions/neubot">京灵服务机器人</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_AI 智慧校园" clstag="AIChannel|keycount|Header|Smart Campus"
+                                               href="//www.jdcloud.com/cn/solutions/smart-campus">AI 智慧校园</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能城镇解决方案"
+                                               clstag="AIChannel|keycount|Header|smart-city"
+                                               href="//www.jdcloud.com/solutions/smart-city">智能城镇解决方案</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_物流视联网智能应用方案"
+                                               clstag="AIChannel|keycount|Header|smart-logistics"
+                                               href="//www.jdcloud.com/solutions/smart-logistics">物流视联网智能应用方案</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_AI 融媒体智能应用方案" clstag="AIChannel|keycount|Header|smart-madia"
+                                               href="//www.jdcloud.com/solutions/smart-madia">融媒体智能应用方案</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能语音应答"
+                                               clstag="AIChannel|keycount|Header|voice-chatbot"
+                                               href="//www.jdcloud.com/solutions/voice-chatbot">智能语音应答</a></li>
+                                        <li><a target="_blank" data-ga="TopNavSec_智能坐席工作台"
+                                               clstag="AIChannel|keycount|Header|customer-service-workbench"
+                                               href="//www.jdcloud.com/solutions/customer-service-workbench">智能坐席工作台</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="subMenu-link">
+                    <a href="http://air.jd.com/" target="_blank" clstag="AIChannel|keycount|Header|xxxxxxxx">研究院</a>
+                </li>
+                <li class="subMenu-link hasChild">
+                    <a href="javascript:;" class="drop-link">客户案例</a>
+                    <div class="subMenu-drop-box">
+                        <ul class="subMenu-level2">
+                            <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/216" clstag="AIChannel|keycount|Header|case-siku">寺库-通用文字识别</a></li>
+                            <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/217" clstag="AIChannel|keycount|Header|case-ccb">中国建设银行</a></li>
+                            <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/210" clstag="AIChannel|keycount|Header|case-huaxiHospital">华西第二医院</a></li>
+                            <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/211" clstag="AIChannel|keycount|Header|case-samsung">三星</a></li>
+                            <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/215" clstag="AIChannel|keycount|Header|case-mi">小米</a></li>
+                            <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/214" clstag="AIChannel|keycount|Header|case-gly">工联院</a></li>
+                            <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/208" clstag="AIChannel|keycount|Header|case-philips">飞利浦</a></li>
+                            <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/213" clstag="AIChannel|keycount|Header|case-JDAIservice">京东-智能客服</a></li>
+                            <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/212" clstag="AIChannel|keycount|Header|case-JDAIwrite">京东-智能写作</a></li>
+                            <li><a target="_blank" href="https://www.jdcloud.com/cn/case/detail/209" clstag="AIChannel|keycount|Header|case-JDReader">京东读书-语音合成</a></li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i><a clstag="supplyChain|keycount|TopNav|tel" href="https://www.jdcloud.com/forms/consultation" target="_blank">售前咨询：400-623-0183</a></div>
     </div>
-    <div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i><a clstag="supplyChain|keycount|TopNav|tel" href="https://www.jdcloud.com/forms/consultation" target="_blank">售前咨询：400-623-0183</a></div>
 </div>
 <!-- <div class="subMenu-box">
     <h2>零售</h2>
@@ -490,7 +508,7 @@
                                     <p class="CH-carousel-desc">预置AI模型，面向业务场景提供快速定制的智能化方案</p>
 
                                 </div>
-                                <a href="https://www.jdcloud.com/cn/solutions/neufoundry" class="CH-carousel-button"
+                                <a href="https://neufoundry.jdcloud.com/" class="CH-carousel-button"
                                    target="_blank" clstag="AIChannel|keycount|banner|neufoundry">立即咨询</a>
                             </div>
                             <img src="https://img1.jcloudcs.com/portal/channel/ai/banner-neufoundry.png"
@@ -653,7 +671,7 @@
 
                         </li>
                     </ul>
-                    <div><a href="https://www.jdcloud.com/cn/solutions/neufoundry" target="_blank" clstag="AIChannel|keycount|module|NeuFoundry">立即使用</a></div>
+                    <div><a href="https://neufoundry.jdcloud.com/" target="_blank" clstag="AIChannel|keycount|module|NeuFoundry">立即使用</a></div>
                 </div>
             </div>
         </div>
@@ -676,7 +694,7 @@
 </a>
                     </li>
                     <li class=""><a href="javascript:;" clstag="AIChannel|keycount|AIAbilityTab|productComprehend"><i><img
-                            src="https://img1.jcloudcs.com/portal/channel/ai/icon_splj.png"></i><span>商品理解</span>
+                            src="https://img1.jcloudcs.com/portal/channel/ai/icon_rtsb.png"></i><span>人体识别</span>
 </a>
                     </li>
                     <li class=""><a href="javascript:;" clstag="AIChannel|keycount|AIAbilityTab|natureLanguage"><i><img
@@ -684,15 +702,15 @@
 </a>
                     </li>
                     <li class=""><a href="javascript:;" clstag="AIChannel|keycount|AIAbilityTab|faceRecognition"><i><img
-                            src="https://img1.jcloudcs.com/portal/channel/ai/icon_rlsb.png"></i><span>人脸与人体识别</span>
+                            src="https://img1.jcloudcs.com/portal/channel/ai/icon_rlsb.png"></i><span>人脸识别</span>
 </a>
                     </li>
                     <li class=""><a href="javascript:;" clstag="AIChannel|keycount|AIAbilityTab|contentApproval"><i><img
-                            src="https://img1.jcloudcs.com/portal/channel/ai/icon_nrsh.png"></i><span>内容审核</span>
+                            src="https://img1.jcloudcs.com/portal/channel/ai/icon_jqxx.png"></i><span>机器学习</span>
 </a>
                     </li>
                     <li class=""><a href="javascript:;" clstag="AIChannel|keycount|AIAbilityTab|imageComprehend"><i><img
-                            src="https://img1.jcloudcs.com/portal/channel/ai/icon_txlj.png"></i><span>图像与视频理解</span>
+                            src="https://img1.jcloudcs.com/portal/channel/ai/icon_txlj.png"></i><span>图像理解</span>
 </a>
                     </li>
                 </ul>
@@ -717,6 +735,14 @@
                                                target="_blank" clstag="AIChannel|keycount|AIAbility|value-added-tax-invoice-recognize">增值税发票识别</a></li>
                                         <li><a href="https://www.jdcloud.com/cn/products/vehicle-license-recognize"
                                                target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-license-recognize">行驶证识别</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/ocr-for-bank-card"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-license-recognize">银行卡识别</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/ocr-for-business-license"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-license-recognize">营业执照识别</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/ocr-for-driving-license"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-license-recognize">驾驶证识别</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/ocr-for-vehicle-license-plate"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-license-recognize">车牌识别</a></li>
                                     </ul>
                                 </div>
                                 <div class="ai-power-cnt-col col3">
@@ -754,7 +780,9 @@
                                 <div class="ai-power-cnt-col col2">
                                     <ul>
                                         <li><a href="https://www.jdcloud.com/cn/products/text-to-speech"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|text-to-speech">语音合成</a></li>
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|text-to-speech">语音合成-基础音库</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/text-to-speech-high-quality"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|text-to-speech">语音合成-精品音库</a></li>
                                         <li><a href="https://www.jdcloud.com/cn/products/automatic-speech-recognition"
                                                target="_blank" clstag="AIChannel|keycount|AIAbility|automatic-speech-recognition">语音识别</a></li>
                                         <li><a href="https://www.jdcloud.com/cn/products/voiceprint-recognition"
@@ -788,47 +816,39 @@
                             </div>
                             <div class="ai-power-box-column">
                                 <div class="ai-power-cnt-col col1">
-                                    <h4>商品理解</h4>
-                                    <p>基于京东十数亿级商品数据模型训练，能够在图片视频等多模态没媒介中，对线上线下各类商品进行识别理解，从而帮助客户认识、搜索和搭配各品类商品</p>
+                                    <h4>人体识别</h4>
+                                    <p>基于业界领先的AI技术，可以准确对图片或视频中的人体进行检测与属性识别</p>
 
-                                    <div><strong>CVPR 19 – iMat Challenge 商品识别 第一名</strong></div>
+                                    <div><strong>CVPR 2018人体姿态关键点检测竞赛两项冠军</strong></div>
                                 </div>
                                 <div class="ai-power-cnt-col col2">
                                     <ul>
-                                        <li><a href="https://www.jdcloud.com/cn/products/snap-shop"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|snap-shop">拍照购</a></li>
-                                        <li><a href="https://www.jdcloud.com/cn/products/identification-of-epidemic-materials"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|identification-of-epidemic-materials">疫情物资识别</a></li>
-                                        <li><a href="https://www.jdcloud.com/cn/products/product-image-search-engine"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|product-image-search-engine">商品图片搜索</a></li>
-                                        <li><a href="https://www.jdcloud.com/cn/products/general-commodity-identification"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|general-commodity-identificatio">通用商品识别</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/pedestrian-recognition"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|pedestrian-recognition">行人重识别</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/pose-estimation"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|pose-estimation">人体关键点检测</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/human-detection"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|human-detection">人体检测</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/fine-grained-portrait-segmentation"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|fine-grained-portrait-segmentation">细粒度人像分割</a></li>
                                     </ul>
                                 </div>
                                 <div class="ai-power-cnt-col col3">
-                                    <h4>拍照购</h4>
-                                    <p>京东商品图片识别找同款，找相似。全品类商品覆盖，适用服装、配饰等时尚非标品以及美妆、进口商品等的搜索场景。支持商城引流导购赚取佣金，支持自建库搜索同款相似商品
+                                    <h4>人体关键点检测</h4>
+                                    <p>基于业界领先的AI技术，提供对单人及多人的姿态预估技术
                                     </p>
 
                                     <div class="ai-power-cnt-link">
-                                        <strong>十亿级自定义商品图库</strong>
-                                        <strong>高精度高并发低延时识别</strong>
+                                        <strong>准确率高，赋能多种场景。</strong>
                                     </div>
                                     <div class="ai-power-cnt-btn">
-                                        <a href="https://www.jdcloud.com/cn/products/snap-shop" class="btn-roll"
-                                           target="_blank" clstag="AIChannel|keycount|Header|xxxxxxxx">立即使用</a>
+                                        <a href="https://www.jdcloud.com/cn/products/pose-estimation" class="btn-roll"
+                                           target="_blank" clstag="AIChannel|keycount|Header|pose-estimation">立即使用</a>
                                     </div>
                                     <div class="ai-power-cnt-case">
                                         <h4>客户案例</h4>
                                         <ul>
-                                            <li><a href="https://www.jdcloud.com/cn/case/detail/211"
-                                                   target="_blank" clstag="AIChannel|keycount|AIAbility|AI-case-samsung"><img
-                                                    src="https://img1.jcloudcs.com/portal/channel/ai/logo-samsung.png"
-                                                    alt="三星"></a></li>
-                                            <li><a href="https://www.jdcloud.com/cn/case/detail/215"
-                                                   target="_blank" clstag="AIChannel|keycount|AIAbility|AI-case-mi"><img
-                                                    src="https://img1.jcloudcs.com/portal/channel/ai/logo-mi.png"
-                                                    alt="小米"></a></li>
+                                            <li><img src="https://img1.jcloudcs.com/portal/channel/ai/logo-jd.jpg" alt="京东"/></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -854,6 +874,14 @@
                                                target="_blank" clstag="AIChannel|keycount|AIAbility|commentary-extraction">评论观点抽取</a></li>
                                         <li><a href="https://www.jdcloud.com/cn/products/short-text-similarity"
                                                target="_blank" clstag="AIChannel|keycount|AIAbility|short-text-similarity">短文本相似度</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/intelligent-creation"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|intelligent-creation">智能写作</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/word-embedding"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|word-embedding">词向量</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/word-embedding-similarity"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|word-embedding-similarity">词义相似度</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/intelligent-triage"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|intelligent-triage">智能分诊</a></li>
 
                                     </ul>
                                 </div>
@@ -880,11 +908,11 @@
                             </div>
                             <div class="ai-power-box-column">
                                 <div class="ai-power-cnt-col col1">
-                                    <h4>人脸与人体识别</h4>
-                                    <p>基于业界领先的AI技术，可以准确对图片或视频中的多个人体及人脸进行检测与属性识别分析。涵盖人脸比对、搜索、属性分析和人体关键点、行人重识别等能力，赋能丰富的业务场景。
+                                    <h4>人脸识别</h4>
+                                    <p>基于业界领先的AI技术，可以准确对图片或视频中的人脸进行检测与属性识别
                                     </p>
 
-                                    <div><strong>WI DER FACE三项评测排名第一<br>CVPR 2018人体姿态关键点检测竞赛两项冠军</strong></div>
+                                    <div><strong>WI DER FACE三项评测排名第一 </strong></div>
                                 </div>
                                 <div class="ai-power-cnt-col col2">
                                     <ul>
@@ -896,16 +924,6 @@
                                                target="_blank" clstag="AIChannel|keycount|AIAbility|face-detect-and-analysis">人脸检测与属性分析</a></li>
                                         <li><a href="https://www.jdcloud.com/cn/products/face-anti-spoofing"
                                                target="_blank" clstag="AIChannel|keycount|AIAbility|face-anti-spoofing">人脸活体检测</a></li>
-                                        <li><a href="https://www.jdcloud.com/cn/products/selfie-segmentation"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|selfie-segmentation">自拍人像抠图</a></li>
-                                        <li><a href="https://www.jdcloud.com/cn/products/pose-estimation"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|pose-estimation">人体关键点检测</a></li>
-                                        <li><a href="https://www.jdcloud.com/cn/products/human-detection"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|human-detection">人体检测</a></li>
-                                        <li><a href="https://www.jdcloud.com/cn/products/fine-grained-portrait-segmentation"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|fine-grained-portrait-segmentation">细粒度人像分割</a></li>
-                                        <li><a href="https://www.jdcloud.com/cn/products/pedestrian-recognition"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|pedestrian-recognition">行人重识别</a></li>
                                         <li><a href="https://www.jdcloud.com/cn/products/face-mask-recognition"
                                                target="_blank" clstag="AIChannel|keycount|AIAbility|face-mask-recognition">人脸口罩识别</a></li>
                                     </ul>
@@ -932,30 +950,35 @@
                             </div>
                             <div class="ai-power-box-column">
                                 <div class="ai-power-cnt-col col1">
-                                    <h4>内容审核</h4>
-                                    <p>依托人工智能先进技术，为用户提供多模态智能审核解决方案，有效实现视频、图像、文本、语音的多维度智能合规审核，帮助B端用户规避国家监管风险。</p>
+                                    <h4>机器学习</h4>
+                                    <p>基于京东业内领先的机器学习技术，对商品和用户进行深度分析和理解</p>
 
-                                    <div><strong>ICDAR 2017 MLT和ICDAR 2015比赛中夺冠<br>CVPR 2019 FGVC两项第一</strong></div>
+                                    <div><strong>在AAAI 2020、IJCAI 2019、ICLR 2019、ECCV 2019等多个顶会，有多篇论文入选</strong></div>
                                 </div>
                                 <div class="ai-power-cnt-col col2">
                                     <ul>
-                                        <li><a href="https://www.jdcloud.com/cn/products/specific-subject-face-recognition"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|specific-subject-face-recognition">特定人物识别</a></li>
-                                        <li><a href="https://www.jdcloud.com/cn/products/image-antiporn-recognize"
-                                               target="_blank" clstag="AIChannel|keycount|AIAbility|image-antiporn-recognize">智能鉴黄</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/commodity-competitiveness-analysis"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|commodity-competitiveness-analysis">商品竞争力分析</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/new-product-customization"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|new-product-customization">新品定制</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/old-product-upgrade"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|old-product-upgrade">老品升级</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/segmented-market-analysis"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|segmented-market-analysis">细分市场划分</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/brand_compete_analyse"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|brand_compete_analyse">品牌竞争力分析</a></li>
                                     </ul>
                                 </div>
                                 <div class="ai-power-cnt-col col3">
-                                    <h4>智能鉴黄</h4>
-                                    <p>基于业界领先的深度学习图像识别技术，对图片影像的肤色、姿态和场景等进行智能识别，准确快速的输出每张图片“色情”、"低俗”、“性感”、“正常”的概率，有效的规避涉黄风险
-                                    </p>
+                                    <h4>商品竞争力分析</h4>
+                                    <p>商品竞争力分析是针对目标商品在细分市场中的竞争情况的深度分析，从价格、品牌和商品属性等多维度对商品的竞争力进行全面洞察分析，辅助商家进行生产和营销策略的制定和调整</p>
 
                                     <div class="ai-power-cnt-link">
-                                        <strong>可自定义配置阈值范围，识别精准，稳定可靠</strong>
+                                        <strong>定位商品竞品  分析商品竞争力</strong>
                                     </div>
                                     <div class="ai-power-cnt-btn">
-                                        <a href="https://www.jdcloud.com/cn/products/image-antiporn-recognize"
-                                           class="btn-roll" target="_blank" clstag="AIChannel|keycount|AIAbility|image-antiporn-recognize-useIt">立即使用</a>
+                                        <a href="https://www.jdcloud.com/cn/products/commodity-competitiveness-analysis"
+                                           class="btn-roll" target="_blank" clstag="AIChannel|keycount|AIAbility|commodity-competitiveness-analysis">立即使用</a>
                                     </div>
                                     <div class="ai-power-cnt-case">
                                         <h4>客户案例</h4>
@@ -968,7 +991,7 @@
                             </div>
                             <div class="ai-power-box-column">
                                 <div class="ai-power-cnt-col col1">
-                                    <h4>图像与视频理解</h4>
+                                    <h4>图像理解</h4>
                                     <p>依托京东业界领先的计算机视觉技术，对图像和视频进行分析和理解。涵盖了垃圾分类、图片搜索、菜品识别等图片与视频理解能力，覆盖多种应用场景，帮助用户提供迅速搭建AI能力赋能业务。
                                     </p>
 
@@ -983,6 +1006,20 @@
                                                target="_blank" clstag="AIChannel|keycount|AIAbility|food-recognition">菜品识别</a></li>
                                         <li><a href="https://www.jdcloud.com/cn/products/garbage-classification"
                                                target="_blank" clstag="AIChannel|keycount|AIAbility|garbage-classification">垃圾分类</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/vehicle-detection"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-detection">车辆检测</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/identification-of-epidemic-materials"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|identification-of-epidemic-materials">疫情物资识别</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/product-image-search-engine"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|product-image-search-engine">商品图片搜索</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/general-commodity-identification"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|garbage-classification">通用商品识别</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/snap-shop"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|snap-shop">拍照购</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/image-antiporn-recognize"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|image-antiporn-recognize">智能鉴黄</a></li>
+                                        <li><a href="https://www.jdcloud.com/cn/products/specific-subject-face-recognition"
+                                               target="_blank" clstag="AIChannel|keycount|AIAbility|specific-subject-face-recognition">特定人物识别</a></li>
                                     </ul>
                                 </div>
                                 <div class="ai-power-cnt-col col3">
@@ -1030,6 +1067,14 @@
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|value-added-tax-invoice-recognize">增值税发票识别</a></li>
                                     <li><a href="https://www.jdcloud.com/cn/products/vehicle-license-recognize"
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-license-recognize">行驶证识别</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/ocr-for-bank-card"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-license-recognize">银行卡识别</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/ocr-for-business-license"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-license-recognize">营业执照识别</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/ocr-for-driving-license"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-license-recognize">驾驶证识别</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/ocr-for-vehicle-license-plate"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-license-recognize">车牌识别</a></li>
                                 </ul>
                                 <div class="ai-power-m-info">
                                     <h4>通用文字识别</h4>
@@ -1071,7 +1116,9 @@
                                     2018说话人识别大赛排名第三<br>DCASE2019语音事件检测和定位比赛排名第三</strong></div>
                                 <ul class="ai-power-m-point">
                                     <li><a href="https://www.jdcloud.com/cn/products/text-to-speech"
-                                           target="_blank" clstag="AIChannel|keycount|AIAbility|text-to-speech">语音合成</a></li>
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|text-to-speech">语音合成-基础音库</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/text-to-speech-high-quality"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|text-to-speech">语音合成-精品音库</a></li>
                                     <li><a href="https://www.jdcloud.com/cn/products/automatic-speech-recognition"
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|automatic-speech-recognition">语音识别</a></li>
                                     <li><a href="https://www.jdcloud.com/cn/products/voiceprint-recognition"
@@ -1105,13 +1152,13 @@
                         </div>
                     </li>
                     <li>
-                        <a href="javascript:;" class="ai-power-m-link" name="aipower3"><span>商品理解</span>
+                        <a href="javascript:;" class="ai-power-m-link" name="aipower3"><span>人体识别</span>
 </a>
                         <div class="ai-power-m-box">
                             <div class="ai-power-m-cnt">
-                                <p>基于京东十数亿级商品数据模型训练，能够在图片视频等多模态没媒介中，对线上线下各类商品进行识别理解，从而帮助客户认识、搜索和搭配各品类商品</p>
+                                <p>基于业界领先的AI技术，可以准确对图片或视频中的人体进行检测与属性识别</p>
 
-                                <div class="ai-power-m-rank"><strong>CVPR 19 – iMat Challenge 商品识别 第一名</strong>
+                                <div class="ai-power-m-rank"><strong>CVPR 2018人体姿态关键点检测竞赛两项冠军；</strong>
                                 </div>
                                 <ul class="ai-power-m-point">
                                     <li><a href="https://www.jdcloud.com/cn/products/snap-shop"
@@ -1124,30 +1171,22 @@
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|general-commodity-identification">通用商品识别</a></li>
                                 </ul>
                                 <div class="ai-power-m-info">
-                                    <h4>拍照购</h4>
-                                    <p>京东商品图片识别找同款，找相似。全品类商品覆盖，适用服装、配饰等时尚非标品以及美妆、进口商品等的搜索场景。支持商城引流导购赚取佣金，支持自建库搜索同款相似商品
+                                    <h4>人体关键点检测</h4>
+                                    <p>基于业界领先的AI技术，提供对单人及多人的姿态预估技术
                                     </p>
 
                                     <div class="ai-power-cnt-link">
-                                        <strong>十亿级自定义商品图库</strong>
-                                        <strong>高精度高并发低延时识别</strong>
+                                        <strong>准确率高，赋能多种场景。</strong>
                                     </div>
                                     <div class="ai-power-cnt-case">
                                         <h4>客户案例</h4>
                                         <ul>
-                                            <li><a href="https://www.jdcloud.com/cn/case/detail/211"
-                                                   target="_blank" clstag="AIChannel|keycount|AIAbility|AI-case-samsung"><img
-                                                    src="https://img1.jcloudcs.com/portal/channel/ai/logo-samsung.png"
-                                                    alt="三星"></a></li>
-                                            <li><a href="https://www.jdcloud.com/cn/case/detail/215"
-                                                   target="_blank" clstag="AIChannel|keycount|AIAbility|AI-case-mi"><img
-                                                    src="https://img1.jcloudcs.com/portal/channel/ai/logo-mi.png"
-                                                    alt="小米"></a></li>
+                                            <li><img src="https://img1.jcloudcs.com/portal/channel/ai/logo-jd.jpg" alt="京东"/></li>
                                         </ul>
                                     </div>
                                     <div class="ai-power-cnt-btn">
-                                        <a href="https://www.jdcloud.com/cn/products/snap-shop"
-                                           class="btn-roll">立即使用</a>
+                                        <a href="https://www.jdcloud.com/cn/products/pose-estimation" class="btn-roll"
+                                           target="_blank" clstag="AIChannel|keycount|Header|pose-estimation">立即使用</a>
                                     </div>
                                 </div>
                             </div>
@@ -1174,6 +1213,14 @@
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|commentary-extraction">评论观点抽取</a></li>
                                     <li><a href="https://www.jdcloud.com/cn/products/short-text-similarity"
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|short-text-similarity">短文本相似度</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/intelligent-creation"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|intelligent-creation">智能写作</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/word-embedding"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|word-embedding">词向量</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/word-embedding-similarity"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|word-embedding-similarity">词义相似度</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/intelligent-triage"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|intelligent-triage">智能分诊</a></li>
                                 </ul>
                                 <div class="ai-power-m-info">
                                     <h4>评论观点抽取</h4>
@@ -1199,15 +1246,13 @@
                         </div>
                     </li>
                     <li>
-                        <a href="javascript:;" class="ai-power-m-link" name="aipower5"><span>人脸与人体识别</span>
+                        <a href="javascript:;" class="ai-power-m-link" name="aipower5"><span>人脸识别</span>
 </a>
                         <div class="ai-power-m-box">
                             <div class="ai-power-m-cnt">
-                                <p>基于业界领先的AI技术，可以准确对图片或视频中的多个人体及人脸进行检测与属性识别分析。涵盖人脸比对、搜索、属性分析和人体关键点、行人重识别等能力，赋能丰富的业务场景。
-                                </p>
+                                <p>基于业界领先的AI技术，可以准确对图片或视频中的人脸进行检测与属性识别</p>
 
-                                <div class="ai-power-m-rank"><strong>WI DER FACE三项评测排名第一<br>CVPR
-                                    2018人体姿态关键点检测竞赛两项冠军</strong></div>
+                                <div class="ai-power-m-rank"><strong>WI DER FACE三项评测排名第一</strong></div>
                                 <ul class="ai-power-m-point">
                                     <li><a href="https://www.jdcloud.com/cn/products/face-compare"
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|face-compare">人脸对比</a></li>
@@ -1217,16 +1262,6 @@
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|face-detect-and-analysis">人脸检测与属性分析</a></li>
                                     <li><a href="https://www.jdcloud.com/cn/products/face-anti-spoofing"
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|face-anti-spoofing">人脸活体检测</a></li>
-                                    <li><a href="https://www.jdcloud.com/cn/products/selfie-segmentation"
-                                           target="_blank" clstag="AIChannel|keycount|AIAbility|selfie-segmentation">自拍人像抠图</a></li>
-                                    <li><a href="https://www.jdcloud.com/cn/products/pose-estimation"
-                                           target="_blank" clstag="AIChannel|keycount|AIAbility|pose-estimation">人体关键点检测</a></li>
-                                    <li><a href="https://www.jdcloud.com/cn/products/human-detection"
-                                           target="_blank" clstag="AIChannel|keycount|AIAbility|human-detection">人体检测</a></li>
-                                    <li><a href="https://www.jdcloud.com/cn/products/fine-grained-portrait-segmentation"
-                                           target="_blank" clstag="AIChannel|keycount|AIAbility|fine-grained-portrait-segmentation">细粒度人像分割</a></li>
-                                    <li><a href="https://www.jdcloud.com/cn/products/pedestrian-recognition"
-                                           target="_blank" clstag="AIChannel|keycount|AIAbility|pedestrian-recognition">行人重识别</a></li>
                                     <li><a href="https://www.jdcloud.com/cn/products/face-mask-recognition"
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|face-mask-recognition">人脸口罩识别</a></li>
                                 </ul>
@@ -1253,27 +1288,32 @@
                         </div>
                     </li>
                     <li>
-                        <a href="javascript:;" class="ai-power-m-link" name="aipower6"><span>内容审核</span>
+                        <a href="javascript:;" class="ai-power-m-link" name="aipower6"><span>机器学习</span>
 </a>
                         <div class="ai-power-m-box">
                             <div class="ai-power-m-cnt">
-                                <p>依托人工智能先进技术，为用户提供多模态智能审核解决方案，有效实现视频、图像、文本、语音的多维度智能合规审核，帮助B端用户规避国家监管风险。</p>
+                                <p>基于京东业内领先的机器学习技术，对商品和用户进行深度分析和理解</p>
 
-                                <div class="ai-power-m-rank"><strong>ICDAR 2017 MLT和ICDAR 2015比赛中夺冠<br>CVPR 2019
-                                    FGVC两项第一</strong></div>
+                                <div class="ai-power-m-rank"><strong>在AAAI 2020、IJCAI 2019、ICLR 2019、ECCV 2019等多个顶会，有多篇论文入选</strong></div>
                                 <ul class="ai-power-m-point">
-                                    <li><a href="https://www.jdcloud.com/cn/products/specific-subject-face-recognition"
-                                           target="_blank" clstag="AIChannel|keycount|AIAbility|pecific-subject-face-recognition">特定人物识别</a></li>
-                                    <li><a href="https://www.jdcloud.com/cn/products/image-antiporn-recognize"
-                                           target="_blank" clstag="AIChannel|keycount|AIAbility|image-antiporn-recognize">智能鉴黄</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/commodity-competitiveness-analysis"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|commodity-competitiveness-analysis">商品竞争力分析</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/new-product-customization"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|new-product-customization">新品定制</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/old-product-upgrade"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|old-product-upgrade">老品升级</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/segmented-market-analysis"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|segmented-market-analysis">细分市场划分</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/brand_compete_analyse"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|brand_compete_analyse">品牌竞争力分析</a></li>
                                 </ul>
                                 <div class="ai-power-m-info">
-                                    <h4>智能鉴黄</h4>
-                                    <p>基于业界领先的深度学习图像识别技术，对图片影像的肤色、姿态和场景等进行智能识别，准确快速的输出每张图片“色情”、"低俗”、“性感”、“正常”的概率，有效的规避涉黄风险
+                                    <h4>商品竞争力分析</h4>
+                                    <p>商品竞争力分析是针对目标商品在细分市场中的竞争情况的深度分析，从价格、品牌和商品属性等多维度对商品的竞争力进行全面洞察分析，辅助商家进行生产和营销策略的制定和调整
                                     </p>
 
                                     <div class="ai-power-cnt-link">
-                                        <strong>可自定义配置阈值范围，识别精准，稳定可靠</strong>
+                                        <strong>定位商品竞品  分析商品竞争力</strong>
                                     </div>
                                     <div class="ai-power-cnt-case">
                                         <h4>客户案例</h4>
@@ -1283,15 +1323,15 @@
                                         </ul>
                                     </div>
                                     <div class="ai-power-cnt-btn">
-                                        <a href="https://www.jdcloud.com/cn/products/image-antiporn-recognize"
-                                           class="btn-roll" target="_blank" clstag="AIChannel|keycount|AIAbility|image-antiporn-recognize-useIt">立即使用</a>
+                                        <a href="https://www.jdcloud.com/cn/products/commodity-competitiveness-analysis"
+                                           class="btn-roll" target="_blank" clstag="AIChannel|keycount|AIAbility|commodity-competitiveness-analysis">立即使用</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </li>
                     <li>
-                        <a href="javascript:;" class="ai-power-m-link" name="aipower7"><span>图像与视频理解</span>
+                        <a href="javascript:;" class="ai-power-m-link" name="aipower7"><span>图像理解</span>
 </a>
                         <div class="ai-power-m-box">
                             <div class="ai-power-m-cnt">
@@ -1307,6 +1347,20 @@
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|food-recognition">菜品识别</a></li>
                                     <li><a href="https://www.jdcloud.com/cn/products/garbage-classification"
                                            target="_blank" clstag="AIChannel|keycount|AIAbility|garbage-classification">垃圾分类</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/vehicle-detection"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|vehicle-detection">车辆检测</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/identification-of-epidemic-materials"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|identification-of-epidemic-materials">疫情物资识别</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/product-image-search-engine"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|product-image-search-engine">商品图片搜索</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/general-commodity-identification"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|garbage-classification">通用商品识别</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/snap-shop"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|snap-shop">拍照购</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/image-antiporn-recognize"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|image-antiporn-recognize">智能鉴黄</a></li>
+                                    <li><a href="https://www.jdcloud.com/cn/products/specific-subject-face-recognition"
+                                           target="_blank" clstag="AIChannel|keycount|AIAbility|specific-subject-face-recognition">特定人物识别</a></li>
                                 </ul>
                                 <div class="ai-power-m-info">
                                     <h4>垃圾分类</h4>
@@ -1346,10 +1400,10 @@
                     <li><a href="javascript:;" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-security">智能安防解决方案</a></li>
                     <li><a href="javascript:;" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-park">智能园区解决方案</a></li>
                     <li><a href="javascript:;" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-city">智能城镇解决方案</a></li>
-                    <li><a href="javascript:;" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-logistics">物流视联网智能解决方案</a></li>
+                    <li><a href="javascript:;" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-logistics">物流视联网智能应用方案</a></li>
                     <li><a href="javascript:;" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-agricultural">农业视联网智能解决方案</a></li>
                     <li><a href="javascript:;" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-space">智能空间解决方案</a></li>
-                    <li><a href="javascript:;" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-media">融媒体智能解决方案</a></li>
+                    <li><a href="javascript:;" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-media">融媒体智能应用方案</a></li>
                 </ul>
                 <div class="ai-net-cnt sel1">
                     <div class="ai-net-cnt-scroll">
@@ -1399,8 +1453,8 @@
                                 <p>利用视联网、AI技术或创新概念，结合京东丰富的行业资源，将城镇的系统和服务打通、集成，在城市安防、综治、环境治理、城管等方面进行应用，提升资源运用的效率，优化城市管理和服务，以及改善市民生活质量。
                                 </p>
 
-                                <div class="ai-net-cnt-btn"><a href="https://www.jdcloud.com/cn/forms/consultation"
-                                                               target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|more-smart-city">了解更多</a></div>
+                                <div class="ai-net-cnt-btn"><a href="https://www.jdcloud.com/solutions/smart-city"
+                                                               target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|smart-city">了解更多</a></div>
                             </div>
                             <div class="ai-net-cnt-img"><img
                                     src="https://img1.jcloudcs.com/portal/channel/ai/ai-net/ai-net-04.png"
@@ -1408,7 +1462,7 @@
                         </div>
                         <div class="ai-net-cnt-column">
                             <div class="ai-net-cnt-txt">
-                                <h4>物流视联网智能解决方案</h4>
+                                <h4>物流视联网智能应用方案</h4>
                                 <p>采用视频智能分析的方式，为物流行业提供深入业务场景的智能化方案。智能化识别物流场景人员、货物、场地、行为，减少投入与破损的损失，同时提升客户的体验。</p>
 
                                 <div class="ai-net-cnt-case">
@@ -1418,12 +1472,12 @@
                                                  alt="京东物流"></li>
                                     </ul>
                                 </div>
-                                <div class="ai-net-cnt-btn"><a href="https://www.jdcloud.com/cn/forms/consultation"
-                                                               target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|more-smart-logistics">了解更多</a></div>
+                                <div class="ai-net-cnt-btn"><a href="https://www.jdcloud.com/solutions/smart-logistics"
+                                                               target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|smart-logistics">了解更多</a></div>
                             </div>
                             <div class="ai-net-cnt-img"><img
                                     src="https://img1.jcloudcs.com/portal/channel/ai/ai-net/ai-net-05.png"
-                                    alt="物流视联网智能解决方案"></div>
+                                    alt="物流视联网智能应用方案"></div>
                         </div>
                         <div class="ai-net-cnt-column">
                             <div class="ai-net-cnt-txt">
@@ -1461,15 +1515,15 @@
                         </div>
                         <div class="ai-net-cnt-column">
                             <div class="ai-net-cnt-txt">
-                                <h4>融媒体智能解决方案</h4>
+                                <h4>融媒体智能应用方案</h4>
                                 <p>利用AI技术，在融媒体场景中采编、审核、发布、播放等场景进行应用。通过资源整合互补，实现“资源通融、内容兼融、宣传互融、利益共融”。</p>
 
-                                <div class="ai-net-cnt-btn"><a href="https://www.jdcloud.com/cn/forms/consultation"
-                                                               target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|more-smart-media">了解更多</a></div>
+                                <div class="ai-net-cnt-btn"><a href="https://www.jdcloud.com/solutions/smart-madia"
+                                                               target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|smart-madia">了解更多</a></div>
                             </div>
                             <div class="ai-net-cnt-img"><img
                                     src="https://img1.jcloudcs.com/portal/channel/ai/ai-net/ai-net-08.png"
-                                    alt="融媒体智能解决方案"></div>
+                                    alt="融媒体智能应用方案"></div>
                         </div>
                     </div>
                 </div>
@@ -1530,14 +1584,14 @@
                                 </p>
 
                                 <div class="ai-power-cnt-btn">
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation"
-                                       class="btn-roll" target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|more-smart-city">立即使用</a>
+                                    <a href="https://www.jdcloud.com/solutions/smart-city"
+                                       class="btn-roll" target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|smart-city">立即使用</a>
                                 </div>
                             </div>
                         </div>
                     </li>
                     <li>
-                        <a href="javascript:;" class="ai-net-m-link" name="ainet5" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-logistics">物流视联网智能解决方案</a>
+                        <a href="javascript:;" class="ai-net-m-link" name="ainet5" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-logistics">物流视联网智能应用方案</a>
                         <div class="ai-net-m-box">
                             <div class="ai-net-m-cnt">
                                 <img src="https://img1.jcloudcs.com/portal/channel/ai/ai-net/ai-net-05.png">
@@ -1551,8 +1605,8 @@
                                     </ul>
                                 </div>
                                 <div class="ai-power-cnt-btn">
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation"
-                                       class="btn-roll" target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|more-smart-logistics">立即使用</a>
+                                    <a href="https://www.jdcloud.com/solutions/smart-logistics"
+                                       class="btn-roll" target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|smart-logistics">立即使用</a>
                                 </div>
                             </div>
                         </div>
@@ -1595,15 +1649,15 @@
                         </div>
                     </li>
                     <li>
-                        <a href="javascript:;" class="ai-net-m-link" name="ainet8" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-media">融媒体智能解决方案</a>
+                        <a href="javascript:;" class="ai-net-m-link" name="ainet8" clstag="AIChannel|keycount|IntelligentVisualNetworking|tab-smart-media">融媒体智能应用方案</a>
                         <div class="ai-net-m-box">
                             <div class="ai-net-m-cnt">
                                 <img src="https://img1.jcloudcs.com/portal/channel/ai/ai-net/ai-net-08.png">
                                 <p>利用AI技术，在融媒体场景中采编、审核、发布、播放等场景进行应用。通过资源整合互补，实现“资源通融、内容兼融、宣传互融、利益共融”。</p>
 
                                 <div class="ai-power-cnt-btn">
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation"
-                                       class="btn-roll" target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|more-smart-media">立即使用</a>
+                                    <a href="https://www.jdcloud.com/solutions/smart-madia"
+                                       class="btn-roll" target="_blank" clstag="AIChannel|keycount|IntelligentVisualNetworking|smart-madia">立即使用</a>
                                 </div>
                             </div>
                         </div>
@@ -1654,7 +1708,7 @@
                             <h4>智能语音应答</h4>
                             <p>有温度、个性化语音交互，人机融合智能分流，缩短一半以上的用户等待时长，解决高峰时期爆线问题，显著提升体验与效率</p>
 
-                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="AIChannel|keycount|SmartService&Sale|smart-voice-response">查看详情 &gt;</a>
+                            <a href="https://www.jdcloud.com/solutions/voice-chatbot" target="_blank" clstag="AIChannel|keycount|SmartService&Sale|voice-chatbot">查看详情 &gt;</a>
                         </li>
                         <li>
                             <img src="https://img1.jcloudcs.com/portal/channel/ai/service/icon-qll.png">
@@ -1670,9 +1724,9 @@
                             <h4>智能质检</h4>
                         </a>
                         </li>
-                        <li><a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="AIChannel|keycount|SmartService&Sale|smart-Auxiliary-table">
+                        <li><a href="https://www.jdcloud.com/solutions/customer-service-workbench" target="_blank" clstag="AIChannel|keycount|SmartService&Sale|customer-service-workbench">
                             <img src="https://img1.jcloudcs.com/portal/channel/ai/service/icon-zngzt.png">
-                            <h4>智能辅助工作台</h4>
+                            <h4>智能坐席工作台</h4>
                         </a>
                         </li>
                         <li><a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="AIChannel|keycount|SmartService&Sale|smart-RPA">
