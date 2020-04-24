@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"品牌竞争力分析\",\"label\":[],\"desc\":\"使用先进的AI技术对某品类下的品牌，从品牌忠诚度、品牌美誉度和品牌知名度等特征进行全方位的分析，对品牌单维度和整体进行精准定位\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"品牌竞争力分析\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ml/brand_compete_analyse\",\"classTag\":\"\"}],\"desc\":\"使用先进的AI技术对某品类下的品牌，从品牌忠诚度、品牌美誉度和品牌知名度等特征进行全方位的分析，对品牌单维度和整体进行精准定位\"}",
 		"id":2064
 	},
 	{
