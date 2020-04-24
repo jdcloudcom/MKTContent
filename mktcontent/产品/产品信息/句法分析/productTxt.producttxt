@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"句法分析\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/syntactic-parsing\",\"classTag\":\"\"}],\"desc\":\"提供文本中词与词之间的依存关系和句法结构信息（如：主谓宾、定状补），帮助机器实现对用户意图的准确理解\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"句法分析\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/syntactic-parsing\",\"classTag\":\"\"}],\"desc\":\"提供文本中词与词之间的依存关系和句法结构信息（如：主谓宾、定状补），帮助机器实现对用户意图的准确理解\"}",
 		"id":1033
 	},
 	{
