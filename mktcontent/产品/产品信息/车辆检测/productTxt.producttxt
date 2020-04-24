@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"车辆检测\",\"desc\":\"准确地检测出图片或视频中车辆的位置，并返回其坐标与置信度\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"车辆检测\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/vehicle-detection\",\"classTag\":\"\"}],\"desc\":\"准确地检测出图片或视频中车辆的位置，并返回其坐标与置信度\"}",
 		"id":2012
 	},
 	{
