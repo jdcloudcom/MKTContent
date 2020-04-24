@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"短文本相似度\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/short-text-similarity\",\"classTag\":\"\"}],\"desc\":\"提供不同短文本之间相似度的计算，输出的相似度是一个介于0到1之间的实数值，越大则相似度越高。这个相似度值可以直接用于结果排序，也可以作为一维基础特征作用于更复杂的系统\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"短文本相似度\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/short-text-similarity\",\"classTag\":\"\"}],\"desc\":\"提供不同短文本之间相似度的计算，输出的相似度是一个介于0到1之间的实数值，越大则相似度越高。这个相似度值可以直接用于结果排序，也可以作为一维基础特征作用于更复杂的系统\"}",
 		"id":1041
 	},
 	{
