@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"行人重识别\",\"desc\":\"检测图片中的人体，根据图片中一个行人的服饰，肤色，身高，体态等人体特点，提取行人的特征，返回其特征值\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"行人重识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/body/pedestrian-recognition\",\"classTag\":\"\"}],\"desc\":\"检测图片中的人体，根据图片中一个行人的服饰，肤色，身高，体态等人体特点，提取行人的特征，返回其特征值\"}",
 		"id":1904
 	},
 	{
