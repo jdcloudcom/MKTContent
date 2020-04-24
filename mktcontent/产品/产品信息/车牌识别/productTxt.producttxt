@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"车牌识别\",\"desc\":\"准确识别用户上传图片中是否有车牌，车牌号的蓝牌、绿牌、黄牌等颜色信息，以及车牌在图片中的位置、车牌号的地域编号和车牌号字段\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"车牌识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/ocr-for-vehicle-license-plate\",\"classTag\":\"\"}],\"desc\":\"准确识别用户上传图片中是否有车牌，车牌号的蓝牌、绿牌、黄牌等颜色信息，以及车牌在图片中的位置、车牌号的地域编号和车牌号字段\"}",
 		"id":2044
 	},
 	{
