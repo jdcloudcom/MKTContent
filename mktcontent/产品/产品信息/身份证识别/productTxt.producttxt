@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"身份证识别\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/identity-card-recognize\",\"classTag\":\"\"}],\"desc\":\"识别二代居民身份证正反面的关键字段识别，包括姓名、性别、民族、出生日期、住址、身份证号、签发机关、有效期限，识别准确率业内领先，稳定可靠\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"身份证识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/identity-card-recognize\",\"classTag\":\"\"}],\"desc\":\"识别二代居民身份证正反面的关键字段识别，包括姓名、性别、民族、出生日期、住址、身份证号、签发机关、有效期限，识别准确率业内领先，稳定可靠\"}",
 		"id":1053
 	},
 	{
