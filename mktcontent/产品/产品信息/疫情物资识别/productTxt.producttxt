@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"疫情物资识别\",\"desc\":\"基于领先的商品识别、OCR和商品图片搜索算法能力，在多个分类的应急医疗物资图片中快速识别对应的医疗物资\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"疫情物资识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/identification-of-epidemic-materials\",\"classTag\":\"\"}],\"desc\":\"基于领先的商品识别、OCR和商品图片搜索算法能力，在多个分类的应急医疗物资图片中快速识别对应的医疗物资\"}",
 		"id":1912
 	},
 	{
