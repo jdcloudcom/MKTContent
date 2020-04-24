@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"词法分析\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/lexical-analysis\",\"classTag\":\"\"}],\"desc\":\"提供中文分词、词性标注、命名实体识别三个功能，解析自然语言中的基本语言元素，并赋予词性，识别文本中的特定类型的事物名称或符号，支撑自然语言的准确理解\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"词法分析\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/lexical-analysis\",\"classTag\":\"\"}],\"desc\":\"提供中文分词、词性标注、命名实体识别三个功能，解析自然语言中的基本语言元素，并赋予词性，识别文本中的特定类型的事物名称或符号，支撑自然语言的准确理解\"}",
 		"id":1029
 	},
 	{
