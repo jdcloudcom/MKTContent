@@ -1288,16 +1288,30 @@
 		"main_title":""
 	},
 	{
-		"sub_title":"暨航天周启动仪式  4月24日 10:00开始直播",
+		"sub_title":"暨航天周启动仪式   4月24日10:00开始直播",
 		"name":"西安直播",
 		"id":1232,
 		"button_title":"查看详情",
-		"main_title":"国际商业航天产业联盟成立"
+		"main_title":"HELLO航天 “国际商业航天产业联盟”成立仪式"
 	},
 	{
 		"sub_title":"",
 		"name":"AI nlp",
 		"id":1234,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"赚积分秘笈大公开 / 下单立返3000京豆 / 互动瓜分5万京豆",
+		"name":"无线宝路由器",
+		"id":1236,
+		"button_title":"立即围观",
+		"main_title":"无线宝路由器 爆款直播 独家优惠"
+	},
+	{
+		"sub_title":"",
+		"name":"京东小魔方",
+		"id":1238,
 		"button_title":"",
 		"main_title":""
 	}
