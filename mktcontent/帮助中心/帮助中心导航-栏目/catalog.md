@@ -1519,7 +1519,7 @@
 	},
 	{
 		"summary":"",
-		"name":"物联网卡服务",
+		"name":"物联网连接服务",
 		"id":3335
 	},
 	{
@@ -2306,5 +2306,10 @@
 		"summary":"",
 		"name":"SD-WAN",
 		"id":3600
+	},
+	{
+		"summary":"",
+		"name":"NeuFoundry",
+		"id":3601
 	}
 ]
