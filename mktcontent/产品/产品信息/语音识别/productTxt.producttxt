@@ -12,7 +12,7 @@
 		"id":1003
 	},
 	{
-		"txt":"[{\"name\":\"客服录音分析\",\"instruction\":\"客服录音分析将用户与客服的对话转成文字，挖掘用户的情绪，分析客服的回答水平，实现音频的大数据分析\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"零售商品查询\",\"instruction\":\"零售商品查询用户直接以语音的方式，查找自己想要的商品，代替原有的打字查询，让搜索更加高效\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"金融机器人顾问\",\"instruction\":\"金融机器人顾问用户可用对话的方式，了解金融相关资讯\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"客服录音分析\",\"instruction\":\"将用户与客服的对话转成文字，挖掘用户的情绪，分析客服的回答水平，实现音频的大数据分析\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"零售商品查询\",\"instruction\":\"用户直接以语音的方式，查找自己想要的商品，代替原有的打字查询，让搜索更加高效\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"金融机器人顾问\",\"instruction\":\"用户可用对话的方式，了解金融相关资讯\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":1004
 	}
 ]
