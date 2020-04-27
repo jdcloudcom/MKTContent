@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"智能鉴黄\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/image-antiporn-recognize\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的深度学习图像识别技术，对图片影像的肤色、姿态和场景等进行智能识别，准确快速的输出每张图片“色情”、\\\"低俗”、“性感”、“正常”的概率，其中色情图片准确率高达 99.95%，有效的规避涉黄\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"智能鉴黄\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/image-antiporn-recognize\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的深度学习图像识别技术，对图片影像的肤色、姿态和场景等进行智能识别，准确快速的输出每张图片“色情”、\\\"低俗”、“性感”、“正常”的概率，识别精准，有效规避涉黄风险\"}",
 		"id":1089
 	},
 	{
