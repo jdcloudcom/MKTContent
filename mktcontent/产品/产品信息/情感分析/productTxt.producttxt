@@ -12,7 +12,7 @@
 		"id":1039
 	},
 	{
-		"txt":"[{\"name\":\"情感交互\",\"instruction\":\"情感交互按情感极性以分类提取，增加用户体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"情感分析\",\"instruction\":\"情感分析通过评论情感分析，辅助决策\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"舆情分析\",\"instruction\":\"舆情分析舆情分析把握热点信息的情感倾向性变化\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"情感交互\",\"instruction\":\"情感交互按情感极性以分类提取，增加用户体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"情感分析\",\"instruction\":\"通过评论情感分析，辅助决策\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"舆情分析\",\"instruction\":\"把握热点信息的情感倾向性变化\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":1040
 	}
 ]
