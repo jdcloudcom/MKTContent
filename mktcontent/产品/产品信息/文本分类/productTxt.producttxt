@@ -12,7 +12,7 @@
 		"id":1051
 	},
 	{
-		"txt":"[{\"name\":\"领域分类\",\"instruction\":\"领域分类自动化分类文本，进行预分类判断\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"智能硬件赋能\",\"instruction\":\"智能硬件赋能针对智能硬件赋予语音交互的能力\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"其他场景\",\"instruction\":\"其他场景满足各个行业领域文本分类相关场景需求\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"领域分类\",\"instruction\":\"自动化分类文本，进行预分类判断\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"智能硬件赋能\",\"instruction\":\"赋能针对智能硬件赋予语音交互的能力\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"其他场景\",\"instruction\":\"满足各个行业领域文本分类相关场景需求\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":1052
 	}
 ]
