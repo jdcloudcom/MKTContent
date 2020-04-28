@@ -33,5 +33,30 @@
 		"partner_type":"Cloud Marketplace Partner",
 		"description":"The Cloud Marketplace of JD Cloud & AI, serving as the gateway connecting service providers and customers, is a technology-driven one-stop IT service trading platform for enterprises.",
 		"id":93
+	},
+	{
+		"partner_type":"Standard Level",
+		"description":"Standard Level",
+		"id":94
+	},
+	{
+		"partner_type":"Silver Medal Level",
+		"description":"Silver Medal Level",
+		"id":95
+	},
+	{
+		"partner_type":"Gold Medal Level/JD Selection Level",
+		"description":"Gold Medal Level",
+		"id":96
+	},
+	{
+		"partner_type":"Diamond Level/JD Elite Level",
+		"description":"Diamond Level",
+		"id":97
+	},
+	{
+		"partner_type":"Strategy Level",
+		"description":"Strategy Level",
+		"id":98
 	}
 ]

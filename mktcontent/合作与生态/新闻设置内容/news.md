@@ -1910,5 +1910,13 @@
 		"jss_key":"News_Content_804",
 		"id":804,
 		"news_title":"JD Cloud & AI SCRM works with SINObase to enable the new marketing form"
+	},
+	{
+		"summary":"It is the first intelligent loudspeaker box hardware product after the brand upgrade of JD Cloud & AI in the last month. It covers multi-mode AI futuristic technology with man-machine interaction, and fully opens the rich resources on JDWhale Ecological Platform, massive audiovisual contents, caring life services, personalized smart home control, etc., to make i8 Pro a milestone for the IoT era.",
+		"image_url":"//img1.jcloudcs.com/cms/60a16477-290d-43f0-aee9-6541bbaa8d4d20200421102235.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_808",
+		"jss_key":"News_Content_808",
+		"id":808,
+		"news_title":"JD Cloud & AI Releases New Product JDWhale Smart Screen i8 Pro  Witness Love Connections with \"IoT\""
 	}
 ]

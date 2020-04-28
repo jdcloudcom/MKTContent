@@ -10,5 +10,9 @@
 	{
 		"txt":"[{\"funcName\":\"Intelligent Maintenance\",\"funcContent\":[{\"funcTitle\":\"Maintenance Searching the People\",\"funcP\":\"Connect with automobile enterprise clouds, realize intelligent match and precise recommendation for maintenance products via vehicle-detection data and environment data and support authorized service systems of full guide OEM.\"}]},{\"funcName\":\"Car Washing\",\"funcContent\":[{\"funcTitle\":\"Enjoy high-quality car washing service\",\"funcP\":\"Have 12,000 cooperation stores and provide quality guarantee via the JCH stores. The Car Washing service provides precision push and adopts the simple and convenient method of in-vehicle appointment and in-store write off\"}]},{\"funcName\":\"Rescue\",\"funcContent\":[{\"funcTitle\":\"Road Rescue, Second-level Delivery\",\"funcP\":\"Provide overall coverage of 800+ professional rescue companies in cities as well as 2800+ professional repair plants in counties, guaranteeing rescue in remote villages and towns. Support charging, car towing and tire repair and support rapid audio initialization for rescue and automatic positioning, shortening interaction process.\"}]}]",
 		"id":1960
+	},
+	{
+		"txt":"{\"price\":\"https://docs.jdcloud.com/en/iov-mobility-service/billing-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":1975
 	}
 ]
