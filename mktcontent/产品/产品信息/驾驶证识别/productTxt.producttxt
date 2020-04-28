@@ -12,7 +12,7 @@
 		"id":2010
 	},
 	{
-		"txt":"[{\"name\":\"司机身份认证\",\"instruction\":\"交通驾驶、网约车司机身份核查、共享汽车快速注册等，对司机信息进行快速录入，降低信息输入成本，准确快速便捷\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"车主服务\",\"instruction\":\"违章查询、汽车内容平台、导航平台等使用场景下的快速信息录入\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"司机身份认证\",\"instruction\":\"交通驾驶、网约车司机身份核查、共享汽车快速注册等，对司机信息进行快速录入，降低信息输入成本，准确快速便捷\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"车主服务\",\"instruction\":\"违章查询、汽车内容平台、导航平台等使用场景下的快速信息录入，降低用户信息输入成本，提升用户使用体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":2011
 	}
 ]
