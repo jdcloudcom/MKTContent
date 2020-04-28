@@ -12,7 +12,7 @@
 		"id":1914
 	},
 	{
-		"txt":"[{\"name\":\"疫情物资识别\",\"instruction\":\"在仓库中入库、整理、出库各个环节对物资进行识别，帮助管理人员快速进行登记、盘点等\\n\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"物资追踪\",\"instruction\":\"在疫情期间，救援行动时间紧任务重。医疗物资是否能够快速、准确到位影响到整个疫情战役的发展。对物资流动去向成为了关键。在出库、运输、签收、使用的各个环节都利用可以物资识别技术进行识别追踪\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"物资识别\",\"instruction\":\"在疫情期间，会有大量医疗物资涌向仓库、政府机构、医疗机构、社区等，由于一线工作人员平时对相关知识掌握较少，在识别相关物资上效率较低，通过识别算法可以帮助一线人员快速识别确认物资\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"物资库存管理\",\"instruction\":\"在仓库中入库、整理、出库各个环节对物资进行识别，帮助管理人员快速进行登记、盘点等\\n\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"物资追踪\",\"instruction\":\"在疫情期间，救援行动时间紧任务重。医疗物资是否能够快速、准确到位影响到整个疫情战役的发展。对物资流动去向成为了关键。在出库、运输、签收、使用的各个环节都利用可以物资识别技术进行识别追踪\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"物资识别\",\"instruction\":\"在疫情期间，会有大量医疗物资涌向仓库、政府机构、医疗机构、社区等，由于一线工作人员平时对相关知识掌握较少，在识别相关物资上效率较低，通过识别算法可以帮助一线人员快速识别确认物资\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":1915
 	}
 ]
