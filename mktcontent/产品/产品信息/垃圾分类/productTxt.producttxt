@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"垃圾分类\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/garbage-classification\",\"classTag\":\"\"}],\"desc\":\"垃圾分类识别API可用于解决令人头疼的垃圾分类问题。基于京东AI庞大商品识别能力进行拓展，提供数亿种生活垃圾的辨识和分类建议，支持多模态（图片、文字、语音）搜索，支持快速场景搭建\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"垃圾分类\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/garbage-classification\",\"classTag\":\"\"}],\"desc\":\"基于京东AI庞大商品识别能力进行拓展，提供数亿种生活垃圾的辨识和分类建议，支持多模态（图片、文字、语音）搜索，支持快速场景搭建\"}",
 		"id":1892
 	},
 	{
