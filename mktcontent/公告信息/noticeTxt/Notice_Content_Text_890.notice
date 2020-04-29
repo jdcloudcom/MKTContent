@@ -1,0 +1,17 @@
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0"><span style="font-family: 微软雅黑, sans-serif;">为提高流数据总线（公测中）、流计算（公测中）后端服务稳定性，京东云计划于2020年4月28日21:00至4月29日06:00，“流数据总线”及“流计算”产品进行升级维护。</span>
+<br/></p>
+<p>具体影响及注意事项如下<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">：</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom: 5px;margin-left:0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px"><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">1.</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">4</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">月28日21:00:00至次日06:00:00，升级维护期间，</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif;color:black"></span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">将暂停“流总线”的控制台使用。请您提前做好相应准备，避开此时段的登录控制台操作。</span>
+</p>
+<p><span style="font-family:&#39;Arial&#39;,sans-serif;color:black">2.</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+4月29日06:00:00升级维护完成后，请您登陆控制台重新启动流计算任务。</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing:0px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">维护完成后“流总线”服务及控制台相关功能将恢复正常使用。本次升级给您带来的不便，敬请谅解。如需帮助，请您及时与我们工单或电话联系，400-615-1212，感谢您的支持。</span>
+</p>
+<p><br/></p>
