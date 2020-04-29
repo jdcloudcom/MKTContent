@@ -4,7 +4,7 @@
 		"id":1948
 	},
 	{
-		"txt":"[{\"showShade\":false,\"proGood\":\"完全托管\",\"proName\":\"快速部署，易于管理。用户只需专注于业务开发，无需部署运维，分钟级即可成功创建出Zookeeper实例。\"},{\"showShade\":false,\"proGood\":\"兼容开源\",\"proName\":\"100%兼容开源Zookeeper。业务代码无需任何改造，即可无缝迁移上云。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全性\",\"proName\":\"资源独享，安全可控。部署在逻辑隔离的用户VPC内，杜绝了外网直连风险，保障了用户资源的安全。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高可用\",\"proName\":\"每个节点都保存有完整数据，允许实例中的某些节点挂掉而不影响整个实例工作\"}]",
+		"txt":"[{\"showShade\":false,\"proGood\":\"完全托管\",\"proName\":\"快速部署，易于管理。用户只需专注于业务开发，无需部署运维，分钟级即可成功创建出Zookeeper实例。\"},{\"showShade\":false,\"proGood\":\"兼容开源\",\"proName\":\"100%兼容开源Zookeeper。业务代码无需任何改造，即可无缝迁移上云。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全性\",\"proName\":\"资源独享，安全可控。部署在逻辑隔离的用户VPC内，杜绝了外网直连风险，保障了用户资源的安全。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高可用\",\"proName\":\"每个节点都保存有完整数据，允许实例中的部分节点挂掉而不影响整个实例工作\"}]",
 		"id":1949
 	},
 	{
