@@ -20,7 +20,7 @@
 		"id":1881
 	},
 	{
-		"txt":"[{\"name\":\"该产品适用于哪些场景？\",\"link\":\"https://docs.jdcloud.com/cn/jdwhale-dcs/application-scenarios\",\"classTag\":\"\"},{\"name\":\"如何接入？\",\"link\":\"https://docs.jdcloud.com/cn/jdwhale-dcs/overview\",\"classTag\":\"\"},{\"name\":\"license到期后怎么办？\",\"link\":\"https://docs.jdcloud.com/cn/jdwhale-dcs/faq\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"该产品适用于哪些场景？\",\"link\":\"https://docs.jdcloud.com/cn/jdwhale-dcs/application-scenarios\",\"classTag\":\"\"},{\"name\":\"如何接入？\",\"link\":\"https://docs.jdcloud.com/cn/jdwhale-dcs/start-overview\",\"classTag\":\"\"},{\"name\":\"license到期后怎么办？\",\"link\":\"https://docs.jdcloud.com/cn/jdwhale-dcs/faq\",\"classTag\":\"\"}]",
 		"id":1961
 	}
 ]
