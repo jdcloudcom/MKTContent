@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"Bank Card Number Recognize\",\"desc\":\"Based on industry-leading deep learning technology, recognize key fields including bank card number and bank name, achieving accuracy and reliability\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"Bank Card Number Recognize\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/ocr-for-bank-card\",\"classTag\":\"\"}],\"desc\":\"Based on industry-leading deep learning technology, recognize key fields including bank card number and bank name, achieving accuracy and reliability\"}",
 		"id":1061
 	},
 	{

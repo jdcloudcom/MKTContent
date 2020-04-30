@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"Business License Recognize\",\"desc\":\"Based on leading deep learning technology of the industry, it can recognize key fields in business licenses, including key fields: unified social credit code/registration number, unit name, legal person, address, validity, etc., achieving accuracy and reliability\",\"label\":[],\"instruction\":[]}",
+		"txt":"{\"instruction\":[],\"productName\":\"Business License Recognize\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/ocr-for-business-license\",\"classTag\":\"\"}],\"desc\":\"Based on leading deep learning technology of the industry, it can recognize key fields in business licenses, including key fields: unified social credit code/registration number, unit name, legal person, address, validity, etc., achieving accuracy and reliability\"}",
 		"id":1069
 	},
 	{

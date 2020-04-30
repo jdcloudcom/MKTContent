@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Syntactic Parsing\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/syntactic-parsing\",\"classTag\":\"\"}],\"desc\":\"Provide dependency relationship and syntactic structure information between words in texts (such as subject-verb-object and attribute-adverbial-complement) and help the machine precisely understand the user’s intentions\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Syntactic Parsing\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/syntactic-parsing\",\"classTag\":\"\"}],\"desc\":\"Provide dependency relationship and syntactic structure information between words in texts (such as subject-verb-object and attribute-adverbial-complement) and help the machine precisely understand the user’s intentions\"}",
 		"id":1033
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":1035
 	},
 	{
-		"txt":"[{\"name\":\"Semantics Comprehension\",\"instruction\":\"For Semantics Comprehension  The structure information of dependency grammar with correct comprehension can increase accuracy of semantic comprehension tasks such as intention type and the like\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Semantics Match\",\"instruction\":\"Semantics Match can increase semantic match computing accuracy\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Real Database Setup\",\"instruction\":\"Explore more entities, relations and semantics relations\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"Semantics Comprehension\",\"instruction\":\"The structure information of dependency grammar with correct comprehension can increase accuracy of semantic comprehension tasks such as intention type and the like\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Semantics Match\",\"instruction\":\"Semantics Match can increase semantic match computing accuracy\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Real Database Setup\",\"instruction\":\"Explore more entities, relations and semantics relations\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":1036
 	}
 ]

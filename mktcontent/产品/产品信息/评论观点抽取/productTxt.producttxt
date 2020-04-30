@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Commentary Extraction\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/commentary-extraction\",\"classTag\":\"\"}],\"desc\":\"Automatically analyze the commentary focus and point, extract the viewpoint tags for the comment. Assist users with content generation, decision-making on product, operation monitoring and so on\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Commentary Extraction\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/commentary-extraction\",\"classTag\":\"\"}],\"desc\":\"Automatically analyze the commentary focus and point, extract the viewpoint tags for the comment. Assist users with content generation, decision-making on product, operation monitoring and so on\"}",
 		"id":1045
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":1047
 	},
 	{
-		"txt":"[{\"name\":\"Commentary Extraction\",\"instruction\":\"Commentary Extraction extracts the tag category in the comment to assist in decision-making\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Summarization Generation\",\"instruction\":\"Summarization generation point extraction, summarization generation, enhance quality\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Industry Research\",\"instruction\":\"Industry Research gives feedback on user's focus of hot-spots to assist in decision-making\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"Commentary Extraction\",\"instruction\":\"Extract the tag category in the comment to assist in decision-making\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Summarization Generation\",\"instruction\":\"Summarization is generated for comments containing a lot of contents\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Industry Research\",\"instruction\":\"Industry Research gives feedback on user's focus of hot-spots to assist in decision-making\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":1048
 	}
 ]

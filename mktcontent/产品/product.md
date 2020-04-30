@@ -412,7 +412,7 @@
 		"id":1229
 	},
 	{
-		"name":"Text to Speech",
+		"name":"Text to Speech-Standard Quality",
 		"id":1230
 	},
 	{
@@ -468,6 +468,10 @@
 		"id":1243
 	},
 	{
+		"name":"Bank Card Number Recognize",
+		"id":1244
+	},
+	{
 		"name":"General Image OCR",
 		"id":1245
 	},
@@ -520,7 +524,7 @@
 		"id":1267
 	},
 	{
-		"name":"IoT Card Service",
+		"name":"IoT Connection Service",
 		"id":1268
 	},
 	{

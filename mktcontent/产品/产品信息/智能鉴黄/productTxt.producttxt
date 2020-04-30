@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Intelligent Anti-porn\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/image-antiporn-recognize\",\"classTag\":\"\"}],\"desc\":\"Based on leading deep learning image recognition technology of the industry, intelligent recognition can be made to complexion, posture, scenario and others of images, “pornographic”, “vulgar”, “sexy” and “normal” probability of each image can be precisely and rapidly output, with pornographic image accuracy up to 99.95%, therefore effectively avoid pornographic contents\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Intelligent Anti-porn\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/image-antiporn-recognize\",\"classTag\":\"\"}],\"desc\":\"Based on leading deep learning image recognition technology of the industry, intelligent recognition can be made to complexion, posture, scenario and others of images, \\\"pornographic\\\", \\\"vulgar\\\", \\\"sexy\\\" and \\\"normal\\\" probability of each image can be precisely and rapidly output, so as to avoid pornographic risks by virtue of accurate recognition\"}",
 		"id":1089
 	},
 	{
@@ -8,7 +8,7 @@
 		"id":1090
 	},
 	{
-		"txt":"[{\"funcName\":\"Image Detection\",\"funcContent\":[{\"funcTitle\":\"Detect and recognize effective information in images\",\"funcP\":\"Based on images uploaded by users, recognize complexion, posture and scenario in images \"}]},{\"funcName\":\"Output pornographic content probability in images\",\"funcContent\":[{\"funcTitle\":\"Detect and output pornographic content probability in each image\",\"funcP\":\"Output probability of “pornographic”, “vulgar”, “sexy” and “normal” in each image\"}]}]",
+		"txt":"[{\"funcName\":\"Image Detection\",\"funcContent\":[{\"funcTitle\":\"Detect and recognize effective information in images\",\"funcP\":\"Based on images uploaded by users, recognize complexion, posture and scenario in images \"}]},{\"funcName\":\"Output pornographic content probability in images\",\"funcContent\":[{\"funcTitle\":\"Detect and output pornographic content probability in each image\",\"funcP\":\"Output probability of \\\"pornographic\\\", \\\"vulgar\\\", \\\"sexy\\\" and \\\"normal\\\" in each image\"}]}]",
 		"id":1091
 	},
 	{

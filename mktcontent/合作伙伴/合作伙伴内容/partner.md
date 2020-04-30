@@ -16,43 +16,11 @@
 		"tableName":"cms_partner"
 	},
 	{
-		"name":"Guangzhou Jiuheng Science and Technology Co., Ltd.",
-		"description":"It is an IoT company providing cloud services, cloud data products and professional services for developers and enterprises. The company's main business scope includes JD Cloud Onboarding consultation, JD Cloud Onboarding implementation, data migration, cybersecurity classified protection service, big data analysis, SMS marketing, CDN, etc., providing integrated solutions of \"hardware product + software platform + scenario application\" for customers. The mission of the company is to help enterprises transform from traditional IT to Internet through external transfer of strong Internet technology experience and advanced technologies.",
-		"short_name":"Jiuheng Science and Technology",
-		"id":643,
-		"partner_label":"Distribution Channel Partner",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Guangzhou Qingran Science and Technology Co., Ltd.",
-		"description":"It is an IT science and technology enterprise engaged in cloud computing, cloud security and big data. It provides all-round IT services including cloud onboarding, data migration, big data analysis, cybersecurity classified protection service, SMS marketing, private cloud erection, CDN and various mature SaaS products. Since its establishment, it has been insisting on the operation concept of \"providing reputation-oriented service to customers and growing with customers\", provides high-quality service for the information building of hundreds of enterprises and public institutions, and has become an influential cloud service provider in the province.",
-		"short_name":"Qingran Science and Technology",
-		"id":644,
-		"partner_label":"Distribution Channel Partner",
-		"tableName":"cms_partner"
-	},
-	{
 		"name":"Beijing You Ji Technology Co., Ltd.",
 		"description":"You Ji Technology is an intelligent financial technology company engaged in the credit evaluation on small and micro businesses and individuals based on machine learning and AI.  It takes financial technology as the core, aims at the credit granting for the young people, profiles their credit, and devotes itself to satisfying the credit demands of the young people in different scenarios on different credit lines.  It cooperates with several well-known third-party credit rating agencies, and is engaged in creating an individual credit rating platform based on years of online operation experience",
 		"short_name":"You Ji",
 		"id":647,
 		"partner_label":"Product Solution Partner",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Xiaotui (Wuhan) Information Technology Co., Ltd.",
-		"description":"It aims at solving the decision-making and releasing issues of enterprises during marketing and promotion and becoming the most caring marketing expert for marketing decision-making of enterprises; now Xiaotui has served hundreds of customers, received their recognition, satisfied their expected KPI, and provided differentiated service contents for different customers; based on the big data capability of JD, it carries out multi-dimensional analysis on release+e-commerce indicators and helps brands build all-round marketing capability.",
-		"short_name":"Xiaotui",
-		"id":648,
-		"partner_label":"Distribution Channel Partner",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Beijing Dina Aoli Technology Co., Ltd.",
-		"description":"As a national-level high-tech enterprise, it centers on its self-developed enterprise refined operational automotive products and solutions, provides refined operational products and services in the marketing field for enterprises and merchants, and improves their operational efficiency and market input-output ratio. Meanwhile, it empowers cutting-edge technological start-up businesses to realize the implementation of their industries.",
-		"short_name":"Dina Aoli",
-		"id":649,
-		"partner_label":"Distribution Channel Partner",
 		"tableName":"cms_partner"
 	},
 	{
@@ -112,27 +80,11 @@
 		"tableName":"cms_partner"
 	},
 	{
-		"name":"China Mobile IoT Co., Ltd.",
-		"description":"Led by the \"big connection\" strategy, China Mobile IoT centers on the public IoT to expand the upstream and downstream industry chain, focuses on five major parts, i.e. intelligent connection, chip module, open platform, intelligent hardware and industry application, forms the IoT \"Cloud-Channel-Device\" service capability, strongly supports various businesses of all departments in the group, and presents a good growing trend.",
-		"short_name":"China Mobile IoT",
-		"id":657,
-		"partner_label":"Distribution Channel Partner",
-		"tableName":"cms_partner"
-	},
-	{
 		"name":"Xiamen Nascent Co., Ltd.",
 		"description":"Nascent has been devoted to providing customer data mining and operation in the big data field in China for retail enterprises. It was founded in 2010. After more than 9 years of development, it has helped retail enterprises manage more than 400 million consumers, and been concentrated on \"creating sustained value for customers\".   ",
 		"short_name":"Nascent",
 		"id":658,
 		"partner_label":"Product Solution Partner",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Xiamen Nascent Co., Ltd.",
-		"description":"Nascent has been devoted to providing customer data mining and operation in the big data field in China for retail enterprises. It was founded in 2010. After more than 9 years of development, it has helped retail enterprises manage more than 400 million consumers, and been concentrated on \"creating sustained value for customers\".   ",
-		"short_name":"Nascent",
-		"id":659,
-		"partner_label":"Distribution Channel Partner",
 		"tableName":"cms_partner"
 	},
 	{
@@ -148,6 +100,94 @@
 		"description":"Digital China Cloud Technology Limited is the largest IT distributor and added value distributor in China, and now it has transformed into a cloud service provider, which happens to be consistent with the intention of JD Cloud & AI to explore the toB market.",
 		"short_name":"Digital China Cloud Technology Limited",
 		"id":661,
+		"partner_label":"Distribution Channel Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing O-O Consulting Co., Ltd.",
+		"description":"As a top-level domestic consulting company in government sector, the company has been highly recognized by relevant national ministries and commissions, and committed to many system development and construction projects, research projects and consulting services for national ministries and commissions. In addition, Infinity Technology also undertakes large-scale system integration and development projects and comprehensive reform advisory and consulting projects for some provincial government departments and local governments.",
+		"short_name":"",
+		"id":662,
+		"partner_label":"Product Solution Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"51WORLD",
+		"description":"51WORLD is a Chinese original technology company providing digital twin products and services. The company's core products involve total-factor scenarios integrating visual reality, physical simulation, geographic information and real-time interaction, and business scenarios covering sectors of government affairs, park-district, traffic, 5G IoV, water utility, electricity, factory, building, airport, port, and scenic area. The company devotes itself to digital twin technologies in order to facilitate digital, visual and intelligent upgrade in every sector.",
+		"short_name":"51world",
+		"id":663,
+		"partner_label":"Product Solution Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Global Safety Technology Co., Ltd.",
+		"description":"As an international public safety product and service provider, GSAFETY is dedicated to providing governments, emergency authorities, sectors and large enterprises with software products related to fire safety, industrial security, emergency management, urban safety and operational monitoring, emergency device marketing and technical services, and disaster risk monitoring warning, civil air defense, environmental safety, park-district safety, social security and safety culture services, as well as top-level design, construction and operation services for urban public safety.",
+		"short_name":"",
+		"id":664,
+		"partner_label":"Product Solution Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Sefon Software Co., Ltd.",
+		"description":"Sefon Software Co., Ltd. (Sefonsoft), a leading provider of big data and artificial intelligence products and services, commits to engaging in the big data processing and intelligent analysis services. It has been enlarging its investment in innovation and R&D of data products, and serves the world with platform products comprising big data integration, big data storage and computing, big data governance, big data intelligent analysis and big data visualization as well as big data solutions for different industries.",
+		"short_name":"Sefonsoft",
+		"id":665,
+		"partner_label":"Product Solution Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Baijia Shilian Science and Technology Co., Ltd.",
+		"description":"BAIJIAYUN.COM is a high-tech enterprise owning audio-video core technologies and intellectual property rights. The company uses its leading audio-video technologies to help enterprises with business development and innovation and provide one-stop audio technology solutions based on cloud computing for education, finance, medical, government and enterprise live streaming fields.",
+		"short_name":"BAIJIAYUN.COM",
+		"id":666,
+		"partner_label":"Product Solution Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Xiamen Nascent Co., Ltd.",
+		"description":"Nascent has been devoted to providing customer data mining and operation in the big data field in China for retail enterprises. It was founded in 2010. After more than 9 years of development, it has helped retail enterprises manage more than 400 million consumers, and been concentrated on \"creating sustained value for customers\".   ",
+		"short_name":"Nascent",
+		"id":667,
+		"partner_label":"Distribution Channel Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"China Mobile IoT Co., Ltd.",
+		"description":"Led by the \"big connection\" strategy, China Mobile IoT centers on the public IoT to expand the upstream and downstream industry chain, focuses on five major parts, i.e. intelligent connection, chip module, open platform, intelligent hardware and industry application, forms the IoT \"Cloud-Channel-Device\" service capability, strongly supports various businesses of all departments in the group, and presents a good growing trend.",
+		"short_name":"China Mobile IoT",
+		"id":668,
+		"partner_label":"Distribution Channel Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Dina Aoli Technology Co., Ltd.",
+		"description":"As a national-level high-tech enterprise, it centers on its self-developed enterprise refined operational automotive products and solutions, provides refined operational products and services in the marketing field for enterprises and merchants, and improves their operational efficiency and market input-output ratio. Meanwhile, it empowers cutting-edge technological start-up businesses to realize the implementation of their industries.",
+		"short_name":"Dina Aoli",
+		"id":669,
+		"partner_label":"Distribution Channel Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Xiaotui (Wuhan) Information Technology Co., Ltd.",
+		"description":"It aims at solving the decision-making and releasing issues of enterprises during marketing and promotion and becoming the most caring marketing expert for marketing decision-making of enterprises; now Xiaotui has served hundreds of customers, received their recognition, satisfied their expected KPI, and provided differentiated service contents for different customers; based on the big data capability of JD, it carries out multi-dimensional analysis on release+e-commerce indicators and helps brands build all-round marketing capability.",
+		"short_name":"Xiaotui",
+		"id":670,
+		"partner_label":"Distribution Channel Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Guangzhou Qingran Science and Technology Co., Ltd.",
+		"description":"It is an IT science and technology enterprise engaged in cloud computing, cloud security and big data. It provides all-round IT services including JD Cloud onboarding, data migration, big data analysis, cybersecurity classified protection service, SMS marketing, private cloud erection, CDN and various mature SaaS products. Since its establishment, it has been insisting on the operation concept of \"providing reputation-oriented service to customers and growing with customers\", provides high-quality service for the information building of hundreds of enterprises and public institutions, and has become an influential cloud service provider in the province.",
+		"short_name":"Qingran Science and Technology",
+		"id":671,
+		"partner_label":"Distribution Channel Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Guangzhou Jiuheng Science and Technology Co., Ltd.",
+		"description":"It is an IoT company providing cloud services, cloud data products and professional services for developers and enterprises. The company's main business scope includes JD Cloud Onboarding consultation, JD Cloud Onboarding implementation, data migration, cybersecurity classified protection service, big data analysis, SMS marketing, CDN, etc., providing integrated solutions of \"hardware product + software platform + scenario application\" for customers. The mission of the company is to help enterprises transform from traditional IT to Internet through external transfer of strong Internet technology experience and advanced technologies.",
+		"short_name":"Jiuheng Science and Technology",
+		"id":672,
 		"partner_label":"Distribution Channel Partner",
 		"tableName":"cms_partner"
 	}

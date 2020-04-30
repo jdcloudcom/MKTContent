@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Automatic Speech Recognition\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"https://ai-console.jdcloud.com/voice/automatic-speech-recognition\",\"classTag\":\"\"}],\"desc\":\"Convert speech into text. Support recognition of multiple scenarios and provide voice solutions for scenarios such as retail, customer service and finance\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Automatic Speech Recognition\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/voice/automatic-speech-recognition\",\"classTag\":\"\"}],\"desc\":\"Convert speech into text. Support recognition of multiple scenarios and provide voice solutions for scenarios such as retail, customer service and finance\"}",
 		"id":1001
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":1003
 	},
 	{
-		"txt":"[{\"name\":\"Customer Service Recording Analysis\",\"instruction\":\"Customer Service Recording Analysis will convert the conversation between a user and the customer service personnel into text to mine the user's emotion, analyze the answering level of the customer service personnel and implement big data analysis of the audio\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Retail Commodity Search\",\"instruction\":\"Retail Commodity Search Users can search the commodity they want by voice instead of typing to make the search more efficient\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Financial Robot Advisor\",\"instruction\":\"Financial Robot Advisor Users can get information related to finance by way of conversion\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"Customer Service Recording Analysis\",\"instruction\":\"It will convert the conversation between a user and the customer service personnel into text to mine the user's emotion, analyze the answering level of the customer service personnel and implement big data analysis of the audio\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Retail Commodity Search\",\"instruction\":\"Users can search the commodity they want by voice instead of typing to make the search more efficient\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Financial Robot Advisor\",\"instruction\":\"Users can get information related to finance by way of conversion\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":1004
 	}
 ]
