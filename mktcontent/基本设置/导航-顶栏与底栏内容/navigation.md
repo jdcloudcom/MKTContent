@@ -4259,5 +4259,15 @@
 		"name":"NeuFoundry 一站式AI开发平台",
 		"description":"NeuFoundry 一站式AI开发平台",
 		"id":5883
+	},
+	{
+		"name":"在线咨询机器人",
+		"description":"在线咨询机器人",
+		"id":5885
+	},
+	{
+		"name":"智能语音外呼",
+		"description":"智能语音外呼",
+		"id":5887
 	}
 ]
