@@ -12,7 +12,7 @@
 		"id":1950
 	},
 	{
-		"txt":"[{\"name\":\"分布式协调\",\"instruction\":\"利用 ZooKeeper 实现分布式配置管理、系统协调等，例如：HBase、Kafka 和 Hadoop 等\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/433c2fd6-204c-4a34-808d-70e329b098fa20200326105822.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"分布式协调\",\"instruction\":\"利用 ZooKeeper 实现分布式配置管理、系统协调等，例如：HBase、Kafka 和 Hadoop 等\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3e2b41d1-5970-48ee-a51a-00224d93740920200430183434.png\",\"showShade\":false},{\"name\":\"命名服务\",\"instruction\":\"命名服务是分布式系统中较为常见的一类场景，分布式系统中，被命名的实体通常可以是集群中的机器、提供的服务地址或远程对象等，通过命名服务，客户端可以根据指定名字来获取资源的实体、服务地址和提供者的信息。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/8c4d37d4-640b-4375-9f3d-5b2d9ba4989820200430183212.png\",\"showShade\":false}]",
 		"id":1951
 	},
 	{
