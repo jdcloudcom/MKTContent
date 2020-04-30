@@ -14,5 +14,9 @@
 	{
 		"txt":"[{\"name\":\"电商用户推广\",\"instruction\":\"为电商用户提供富媒体服务，大型购物活动如618, 双十一等活动时，可将活动宣传片或热门优惠发送给会员。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/23d00039-16ab-406a-8bb7-eadf0934f2de20190415205622.png\",\"showShade\":false},{\"name\":\"影视用户提供富媒体服务\",\"instruction\":\"为影视用户提供富媒体服务，视频网站或影院新上线热门的电视剧、电影，可将影视宣传片发送给会员。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b387f6a4-b146-451a-8b78-ccfd883e190e20190415205638.png\",\"showShade\":false}]",
 		"id":1162
+	},
+	{
+		"txt":"{\"price\":\"https://docs.jdcloud.com/cn/rich-media-sms/billing-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":2070
 	}
 ]
