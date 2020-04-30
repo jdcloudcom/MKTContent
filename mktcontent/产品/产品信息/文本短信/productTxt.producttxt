@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"文本短信\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://sms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"文本短信(Text Message)是京东云为用户提供的一种短信服务能力,支持国内快速发送短信验证码和短信通知, 到达率高达99%, 完美支持618及双11期间短信需求\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"文本短信\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://sms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"文本短信(Text Message)是京东云为用户提供的一种短信服务能力,支持国内快速发送短信验证码和短信通知, 到达率高达99%, 完美支持618及双11期间短信需求.\"}",
 		"id":767
 	},
 	{
@@ -14,5 +14,9 @@
 	{
 		"txt":"[{\"name\":\"系统通知\",\"instruction\":\"京东云文本短信服务可用于移动支付、网络购物、刷卡支付、账户登录、异常登录、订单确认、消费通知、物流动态、交通违章、出行等生活服务通知等，支持大容量高并发，安全有保障。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":770
+	},
+	{
+		"txt":"{\"price\":\"https://docs.jdcloud.com/cn/text-message/billing-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":2069
 	}
 ]
