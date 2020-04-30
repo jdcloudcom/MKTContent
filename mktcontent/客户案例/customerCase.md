@@ -514,5 +514,41 @@
 		"id":217,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution217",
 		"solution_jss_key":"Customer_Case_Solution217"
+	},
+	{
+		"project_overview":"京东物流通过京东智联云结合云服务产品的灵活、弹性等特点，将原部署在私有云的业务系统逐步平滑迁移至公有云上，同时对原有系统及架构进行整合、梳理，实现更稳定、高效的部署方案。",
+		"application_type":"适用于物流行业客户。",
+		"introduce":"京东物流是全球唯一拥有中小件、大件、冷链、B2B、跨境和众包（达达）六大物流网络的企业，凭借这六张大网在全球范围内的覆盖以及大数据、云计算、智能设备的应用，京东物流打造了一个从产品销量分析预测，到入库出库、再到运输配送各个环节无所不包，综合效率最优、算法最科学的智能供应链服务系统。",
+		"image_url":"//img1.jcloudcs.com/cms/dc1becf8-a2ac-47f7-a85d-cbe0ca85650220200429141449.png",
+		"name":"京东智联云助力京东物流打造智能供应链服务系统",
+		"channel_agent":"物流",
+		"customer_income":"1.减少物理机采购、维保及管理等相关费用，实现轻资产化，降低IT总体成本。</br>\n2.公有云拥有比私有云更加丰富的产品线，给业务系统部署提供了更多的选择。</br>\n3.京东智联云提供了丰富、完善的产品API接口，便于内部进行业务改造、能力建设。</br>\n4.按需使用，灵活计费，且计费规则相对清晰和规范，便于企业合理规划年度服务器预算及成本核算。</br>\n5.在上云过程中，对基础结构和业务架构进行了升级，基于公有云平台获得了质量和效率的提升。</br>\n6.混合云架构可使业务系统流量在多云之间进行快速切换，快速恢复在线业务。",
+		"id":219,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution219",
+		"solution_jss_key":"Customer_Case_Solution219"
+	},
+	{
+		"project_overview":"京东云配需要将全部业务系统平滑地进行跨云迁移，并基于京东智联云产品进行二期业务平台开发。",
+		"application_type":"适用于零售行业客户。",
+		"introduce":"京东云配是汽车配件的B2B采购平台，通过移动互联网技术进军汽车服务领域，为汽车后市场提供云上汽修、云上汽配的整合服务。",
+		"image_url":"//img1.jcloudcs.com/cms/27e7fb2b-a58f-4457-947e-7823bc115f8020200429143240.png",
+		"name":"京东智联云助力京东云配搭建汽车配件B2B采购平台",
+		"channel_agent":"零售",
+		"customer_income":"•\t京东云配业务迁移到京东智联云后，实现安全的京东大数据赋能；</br>\n•\t在业务架构没有做变更的情况下，京东智联云支撑了京东云配经过了2019年11.11大促的考验，访问量、下单量、成交金额均较2018年11.11时期提升3倍；</br>\n•\t京东智联云提供大客户专属服务，为客户提供技术支持，系统优化建议，提升客户满意度。",
+		"id":220,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution220",
+		"solution_jss_key":"Customer_Case_Solution220"
+	},
+	{
+		"project_overview":"9377收购YY游戏后，需要将YY游戏，由原YY自建IDC迁移至9377管理的环境中，待迁移内容包含1个运维管理平台，200多项业务，1000+VM实例、480个MySQL实例、200个Redis实例。",
+		"application_type":"适用于范互联网游戏行业客户。",
+		"introduce":"9377游戏是国内一流的网络游戏运营平台，累计注册用户数以亿计。由于多年来坚持原创，并全面推行精细运营，积极打造精品游戏，在游戏市场占据了领先地位。",
+		"image_url":"//img1.jcloudcs.com/cms/8f277600-0ffd-4e0a-82a0-6c8465016c5620200429143833.png",
+		"name":"京东智联云助力9377游戏支撑平台升龙上云",
+		"channel_agent":"test",
+		"customer_income":"1.游戏服有一定的生命周期，可根据游戏的特性对主机资源进行伸缩、变更带来成本节约：</br>\n•根据在线人数通过主机规格变更增加或减少主机CPU、内存来提升资源利用率；</br>\n•通过增加、减少主机资源来适配游戏新开区或合并老区的场景；</br>\n2.云上资源成本降低：相比于物理机房，云上资源成本降低的同时，因为资源灵活、可扩展，客户可以根据业务发展的情况随时创建和撤销资源；</br>\n3.运维操作更加便捷：云上的托管资源具有更好的高可用、可扩展、高安全特性，这些特性通过简单的配置就可以发挥出来。相比于原来的手工运维，运维的压力得到了释放。</br>\n4.更加安全的环境：云上具有完善的安全产品链，安全防护、入侵检测、主机安全、态势感知等等，这些安全产品面面俱到、构建了十分安全的云上环境。",
+		"id":221,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution221",
+		"solution_jss_key":"Customer_Case_Solution221"
 	}
 ]
