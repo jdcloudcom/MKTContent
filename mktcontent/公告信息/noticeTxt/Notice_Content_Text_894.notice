@@ -1,0 +1,44 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测到SaltStack存在认证绕过漏洞（CVE-2020-11651）和目录遍历漏洞（CVE-2020-11652）。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; SaltStack</span>
+<span style="font-size:16px;font-family:宋体">是基于Python开发的一套C/S架构配置管理工具。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">在CVE-2020-11651认证绕过漏洞中，攻击者通过构造恶意请求，可以绕过Salt Master的验证逻辑，调用相关未授权函数功能，从而可以造成远程命令执行漏洞。在CVE-2020-11652目录遍历漏洞中，攻击者通过构造恶意请求，读取服务器上任意文件。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【影响版本】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">SaltStack &lt; 2019.2.4</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">SaltStack &lt; 3000.2</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:52px"><span style="font-size:16px;font-family:宋体">1.<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">将SaltStack升级到安全版本：2019.2.4或3000.2，升级时建议做好备份工作</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:52px"><span style="font-size:16px;font-family:宋体">2.<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">临时缓解措施：通过安全组限制SaltStack的默认端口（4505和4506）</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p>https://labs.f-secure.com/advisories/saltstack-authorization-bypass</p>
