@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"营业执照识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/ocr-for-business-license\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的深度学习技术，识别营业执照的关键字段包括：统一社会信用代码/注册号，单位名称、法人、地址、有效期、等关键字段准确可靠\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"营业执照识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/ocr-for-business-license\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的深度学习技术，识别营业执照的关键字段，包括：统一社会信用代码/注册号，单位名称、法人、地址、有效期、等关键字段，准确可靠\"}",
 		"id":1069
 	},
 	{
