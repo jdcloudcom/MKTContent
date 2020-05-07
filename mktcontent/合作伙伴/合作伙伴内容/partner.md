@@ -198,5 +198,13 @@
 		"id":673,
 		"partner_label":"产品方案伙伴",
 		"tableName":"cms_partner"
+	},
+	{
+		"name":"北明软件有限公司",
+		"description":"北明软件提供以大数据、互联网+等技术为核心的综合性IT解决方案和服务，业务范围包括：大型数据中心建设、运维及管理，数据治理及行业应用、政府数据应用及解决方案开发交付，智慧城市以及系统集成等。",
+		"short_name":"北明软件",
+		"id":674,
+		"partner_label":"产品方案伙伴",
+		"tableName":"cms_partner"
 	}
 ]
