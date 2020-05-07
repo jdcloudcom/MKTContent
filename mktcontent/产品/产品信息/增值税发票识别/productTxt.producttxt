@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"增值税发票识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/value-added-tax-invoice-recognize\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的深度学习技术，识别发票代码，发票号码，购方名称，购方税号等20个关键字段，准确可靠深度学习技术，识别发票代码，发票号码，购方名称，购方税号等20个关键字段，准确可靠\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"增值税发票识别\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/ocr/value-added-tax-invoice-recognize\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的深度学习技术，识别发票代码，发票号码，购方名称，购方税号等20个关键字段，准确可靠\"}",
 		"id":1097
 	},
 	{
