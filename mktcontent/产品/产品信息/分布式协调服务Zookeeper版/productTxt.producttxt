@@ -8,7 +8,7 @@
 		"id":1949
 	},
 	{
-		"txt":"[{\"funcName\":\"弹性扩缩容\",\"funcContent\":[{\"funcTitle\":\"轻松扩展，方便快捷\",\"funcP\":\"用户可根据资源使用情况按需扩缩容，不影响现有业务的同时以满足业务增长需求。\"}]},{\"funcName\":\"自动监控报警\",\"funcContent\":[{\"funcTitle\":\"丰富的监控告警体系\",\"funcP\":\"实例列表可分类当前集群状态，并提供多种监控指标，支持丰富的告警规则设置，全面掌握集群健康情况。 \"}]},{\"funcName\":\"Observer部署\",\"funcContent\":[{\"funcTitle\":\"不降低写性能的情况下扩展Zookeeper\",\"funcP\":\"Zookeeper的节点变更需要过半数投票通过后才能执行，Observer节点不参与投票，只是简单的接收投票结果，不会影响写性能。可以通过增加Observer节点，在不影响实例写性能的基础上提供Zookeeper的可扩展性\"}]}]",
+		"txt":"[{\"funcName\":\"弹性扩缩容\",\"funcContent\":[{\"funcTitle\":\"轻松扩展，方便快捷\",\"funcP\":\"用户可根据资源使用情况按需扩缩容，以满足业务增长需求。\"}]},{\"funcName\":\"自动监控报警\",\"funcContent\":[{\"funcTitle\":\"丰富的监控告警体系\",\"funcP\":\"实例列表可分类当前集群状态，并提供多种监控指标，支持丰富的告警规则设置，全面掌握集群健康情况。 \"}]},{\"funcName\":\"Observer部署\",\"funcContent\":[{\"funcTitle\":\"不降低写性能的情况下提升读性能\",\"funcP\":\"Zookeeper的节点变更需要过半数投票通过后才能执行，Observer节点不参与投票，只是简单的接收投票结果，不会影响写性能。可以通过增加Observer节点，在不影响实例写性能的基础上提供Zookeeper的可扩展性\"}]}]",
 		"id":1950
 	},
 	{
