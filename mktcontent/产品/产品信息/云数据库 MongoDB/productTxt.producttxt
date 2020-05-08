@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云数据库 MongoDB\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://mongodb-console.jdcloud.com/create\"}],\"desc\":\"云数据库 MongoDB 是京东云提供的高性能 NoSQL 数据库服务，支持副本集与分片集群两种部署方式，支持自动容灾切换，确保业务可用性，并提供弹性扩容、备份、监控等功能，可降低管理维护成本。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1e0cc945-f4e2-47ba-b70f-2650c395d15920181115165444.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|31\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|31\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"618大促，限时5折\",\"explainLink\":\"https://www.jdcloud.com/cn/activity/midyear\",\"classTag\":\"\"}],\"productName\":\"云数据库 MongoDB\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://mongodb-console.jdcloud.com/create\"}],\"desc\":\"云数据库 MongoDB 是京东云提供的高性能 NoSQL 数据库服务，支持副本集与分片集群两种部署方式，支持自动容灾切换，确保业务可用性，并提供弹性扩容、备份、监控等功能，可降低管理维护成本。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1e0cc945-f4e2-47ba-b70f-2650c395d15920181115165444.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|31\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|31\"}",
 		"id":61
 	},
 	{
