@@ -4,7 +4,7 @@
 		"id":106
 	},
 	{
-		"txt":"[{\"proGood\":\"产品稳定性高\",\"proName\":\"轻量级Agent性能与丰富的产品功能并重，消耗最少的资源获取最大的防护效能\\n\"},{\"proGood\":\"自适应安全评估能力\",\"proName\":\"更细粒度客户端基础数据采集，优于主流EDR厂商；规则检测与AI检测双引擎，精准发现黑客的攻击行为；持续可视化评估的安全运营\\n\"},{\"proGood\":\"云端检测\",\"proName\":\"降低Agent端资源消耗，检测能力SaaS化；规则变更，秒级生效\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"等保合规\",\"proName\":\"符合等级保护2.0云计算安全扩展要求，满足国家政策要求\"}]",
+		"txt":"[{\"proGood\":\"产品稳定性高\",\"proName\":\"轻量级Agent性能与丰富的产品功能并重，消耗最少的资源获取最大的防护效能\\n\"},{\"proGood\":\"自适应安全评估能力\",\"proName\":\"更细粒度客户端基础数据采集，优于主流EDR厂商；规则检测与AI检测双引擎，精准发现黑客的攻击行为；持续可视化评估的安全运营\\n\"},{\"proGood\":\"云端检测\",\"proName\":\"降低Agent端资源消耗，检测能力SaaS化；规则变更，秒级生效\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"等保合规\",\"proName\":\"符合等级保护2.0云计算安全扩展要求，满足国家政策要求\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多云场景支持\",\"proName\":\"可部署到用户本地IDC、其它公有云等多云场景中。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"容器安全\",\"proName\":\"支持容器镜像扫描、容器基线检查和容器运行时安全\"}]",
 		"id":107
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":108
 	},
 	{
-		"txt":"[{\"title\":\"基础版\",\"description\":\"为用户提供云工作负载基本的安全保障\",\"specificationDescription\":[{\"title\":\"主机漏洞\",\"description\":\"Linux、windows系统中高危漏洞检测与修复\"},{\"title\":\"暴力破解\",\"description\":\"对满足暴力破解规则的IP进行拦截\"},{\"title\":\"异常登录与账号风险\",\"description\":\"根据系统设置规则自动识别异常登录行为并预警，快速检测系统弱口令账号\"}],\"buttons\":{\"name\":\"使用\",\"link\":\"https://hips-console.jdcloud.com/jsec/safe/overview\",\"classTag\":\"\"},\"price\":\"0\"},{\"title\":\"企业版\",\"description\":\"构建主机层纵深安全防护体系\",\"specificationDescription\":[{\"title\":\"入侵威胁\",\"description\":\"包括病毒木马、网页木马、系统后门检测、可疑操作、敏感文件篡改\"},{\"title\":\"风险发现\",\"description\":\"包括：主机漏洞、合规基线、账号风险、暴力破解、异常登录\"}],\"buttons\":{\"name\":\"购买\",\"link\":\"https://hips-console.jdcloud.com/jsec/safe/create?type=1\",\"classTag\":\"\"},\"price\":\"960\"},{\"title\":\"网页防篡改版\",\"description\":\"构建主机层纵深安全防护体系，同时提供主机层面的网页防篡改\",\"specificationDescription\":[{\"title\":\"入侵威胁\",\"description\":\"包括病毒木马、网页木马、系统后门检测、可疑操作、敏感文件篡改\"},{\"title\":\"风险发现\",\"description\":\"包括：主机漏洞、合规基线、账号风险、暴力破解、异常登录\"},{\"title\":\"网页防篡改\",\"description\":\"提供主机层面网页防篡改功能\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"price\":\"9600\"}]",
+		"txt":"[{\"title\":\"基础版\",\"description\":\"为用户提供云工作负载基本的安全保障\",\"specificationDescription\":[{\"title\":\"主机漏洞\",\"description\":\"Linux、windows系统中高危漏洞检测与修复\"},{\"title\":\"暴力破解\",\"description\":\"对满足暴力破解规则的IP进行拦截\"},{\"title\":\"异常登录与账号风险\",\"description\":\"根据系统设置规则自动识别异常登录行为并预警，快速检测系统弱口令账号\"}],\"buttons\":{\"name\":\"使用\",\"link\":\"https://hips-console.jdcloud.com/jsec/safe/overview\",\"classTag\":\"\"},\"price\":\"0\"},{\"title\":\"企业版\",\"description\":\"构建主机层纵深安全防护体系\",\"specificationDescription\":[{\"title\":\"入侵威胁\",\"description\":\"包括病毒木马、网页木马、系统后门检测、可疑操作、敏感文件篡改\"},{\"title\":\"风险发现\",\"description\":\"包括：主机漏洞、合规基线、账号风险、暴力破解、异常登录\"},{\"title\":\"容器安全\",\"description\":\"包括：容器镜像扫描、容器基线检查、容器运行时安全\"}],\"buttons\":{\"name\":\"购买\",\"link\":\"https://hips-console.jdcloud.com/jsec/safe/create?type=1\",\"classTag\":\"\"},\"price\":\"960\"},{\"title\":\"网页防篡改版\",\"description\":\"构建主机层纵深安全防护体系，同时提供主机层面的网页防篡改\",\"specificationDescription\":[{\"title\":\"入侵威胁\",\"description\":\"包括病毒木马、网页木马、系统后门检测、可疑操作、敏感文件篡改\"},{\"title\":\"风险发现\",\"description\":\"包括：主机漏洞、合规基线、账号风险、暴力破解、异常登录\"},{\"title\":\"网页防篡改\",\"description\":\"提供主机层面网页防篡改功能\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"price\":\"9600\"}]",
 		"id":1957
 	}
 ]
