@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"媒体处理服务\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"https://mps-console.jdcloud.com\"}],\"desc\":\"媒体处理服务（Media Processing Service）是京东云提供的多媒体文件处理服务，可为客户提供视频转码、截图、回调等便捷的一站式服务\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fe70ebd0-a8b3-42c4-8093-65757b74372920181115171955.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|72\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|72\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"媒体处理服务\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/media-processing-service/started\"}],\"desc\":\"媒体处理服务（Media Processing Service）是基于京东智联云强有力的基础服务能力开发的针对多媒体文件的处理服务，可为客户提供视频转码、截图、回调等便捷的一站式服务。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fe70ebd0-a8b3-42c4-8093-65757b74372920181115171955.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|72\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|72\"}",
 		"id":193
 	},
 	{
@@ -8,7 +8,19 @@
 		"id":194
 	},
 	{
-		"txt":"[{\"funcContent\":[{\"funcP\":\"支持绝大部分主流的视频格式，输出格式支持MP4、FLV和HLS，提供支持通用转码场景需求的系统内置模板，输出多种码率和分辨率的视频，可适配不同设备的播放场景\",\"funcTitle\":\"主流格式全覆盖，支持多分辨率、码率，提供丰富的转码模板\"}],\"funcName\":\"视频转码\"},{\"funcContent\":[{\"funcP\":\"可以为指定的视频媒体文件按照一定规则（如指定起止时间、按一定的时间间隔或按指定要截取的张数）进行视频截图操作，可以用来为视频生成预览图、或通过截图来做视频封面等\",\"funcTitle\":\"对上传到京东云对象存储的视频文件按需提供截图功能\"}],\"funcName\":\"视频截图\"},{\"funcContent\":[{\"funcP\":\"若配置了回调通知，在视频处理任务完成后，京东云媒体处理服务会向您的回调地址发送通知，告知您任务已完成，目前支持的操作有视频转码和视频截图\",\"funcTitle\":\"视频处理（如转码、截图）完成后，媒体处理服务可以通过配置回调地址及时通知用户\"}],\"funcName\":\"回调设置\"}]",
+		"txt":"[{\"funcContent\":[{\"funcP\":\"通过京东云特有的视频编码能力和优化算法，对视频中的内容、场景、画面进行智能分析和处理，让视频拥有高画质的同时，可以降低视频码率，有效的为客户节约使用带宽和成本\",\"funcTitle\":\"京享超清\"},{\"funcTitle\":\"极速转码\",\"funcP\":\"提供倍数转码能力，可大大缩短视频转码时间，满足客户对视频内容快速生产快速发布的业务场景\"},{\"funcTitle\":\"舒适音频\",\"funcP\":\"在转码同时可对音频自动分析及动态调整，让节目音质过渡平滑，增加视听舒适度\"},{\"funcTitle\":\"自定义转码\",\"funcP\":\"支持自定义转码模板，每个源视频都可以指定一个或多个转码模板输出不同的转码内容\"},{\"funcTitle\":\"多格式支持\",\"funcP\":\"支持所有常见文件格式作为媒体处理源文件，如MP4、MOV、MKV、TS、FLV等\"}],\"funcName\":\"视频转码\"},{\"funcContent\":[{\"funcP\":\"支持单张截图、多张截图、平均截图，支持自定制截图模板\",\"funcTitle\":\"采样截图\"},{\"funcTitle\":\"雪碧图\",\"funcP\":\"按照采样截图截取一系列图片生成雪碧图，通过一次请求获取多张图片的信息，大幅降低图片请求数量，提高客户端性能\"}],\"funcName\":\"视频截图\"}]",
 		"id":195
+	},
+	{
+		"txt":"[{\"name\":\"泛娱乐、媒体\",\"instruction\":\"针对海量多媒体文件，提供转码、截图等多媒体处理服务，结合京东智联云京享超清、舒适音频等优势功能，可大大降低客户带宽成本，提升用户观看体验，产品可广泛应用于泛娱乐、媒体等多种业务场景\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/8cf04d34-dfd5-4515-912e-e953268a0af620200509115607.png\",\"showShade\":false}]",
+		"id":2071
+	},
+	{
+		"txt":"[{\"name\":\"媒体处理服务都支持哪些视频文件格式？\",\"link\":\"https://docs.jdcloud.com/cn/media-processing-service/faq\",\"classTag\":\"\"},{\"name\":\"一个媒体处理任务是否支持创建多个输出？\",\"link\":\"https://docs.jdcloud.com/cn/media-processing-service/faq\",\"classTag\":\"\"},{\"name\":\"一个转码任务需要多长时间？\",\"link\":\"https://docs.jdcloud.com/cn/media-processing-service/faq\",\"classTag\":\"\"}]",
+		"id":2072
+	},
+	{
+		"txt":"{\"price\":\"https://docs.jdcloud.com/cn/media-processing-service/price-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":2073
 	}
 ]
