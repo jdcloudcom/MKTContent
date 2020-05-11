@@ -1,0 +1,42 @@
+<p>您好！</p>
+<p>&nbsp;</p>
+<p>为了提升产品稳定性和用户体验，京东智联云计划于2020年5月13日凌晨00:30:00至02:00:00 ，针对云主机、云硬盘、云网络及相关服务，进行全地域后端管理运维，影响如下：</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+弹性公网IP&amp;NAT网关在切换期间，全地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+负载均衡在切换期间，全地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+专线连接&amp;托管连接&amp;VPN连接在切换期间，全地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+云主机&amp;实例模板&amp;镜像&amp;SSH密钥在切换期间，全地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+原生容器&amp; Kubernetes集群在切换期间，全地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+云硬盘&amp;云文件服务在切换期间，全地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的OpenAPI服务；</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings;color:black">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="color:black">JMR</span>
+<span style="color:black">在切换期间，全地域控制台管理操作不可用，</span>
+暂停全地域创建、删除等功能的OpenAPI服务<span style="color:black">。</span>
+</p>
+<p style="text-indent:28px">&nbsp;</p>
+<p style="text-indent:28px">除以上产品之外，如下业务也将受影响</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+官网促销：在切换期间，线上相关促销活动、可能出现临时访问异常，请提前安排相关业务的购买。</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+京东智联云APP：在切换期间，如上产品的创建、调整配置、删除、查询功能，将提示“网络异常，请重试”。</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-indent:0"><span style="font-family:宋体">&nbsp;</span>
+</p>
+<p><strong>此次功能升级不影响您所有地域的已有业务运行</strong>。后端服务调整完成后，控制台相关功能及OpenAPI对应接口将恢复正常使用。</p>
+<p>上线期间如果遇到相关问题，请您随时与京东云客服联系（电话：4006151212），感谢您对京东云的支持。</p>
+<p><span style="font-size:19px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p><br/></p>
