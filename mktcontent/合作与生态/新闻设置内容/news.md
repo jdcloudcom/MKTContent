@@ -2078,5 +2078,21 @@
 		"jss_key":"News_Content_808",
 		"id":808,
 		"news_title":"京东智联云发布新品京鱼座智能屏i8 Pro  用“万物互联”见证爱的连接"
+	},
+	{
+		"summary":"京东发布“京东新动能计划”，该计划是基于京东多年商业和技术沉淀，整合核心业务、利用资源优势，以云计算、AI、IoT、大数据、区块链等技术为基础，推出的系列行动计划，为政府、企业在“新基建”的浪潮下提供数字转型、智能升级、融合创新的全新动能引擎。",
+		"image_url":"//img1.jcloudcs.com/cms/2a56abcb-ba97-4b38-8b3c-fa2b5c6de18120200508172828.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_809",
+		"jss_key":"News_Content_809",
+		"id":809,
+		"news_title":"“京东新动能计划”首推三大解决方案 政企数字化转型再提速"
+	},
+	{
+		"summary":"京东智联云与国际知名网络性能和安全公司 Cloudflare达成战略合作，为在中国开展业务的跨国公司以及覆盖全球消费者的中国公司提供更快、更安全的互联网服务。该合作将集成Cloudflare的全球云平台和京东智联云布局全国的网络、基础架构和服务，为希望吸引全球用户的企业提供无缝的优质服务。",
+		"image_url":"//img1.jcloudcs.com/cms/c759ed88-720e-4272-9bef-472868b3006020200509175236.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_810",
+		"jss_key":"News_Content_810",
+		"id":810,
+		"news_title":"京东智联云与Cloudflare达成合作 为跨国企业提供安全便捷的技术服务"
 	}
 ]
