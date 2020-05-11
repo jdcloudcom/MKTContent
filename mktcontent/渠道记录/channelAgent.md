@@ -66,5 +66,9 @@
 	{
 		"channel_agent":"京东智联云",
 		"id":81
+	},
+	{
+		"channel_agent":"广告",
+		"id":82
 	}
 ]
