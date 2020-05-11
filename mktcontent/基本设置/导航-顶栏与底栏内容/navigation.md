@@ -396,7 +396,7 @@
 	},
 	{
 		"name":"网站建设",
-		"description":"",
+		"description":"网站建设",
 		"id":206
 	},
 	{
@@ -456,7 +456,7 @@
 	},
 	{
 		"name":"电子商务",
-		"description":"",
+		"description":"电子商务",
 		"id":218
 	},
 	{
@@ -4269,5 +4269,10 @@
 		"name":"智能语音外呼",
 		"description":"智能语音外呼",
 		"id":5887
+	},
+	{
+		"name":"DDoS 定制防护服务",
+		"description":"为京东云IP高防用户提供DDOS定制防护服务。",
+		"id":5889
 	}
 ]
