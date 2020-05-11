@@ -1295,11 +1295,11 @@
 		"main_title":"HELLO航天 “国际商业航天产业联盟”成立仪式"
 	},
 	{
-		"sub_title":"",
+		"sub_title":"基于京东真实项目数据，培养TOP10%的NLP算法工程师",
 		"name":"AI nlp",
 		"id":1234,
-		"button_title":"",
-		"main_title":""
+		"button_title":"查看详情",
+		"main_title":"京东NLP企业级项目实战训练营"
 	},
 	{
 		"sub_title":"赚积分秘笈大公开 / 下单立返3000京豆 / 互动瓜分5万京豆",
@@ -1321,5 +1321,19 @@
 		"id":1240,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"京东“新动能”计划",
+		"id":1242,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"提供多场景产品及服务权益，助力企业数字化转型",
+		"name":"京东“新动力”计划",
+		"id":1244,
+		"button_title":"查看详情",
+		"main_title":"京东“新动力”计划"
 	}
 ]
