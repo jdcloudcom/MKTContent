@@ -1,0 +1,9 @@
+JD Cloud & AI will analyze the business mode with the customer together, set up a test system and provide all-around cloud computing service.</br>
+
+•	Adoption of JD Cloud & AI’s full-line cloud products: Load Balancer, Virtual Machine, Cloud Storage, JCS and Cloud Security.</br>
+
+•	 The customer IDC and JD Cloud & AI will be interconnected via Direct Connection.</br>
+
+•	At the early stage, customers will conduct a master-slave migration synchronously with local IDC database by self-establishing a database on cloud. After mysql 5.5 is supported by RDS database subsequently, the data will be synchronized to RDS-Mysql.</br>
+
+•	The origin server of the customer will be ensured secure and stable by replacing the Business IP with an Anti-DDoS Pro IP.

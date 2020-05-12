@@ -200,10 +200,6 @@
 		"id":147
 	},
 	{
-		"name":"EMOP (Enterprise Mobile Develop Platform)",
-		"id":151
-	},
-	{
 		"name":"JD Cloud Intelligent Recommendation",
 		"id":155
 	},
@@ -232,7 +228,7 @@
 		"id":171
 	},
 	{
-		"name":"AI Intelligent Park",
+		"name":"Solutions for Intelligent Park",
 		"id":174
 	},
 	{

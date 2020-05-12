@@ -12,7 +12,7 @@
 		"id":1039
 	},
 	{
-		"txt":"[{\"name\":\"Emotion Interaction\",\"instruction\":\"Emotion Interaction  Extract by types of sentiment polarity to improve user experiences\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Sentiment Classifier\",\"instruction\":\"Sentiment Classifier  Decision-making is assisted by commenting Sentiment Classifier\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Sentiment Analysis\",\"instruction\":\"Sentiment Analysis  Emotional tendency change of hot information can be controlled\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"Emotion Interaction\",\"instruction\":\"Emotion Interaction  Extract by types of sentiment polarity to improve user experiences\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Sentiment Classifier\",\"instruction\":\"Decision-making is assisted by commenting Sentiment Classifier\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Sentiment Analysis\",\"instruction\":\"Emotional tendency change of hot information can be controlled\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":1040
 	}
 ]

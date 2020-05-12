@@ -1,0 +1,17 @@
+JDMigration Solutions: Data can be smoothly migrated to public cloud by adoption of online migration</br>
+
+•	Database Migration: Two data migration methods, namely, data migration among instances and data synchronization between master-slave databases, will be adopted for realization of a smooth migration of data from the mall environment to JD Cloud & AI.</br>
+
+•	 ES Data Migration: New clusters will be created on cloud, the new clusters and JElasticsearch Cluster will be incorporated into a big cluster, and the data on JElasticsearch’s data nodes will be migrated to cloud clusters’ data nodes. And then, the big cluster will be divided, applied and migrated to cloud clusters, enabling realization of business continuity and smooth migration of data to JD Cloud & AI.</br>
+
+•	 Redis Data Migration: Two data migration methods, namely, double-write migration and ordinary migration, will be adopted for two-way synchronization of data so as to achieve smooth migration of Redis to cloud.</br>
+
+Cloud Security Solutions:</br>
+
+•	Public Network Input Traffic: The Group is at the JD Cloud Onboarding stage at present. During this stage, the logistics resources are concurrently deployed in mall private cloud and public cloud, demonstrating a hybrid cloud architecture where the traffic from access to public network enters through the inlet of the Mall’s public network and all the security protection is managed and controlled by the Mall, which ensures the security of the Mall’s intranet.</br>
+
+•	Public Network Output Traffic In case that the resources on public cloud need to access to public network, direct association of resources to public IP is prohibited and access to public network can only be realized through the deployed SNAT gateway. To achieve the access, an application shall be submitted on NP platform for approval and policy distribution. In addition, the access log will be uploaded to the Security Server of the Group, which ensures security of cloud resources’ active access to public network and monitoring on abnormal traffic and behaviors during cloud resources’ access to public network.</br>
+
+Hybrid Cloud Architecture Solution:</br>
+
+•	JD Logistics has migrated all its business system to JD Cloud & AI. With the traffic being introduced from the mall’s intranet and balanced to mall and cloud side via the Mall Load Balancer, service can be provided externally by the nodes on both sides at the same time. Therefore, when problems occur in the network on one side, the application node on the fault side can be removed so as to achieve rapid failback and recovery of business.

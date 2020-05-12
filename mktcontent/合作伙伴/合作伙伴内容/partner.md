@@ -112,7 +112,7 @@
 		"tableName":"cms_partner"
 	},
 	{
-		"name":"51WORLD",
+		"name":"51VR High Technology Co., Ltd.",
 		"description":"51WORLD is a Chinese original technology company providing digital twin products and services. The company's core products involve total-factor scenarios integrating visual reality, physical simulation, geographic information and real-time interaction, and business scenarios covering sectors of government affairs, park-district, traffic, 5G IoV, water utility, electricity, factory, building, airport, port, and scenic area. The company devotes itself to digital twin technologies in order to facilitate digital, visual and intelligent upgrade in every sector.",
 		"short_name":"51world",
 		"id":663,
@@ -189,6 +189,22 @@
 		"short_name":"Jiuheng Science and Technology",
 		"id":672,
 		"partner_label":"Distribution Channel Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing TalkingData Technology Co., Ltd.",
+		"description":"Established in 2011, it is a leading third-party data intelligence service provider in China. TalkingData provides empowerment for enterprises by virtue of SmartDP-centered data intelligence application so as to help enterprises gradually realize digital transformation driven by data. While focusing on application and practical accumulation of data intelligence application, the company also actively promotes technological evolution in big data industry. A data science team has been formed and the AI technologies such as machine learning have been introduced to the flow of mass data processing.",
+		"short_name":"Talkingdata",
+		"id":673,
+		"partner_label":"Product Solution Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beiming Software Co., Ltd.",
+		"description":"Beiming Software Co., Ltd. provides comprehensive IT solutions and services that center on technologies such as big data and Internet with its businesses including: Large-size data center establishment, operation and maintenance as well as management, data management and industrial application, governmental data application and solutions development and delivery, smart city and system integration, etc.",
+		"short_name":"Beiming Software",
+		"id":674,
+		"partner_label":"Product Solution Partner",
 		"tableName":"cms_partner"
 	}
 ]
