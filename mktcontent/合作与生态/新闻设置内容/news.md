@@ -2094,5 +2094,13 @@
 		"jss_key":"News_Content_810",
 		"id":810,
 		"news_title":"京东智联云与Cloudflare达成合作 为跨国企业提供安全便捷的技术服务"
+	},
+	{
+		"summary":"数据中心作为国家“新基建”战略规划中信息基础设施的重要板块，也是京东智联云近年来重点发力的领域之一。2020年，京东智联云完成了品牌升级，整合云、AI、IoT的产品与服务，打造一站式解决方案，提出ABCDE技术战略，为产业融合、科技创新，提供安全可信赖的计算基础设施和服务。",
+		"image_url":"//img1.jcloudcs.com/cms/da21c0c0-f1e5-4370-ac17-6bfc3f4c71e220200512194743.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_811",
+		"jss_key":"News_Content_811",
+		"id":811,
+		"news_title":"京东智联云再次加速“新基建” 新型智能数据中心三箭齐发"
 	}
 ]
