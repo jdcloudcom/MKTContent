@@ -1330,10 +1330,17 @@
 		"main_title":""
 	},
 	{
-		"sub_title":"提供多场景产品及服务权益，助力企业数字化转型",
+		"sub_title":"帮扶大礼包等你领，实现企业数字化转型",
 		"name":"京东“新动力”计划",
 		"id":1244,
 		"button_title":"查看详情",
-		"main_title":"京东“新动力”计划"
+		"main_title":"京东新动力计划"
+	},
+	{
+		"sub_title":"",
+		"name":"廊洽会直播",
+		"id":1246,
+		"button_title":"",
+		"main_title":""
 	}
 ]
