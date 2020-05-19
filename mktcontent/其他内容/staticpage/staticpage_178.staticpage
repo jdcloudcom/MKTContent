@@ -1,120 +1,113 @@
   <body class="jdc-rwd">
     <div class="subMenu-box">
-        <h2>城市</h2>
-        <div class="subMenu-level1">
-            <ul>
-              <li class="subMenu-link hasChild fullDrop">
-                <a href="#" clstag="Channel_City|keycount|Header|Tab_0">解决方案中心</a>
+    <h2>城市</h2>
+    <div class="subMenu-level1">
+        <ul>
+            <li class="subMenu-link hasChild fullDrop">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_0" class="drop-link">解决方案中心</a>
                 <div class="subMenu-drop-box">
-                  <ul class="subDropMenu">
-                    <li>
-                      <h3>善政</h3>
-                      <div>
-                        <ul>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_0_0" href="https://city.jdcloud.com/" target="_blank">京东城市云脑</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_0_1" href="https://city.jdcloud.com/exp/brain" target="_blank"href="#">智能城市运营中心（AIOC）</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_0_2" href="https://city.jdcloud.com/system.html" target="_blank">智能城市应用中心（AIAC）</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_0_3" href="https://www.jdcloud.com/cn/solutions/intelligent-transport-solution" target="_blank">智能交通</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_0_4" href="https://www.jdcloud.com/cn/solutions/intelligent-emergency-solution" target="_blank">智能应急</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_0_5" href="https://www.jdcloud.com/cn/solutions/internet-government-affairs-service-solution" target="_blank">互联网+政务服务</a></li>
-						  <li><a clstag="Channel_City|keycount|Header|Link_0_0_6" href="https://www.jdcloud.com/solutions/cityos" target="_blank">城市操作系统</a></li>
-                        </ul>
-                      </div>
-                    </li>
-                    <li>
-                      <h3>兴业</h3>
-                      <div>
-                        <ul>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_1_0" href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution" target="_blank">数字农业</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_1_1" href="https://www.jdcloud.com/cn/solutions/intelligent-culture-and-tourism-solution" target="_blank">智能文旅</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_1_2" href="https://www.jdcloud.com/cn/solutions/industrial-internet-solution" target="_blank">智能制造</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_1_3" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_1_4" href="https://www.jdcloud.com/cn/solutions/industry-innovation-cloud-solution" target="_blank">产业创新云</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_1_5" href="https://www.jdcloud.com/cn/solutions/urban-industry-service-platform" target="_blank">城市产业服务平台</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_1_6" href="https://www.jdcloud.com/cn/neec/index" target="_blank">线上城市新经济展示中心</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_1_7" href="https://www.jdcloud.com/cn/solutions/smart-park" target="_blank">AI 智慧园区</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_1_8" href="https://www.jdcloud.com/cn/solutions/smart-campus" target="_blank">AI 智慧校园</a></li>
-                        </ul>
-                      </div>
-                    </li>
-                    <li>
-                      <h3>筑基</h3>
-                      <div>
-                        <ul>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_0" href="https://www.jdcloud.com/cn/products/data-middle-end" target="_blank">数据中台</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_1" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_2" href="https://www.jdcloud.com/cn/solutions/county-media-integration-solution" target="_blank">县域融媒云</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_3" href="https://www.jdcloud.com/cn/solutions/urban-big-data-solution" target="_blank">城市大数据</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_4" href="https://www.jdcloud.com/cn/solutions/Industry-onboarding-solution" target="_blank">企业上云</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_5" href="https://www.jdcloud.com/cn/solutions/intelligent-city-digital-network" target="_blank">智能城市干线网络</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_6" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_7" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_8" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_9" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政务云办公</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_10" href="https://www.jdcloud.com/cn/solutions/e-government-cloud-paas-solution" target="_blank">政务云PaaS</a></li>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_2_11" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIoT</a></li>
-                        </ul>
-                      </div>
-                    </li>
-                    <li>
-                      <h3>共生</h3>
-                      <div>
-                        <ul>
-                          <li><a clstag="Channel_City|keycount|Header|Link_0_3_0" href="https://www.jdcloud.com/cn/solutions/intelligent-environmental-protection-solution" target="_blank">智能环保</a></li>
-                        </ul>
-                      </div>
-                    </li>
-                  </ul>
+                    <ul class="subDropMenu">
+                        <li>
+                            <h3>善政</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_0" href="https://city.jdcloud.com/" target="_blank">京东城市云脑</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_1" href="https://city.jdcloud.com/exp/brain" target="_blank">智能城市运营中心（AIOC）</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_2" href="https://city.jdcloud.com/system.html" target="_blank">智能城市应用中心（AIAC）</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_3" href="https://www.jdcloud.com/cn/solutions/intelligent-transport-solution" target="_blank">智能交通</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_4" href="https://www.jdcloud.com/cn/solutions/intelligent-emergency-solution" target="_blank">智能应急</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_5" href="https://www.jdcloud.com/cn/solutions/internet-government-affairs-service-solution" target="_blank">互联网+政务服务</a></li>
+                                </ul>
+                            </div>
+                            <h3>兴业</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_0" href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution" target="_blank">数字农业</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_1" href="https://www.jdcloud.com/cn/solutions/intelligent-culture-and-tourism-solution" target="_blank">智能文旅</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_2" href="https://www.jdcloud.com/cn/solutions/industrial-internet-solution" target="_blank">智能制造</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_3" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_4" href="https://www.jdcloud.com/cn/solutions/industry-innovation-cloud-solution" target="_blank">产业创新云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_5" href="https://www.jdcloud.com/cn/solutions/urban-industry-service-platform" target="_blank">城市产业服务平台</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_6" href="https://www.jdcloud.com/cn/neec/index" target="_blank">线上城市新经济展示中心</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_7" href="https://www.jdcloud.com/cn/solutions/smart-park" target="_blank">AI 智慧园区</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_8" href="https://www.jdcloud.com/cn/solutions/smart-campus" target="_blank">AI 智慧校园</a></li>
+                                </ul>
+                            </div>
+                            <h3>筑基</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_0" href="https://www.jdcloud.com/cn/products/data-middle-end" target="_blank">数据中台</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_1" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_2" href="https://www.jdcloud.com/cn/solutions/county-media-integration-solution" target="_blank">县域融媒云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_3" href="https://www.jdcloud.com/cn/solutions/urban-big-data-solution" target="_blank">城市大数据</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_4" href="https://www.jdcloud.com/cn/solutions/Industry-onboarding-solution" target="_blank">企业上云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_5" href="https://www.jdcloud.com/cn/solutions/intelligent-city-digital-network" target="_blank">智能城市干线网络</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_6" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_7" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_8" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_9" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政务云办公</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_10" href="https://www.jdcloud.com/cn/solutions/e-government-cloud-paas-solution" target="_blank">政务云PaaS</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_11" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIoT</a></li>
+                                </ul>
+                            </div>
+                            <h3>共生</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_3_0" href="https://www.jdcloud.com/cn/solutions/intelligent-environmental-protection-solution" target="_blank">智能环保</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
-                </li>
-                <li class="subMenu-link hasChild">
-                  <a href="#" clstag="Channel_City|keycount|Header|Tab_1">智网落地</a>
-                  <div class="subMenu-drop-box">
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_1" class="drop-link">智网落地</a>
+                <div class="subMenu-drop-box">
                     <ul class="subMenu-level2">
-                      <li><a clstag="Channel_City|keycount|Header|Link_1_0_0" href="https://www.jdcloud.com/cn/solutions/industrial-e-commerce-cloud" target="_blank">数字经济产业园</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_1_0_1" href="https://www.jdcloud.com/cn/solutions/industry-innovation" target="_blank">全国创新中心</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_1_0_2" href="https://www.jdcloud.com/cn/neec/index" target="_blank">数字经济展示中心</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_0" href="https://www.jdcloud.com/cn/solutions/industrial-e-commerce-cloud" target="_blank">数字经济产业园</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_1" href="https://www.jdcloud.com/cn/solutions/industry-innovation" target="_blank">全国创新中心</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_2" href="https://www.jdcloud.com/cn/neec/index" target="_blank">数字经济展示中心</a></li>
                     </ul>
-                  </div>
-                </li>
-                <li class="subMenu-link hasChild">
-                  <a href="#" clstag="Channel_City|keycount|Header|Tab_2">通用解决方案</a>
-                  <div class="subMenu-drop-box">
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_2" class="drop-link">通用解决方案</a>
+                <div class="subMenu-drop-box">
                     <ul class="subMenu-level2">
-                      <li><a clstag="Channel_City|keycount|Header|Link_2_0_0" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_2_0_1" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_2_0_2" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_2_0_3" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政企云办公</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_2_0_4" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_2_0_5" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIot</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_0" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_1" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_2" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_3" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政企云办公</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_4" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_5" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIot</a></li>
                     </ul>
-                  </div>
-                </li>
-                <li class="subMenu-link hasChild">
-                  <a href="#" clstag="Channel_City|keycount|Header|Tab_3">体验中心</a>
-                  <div class="subMenu-drop-box">
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_3" class="drop-link">体验中心</a>
+                <div class="subMenu-drop-box">
                     <ul class="subMenu-level2">
-                      <li><a clstag="Channel_City|keycount|Header|Link_3_0_0" href="https://city.jdcloud.com/exp/" target="_blank">领导驾驶舱</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_3_0_1" href="https://city.jdcloud.com/exp/industrychain/industriesTabs" target="_blank">产业链招商</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_3_0_2" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_3_0_3" href="https://city.jdcloud.com/exp/frame/affair" target="_blank">政务服务</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_3_0_4" href="https://city.jdcloud.com/exp/equipment" target="_blank">设备运行检测</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_0" href="https://city.jdcloud.com/exp/" target="_blank">领导驾驶舱</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_1" href="https://city.jdcloud.com/exp/industrychain/industriesTabs" target="_blank">产业链招商</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_2" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_3" href="https://city.jdcloud.com/exp/frame/affair" target="_blank">政务服务</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_4" href="https://city.jdcloud.com/exp/equipment" target="_blank">设备运行检测</a></li>
                     </ul>
-                  </div>
-                </li>
-                <li class="subMenu-link hasChild">
-                  <a href="#" clstag="Channel_City|keycount|Header|Tab_4">客户案例</a>
-                  <div class="subMenu-drop-box">
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_4" class="drop-link">客户案例</a>
+                <div class="subMenu-drop-box">
                     <ul class="subMenu-level2">
-                      <li><a clstag="Channel_City|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/case/detail/186" target="_blank">滨州经济技术开发区</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_4_0_1" href="https://www.jdcloud.com/cn/case/detail/194" target="_blank">南京市麒麟园区</a></li>
-                      <li><a clstag="Channel_City|keycount|Header|Link_4_0_2" href="https://www.jdcloud.com/cn/case/detail/188" target="_blank">仙游县人民政府</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/case/detail/186" target="_blank">滨州经济技术开发区</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_1" href="https://www.jdcloud.com/cn/case/detail/194" target="_blank">南京市麒麟园区</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_2" href="https://www.jdcloud.com/cn/case/detail/188" target="_blank">仙游县人民政府</a></li>
                     </ul>
-                  </div>
-                </li>
-            </ul>
-        </div>
-        <div class="tel-info"><a href="https://www.jdcloud.com/cn/forms/consultation"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i>售前咨询：400-623-0183</a> </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="tel-info"><a href="https://www.jdcloud.com/cn/forms/consultation"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i>售前咨询：400-623-0183</a> </div>
     </div>
     <div class="CH-container">
       <section class="CH-section section-firstScreen">
@@ -133,7 +126,7 @@
                       href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" 
                       target="_blank" clstag="Channel_City|keycount|Banner|Btn_0" >立即咨询</a>
                     <a href="javascript:;" class="banner-play-button channel-play-button" clstag="Channel_City|keycount|Banner|Btn_1" 
-                      data-video="http://jdc-static.oss.cn-north-1.jcloudcs.com/jdc-about-static/smart_city/introduction.mp4">
+                      data-video="https://img1.jcloudcs.com/portal/channel/city/city-b-mov2.mp4">
                       播放视频
                     </a>
                     <img src="https://img1.jcloudcs.com/portal/channel/city/fl1/city-banner-pc-01.png" class="CH-carousel-img-pc">
