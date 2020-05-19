@@ -2102,5 +2102,21 @@
 		"jss_key":"News_Content_811",
 		"id":811,
 		"news_title":"京东智联云再次加速“新基建” 新型智能数据中心三箭齐发"
+	},
+	{
+		"summary":"作为组委会委托视频直播支持单位，京东智联云为“5·18”经洽会提供技术平台，为智能产业产品展（人工智能产业展区）参展商提供一站式视频直播解决方案，并在官网同步直播会议盛况。与此同时，京东智联云也作为人工智能产业展区的参展企业，发表《京东智能客服，AI助力产业降本增效》主题演讲。",
+		"image_url":"//img1.jcloudcs.com/cms/94cb15b7-52dd-465d-a977-396ebcdb69c320200519103405.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_812",
+		"jss_key":"News_Content_812",
+		"id":812,
+		"news_title":"搭建人工智能产业云平台 京东智联云官网96小时“云直播”经洽会"
+	},
+	{
+		"summary":"疫情期间，作为北京海淀区的注册企业，京东推出了数十款技术产品，构建起了科技抗疫平台，助力首都抗疫复工。5月10日，京东智联云将这一科技抗疫平台在中国品牌日云上北京展馆进行了展示。",
+		"image_url":"//img1.jcloudcs.com/cms/2b7cc684-fb9f-4f64-b73d-f6ee95e751aa20200519163116.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_813",
+		"jss_key":"News_Content_813",
+		"id":813,
+		"news_title":"“新工具”激发“新力量” 数字技术“孪生”云上北京 ——京东智联云科技助力北京抗疫复工纪实"
 	}
 ]
