@@ -1,0 +1,42 @@
+<p></p>
+<p>&nbsp;</p>
+<p>To improve product stability and user experience, JD Cloud & AI is planning to provide backend management, operation and maintenance in all regions for Virtual Machines, Cloud Disk Service, Cloud Network and relevant services from 00:30:00 to 02:00:00 on May 13, 2020, having the following impact:</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+During switch of Elastic IP&amp;NAT Gateway, Console operation cannot be conducted in all regions and the OpenAPI service for functions such as creation, resizing, deletion and search will be suspended;</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+During switch of Load Balancer, Console operations cannot be conducted in all regions and the OpenAPI service for functions such as creation, resizing, deletion and search will be suspended;</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+During switch of Direct Connection&amp;Hosted Connect&amp;VPN Connection, Console operation cannot be conducted in all regions and the OpenAPI service for functions such as creation, resizing, deletion and search will be suspended;</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+During switch of Virtual Machines&amp;Instance Template&amp;Image&amp;SSH Key Pair, Console operations cannot be conducted in all regions and the OpenAPI service for functions such as creation, resizing, deletion and search will be suspended;</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+During switch of Native Container&amp; JCS for Kubernetes, Console operations cannot be conducted in all regions and the OpenAPI service for functions such as creation, resizing, deletion and search will be suspended;</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+During switch of Cloud Disk Service&amp;Cloud File Service, Console operations cannot be conducted in all regions and the OpenAPI service for functions such as creation, resizing, deletion and search will be suspended;</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings;color:black">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="color:black">JMR</span>
+<span style="color:black">During switch, Console management operations are unavailable in all regions and</span>
+the OpenAPI service for creation and deletion in all regions will be suspended<span style="color:black">.</span>
+</p>
+<p style="text-indent:28px">&nbsp;</p>
+<p style="text-indent:28px">Besides the above products, the following businesses will be affected</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+Discount Promotion on Official Website: During switch, temporary access abnormality may occur in relevant on-line promotion campaign, please arrange advanced purchase of relevant business.</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+JD Cloud & AI APP: During switch, when the creation, resizing, deletion and search functions of the above products are used, a notification stating "The network is abnormal, please try again" will show.</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-indent:0"><span style="font-family:宋体">&nbsp;</span>
+</p>
+<p><strong>Operation of existing businesses in all of your regions will not be affected by this function upgrade</strong>. After completion of backend service adjustment, relevant functions of the Console and corresponding APIs of OpenAPI will be resumed for normal use.</p>
+<p>If you have relevant questions during the launch, please contact JD Cloud Customer Service at any time (Tel: 4006151212). Thanks for your support to JD Cloud.</p>
+<p><span style="font-size:19px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p><br/></p>

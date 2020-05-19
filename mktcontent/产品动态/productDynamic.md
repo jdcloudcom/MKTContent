@@ -2908,5 +2908,47 @@
 		"name":"VR Player SDK  Open Beta",
 		"description":"VR Player SDK is a software development kit launched by JD Cloud for application of mobile end VR playing, which covers the Android end the iOS end both and supports playing VR live streaming/VOD files, aiming to help developers quickly master VR playing capacity support.",
 		"id":2696
+	},
+	{
+		"introduce":"Database Audit  Official Release",
+		"name":"Database Audit  Official Release",
+		"description":"Database Audit is an audit product provided by JD Cloud & AI to monitor database security in real time, which can record user's real-time access to database via bypass mode, form audit reports on fine granularity, and give real-time warning on risky acts.",
+		"id":2710
+	},
+	{
+		"introduce":"Message Queue RabbitMQ Version  Official Release",
+		"name":"Message Queue RabbitMQ Version  Official Release",
+		"description":"Message Queue RabbitMQ Version is a high-availability distributed message queue service based on AMQP protocol and compatible with the open source RabbitMQ, and applied widely to scenarios such as asynchronous processing, application decoupling, and traffic peak clipping.",
+		"id":2711
+	},
+	{
+		"introduce":"Message Queue Kafka Version  Official Release",
+		"name":"Message Queue Kafka Version  Official Release",
+		"description":"Message Queue Kafka Version is a distributed subscription and release message queue service based on Apache Kafka, which is widely applied to scenarios such as log collection, streaming data processing and online and offline analysis, and committed to providing users with distributed, high-throughput and expandable full-cabinet service.",
+		"id":2712
+	},
+	{
+		"introduce":"Vulnerability Scan Service  Official Release",
+		"name":"Vulnerability Scan Service  Official Release",
+		"description":"Under full authorization by the user, a comprehensive vulnerability scan service is provided for the user-specified operating system, database, etc. JD Cloud security experts will interpret the scan",
+		"id":2713
+	},
+	{
+		"introduce":"Electronic Signature  Official Release",
+		"name":"Electronic Signature  Official Release",
+		"description":"Electronic Signature is a trusted authentication service developed through deep cooperation between JD Cloud and a third-party CA organization, realizing Internet contracting of electronic files (electronic contracts, electronic orders, electronic agreement, etc.).",
+		"id":2714
+	},
+	{
+		"introduce":"The Anti-DDoS Pro web service rule source IP supports GEO offload and back-to-origin",
+		"name":"Anti-DDoS Pro  Supports GEO Offload and Back-to-origin",
+		"description":"The Anti-DDoS Pro web service rule source IP supports GEO offload and back-to-origin",
+		"id":2715
+	},
+	{
+		"introduce":"IoT Core  Opens User Firmware Upgrade Function",
+		"name":"IoT Core  Opens User Firmware Upgrade Function",
+		"description":"1. Support user upload and manage upgrade firmware of devices\n2. Support pushing upgrade messages to directly connected devices and gateway devices on cloud",
+		"id":2716
 	}
 ]

@@ -790,5 +790,13 @@
 	{
 		"id":879,
 		"title":"\\[Vulnerability Warning\\] WebSphere Emote Code Execution Vulnerability (CVE-2020-4276 and CVE-2020-4362)"
+	},
+	{
+		"id":892,
+		"title":"Notice on Billing of Cloud Disk Snapshot on August 1, 2020"
+	},
+	{
+		"id":896,
+		"title":"\\[All Regions\\] Notice on Service Upgrade for Virtual Machines, Cloud Disk Service and Cloud Network at 00:30:00 on May 13"
 	}
 ]

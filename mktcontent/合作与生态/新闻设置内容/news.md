@@ -1918,5 +1918,21 @@
 		"jss_key":"News_Content_808",
 		"id":808,
 		"news_title":"JD Cloud & AI Releases New Product JDWhale Smart Screen i8 Pro  Witness Love Connections with \"IoT\""
+	},
+	{
+		"summary":"JD releases the \"JD New Kinetic Energy Plan\". This plan, based on commercial and technical accumulation of JD for years, integrates core businesses, makes use of resource advantages, adopts techniques such as cloud computing, AI, IoT, big data and blockchain as the basis and proposes a series of action plans, providing brand new kinetic energy engines for digital transformation, intelligent upgrade, integration and innovation under the trend of \"New Infrastructure Construction\" for governments and enterprises.",
+		"image_url":"//img1.jcloudcs.com/cms/2a56abcb-ba97-4b38-8b3c-fa2b5c6de18120200508172828.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_809",
+		"jss_key":"News_Content_809",
+		"id":809,
+		"news_title":"\"JD New Kinetic Energy Plan\" proposes three major solutions for the first time  Increase speed of digital transformation of governments and enterprises"
+	},
+	{
+		"summary":"JD Cloud & AI and Cloudflare, the international famous network performance and security company, have reached the strategic cooperation on providing faster and safer Internet service to transnational corporations conducting businesses in China and Chinese companies covering global consumers. The cooperation will integrate the global cloud platform of Cloudflare and national-wide networks, basic architectures and services of JD Cloud & AI, aiming to provide seamless quality services to enterprises expecting to attract global users.",
+		"image_url":"//img1.jcloudcs.com/cms/c759ed88-720e-4272-9bef-472868b3006020200509175236.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_810",
+		"jss_key":"News_Content_810",
+		"id":810,
+		"news_title":"Cooperation agreed by JD Cloud & AI and Cloudflare  Provision of safe and convenient technique service for transnational corporations"
 	}
 ]

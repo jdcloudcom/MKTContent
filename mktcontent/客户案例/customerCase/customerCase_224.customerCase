@@ -1,0 +1,29 @@
+The design objectives are as follows:</br>
+
+•	 When data storage is switched from HDFS to OSS, the only change that can be perceived by a customer is data access protocol; when switching from hdfs:// to s3a://, customers gave feedback that the previous code access protocol prefix is required to be modified; users are required to get used and adapt to the prefix</br>
+
+•	 When data is written from IDC to cloud OSS, it has a high requirement for bandwidth because of transmission of huge data volume. To meet the bandwidth requirement for 240Gbps, a sector-by-sector delivery is made in combination of customer-side JD Cloud Onboarding plan and the progress of full JD Cloud Onboarding is not affected at last</br>
+
+Implementation Plan:</br>
+
+9N renovated the whole set of technical solution in this JD Cloud Onboarding based on the cloud solution, and made huge improvements in terms of technological breakthrough, functional stability and performance (source: test data and user feedback). The key points are as follows:</br>
+
+•	 Computing: Use of the latest Spark on k8s solution is added. Interactive jupyter spark kernel on k8s and non-interactive task spark on k8s solutions are used in addition to transplanting the previous spark on yarn to JMR</br>
+
+•	 Storage: Switch from HDFS cluster with kerberos to JD Cloud & AI OSS Storage solves a range of problems such as storage bottleneck and user isolation. The persistent volume solution of taking OSS as jupyter on k8s user local codes and data is implemented</br>
+
+•	 Application Service: Each JD Distributed Service at the application level relies on JD Cloud & AI's k8s solution, realizing high availability, high stability and easy maintenance of the services</br>
+
+Core Products:</br>
+
+JD Cloud & AI used by 9N Business Analytics Platform during JD Cloud Onboarding offers core products as follows:</br>
+
+•	 K8S\Virtual Machines\Cloud Disk Service: By adopting the fully-hosted management node, JCS for Kubernetes provides simple, easy-to-use, high-reliable and powerful container management service. Node provides computing capacity depending on VM, with a cluster of about 21,000 cores and storage of about 100T, which can be constantly expanded on demand</br>
+
+•	 OSS: OSS is mainly used to replace the self-built HDFS, including permission control of users and file granularity as well as Http protocol support and multi-replica services. 9N Business Analytics Platform now implements more complex multi-scenario applications for OSS (including system files of multiple formats, user data, user code, model, etc.). In addition to good performance of storage system since launch, it offers the dedicated monitoring service of OSS, gradually upgrades along with the basic network team in connection with satisfaction of 9N's bandwidth storage demand, providing resources and technical support for 9N's full JD Cloud Onboarding</br>
+
+•	 JMR: JMR big data cluster service helps build Hadoop cluster based on Virtual Machines, including Hive, Spark and other core components. It now undertakes specially relevant visualization tasks such as data processing and data resolution statistics</br>
+
+•	 Direct Connection: Data interconnection between cloud and IDC is realized by Direct Connection, meeting the 240Gbps bandwidth demand for production environment</br>
+
+•	 IAM: The service involves ten-thousand-magnitude sub-accounts. Each account has a corresponding IAM Policy. As sub-accounts involve users’ reading and writing OSS permission management, the sequencing automatic generation and control are realized

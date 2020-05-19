@@ -200,6 +200,10 @@
 		"id":147
 	},
 	{
+		"name":"EMOP (Enterprise Mobile Develop Platform)",
+		"id":151
+	},
+	{
 		"name":"JD Cloud Intelligent Recommendation",
 		"id":155
 	},

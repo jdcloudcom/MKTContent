@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Electronic Signature\",\"label\":[],\"desc\":\"Electronic Signature is a trusted authentication service developed through deep cooperation between JD Cloud and a third-party CA organization, realizing Internet contracting of electronic files (electronic contracts, electronic orders, electronic agreement, etc.).\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Electronic Signature\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://cloudsign-console.jdcloud.com/sign\",\"classTag\":\"\"}],\"desc\":\"Electronic Signature is a trusted authentication service developed through deep cooperation between JD Cloud and a third-party CA organization, realizing Internet contracting of electronic files (electronic contracts, electronic orders, electronic agreement, etc.).\"}",
 		"id":1677
 	},
 	{
