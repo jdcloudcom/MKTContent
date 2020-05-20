@@ -1,0 +1,32 @@
+[
+	{
+		"txt":"{\"name\":\"banner\",\"operator\":\"fuyanli1\",\"floorName\":\"banner\",\"data\":[{\"title\":\"物流GIS解决方案\",\"description\":\"基于京东多年沉淀的海量地址库、实时轨迹数据，结合GIS、大数据、机器学习技术，打造物流行业内权威、精准、智能的GIS服务平台，为企事业单位提供行业解决方案。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f575bc11-7a85-4490-b2ed-46b391c0fe1420200506105453.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[{\"name\":\"方案咨询\",\"link\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"https://www.jdcloud.com/cn/forms/consultation\"}],\"tagMetas\":[]}]}",
+		"templet":"11",
+		"id":1101,
+		"solution_id":"222"
+	},
+	{
+		"txt":"{\"name\":\"advantage\",\"operator\":\"fuyanli1\",\"floorName\":\"优势\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d9008cab-2087-4acc-82f9-a21bbda41e0420200506110221.png\",\"title\":\"数据权威精准\",\"description\":\"标准的四级地址鲜度高，随国家区划变动定期更新；拥有覆盖全国范围的海量高质量地址库；涵盖人、车、包裹的实时回传轨迹，支持不同坐标系间自由转换等专业处理及可视化；\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/6655a6ab-f511-42ad-9f0b-cfc5753810c220200506110554.png\",\"title\":\"地图围栏灵活通用\",\"description\":\"绘制工具多样，包括多方式绘制、合并、裁剪、挖洞、画线、点标注、测距等；场景细节极致，自动吸附、空间拓扑错误检测等贴合实际业务；灵活组合围栏，多应用场景下高效空间点面判断；\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a9b25201-b964-4e19-96ef-abfb0b7fb49f20200506110759.png\",\"title\":\"快速智能填写地址\",\"description\":\"多场景下地址填写，提供标准四级地址、智能文本识别、地址推荐、一键定位等基于LBS的快速准确填写方案；支持通过深度学习、NER技术，基于地址标准化、地理编码、地址验真、地址校验服务，在源头及时纠错；\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/256d237b-8a49-49d7-8e9b-303fa2a5e56b20200506111059.png\",\"title\":\"辅助决策支持\",\"description\":\"地址方案保障填写质量，源头早发现、早纠正错误数据，业务流程顺利流转；通过构建时空模型，实现网点计算、库存寻源、履约时效等判断；并结合精细化运营管理平台，提高终端运营效率，拓展业务范围；\"}]}",
+		"templet":"51",
+		"id":1102,
+		"solution_id":"222"
+	},
+	{
+		"txt":"{\"name\":\"architecture-2\",\"operator\":\"fuyanli1\",\"floorName\":\"方案架构\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a9b559c3-399d-4658-aba5-7a1d6ec098cf20200506110133.png\"}]}",
+		"templet":"32",
+		"id":1103,
+		"solution_id":"222"
+	},
+	{
+		"txt":"{\"name\":\"scene\",\"operator\":\"fuyanli1\",\"floorName\":\"典型场景\",\"data\":[{\"title\":\"地址智能填写解决方案\",\"sceneDescription\":\"用户在电商平台、物流公司下单需填写地址用于物流末端配送，地址填写质量的高低会严重影响末端配送的精准及时效的按时履约。\",\"solution\":\"通过标准四级级联、根据LBS定位自动获取当前地址，或根据用户输入的关键信息推荐出相关地址，规避手动填写地址产生的问题。或通过智能文本识别，自动解析出文本信息中的姓名、电话、四级地址、详细地址，帮助用户快速完成下单前繁杂信息的填写，提升转化率。当用户地址填写完成，经过地址验真及地址校验，在下单前尽早发现地址问题，通过前端引导、后台校验，将因用户手动录入低质量地址所产生的接单后业务问题及早暴露解决。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0000bfe0-ef8c-4e17-a81f-b3d1b9e7b51220200506134940.png\",\"showShade\":false},{\"title\":\"电子围栏解决方案\",\"sceneDescription\":\"传统的依据四级地址做运营规则、系统配置的时代逐渐被数据时代的精细化运营所替代，亟需更细粒度地支撑业务的快速拓展。\",\"solution\":\"可提供电子围栏绘制功能，编辑吸附，自动完成围栏贴边，规避空间拓扑错误；可借助路径规划、四级围栏及等距离可达圈，降低自由画区的时间、专业要求成本；通过合并、拆分（线/面拆分、挖洞）完成区域间快速、准确调整以适配业务；支持点标注、线绘制、测距、节点灵活增删、周边围栏查看等辅助工具，基本涵盖业务全场景操作。再结合空间位置化后的用户地址，通过点和面空间判断，辅助业务快速计算库存、时效、运力等精细化场景。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/693b9c08-b607-4b7e-9472-4a6b8c5dcb9120200506135607.png\",\"showShade\":false},{\"title\":\"智能分单解决方案\",\"sceneDescription\":\"用户下单后，需快速高效获取收货地址/揽收地址对应的末端配送网点/包裹揽收网点，以便包裹的按时履约配送和及时响应揽收。\",\"solution\":\"基于业务和四级行政区划围栏，结合数据挖掘、NLP和GIS技术，根据业务场景，自动切割成近似无缝的区块组合，并结合京东多年来积累的分单技术、海量地址库数据开放，通过多种分单策略，高效、快速完成末端网点、路区或更细粒度的卦区、配送员的计算，供其他物流公司使用，合作开放，互利共赢。并提供可视化管理平台，方便运营全局管控业务态势，改善提升系统服务。\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c4c4b8cb-34b9-4219-966c-91c1829f620f20200506135714.png\",\"showShade\":false}]}",
+		"templet":"41",
+		"id":1104,
+		"solution_id":"222"
+	},
+	{
+		"txt":"{\"name\":\"partners\",\"operator\":\"fuyanli1\",\"floorName\":\"合作伙伴\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9222bbbd-785a-4948-8c1f-f0afdd3f164c20200506172846.png\",\"name\":\"跨越速运\",\"sketch\":\"一家主营“限时速运”服务的大型现代化综合速运企业\",\"detailDescription\":\"将京东多年积累的地址库、关键字，结合GIS地图技术，形成SAAS化分单平台，实现订单自动匹配。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b804aef1-5017-4ce4-91bc-ad66f1b2561720200506202158.png\",\"name\":\"中国移动\",\"sketch\":\"中国规模最大的移动通信运营商\",\"detailDescription\":\"依据业务诉求，前端引导提供地址推荐，方便用户快速填写高质量地址，并结合后台地址验真产品，在源头把控地址质量。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0b5535cb-b683-4b4a-a835-849109b401c620200506202230.png\",\"name\":\"中国电信\",\"sketch\":\"中国特大型国有通信企业\",\"detailDescription\":\"通过接入标准四级行政区划级联、地址推荐、地址验真服务，联动客户端、后台一起保障订单顺利流转。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/395fc01a-e48a-48b0-a921-2634ee59c3b420200506202257.png\",\"name\":\"首旅集团\",\"sketch\":\"全国第一家省级国有独资综合型旅游企业\",\"detailDescription\":\"前端接入基于数据挖掘、NLP的智能文本识别，快速、精准识别出姓名、电话、行政区划、详细地址，辅助用户快速下单。\"}]}",
+		"templet":"81",
+		"id":1105,
+		"solution_id":"222"
+	}
+]
