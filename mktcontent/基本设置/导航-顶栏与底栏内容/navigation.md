@@ -4274,5 +4274,15 @@
 		"name":"DDoS 定制防护服务",
 		"description":"为京东云IP高防用户提供DDOS定制防护服务。",
 		"id":5889
+	},
+	{
+		"name":"智能物流",
+		"description":"智能物流",
+		"id":5891
+	},
+	{
+		"name":"物流 GIS 解决方案",
+		"description":"物流 GIS 解决方案",
+		"id":5893
 	}
 ]
