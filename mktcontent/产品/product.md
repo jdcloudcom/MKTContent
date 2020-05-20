@@ -664,11 +664,11 @@
 		"id":1372
 	},
 	{
-		"name":"Security Public Test Service",
+		"name":"Security Crowdsourced Testing Service",
 		"id":1373
 	},
 	{
-		"name":"Security Defense Drilling Service",
+		"name":"Security Attack and Defense Drill Service",
 		"id":1374
 	},
 	{
