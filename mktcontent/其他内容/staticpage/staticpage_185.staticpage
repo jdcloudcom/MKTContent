@@ -1,0 +1,1593 @@
+<body class="jdc-rwd">
+<!-- //频道页菜单 -->
+<div class="subMenu-fix">
+    <div class="subMenu-box">
+        <h2>智能家居</h2>
+        <div class="subMenu-level1">
+            <ul>
+                <li class="subMenu-link">
+                    <a href="https://www.jdcloud.com/cn/solutions/smarthome-connectivity" target="_blank" clstag="AIChannel|keycount|Header|smarthome-connectivity">单品智能化方案</a>
+                </li>
+                <li class="subMenu-link">
+                    <a href="https://www.jdcloud.com/cn/solutions/jdwhale-assistant" target="_blank" clstag="AIChannel|keycount|Header|jdwhale-assistant">智能助手赋能方案</a>
+                </li>
+                <li class="subMenu-link">
+                    <a href="https://www.jdcloud.com/cn/products/jdwhale-dcs" target="_blank" clstag="AIChannel|keycount|Header|jdwhale-dcs">京鱼座设备池开放</a>
+                </li>
+                <li class="subMenu-link">
+                    <a href="https://mall.jd.com/index-1000039942.html" target="_blank" clstag="AIChannel|keycount|Header|index-1000039942">智能硬件</a>
+                </li>
+            </ul>
+        </div>
+        <div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i><a clstag="supplyChain|keycount|TopNav|tel" href="https://www.jdcloud.com/forms/consultation" target="_blank">售前咨询：400-623-0183</a></div>
+    </div>
+</div>
+<!-- //频道页菜单 -->
+
+<div class="CH-container">
+    <section class="CH-section section-firstScreen">
+        <div class="panel col-carousel">
+            <div class="swiper-container CH-carousel-type-1 banner-video">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide swiper-no-swiping">
+                        <div class="CH-carousel-container">
+                            <img src="https://img1.jcloudcs.com/portal/channel/furniture/banner-m.jpg" class="CH-carousel-img-m">
+                            <div class="CH-carousel-content">
+                                <h3 class="CH-carousel-title">一站式智能化解决方案</h3>
+                                <p class="CH-carousel-desc">全国领先的智能家居服务提供商</p>
+
+                            </div>
+                            <a class="jdc-btn jdc-btn-blue CH-carousel-button"
+                               href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer"
+                               target="_blank" clstag="Channel_furniture|keycount|Banner|Btn_0" >立即咨询</a>
+
+                            <img src="https://img1.jcloudcs.com/portal/channel/furniture/banner-pc.png" class="CH-carousel-img-pc">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel col-broadcast">
+            <div class="CH-card-broadcast">
+                <dl class="list-news">
+                    <dt class="list-news-title">新闻动态</dt>
+                    <dd class="list-news-desc f-toe2">
+                        <a href="https://www.jdcloud.com/cn/news/detail/780" clstag="Channel_furniture|keycount|BannerRight|Link_0" target="_blank">三张图看懂京东智联云的过去、现在和未来</a>
+                    </dd>
+                </dl>
+                <dl class="list-news">
+                    <dt class="list-news-title">新基建</dt>
+                    <dd class="list-news-desc f-toe2">
+                        <a href="https://www.jdcloud.com/cn/news/detail/781" clstag="Channel_furniture|keycount|BannerRight|Link_1" target="_blank">助力中国智能养老 京东IoT帮助长辈
+                            跨越“不智能”鸿沟。</a>
+                    </dd>
+                </dl>
+                <dl class="list-news">
+                    <dt class="list-news-title">行业话题</dt>
+                    <dd class="list-news-desc f-toe2">
+                        <a href="https://developer.jdcloud.com/topics/908" clstag="Channel_furniture|keycount|BannerRight|Link_2" target="_blank">2020年，“新基建”风口已至，你做好准备了吗？</a>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </section>
+    <!-- 智能家居平台-->
+    <div class="CH-section">
+        <div class="retail w">
+            <h3>智能家居平台</h3>
+            <div class="retail-pr  w">
+                <div class="row">
+                    <div class="col-12 col-xs-12">
+                        <div class="bg-wt">
+                            <div class="row">
+                                <div class="col-3 col-xs-12">
+                                    <div class="retail-nf-item">
+                                        <h5>
+                                            智能家居平台介绍
+                                        </h5>
+                                        <p>
+                                            面向智能行业全面开放，提供“技术+服务+渠道”的一站式智能解决方案，为客户提供高效便捷的智能家居物联能力及智能服务能力，高效助力客户实现产品智能化，为消费者提供全新的智能体验，有效提升产品溢价能力、促进销量增长，实现生态共赢。
+                                        </p>
+
+                                        <a
+                                                href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer"
+                                                class="text-link" clstag="Channel_furniture|keycount|Floor1|Btn_0" target="_blank"
+                                        >立即咨询 ></a
+                                        >
+                                    </div>
+                                </div>
+                                <div class="col-3 col-xs-12">
+                                    <div class="retail-nf-item2">
+                                        <div class="bdr-bt">
+                                            <h5>跨品牌跨品类的生态连接能力</h5>
+                                            <p>
+                                                平台具有行业第一的跨品牌、跨品类智能生态，可以帮助客户快速构建产品智能化，场景化的家居控制能力。
+                                            </p>
+
+                                            <ul class="detail">
+                                                <li>
+                                                    • 可连接高质量设备突破1.5亿台
+                                                </li>
+                                                <li>
+                                                    • 连接设备品类超过230种
+                                                </li>
+                                                <li>
+                                                    • 连接品牌超1000家
+                                                </li>
+                                                <li>
+                                                    • 累计服务家庭2500万
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-3 col-xs-12">
+                                    <div class="retail-nf-item3">
+                                        <div class="retail-spem">
+                                            <h5>软硬一体的服务赋能方案</h5>
+                                            <p>
+                                                向客户提供包括芯片、模组、衣食住行生活服务在内的软硬一体服务赋能方案，帮助品牌厂商将产品拓展出更多使用场景，提升产品溢价能力。
+                                            </p>
+
+                                            <a
+                                                    href="https://www.jdcloud.com/cn/forms/consultation"
+                                                    class="jdc-btn jdc-btn-blue" clstag="Channel_furniture|keycount|Floor1|Btn_1" target="_blank"
+                                            >请专家联系我</a
+                                            >
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-3 col-xs-12">
+                                    <div class="retail-nf-item2 retail-white">
+                                        <h5>面向C端和B端的综合服务能力</h5>
+                                        <p>
+                                            平台具备面向C端用户和B端客户的综合服务能力，满足企业和用户在智能家居方面的核心诉求。
+                                        </p>
+
+                                        <ul class="detail">
+                                            <li>
+                                                • 提供200余个品类的智能化升级方案
+                                            </li>
+                                            <li>
+                                                • 提供数据统计、产品营销增值服务
+                                            </li>
+                                            <li>
+                                                • 支持品牌APP定制
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- //智能家居平台-->
+</div>
+
+<!-- //智能家居场景全覆盖-->
+<div class="CH-section ">
+    <header>
+        <h1>智能家居场景全覆盖</h1>
+    </header>
+    <div class="furniture-video furniture-video-pc">
+        <div class="CH-container">
+            <div class="video-item">
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/furniture/img3-bg.png"/>
+                    <div class="content">
+                        <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon-kt.png"/></i>
+                        <span class="txt">智能客厅</span>
+
+                        <a class="play-button" clstag="IoT|keycount|resolve|smarthomePlayer" data-video="https://img1.jcloudcs.com/portal/channel/furniture/video/kt.mp4">
+                            <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                        </a>
+                    </div>
+                </div>
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/furniture/img-bg.png"/>
+                    <div class="content">
+                        <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon-cd.png"/></i>
+                        <span class="txt">智能橱电</span>
+
+                        <a class="play-button" clstag="IoT|keycount|resolve|smarthomePlayer" data-video="https://img1.jcloudcs.com/portal/channel/furniture/video/cf.mp4">
+                            <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                        </a>
+                    </div>
+                </div>
+                <div class="video-list curr">
+                    <img src="https://img1.jcloudcs.com/portal/channel/furniture/img4-bg.png"/>
+                    <div class="content">
+                        <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon-ws.png"/></i>
+                        <span class="txt">智能卧室</span>
+
+                        <a class="play-button" clstag="IoT|keycount|resolve|smarthomePlayer" data-video="https://img1.jcloudcs.com/portal/channel/furniture/video/ws2.mp4">
+                            <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                        </a>
+                    </div>
+                </div>
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/furniture/img1-bg.png"/>
+                    <div class="content">
+                        <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon-af.png"/></i>
+                        <span class="txt">全屋安防</span>
+
+                        <a class="play-button" clstag="IoT|keycount|resolve|smarthomePlayer" data-video="https://img1.jcloudcs.com/portal/channel/furniture/video/af.mp4">
+                            <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                        </a>
+                    </div>
+                </div>
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/furniture/img2-bg.png"/>
+                    <div class="content">
+                        <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon-kcz.png"/></i>
+                        <span class="txt">智能可穿戴</span>
+
+                        <a class="play-button" clstag="IoT|keycount|resolve|smarthomePlayer" data-video="https://img1.jcloudcs.com/portal/channel/furniture/video/ej.mov">
+                            <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="furniture-video furniture-video-m">
+        <div class="CH-container">
+            <div class="video-item">
+                <div class="swiper-container furniture-video-swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/furniture/img4-bg-m.png"/>
+                                <div class="content">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon-kt.png"/></i>
+                                    <span class="txt">智能客厅</span>
+
+                                    <a class="play-button" clstag="IoT|keycount|resolve|smarthomePlayer" data-video="https://img1.jcloudcs.com/portal/channel/furniture/video/kt.mp4">
+                                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/furniture/img2-bg-m.png"/>
+                                <div class="content">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon-cd.png"/></i>
+                                    <span class="txt">智能橱电</span>
+
+                                    <a class="play-button" clstag="IoT|keycount|resolve|smarthomePlayer" data-video="https://img1.jcloudcs.com/portal/channel/furniture/video/cf.mp4">
+                                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/furniture/img5-bg-m.png"/>
+                                <div class="content">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon-ws.png"/></i>
+                                    <span class="txt">智能卧室</span>
+
+                                    <a class="play-button" clstag="IoT|keycount|resolve|smarthomePlayer" data-video="https://img1.jcloudcs.com/portal/channel/furniture/video/ws2.mp4">
+                                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/furniture/img-bg-m.png"/>
+                                <div class="content">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon-af.png"/></i>
+                                    <span class="txt">全屋安防</span>
+
+                                    <a class="play-button" clstag="IoT|keycount|resolve|smarthomePlayer" data-video="https://img1.jcloudcs.com/portal/channel/furniture/video/af.mp4">
+                                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/furniture/img3-bg-m.png"/>
+                                <div class="content">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon-kcz.png"/></i>
+                                    <span class="txt">智能可穿戴</span>
+
+                                    <a class="play-button" clstag="IoT|keycount|resolve|smarthomePlayer" data-video="https://img1.jcloudcs.com/portal/channel/furniture/video/ej.mov">
+                                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+ <!-- //智能家居场景全覆盖-->
+<div class="CH-container">
+
+    <!-- 平台核心能力-->
+    <section class="CH-section platform-core platform-core-pc">
+        <header>
+            <h1>平台核心能力</h1>
+        </header>
+        <ul class="CH-tab">
+            <li class="CH-tab-item is-selected"><a href="javascript:;" clstag="Channel_furniture|keycount|Floor2|Tab_0">设备互联互通</a></li>
+            <li class="CH-tab-item"><a href="javascript:;" clstag="Channel_furniture|keycount|Floor2|Tab_1">硬件接入能力</a></li>
+            <li class="CH-tab-item"><a href="javascript:;" clstag="Channel_furniture|keycount|Floor2|Tab_2">服务内容生态</a></li>
+        </ul>
+        <div class="CH-section-body">
+            <div class="CH-secion-box">
+                <p class="p-txt">实现跨品牌、跨品类设备互联互通，已支持4000+产品，为消费者提供万物互联的智能家居服务。</p>
+
+                <div class="row">
+                    <div class="col-6">
+                        <div class="platform-item">
+                            <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/joylink.png"/> </i>
+                            <b class="b-tit">芯片模组</b>
+                            <p class="p-txt2">平台认证模组内置JoyLink协议，已完成硬件及功能层测试，可高质量支撑设备智能化升级。</p>
+
+                            <a href="https://smartdev.jd.com/docCenterDoc/view/2/101/95400002/164700001#topMaoDot" class="a-link" target="_blank">查看更多</a>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="platform-item">
+                            <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/xpmz.png"/> </i>
+                            <b class="b-tit">JoyLink</b>
+                            <p class="p-txt2">基于自主研发的JoyLink协议，已连接亿级智能设备，提供跨品牌、跨品类的智能设备互联互通。</p>
+
+                            <a href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer" class="a-link" target="_blank">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="CH-secion-box">
+                <p class="p-txt">为智能家居领域的开发者、方案商提供全套AI+IoT技术支持，让设备获得连接、听觉、视觉、表达和学习能力。</p>
+
+                <div class="row">
+                    <div class="col-12">
+                        <div class="platform-item2">
+                            <ul class="m-flex">
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/yyhx.png"/> </i>
+                                    <span class="txt">语音唤醒</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/yysb.png"/> </i>
+                                    <span class="txt">语音识别</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/zryylj.png"/> </i>
+                                    <span class="txt">自然语音理解</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/yyhc.png"/> </i>
+                                    <span class="txt">语音合成</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/swsb.png"/> </i>
+                                    <span class="txt">声纹识别</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/rlsb.png"/> </i>
+                                    <span class="txt">人脸识别</span>
+
+                                </li>
+                            </ul>
+                            <ul class="m-flex">
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/txsb.png"/> </i>
+                                    <span class="txt">图像识别</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/mkfcl.png"/> </i>
+                                    <span class="txt">麦克风阵列</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/JoyLink.png"/> </i>
+                                    <span class="txt">JoyLink协议</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/xpmz.png"/> </i>
+                                    <span class="txt">芯片模组</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/jqxx.png"/> </i>
+                                    <span class="txt">机器学习</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/dsj.png"/> </i>
+                                    <span class="txt">大数据</span>
+
+                                </li>
+                            </ul>
+                            <div class="link">
+                                <a href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer" class="a-link" target="_blank">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="CH-secion-box">
+                <p class="p-txt">拥有丰富的场景化内容服务资源，全面覆盖智能生活场景，用户可以通过创新的多模态交互方式，随时随地获取服务。</p>
+
+                <div class="row">
+                    <div class="col-12">
+                        <div class="platform-item2">
+                            <ul class="m-flex">
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/jy.png"/> </i>
+                                    <span class="txt">京鱼智控</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/gw.png"/> </i>
+                                    <span class="txt">购物</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/sp.png"/> </i>
+                                    <span class="txt">视频</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/yy.png"/> </i>
+                                    <span class="txt">音乐</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/yss.png"/> </i>
+                                    <span class="txt">有声书</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/gb.png"/> </i>
+                                    <span class="txt">广播</span>
+
+                                </li>
+                            </ul>
+                            <ul class="m-flex">
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/xw.png"/> </i>
+                                    <span class="txt">新闻</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/nz.png"/> </i>
+                                    <span class="txt">闹钟</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/tq.png"/> </i>
+                                    <span class="txt">天气</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/fy.png"/> </i>
+                                    <span class="txt">翻译</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/bk.png"/> </i>
+                                    <span class="txt">百科</span>
+
+                                </li>
+                                <li class="m-flex-item">
+                                    <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/lt.png"/> </i>
+                                    <span class="txt">聊天</span>
+
+                                </li>
+                            </ul>
+                            <div class="link">
+                                <a href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer" class="a-link" target="_blank">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="CH-section platform-core platform-core-m">
+        <header>
+            <h1>平台核心能力</h1>
+        </header>
+        <div class="CH-section-body">
+            <div class="CH-collapse">
+                <div class="CH-collapse-item is-selected">
+                    <div class="CH-collapse-item-header">
+                        <a name="bank"> 设备互联互通</a><i class="iconfont jc-icon-my-down" clstag="Channel_furniture|keycount|Floor2|MTab_0"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-secion-box">
+                            <p class="p-txt">实现跨品牌、跨品类设备互联互通，已支持4000+产品，为消费者提供万物互联的智能家居服务。</p>
+
+                            <div class="row">
+                                <div class="col-6 col-xs-12">
+                                    <div class="platform-item">
+                                        <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/joylink.png"/> </i>
+                                        <b class="b-tit">芯片模组</b>
+                                        <p class="p-txt2">平台认证模组内置JoyLink协议，已完成硬件及功能层测试，可高质量支撑设备智能化升级。</p>
+
+                                        <a href="https://smartdev.jd.com/docCenterDoc/view/2/101/95400002/164700001#topMaoDot" class="a-link" target="_blank">查看更多</a>
+                                    </div>
+                                </div>
+                                <div class="col-6 col-xs-12">
+                                    <div class="platform-item">
+                                        <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/xpmz.png"/> </i>
+                                        <b class="b-tit">JoyLink</b>
+                                        <p class="p-txt2">基于自主研发的JoyLink协议，已连接亿级智能设备，提供跨品牌、跨品类的智能设备互联互通。</p>
+
+                                        <a href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer" class="a-link" target="_blank">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-collapse-item">
+                    <div class="CH-collapse-item-header">
+                        <a name="security"> 硬件接入能力</a><i class="iconfont jc-icon-my-down" clstag="Channel_furniture|keycount|Floor2|MTab_1"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-secion-box">
+                            <p class="p-txt">为智能家居领域的开发者、方案商提供全套AI+IoT技术支持，让设备获得连接、听觉、视觉、表达和学习能力。</p>
+
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="platform-item2">
+                                        <ul class="m-flex">
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/yyhx.png"/> </i>
+                                                <span class="txt">语音唤醒</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/yysb.png"/> </i>
+                                                <span class="txt">语音识别</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/zryylj.png"/> </i>
+                                                <span class="txt">自然语音理解</span>
+
+                                            </li>
+                                        </ul>
+                                        <ul class="m-flex">
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/yyhc.png"/> </i>
+                                                <span class="txt">语音合成</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/swsb.png"/> </i>
+                                                <span class="txt">声纹识别</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/rlsb.png"/> </i>
+                                                <span class="txt">人脸识别</span>
+
+                                            </li>
+                                        </ul>
+                                        <ul class="m-flex">
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/txsb.png"/> </i>
+                                                <span class="txt">图像识别</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/mkfcl.png"/> </i>
+                                                <span class="txt">麦克风阵列</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/JoyLink.png"/> </i>
+                                                <span class="txt">JoyLink协议</span>
+
+                                            </li>
+                                        </ul>
+                                        <ul class="m-flex">
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/xpmz.png"/> </i>
+                                                <span class="txt">芯片模组</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/jqxx.png"/> </i>
+                                                <span class="txt">机器学习</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon2/dsj.png"/> </i>
+                                                <span class="txt">大数据</span>
+
+                                            </li>
+                                        </ul>
+                                        <div class="link">
+                                            <a href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer" class="a-link" target="_blank">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-collapse-item">
+                    <div class="CH-collapse-item-header">
+                        <a name="insurance"> 服务内容生态</a><i class="iconfont jc-icon-my-down" clstag="Channel_furniture|keycount|Floor2|MTab_2"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-secion-box">
+                            <p class="p-txt">拥有丰富的场景化内容服务资源，全面覆盖智能生活场景，用户可以通过创新的多模态交互方式，随时随地获取服务。</p>
+
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="platform-item2">
+                                        <ul class="m-flex">
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/jy.png"/> </i>
+                                                <span class="txt">京鱼智控</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/gw.png"/> </i>
+                                                <span class="txt">购物</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/sp.png"/> </i>
+                                                <span class="txt">视频</span>
+
+                                            </li>
+                                        </ul>
+                                        <ul class="m-flex">
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/yy.png"/> </i>
+                                                <span class="txt">音乐</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/yss.png"/> </i>
+                                                <span class="txt">有声书</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/gb.png"/> </i>
+                                                <span class="txt">广播</span>
+
+                                            </li>
+                                        </ul>
+                                        <ul class="m-flex">
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/xw.png"/> </i>
+                                                <span class="txt">新闻</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/nz.png"/> </i>
+                                                <span class="txt">闹钟</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/tq.png"/> </i>
+                                                <span class="txt">天气</span>
+
+                                            </li>
+                                        </ul>
+                                        <ul class="m-flex">
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/fy.png"/> </i>
+                                                <span class="txt">翻译</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/bk.png"/> </i>
+                                                <span class="txt">百科</span>
+
+                                            </li>
+                                            <li class="m-flex-item">
+                                                <i class="icon"><img src="https://img1.jcloudcs.com/portal/channel/furniture/icon3/lt.png"/> </i>
+                                                <span class="txt">聊天</span>
+
+                                            </li>
+                                        </ul>
+                                        <div class="link">
+                                            <a href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer" class="a-link" target="_blank">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //平台核心能力-->
+
+    <!-- //开发者快速接入 -->
+    <section class="CH-section">
+        <header>
+            <h1>开发者快速接入</h1>
+        </header>
+        <div class="developer-section">
+            <div class="row">
+                <div class="col-6 col-xs-12">
+                    <div class="developer-item">
+                        <h5 class="h-tit">IoT开放平台</h5>
+                        <p class="p-txt">面向硬件厂商的一站式智能服务平台，基于京东IoT自主研发的JoyLink协议、丰富的开发工具、品类解决方案等物联能力，帮助硬件产品极速实现智能化。已合作1000+品牌，已连接230+品类，成为跨品牌跨品类的第一大连接平台。</p>
+
+                        <div class="t-center"><a href="https://smartdev.jd.com/" class="jdc-btn jdc-btn-blue" target="_blank">通往IoT开放平台</a></div>
+                    </div>
+                </div>
+                <div class="col-6 col-xs-12">
+                    <div class="developer-item">
+                        <h5 class="h-tit">Skill开放平台</h5>
+                        <p class="p-txt">提供全套的自助式开发工具，帮开发者轻松，快速地将服务集成到小京鱼智能服务平台，使用户通过自然语言即可获取服务，并通过小京鱼赋能智能设备或手机应用，帮开发者获得亿级智能场景用户，从移动服务向AI服务升级。</p>
+
+                        <div class="t-center"><a href="https://jdwhale.jd.com/skill" class="jdc-btn jdc-btn-blue" target="_blank">通往Skill开放平台</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //开发者快速接入 -->
+
+
+    <!-- //智能化解决方案 -->
+    <section class="CH-section">
+        <header>
+            <h1>智能化解决方案</h1>
+        </header>
+        <div class="intelligent-solution">
+            <div class="row">
+                <div class="col-12">
+                    <div class="intelligent-item">
+                        <h5 class="h-tit">海信智能电视案例</h5>
+                        <p class="p-txt">通过集成智能助手赋能方案，海信电视E75F已实现语音控制小京鱼生态的智能设备，抢先成为智能家居控制入口。结合购物、闲聊、天气等技能，该电视为用户提供了更丰富的生活服务，正逐步转变为家庭智能控制中枢。</p>
+
+<!--                        <ul>-->
+<!--                            <li class="li-list">· 智慧家庭中枢</li>-->
+<!--                            <li class="li-list">· 告别繁琐操作</li>-->
+<!--                        </ul>-->
+                        <a href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer" class="jdc-btn jdc-btn-white" target="_blank">立即咨询</a>
+                    </div>
+                </div>
+                <div class="col-4 col-xs-12">
+                    <div class="intelligent-item2">
+                        <b class="b-tit">单品智能化方案</b>
+                        <p class="p-txt">提供云平台+App+模组/芯片+增值服务一体化智能家居解决方案，助力客户快速实现单品智能化，并逐步构建自有物联生态体系。</p>
+
+                        <a href="https://www.jdcloud.com/cn/solutions/smarthome-connectivity" class="a-link" target="_blank">查看方案</a>
+                    </div>
+                </div>
+                <div class="col-4 col-xs-12">
+                    <div class="intelligent-item2">
+                        <b class="b-tit">智能助手赋能方案</b>
+                        <p class="p-txt">通过集成小京鱼智能助手，让产品具备与人类沟通的听觉、视觉、理解能力，以及海量优质服务并实现亿级智能家居设备控制能力，帮助产品智能化升级。</p>
+
+                        <a href="https://www.jdcloud.com/cn/solutions/jdwhale-assistant" class="a-link" target="_blank">查看方案</a>
+                    </div>
+                </div>
+                <div class="col-4 col-xs-12">
+                    <div class="intelligent-item2 bdr-none">
+                        <b class="b-tit">京鱼座设备池开放产品</b>
+                        <p class="p-txt">开放京东物联被控生态设备池，助力客户智能硬件或App快速拥有亿级智能家居设备控制能力。产品提供触控版、语音版，以应对App、车机等不同场景需求。</p>
+
+                        <a href="https://www.jdcloud.com/cn/products/jdwhale-dcs" class="a-link" target="_blank">查看方案</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //智能化解决方案 -->
+
+    <!-- //精选智能硬件 -->
+    <section class="CH-section section-solution">
+        <header>
+            <h1>精选智能硬件</h1>
+        </header>
+        <div class="CH-section-body">
+            <div class="CH-secion-box">
+                <div class="row CH-gutter-20">
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-img">
+                                <img
+                                        src="https://img1.jcloudcs.com/portal/channel/furniture/img-pd1.jpg"
+                                        alt=""
+                                />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">京鱼座智能屏i8 Pro</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">8英寸平板级大屏，眼见为实的高清画质</li>
+                                    <li class="CH-list-item">高能便携，拿起就不必放下的超强续航</li>
+                                    <li class="CH-list-item">孩子成长的小伙伴，家庭教育的大助理</li>
+                                </ul>
+                            </div>
+                            <div class="price">
+                                <span class="num">599</span>
+
+                                <span class="txt">元</span>
+
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <a
+                                                href="https://item.jd.com/100012576888.html"
+                                                clstag="Channel_furniture|keycount|Floor2|100012576888" target="_blank">
+                                            <button class="CH-card-button-primary">
+                                                立即购买
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-img">
+                                <img
+                                        src="https://img1.jcloudcs.com/portal/channel/furniture/img-pd2.jpg"
+                                        alt=""
+                                />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">京鱼座智能蓝牙耳机 N1</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">颈挂入耳式，降噪防水轻盈舒适</li>
+                                    <li class="CH-list-item">解放双手，智能语音助手唤醒</li>
+                                    <li class="CH-list-item">听觉盛宴，石墨烯动圈振膜</li>
+                                </ul>
+                            </div>
+                            <div class="price">
+                                <span class="num">179</span>
+
+                                <span class="txt">元</span>
+
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <a
+                                                href="https://item.jd.com/65562947356.html"
+                                                clstag="Channel_furniture|keycount|Floor2|65562947356" target="_blank">
+                                            <button class="CH-card-button-primary">
+                                                立即购买
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-img">
+                                <img
+                                        src="https://img1.jcloudcs.com/portal/channel/furniture/img-pd3.jpg"
+                                        alt=""
+                                />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">京东云无线宝128G 尊享版</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">2100M 5G双频千兆智能路由</li>
+                                    <li class="CH-list-item">赚积分兑京豆 畅享游戏加速</li>
+                                    <li class="CH-list-item">随时访问您的私人本地网盘</li>
+                                </ul>
+                            </div>
+                            <div class="price">
+                                <span class="num">399</span>
+
+                                <span class="txt">元</span>
+
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <a
+                                                href="https://item.jd.com/100005785591.html"
+                                                clstag="Channel_furniture|keycount|Floor2|100005785591" target="_blank">
+                                            <button class="CH-card-button-primary">
+                                                立即购买
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-img">
+                                <img
+                                        src="https://img1.jcloudcs.com/portal/channel/furniture/img-pd4.png"
+                                        alt=""
+                                />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">京鱼座智能家居套装</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">网关/人体传感器/门窗传感器/智能插...</li>
+                                    <li class="CH-list-item">玩转智能场景，生活随心定制</li>
+                                    <li class="CH-list-item">多重保护，安全可靠</li>
+                                </ul>
+                            </div>
+                            <div class="price">
+                                <span class="num">499</span>
+
+                                <span class="txt">元</span>
+
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <a
+                                                href="https://item.jd.com/100000390098.html"
+                                                clstag="Channel_furniture|keycount|Floor2|100000390098" target="_blank">
+                                            <button class="CH-card-button-primary">
+                                                立即购买
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="CH-section section-solution-m">
+        <header>
+            <h1>精选智能硬件</h1>
+        </header>
+        <div class="CH-section-body">
+            <div class="CH-collapse">
+                <div class="CH-collapse-item is-selected">
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-card">
+                            <div class="CH-card-img">
+                                <img src="https://img1.jcloudcs.com/portal/channel/furniture/img-pd1.jpg" alt=""/>
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">京鱼座智能屏i8 Pro</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">8英寸平板级大屏，眼见为实的高清画质</li>
+                                    <li class="CH-list-item">高能便携，拿起就不必放下的超强续航</li>
+                                    <li class="CH-list-item">孩子成长的小伙伴，家庭教育的大助理</li>
+                                </ul>
+                            </div>
+                            <div class="price">
+                                <span class="num">599</span>
+
+                                <span class="txt">元</span>
+
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <a
+                                                href="https://item.jd.com/100012576888.html"
+                                                clstag="Channel_furniture|keycount|Floor2|100012576888" target="_blank">
+                                            <button class="CH-card-button-primary">
+                                                立即购买
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="CH-card">
+                            <div class="CH-card-img">
+                                <img
+                                        src="https://img1.jcloudcs.com/portal/channel/furniture/img-pd2.jpg"
+                                        alt=""
+                                />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">京鱼座智能蓝牙耳机 N1</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">颈挂入耳式，降噪防水轻盈舒适</li>
+                                    <li class="CH-list-item">解放双手，智能语音助手唤醒</li>
+                                    <li class="CH-list-item">听觉盛宴，石墨烯动圈振膜</li>
+                                </ul>
+                            </div>
+                            <div class="price">
+                                <span class="num">179</span>
+
+                                <span class="txt">元</span>
+
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <a
+                                                href="https://item.jd.com/65562947356.html"
+                                                clstag="Channel_furniture|keycount|Floor2|65562947356" target="_blank">
+                                            <button class="CH-card-button-primary">
+                                                立即购买
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="CH-card">
+                            <div class="CH-card-img">
+                                <img
+                                        src="https://img1.jcloudcs.com/portal/channel/furniture/img-pd3.jpg"
+                                        alt=""
+                                />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">京东云无线宝128G 尊享版</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">2100M 5G双频千兆智能路由</li>
+                                    <li class="CH-list-item">赚积分兑京豆 畅享游戏加速</li>
+                                    <li class="CH-list-item">随时访问您的私人本地网盘</li>
+                                </ul>
+                            </div>
+                            <div class="price">
+                                <span class="num">399</span>
+
+                                <span class="txt">元</span>
+
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <a
+                                                href="https://item.jd.com/100005785591.html"
+                                                clstag="Channel_furniture|keycount|Floor2|100005785591" target="_blank">
+                                            <button class="CH-card-button-primary">
+                                                立即购买
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="CH-card">
+                            <div class="CH-card-img">
+                                <img
+                                        src="https://img1.jcloudcs.com/portal/channel/furniture/img-pd4.png"
+                                        alt=""
+                                />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">京鱼座智能家居套装</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">网关/人体传感器/门窗传感器/智能插...</li>
+                                    <li class="CH-list-item">玩转智能场景，生活随心定制</li>
+                                    <li class="CH-list-item">多重保护，安全可靠</li>
+                                </ul>
+                            </div>
+                            <div class="price">
+                                <span class="num">499</span>
+
+                                <span class="txt">元</span>
+
+                            </div>
+                            <div class="CH-card-footer">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <a
+                                                href="https://item.jd.com/100000390098.html"
+                                                clstag="Channel_furniture|keycount|Floor2|100000390098" target="_blank">
+                                            <button class="CH-card-button-primary">
+                                                立即购买
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //精选智能硬件 -->
+
+    <!-- 专业可靠的合作伙伴 -->
+    <section class="CH-section section-solution section-case fl7">
+        <header>
+            <h1>专业可靠的合作伙伴</h1>
+        </header>
+        <div class="CH-section-body seccessCase">
+            <div class="CH-panel">
+                <div class="swiper-container CH-carousel-type-1">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide" data-index="1">
+                            <div class="row">
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/haier.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/joyoung.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/midea.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/samsung.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/philips.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/galanz.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/changhong.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/panasonic.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/honeywell.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/hisense.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/aux.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/gree.png"
+                                            alt=""
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-index="2">
+                            <div class="row">
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/tcl.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/aosmith.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/skyworth.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/aqiy.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/qqyy.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/tb.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/qefm.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/txxw.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/mgyy.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/lttt.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/zgtqw.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/sogou.png"
+                                            alt=""
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-index="2">
+                            <div class="row">
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/baike.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/jy2.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/lingjuai.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/ruyiai.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/mtwm.png"
+                                            alt=""
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+                <div class="partner">
+                    <a target="_blank" clstag="Channel_furniture|keycount|Floor6|Btn_0" href="https://www.jdcloud.com/cn/partner/index"
+                    >加入合作伙伴</a
+                    >
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="CH-section section-solution section-case-m fl7">
+        <header>
+            <h1>专业可靠的合作伙伴</h1>
+        </header>
+        <div class="CH-section-body seccessCase">
+            <div class="CH-panel">
+                <div class="swiper-container CH-carousel-type-1">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide" data-index="1">
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/haier.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/joyoung.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/midea.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/samsung.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/philips.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/galanz.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/changhong.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/panasonic.png"
+                                            alt=""
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-index="1">
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/honeywell.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/hisense.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/aux.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/gree.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/tcl.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/aosmith.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/skyworth.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/aqiy.png"
+                                            alt=""
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-index="2">
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/qqyy.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/tb.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/qefm.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/txxw.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/mgyy.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/lttt.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/zgtqw.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/sogou.png"
+                                            alt=""
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-index="2">
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/baike.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/jy2.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/lingjuai.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/ruyiai.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/furniture/logo-partner/mtwm.png"
+                                            alt=""
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+                <div class="partner">
+                    <a target="_blank" clstag="Channel_furniture|keycount|Floor6|MBtn_0" href="https://www.jdcloud.com/cn/partner/index"
+                    >加入合作伙伴</a
+                    >
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //专业可靠的合作伙伴 -->
+
+</div>
+
+<!-- 联系我们 -->
+<div class="CH-footer">
+    <div class="CH-container">
+        <div class="row">
+            <div class="col-3 col-xs-12">
+                <div class="CH-footer-slogan">
+                    联系我们的专家，为您免费提供量身定制的方案咨询服务
+                </div>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt>免费咨询专家：400-623-0183</dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="furniture|keycount|footer|online" href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="furniture|keycount|footer|consultation" href="https://www.jdcloud.com/forms/consultation" target="_blank">请销售顾问联系我&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>不限时间，提交需求后，我们会尽快联系您</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- //联系我们  -->
+
+<div class="pop-video-wrap">
+<div class="mask"></div>
+<div class="pop-video-video">
+    <video id="my-player" class="my-video" controls preload="auto" >
+        <source src="" type="video/mp4" id="my-player-source">
+    </video>
+    <div class="video-close">&times;</div>
+</div>
+</div>
+</body>
