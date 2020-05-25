@@ -29,8 +29,8 @@
                                                target="_blank" clstag="AIChannel|keycount|Header|voiceprintRecognition">声纹识别</a></li>
                                     </ul>
                                 </div>
-                                <h3>智能城市 AI</h3>
-                                <div>
+                                <!--h3>智能城市 AI</h3 -->
+                                <!--div>
                                     <ul>
                                         <li><a target="_blank" data-ga="TopNavSec_人流量缺失值填补"
                                                clstag="AIChannel|keycount|Header|DataFillingForHumanFlowrate"
@@ -106,7 +106,7 @@
                                                 class="tag tag-test">公测中</span>
 </a></li>
                                     </ul>
-                                </div>
+                                </div -->
                             </li>
                             <li>
                                 <h3>人脸识别</h3>
