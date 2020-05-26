@@ -206,5 +206,13 @@
 		"id":674,
 		"partner_label":"产品方案伙伴",
 		"tableName":"cms_partner"
+	},
+	{
+		"name":"杭州太火鸟科技有限公司",
+		"description":"太火鸟科技是国内B2B设计交易与产品创新SaaS服务平台，平台汇集了数千家国内外专业设计公司，依托领先的人工智能设计交易引擎和工具，为客户提供工业设计、产品设计、设计交易撮合、成果转化、产品创新、投资孵化等服务。",
+		"short_name":"太火鸟",
+		"id":699,
+		"partner_label":"产品方案伙伴",
+		"tableName":"cms_partner"
 	}
 ]
