@@ -366,7 +366,7 @@
 	},
 	{
 		"name":"基础软件",
-		"description":"",
+		"description":"基础软件",
 		"id":200
 	},
 	{
@@ -400,18 +400,18 @@
 		"id":206
 	},
 	{
-		"name":"运维服务",
-		"description":"",
+		"name":"专家服务",
+		"description":"专家服务",
 		"id":207
 	},
 	{
-		"name":"云安全",
-		"description":"",
+		"name":"安全",
+		"description":"安全",
 		"id":208
 	},
 	{
 		"name":"数据智能",
-		"description":"",
+		"description":"数据智能",
 		"id":209
 	},
 	{
@@ -480,8 +480,8 @@
 		"id":222
 	},
 	{
-		"name":"云代维",
-		"description":"云代维",
+		"name":"代维服务",
+		"description":"代维服务",
 		"id":223
 	},
 	{
@@ -555,8 +555,8 @@
 		"id":249
 	},
 	{
-		"name":"智能城市",
-		"description":"",
+		"name":"人工智能",
+		"description":"人工智能",
 		"id":250
 	},
 	{
@@ -666,7 +666,7 @@
 	},
 	{
 		"name":"京东云PLUS服务",
-		"description":"",
+		"description":"京东云PLUS服务",
 		"id":284
 	},
 	{
@@ -4324,5 +4324,265 @@
 		"name":"增值业务",
 		"description":"为IDC客户提供各类网络安全、数据应用、运行维护等相关增值服务产品",
 		"id":5909
+	},
+	{
+		"name":"5G 智能物流园区",
+		"description":"5G 智能物流园区",
+		"id":5911
+	},
+	{
+		"name":"京选商城",
+		"description":"京选商城",
+		"id":5913
+	},
+	{
+		"name":"企业应用",
+		"description":"企业应用",
+		"id":5915
+	},
+	{
+		"name":"解决方案",
+		"description":"解决方案",
+		"id":5917
+	},
+	{
+		"name":"上云赋能",
+		"description":"上云赋能",
+		"id":5919
+	},
+	{
+		"name":"建站与推广",
+		"description":"建站与推广",
+		"id":5921
+	},
+	{
+		"name":"模板建站",
+		"description":"模板建站",
+		"id":5923
+	},
+	{
+		"name":"定制建站",
+		"description":"定制建站",
+		"id":5925
+	},
+	{
+		"name":"H5&小程序&APP",
+		"description":"H5&小程序&APP",
+		"id":5927
+	},
+	{
+		"name":"网站设计与服务",
+		"description":"网站设计与服务",
+		"id":5929
+	},
+	{
+		"name":"营销推广",
+		"description":"营销推广",
+		"id":5931
+	},
+	{
+		"name":"建站系统",
+		"description":"建站系统",
+		"id":5933
+	},
+	{
+		"name":"定制开发",
+		"description":"定制开发",
+		"id":5935
+	},
+	{
+		"name":"电商网站",
+		"description":"电商网站",
+		"id":5937
+	},
+	{
+		"name":"企业应用服务中心",
+		"description":"企业应用服务中心",
+		"id":5939
+	},
+	{
+		"name":"域名/公司/商标服务",
+		"description":"域名/公司/商标服务",
+		"id":5941
+	},
+	{
+		"name":"工商财税",
+		"description":"工商财税",
+		"id":5943
+	},
+	{
+		"name":"企业建站",
+		"description":"企业建站",
+		"id":5945
+	},
+	{
+		"name":"企业办公",
+		"description":"企业办公",
+		"id":5947
+	},
+	{
+		"name":"知识产权",
+		"description":"知识产权",
+		"id":5949
+	},
+	{
+		"name":"企业安全",
+		"description":"企业安全",
+		"id":5951
+	},
+	{
+		"name":"企业营销",
+		"description":"企业营销",
+		"id":5953
+	},
+	{
+		"name":"企业数据智能",
+		"description":"企业数据智能",
+		"id":5955
+	},
+	{
+		"name":"API 集市",
+		"description":"API集市",
+		"id":5957
+	},
+	{
+		"name":"金融科技",
+		"description":"金融科技",
+		"id":5959
+	},
+	{
+		"name":"交通地理",
+		"description":"交通地理",
+		"id":5961
+	},
+	{
+		"name":"企业管理",
+		"description":"企业管理",
+		"id":5963
+	},
+	{
+		"name":"人工智能",
+		"description":"人工智能",
+		"id":5965
+	},
+	{
+		"name":"数字营销",
+		"description":"数字营销",
+		"id":5967
+	},
+	{
+		"name":"安全管理",
+		"description":"安全管理",
+		"id":5969
+	},
+	{
+		"name":"移动安全",
+		"description":"移动安全",
+		"id":5971
+	},
+	{
+		"name":"健康医疗",
+		"description":"健康医疗",
+		"id":5973
+	},
+	{
+		"name":"数据研究",
+		"description":"数据研究",
+		"id":5975
+	},
+	{
+		"name":"智慧政务",
+		"description":"智慧政务",
+		"id":5977
+	},
+	{
+		"name":"智慧教育",
+		"description":"智慧教育",
+		"id":5979
+	},
+	{
+		"name":"电商零售",
+		"description":"电商零售",
+		"id":5981
+	},
+	{
+		"name":"店铺装修",
+		"description":"店铺装修",
+		"id":5983
+	},
+	{
+		"name":"电商运营",
+		"description":"电商运营",
+		"id":5985
+	},
+	{
+		"name":"电商管理工具",
+		"description":"电商管理工具",
+		"id":5987
+	},
+	{
+		"name":"数据分析",
+		"description":"数据分析",
+		"id":5989
+	},
+	{
+		"name":"电商解决方案",
+		"description":"电商解决方案",
+		"id":5991
+	},
+	{
+		"name":"物流供应链",
+		"description":"物流供应链",
+		"id":5993
+	},
+	{
+		"name":"快递服务",
+		"description":"快递服务",
+		"id":5995
+	},
+	{
+		"name":"冷链",
+		"description":"冷链",
+		"id":5997
+	},
+	{
+		"name":"云仓",
+		"description":"云仓",
+		"id":5999
+	},
+	{
+		"name":"跨境物流",
+		"description":"跨境物流",
+		"id":6001
+	},
+	{
+		"name":"服务+",
+		"description":"服务+",
+		"id":6003
+	},
+	{
+		"name":"医药追溯",
+		"description":"医药追溯",
+		"id":6005
+	},
+	{
+		"name":"区块链公益",
+		"description":"区块链公益",
+		"id":6007
+	},
+	{
+		"name":"区块链积分",
+		"description":"区块链积分",
+		"id":6009
+	},
+	{
+		"name":"随机数",
+		"description":"随机数",
+		"id":6011
+	},
+	{
+		"name":"联盟链",
+		"description":"联盟链",
+		"id":6013
 	}
 ]
