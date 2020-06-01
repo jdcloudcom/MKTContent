@@ -1,0 +1,26 @@
+<p>近日，京东云安全团队监测到Fastjson &lt;=1.2.68版本存在远程代码执行漏洞，漏洞被利用可直接获取服务器权限。</p>
+<p><br/></p>
+<p><strong>【漏洞描述】</strong></p>
+<p>Fastjson是阿里巴巴的开源JSON解析库，它可以解析JSON格式的字符串，支持将Java Bean序列化为JSON字符串，也可以从JSON字符串反序列化到JavaBean。</p>
+<p><br/></p>
+<p>Fastjson采用黑白名单的方法来防御反序列化漏洞，导致当黑客不断发掘新的反序列化Gadgets类时，在autoType关闭的情况下仍然可能可以绕过黑白名单防御机制，造成远程命令执行漏洞。经研究，该漏洞利用门槛较低，可绕过autoType限制。</p>
+<p><br/></p>
+<p><strong>【漏洞评级】</strong></p>
+<p>高危</p>
+<p><br/></p>
+<p><strong>【受影响版本】</strong></p>
+<p>fastjson &lt;=1.2.68</p>
+<p>fastjson sec版本 &lt;= sec9</p>
+<p><br/></p>
+<p><strong>【安全版本】</strong></p>
+<p>fastjson &gt;=1.2.69</p>
+<p>fastjson sec版本 &gt;= sec10</p>
+<p><br/></p>
+<p><strong>【修复建议】</strong></p>
+<p>1.升级至安全版本</p>
+<p>2.fastjson在1.2.68及之后的版本中引入了safeMode，配置safeMode后，无论白名单和黑名单，都不支持autoType，可一定程度上缓解反序列化Gadgets类变种攻击（关闭autoType注意评估对业务的影响）开启方法参考：<a href="https://github.com/alibaba/fastjson/wiki/fastjson_safemode" target="_blank" title="https://github.com/alibaba/fastjson/wiki/fastjson_safemode">https://github.com/alibaba/fastjson/wiki/fastjson_safemode</a></p>
+<p>3.采用其他json处理组件替换，jackson-databind漏洞也频发，建议使用Gson</p>
+<p><br/></p>
+<p><strong>【相关链接】</strong></p>
+<p><a href="https://github.com/alibaba/fastjson/releases/tag/1.2.69" target="_blank" title="https://github.com/alibaba/fastjson/releases/tag/1.2.69">https://github.com/alibaba/fastjson/releases/tag/1.2.69</a></p>
+<p><br/></p>
