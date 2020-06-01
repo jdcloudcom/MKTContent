@@ -1342,5 +1342,19 @@
 		"id":1246,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"618 大促直播活动",
+		"id":1248,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"mee 618活动期间",
+		"id":1250,
+		"button_title":"",
+		"main_title":""
 	}
 ]
