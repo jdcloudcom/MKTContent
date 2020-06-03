@@ -1351,10 +1351,10 @@
 		"main_title":""
 	},
 	{
-		"sub_title":"",
+		"sub_title":"Minecraft我的世界教育版编程一小时: 探索编程概念",
 		"name":"mee 618活动期间",
 		"id":1250,
-		"button_title":"",
-		"main_title":""
+		"button_title":"了解更多",
+		"main_title":"编程一小时"
 	}
 ]
