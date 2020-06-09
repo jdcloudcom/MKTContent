@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"语音合成-基础音库\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/voice/text-to-speech\",\"classTag\":\"\"}],\"desc\":\"提供高自然度、有感情色彩，个性化的语音合成服务，包括文字转声音，声音转声音服务。给聪明的机器装上灵巧的“嘴巴”，让机器开口说话\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"限时8折\",\"explainLink\":\"https://www.jdcloud.com/cn/activity/midyear-ai\",\"classTag\":\"\"}],\"productName\":\"语音合成-基础音库\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/voice/text-to-speech\",\"classTag\":\"\"}],\"desc\":\"提供高自然度、有感情色彩，个性化的语音合成服务，包括文字转声音，声音转声音服务。给聪明的机器装上灵巧的“嘴巴”，让机器开口说话\"}",
 		"id":1005
 	},
 	{
