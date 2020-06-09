@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"拍照购\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/snap-shop\",\"classTag\":\"\"}],\"desc\":\"拍照并识别照片中的物体，返回京东商城对应相同或相似商品的信息，大幅提升搜索速度和准确度，增加拍照和购物乐趣\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"限时8.5折\",\"explainLink\":\"https://www.jdcloud.com/cn/activity/midyear-ai\",\"classTag\":\"\"}],\"productName\":\"拍照购\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/snap-shop\",\"classTag\":\"\"}],\"desc\":\"拍照并识别照片中的物体，返回京东商城对应相同或相似商品的信息，大幅提升搜索速度和准确度，增加拍照和购物乐趣\"}",
 		"id":1085
 	},
 	{
