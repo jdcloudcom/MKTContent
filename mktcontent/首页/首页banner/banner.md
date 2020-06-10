@@ -1356,5 +1356,12 @@
 		"id":1250,
 		"button_title":"了解更多",
 		"main_title":"编程一小时"
+	},
+	{
+		"sub_title":"",
+		"name":"直播 2场",
+		"id":1252,
+		"button_title":"",
+		"main_title":""
 	}
 ]
