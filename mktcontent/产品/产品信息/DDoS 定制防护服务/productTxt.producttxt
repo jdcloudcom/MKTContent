@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"DDoS 定制防护服务\",\"label\":[{\"TitleName\":\"工单咨询\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=1010\",\"classTag\":\"\"}],\"desc\":\"DDoS定制防护服务（Anti-DDoS Premium Service）为用户提供专业的DDoS攻击防护解决方案，根据用户应用场景提供定制化的近源清洗、流量压制、DNS刷新等服务。\"}",
+		"id":2075
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"近源防护\",\"proName\":\"提供海量DDoS攻击近源清洗，流量封禁和权威DNS同步秒级生效，有效缓解用户源站防护压力。\"},{\"showShade\":false,\"proGood\":\"深入客户业务场景\",\"proName\":\"全面分析客户所面临的安全威胁，针对客户重大业务活动提供专属的DDoS防护方案。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"实时响应\",\"proName\":\"提供7*24小时远程支持，实时监控攻击趋势和业务健康状况，保障业务持续稳定运行。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"灵活计费\",\"proName\":\"支持根据客户场景定制服务内容，弹性计费，帮助客户节省成本。\"}]",
+		"id":2076
+	},
+	{
+		"txt":"[{\"funcName\":\"近源清洗\",\"funcContent\":[{\"funcTitle\":\"DDoS攻击近源清洗\",\"funcP\":\"针对使用京东智联云DDoS防护产品的用户，提供运营商线路的DDoS攻击流量清洗，缓解用户IP高防实例和京东智联云上源站的防护压力，一定程度上降低被黑洞的概率。\"}]},{\"funcName\":\"流量压制\",\"funcContent\":[{\"funcTitle\":\"流量自主封禁\",\"funcP\":\"用户根据攻击流量趋势和攻击来源区域分布，自主选择封禁特定的流量，例如封禁海外流量。\"}]},{\"funcName\":\"DNS刷新\",\"funcContent\":[{\"funcTitle\":\"权威DNS同步\",\"funcP\":\"实现与权威DNS同步秒级生效，保障业务稳定接入。\"}]}]",
+		"id":2077
+	},
+	{
+		"txt":"[{\"name\":\"产品概述\",\"link\":\"https://docs.jdcloud.com/anti-ddos-premium-service/product-overview\",\"classTag\":\"\"},{\"name\":\"入门指南\",\"link\":\"https://docs.jdcloud.com/anti-ddos-premium-service/getting-started\",\"classTag\":\"\"},{\"name\":\"产品定价\",\"link\":\"https://docs.jdcloud.com/anti-ddos-premium-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":2106
+	}
+]
