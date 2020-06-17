@@ -109,5 +109,11 @@
 		"description":"最低返30%，折合2.7折",
 		"id":412,
 		"label":""
+	},
+	{
+		"name":"云小店",
+		"description":"看直播领玩偶",
+		"id":416,
+		"label":""
 	}
 ]
