@@ -2118,5 +2118,13 @@
 		"jss_key":"News_Content_813",
 		"id":813,
 		"news_title":"“新工具”激发“新力量” 数字技术“孪生”云上北京 ——京东智联云科技助力北京抗疫复工纪实"
+	},
+	{
+		"summary":"来自京东“618全球年中购物节”的消息显示，京东又创造了一个新的纪录：自2020年6月1日0时到18日24时，购物节累计下单金额达2692亿元人民币，同比增长33.6%。其中，京东智联云“618云上集市·城市嘉年华”，携手40多座城市，收获了GMV破40亿的好成绩。",
+		"image_url":"//img1.jcloudcs.com/cms/4f26c1b0-3b00-43bf-a8ed-cdda8ee1a0de20200622100738.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_821",
+		"jss_key":"News_Content_821",
+		"id":821,
+		"news_title":"“618云上集市”GMV破40亿  京东智联云交卷"
 	}
 ]
