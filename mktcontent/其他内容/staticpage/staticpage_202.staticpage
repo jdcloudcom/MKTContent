@@ -1,0 +1,1011 @@
+<div class="subMenu-fix">
+    <div class="subMenu-box">
+        <h2>教育</h2>
+        <div class="subMenu-level1">
+            <ul>
+<!--                <li class="subMenu-link hasChild">-->
+<!--                    <a href="#" class="drop-link">解决方案</a>-->
+<!--                    <div class="subMenu-drop-box">-->
+<!--                        <ul class="subMenu-level2">-->
+<!--                            <li><a clstag="Channel_education|keycount|Header|Link_0_0_0" href="https://minecraft.education.jdcloud.com/cn/" target="_blank">编程教育</a></li>-->
+<!--                            <li><a clstag="Channel_education|keycount|Header|Link_0_0_1" href="https://developer.jdcloud.com/training" target="_blank">京东智联云培训&认证</a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </li>-->
+                <li class="subMenu-link hasChild">
+                    <a href="#" class="drop-link">解决方案</a>
+                    <div class="subMenu-drop-box">
+                        <ul class="subMenu-level2">
+                            <li><a clstag="Channel_education|keycount|Header|Link_0_0_0" href="https://minecraft.education.jdcloud.com/cn/" target="_blank">编程教育</a></li>
+                            <li><a clstag="Channel_education|keycount|Header|Link_0_0_1" href="https://developer.jdcloud.com/training" target="_blank">京东智联云培训&#38;认证</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="subMenu-link hasChild">
+                    <a href="#" class="drop-link">通用产品</a>
+                    <div class="subMenu-drop-box">
+                        <ul class="subMenu-level2">
+                            <li><a clstag="Channel_education|keycount|Header|Link_1_0_0" href="https://www.jdcloud.com/cn/products/virtual-machines" target="_blank">云主机</a></li>
+                            <li><a clstag="Channel_education|keycount|Header|Link_1_0_1" href="https://www.jdcloud.com/cn/products/cloud-disk-service" target="_blank">云硬盘</a></li>
+                            <li><a clstag="Channel_education|keycount|Header|Link_1_0_2" href="https://www.jdcloud.com/cn/products/object-storage-service" target="_blank">对象存储</a></li>
+                            <li><a clstag="Channel_education|keycount|Header|Link_1_0_3" href="https://www.jdcloud.com/cn/products/virtual-private-cloud" target="_blank">私有网络</a></li>
+                            <li><a clstag="Channel_education|keycount|Header|Link_1_0_4" href="https://www.jdcloud.com/cn/products/load-balancer" target="_blank">负载均衡</a></li>
+                            <li><a clstag="Channel_education|keycount|Header|Link_1_0_5" href="https://www.jdcloud.com/cn/products/elastic-network-interface" target="_blank">弹性网卡</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="subMenu-link">
+                    <a clstag="education|keycount|TopNav|list" href="https://www.jdcloud.com/cn/case/list" target="_blank">精选案例</a>
+                </li>
+            </ul>
+        </div>
+        <div class="tel-info">
+            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank">
+                <i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i>售前咨询：400-623-0183
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="CH-container">
+
+    <section class="CH-section section-firstScreen">
+
+        <div class="panel col-carousel">
+
+            <div class="swiper-container CH-carousel-type-1 swiper-no-swiping">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="CH-carousel-container">
+                            <img src="https://img1.jcloudcs.com/portal/channel/education/m/banner-rwd.png" class="CH-carousel-img-m">
+                            <div class="CH-carousel-content">
+                                <h3 class="CH-carousel-title">教育云，创新造就不同未来</h3>
+                                <p class="CH-carousel-desc">科技全面赋能，推动人工智能教育</p>
+
+                            </div>
+                            <a target="_blank" clstag="Channel_Retail|keycount|Banner|Btn_0"
+                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"><button
+                                    class="CH-carousel-button">立即咨询</button></a>
+                            <img src="https://img1.jcloudcs.com/portal/channel/education/pc/banner-pc.png" class="CH-carousel-img-pc" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="panel col-broadcast">
+            <div class="CH-card-broadcast">
+                <dl class="list-news">
+                    <dt class="list-news-title">新闻动态</dt>
+                    <dd class="list-news-desc f-toe2">
+                        <a target="_blank" href="https://www.jdcloud.com/cn/news/detail/780" clstag="Channel_Retail|keycount|BannerRight|Link_0">三张图看懂京东智联云的过去、现在和未来</a>
+                    </dd>
+                </dl>
+                <dl class="list-news">
+                    <dt class="list-news-title">新动能</dt>
+                    <dd class="list-news-desc f-toe2">
+                        <a target="_blank" href="https://www.jdcloud.com/cn/news/detail/781" clstag="Channel_Retail|keycount|BannerRight|Link_1">京东发布“京东新动能计划”，首推三大解决方案，政企数字化转型再提速</a>
+                    </dd>
+                </dl>
+
+                <dl class="list-news">
+                    <dt class="list-news-title">行业话题</dt>
+                    <dd class="list-news-desc f-toe2">
+                        <a target="_blank" href="https://developer.jdcloud.com/topics/906" clstag="Channel_Retail|keycount|BannerRight|Link_2">后疫情时代，教育科技的未来发展趋势</a>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- TODO:行业洞察部分 -->
+
+    <section class="CH-section section-industry retail section-case"">
+    <header>
+        <h1>行业洞察</h1>
+    </header>
+        <div class="retail-pr ">
+            <div class="row">
+                <div class="col-12 col-xs-12">
+                    <div class="CH-container-imageText">
+                        <div class="col-image">
+                            <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl2-img.jpg" class="col-img-pc">
+                        </div>
+
+                        <div class="col-content">
+                            <h3 class="section-case-title">京东智联云为教育行业赋能</h3>
+                            <p class=" section-case-desc">
+                                人工智能是新一轮科技革命和产业变革的重要驱动力量，加快发展和利用人工智能是一项重大国家战略，京东智联云是人工智能领域的领头羊，通过叠加京东智联云的技术优势与教育资源，围绕构建区域人工智能教育产业生态圈。
+                            </p>
+
+                            <ul class="section-case-feature">
+                                <li>国际领衔专家队伍</li>
+                                <li>云、AI、IOT生态闭环</li>
+                                <li>依托人工智能、云计算、物联网、 大数据前沿技术</li>
+                                <li>注重创新引领和教育生态变革</li>
+                            </ul>
+                        </div>
+
+                        <div>
+                            <a target="_blank" class="section-case-button" clstag="Channel_education|keycount|Floor4|Link_2" href="https://www.jdcloud.com/cn/forms/consultation">联系我们</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row retail-list">
+
+                <div class="col-3 col-xs-12">
+                    <div class="re-block">
+              <span class="re-moments">
+                产业升级
+              </span>
+
+                            <p class="re-des">在线教育发展迅速，每年保持 20%左右的增长，渗透率在10%左右，整体数据量激增。</p>
+
+                    </div>
+                </div>
+
+                <div class="col-3 col-xs-12">
+                    <div class="re-block">
+              <span class="re-moments">技术落地</span>
+
+                            <p class="re-des">
+                                金融和安防等多个领域已实现商业化落地，5G时代下，人工智能应用将延伸至边缘，丰富基于智能教育硬件的教学场景。
+                            </p>
+
+                    </div>
+                </div>
+                <div class="col-3 col-xs-12">
+                    <div class="re-block">
+              <span class="re-moments">
+                政策护航
+              </span>
+
+                            <p class="re-des">近五年，人工智能的相关政策，经历了三个阶段，从“智能制造”到“互联网+”，再到“国家战略规划”，重要性逐步提升。</p>
+
+                    </div>
+
+                </div>
+
+                <div class="col-3 col-xs-12">
+                    <div class="re-block">
+                <span class="re-moments">
+                  资本助力
+                </span>
+
+                                <p class="re-des">
+                                    从2013年至2019年，经媒体披露的2500余个教育融资事件中， 与AI相关的事件近300个，累计融资规模逾140亿人民币。
+                                </p>
+
+
+                        </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- 行业场景化方案部分 -->
+
+    <section class="CH-section section-solution education-fl3">
+    <header>
+        <h1>通用解决方案</h1>
+    </header>
+
+    <div class="CH-section-body">
+        <div class="CH-secion-box">
+            <div class="row CH-gutter-20">
+                <div class="col-6">
+                    <div class="CH-card is-hover">
+                        <div class="CH-card-img">
+                            <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl3-img1.png" alt="" />
+                        </div>
+                        <div class="CH-card-header is-border-bottom">
+                            <h3 class="CH-card-title">共建人工智能创新发展试验区</h3>
+                        </div>
+                        <div class="CH-card-body">
+
+                            <p class="CH-card-desc f-toe2">
+                                京东智联云依托在技术、创新、融合上的基因优势以及内外部优质资源，通过与地方政府、职业院校、科研机构深度合作共建人工智能创新发展试验区。
+                            </p>
+
+                            <div class="m-flex">
+                                <ul class="CH-list m-flex-item">
+                                    <li class="CH-list-item">人工智能创新中心</li>
+                                    <li class="CH-list-item">人工智能学院</li>
+                                    <li class="CH-list-item">人工智能产业智库</li>
+                                    <li class="CH-list-item">人工智能产业峰会</li>
+                                </ul>
+                                <ul class="CH-list m-flex-item">
+                                    <li class="CH-list-item">C2B产业智能平台</li>
+                                </ul>
+                            </div>
+
+                            <a clstag="Channel_education|keycount|Floor3|btn_1" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer" class="jdc-btn jdc-btn-blue" target="_blank">立即咨询</a>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-6">
+                    <div class="CH-card is-hover">
+                        <div class="CH-card-img">
+                            <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl3-img2.png" alt="" />
+                        </div>
+
+                        <div class="CH-card-header is-border-bottom">
+                            <h3 class="CH-card-title">建设人工智能+教育科技创新示范区</h3>
+                        </div>
+
+                        <div class="CH-card-body">
+                            <p class="CH-card-desc f-toe2">
+                                京东智联云以技术驱动未来、用科技创新教育，通过 5G、云计算、大数据、人工智能等技术赋能教育发展需要，为地方打造人工智能+教育科技创新示范区。
+                            </p>
+
+
+                            <div class="m-flex">
+                                <ul class="CH-list m-flex-item">
+                                    <li class="CH-list-item">5G+网络教育</li>
+                                    <li class="CH-list-item">5G+4K高清远程互动课堂</li>
+                                    <li class="CH-list-item f-toe">5G+VR云课堂</li>
+                                    <li class="CH-list-item f-toe">智能教育云平台</li>
+                                </ul>
+                                <ul class="CH-list m-flex-item">
+                                    <li class="CH-list-item">智能校务</li>
+                                    <li class="CH-list-item">人工智能教育实验室</li>
+                                    <li class="CH-list-item f-toe">京东智联云云资源</li>
+                                </ul>
+                            </div>
+                            <a clstag="Channel_education|keycount|Floor3|btn_1" href="https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fdd1-open.jd.com%2Fchat%2Fm%2Findex%3Fsource%3Dopen_web%26aspid%3D18263598494.1.3.0.1664%26waiterApp%3Dopen.18992bf0a159e570ed70016a51.waiter%26entry%3D%2520%2520%2520%2520%2520%26venderId%3D18263598494%26mallId%3D18263598494%26ws%3Dws1-dd.jd.com%26lang%3Dzh_CN%26waiterAppId%3Dopen.18992bf0a159e570ed70016a51.waiter%26userApp%3Dopen.18992bf0a159e570ed70016a51.customer" class="jdc-btn jdc-btn-blue" target="_blank">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    </section>
+    <section class="CH-section section-solution-m education-fl3">
+    <header>
+        <h1>通用解决方案</h1>
+    </header>
+
+    <div class="CH-section-body">
+        <div class="CH-secion-box">
+            <div class="CH-card-group row">
+                <div class="col-xs-12">
+                    <div class="CH-card is-hover">
+                        <div class="CH-card-img">
+                            <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl3-img1.png" alt="" />
+                        </div>
+                        <div class="CH-card-header is-border-bottom">
+                            <h3 class="CH-card-title">共建人工智能创新发展试验区</h3>
+                        </div>
+                        <div class="CH-card-body">
+
+                            <p class="CH-card-desc f-toe2">
+                                京东智联云依托在技术、创新、融合上的基因优势以及内外部优质资源，通过与地方政府、职业院校、科研机构深度合作共建人工智能创新发展试验区。
+                            </p>
+
+                            <div class="m-flex">
+                                <ul class="CH-list m-flex-item">
+                                    <li class="CH-list-item f-toe">人工智能创新中心</li>
+                                    <li class="CH-list-item f-toe">人工智能学院</li>
+                                    <li class="CH-list-item f-toe">人工智能产业智库</li>
+                                    <li class="CH-list-item f-toe">人工智能产业峰会</li>
+                                </ul>
+                                <ul class="CH-list m-flex-item">
+                                    <li class="CH-list-item f-toe">C2B产业智能平台</li>
+                                </ul>
+                            </div>
+                        <div class="CH-card-footer">
+
+                            <a target="_blank" clstag="Channel_education|keycount|Floor2|MBtn_0"
+                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"><button
+                                    class="CH-card-button-primary">立即咨询</button></a>
+
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-xs-12">
+                    <div class="CH-card mr-b0 is-hover">
+
+                        <div class="CH-card-img">
+                            <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl3-img2.png" alt="" />
+                        </div>
+
+                        <div class="CH-card-header is-border-bottom">
+                            <h3 class="CH-card-title">建设人工智能+教育科技创新示范区</h3>
+                        </div>
+
+                        <div class="CH-card-body">
+                            <p class="CH-card-desc f-toe2">
+                                京东智联云以技术驱动未来、用科技创新教育，通过 5G、云计算、大数据、人工智能等技术赋能教育发展需要，为地方打造人工智能+教育科技创新示范区。
+                            </p>
+
+
+                            <div class="m-flex">
+                                <ul class="CH-list m-flex-item">
+                                    <li class="CH-list-item f-toe">5G+网络教育</li>
+                                    <li class="CH-list-item f-toe">5G+4K高清远程互动课堂</li>
+                                    <li class="CH-list-item f-toe">5G+VR云课堂</li>
+                                    <li class="CH-list-item f-toe">智能教育云平台</li>
+                                </ul>
+                                <ul class="CH-list m-flex-item">
+                                    <li class="CH-list-item f-toe">智能校务</li>
+                                    <li class="CH-list-item f-toe">人工智能教育实验室</li>
+                                    <li class="CH-list-item f-toe">京东智联云云资源</li>
+                                </ul>
+                            </div>
+                        <div class="CH-card-footer">
+
+                            <a target="_blank" clstag="Channel_education|keycount|Floor2|MBtn_1"
+                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"><button
+                                    class="CH-card-button-primary">立即咨询</button></a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+
+    <!-- //行业场景化方案部分 -->
+    <!-- 行业场景化方案部分 -->
+
+    <section class="CH-section section-solution">
+        <header>
+            <h1>行业场景化方案</h1>
+        </header>
+        <div class="CH-section-body">
+            <div class="CH-secion-box">
+                <div class="row CH-gutter-20">
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-img">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl4-img1.png" alt="" />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">编程教育</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc f-toe2">
+                                    Minecraft我的世界教育版专为K12教育提供跨学科标准内容和课堂教学功能。
+                                </p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">国际专家课程定制委员会</li>
+                                    <li class="CH-list-item">沉浸式跨学科学习环境</li>
+                                    <li class="CH-list-item f-toe">教、学、练、测、评一体化方案</li>
+                                    <li class="CH-list-item f-toe">在线教育云平台</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a target="_blank" clstag="Channel_education|keycount|Floor2|Btn_0"
+                                   href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"><button
+                                        class="CH-card-button-primary">立即咨询</button></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-img">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl4-img2.png" alt="" />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">京东智联云培训&#38;认证</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc f-toe2">
+                                    科学课程设置，精准定位需求，专业培养路径，助力个人云技能提升，创造职场新机遇。
+                                </p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">一站式在线培训</li>
+                                    <li class="CH-list-item">京东智联云官方认证证书</li>
+                                    <li class="CH-list-item f-toe">京东智联云官方认证证书</li>
+                                </ul>
+                            </div>
+
+                            <div class="CH-card-footer">
+                                <a target="_blank" clstag="Channel_education|keycount|Floor3|Btn_2"
+                                   href="https://developer.jdcloud.com/training"><button
+                                        class="CH-card-button-primary">查看详情</button></a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-img">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl4-img3.png" alt="" />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">在线课堂</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc f-toe2">
+                                    为学校及教育机构提供线上授课平台，提供多种形式互动课堂。
+                                </p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">云端互动教学</li>
+                                    <li class="CH-list-item">高质量网络和计算资源</li>
+                                    <li class="CH-list-item">按学生规模动态扩容</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a target="_blank" clstag="Channel_education|keycount|Floor2|Btn_2"
+                                   href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"><button
+                                        class="CH-card-button-primary">立即咨询</button></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-img">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl4-img4.png" alt="" />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">产教融合</h3>
+                            </div>
+
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc f-toe2">
+                                    针对高职，中职，应用型本科的产教融合。
+                                </p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">大数据专业</li>
+                                    <li class="CH-list-item f-toe">云计算专业</li>
+                                    <li class="CH-list-item">物联网专业</li>
+                                    <li class="CH-list-item">直播专业</li>
+                                </ul>
+                            </div>
+
+                            <div class="CH-card-footer">
+                                <a target="_blank" clstag="Channel_education|keycount|Floor2|Btn_3"
+                                   href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"><button
+                                        class="CH-card-button-primary">立即咨询</button></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+    <section class="CH-section section-solution-m">
+        <header>
+            <h1>行业场景化方案</h1>
+        </header>
+        <div class="CH-section-body">
+            <div class="CH-secion-box">
+                <div class="CH-card-group row">
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-img">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl4-img1.png" alt="" />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">编程教育</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc f-toe2">
+                                    Minecraft我的世界教育版专为K12教育提供跨学科标准内容和课堂教学功能。
+                                </p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">国际专家课程定制委员会</li>
+                                    <li class="CH-list-item">沉浸式跨学科学习环境</li>
+                                    <li class="CH-list-item f-toe">教、学、练、测、评一体化方案</li>
+                                    <li class="CH-list-item f-toe">在线教育云平台</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a target="_blank" clstag="Channel_education|keycount|Floor2|Btn_0"
+                                   href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"><button
+                                        class="CH-card-button-primary">立即咨询</button></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-img">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl4-img2.png" alt="" />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">京东智联云培训&#38;认证</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc f-toe2">
+                                    科学课程设置，精准定位需求，专业培养路径，助力个人云技能提升，创造职场
+                                </p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">一站式在线培训</li>
+                                    <li class="CH-list-item">京东智联云官方认证证书</li>
+                                    <li class="CH-list-item f-toe">京东智联云官方认证证书</li>
+                                </ul>
+                            </div>
+
+                            <div class="CH-card-footer">
+                                <a target="_blank" clstag="Channel_education|keycount|Floor3|Btn_2"
+                                   href="https://developer.jdcloud.com/training"><button
+                                        class="CH-card-button-primary">查看详情</button></a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card is-hover">
+                            <div class="CH-card-img">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl4-img3.png" alt="" />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">在线课堂</h3>
+                            </div>
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc f-toe2">
+                                    为学校及教育机构提供线上授课平台，提供多种形式互动课堂。
+                                </p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">云端互动教学</li>
+                                    <li class="CH-list-item">高质量网络和计算资源</li>
+                                    <li class="CH-list-item">按学生规模动态扩容</li>
+                                </ul>
+                            </div>
+                            <div class="CH-card-footer">
+                                <a target="_blank" clstag="Channel_education|keycount|Floor2|Btn_2"
+                                   href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"><button
+                                        class="CH-card-button-primary">立即咨询</button></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-3">
+                        <div class="CH-card mr-b0  is-hover">
+                            <div class="CH-card-img">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl4-img4.png" alt="" />
+                            </div>
+                            <div class="CH-card-header is-border-bottom">
+                                <h3 class="CH-card-title">产教融合</h3>
+                            </div>
+
+                            <div class="CH-card-body">
+                                <p class="CH-card-desc f-toe2">
+                                    针对高职，中职，应用型本科的产教融合。
+                                </p>
+
+                                <ul class="CH-list">
+                                    <li class="CH-list-item">大数据专业</li>
+                                    <li class="CH-list-item f-toe">云计算专业</li>
+                                    <li class="CH-list-item">物联网专业</li>
+                                    <li class="CH-list-item">直播专业</li>
+                                </ul>
+                            </div>
+
+                            <div class="CH-card-footer">
+                                <a target="_blank" clstag="Channel_education|keycount|Floor2|Btn_3"
+                                   href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"><button
+                                        class="CH-card-button-primary">立即咨询</button></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- //行业场景化方案部分 -->
+
+    <!-- 精选成功案例部分 -->
+
+    <section class="CH-section section-case section-case">
+        <header>
+            <h1>精选客户成功案例</h1>
+        </header>
+
+        <div class="CH-section-body seccessCase">
+            <div class="CH-panel">
+                <div class="swiper-container swiper-no-swiping CH-carousel-type-2">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide" data-index="1">
+                            <img class="on" src="https://img1.jcloudcs.com/portal/channel/education/pc/fl5-hz.png" alt="" />
+                        </div>
+                        <div class="swiper-slide" data-index="2">
+                            <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl5-bj.png" alt="" />
+                        </div>
+                        <div class="swiper-slide" data-index="3">
+                            <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl5-qd.png" alt="" />
+                        </div>
+<!--                        <div class="swiper-slide" data-index="4">-->
+<!--                            <img src="https://img1.jcloudcs.com/portal/channel/retail/tlwok.png" alt="" />-->
+<!--                        </div>-->
+<!--                        <div class="swiper-slide" data-index="5">-->
+<!--                            <img src="https://img1.jcloudcs.com/portal/channel/retail/kingdee.png" alt="" />-->
+<!--                        </div>-->
+<!--                        <div class="swiper-slide" data-index="6">-->
+<!--                            <img src="https://img1.jcloudcs.com/portal/channel/retail/jd-cs.png" alt="" />-->
+<!--                        </div>-->
+                    </div>
+<!--                    <div class="swiper-button-next"></div>-->
+<!--                    <div class="swiper-button-prev"></div>-->
+                </div>
+
+                <div class="CH-container-scroll-box">
+                    <div class="CH-container-scroll">
+                        <div class="CH-container-column">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl5-hzkjd.png"/>
+                                </div>
+                                <div class="col-content">
+                                    <h3 class="section-case-title">华中科技大学</h3>
+                                    <p class=" section-case-desc">正式开课期间（2.17-3.5），共开设12门课19个课堂。服务师生约700人，观看人次8850次，时长565041分钟。峰值在线约500余人。运行流畅。</p>
+
+                                    <ul class="section-case-feature">
+                                        <li>直播、点播一站式产品与服务解决方案</li>
+                                    </ul>
+
+                                    <p class="section-case-product">
+                                        使用产品：<strong><a href="https://market.jdcloud.com/service/details/582266" clstag="Channel_education|keycount|Floor4|Link_0"
+                                                        target="_blank">京东智联云课堂 — 百家云播</a></strong>
+                                    </p>
+
+                                    <div>
+                                        <a target="_blank" class="section-case-button" clstag="Channel_education|keycount|Floor4|Link_2"
+                                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                                            立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="CH-container-column">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl5-bjby.png" alt="" />
+                                </div>
+
+                                <div class="col-content">
+                                    <h3 class="section-case-title">北京市八一学校</h3>
+                                    <p class=" section-case-desc">2019年12月27日，北京市八一学校小学部举办了Minecraft我的世界教育版“编程一小时”计算机科学教育活动。师生汇聚一堂，共同体验计算思维游戏及基础人工智能编程的乐趣。</p>
+
+                                    <ul class="section-case-feature">
+                                        <li>计算机思维以及基础人工智能编程教育</li>
+                                    </ul>
+
+                                    <p class="section-case-product">
+                                        使用产品：<strong><a href="https://minecraft.education.jdcloud.com/cn/" target="_blank" clstag="Channel_education|keycount|Floor4|Link_4">Minecraft我的世界教育版</a></strong>
+                                    </p>
+
+
+                                    <div>
+                                        <a target="_blank" class="section-case-button" clstag="Channel_education|keycount|Floor4|Link_5"
+                                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                                            立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="CH-container-column">
+                            <div class="CH-container-imageText">
+
+                                <div class="col-image">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl5-qdxx.png" alt="" />
+
+                                </div>
+
+                                <div class="col-content">
+
+                                    <h3 class="section-case-title">青岛麦岛小学</h3>
+
+                                    <p class=" section-case-desc">青岛麦岛小学百年校庆上的“同一时空课堂”环节，老师带领学生在台上展示Minecraft我的世界教育版小学makecode图形化编程课程，通过动物乐园、运动嘉年华、烟花表演三个环节，展现了事件指令、循环、条件语句等编程概念。</p>
+
+
+                                    <ul class="section-case-feature">
+                                        <li>沉浸式、协作式、创新式、跨学科式教学体验</li>
+                                    </ul>
+
+                                    <p class="section-case-product">
+
+                                        使用产品：<strong><a href="https://minecraft.education.jdcloud.com/cn/" clstag="Channel_education|keycount|Floor4|Link_6"
+                                                        target="_blank">Minecraft我的世界教育版</a></strong>
+
+                                    </p>
+
+
+                                    <div>
+
+                                        <a target="_blank" class="section-case-button" clstag="Channel_education|keycount|Floor4|Link_7"
+                                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                                            立即咨询</a>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="CH-section section-case-m education-fl5">
+        <header>
+            <h1>精选成功案例</h1>
+        </header>
+        <div class="CH-section-body">
+            <div class="CH-collapse">
+                <div class="CH-collapse-item is-selected">
+                    <div class="CH-collapse-item-header"><a name="case1">华中科技大学</a><i class="iconfont jc-icon-my-down"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-container-imageText">
+                            <div class="col-image">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl5-hzkjd.png"/>
+
+                            </div>
+                            <div class="col-content">
+                                <h3 class="section-case-title">华中科技大学</h3>
+                                <p class=" section-case-desc">正式开课期间（2.17-3.5），共开设12门课19个课堂。服务师生约700人，观看人次8850次，时长565041分钟。峰值在线约500余人。运行流畅。</p>
+
+                                <ul class="section-case-feature">
+                                    <li>直播、点播一站式产品与服务解决方案</li>
+                                </ul>
+                                <p class="section-case-product">
+                                    使用产品：<strong><a href="https://market.jdcloud.com/service/details/582266" clstag="Channel_education|keycount|Floor4|Link_0"
+                                                    target="_blank">京东智联云课堂 — 百家云播</a></strong>
+                                </p>
+
+                                <div>
+                                    <a target="_blank" class="section-case-button" clstag="Channel_education|keycount|Floor4|Link_2"
+                                       href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                                        立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-collapse-item">
+                    <div class="CH-collapse-item-header"><a name="case2">北京市八一学校</a><i class="iconfont jc-icon-my-down"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-container-imageText">
+                            <div class="col-image">
+
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl5-bjby.png" alt="" />
+
+                            </div>
+
+                            <div class="col-content">
+
+                                <h3 class="section-case-title">北京市八一学校</h3>
+
+                                <p class=" section-case-desc">2019年12月27日，北京市八一学校小学部举办了Minecraft我的世界教育版“编程一小时”计算机科学教育活动。师生汇聚一堂，共同体验计算思维游戏及基础人工智能编程的乐趣。</p>
+
+
+                                <ul class="section-case-feature">
+                                    <li>计算机思维以及基础人工智能编程教育</li>
+                                </ul>
+
+                                <p class="section-case-product">
+
+                                    使用产品：<strong><a href="https://minecraft.education.jdcloud.com/cn/" target="_blank" clstag="Channel_education|keycount|Floor4|Link_4">Minecraft我的世界教育版</a></strong>
+
+                                </p>
+
+
+                                <div>
+
+                                    <a target="_blank" class="section-case-button" clstag="Channel_education|keycount|Floor4|Link_5"
+                                       href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                                        立即咨询</a>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-collapse-item">
+                    <div class="CH-collapse-item-header"><a name="case2">青岛麦岛小学</a><i class="iconfont jc-icon-my-down"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-container-imageText">
+
+                            <div class="col-image">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl5-qdxx.png" alt="" />
+
+                            </div>
+
+                            <div class="col-content">
+
+                                <h3 class="section-case-title">青岛麦岛小学</h3>
+
+                                <p class=" section-case-desc">青岛麦岛小学百年校庆上的“同一时空课堂”环节，老师带领学生在台上展示Minecraft我的世界教育版小学makecode图形化编程课程，通过动物乐园、运动嘉年华、烟花表演三个环节，展现了事件指令、循环、条件语句等编程概念。</p>
+
+
+                                <ul class="section-case-feature">
+                                    <li>沉浸式、协作式、创新式、跨学科式教学体验</li>
+                                </ul>
+
+                                <p class="section-case-product">
+
+                                    使用产品：<strong><a href="https://minecraft.education.jdcloud.com/cn/" clstag="Channel_education|keycount|Floor4|Link_6"
+                                                    target="_blank">Minecraft我的世界教育版</a></strong>
+
+                                </p>
+
+
+                                <div>
+
+                                    <a target="_blank" class="section-case-button" clstag="Channel_education|keycount|Floor4|Link_7"
+                                       href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                                        立即咨询</a>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>
+
+<!-- 专业、可靠的合作伙伴部分 -->
+
+<!-- TODO:文字过长后面的字就不显示了 -->
+
+<section class="CH-section section-cooperation">
+    <header>
+        <h1>专业可靠的合作伙伴</h1>
+    </header>
+    <div class="CH-section-body">
+        <div class="CH-container">
+            <div class="swiper-container CH-carousel-type-3">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="container-slide">
+                            <div class="box-logo">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl6-logo1.png" />
+                            </div>
+                            <div class="box-content">
+                                <h4>微软</h4>
+                                <p class="">
+                                    微软公司，是一家集研发、制造、授权和提供广泛的电脑软件服务业务为一体的跨国电脑科技公司，Minecraft我的世界教育版由微软开发，中国大陆版权归属京东集团独家所有，由京东智联云管理运营。
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="container-slide">
+                            <div class="box-logo">
+                                <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl6-logo2.png" />
+                            </div>
+                            <div class="box-content">
+                                <h4>辰石嘉业</h4>
+                                <p>
+                                    北京辰石嘉业信息技术有限公司是一家集课程研发、教育培训、技术支持于一体的青少年编程和综合素质发展服务公司，拥有蝌蚪营、创世文明等教育品牌，双方合作开发K12教育课程资源。
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+            <a href="https://www.jdcloud.com/cn/partner/index" clstag="Channel_education|keycount|Floor4|Link_1" target="_blank" class="link-join">加入合作伙伴</a>
+        </div>
+
+    </div>
+
+</section>
+
+<div class="CH-container">
+    <section class="CH-section section-case news">
+        <header>
+            <h1>新闻动态</h1>
+        </header>
+        <div class="education-news">
+            <div class="CH-container-imageText">
+                <div class="col-image">
+                    <div class="ima-txt">
+                        <b>Minecraft我的世界教育版<br/>
+                            亮相青岛教装展</b>
+                        <a href="#">查看详情 &#62;</a>
+                    </div>
+                    <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl7-news.png" class="col-img-pc">
+                    <img src="https://img1.jcloudcs.com/portal/channel/education/m/fl7-news.png" class="col-img-m">
+                </div>
+
+                <div class="col-content">
+                    <ul class="news-list">
+                        <li>
+                            <a clstag="Channel_education|keycount|Floor7|link_0" href="https://www.jdcloud.com/cn/news/detail/745" target="_blank">
+                                <h3 class="section-case-title">京东智联云助力科技与教育融合</h3>
+                                <p class="section-case-desc f-toe2">
+                                    京东云将通过AI等技术能力输出，助力合作伙伴更专注教育行业业务能力提升，并与合作伙伴一同探索、有效解决教育产业痛点与难点，通过技术赋能为教育行业、为提高教育...
+                                </p>
+
+                            </a>
+                        </li>
+                        <li>
+                            <a clstag="Channel_education|keycount|Floor7|link_1" href="https://www.jdcloud.com/cn/news/detail/648" target="_blank">
+                                <h3 class="section-case-title">聚焦青少年编程，助力教育发展</h3>
+                                <p class="section-case-desc f-toe2">
+                                    京东携手微软成立中、美、英国际化教研团队，针对中国教育需求进行深度定制，打造创新型中国版教育生态课程——Minecraft我的世界教育版，致力于培养未来人才。
+                                </p>
+
+                            </a>
+                        </li>
+                        <li>
+                            <a clstag="Channel_education|keycount|Floor7|link_2" href="https://www.jdcloud.com/cn/news/detail/475" target="_blank">
+                                <h3 class="section-case-title">京东与微软合作Minecraft我的世界教育版</h3>
+                                <p class="section-case-desc f-toe2">
+                                    3月27日，京东和微软联合举办《我的世界》教育版媒体沟通会。双方宣布，《我的世界》教育版在中国大陆地区的独家版权归京东集团所有，由京东云管理运营。
+                                </p>
+
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<div class="CH-footer">
+    <div class="CH-container">
+        <div class="row">
+            <div class="col-3 col-xs-12">
+                <div class="CH-footer-slogan">
+                    联系我们的专家，为您免费提供量身定制的方案咨询服务
+                </div>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt>免费咨询专家：400-623-0183</dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="Channel_education|keycount|Floor7|Link_0" href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="Channel_education|keycount|Floor7|Link_1" href="https://www.jdcloud.com/forms/consultation" target="_blank">请销售顾问联系我<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>不限时间，提交需求后，我们会尽快联系您</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
