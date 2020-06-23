@@ -1,7 +1,7 @@
   <body class="jdc-rwd">
     <div class="subMenu-box">
     <h2>城市</h2>
-    <div class="subMenu-level1">
+        <div class="subMenu-level1">
         <ul>
             <li class="subMenu-link hasChild fullDrop">
                 <a href="#" clstag="Channel_City|keycount|Header|Tab_0" class="drop-link">解决方案中心</a>
@@ -86,6 +86,16 @@
                         <li><a clstag="Channel_City|keycount|Header|Link_2_0_3" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政企云办公</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_2_0_4" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_2_0_5" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIot</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_3" class="drop-link">样板城市</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/city/suqian" target="_blank">宿迁</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_1" href="https://www.jdcloud.com/cn/city/xian" target="_blank">西安</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/beihai" target="_blank">北海</a></li>
                     </ul>
                 </div>
             </li>
