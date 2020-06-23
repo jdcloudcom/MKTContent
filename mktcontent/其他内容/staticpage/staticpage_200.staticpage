@@ -145,12 +145,7 @@
 
 <!-- widget city-mode-fl2-sq begin -->
 <div class="fl-section">
-    <div class="tit-section">
-        <h2 class="tit-h2">
-            京东生态全面落地
-        </h2>
-    </div>
-    <div class="cont-section-st w">
+    <div class="cont-section-st w mt20">
         <div class="row">
             <div class="col-4 col-xs-12">
                 <div class="item-st-img">
@@ -186,7 +181,7 @@
 <div class="fl-section">
     <div class="tit-section">
         <h2 class="tit-h2">
-            数据政府
+            数字政府
         </h2>
     </div>
     <div class="cont-section-szzf w szzf-show-pc">
@@ -273,7 +268,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_sq|keycount|gover|Btn_0" class="jdc-btn jdc-btn-white mt80">VR体验</a>
+                            <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_sq|keycount|gover|Btn_0" class="jdc-btn jdc-btn-white mt86">VR体验</a>
                         </div>
                     </div>
                 </div>
@@ -357,7 +352,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_1" class="jdc-btn jdc-btn-white mt20">立即咨询</a>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_1" class="jdc-btn jdc-btn-white mt15">立即咨询</a>
                         </div>
                     </div>
                 </div>
@@ -441,7 +436,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_3" class="jdc-btn jdc-btn-white mt80">立即咨询</a>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_3" class="jdc-btn jdc-btn-white mt86">立即咨询</a>
                         </div>
                     </div>
                 </div>
@@ -452,7 +447,7 @@
         <div class="szzf-show">
             <div class="video-item">
                 <div class="jdc-swiper-container swiper-fl3 swiper-container-horizontal">
-                    <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-201px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="margin-right: 10px;">
+                    <div class="swiper-wrapper" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jh-m.png">
                             <div class="content">
@@ -537,7 +532,7 @@
                                     <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m1" class="jdc-btn jdc-btn-blue">VR体验</a>
                                 </div>
                             </div>
-                        </div></div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="margin-right: 10px;">
+                        </div></div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-sq-m.png">
                             <div class="content">
@@ -622,7 +617,7 @@
                                 </div>
                             </div>
                         </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="2" style="margin-right: 10px;">
+                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-xy-m.png">
                             <div class="content">
@@ -707,7 +702,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="margin-right: 10px;">
+                        <div class="swiper-slide" data-swiper-slide-index="0">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jh-m.png">
                             <div class="content">
@@ -793,7 +788,7 @@
                                 </div>
                             </div>
                         </div></div>
-                        <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="margin-right: 10px;">
+                        <div class="swiper-slide" data-swiper-slide-index="1">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-sq-m.png">
                             <div class="content">
@@ -879,7 +874,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="margin-right: 10px;">
+                        <div class="swiper-slide" data-swiper-slide-index="2">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-xy-m.png">
                             <div class="content">
@@ -964,7 +959,7 @@
                             </div>
                         </div>
                         </div>
-                    <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="margin-right: 10px;">
+                    <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jh-m.png">
                             <div class="content">
@@ -1049,7 +1044,7 @@
                                     <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m1" class="jdc-btn jdc-btn-blue">VR体验</a>
                                 </div>
                             </div>
-                        </div></div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="margin-right: 10px;">
+                        </div></div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-sq-m.png">
                             <div class="content">
@@ -1134,7 +1129,7 @@
                                 </div>
                             </div>
                         </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" style="margin-right: 10px;">
+                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-xy-m.png">
                             <div class="content">
@@ -1220,10 +1215,7 @@
                         </div>
                         </div></div>
                     <!-- 如果需要分页器 -->
-                    <div class="jdc-swiper-pagination swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span>
-<span class="swiper-pagination-bullet"></span>
-<span class="swiper-pagination-bullet"></span>
-</div>
+                    <div class="jdc-swiper-pagination swiper-pagination-bullets"></div>
                 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
 </div>
             </div>
@@ -1366,6 +1358,9 @@
                 <div class="left-block">
                     <div class="top-bt">
                         <h2 class="bt">宿迁市公积金系统</h2>
+                        <a class="play-button" data-video="https://img1.jcloudcs.com/portal/channel/city/sq/sq_gjj.mp4">
+                            <img class="player-m" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                        </a> 
                     </div>
                     <p class="middle-desc">宿迁市公积金系统让一切都变得简单化，申请人动动手指即可办完公积金的所有提取手续，让广大宿迁市民切实体会到了政务云、信息化所带来的便利。</p>
 
@@ -1462,12 +1457,12 @@
 </div>
                        </div>
                        <div class="link-bottom">
-                           <a class="link-btn"> 
-                             定制我的行程
-                           </a>
-                           <p class="desc">更多信息垂询visit@jd.com</p>
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_0"> 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
 
-                       </div>
+                        </div>
                         <!-- 如果需要导航按钮 -->
                         <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
                         <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
@@ -1514,7 +1509,7 @@
 </div>
                     </div>
                     <div class="link-bottom">
-                        <a class="link-btn"> 
+                        <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_1"> 
                           定制我的行程
                         </a>
                         <p class="desc">更多信息垂询visit@jd.com</p>
@@ -1566,7 +1561,7 @@
 </div>
                        </div>
                        <div class="link-bottom">
-                           <a class="link-btn"> 
+                           <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_2"> 
                              定制我的行程
                            </a>
                            <p class="desc">更多信息垂询visit@jd.com</p>
@@ -1618,12 +1613,12 @@
 </div>
                        </div>
                        <div class="link-bottom">
-                           <a class="link-btn"> 
-                             定制我的行程
-                           </a>
-                           <p class="desc">更多信息垂询visit@jd.com</p>
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_3"> 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
 
-                       </div>
+                        </div>
                         <!-- 如果需要导航按钮 -->
                         <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
                         <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
@@ -1670,12 +1665,12 @@
 </div>
                        </div>
                        <div class="link-bottom">
-                           <a class="link-btn"> 
-                             定制我的行程
-                           </a>
-                           <p class="desc">更多信息垂询visit@jd.com</p>
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_4"> 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
 
-                       </div>
+                        </div>
                         <!-- 如果需要导航按钮 -->
                         <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
                         <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
@@ -1895,7 +1890,7 @@
             </div>
        </div>
        <div class="btn-block">
-           <a class="btn">定制我的行程</a>
+           <a class="btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_m1">定制我的行程</a>
        </div>
        <p class="visit-desc">更多信息垂询visit@jd.com</p>
 
@@ -1941,12 +1936,12 @@
             </div>
             <div class="col-6 col-xs-12">
                 <div class="content">
-                    <a href="http://3c.cqnews.net/html/2019-11/22/content_50726471.html" clstag="Channel_sq|keycount|News|Btn_2" target="_blank">
+                    <a href="http://www.zgjssw.gov.cn/shixianchuanzhen/suqian/202004/t20200418_6608226.shtml" clstag="Channel_sq|keycount|News|Btn_2" target="_blank">
                         <h2 class="bt">
-                            京东客服落地十年 江苏宿迁成千亿级电商名城
+                            宿迁：一路向“东”，让城市更“智慧
                         </h2>
                         <p class="desc">
-                            目前，宿迁已经成为名副其实的“电商名城”：活跃网店数达6.5万家，电子商务产业相关从业人数超过55万人，电商产业已经成为宿迁的王牌产业，并且是宿迁第一个千亿级的产业。
+                            “白天到岗800多人，晚上还有200多人，在落实常态化疫情防控和安全生产措施的前提下，开足马力加快建设，全力以赴把耽搁的时间抢回来。”4月15日，位于宿迁电子商务产业园区的京东智慧城项目总监吴浩说，该项目一标段主体已施工至7层，二标段主体已封顶，三标段正在进行地下车库层施工，确保“目标不变、标准不降、工期不延”。
                         </p>
 
                     </a>
@@ -1989,7 +1984,7 @@
             </div>
             <div class="col-6 col-xs-12">
                 <div class="content">
-                    <img class="img2" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz2.png">
+                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz2.png">
                     <p class="desc2">宿迁政务云连续荣获中国信通院颁发的“政务云综合水平先进级”</p>
 
                 </div>
@@ -2003,7 +1998,7 @@
             </div>
             <div class="col-6 col-xs-12 mt20">
                 <div class="content content-noborder">
-                    <img class="img2" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz4.png">
+                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz4.png">
                     <p class="desc2">入选工信部组织的《大数据优秀产品和应用解决方案案例集（2019）》，并获得了贵阳数博会获得了大数据十佳优秀产品奖</p>
 
                 </div>
