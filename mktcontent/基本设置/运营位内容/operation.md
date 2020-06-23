@@ -115,5 +115,11 @@
 		"description":"看直播领玩偶",
 		"id":416,
 		"label":""
+	},
+	{
+		"name":"企业 VIP",
+		"description":"企业注册领61.8元，享八大权益",
+		"id":418,
+		"label":""
 	}
 ]
