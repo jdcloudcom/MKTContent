@@ -336,7 +336,7 @@
                                 <li>• 共同输出“一机游三秦”方案，实现综合监管、公共服务、电子商务一体化</li>
                                 <li>• 依托京东平台3亿高质活跃用户，覆盖旅游、酒店、机票等多个领域，为来陕游客提供更加优质的旅游产品和旅游体验，打造全国文化旅游的“陕西样板”</li>
                             </ul>
-                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_1" class="jdc-btn jdc-btn-white  mt80">立即咨询</a>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_1" class="jdc-btn jdc-btn-white  mt100">立即咨询</a>
                         </div>
                     </div>
                 </div>
@@ -415,7 +415,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_2" class="jdc-btn jdc-btn-white  mt20">立即咨询</a>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_2" class="jdc-btn jdc-btn-white  mt26">立即咨询</a>
                         </div>
                     </div>
                 </div>
@@ -432,7 +432,7 @@
                                 <li>• 通过该平台，可看到苹果销售趋势、热销省份、城市，及电商明星企业。基于此，企业可在地域范围内打造有针对性的营销方案，政府可进一步选择明星企业或品牌给予扶持。</li>
                                 <li>• 借助京东商城数据积累，平台对消费者性别、年龄及消费习惯进行了精准刻画，企业基于此可针对不同消费者群体进行不同的资源投放。</li>
                             </ul>
-                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_3" class="jdc-btn jdc-btn-white  mt80">立即咨询</a>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_3" class="jdc-btn jdc-btn-white  mt100">立即咨询</a>
                         </div>
                     </div>
                 </div>
@@ -443,7 +443,7 @@
         <div class="szzf-show">
             <div class="video-item">
                 <div class="jdc-swiper-container swiper-fl3 swiper-container-horizontal">
-                    <div class="swiper-wrapper" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0">
+                    <div class="swiper-wrapper" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/xa/science-m1.png">
                             <div class="content">
@@ -671,7 +671,7 @@
                             </div>
                         </div>
                         </div>
-                    <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0">
+                    <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/xa/science-m1.png">
                             <div class="content">
@@ -844,16 +844,16 @@
         <div class="row">
             <div class="col-2">
                 <ul class="left-bar">
-                    <li class="item on">数字经济产业园考察</li>
+                    <li class="item">数字经济产业园考察</li>
                     <li class="item">京东落地项目参观</li>
-                    <li class="item">项目座谈交流</li>
+                    <li class="item on">项目座谈交流</li>
                     <li class="item">新经济大讲堂</li>
                     <li class="item">区域品牌人文体验</li>
                 </ul>
             </div>
             <div class="col-10">
                 <ul class="right-block">
-                   <li class="module show">
+                   <li class="module">
                        <h3>数字经济产业园考察</h3>
                        <div class="w" style="height:250px;position: relative;overflow: hidden;">
                         <div class="study-tour tour-swiper jdc-swiper-container swiper-container-horizontal">
@@ -903,14 +903,14 @@
 </div>
                        </div>
                        <div class="link-bottom">
-                           <a class="link-btn"> 
+                           <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_xa|keycount|Tour|Btn_1"> 
                              定制我的行程
                            </a>
                            <p class="desc">更多信息垂询visit@jd.com</p>
 
                        </div>
                         <!-- 如果需要导航按钮 -->
-                        <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
+                        <div class="jdc-swiper-button-prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"><i></i></div>
                         <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
                    </li>
                    <li class="module">
@@ -955,22 +955,22 @@
 </div>
                     </div>
                     <div class="link-bottom">
-                        <a class="link-btn"> 
+                        <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_xa|keycount|Tour|Btn_2"> 
                           定制我的行程
                         </a>
                         <p class="desc">更多信息垂询visit@jd.com</p>
 
                     </div>
                      <!-- 如果需要导航按钮 -->
-                     <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
+                     <div class="jdc-swiper-button-prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"><i></i></div>
                      <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
                    </li>
-                   <li class="module">
+                   <li class="module show">
                        <h3>项目座谈交流</h3>
                        <div class="w" style="height:250px;position: relative;overflow: hidden;">
                         <div class="study-tour tour-swiper jdc-swiper-container swiper-container-horizontal">
-                          <div class="swiper-wrapper" style="transition-duration: 0ms;">
-                              <div class="swiper-slide">
+                          <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px);">
+                              <div class="swiper-slide swiper-slide-active" style="width: 312.333px;">
                                   <div class="scene-item img3-1">
                                       <div class="mask"></div>
                                       <h4>产业规划</h4>
@@ -978,7 +978,7 @@
 
                                   </div>
                               </div>
-                              <div class="swiper-slide">
+                              <div class="swiper-slide swiper-slide-next" style="width: 312.333px;">
                                   <div class="scene-item img3-2">
                                     <div class="mask"></div>
                                     <h4>合作模式</h4>
@@ -986,7 +986,7 @@
 
                                   </div>
                               </div>
-                              <div class="swiper-slide">
+                              <div class="swiper-slide" style="width: 312.333px;">
                                   <div class="scene-item img3-3">
                                     <div class="mask"></div>
                                     <h4>上云发展</h4>
@@ -994,7 +994,7 @@
 
                                   </div>
                               </div>
-                              <div class="swiper-slide">
+                              <div class="swiper-slide" style="width: 312.333px;">
                                   <div class="scene-item img3-4">
                                     <div class="mask"></div>
                                     <h4>人才培养</h4>
@@ -1007,14 +1007,14 @@
 </div>
                        </div>
                        <div class="link-bottom">
-                           <a class="link-btn"> 
-                             定制我的行程
-                           </a>
-                           <p class="desc">更多信息垂询visit@jd.com</p>
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_xa|keycount|Tour|Btn_3"> 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
 
-                       </div>
+                        </div>
                         <!-- 如果需要导航按钮 -->
-                        <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
+                        <div class="jdc-swiper-button-prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"><i></i></div>
                         <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
                    </li>
                    <li class="module">
@@ -1059,14 +1059,14 @@
 </div>
                        </div>
                        <div class="link-bottom">
-                           <a class="link-btn"> 
-                             定制我的行程
-                           </a>
-                           <p class="desc">更多信息垂询visit@jd.com</p>
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_xa|keycount|Tour|Btn_4"> 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
 
-                       </div>
+                        </div>
                         <!-- 如果需要导航按钮 -->
-                        <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
+                        <div class="jdc-swiper-button-prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"><i></i></div>
                         <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
                    </li>
                    <li class="module">
@@ -1111,14 +1111,14 @@
 </div>
                        </div>
                        <div class="link-bottom">
-                           <a class="link-btn"> 
-                             定制我的行程
-                           </a>
-                           <p class="desc">更多信息垂询visit@jd.com</p>
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_xa|keycount|Tour|Btn_5"> 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
 
-                       </div>
+                        </div>
                         <!-- 如果需要导航按钮 -->
-                        <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
+                        <div class="jdc-swiper-button-prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"><i></i></div>
                         <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
                    </li>
                 </ul>
@@ -1336,7 +1336,7 @@
             </div>
        </div>
        <div class="btn-block">
-           <a class="btn">定制我的行程</a>
+           <a class="btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_xa|keycount|Tour|Btn_m1">定制我的行程</a>
        </div>
        <p class="visit-desc">更多信息垂询visit@jd.com</p>
 
