@@ -1,0 +1,47 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测到Apache Spark披露了Spark 2.4.5和更早版本中存在的远程代码执行漏洞（CVE-2020-9480），攻击者可利用该漏洞远程启动Spark集群上的应用程序资源，从而造成任意命令执行。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; </span>
+<span style="font-size:16px;font-family:宋体">在 Apache Spark 2.4.5 及之前的版本中，独立资源管理器的主服务器可以被配置为需要共享密钥进行认证（spark.authenticate）。然而，当此配置启用时，攻击者却可以通过构造恶意的 RPC 请求发往主服务器，在 Spark 集群上启动应用程序资源，此过程甚至可以在不需要共享密钥的情况下进行。因此攻击者通过利用此漏洞，可以在目标主机上执行任意恶意命令。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Apache Spark 2.4.5 </span>
+<span style="font-size:16px;font-family:宋体">及之前的版本。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【安全版本】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Apache Spark 2.4.6</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Apache Spark 3.0.0</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">升级 Apache Spark 到版本 2.4.6 或 3.0.0 。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://spark.apache.org/security.html</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://www.mail-archive.com/user@spark.apache.org/msg74361.html</span>
+</p>
+<p><br/></p>
