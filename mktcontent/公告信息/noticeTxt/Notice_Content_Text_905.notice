@@ -1,0 +1,23 @@
+<p>近日，京东云安全团队监测到Apache Dubbo &lt; 2.7.7版本存在反序列化远程代码执行漏洞，漏洞被利用可直接获取服务器权限。</p>
+<p><br/></p>
+<p><strong>【漏洞描述】</strong></p>
+<p>Apache Dubbo是一种基于Java的高性能RPC框架。Apache Dubbo于2020年6月23日披露在Dubbo Provider中存在一个反序列化远程代码执行漏洞（CVE-2020-1948），当Dubbo服务端暴露时(默认端口：20880)，攻击者可以发送未经验证的服务名或方法名的RPC请求，同时配合附加恶意的参数负载。当恶意参数被反序列化时，它将执行恶意代码。</p>
+<p><br/></p>
+<p><strong>【漏洞评级】</strong></p>
+<p>高危</p>
+<p><br/></p>
+<p><strong>【受影响版本】</strong></p>
+<p>Apache Dubbo 2.7.0 ~ 2.7.6</p>
+<p>Apache Dubbo 2.6.0 ~ 2.6.7</p>
+<p>Apache Dubbo 2.5.x 所有版本 (官方不再提供支持)</p>
+<p><br/></p>
+<p><strong>【安全版本】</strong></p>
+<p>Apache Dubbo &gt;= 2.7.7</p>
+<p><br/></p>
+<p><strong>【修复建议】</strong></p>
+<p>升级至安全版本或禁止Dubbo Provider对外开放</p>
+<p><br/></p>
+<p><strong>【相关链接】</strong></p>
+<p><a href="https://www.mail-archive.com/dev@dubbo.apache.org/msg06544.html" target="_blank" title="https://www.mail-archive.com/dev@dubbo.apache.org/msg06544.html">https://www.mail-archive.com/dev@dubbo.apache.org/msg06544.html</a></p>
+<p><a href="https://github.com/apache/dubbo/releases/tag/dubbo-2.7.7" target="_blank" title="https://github.com/apache/dubbo/releases/tag/dubbo-2.7.7">https://github.com/apache/dubbo/releases/tag/dubbo-2.7.7</a></p>
+<p><br/></p>
