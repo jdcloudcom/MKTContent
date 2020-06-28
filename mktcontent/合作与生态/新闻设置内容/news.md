@@ -1934,5 +1934,21 @@
 		"jss_key":"News_Content_810",
 		"id":810,
 		"news_title":"Cooperation agreed by JD Cloud & AI and Cloudflare  Provision of safe and convenient technique service for transnational corporations"
+	},
+	{
+		"summary":"As the live video supporting organization entrusted by the Committee, JD Cloud & AI provided a technical platform for China·Langfang International Economic and Trade Fair 2020 (5·18 Fair for short), provided one-stop live video solution for the exhibitors participating in the Intelligence Industry Product Exhibition (Artificial Intelligence Industry Exhibition) and synchronized spectacles of the Fair on its official website. Meanwhile, JD Cloud & AI presented the keynote JD Intelligent Customer Service and AI Assist Cost Reduction and Improve Efficiency for Industries as the exhibitor of the Artificial Intelligence Industry Exhibition.",
+		"image_url":"//img1.jcloudcs.com/cms/94cb15b7-52dd-465d-a977-396ebcdb69c320200519103405.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_812",
+		"jss_key":"News_Content_812",
+		"id":812,
+		"news_title":"Set up AI industrial cloud platform  JD Cloud & AI offers 96h \"Cloud Live Streaming\" of the Economic & Trade Fair at its official website"
+	},
+	{
+		"summary":"During the epidemic, as the enterprise registered in Haidian District, Beijing, JD launched dozens of technological products, building a scientific and technical anti-epidemic platform and help Beijing fight against the epidemic and promote work resumption. On May 10, JD Cloud & AI exhibited the scientific and technical anti-epidemic platform in the Cloud Beijing Exhibition Center on China Brand Day.",
+		"image_url":"//img1.jcloudcs.com/cms/2b7cc684-fb9f-4f64-b73d-f6ee95e751aa20200519163116.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_813",
+		"jss_key":"News_Content_813",
+		"id":813,
+		"news_title":"\"New tools\" stimulate \"new forces\"  Cloud Beijing, the \"twin\" of digital technology - Records of JD Cloud & AI scientific and technical products help Beijing fight against the epidemic and promote work resumption"
 	}
 ]
