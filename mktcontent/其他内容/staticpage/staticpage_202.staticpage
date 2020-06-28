@@ -85,14 +85,14 @@
                 <dl class="list-news">
                     <dt class="list-news-title">新动能</dt>
                     <dd class="list-news-desc f-toe2">
-                        <a target="_blank" href="https://www.jdcloud.com/cn/news/detail/781" clstag="Channel_Retail|keycount|BannerRight|Link_1">京东发布“京东新动能计划”，首推三大解决方案，政企数字化转型再提速</a>
+                        <a target="_blank" href="https://www.jdcloud.com/cn/activity/jdmomentum" clstag="Channel_Retail|keycount|BannerRight|Link_1">京东发布“京东新动能计划”，首推三大解决方案，政企数字化转型再提速</a>
                     </dd>
                 </dl>
 
                 <dl class="list-news">
                     <dt class="list-news-title">行业话题</dt>
                     <dd class="list-news-desc f-toe2">
-                        <a target="_blank" href="https://developer.jdcloud.com/topics/906" clstag="Channel_Retail|keycount|BannerRight|Link_2">后疫情时代，教育科技的未来发展趋势</a>
+                        <a target="_blank" href="https://developer.jdcloud.com/topics/1004" clstag="Channel_Retail|keycount|BannerRight|Link_2">后疫情时代，教育科技的未来发展趋势</a>
                     </dd>
                 </dl>
             </div>
@@ -938,7 +938,7 @@
                     <div class="ima-txt">
                         <b>Minecraft我的世界教育版<br/>
                             亮相青岛教装展</b>
-                        <a href="#">查看详情 &#62;</a>
+                        <a clstag="Channel_education|keycount|news|link_0" href="https://www.jdcloud.com/cn/news/detail/660" target="_blank">查看详情 &#62;</a>
                     </div>
                     <img src="https://img1.jcloudcs.com/portal/channel/education/pc/fl7-news.png" class="col-img-pc">
                     <img src="https://img1.jcloudcs.com/portal/channel/education/m/fl7-news.png" class="col-img-m">
