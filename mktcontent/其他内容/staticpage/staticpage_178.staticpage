@@ -2215,28 +2215,28 @@
               <span class="md-label">选择省份 :</span>
 
               <select id="intelligencenetSelection">
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_0" value="0" class="op">安徽-滁州</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_1" value="1" class="op">重庆-南岸</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_2" value="2" class="op">福建-福清</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_3" value="3" class="op">福建-仙游</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_4" value="4" class="op">广西-北海</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_5" value="5" class="op">江苏-常州</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_6" value="6" class="op">江苏-南京</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_7" value="7" class="op">江苏-南通</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_8" value="8" class="op">江苏-宿迁</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_9" value="9" class="op">河南-鹤壁</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_10" value="10" class="op">湖北-十堰</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_11" value="11" class="op">湖南-怀化</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_12" value="12" class="op">湖南-湘潭</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_13" value="13" class="op">辽宁</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_14" value="14" class="op">山东-滨州</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_15" value="15" class="op">山东-东营</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_16" value="16" class="op">山东-济南</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_17" value="17" class="op">山西-大同</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_18" value="18" class="op">陕西-西安</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_19" value="19" class="op">四川-眉州</option>
-                <option clstag="Channel_City|keycount|Floor3|SelectCity_20" value="20" class="op">天津</option>
-              </select>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_0" value="0" class="op">安徽-滁州</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_1" value="1" class="op">重庆-南岸</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_2" value="2" class="op">福建-福清</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_3" value="3" class="op">福建-仙游</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_4" value="4" class="op">江苏-常州</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_5" value="5" class="op">江苏-南京</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_6" value="6" class="op">湖南-湘潭</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_7" value="7" class="op">河南-鹤壁</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_8" value="8" class="op">陕西-西安</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_9" value="9" class="op">江苏-宿迁</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_10" value="10" class="op">山东-滨州</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_11" value="11" class="op">广西-北海</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_12" value="12" class="op">江苏-南通</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_13" value="13" class="op">湖北-十堰</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_14" value="14" class="op">湖南-怀化</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_15" value="15" class="op">辽宁</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_16" value="16" class="op">山东-东营</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_17" value="17" class="op">山东-济南</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_18" value="18" class="op">山西-大同</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_19" value="19" class="op">四川-眉州</option>
+					<option clstag="Channel_City|keycount|Floor3|SelectCity_20" value="20" class="op">天津</option>
+				</select>
             </p>
 
             <p class="col align-self-end text-right">
@@ -2250,835 +2250,863 @@
               <div class="swiper-container CH-carousel">
                 <div class="swiper-wrapper container-slide">
                   <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-1"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          滁州新经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc">
-                          京东智联云滁州数字经济展厅是京东与滁州共建以食品电商化及家电智能化为主要展示方向，着力为滁州食品和家电企业的产业升级、产品创新、电商运营等提供全方位的赋能支持，旨在成为安徽乃至区域性的数字经济示范园区
-                        </p>
-
-                        <p>
-                          地址：安徽省滁州市琅琊区花园东路555号滁州电子商务产业园
-                        </p>
-
-                        <ul>
-                          <li>• 电子商务</li>
-                          <li>• 智能科技</li>
-                          <li>• 文化创意</li>
-                          <li>• 大数据</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_1">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_2">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_1">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_2">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-2"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          重庆数字经济产业园
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          由重庆市南岸区人民政府和京东智联云共同打造的京东智联云（重庆）数字经济产业园，立足重庆，辐射西南。园区依托京东云的技术、资源层面的优势，旨在建设一个以“产业创新”、“电商聚集”为核心的数字经济产业园。
-                        </p>
-
-                        <p>
-                          面 积：2741平米<br />
-                          入驻企业：47个<br />
-                          地址：重庆市南岸区烟雨路9号国瑞中心18F-19F
-                        </p>
-
-                        <ul>
-                          <li>• 智能智造</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_3">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_4">预约报告厅></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_3">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_4">预约报告厅></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-3"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          福清数字经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc">
-                          京东智联云福清数字经济展示中心是福清市政府与京东集团共同打造，是“互联网+大数据”的食品产业综合性展厅。展示中心主要分为京东科技馆、数字元洪公共服务平台馆、大数据可视化展示馆和元洪馆四部分。
-                        </p>
-
-                        <p>
-                          地址：福建省福州市福清市海城路18号京东元洪全球食品数字经济产业中心5座
-                        </p>
-
-                        <ul>
-                          <li>• 新科技</li>
-                          <li>• 数字元洪</li>
-                          <li>• 产业云脑</li>
-                          <li>• 元洪品牌</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_5">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_6">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_5">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_6">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-4"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          仙游数字经济产业园
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东（仙游）数字经济产业园一期 15000 平方米，二期 140000平方米，选址仙游国际油画城北片区及石艺城。项目依托仙游优势工艺美术产业、农特产品等资源，通过创新驱动、数字赋能，以期破解仙作产业发展的“原材*供应针金融、管销和品牌品质、人才、物流”等五大痛点，推动仙游工艺美术产业转型升级高质量发展，打造千亿级工艺美术产业集群，打造全国“工艺美术产业十互联网”深度融合的数字经济平台标杆。
-                        </p>
-
-                        <p>
-                          面 积：45000平米<br />
-                          入驻企业：68个<br />
-                          地址：福建省莆田市仙游县榜头镇国际油画城京东数字经济产业园
-                        </p>
-
-                        <ul>
-                          <li>• 工艺美术</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_7">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_8">预约报告厅></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_7">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_8">预约报告厅></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div> 
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-5"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          北海数字经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云北海数字经济展示中心以”数聚云海，智造未来”为主题，紧扣北海城市发展脉搏，体现北海市和京东集团的合作成果。京东在北海将积极引导数字经济与实体经济相结合，推进本地产业数字化、数字产业化，加快发展云计算、大数据、智能装备制造等高新产业，运用物联网、人工智能、工业互联网等新一代信息技术，改造提升传统产业，加速新型工业化进程。
-                        </p>
-
-                        <p>
-                          地址：广西壮族自治区北海市北海大道东延线199号中电北部湾信息港
-                        </p>
-
-                        <ul>
-                          <li>• 丝路明珠</li>
-                          <li>• 北部湾信息港</li>
-                          <li>• 南珠之乡</li>
-                          <li>• 魅力北海</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_9">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_10">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_9">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_10">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-6"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          常州数字经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云常州数字经济展示中心是京东与常州“互联网+”数字经济合作项目的重要展示载体，常州天宁近几年，顺应信息技术、互联网发展大势，积极推进“互联网+”数字经济产业发展，随着京东与常州天宁区双方合作的深入，京东将利用自身生态资源优势，助力常州天宁产业转型升级。
-                        </p>
-
-                        <p>
-                          地址：江苏省常州市天宁区虹阳路2号“互联网+新经济”产业园 7楼
-                        </p>
-
-                        <ul>
-                          <li>• 智能制造名城</li>
-                          <li>• 现代创新城</li>
-                          <li>• 十佳可持续发展城市</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_11">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_12">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_11">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_12">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-7"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          南京创新中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云（南京）协同全球创新中心位于江苏省南京市麒麟科技创新园。为打造“京东智联云智能产业华东区域总部”，京东集团在麒麟科创园设立全资子公司——南京京东云计算有限公司，以创新中心为载体，导入电商能力、智能生态、运营资源、助力南京智能产业、数字经济产业发展。该项目由泰智会产业加速器负责日常运营。
-                        </p>
-
-                        <p>
-                          面 积：4660平米<br />
-                          入驻企业：25个<br />
-                          地址：江苏省南京市江宁区麒麟科创园东麒路277号富力科技园9幢京东智联云创新中心
-                        </p>
-
-                        <ul>
-                          <li>• 人工智能</li>
-                          <li>• 科技</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_13">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_14">预约报告厅></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_13">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_14">预约报告厅></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-8"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          南通新经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云（南通）数字经济展厅由城市篇、赋能篇、产品篇和未来篇四个篇章组成，结合京东大数据、云计算、人工智能等技术，重点围绕高端纺织、电子信息和轻工食品等三大主导产业，帮助企业实现转型升级，助力南通 “3+3+N”的产业体系完善及数字化转型，打造南通数字化产业园示范基地。
-                        </p>
-
-                        <p>
-                          地址：江苏省南通市崇川区青年中路158号1号楼京东智联云（南通）数字经济产业园
-                        </p>
-
-                        <ul>
-                          <li>• 城市赋能</li>
-                          <li>• 共享未来</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_15">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_16">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_15">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_16">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-9"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          宿迁数字经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云宿迁品牌展厅秉承着“一座城市，一朵云”的理念，已在全国落地了30+ 个城市云，助力政府数字化转型升级。目前宿迁现已形成“3+2”产业体系，即呼叫客服、电商运营、物流仓储三大基础产业以及未来重点发展的物联网智能制造、互联网金融两大特色产业。
-                        </p>
-
-                        <p>
-                          地址：江苏省宿迁市宿豫区青桐路京东智联云华东数据中心
-                        </p>
-
-                        <ul>
-                          <li>• 物联网智能制造</li>
-                          <li>• 互联网金融</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_17">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_18">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_17">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_18">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-10"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          鹤壁数字经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云鹤壁数字经济展厅是鹤壁市政府与京东共同打造，致力于以提升鹤壁数字经济、5G、人工智能、智能智造，文化旅游、农业农特等产业在区域乃至全国的领导力和影响力为目标。
-                        </p>
-
-                        <p>
-                          地址：河南省鹤壁市淇滨区钜新路与湘江东路交叉口京东智联云鹤壁数字经济产业园
-                        </p>
-
-                        <ul>
-                          <li>• 新材料</li>
-                          <li>• 食品产业</li>
-                          <li>• 花园城市</li>
-                          <li>• 文化产业</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_19">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_20">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_19">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_20">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-11"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          十堰数字经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云十堰数字经济展厅是十堰与京东共同打造。十堰拥有仙山、秀水、汽车、绿松石等世界级产业名片，京东正致力于本地产业品牌打造，为十堰拥抱数字蓝海打开新契机。
-                        </p>
-
-                        <p>
-                          地址：湖北省十堰市张湾区发展大道与十堰大道交汇处
-                        </p>
-
-                        <ul>
-                          <li>• 绿松石</li>
-                          <li>• 汽车之都</li>
-                          <li>• 十佳魅力城市</li>
-                          <li>• 武当山</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_21">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_22">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_21">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_22">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-12"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          怀化创新中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云创新空间（怀化）成立于2018年7月,主要依托于怀化经开区“双创”示范基地、武陵山非遗文化中心（怀化）等国家级平台；怀化学院、怀化职业技术学院等高校平台；以北京京东世纪贸易有限公司的相关资源为服务基础。为高校毕业生搭建创新创业平台，为初创企业提供专项孵化支持，以高新科技研发、互联网+旅游、双创孵化、文化创意设计、农副产品销售、医药耗材等为产业主导。
-                        </p>
-
-                        <p>
-                          面 积：3217平米<br/>
-                          入驻企业：78个<br/>
-                          地址：湖南省怀化市经开区黄家山路与春晖路交汇处旁大学生创客社区2层
-                        </p>
-
-                        <ul>
-                          <li>• 农产品</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_23">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_24">预约报告厅></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_23">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_24">预约报告厅></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-13"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          湘潭创新中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云（湘潭）创新中心是京东智联云的产业孵化和创新业务平台，整合京东内部资源与外部行业资源，打造1个创新空间载体、1个开放创新服务平台、1个本地化服务体系和N个协同创新中心，逐步完善现代产业新体系要素，孵化智能制造、人工智能、大数据、消费升级产品等领域的创新创业企业，促进湘潭市传统产业转型升级与创新；同时承载京东集团的内外创新资源、优秀孵化项目、产业链企业、协同创新中心落地。
-                        </p>
-
-                        <p>
-                          面 积：13000平米<br/>
-                          入驻企业：86个<br/>
-                          地址：湘潭高新区吉安路108号家家美写字楼
-                        </p>
-
-                        <ul>
-                          <li>• 湘潭特色产业</li>
-                          <li>• 智能制造</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_25">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_26">预约报告厅></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_25">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_26">预约报告厅></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-14"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          辽宁数字经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云(辽宁)数字经济体验中心，以打造区域公共品牌工程，真正做到助力政府实现“善政、兴业、惠民”为目标。助力政府数字化转型，推动“产业上云数字化”和“云上产业数字经济聚集”，数字经济服务主体落地、共建云计算大数据基地、数字经济产业园赋能、培育数字经济创新体系。
-                        </p>
-
-                        <p>
-                          地址：辽宁省抚顺市望花区金风街6号京东智联云（辽宁)数字经济产业园
-                        </p>
-
-                        <ul>
-                          <li>• 善政</li>
-                          <li>• 兴业</li>
-                          <li>• 惠民</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_27">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_28">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_27">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_28">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-15"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          黄河三角洲云计算大数据产业基地数字经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东黄河三角洲云计算大数据产业基地数字经济展示中心以云涌齐鲁、京东云腾、赋能滨州、云端未来、智慧生活五大展区为主题，全面展示京东智联云在滨州的赋能模式及核心案例成果，探讨“互联网+政务”、“云+产业”的新模式，助力富强滨州建设。
-                        </p>
-
-                        <p>
-                          地点：山东省滨州经济技术开发区长江四路777号
-                        </p>
-
-                        <ul>
-                          <li>• 赋能滨州</li>
-                          <li>• 互联网+政务</li>
-                          <li>• 云+产业</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9"  clstag="Channel_City|keycount|Floor3|Btn_31">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_30">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_29">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_30">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-16"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          东营创新中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云（东营）创新中心是京东集团旗下双创品牌空间，由东营区政府与京东集团共同成立，“互联网+新科技+大数据”的综合性众创平台。中心充分利用京东集团电商、金融、技术三大优势资源，帮助创业者的成果尽快形成产品进入市场，提供综合性服务帮助创新科技企业成熟长大形成规模，降低创业企业的创业风险和创业成本，提高企业创新的成活率和成功率。
-                        </p>
-
-                        <p>
-                          面 积：3000平米<br/>
-                          入驻企业：25个<br/>
-                          地址：东营市东营区北一路402号黄河三角洲数据港
-                        </p>
-
-                        <ul>
-                          <li>• 电商</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_31">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_32">预约报告厅></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_31">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_32">预约报告厅></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-17"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          济南数字经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云济南数字经济展示中心，总面积达660平米，展现了京东智联云携手济南新旧动能转换先行区的建设成就及美好未来，是济南先行区数字经济发展的一站式展示窗口。
-                        </p>
-
-                        <p>
-                          地址：山东省济南新旧动能转换先行区数字经济产业园M7栋。
-                        </p>
-
-                        <ul>
-                          <li>• 数字经济</li>
-                          <li>• 电商总部</li>
-                          <li>• 云计算</li>
-                          <li>• 大数据</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_33">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_34">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_33">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_34">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-18"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          大同创新空间
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          《京东智联云创新空间（大同）》建设与电子商务创业实训基地建设相结合、以创新创业者主导与专家指导相结合、项目营运与创业实训相结合、线上与线下相结合、孵化与投资相结合，为创新创业者提供创业孵化与实训基地各项要素具备、低成本、便利化、开放式培训、实训、孵化一条龙综合性良好的创业众创空间，为广大创新创业者开辟一片“试验田”。
-                        </p>
-
-                        <p>
-                          面 积：3021平米<br/>
-                          入驻企业：21个<br/>
-                          地址：山西省大同市源茂街东信国际2号综合楼5层京东智联云
-                        </p>
-
-                        <ul>
-                          <li>• 农业</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_35">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_36">预约报告厅></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_35">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_36">预约报告厅></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-19"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          京东航天数字经济示范园
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东航天数字经济示范园位于东长安街神舟五路十字西北角运维国际总部大厦，建筑面积约14000平方米。以“展示、办公、孵化、培训”四大功能实现园区“合作共赢、产业聚集、创新创业、人才培育”的发展目标。聚焦以云计算、大数据、电子商务为主的产业发展核心需求；形成链接纵向产业链升级改造，横向产业配套服务融合，径向政府、协会、联盟、高校多重要素汇聚的三位一体的数字经济体。
-                        </p>
-
-                        <p>
-                          面 积：13786平米<br/>
-                          入驻企业：61个<br/>
-                          地址：陕西省西安市长安区东长安街501号运维国际总部京东航天数字经济示范园3层
-                        </p>
-
-                        <ul>
-                          <li>• 硬科技</li>
-                          <li>• 3C数码</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_37">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_38">预约报告厅></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_37">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_38">预约报告厅></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-20"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          东坡新经济展示中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云东坡新经济展示中心以“京东赋能·云上东坡”为主题，以技术赋能、品牌打造、电商培育、产业链补齐为抓手，全面赋能新经济发展 ，集中打造东坡区产业示范展示门户。
-                        </p>
-
-                        <p>
-                          地址：四川省眉山市蒲眉路圣丰国际B区3栋京东智联云（东坡）数字经济产业园
-                        </p>
-
-                        <ul>
-                          <li>• 春见</li>
-                          <li>• 不知火</li>
-                          <li>• 东坡柑橘</li>
-                          <li>• 眉州味道</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_39">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_40">商务合作></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_39">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_40">商务合作></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="CH-carousel-container">
-                      <div class="CH-carousel-img-m pcbg pcbg-21"></div>
-                      <div class="box-content">
-                        <h3 class="CH-carousel-title">
-                          天津创新中心
-                        </h3>
-                        <p class="CH-carousel-desc xs-line-3">
-                          京东智联云（天津）创新中心，落地于5A级写字楼网信大厦的6-7层，网信大厦总建筑面积48000㎡，规划打造成为互联网企业聚集区，地理位置优越，交通便利，拥有配套的商业街及社区综合服务中心、社区文化服务中心。创新中心意在吸引电子商务、智能科技、文化创意、电商等企业入驻，并为其提供资源、技术、市场、商机、资本等多方面的支持，形成数字经济产业聚集，助力区域经济转型发展。
-                        </p>
-
-                        <p>
-                          面 积：3600平米<br/>
-                          入驻企业：9个<br/>
-                          地址：天津市河西区黑牛城道与洪泽路交口中冶盛世国际广场11号楼网信大厦6-7层
-                        </p>
-
-                        <ul>
-                          <li>• 智能科技</li>
-                          <li>• 大数据</li>
-                          <li>• 电子商务</li>
-                          <li>• 文化创意</li>
-                        </ul>
-                        <p class="xs-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_41">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_42">预约报告厅></a>
-                        </p>
-
-                        <p class="md-hidden">
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_41">
-                            <span class="section-case-button">预约参观</span>
-
-                          </a>
-                           <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_42">预约报告厅></a>
-                        </p>
-
-                      </div>
-                    </div>
-                  </div>
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-1"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            滁州新经济展示中心
+                                        </h3>
+                                        <p class="CH-carousel-desc">
+                                            京东智联云滁州数字经济展厅是京东与滁州共建以食品电商化及家电智能化为主要展示方向，着力为滁州食品和家电企业的产业升级、产品创新、电商运营等提供全方位的赋能支持，旨在成为安徽乃至区域性的数字经济示范园区
+                                        </p>
+
+                                        <p>
+                                            地址：安徽省滁州市琅琊区花园东路555号滁州电子商务产业园
+                                        </p>
+
+                                        <ul>
+                                            <li>• 电子商务</li>
+                                            <li>• 智能科技</li>
+                                            <li>• 文化创意</li>
+                                            <li>• 大数据</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_1">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_2">商务合作></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_1">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_2">商务合作></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-2"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            重庆数字经济产业园
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            由重庆市南岸区人民政府和京东智联云共同打造的京东智联云（重庆）数字经济产业园，立足重庆，辐射西南。园区依托京东云的技术、资源层面的优势，旨在建设一个以“产业创新”、“电商聚集”为核心的数字经济产业园。
+                                        </p>
+
+                                        <p>
+                                            面 积：2741平米<br />
+                                            入驻企业：47个<br />
+                                            地址：重庆市南岸区烟雨路9号国瑞中心18F-19F
+                                        </p>
+
+                                        <ul>
+                                            <li>• 智能智造</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_3">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_4">预约报告厅></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_3">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_4">预约报告厅></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-3"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            福清数字经济展示中心
+                                        </h3>
+                                        <p class="CH-carousel-desc">
+                                            京东智联云福清数字经济展示中心是福清市政府与京东集团共同打造，是“互联网+大数据”的食品产业综合性展厅。展示中心主要分为京东科技馆、数字元洪公共服务平台馆、大数据可视化展示馆和元洪馆四部分。
+                                        </p>
+
+                                        <p>
+                                            地址：福建省福州市福清市海城路18号京东元洪全球食品数字经济产业中心5座
+                                        </p>
+
+                                        <ul>
+                                            <li>• 新科技</li>
+                                            <li>• 数字元洪</li>
+                                            <li>• 产业云脑</li>
+                                            <li>• 元洪品牌</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_5">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_6">商务合作></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_5">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_6">商务合作></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-4"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            仙游数字经济产业园
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东（仙游）数字经济产业园一期 15000 平方米，二期 140000平方米，选址仙游国际油画城北片区及石艺城。项目依托仙游优势工艺美术产业、农特产品等资源，通过创新驱动、数字赋能，以期破解仙作产业发展的“原材*供应针金融、管销和品牌品质、人才、物流”等五大痛点，推动仙游工艺美术产业转型升级高质量发展，打造千亿级工艺美术产业集群，打造全国“工艺美术产业十互联网”深度融合的数字经济平台标杆。
+                                        </p>
+
+                                        <p>
+                                            面 积：45000平米<br />
+                                            入驻企业：68个<br />
+                                            地址：福建省莆田市仙游县榜头镇国际油画城京东数字经济产业园
+                                        </p>
+
+                                        <ul>
+                                            <li>• 工艺美术</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_7">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_8">预约报告厅></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_7">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_8">预约报告厅></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-6"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            常州数字经济展示中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云常州数字经济展示中心是京东与常州“互联网+”数字经济合作项目的重要展示载体，常州天宁近几年，顺应信息技术、互联网发展大势，积极推进“互联网+”数字经济产业发展，随着京东与常州天宁区双方合作的深入，京东将利用自身生态资源优势，助力常州天宁产业转型升级。
+                                        </p>
+
+                                        <p>
+                                            地址：江苏省常州市天宁区虹阳路2号“互联网+新经济”产业园 7楼
+                                        </p>
+
+                                        <ul>
+                                            <li>• 智能制造名城</li>
+                                            <li>• 现代创新城</li>
+                                            <li>• 十佳可持续发展城市</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_11">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_12">商务合作></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_11">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_12">商务合作></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-7"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            南京创新中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云（南京）协同全球创新中心位于江苏省南京市麒麟科技创新园。为打造“京东智联云智能产业华东区域总部”，京东集团在麒麟科创园设立全资子公司——南京京东云计算有限公司，以创新中心为载体，导入电商能力、智能生态、运营资源、助力南京智能产业、数字经济产业发展。该项目由泰智会产业加速器负责日常运营。
+                                        </p>
+
+                                        <p>
+                                            面 积：4660平米<br />
+                                            入驻企业：25个<br />
+                                            地址：江苏省南京市江宁区麒麟科创园东麒路277号富力科技园9幢京东智联云创新中心
+                                        </p>
+
+                                        <ul>
+                                            <li>• 人工智能</li>
+                                            <li>• 科技</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_13">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_14">预约报告厅></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_13">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_14">预约报告厅></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-13"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            湘潭创新中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云（湘潭）创新中心是京东智联云的产业孵化和创新业务平台，整合京东内部资源与外部行业资源，打造1个创新空间载体、1个开放创新服务平台、1个本地化服务体系和N个协同创新中心，逐步完善现代产业新体系要素，孵化智能制造、人工智能、大数据、消费升级产品等领域的创新创业企业，促进湘潭市传统产业转型升级与创新；同时承载京东集团的内外创新资源、优秀孵化项目、产业链企业、协同创新中心落地。
+                                        </p>
+
+                                        <p>
+                                            面 积：13000平米<br/>
+                                            入驻企业：86个<br/>
+                                            地址：湘潭高新区吉安路108号家家美写字楼
+                                        </p>
+
+                                        <ul>
+                                            <li>• 湘潭特色产业</li>
+                                            <li>• 智能制造</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_25">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_26">预约报告厅></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_25">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_26">预约报告厅></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-10"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            鹤壁数字经济展示中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云鹤壁数字经济展厅是鹤壁市政府与京东共同打造，致力于以提升鹤壁数字经济、5G、人工智能、智能智造，文化旅游、农业农特等产业在区域乃至全国的领导力和影响力为目标。
+                                        </p>
+
+                                        <p>
+                                            地址：河南省鹤壁市淇滨区钜新路与湘江东路交叉口京东智联云鹤壁数字经济产业园
+                                        </p>
+
+                                        <ul>
+                                            <li>• 新材料</li>
+                                            <li>• 食品产业</li>
+                                            <li>• 花园城市</li>
+                                            <li>• 文化产业</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_19">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_20">商务合作></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_19">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_20">商务合作></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="city-mode">
+                                    <div class="city-mode-lf xa">
+                                        <b>云上航天·智引未来</b>
+                                        <p>“互联网+”数字经济与人工智能西部高地</p>
+
+                                        <a href="https://www.jdcloud.com/cn/city/xian" target="_blank">了解更多样板城市内容 &#62;</a>
+                                    </div>
+                                    <div class="CH-carousel-container">
+                                        <div class="CH-carousel-img-m pcbg pcbg-19"></div>
+                                        <div class="box-content">
+                                            <h3 class="CH-carousel-title">
+                                                京东航天数字经济示范园
+                                            </h3>
+                                            <p class="CH-carousel-desc xs-line-3">
+                                                京东航天数字经济示范园位于东长安街神舟五路十字西北角运维国际总部大厦，建筑面积约14000平方米。以“展示、办公、孵化、培训”四大功能实现园区“合作共赢、产业聚集、创新创业、人才培育”的发展目标。聚焦以云计算、大数据、电子商务为主的产业发展核心需求；形成链接纵向产业链升级改造，横向产业配套服务融合，径向政府、协会、联盟、高校多重要素汇聚的三位一体的数字经济体。
+                                            </p>
+
+                                            <p>
+                                                面 积：13786平米<br/>
+                                                入驻企业：61个<br/>
+                                                地址：陕西省西安市长安区东长安街501号运维国际总部京东航天数字经济示范园3层
+                                            </p>
+
+                                            <ul>
+                                                <li>• 硬科技</li>
+                                                <li>• 3C数码</li>
+                                            </ul>
+                                            <p class="xs-hidden">
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_37">
+                                                    <span class="section-case-button">预约参观</span>
+
+                                                </a>
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_38">预约报告厅></a>
+                                            </p>
+
+                                            <p class="md-hidden">
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_37">
+                                                    <span class="section-case-button">预约参观</span>
+
+                                                </a>
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_38">预约报告厅></a>
+                                            </p>
+
+                                        </div>
+                                        <a href="https://www.jdcloud.com/cn/city/xian" target="_blank" class="link-city-mode">了解更多样板城市内容 &#62;</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="city-mode">
+                                    <div class="city-mode-lf sq">
+                                        <b>云起宿迁</b>
+                                        <p>国内首个一体化建设运营的大数据智能新城</p>
+
+                                        <a href="https://www.jdcloud.com/cn/city/suqian" target="_blank">了解更多样板城市内容 &#62;</a>
+                                    </div>
+                                    <div class="CH-carousel-container">
+                                        <div class="CH-carousel-img-m pcbg pcbg-9"></div>
+                                        <div class="box-content">
+                                            <h3 class="CH-carousel-title">
+                                                宿迁数字经济展示中心
+                                            </h3>
+                                            <p class="CH-carousel-desc xs-line-3">
+                                                京东智联云宿迁品牌展厅秉承着“一座城市，一朵云”的理念，已在全国落地了30+ 个城市云，助力政府数字化转型升级。目前宿迁现已形成“3+2”产业体系，即呼叫客服、电商运营、物流仓储三大基础产业以及未来重点发展的物联网智能制造、互联网金融两大特色产业。
+                                            </p>
+
+                                            <p>
+                                                地址：江苏省宿迁市宿豫区青桐路京东智联云华东数据中心
+                                            </p>
+
+                                            <ul>
+                                                <li>• 物联网智能制造</li>
+                                                <li>• 互联网金融</li>
+                                                <!--                          <li>• 东哥老家</li>-->
+                                            </ul>
+                                            <p class="xs-hidden">
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_17">
+                                                    <span class="section-case-button">预约参观</span>
+
+                                                </a>
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_18">商务合作></a>
+                                            </p>
+
+                                            <p class="md-hidden">
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_17">
+                                                    <span class="section-case-button">预约参观</span>
+
+                                                </a>
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_18">商务合作></a>
+                                            </p>
+
+                                        </div>
+                                        <a href="https://www.jdcloud.com/cn/city/suqian" target="_blank" class="link-city-mode">了解更多样板城市内容 &#62;</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-15"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            黄河三角洲云计算大数据产业基地数字经济展示中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东黄河三角洲云计算大数据产业基地数字经济展示中心以云涌齐鲁、京东云腾、赋能滨州、云端未来、智慧生活五大展区为主题，全面展示京东智联云在滨州的赋能模式及核心案例成果，探讨“互联网+政务”、“云+产业”的新模式，助力富强滨州建设。
+                                        </p>
+
+                                        <p>
+                                            地点：山东省滨州经济技术开发区长江四路777号
+                                        </p>
+
+                                        <ul>
+                                            <li>• 赋能滨州</li>
+                                            <li>• 互联网+政务</li>
+                                            <li>• 云+产业</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9"  clstag="Channel_City|keycount|Floor3|Btn_31">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_30">商务合作></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_29">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_30">商务合作></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="city-mode">
+                                    <div class="city-mode-lf bh">
+                                        <b>云聚北海</b>
+                                        <p>“向海经济”千亿产值数字经济产业集群</p>
+
+                                        <a href="https://www.jdcloud.com/cn/city/beihai" target="_blank">了解更多样板城市内容 &#62;</a>
+                                    </div>
+                                    <div class="CH-carousel-container">
+                                        <div class="CH-carousel-img-m pcbg pcbg-5"></div>
+                                        <div class="box-content">
+                                            <h3 class="CH-carousel-title">
+                                                北海数字经济展示中心
+                                            </h3>
+                                            <p class="CH-carousel-desc xs-line-3">
+                                                京东智联云北海数字经济展示中心以”数聚云海，智造未来”为主题，紧扣北海城市发展脉搏，体现北海市和京东集团的合作成果。京东在北海将积极引导数字经济与实体经济相结合，推进本地产业数字化、数字产业化，加快发展云计算、大数据、智能装备制造等高新产业，运用物联网、人工智能、工业互联网等新一代信息技术，改造提升传统产业，加速新型工业化进程。
+                                            </p>
+
+                                            <p>
+                                                地址：广西壮族自治区北海市北海大道东延线199号中电北部湾信息港
+                                            </p>
+
+                                            <ul>
+                                                <li>• 丝路明珠</li>
+                                                <li>• 北部湾信息港</li>
+                                                <li>• 南珠之乡</li>
+                                                <li>• 魅力北海</li>
+                                            </ul>
+                                            <p class="xs-hidden">
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_9">
+                                                    <span class="section-case-button">预约参观</span>
+
+                                                </a>
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_10">商务合作></a>
+                                            </p>
+
+                                            <p class="md-hidden">
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_9">
+                                                    <span class="section-case-button">预约参观</span>
+
+                                                </a>
+                                                <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_10">商务合作></a>
+                                            </p>
+
+                                        </div>
+                                        <a href="https://www.jdcloud.com/cn/city/beihai" target="_blank" class="link-city-mode">了解更多样板城市内容 &#62;</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-8"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            南通新经济展示中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云（南通）数字经济展厅由城市篇、赋能篇、产品篇和未来篇四个篇章组成，结合京东大数据、云计算、人工智能等技术，重点围绕高端纺织、电子信息和轻工食品等三大主导产业，帮助企业实现转型升级，助力南通 “3+3+N”的产业体系完善及数字化转型，打造南通数字化产业园示范基地。
+                                        </p>
+
+                                        <p>
+                                            地址：江苏省南通市崇川区青年中路158号1号楼京东智联云（南通）数字经济产业园
+                                        </p>
+
+                                        <ul>
+                                            <li>• 城市赋能</li>
+                                            <li>• 共享未来</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_15">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_16">商务合作></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_15">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_16">商务合作></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-11"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            十堰数字经济展示中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云十堰数字经济展厅是十堰与京东共同打造。十堰拥有仙山、秀水、汽车、绿松石等世界级产业名片，京东正致力于本地产业品牌打造，为十堰拥抱数字蓝海打开新契机。
+                                        </p>
+
+                                        <p>
+                                            地址：湖北省十堰市张湾区发展大道与十堰大道交汇处
+                                        </p>
+
+                                        <ul>
+                                            <li>• 绿松石</li>
+                                            <li>• 汽车之都</li>
+                                            <li>• 十佳魅力城市</li>
+                                            <li>• 武当山</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_21">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_22">商务合作></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_21">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_22">商务合作></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-12"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            怀化创新中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云创新空间（怀化）成立于2018年7月,主要依托于怀化经开区“双创”示范基地、武陵山非遗文化中心（怀化）等国家级平台；怀化学院、怀化职业技术学院等高校平台；以北京京东世纪贸易有限公司的相关资源为服务基础。为高校毕业生搭建创新创业平台，为初创企业提供专项孵化支持，以高新科技研发、互联网+旅游、双创孵化、文化创意设计、农副产品销售、医药耗材等为产业主导。
+                                        </p>
+
+                                        <p>
+                                            面 积：3217平米<br/>
+                                            入驻企业：78个<br/>
+                                            地址：湖南省怀化市经开区黄家山路与春晖路交汇处旁大学生创客社区2层
+                                        </p>
+
+                                        <ul>
+                                            <li>• 农产品</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_23">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_24">预约报告厅></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_23">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_24">预约报告厅></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-14"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            辽宁数字经济展示中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云(辽宁)数字经济体验中心，以打造区域公共品牌工程，真正做到助力政府实现“善政、兴业、惠民”为目标。助力政府数字化转型，推动“产业上云数字化”和“云上产业数字经济聚集”，数字经济服务主体落地、共建云计算大数据基地、数字经济产业园赋能、培育数字经济创新体系。
+                                        </p>
+
+                                        <p>
+                                            地址：辽宁省抚顺市望花区金风街6号京东智联云（辽宁)数字经济产业园
+                                        </p>
+
+                                        <ul>
+                                            <li>• 善政</li>
+                                            <li>• 兴业</li>
+                                            <li>• 惠民</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_27">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_28">商务合作></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_27">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_28">商务合作></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-16"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            东营创新中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云（东营）创新中心是京东集团旗下双创品牌空间，由东营区政府与京东集团共同成立，“互联网+新科技+大数据”的综合性众创平台。中心充分利用京东集团电商、金融、技术三大优势资源，帮助创业者的成果尽快形成产品进入市场，提供综合性服务帮助创新科技企业成熟长大形成规模，降低创业企业的创业风险和创业成本，提高企业创新的成活率和成功率。
+                                        </p>
+
+                                        <p>
+                                            面 积：3000平米<br/>
+                                            入驻企业：25个<br/>
+                                            地址：东营市东营区北一路402号黄河三角洲数据港
+                                        </p>
+
+                                        <ul>
+                                            <li>• 电商</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_31">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_32">预约报告厅></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_31">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_32">预约报告厅></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-17"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            济南数字经济展示中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云济南数字经济展示中心，总面积达660平米，展现了京东智联云携手济南新旧动能转换先行区的建设成就及美好未来，是济南先行区数字经济发展的一站式展示窗口。
+                                        </p>
+
+                                        <p>
+                                            地址：山东省济南新旧动能转换先行区数字经济产业园M7栋。
+                                        </p>
+
+                                        <ul>
+                                            <li>• 数字经济</li>
+                                            <li>• 电商总部</li>
+                                            <li>• 云计算</li>
+                                            <li>• 大数据</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_33">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_34">商务合作></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_33">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_34">商务合作></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-18"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            大同创新空间
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            《京东智联云创新空间（大同）》建设与电子商务创业实训基地建设相结合、以创新创业者主导与专家指导相结合、项目营运与创业实训相结合、线上与线下相结合、孵化与投资相结合，为创新创业者提供创业孵化与实训基地各项要素具备、低成本、便利化、开放式培训、实训、孵化一条龙综合性良好的创业众创空间，为广大创新创业者开辟一片“试验田”。
+                                        </p>
+
+                                        <p>
+                                            面 积：3021平米<br/>
+                                            入驻企业：21个<br/>
+                                            地址：山西省大同市源茂街东信国际2号综合楼5层京东智联云
+                                        </p>
+
+                                        <ul>
+                                            <li>• 农业</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_35">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_36">预约报告厅></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_35">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_36">预约报告厅></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-20"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            东坡新经济展示中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云东坡新经济展示中心以“京东赋能·云上东坡”为主题，以技术赋能、品牌打造、电商培育、产业链补齐为抓手，全面赋能新经济发展 ，集中打造东坡区产业示范展示门户。
+                                        </p>
+
+                                        <p>
+                                            地址：四川省眉山市蒲眉路圣丰国际B区3栋京东智联云（东坡）数字经济产业园
+                                        </p>
+
+                                        <ul>
+                                            <li>• 春见</li>
+                                            <li>• 不知火</li>
+                                            <li>• 东坡柑橘</li>
+                                            <li>• 眉州味道</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_39">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_40">商务合作></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_39">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_40">商务合作></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="CH-carousel-container">
+                                    <div class="CH-carousel-img-m pcbg pcbg-21"></div>
+                                    <div class="box-content">
+                                        <h3 class="CH-carousel-title">
+                                            天津创新中心
+                                        </h3>
+                                        <p class="CH-carousel-desc xs-line-3">
+                                            京东智联云（天津）创新中心，落地于5A级写字楼网信大厦的6-7层，网信大厦总建筑面积48000㎡，规划打造成为互联网企业聚集区，地理位置优越，交通便利，拥有配套的商业街及社区综合服务中心、社区文化服务中心。创新中心意在吸引电子商务、智能科技、文化创意、电商等企业入驻，并为其提供资源、技术、市场、商机、资本等多方面的支持，形成数字经济产业聚集，助力区域经济转型发展。
+                                        </p>
+
+                                        <p>
+                                            面 积：3600平米<br/>
+                                            入驻企业：9个<br/>
+                                            地址：天津市河西区黑牛城道与洪泽路交口中冶盛世国际广场11号楼网信大厦6-7层
+                                        </p>
+
+                                        <ul>
+                                            <li>• 智能科技</li>
+                                            <li>• 大数据</li>
+                                            <li>• 电子商务</li>
+                                            <li>• 文化创意</li>
+                                        </ul>
+                                        <p class="xs-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_41">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_42">预约报告厅></a>
+                                        </p>
+
+                                        <p class="md-hidden">
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_41">
+                                                <span class="section-case-button">预约参观</span>
+
+                                            </a>
+                                            <a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_42">预约报告厅></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
                 </div>
 
                 <div class="swiper-button-prev xs-hidden"></div>
