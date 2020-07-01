@@ -1,18 +1,18 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"数据传输 DTS\",\"label\":[{\"TitleName\":\"创建任务\",\"TitleUrl\":\"https://dts-console.jdcloud.com/list\",\"classTag\":\"https://dts-console.jdcloud.com/list\"}],\"desc\":\"数据传输 DTS 是京东云提供的数据库迁移服务，支持多种数据库迁移，可以简单快速地将本地自建数据库迁移至京东云，在迁移过程中源数据库可继续正常运行，从而最大程度地减少应用程序的停机时间。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"数据传输 DTS\",\"label\":[{\"TitleName\":\"数据迁移\",\"TitleUrl\":\"https://dts-console.jdcloud.com/list\",\"classTag\":\"https://dts-console.jdcloud.com/list\"},{\"TitleName\":\"数据订阅(公测中)\",\"TitleUrl\":\"https://dts-console.jdcloud.com/subscription/list\",\"classTag\":\"https://dts-console.jdcloud.com/subscription/list\"}],\"desc\":\"数据传输 DTS 是京东云提供的实时数据流服务，支持数据迁移和数据订阅服务，可简单方便的满足数据上云、业务异步解耦等业务场景。\"}",
 		"id":1490
 	},
 	{
-		"txt":"[{\"showShade\":false,\"proGood\":\"简单易用\",\"proName\":\"使用数据传输 DTS 执行数据迁移，只需简单几步即可创建迁移任务，开始数据迁移。\"},{\"showShade\":false,\"proGood\":\"减少停机时间\",\"proName\":\"数据传输 DTS 支持不停服数据迁移，迁移过程中持续获取源数据库的增量数据并更新到目标数据库，数据迁移期间不影响源数据库对外提供服务，从而最大程度地减少上云过程对业务的影响。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"支持多种数据库\",\"proName\":\"数据传输 DTS 支持MySQL、Percona、MariaDB、SQL Server、PostgreSQL、MongoDB等多种关系型和非关系数据库的同构迁移。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"服务高可用\",\"proName\":\"数据传输 DTS 服务支持高可用，迁移服务节点出现故障时，可自动容灾切换，确保迁移任务正常执行。\"}]",
+		"txt":"[{\"showShade\":false,\"proGood\":\"简单易用\",\"proName\":\"通过控制台界面，简单几步即可创建DTS任务，快速执行数据库迁移或数据订阅任务。\"},{\"showShade\":false,\"proGood\":\"服务高可用\",\"proName\":\"DTS 服务默认采用高可用架构，服务节点出现故障时，可自动容灾切换，确保任务正常运行。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"支持多种数据库\",\"proName\":\"支持MySQL、Percona、MariaDB、SQL Server、 PostgreSQL、 MongoDB等多种关系型和非关系数据库的同构迁移。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"减少停服时间\",\"proName\":\"支持不停服数据迁移，迁移过程中持续获取源数据库的增量数据并更新到目标数据库，数据迁移期间不影响源数据库对外提供服务，从而最大程度地减少上云过程对业务的影响。\"}]",
 		"id":1491
 	},
 	{
-		"txt":"[{\"funcName\":\"支持多种数据库同构迁移\",\"funcContent\":[{\"funcTitle\":\"数据库类型\",\"funcP\":\"支持多种关系型数据库和非关系型数据库的同构数据迁移，目前支持MySQL、Percona、MariaDB、SQL Server、PostgreSQL、MongoDB等数据库。\"},{\"funcTitle\":\"源库与目标库\",\"funcP\":\"源库支持绑定公网IP或通过专线/内网连接的自建数据库，目标库支持云数据库。\"},{\"funcTitle\":\"迁移数据粒度\",\"funcP\":\"支持指定库、表迁移，可根据业务情况选择要迁移的数据。\"}]},{\"funcName\":\"支持热迁移，减少停机时间\",\"funcContent\":[{\"funcTitle\":\"迁移类型\",\"funcP\":\"支持选择结构迁移、全量迁移和增量迁移，可以结合业务场景选择使用。\"},{\"funcTitle\":\"热迁移\",\"funcP\":\"支持增量迁移，源数据库在迁移期间发生的所有数据更改都会持续复制到目标数据库，只需在切换数据库时短时间停服。\"}]}]",
+		"txt":"[{\"funcName\":\"数据迁移\",\"funcContent\":[{\"funcTitle\":\"支持多种数据库同构迁移\",\"funcP\":\"支持多种关系型数据库和非关系型数据库的同构数据迁移，支持MySQL、Percona、MariaDB、SQLserver、 PostgreSQL、MongoDB等数据库。\\n支持选择库表迁移，可按需选择迁移数据，支持选择整个实例迁移或指定库、表迁移。\"},{\"funcTitle\":\"支持热迁移，减少停机时间\",\"funcP\":\"支持选择结构迁移、全量迁移和增量迁移，可以结合业务场景选择使用。\\n支持增量迁移，源数据库在迁移期间发生的所有数据更改都会持续复制到目标数据库，只需在切换数据库时短时间停服。\"}]},{\"funcName\":\"数据订阅\",\"funcContent\":[{\"funcTitle\":\"数据库类型\",\"funcP\":\"支持实时订阅云数据库 MySQL 与自建 MySQL增量数据。\"},{\"funcTitle\":\"灵活方便\",\"funcP\":\"数据订阅目标端为Kafka实例，支持Kafka生态，通过Kafka Client可以直接消费订阅数据。\"}]}]",
 		"id":1492
 	},
 	{
-		"txt":"[{\"name\":\"数据迁移上云\",\"instruction\":\"数据传输 DTS 支持不停服数据迁移，迁移过程中持续获取源数据库的增量数据并更新到目标数据库，数据迁移期间不影响源数据库对外提供服务，从而最大程度地减少上云过程对业务的影响。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/dcf56729-d1f3-4926-a766-abbc75bacacb20191017101529.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"数据热迁移上云\",\"instruction\":\"数据传输 DTS 支持不停服数据迁移，迁移过程中持续获取源数据库的增量数据并更新到目标数据库，数据迁移期间不影响源数据库对外提供服务，从而最大程度地减少上云过程对业务的影响。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/dcf56729-d1f3-4926-a766-abbc75bacacb20191017101529.png\",\"showShade\":false},{\"name\":\"业务异步解耦\",\"instruction\":\"通过DTS提供的数据订阅服务，可以将深耦合的业务优化为通过实时消息通知实现的异步耦合，如：业务系统A完成数据写入后直接返回，底层通过DTS的数据订阅实时获取数据变更，业务系统B通过SDK订阅这些变更数据。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/26ed4ce3-dfde-44ad-a959-1a3b80e63f9b20200630200350.png\",\"showShade\":false}]",
 		"id":1493
 	}
 ]
