@@ -222,5 +222,13 @@
 		"id":700,
 		"partner_label":"产品方案伙伴",
 		"tableName":"cms_partner"
+	},
+	{
+		"name":"安徽威谷互联网科技有限公司",
+		"description":"边缘计算服务商，分销商，代理商。",
+		"short_name":"安徽威谷",
+		"id":701,
+		"partner_label":"分销渠道伙伴",
+		"tableName":"cms_partner"
 	}
 ]
