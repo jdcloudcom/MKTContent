@@ -1370,5 +1370,12 @@
 		"id":1254,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"超级爆款",
+		"id":1256,
+		"button_title":"",
+		"main_title":""
 	}
 ]
