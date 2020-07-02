@@ -2126,5 +2126,21 @@
 		"jss_key":"News_Content_821",
 		"id":821,
 		"news_title":"“618云上集市”GMV破40亿  京东智联云交卷"
+	},
+	{
+		"summary":"京鱼座智能屏i8 Pro定价599元，4月21日起新品优惠1元抵100元，4月28日前预付1元定金到手价仅需500元。4月28日，该产品线上线下同步首发，线上在京东京鱼座旗舰店售卖，线下在联通部分门店正式售卖联通深度合作定制版，更有三重新品优惠大放送。",
+		"image_url":"//img1.jcloudcs.com/cms/e42bf27d-7921-4ac4-bcc2-0fec046035bf20200702100031.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_822",
+		"jss_key":"News_Content_822",
+		"id":822,
+		"news_title":"京东智联云发布新品京鱼座智能屏i8 Pro  用“万物互联”见证爱的连接"
+	},
+	{
+		"summary":"京鱼座蓝牙小蛮腰定价69元起，具有红灰蓝绿四种配色，优美的小蛮腰曲线搭配时尚色彩，带来赏心悦目的视觉体验，便携式挂绳设计，搭配背包、手持袋也是绝佳的时尚单品。5月13日，该产品在京东京鱼座自营旗舰店首发售卖。",
+		"image_url":"//img1.jcloudcs.com/cms/e53ae810-5ce5-490c-993f-1049210fb3b620200702101032.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_823",
+		"jss_key":"News_Content_823",
+		"id":823,
+		"news_title":"京东智联云发布新品小蛮腰蓝牙音箱 随时随地听见好声音"
 	}
 ]
