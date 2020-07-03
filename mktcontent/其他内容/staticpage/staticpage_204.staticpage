@@ -16,10 +16,10 @@
                                 <h3>云托管</h3>
                                 <div>
                                     <ul>
-                                        <li><a href="javascript:return false;" clstag="IDCChannel|keycount|Header|smarthome-connectivity" style="color: #999;cursor: default">数据中心托管服务</a></li>
-                                        <li><a href="javascript:return false;" clstag="IDCChannel|keycount|Header|Internet-service" style="color: #999;cursor: default">互联网带宽服务</a></li>
-                                        <li><a href="javascript:return false;" clstag="IDCChannel|keycount|Header|text-to-speech-high-quality" style="color: #999;cursor: default">边缘托管服务</a></li>
-                                        <li><a href="javascript:return false;" clstag="IDCChannel|keycount|Header|idcvalue-added service" style="color: #999;cursor: default">增值业务</a></li>
+                                        <li><a clstag="IDCChannel|keycount|Header|smarthome-connectivity" href="https://www.jdcloud.com/products/idc-hosting" style="color: #999;cursor: default">数据中心托管服务</a></li>
+                                        <li><a clstag="IDCChannel|keycount|Header|Internet-service" href=" https://www.jdcloud.com/products/Internet-service" style="color: #999;cursor: default">互联网带宽服务</a></li>
+                                        <li><a clstag="IDCChannel|keycount|Header|text-to-speech-high-quality" href="https://www.jdcloud.com/products/edge-cloud-cabinet-service">边缘托管服务</a></li>
+                                        <li><a clstag="IDCChannel|keycount|Header|idcvalue-added service" href="ttps://www.jdcloud.com/products/idcvalue-added&service" style="color: #999;cursor: default">增值业务</a></li>
                                         <li><a href="https://www.jdcloud.com/aidc/market"
                                                target="_blank" clstag="IDCChannel|keycount|Header|market">智能IDC电商平台</a></li>
                                     </ul>
@@ -94,14 +94,14 @@
                     <a href="#" class="drop-link">数据中心介绍</a>
                     <div class="subMenu-drop-box">
                         <ul class="subMenu-level2">
-                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_0" href="https://www.jdcloud.com/cn/aidc/sq1" target="_blank">宿迁机房</a></li>
-                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_1" href="https://www.jdcloud.com/cn/aidc/bj3" target="_blank">北京顺义万国机房</a></li>
-                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_2" href="https://www.jdcloud.com/cn/aidc/bj1" target="_blank">北京顺义中云信机房</a></li>
-                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_3" href="https://www.jdcloud.com/cn/aidc/bj2" target="_blank">北京有孚机房</a></li>
-                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_4" href="https://www.jdcloud.com/cn/aidc/gz2" target="_blank">广州云泰机房</a></li>
-                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_5" href="https://www.jdcloud.com/cn/aidc/gz3" target="_blank">广州明美机房</a></li>
-                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_6" href="https://www.jdcloud.com/cn/aidc/gz4" target="_blank">广州东涌机房</a></li>
-                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_7" href="javascript:return false;" style="color: #999;cursor: default">江苏昆山机房</a></li>
+                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_0" href="https://www.jdcloud.com/cn/aidc/sq1" target="_blank">华东(宿迁)云数据中心</a></li>
+                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_1" href="https://www.jdcloud.com/cn/aidc/bj3" target="_blank">北京-BJ3数据中心</a></li>
+                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_2" href="https://www.jdcloud.com/cn/aidc/bj1" target="_blank">北京-BJ1数据中心</a></li>
+                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_3" href="https://www.jdcloud.com/cn/aidc/bj2" target="_blank">北京-BJ2数据中心</a></li>
+                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_4" href="https://www.jdcloud.com/cn/aidc/gz2" target="_blank">广州-GZ2数据中心</a></li>
+                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_5" href="https://www.jdcloud.com/cn/aidc/gz3" target="_blank">广州-GZ3数据中心</a></li>
+                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_6" href="https://www.jdcloud.com/cn/aidc/gz4" target="_blank">广州-GZ4数据中心</a></li>
+                            <li><a clstag="Channel_idc|keycount|Header|Link_1_0_7" href="javascript:return false;" style="color: #999;cursor: default">江苏-KS1数据中心</a></li>
                         </ul>
                     </div>
                 </li>
@@ -196,24 +196,24 @@
                                 <div class="mb20">相关产品/服务：</div>
                                 <p class="section-case-product">
                                     <a clstag="Channel_IDC|keycount|Floor5|Link_0"
-                                    href="https://www.jdcloud.com/cn/solutions/smarthome-connectivity"
-                                    target="_blank" class="mr10"
+                                    href="https://www.jdcloud.com/products/idc-hosting"
+                                    target="_blank" class="mr10" style="color: #999;cursor: default;pointer-events:none;"
                                 >数据中心托管服务</a>
                                     <a clstag="Channel_IDC|keycount|Floor5|Link_0"
-                                       href="https://www.jdcloud.com/products/ Internet-service"
-                                       target="_blank" class="mr10"
-                                    >互联网宽度服务</a>
+                                       href="https://www.jdcloud.com/products/Internet-service"
+                                       target="_blank" class="mr10" style="color: #999;cursor: default;pointer-events:none;"
+                                    >互联网宽带服务</a>
                                     <a clstag="Channel_IDC|keycount|Floor5|Link_0"
-                                       href="#"
-                                       target="_blank" class="mr10"
+                                       href="https://www.jdcloud.com/products/edge-cloud-cabinet-service"
+                                       target="_blank" class="mr10" 
                                     >边缘托管服务</a>
                                     <a clstag="Channel_IDC|keycount|Floor5|Link_0"
                                        href="https://www.jdcloud.com/aidc/market"
                                        target="_blank" class="mr10"
                                     >智能IDC电商平台</a>
                                     <a clstag="Channel_IDC|keycount|Floor5|Link_0"
-                                       href="https://www.jdcloud.com/products/idcvalue-added service"
-                                       target="_blank" class="mr10"
+                                       href="https://www.jdcloud.com/products/idcvalue-added&service"
+                                       target="_blank" class="mr10" style="color: #999;cursor: default;pointer-events:none;"
                                     >增值业务</a>
                                 </p>
 
@@ -341,23 +341,23 @@
                                 <p class="section-case-product">
                                     <a clstag="Channel_IDC|keycount|Floor5|Link_0"
                                        href="#"
-                                       target="_blank" class="mr10"
+                                       target="_blank" class="mr10" style="color: #999;cursor: default;pointer-events:none;"
                                     >机架式服务器</a>
                                     <a clstag="Channel_IDC|keycount|Floor5|Link_0"
                                        href="#"
-                                       target="_blank" class="mr10"
+                                       target="_blank" class="mr10" style="color: #999;cursor: default;pointer-events:none;"
                                     >定制机柜</a>
                                     <a clstag="Channel_IDC|keycount|Floor5|Link_0"
                                        href="#"
-                                       target="_blank" class="mr10"
+                                       target="_blank" class="mr10" style="color: #999;cursor: default;pointer-events:none;"
                                     >一体机</a>
                                     <a clstag="Channel_IDC|keycount|Floor5|Link_0"
                                        href="#"
-                                       target="_blank" class="mr10"
+                                       target="_blank" class="mr10" style="color: #999;cursor: default;pointer-events:none;"
                                     >办公一体机</a>
                                     <a clstag="Channel_IDC|keycount|Floor5|Link_0"
                                        href="#"
-                                       target="_blank" class="mr10"
+                                       target="_blank" class="mr10" style="color: #999;cursor: default;pointer-events:none;"
                                     >智能客服一体机</a>
                                 </p>
 
