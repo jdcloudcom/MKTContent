@@ -1,0 +1,23 @@
+<p>Recently, JD Cloud Security Team monitored a deserialization remote code execution vulnerability existing in Apache Dubbo < 2.7.7 version and the vulnerability may be utilized to directly obtain the server permission.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Description]</strong></p>
+<p>Apache Dubbo is a Java-based high-performance RPC framework. On June 23, 2020, Apache Dubbo disclosed a deserialization remote code execution vulnerability (CVE-2020-1948) existing in Dubbo Provider, and when the Dubbo server is exposed (default port: 20880), the attacker may send an unverified service name or method name RPC request with additional malicious parameter load. When the malicious parameter is deserialized, the malicious code will be executed.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Rating]</strong></p>
+<p>High Risk</p>
+<p><br/></p>
+<p><strong>[Affected Version]</strong></p>
+<p>Apache Dubbo 2.7.0 ~ 2.7.6</p>
+<p>Apache Dubbo 2.6.0 ~ 2.6.7</p>
+<p>All Versions of Apache Dubbo 2.5.x (no more support will be provided officially)</p>
+<p><br/></p>
+<p><strong>[Secure Version]</strong></p>
+<p>Apache Dubbo &gt;= 2.7.7</p>
+<p><br/></p>
+<p><strong>[Fix Recommendation]</strong></p>
+<p>Upgrade to a secure version or disable the opening of Dubbo Provider</p>
+<p><br/></p>
+<p><strong>[Relevant Links]</strong></p>
+<p><a href="https://www.mail-archive.com/dev@dubbo.apache.org/msg06544.html" target="_blank" title="https://www.mail-archive.com/dev@dubbo.apache.org/msg06544.html">https://www.mail-archive.com/dev@dubbo.apache.org/msg06544.html</a></p>
+<p><a href="https://github.com/apache/dubbo/releases/tag/dubbo-2.7.7" target="_blank" title="https://github.com/apache/dubbo/releases/tag/dubbo-2.7.7">https://github.com/apache/dubbo/releases/tag/dubbo-2.7.7</a></p>
+<p><br/></p>

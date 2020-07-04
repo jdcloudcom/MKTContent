@@ -754,5 +754,13 @@
 	{
 		"name":"Project Management",
 		"id":1453
+	},
+	{
+		"name":"Anti-DDoS Premium Service",
+		"id":1477
+	},
+	{
+		"name":"Edge Cabinet Service",
+		"id":1481
 	}
 ]

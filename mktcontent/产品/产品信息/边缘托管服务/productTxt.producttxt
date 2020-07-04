@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Edge Cabinet Service\",\"label\":[{\"TitleName\":\"Instant Account Setup\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/edge-cloud-cabinet-service/overview\",\"classTag\":\"\"}],\"desc\":\"Centering on the demand of digital businesses on sinking to edge nodes, Edge Cabinet Service provides basic edge node resources with low network delay and low bandwidth cost and DevOps Service to customers, implements Cabinet Service for customers’ devices, and allow solution customization based on customers’ demands.\"}",
+		"id":2093
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Node Scale\",\"proName\":\"Rich high-quality data center is provided to cover edge node resources nationwide.\"},{\"showShade\":false,\"proGood\":\"Low Delay Bandwidth\",\"proName\":\"Edge nodes are located between the user and the cloud data center and it is not necessary to upload mass data to Cloud for processing. Low delay and low cost bandwidth resources close to the business are provided to meet bandwidth demands of different businesses and stable network of Telecom, Unicom or Mobile is provided.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Secure and Reliable\",\"proName\":\"Rapid response emergency service is provided, so is the efficient site DevOps Service based on the user’s demands.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Visual Management\",\"proName\":\"With simple and easy-to-use platform management, customers can view the cabinet, bandwidth, IP resource and one-click open ticket for distributed nodes purchased and track ticket progress on line.\"}]",
+		"id":2094
+	},
+	{
+		"txt":"[{\"funcName\":\"Resource Display\",\"funcContent\":[{\"funcTitle\":\"Visual Display of Resources\",\"funcP\":\"The Console displays the cabinet, EIP and bandwidth resources purchased by the customer, IP address information, and the shared width information; it also displays the customer’s devices and resources under the Cabinet Service, the basic information of devices, launched cabinets, etc.\"}]},{\"funcName\":\"Resource Monitoring\",\"funcContent\":[{\"funcTitle\":\"Real-time Traffic Monitoring\",\"funcP\":\"Customers can view real-time traffic of the purchased bandwidth and set the traffic alarm; the system provides traffic data search within 1 hour, 6 hours, 12 hours, 24 hours and 90 days\"}]},{\"funcName\":\"On-line Application\",\"funcContent\":[{\"funcTitle\":\"Flexible and Convenient On-line Application\",\"funcP\":\"It supports on-line submission of application for DevOps Service by customers; it also traces ticket application process in real time so the processing process can be learned\"}]}]",
+		"id":2095
+	},
+	{
+		"txt":"[{\"name\":\"Game\",\"instruction\":\"More and more people are experiencing games via mobile devices, e.g. VR, AR and cloud gaming. Game scenarios require a large amount of storage, whether on cloud or locally, and the highest processing capability. However, the limits in current network, storage and computing capability make it very difficult to transmit game data via mobile or IoT devices, and better guarantee of interaction and entertainment experience requires the support of edge computing. During the running of workload at the network edge, data only require the minimum necessary distance to reduce the related delay time.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0dd54f03-676c-4f24-b7f0-73a913a3481e20200601165537.png\",\"showShade\":false}]",
+		"id":2096
+	}
+]

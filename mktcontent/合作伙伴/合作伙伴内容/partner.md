@@ -206,5 +206,21 @@
 		"id":674,
 		"partner_label":"Product Solution Partner",
 		"tableName":"cms_partner"
+	},
+	{
+		"name":"Hangzhou Taihuoniao Technology Co., Ltd.",
+		"description":"Taihuoniao Technology is a domestic B2B design transaction and product innovation SaaS platform gathering thousands of domestic and overseas professional design companies to provide customers with industrial design, product design, design transaction matchmaking, achievement transformation, product innovation, investment incubation and other services relying on leading AI design transaction engine and tools.",
+		"short_name":"Taihuoniao",
+		"id":699,
+		"partner_label":"Product Solution Partner",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Sichuan Yuanjian Yangfan Information Technology Co., Ltd.",
+		"description":"Sichuan Yuanjian Yangfan Information Technology Co., Ltd. builds agricultural information into production factors based on the digital agriculture concept of organically integrating remote sensing, GIS, GPS, agricultural IoT, computer technology, communication and network technology with all steps of agricultural production to change the method of agricultural production.",
+		"short_name":"Yuanjian Yangfan",
+		"id":700,
+		"partner_label":"Product Solution Partner",
+		"tableName":"cms_partner"
 	}
 ]

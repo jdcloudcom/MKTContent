@@ -1,0 +1,26 @@
+<p>Recently, JD Cloud Security Team monitored a remote code execution vulnerability existing in Fastjson <=1.2.68 version and the vulnerability may be utilized to directly obtain the server permission.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Description]</strong></p>
+<p>Fastjson is an open source JSON parsing library of Alibaba. It can parse character strings in JSON format, and supports serializing Java Bean to JSON character strings and deserializing JSON character strings to JavaBean.</p>
+<p><br/></p>
+<p>Fastjson defends against deserialization vulnerabilities with black and white lists, so when hackers continuously dig new deserialization Gadgets, they can still bypass the black and white lists mechanism and cause remote command execution vulnerabilities if autoType is disabled. According to research, such vulnerabilities can be easily utilized and the autoType restriction may be bypassed.</p>
+<p><br/></p>
+<p><strong>[Vulnerability Rating]</strong></p>
+<p>High Risk</p>
+<p><br/></p>
+<p><strong>[Affected Version]</strong></p>
+<p>fastjson &lt;=1.2.68</p>
+<p>fastjson sec version < = sec9</p>
+<p><br/></p>
+<p><strong>[Secure Version]</strong></p>
+<p>fastjson &gt;=1.2.69</p>
+<p>fastjson sec version > = sec10</p>
+<p><br/></p>
+<p><strong>[Fix Recommendation]</strong></p>
+<p>1. Upgrade to a secure version</p>
+<p>2. fastjson introduces safeMode in 1.2.68 and the later versions, and autoType is supported for neither black list or white list after safeMode is configured, so as to mitigate deserialization Gadgets attack variations to a certain extent (please note the assessment on impacts of disabling autoType on businesses). For the enabling method, please refer to: <a href="https://github.com/alibaba/fastjson/wiki/fastjson_safemode" target="_blank" title="https://github.com/alibaba/fastjson/wiki/fastjson_safemode">https://github.com/alibaba/fastjson/wiki/fastjson_safemode</a></p>
+<p>3. If any of other json processing components is used instead, jackson-databind vulnerabilities will take place frequently as well. Gson is suggested</p>
+<p><br/></p>
+<p><strong>[Relevant Links]</strong></p>
+<p><a href="https://github.com/alibaba/fastjson/releases/tag/1.2.69" target="_blank" title="https://github.com/alibaba/fastjson/releases/tag/1.2.69">https://github.com/alibaba/fastjson/releases/tag/1.2.69</a></p>
+<p><br/></p>

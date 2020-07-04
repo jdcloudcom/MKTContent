@@ -1,0 +1,47 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体"> </span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">Recently, JD Cloud Security Team monitored that Apache Spark disclosed a remote code execution vulnerability (CVE-2020-9480) existing in Spark 2.4.5 and previous versions. The attacker may utilize the vulnerability to start the application resources on Spark cluster remotely and therefore cause the execution of any command.</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Description]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; </span>
+<span style="font-size:16px;font-family:宋体">In Apache Spark 2.4.5 and previous versions, the primary server of an independent resource manager can be configured as requiring a shared key pair for verification (spark.authenticate). However, when the configuration is enabled, the attacker may create a malicious RPC request and send it to the primary server, and start the application resources on Spark cluster without any shared key pair. Therefore, the attacker may utilize the vulnerability to execute any malicious command on the target machine.</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Rating]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">High Risk</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Affected Version]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Apache Spark 2.4.5 </span>
+<span style="font-size:16px;font-family:宋体">and previous versions.</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Secure Version]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Apache Spark 2.4.6</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Apache Spark 3.0.0</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Fix Recommendation]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Upgrade Apache Spark to 2.4.6 or 3.0.0 version.</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Relevant Links]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://spark.apache.org/security.html</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://www.mail-archive.com/user@spark.apache.org/msg74361.html</span>
+</p>
+<p><br/></p>

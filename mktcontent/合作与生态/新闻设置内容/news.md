@@ -1950,5 +1950,13 @@
 		"jss_key":"News_Content_813",
 		"id":813,
 		"news_title":"\"New tools\" stimulate \"new forces\"  Cloud Beijing, the \"twin\" of digital technology - Records of JD Cloud & AI scientific and technical products help Beijing fight against the epidemic and promote work resumption"
+	},
+	{
+		"summary":"The message from JD \"618 Global Mid-year Shopping Festival\" showed that JD created another new record: from 0:00 on June 1 to 24:00 on June 18, 2020, the accumulative order amount during the Festival reached RMB 269.2 billion, a year-on-year growth of 33.6%. During the Festival, JD Cloud & AI \"618 Cloud Market·City Carnival\" cooperated with over 40 cities and achieved a good result with the GMV of more than RMB 4 billion.",
+		"image_url":"//img1.jcloudcs.com/cms/4f26c1b0-3b00-43bf-a8ed-cdda8ee1a0de20200622100738.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_821",
+		"jss_key":"News_Content_821",
+		"id":821,
+		"news_title":"JD Cloud & AI Achieves GMV of More than RMB 4 Billion on \"618 Cloud Market\""
 	}
 ]

@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Anti-DDoS Premium Service\",\"label\":[{\"TitleName\":\"Ticket Consulting\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=4&questionId=1010\",\"classTag\":\"\"}],\"desc\":\"Anti-DDoS Premium Service provides professional anti-DDoS protection solutions to users, and provides such customized services as near-source cleaning, traffic suppression, DNS refresh based on the user application scenarios.\"}",
+		"id":2075
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Near-source Protection\",\"proName\":\"Near-source cleaning is provided for massive DDoS attacks, and traffic block and authoritative DNS take effect in seconds synchronously, to effectively mitigate user origin server protection pressure.\"},{\"showShade\":false,\"proGood\":\"Insight into Customer Business Scenarios\",\"proName\":\"Comprehensive analysis is provided on security threats faced by customers, and dedicated anti-DDoS protection solutions are provided for major business activities of customers.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Real-time Response\",\"proName\":\"7*24h remote support is provided, and real-time monitoring is carried out for attack trend and business health, to guarantee the sustained and stable operation of businesses.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Flexible Billing\",\"proName\":\"Customization of service contents based on customer scenarios is supported, and flexible billing is provided to help customers save costs.\"}]",
+		"id":2076
+	},
+	{
+		"txt":"[{\"funcName\":\"Near-source Cleaning\",\"funcContent\":[{\"funcTitle\":\"DDoS Attack Near-source Cleaning\",\"funcP\":\"DDoS attack traffic cleaning for ISP lines is provided to users of JD Cloud & AI anti-DDoS protection products to mitigate their protection pressure on Anti-DDoS Pro instances and origin servers on JD Cloud & AI and reduce the probability of black holes to a certain extent.\"}]},{\"funcName\":\"Traffic Suppression\",\"funcContent\":[{\"funcTitle\":\"Autonomous Traffic Block\",\"funcP\":\"Based on the attack traffic trend and the distribution of attack source regions, users may autonomously select to block certain traffic, e.g. overseas traffic.\"}]},{\"funcName\":\"DNS Refresh\",\"funcContent\":[{\"funcTitle\":\"Authoritative DNS Synchronization\",\"funcP\":\"Synchronization with authoritative DNS takes effect in seconds to guarantee the stable access of business.\"}]}]",
+		"id":2077
+	},
+	{
+		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/anti-ddos-premium-service/product-overview\",\"classTag\":\"\"},{\"name\":\"Getting Started\",\"link\":\"https://docs.jdcloud.com/anti-ddos-premium-service/getting-started\",\"classTag\":\"\"},{\"name\":\"Pricing\",\"link\":\"https://docs.jdcloud.com/anti-ddos-premium-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":2106
+	}
+]
