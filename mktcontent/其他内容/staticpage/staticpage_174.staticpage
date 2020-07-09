@@ -45,6 +45,23 @@
         <div class="panel col-carousel">
                 <div class="swiper-container CH-carousel-type-1 sw">
                 <div class="swiper-wrapper">
+					<div class="swiper-slide">
+                        <div class="CH-carousel-container">
+                            <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-rwd2.png"
+                                 class="CH-carousel-img-m">
+                            <div class="fs-slide-ct">
+                                <div class="fs-slide-txt">
+                                    <h3 class="CH-carousel-title">企业级DevOps开发云平<br>台，企业效能持续提升</h3>
+                                    <p class="CH-carousel-desc">源于京东体系多年的能力沉淀与最佳实践。</p>
+
+                                </div>
+                                <a href="https://www.jdcloud.com/cn/solutions/devcloud" class="CH-carousel-button"
+                                   target="_blank" clstag="fintech|keycount|banner|devcloud">查看详情</a>
+                            </div>
+                            <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-pc2.png"
+                                 class="CH-carousel-img-pc">
+                        </div>
+                    </div>
                     <div class="swiper-slide">
                         <div class="CH-carousel-container">
                             <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-01-m.png" class="CH-carousel-img-m">
@@ -58,24 +75,7 @@
                             </div>
                             <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-pc.png" class="CH-carousel-img-pc"/>
                         </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="CH-carousel-container">
-                            <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-rwd2.png"
-                                 class="CH-carousel-img-m">
-                            <div class="fs-slide-ct">
-                                <div class="fs-slide-txt">
-                                    <h3 class="CH-carousel-title">企业级DevOps开发云平<br>台，企业效能持续提升</h3>
-                                    <p class="CH-carousel-desc">源于京东体系多年的能力沉淀与最佳实践。</p>
-
-                                </div>
-                                <a href="https://neufoundry.jdcloud.com/" class="CH-carousel-button"
-                                   target="_blank" clstag="AIChannel|keycount|banner|neufoundry">立即咨询</a>
-                            </div>
-                            <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-pc2.png"
-                                 class="CH-carousel-img-pc">
-                        </div>
-                    </div>
+                    </div>                    
                 </div>
                 <div class="swiper-pagination"></div>
             </div>
@@ -165,7 +165,7 @@
 									<h3 class="CH-card-title">DevOps开发云解决方案</h3>
 								</div>
 								<div class="CH-card-body">
-									<p class="CH-card-desc">企业级一站式研发运营效能平台，源于京东体系多年的能力沉淀与最佳实践，对外技术赋能。覆盖开发测试运维全流程，助力企业研发效能持续改进。</p>
+									<p class="CH-card-desc">企业级一站式研发运营效能平台，源于京东体系多年的能力沉淀与最佳实践。覆盖开发测试运维全流程，助力企业研发效能持续改进。</p>
 
 									<ul class="CH-list">
 										<li class="CH-list-item">十万级超大管理规模，数万级高并发能力</li>
@@ -238,7 +238,7 @@
 									<ul class="CH-list">
 										<li class="CH-list-item">敏捷、DevOps咨询服务，提升研发管理能力</li>
 										<li class="CH-list-item">容器和微服务落地咨询服务</li>
-										<li class="CH-list-item">大规模管理经验和运营理念助力企业效能提升</li>
+										<li class="CH-list-item">丰富管理经验和运营理念助力企业效能提升</li>
 									</ul>
 								</div>
 								<div class="CH-card-footer">
@@ -578,7 +578,7 @@
 									<h3 class="CH-card-title">DevOps开发云解决方案</h3>
 								</div>
 								<div class="CH-card-body">
-									<p class="CH-card-desc">企业级一站式研发运营效能平台，源于京东体系多年的能力沉淀与最佳实践，对外技术赋能。覆盖开发测试运维全流程，助力企业研发效能持续改进。</p>
+									<p class="CH-card-desc">企业级一站式研发运营效能平台，源于京东体系多年的能力沉淀与最佳实践。覆盖开发测试运维全流程，助力企业研发效能持续改进。</p>
 
 									<ul class="CH-list">
 										<li class="CH-list-item">十万级超大管理规模，数万级高并发能力</li>
@@ -645,7 +645,7 @@
 									<ul class="CH-list">
 										<li class="CH-list-item">敏捷、DevOps咨询服务，提升研发管理能力</li>
 										<li class="CH-list-item">容器和微服务落地咨询服务</li>
-										<li class="CH-list-item">大规模管理经验和运营理念助力企业效能提升</li>
+										<li class="CH-list-item">丰富管理经验和运营理念助力企业效能提升</li>
 									</ul>
 								</div>
 								<div class="CH-card-footer">
