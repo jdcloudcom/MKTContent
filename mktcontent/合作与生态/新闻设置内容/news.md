@@ -2150,5 +2150,21 @@
 		"jss_key":"News_Content_824",
 		"id":824,
 		"news_title":"以人工智能助力经济复苏 京东智联云获评“企业创新服务案例”奖"
+	},
+	{
+		"summary":"为了解决传统的培训类型多导致的培训客服教师工作压力大、培训形式不灵活、跟踪管理困难等问题，京东智联云推出智能客服培训产品，该产品搭载京东智能客服培训系统，利用实时语音识别、语音合成、语音质检等AI技术模拟真实业务场景进行语音对练，辅助教师进行培训，提高培训质量。",
+		"image_url":"//img1.jcloudcs.com/cms/5a76e695-d5ca-428d-91c9-5be8a0df96d220200710100543.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_825",
+		"jss_key":"News_Content_825",
+		"id":825,
+		"news_title":"“机器人”夫子桃李满天下  京东智联云智能客服持续高光"
+	},
+	{
+		"summary":"近日，京东智联云联合四维智联发布旗舰新品“京鱼座&抖8”智能网联车机M6。该产品是一款车载智能网联终端产品，在具备实时在线导航和音乐的基础功能上，独创性的引入京东车主出行服务生态，致力于打通车内和家庭两个空间，服务无缝衔接，为用户带来便捷的出行方式和智能的生活体验。",
+		"image_url":"//img1.jcloudcs.com/cms/ef33639e-a209-43cd-be1d-509441429d0a20200710165902.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_826",
+		"jss_key":"News_Content_826",
+		"id":826,
+		"news_title":"京东智联云：让汽车智能变得简单有温度"
 	}
 ]
