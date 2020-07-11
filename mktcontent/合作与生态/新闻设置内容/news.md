@@ -1958,5 +1958,21 @@
 		"jss_key":"News_Content_821",
 		"id":821,
 		"news_title":"JD Cloud & AI Achieves GMV of More than RMB 4 Billion on \"618 Cloud Market\""
+	},
+	{
+		"summary":"JDWhale Smart Screen i8 Pro is priced at RMB 599. From April 21, you can pay RMB 1 to get a RMB 100 coupon in the new product promotion, and by April 28, you only need to pay totally RMB 500 for the product by paying RMB 1 in advance as the earnest money. The product will be first launched online and offline on April 28. It will be available online in the JDWhale Flagship Store and the customized version for deep cooperation with China Unicom will be available offline in some outlets of China Unicom. There will be three new product promotions available.",
+		"image_url":"//img1.jcloudcs.com/cms/e42bf27d-7921-4ac4-bcc2-0fec046035bf20200702100031.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_822",
+		"jss_key":"News_Content_822",
+		"id":822,
+		"news_title":"JD Cloud & AI Releases New Product JDWhale Smart Screen i8 Pro  Witness Love Connections with \"IoT\""
+	},
+	{
+		"summary":"JDWhale Bluetooth Slim Waist is priced at RMB 69 or higher with four colors, namely, red, grey, blue and green. With a graceful curve like a slim waist and fashion colors, this product will bring pleasing experience to our eyes; besides, with a portable lanyard design, this product will be a super-excellent fashion item to match with shoulder bags and carrier bags. This product was first launched and sold in the Flagship Store self-run by JDWhale on May 13.",
+		"image_url":"//img1.jcloudcs.com/cms/e53ae810-5ce5-490c-993f-1049210fb3b620200702101032.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_823",
+		"jss_key":"News_Content_823",
+		"id":823,
+		"news_title":"JD Cloud & AI Releases New Product Slim Waist Bluetooth Speaker Listen to Sound Music Anytime and Anywhere"
 	}
 ]

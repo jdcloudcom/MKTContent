@@ -508,5 +508,10 @@
 		"description":"JD Cloud City Brain· Urban Emergency",
 		"id":200,
 		"title":"JD Cloud City Brain· Urban Emergency"
+	},
+	{
+		"description":"JD saw a new high at 618 Grand Promotion: RMB 269.2 billion. The powerful player behind the Grand Promotion, JD Cloud & AI Security, successfully recognized/intercepted 3.23 billion attacks with the peak value of DDoS prevention reaching 800GBps and successfully resisted 1.15 billion CC attacks, thus securing businesses.",
+		"id":209,
+		"title":"JD Cloud & AI Security Trinity"
 	}
 ]

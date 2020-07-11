@@ -222,5 +222,13 @@
 		"id":700,
 		"partner_label":"Product Solution Partner",
 		"tableName":"cms_partner"
+	},
+	{
+		"name":"Anhui Weigu Internet Technology Co., Ltd.",
+		"description":"Edge Computing Service Provider, Distributor and Agent.",
+		"short_name":"Anhui Weihu",
+		"id":701,
+		"partner_label":"Distribution Channel Partner",
+		"tableName":"cms_partner"
 	}
 ]
