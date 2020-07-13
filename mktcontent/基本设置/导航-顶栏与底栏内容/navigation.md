@@ -4589,5 +4589,20 @@
 		"name":"边缘托管服务",
 		"description":"覆盖海量边缘节点，提供设备托管服务",
 		"id":6015
+	},
+	{
+		"name":"SaaS 加速器",
+		"description":"SaaS 加速器",
+		"id":6017
+	},
+	{
+		"name":"SaaS 加速器",
+		"description":"SaaS 加速器",
+		"id":6019
+	},
+	{
+		"name":"SaaS 加速器伙伴招募",
+		"description":"SaaS 加速器伙伴招募",
+		"id":6021
 	}
 ]
