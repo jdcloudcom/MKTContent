@@ -2166,5 +2166,13 @@
 		"jss_key":"News_Content_826",
 		"id":826,
 		"news_title":"京东智联云：让汽车智能变得简单有温度"
+	},
+	{
+		"summary":"作为京东集团技术与服务输出的核心通道，京东智联云携三大赋能平台和一揽子扶持政策，适时推出“SaaS加速器”计划。以技术开放、业务赋能及商业共创等平台能力，在技术研发、产品商业化、渠道商机获取等层面为SaaS服务提供商赋能。",
+		"image_url":"//img1.jcloudcs.com/cms/cc9b843e-ec7d-4f22-bad0-7594dadd2aa120200713110220.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_827",
+		"jss_key":"News_Content_827",
+		"id":827,
+		"news_title":"以产业平台助燃生态布局 京东智联云发布“SaaS加速器”"
 	}
 ]
