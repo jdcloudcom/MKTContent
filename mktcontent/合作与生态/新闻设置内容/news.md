@@ -2174,5 +2174,13 @@
 		"jss_key":"News_Content_827",
 		"id":827,
 		"news_title":"以产业平台助燃生态布局 京东智联云发布“SaaS加速器”"
+	},
+	{
+		"summary":"近日，由CSDN主办的第三届AI开发者大会（AI ProCon 2020）在线上直播举行。CSDN\"百万人学AI\"评选活动结果在会上重磅揭晓，京东智联云凭借“智能视联网平台-秸秆焚烧监测系统”从数百家企业中脱颖而出，入选“AI优秀案例实践奖TOP30”。",
+		"image_url":"//img1.jcloudcs.com/cms/856a8588-4dd7-4b4e-9c63-461e49d3557020200714122201.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_828",
+		"jss_key":"News_Content_828",
+		"id":828,
+		"news_title":"京东智联云智能视联网荣获CSDN“AI优秀案例实践”奖"
 	}
 ]
