@@ -1,0 +1,46 @@
+<p><span style="font-family: 宋体; text-indent: 28px;">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测到Oracle官方发布季度安全公告，其中修复了一个CVSS评分为9.8的严重漏洞(CVE-2020-14645)的weblogic反序列化远程代码执行漏洞，该漏洞通过T3协议进行利用，复杂度低，风险高，建议尽快修复</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; WebLogic</span>
+<span style="font-size:16px;font-family:宋体">是Oracle公司出品的用于开发、集成、部署和管理大型分布式Web应用、网络应用和数据库应用的Java应用服务器，全球使用广泛。WebLogic的远程方法调用RMI通信使用T3协议，而T3协议与HTTP协议复用7001端口。本漏洞是之前的补丁修复不全面，存在绕过方式。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Oracle WebLogic Server 12.2.1.4</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-size:16px;font-family:宋体">1.<span style="font-variant-numeric: normal;font-variant-east-asian: normal;font-stretch: normal;font-size: 9px;line-height: normal;font-family: &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">升级到安全版本。安装官方补丁：<br/> </span>
+<a href="https://www.oracle.com/security-alerts/cpujul2020.html"><span style="font-size:16px;font-family:宋体">https://www.oracle.com/security-alerts/cpujul2020.html</span>
+</a></p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-size:16px;font-family:宋体">2.<span style="font-variant-numeric: normal;font-variant-east-asian: normal;font-stretch: normal;font-size: 9px;line-height: normal;font-family: &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">限制T3访问来源。漏洞产生于WebLogic默认启用的T3协议，因此可通过限制T3访问来源来阻止攻击</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"></span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://support.oracle.com" _src="https://support.oracle.com">&nbsp;https://support.oracle.com</a> </span>
+</p>
+<p><br/></p>
+<p><br/></p>
