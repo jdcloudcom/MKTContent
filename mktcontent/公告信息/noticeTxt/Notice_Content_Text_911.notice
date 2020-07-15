@@ -1,0 +1,115 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">2020</span>
+<span style="font-size:16px;font-family:宋体">年7月15日，京东云安全团队监测微软发布补丁修复了一个标注为远程代码执行的DNS Server漏洞（代号SigRed），官方分类为“可蠕虫级”高危漏洞，易受攻击的漏洞有可能通过恶意软件在易受攻击的计算机之间传播，而无需用户干预。CVSS评分10分（即高危且易利用）。当DNS服务器解析传入的查询或对转发请求响应时，可以利用该漏洞。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; </span>
+<span style="font-size:16px;font-family:宋体">未经身份验证的攻击者可以发送包含SIG记录（大于64KB）的DNS响应数据包到目标DNS Server来利用此漏洞，成功利用此漏洞可能造成基于堆的缓冲区溢出，进而达到远程代码执行的效果。如果域控制器上存在DNS服务，攻击者可利用此漏洞获取到域控制器的系统权限。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 for 32-bit Systems Service Pack 2</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 for x64-based Systems Service Pack 2</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 R2 for x64-based Systems Service Pack 1</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2012</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2012 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2012 R2</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2012 R2 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2016</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2016 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2019</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2019 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server, version 1909 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server, version 1903 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server, version 2004 (Server Core installation)</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">1</span>
+<span style="font-size: 16px;font-family:宋体">．微软官方已针对受影响系统发布安全补丁，强烈建议相关用户尽快安装补丁更新。补丁升级，参考链接:</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体;color:windowtext;text-underline: none"><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350"></a></span>
+<a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350" style="font-family: 宋体;"><strong>https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350</strong></a></p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline"><span style="font-size:16px;font-family: 宋体">2</span>
+<span style="font-size:16px;font-family:宋体">．在应用补丁之前，建议将DNS消息（通过TCP）的最大长度设置为0xFF00缓解漏洞。可以通过执行以下命令实现：</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DNS\Parameters” /v “TcpReceivePacketSize” /t REG_DWORD /d 0xFF00 /f</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">然后，重启DNS服务生效</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350</a></p>
+<p><a href="https://research.checkpoint.com/2020/resolving-your-way-into-domain-admin-exploiting-a-17-year-old-bug-in-windows-dns-servers/">https://research.checkpoint.com/2020/resolving-your-way-into-domain-admin-exploiting-a-17-year-old-bug-in-windows-dns-servers/</a></p>
+<p><br/></p>
