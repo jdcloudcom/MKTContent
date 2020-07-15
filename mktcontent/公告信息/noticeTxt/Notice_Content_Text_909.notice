@@ -1,0 +1,88 @@
+<p><span style="font-family: 宋体;">您好！</span>
+</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">为了提升产品稳定性和用户体验，京东智联云计划于</span>
+2020<span style="font-family:宋体">年</span>
+7<span style="font-family:宋体">月</span>
+16<span style="font-family:宋体">日（本周四）</span>
+ <span style="font-family:宋体">晚</span>
+21:00:00<span style="font-family:宋体">至</span>
+23:00:00 <span style="font-family:宋体">，<span style="color:black;background:#F8FAFC">针对云主机、云硬盘、云网络及相关服务，进行华东</span>
+</span>
+<span style="color:black;background:#F8FAFC">-</span>
+<span style="font-family:宋体;color:black;background:#F8FAFC">宿迁地域的后端管理运维操作</span>
+<span style="font-family:宋体">，影响如下：</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif">&nbsp; </span>
+<span style="font-family:宋体">弹性公网</span>
+IP&amp;NAT<span style="font-family:宋体">网关在运维操作期间，华东</span>
+-<span style="font-family:宋体">宿迁地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的</span>
+OpenAPI<span style="font-family:宋体">服务约</span>
+2<span style="font-family:宋体">分钟；</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif">&nbsp; </span>
+<span style="font-family:宋体">负载均衡在运维操作期间，华东</span>
+-<span style="font-family:宋体">宿迁地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的</span>
+OpenAPI<span style="font-family:宋体">服务约</span>
+2<span style="font-family:宋体">分钟；</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif">&nbsp; </span>
+<span style="font-family:宋体">专线连接</span>
+&amp;<span style="font-family:宋体">托管连接</span>
+&amp;VPN<span style="font-family:宋体">连接在运维操作期间，华东</span>
+-<span style="font-family:宋体">宿迁地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的</span>
+OpenAPI<span style="font-family:宋体">服务约</span>
+2<span style="font-family:宋体">分钟；</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif">&nbsp; </span>
+<span style="font-family:宋体">云主机</span>
+&amp;<span style="font-family:宋体">实例模板</span>
+&amp;<span style="font-family:宋体">镜像</span>
+&amp;SSH<span style="font-family:宋体">密钥在运维操作期间，华东</span>
+-<span style="font-family:宋体">宿迁地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的</span>
+OpenAPI<span style="font-family:宋体">服务约</span>
+2<span style="font-family:宋体">分钟；</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif">&nbsp; </span>
+<span style="font-family:宋体">原生容器</span>
+&amp; Kubernetes<span style="font-family:宋体">集群在运维操作期间，华东</span>
+-<span style="font-family:宋体">宿迁地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的</span>
+OpenAPI<span style="font-family:宋体">服务约</span>
+2<span style="font-family:宋体">分钟；</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif">&nbsp; </span>
+<span style="font-family:宋体">云硬盘</span>
+&amp;<span style="font-family:宋体">云文件服务在运维操作期间，华东</span>
+-<span style="font-family:宋体">宿迁地域不可进行控制台操作，暂停创建、调整配置、删除、查询等功能的</span>
+OpenAPI<span style="font-family:宋体">服务约</span>
+2<span style="font-family:宋体">分钟；</span>
+</p>
+<p style="text-indent:28px">&nbsp;</p>
+<p style="text-indent:28px"><span style="font-family:宋体">除以上产品之外，如下业务也将受影响</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif">&nbsp; </span>
+<span style="font-family:宋体">官网促销：在运维操作期间，线上相关促销活动、可能出现临时访问异常，请提前安排相关业务的购买。</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">Ø</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif">&nbsp; </span>
+<span style="font-family:宋体">京东智联云</span>
+APP<span style="font-family:宋体">：在运维操作期间，如上产品的创建、调整配置、删除、查询功能，将提示</span>
+“<span style="font-family:宋体">网络异常，请重试</span>
+”<span style="font-family:宋体">。</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-indent:0"><span style="font-family:宋体">&nbsp;</span>
+</p>
+<p><strong><span style="font-family:宋体">此次功能升级不影响您所有地域的已有业务运行</span>
+</strong><span style="font-family:宋体">。运维操作完成后，控制台相关功能及</span>
+OpenAPI<span style="font-family:宋体">对应接口将恢复正常使用。</span>
+</p>
+<p><span style="font-family:宋体">上线期间如果遇到相关问题，请您随时与京东智联云客服联系（电话：</span>
+4006151212<span style="font-family:宋体">），感谢您对京东智联云的支持。</span>
+</p>
