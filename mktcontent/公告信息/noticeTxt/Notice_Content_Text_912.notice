@@ -1,0 +1,5 @@
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style=";font-family:&#39;微软雅黑&#39;,sans-serif;color:#333333;background:white">您好</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif;color:#333333"><br/></span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif;color:#333333;background:white">&nbsp; &nbsp; &nbsp; 京东智联云计划于7月16日 22:00-23:00 进行华北地域 Kubernetes1.16版本集群升级维护。升级后1.16版本集群新建节点将使用新版本镜像。本次操作时间约2分钟，操作过程中，用户新建1.16版本集群或对1.16版本集群工作节点组做伸缩操作可能会受影响。升级过程不影响集群已有业务的正常运行，不影响其他版本集群操作。以上升级信息请您了解，如需帮助请您与我们工单或电话联系（4006151212），感谢您的支持。</span>
+</p>
+<p><br/></p>
