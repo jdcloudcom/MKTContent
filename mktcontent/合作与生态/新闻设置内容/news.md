@@ -2182,5 +2182,13 @@
 		"jss_key":"News_Content_828",
 		"id":828,
 		"news_title":"京东智联云智能视联网荣获CSDN“AI优秀案例实践”奖"
+	},
+	{
+		"summary":"基于先进的AI技术和强大项目实战能力，为培养更多专业人工智能人才，京东经过长时间打磨，面向大众学员推出“NLP实战训练营”, 让每一位学员切切实实接触到企业级的AI项目资源，从实战中提升自己。",
+		"image_url":"//img1.jcloudcs.com/cms/81f30953-4c9a-41eb-a539-ba54309e69c320200716130724.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_829",
+		"jss_key":"News_Content_829",
+		"id":829,
+		"news_title":"哈佛、剑桥学生都青睐的京东智联云NLP实战训练营开营"
 	}
 ]
