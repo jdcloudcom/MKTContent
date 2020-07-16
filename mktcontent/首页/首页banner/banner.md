@@ -1373,16 +1373,23 @@
 	},
 	{
 		"sub_title":"",
-		"name":"超级爆款",
+		"name":"超级爆款2期",
 		"id":1256,
 		"button_title":"",
 		"main_title":""
 	},
 	{
-		"sub_title":"京东智联云技术沙龙·线上直播",
+		"sub_title":"京东智联云技术沙龙 · 线上直播",
 		"name":"揭秘京东618大促背后的技术基石",
 		"id":1258,
 		"button_title":"点击报名",
-		"main_title":"揭秘京东618大促背后的技术基石"
+		"main_title":"揭秘618背后的技术基石"
+	},
+	{
+		"sub_title":"",
+		"name":"超级直播",
+		"id":1260,
+		"button_title":"",
+		"main_title":""
 	}
 ]
