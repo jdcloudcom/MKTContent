@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"增值业务\",\"label\":[],\"desc\":\"是指京东智联云在提供IDC基础业务产品之上，向客户提供资源管理、网络监控、硬件方案、运行维护等各类增值业务的产品，客户可根据自身业务特点选择适合的服务产品。\"}",
+		"id":2102
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"按需定制\",\"proName\":\"产品丰富，可为客户量身定制各项需求，服务专业。\"},{\"showShade\":false,\"proGood\":\"成本可控\",\"proName\":\"资费低，且对客户增值业务所涉及资源进行统一调度，有效降低成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"专业省心\",\"proName\":\"由资深专业技术团队为客户提供各项服务保障及技术支持。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"快速交付\",\"proName\":\"提供基于流水线的敏捷交付体系，通过自动化、标准化的方式加速交付速度。\"}]",
+		"id":2103
+	},
+	{
+		"txt":"[{\"funcName\":\"资产管理服务\",\"funcContent\":[{\"funcTitle\":\"资产管理服务\",\"funcP\":\"为客户提供专业的IDC资产全生命周期管理，包括资产验收、硬件检测、日常盘点、资产调配、资产报废处置、管理制度设计、管理流程改善、数字化解决方案设计、转型管理支持等管理服务。\\n\"}]},{\"funcName\":\"服务器与网络监控服务\",\"funcContent\":[{\"funcTitle\":\"服务器与网络监控服务\",\"funcP\":\"服务器监控为针对服务器硬件状态的监控，帮助服务器运维和使用者，掌握其健康状态，及时发现异常。 网络监控为实时监控客户网络设备及其服务状况，通过告警以及各种实时数据报表，帮助网络运维人员及时发现基础网络异常。\\n\"}]},{\"funcName\":\"硬件解决方案服务\",\"funcContent\":[{\"funcTitle\":\"硬件解决方案服务\",\"funcP\":\"根据您的应用和环境需求，结合京东在数据中心硬件技术和生态上的积淀，为您量身定制硬件解决方案，可覆盖不同规模客户对计算、存储、网络等各模块的硬件需求。\\n\"}]}]",
+		"id":2104
+	},
+	{
+		"txt":"[{\"name\":\"资产管理服务\",\"instruction\":\"基于客户目前的资产体量，以及未来发展与规划，对资产信息进行收集、分析、搜索、挖掘。京东智联云为客户提供资产全生命周期的管理，使资产的使用率提升、闲置率下降，储存安全无忧。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/5b324431-41f3-4969-901f-858cc731e71920200612140253.png\",\"showShade\":false},{\"name\":\"网络监控服务\",\"instruction\":\"企业用户需要对京东智联云托管区的网络流量使用情况进行实时监控，可通过可视化图表查看网络流量使用情况，可对网络流量根据自身业务形态设置告警规则，通过短信、邮件、电话等方式接收告警。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/95aecc1a-b422-45bb-bcb1-13fc304d87bd20200612140326.png\",\"showShade\":false},{\"name\":\"硬件解决方案\",\"instruction\":\"根据客户的应用需求，结合京东多年来积累的硬件选型经验和对硬件技术、供应链的深入了解，提供服务器、网络设备及部件的测试选型服务。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e1af4f10-7e0e-4ff4-b165-250128bc5be820200612140625.png\",\"showShade\":false}]",
+		"id":2105
+	}
+]
