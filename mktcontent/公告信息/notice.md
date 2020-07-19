@@ -818,5 +818,9 @@
 	{
 		"id":906,
 		"title":"\\[Vulnerability Warning\\]Apache Spark Remote Code Execution Vulnerability Security Announcement (CVE-2020-9480)"
+	},
+	{
+		"id":907,
+		"title":"Notice on Automatic Upgrade of Virtual Machines System Component JCS-Agent"
 	}
 ]

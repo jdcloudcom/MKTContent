@@ -225,7 +225,7 @@
 	},
 	{
 		"name":"Anhui Weigu Internet Technology Co., Ltd.",
-		"description":"Edge Computing Service Provider, Distributor and Agent.",
+		"description":"Anhui Weigu Internet Technology Co., Ltd. is a technology company providing enterprises and merchants with refined operational products in East China. (Business Scope) The strategic direction of the company is to take full advantage of the development trend of edge computing by relying on the advantage of big data capacities, and play the role of strategic distributor platform to provide merchants and enterprises with refined operational products and services. The distribution channels of the company include the selling networks in five major regions, namely East China, South China, West China, North China and Central China.",
 		"short_name":"Anhui Weihu",
 		"id":701,
 		"partner_label":"Distribution Channel Partner",

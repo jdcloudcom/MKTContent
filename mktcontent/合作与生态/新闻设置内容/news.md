@@ -1974,5 +1974,29 @@
 		"jss_key":"News_Content_823",
 		"id":823,
 		"news_title":"JD Cloud & AI Releases New Product Slim Waist Bluetooth Speaker Listen to Sound Music Anytime and Anywhere"
+	},
+	{
+		"summary":"Following the \"appearance\" on CCTV with its full-matrix technical force, JD Cloud & AI once more won the award \"Enterprise Innovation Services Case\" for a series of scientific and technological \"anti-epidemic\" measures during the outbreak. This means that JD Cloud & AI has become a new \"engine\" assisting enterprises in work and production resumption and our country in economic recovery with its extraordinary capacities of digital technology strategy and high-quality services. With more emphasis on the continuous output of technological capability value for the country, JD Cloud & AI has provided the society with an enterprise representative strength model.",
+		"image_url":"//img1.jcloudcs.com/cms/226f55a7-a681-4f29-8747-774d3da3108c20200709095025.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_824",
+		"jss_key":"News_Content_824",
+		"id":824,
+		"news_title":"Assisting in Economic Recovery with AI, JD Cloud & AI Won the \"Enterprise Innovation Service Case\" Award"
+	},
+	{
+		"summary":"In order to solve the problems due to a large number of traditional training types, such as heavy work pressure of customer service training teachers, inflexible training forms and difficulty in follow-up management, JD Cloud & AI launched an intelligent customer service training product. This product is mounted to JD’s intelligent customer service training system. By using AI technologies such as real-time Automatic Speech Recognition, Text to Speech and Automatic Speech Quality Assessment to stimulate real business scenarios for speech pair exercise, the product can assist teachers in training and improve training quality.",
+		"image_url":"//img1.jcloudcs.com/cms/5a76e695-d5ca-428d-91c9-5be8a0df96d220200710100543.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_825",
+		"jss_key":"News_Content_825",
+		"id":825,
+		"news_title":"\"Robot\" Master Has Students All Over the Country  JD Cloud & AI Intelligent Customer Service Shines Continuously"
+	},
+	{
+		"summary":"Recently, JD Cloud & AI joined hands with AUTOAI to release a new flagship product \"JDWhale & Dou8\", an intelligent network in-vehicle infotainment product M6. This product is an on-board intelligent network terminal product. With the basic functions of real-time online navigation and music, it is uniquely introduced with JD’s travel service ecology for vehicle owners, committed to connecting in-vehicle space and family space to seamlessly fuse services and bring users a more convenient travel mode and intelligent life experience.",
+		"image_url":"//img1.jcloudcs.com/cms/ef33639e-a209-43cd-be1d-509441429d0a20200710165902.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_826",
+		"jss_key":"News_Content_826",
+		"id":826,
+		"news_title":"JD Cloud & AI: Make Automobile Intelligence Easy and Warm"
 	}
 ]
