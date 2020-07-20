@@ -1391,5 +1391,12 @@
 		"id":1260,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"超级ISV",
+		"id":1262,
+		"button_title":"",
+		"main_title":""
 	}
 ]
