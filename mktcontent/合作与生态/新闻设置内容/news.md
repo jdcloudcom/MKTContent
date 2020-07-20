@@ -2190,5 +2190,13 @@
 		"jss_key":"News_Content_829",
 		"id":829,
 		"news_title":"哈佛、剑桥学生都青睐的京东智联云NLP实战训练营开营"
+	},
+	{
+		"summary":"如今，随着消费者个性化需求增多，在网上选购商品前后对于客服服务的需求日趋增多。对于用户，大量的需求则会增加服务的等待时间。京东智联云为此开发出京东在线智能情感客服机器人，涵盖售前咨询、售后服务等各个环节，比人工客服响应更加迅速，效率更高。",
+		"image_url":"//img1.jcloudcs.com/cms/95f469cb-cddd-4da8-98d3-0049a1fe0b2d20200717165703.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_830",
+		"jss_key":"News_Content_830",
+		"id":830,
+		"news_title":"猜你所想 京东智联云情感客服助你购物省心省力"
 	}
 ]
