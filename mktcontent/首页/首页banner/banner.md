@@ -1398,5 +1398,12 @@
 		"id":1262,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"新人千元礼包",
+		"id":1264,
+		"button_title":"",
+		"main_title":""
 	}
 ]
