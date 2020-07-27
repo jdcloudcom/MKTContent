@@ -1,0 +1,7 @@
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left"><span style=";font-family:&#39;微软雅黑&#39;,sans-serif;color:#333333;background:white"></span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif;color:#333333"><br/></span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif;color:#333333;background:white">&nbsp; &nbsp; &nbsp; 
+JD Cloud & AI plans to upgrade and maintain JCS for Kubernetes 1.16 on July 16 at 22:00-23:00 in North China. After the upgrade, JCS for Kubernetes 1.16 will create nodes with the new version of image. The operation lasts 2 minutes. During the operation, the creation of JCS for Kubernetes 1.16 or scaling of JCS for Kubernetes 1.16 working node groups may be affected. The upgrade will not affect the normal running of existing services of JCS for Kubernetes and the operations of other versions. Please pay attention to the above upgrade information. If you need help, please contact us by ticket or telephone at 4006151212. Thank you for your support.
+</span>
+</p>
+<p><br/></p>

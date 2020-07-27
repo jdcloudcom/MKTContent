@@ -822,5 +822,25 @@
 	{
 		"id":907,
 		"title":"Notice on Automatic Upgrade of Virtual Machines System Component JCS-Agent"
+	},
+	{
+		"id":908,
+		"title":"JCS for Redis 2.8 Underlayer Upgrade Notice"
+	},
+	{
+		"id":909,
+		"title":"\\[cn-east-1\\] Notice on Upgrade of Virtual Machines, Cloud Disk Service, Cloud Network and Other JD Cloud Products and Services on July 16 (Thursday) at 21:00-23:00"
+	},
+	{
+		"id":910,
+		"title":"\\[Vulnerability Warning\\] Oracle WebLogic Remote Code Execution Vulnerability Security Announcement (CVE-2020-14645)"
+	},
+	{
+		"id":911,
+		"title":"\\[Vulnerability Warning\\] MicroSoft dns server Remote Code Execution Vulnerability Security Announcement (CVE-2020-1380)"
+	},
+	{
+		"id":912,
+		"title":"\\[cn-north-1\\] Notice on Upgrade of JCS for Kubernetes 1.16 on July 16 (Thursday) at 22:00-23:00"
 	}
 ]

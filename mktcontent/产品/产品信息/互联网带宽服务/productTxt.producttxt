@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Internet Bandwidth Service\",\"label\":[],\"desc\":\"JD Cloud & AI possesses complete and diversified telecommunication cooperation resources, can provide customers with high-quality, high-security and optimized network access services, and provides multiple bandwidth types such as single-line and multi-line BGP, to meet different demands of customers.\"}",
+		"id":2097
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Abundant Resources\",\"proName\":\"With the nationwide layout of key nodes, wide coverage, large capacity and strong scalability, the customer may make flexible deployment based on its own business features, which greatly reduces access latency and service experience.\"},{\"showShade\":false,\"proGood\":\"Real-time Monitoring\",\"proName\":\"Professional technical personnel are assigned to monitor the network of different nodes in a real-time manner, provide traffic analysis reports regularly, and guarantee the stable running of the customer's businesses.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Top-speed Exclusive Network\",\"proName\":\"Direct low-latency connection with the operator's backbone network provides high-availability protection for all portals, videos, software and big data analysis services. 。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Diversified Products\",\"proName\":\"It supports selection among dynamic BGP, agent broadcasting among static outlet as required, and flexible billing methods such as basic bandwidth and 95 billing.\"}]",
+		"id":2098
+	},
+	{
+		"txt":"[{\"funcName\":\"Single-line Bandwidth\",\"funcContent\":[{\"funcTitle\":\"▤\",\"funcP\":\"By static interconnection with one, two or more major operators including Telecom, Unicom and Mobile, faster mutual access can be realized between customers and these operators.\"}]},{\"funcName\":\"Agent Broadcasting Bandwidth\",\"funcContent\":[{\"funcTitle\":\"▤\",\"funcP\":\"Interconnection with all or part of major operators including Telecom, Unicom and Mobile is realized based on static routing technology. A better route can be selected to provide faster and more reliable mutual access with major operators to customers.\"}]},{\"funcName\":\"Multi-line BGP\",\"funcContent\":[{\"funcTitle\":\"▤\",\"funcP\":\"Interconnection with major operators including Telecom, Unicom and Mobile is realized via the BGP routing protocol. The optimal quality can be realized via route selection and faster mutual access is provided between customers and major operators including Telecom, Unicom, Mobile and CERNET.\"}]}]",
+		"id":2099
+	},
+	{
+		"txt":"[{\"name\":\"General Scenarios\",\"instruction\":\"It mainly aims at users requiring low cost and high bandwidth, such as download websites or regional users. \\n Scenarios such as nationwide groups and enterprise, video websites and public cloud service require inter-operator access, so BGP bandwidth is used to improve inter-operator access speed and user service experience.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7af64d7d-a619-400c-a377-ea7044640b7e20200604111508.png\",\"showShade\":false}]",
+		"id":2100
+	}
+]

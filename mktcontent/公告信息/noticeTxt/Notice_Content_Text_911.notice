@@ -1,0 +1,119 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体"></span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">2020</span>
+<span style="font-size:16px;font-family:宋体">
+On July 15, JD Cloud Security Team found a patch released by Microsoft to fix the DNS Server vulnerability (code: SigRed) labeled as remote code execution, which is classified by Microsoft as "Worm-level" high-risk vulnerability, and the vulnerable vulnerability is likely to propagate among via malicious software among vulnerable computers without any user intervention. Its CVSS rating is 10 (namely high-risk and readily usable). The vulnerability may be utilized when DNS server parses incoming queries or requests response to forwarding.
+</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Description]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; </span>
+<span style="font-size:16px;font-family:宋体">Attackers with the identity not verified can send DNS response data packages including SIG records (greater than 64KB) to target DNS Server to utilize the vulnerability and may successfully result in the heap-based buffer overflow, therefore realizing the remote code execution. If any DNS service exists on the domain controller, the attacker may use the vulnerability to obtain the system permission to the domain controller.</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Rating]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">High Risk</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Affected Version]</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 for 32-bit Systems Service Pack 2</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 for x64-based Systems Service Pack 2</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 R2 for x64-based Systems Service Pack 1</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2012</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2012 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2012 R2</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2012 R2 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2016</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2016 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2019</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server 2019 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server, version 1909 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server, version 1903 (Server Core installation)</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:13px;font-family:Symbol">·<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Windows Server, version 2004 (Server Core installation)</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Fix Recommendation]</span>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">
+1. Microsoft has released a security patch for the affected system. Relevant users are strongly suggested to install the patch and update as soon as possible. Reference link for the patch upgrade:
+</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体;color:windowtext;text-underline: none"><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350"></a></span>
+<a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350" style="font-family: 宋体;"><strong>https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350</strong></a></p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline"><span style="font-size:16px;font-family: 宋体">
+2. Before the application of the patch, you are suggested to set the maximum length of DNS message (via TCP) as 0xFF00 to mitigate the vulnerability. It can be implemented by executing the following command:
+</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DNS\Parameters” /v “TcpReceivePacketSize” /t REG_DWORD /d 0xFF00 /f</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">Then, restart DNS service to take effect</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Related Link]</span>
+</p>
+<p><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350</a></p>
+<p><a href="https://research.checkpoint.com/2020/resolving-your-way-into-domain-admin-exploiting-a-17-year-old-bug-in-windows-dns-servers/">https://research.checkpoint.com/2020/resolving-your-way-into-domain-admin-exploiting-a-17-year-old-bug-in-windows-dns-servers/</a></p>
+<p><br/></p>

@@ -1998,5 +1998,29 @@
 		"jss_key":"News_Content_826",
 		"id":826,
 		"news_title":"JD Cloud & AI: Make Automobile Intelligence Easy and Warm"
+	},
+	{
+		"summary":"As the core channel of technology and service out of JD Group, JD Cloud & AI, together with three empowerment platforms and a package of support policies, the \"SaaS Accelerator\" plan has been duly launched. With the platform capability such as technology opening-up, service empowerment and joint business creation, business empowerment is provided for SaaS in technical R&D, product commercialization and commercial opportunity acquisition from channels.",
+		"image_url":"//img1.jcloudcs.com/cms/cc9b843e-ec7d-4f22-bad0-7594dadd2aa120200713110220.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_827",
+		"jss_key":"News_Content_827",
+		"id":827,
+		"news_title":"JD Cloud & AI Releases \"SaaS Accelerator\" to Boost Ecological Layout with Industrial Platform"
+	},
+	{
+		"summary":"Recently, the AI ProCon 2020 was held on live online under the sponsorship of CSDN. The result of CSDN's \"Million People Learning AI\" Selection Activity was announced at the AI ProCon 2020, and JD Cloud & AI stood out from hundreds of enterprise by virtue of \"Intelligent Vision Networking Platform - Straw Burning Monitoring System\", and was listed in \"Top 30 of the CSDN 2020AI Excellent Case Practice Award\".",
+		"image_url":"//img1.jcloudcs.com/cms/856a8588-4dd7-4b4e-9c63-461e49d3557020200714122201.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_828",
+		"jss_key":"News_Content_828",
+		"id":828,
+		"news_title":"JD Cloud & AI Intelligent Vision Networking Platform Wins CSDN 2020AI Excellent Case Practice Award"
+	},
+	{
+		"summary":"Based on the advanced AI technologies and powerful program practical capability, to cultivate more professional AI talents, after a long time of preparation, JD launched \"NLP Practical Training Camp\" for mass students, to help each student actually gain access to enterprise-level AI project resources and improve themselves from practices.",
+		"image_url":"//img1.jcloudcs.com/cms/81f30953-4c9a-41eb-a539-ba54309e69c320200716130724.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_829",
+		"jss_key":"News_Content_829",
+		"id":829,
+		"news_title":"JD Cloud & AI's NLP Practical Training Camp Appreciated by Students from Harvard University and the University of Cambridge Begins"
 	}
 ]

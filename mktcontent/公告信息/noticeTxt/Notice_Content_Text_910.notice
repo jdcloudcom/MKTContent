@@ -1,0 +1,48 @@
+<p><span style="font-family: 宋体; text-indent: 28px;"></span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">
+Recently, JD Cloud Security Team found the quarterly security announcement released by Oracle that the WebLogic deserialization remote code execution vulnerability was fixed for a serious vulnerability with the CVSS rating of 9.8 (CVE-2020-14645). The vulnerability was utilized via the T3 protocol with low complexity and high risks. You are suggested to fix it as soon as possible
+</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Description]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; WebLogic</span>
+<span style="font-size:16px;font-family:宋体">WebLogic is a Java application server produced by Oracle for development, integration, deployment and management of large distributed Web, network and database applications, and is widely used worldwide. Its remote method invocation (RMI) communication uses T3 protocol, which multiplexes the 7001 port with HTTP protocol The previous patch failed to fully fix the vulnerability and bypassing existed.</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Rating]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">High Risk</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Affected Version]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Oracle WebLogic Server 12.2.1.4</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Fix Recommendation]</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-size:16px;font-family:宋体">
+1. Upgrade to a secure version. Install the official patch:
+<br/> </span>
+<a href="https://www.oracle.com/security-alerts/cpujul2020.html"><span style="font-size:16px;font-family:宋体">https://www.oracle.com/security-alerts/cpujul2020.html</span>
+</a></p>
+<p class="MsoListParagraph" style="margin-left:24px"><span style="font-size:16px;font-family:宋体">
+2. Restrict T3 access sources. The vulnerability comes from T3 protocol used by WebLogic by default, so attacks can be prevented by restricting T3 access sources.
+</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Related Link]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"></span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://support.oracle.com" _src="https://support.oracle.com">&nbsp;https://support.oracle.com</a> </span>
+</p>
+<p><br/></p>
+<p><br/></p>

@@ -1,0 +1,55 @@
+<p><span style="font-family: 宋体;"></span>
+</p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">
+To improve the stability and user experience of products, JD Cloud & AI plans to carry out operation and maintenance for the backend management of cn-east-1 for Virtual Machines, Cloud Disk Service, Cloud Network and related services on July 16, 2020 (Thursday) at 21:00:00 to 23:00:00, and the influences are as follows:
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">
+Ø&nbsp;EIP& NAT gateway cannot be operated at the Console in cn-east-1 during the operation and maintenance, and the OpenAPI service of creation, configuration adjustment, deletion, query and other functions will be suspended for about 2 minutes;
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">
+Ø&nbsp;Load Balancer cannot be operated at the Console in cn-east-1 during the operation and maintenance, and the OpenAPI service of creation, configuration adjustment, deletion, query and other functions will be suspended for about 2 minutes;
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">
+Ø&nbsp;Direct Connect& Hosted Connect& VPN Connect cannot be operated at the Console in cn-east-1 during the operation and maintenance, and the OpenAPI service of creation, configuration adjustment, deletion, query and other functions will be suspended for about 2 minutes;
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">
+Ø&nbsp;Virtual Machine& Instance Template& Image& SSH Key Pair cannot be operated at the Console in cn-east-1 during the operation and maintenance, and the OpenAPI service of creation, configuration adjustment, deletion, query and other functions will be suspended for about 2 minutes;
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">
+Ø&nbsp;Native Container& JCS for Kubernetes cannot be operated at the Console in cn-east-1 during the operation and maintenance, and the OpenAPI service of creation, configuration adjustment, deletion, query and other functions will be suspended for about 2 minutes;
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">
+Ø&nbsp;Cloud Disk Service& Cloud File Service cannot be operated at the Console in cn-east-1 during the operation and maintenance, and the OpenAPI service of creation, configuration adjustment, deletion, query and other functions will be suspended for about 2 minutes;
+</span>
+</p>
+<p style="text-indent:28px">&nbsp;</p>
+<p style="text-indent:28px"><span style="font-family:宋体">
+In addition to the above products, the following services are affected as well
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">
+Ø&nbsp;Promotions on the official website: During the operation and maintenance, access to online promotion activities may be provisionally abnormal. Please purchase the relevant services in advance.
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:Wingdings">
+Ø&nbsp;JD Cloud & AI APP: During the operation and maintenance, the above products may notify "Network abnormal, please try again later" for creation, configuration adjustment, deletion, and query.
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-indent:0"><span style="font-family:宋体">&nbsp;</span>
+</p>
+<p><strong><span style="font-family:宋体">
+The function upgrade will not affect the running of your existing business in all regions. After the operation and maintenance, the Console's relevant functions and
+APIs corresponding to OpenAPI will recover normal operation.
+</span>
+</p>
+<p><span style="font-family:宋体">
+If you have any problem during going online, please contact JD Cloud & AI's customer service (tel.: 4006151212) at any time. Thank you for your support to JD Cloud & AI.
+</span>
+</p>

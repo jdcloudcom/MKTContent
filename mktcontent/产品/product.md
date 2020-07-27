@@ -760,7 +760,19 @@
 		"id":1477
 	},
 	{
+		"name":"Data Center Cabinet Service",
+		"id":1480
+	},
+	{
 		"name":"Edge Cabinet Service",
 		"id":1481
+	},
+	{
+		"name":"Internet Bandwidth Service",
+		"id":1482
+	},
+	{
+		"name":"Value-added Service",
+		"id":1483
 	}
 ]
