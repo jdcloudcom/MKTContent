@@ -842,5 +842,33 @@
 	{
 		"id":912,
 		"title":"\\[cn-north-1\\] Notice on Upgrade of JCS for Kubernetes 1.16 on July 16 (Thursday) at 22:00-23:00"
+	},
+	{
+		"id":913,
+		"title":"\\[cn-south-1\\]Notification of Upgrading Application Load Balancer Service"
+	},
+	{
+		"id":914,
+		"title":"Announcement on Upgrading Hard Disk Firmware of Compute Node in Suqian"
+	},
+	{
+		"id":915,
+		"title":"Cloud File Service (CFS) Notification of Upgrading General Specification Services in North China"
+	},
+	{
+		"id":916,
+		"title":"Announcement on Upgrading Hard Disk Firmware of Compute Node in Shanghai (the first batch)"
+	},
+	{
+		"id":917,
+		"title":"Announcement on Upgrading Hard Disk Firmware of Compute Node in Guangzhou"
+	},
+	{
+		"id":918,
+		"title":"Announcement on Upgrading Hard Disk Firmware of Compute Node in Shanghai (the second batch)"
+	},
+	{
+		"id":919,
+		"title":"\\[Notification of Upgrading Redis 4.0 Underlayer in South China\\]"
 	}
 ]

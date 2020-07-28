@@ -2022,5 +2022,13 @@
 		"jss_key":"News_Content_829",
 		"id":829,
 		"news_title":"JD Cloud & AI's NLP Practical Training Camp Appreciated by Students from Harvard University and the University of Cambridge Begins"
+	},
+	{
+		"summary":"Nowadays, with the increasing of personalized requirements of consumers, shopping online requires more and more customer services before and after an order is placed. Users may have to wait longer due to such a large amount of demand. Therefore, JD Cloud & AI developed JD online intelligent sentiment customer service robot to cover pre-sales consultation, after-sales service and other links and respond faster and more efficiently than staff service.",
+		"image_url":"//img1.jcloudcs.com/cms/95f469cb-cddd-4da8-98d3-0049a1fe0b2d20200717165703.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_830",
+		"jss_key":"News_Content_830",
+		"id":830,
+		"news_title":"Guessing What You Think, JD Cloud & AI's Sentiment Customer Service Facilitates Your Shopping Experience"
 	}
 ]
