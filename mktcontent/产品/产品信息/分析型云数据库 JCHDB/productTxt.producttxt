@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"分析型云数据库 JCHDB\",\"label\":[],\"desc\":\"JCHDB 是京东智联云基于开源 ClickHouse 打造的分析型云数据库，具有分布式架构，可实现多核、多节点的并行化查询，其查询性能比传统开源数据库的高1 ~ 2个数量级。\"}",
+		"id":2079
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"无与伦比的性能\",\"proName\":\"通过多节点的分布式架构和多CPU的并行处理，结合高效的压缩算法和向量化引擎，可实现无与伦比的查询性能。测试表明其查询性能比传统开源数据库高1 ~ 2个数量级。\"},{\"showShade\":false,\"proGood\":\"快速部署\",\"proName\":\"只需在控制台上通过鼠标点击，几分钟内即可创建 JCHDB  实例，支持高可用架构，具备监控告警功能，可立即投入使用，立即创造价值。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"规格丰富，扩展力强\",\"proName\":\"可自行定义分片数和副本数，最大支持128分片，10副本，上千个节点，充分满足不同业务场景的需求。\"}]",
+		"id":2080
+	},
+	{
+		"txt":"[{\"funcName\":\"分布式架构，多数据副本\",\"funcContent\":[{\"funcTitle\":\"多数据副本\",\"funcP\":\"可自定义的数据副本数，数据副本可读可写，充分满足大型业务系统的复杂需求\"},{\"funcTitle\":\"副本自动复制\",\"funcP\":\"使用异步多主复制。写入任何可用的副本后，数据将分发到所有剩余的副本。系统在不同的副本上保持相同的数据。\"},{\"funcTitle\":\"故障自动修复\",\"funcP\":\"当检测到数据故障时，系统会自动从其他正常的数据副本中同步数据，进行修复。\"}]},{\"funcName\":\"规格丰富，可灵活定义\",\"funcContent\":[{\"funcTitle\":\"规格丰富\",\"funcP\":\"节点具有丰富的规格可供选择，可适应不同规模业务场景的需求\"},{\"funcTitle\":\"扩展能力强\",\"funcP\":\"分片数和副本数可自定义，最大支持128分片，10副本，上千个节点，充分满足业务快速增长的需求\"}]},{\"funcName\":\"便捷运维\",\"funcContent\":[{\"funcTitle\":\"多维度监控\",\"funcP\":\"从各个维度提供系统级和数据库实例级的监控，监控指标丰富；\"},{\"funcTitle\":\"自定义告警规则\",\"funcP\":\"可根据监控指标自定义告警规则，并通过短信，Email等方式进行通知\"}]},{\"funcName\":\"多种安全防护机制\",\"funcContent\":[{\"funcTitle\":\"系统安全\",\"funcP\":\"宿主机位于防火墙保护之下，只开放必需的端口，且安装有各种系统补丁，修补安全漏洞，能够抵御各种恶意攻击，保障数据库安全；\"},{\"funcTitle\":\"网络安全\",\"funcP\":\"实例默认运行在逻辑隔离的私有网络（VPC）中，避免了数据库直接暴露在公网上，可规避绝大部分攻击\"},{\"funcTitle\":\"支持自定义安全策略\",\"funcP\":\"通过IP白名单可定义和强化安全策略，进一步加强数据库的安全性；\"}]}]",
+		"id":2081
+	},
+	{
+		"txt":"[{\"name\":\"数据在线分析\",\"instruction\":\"适合需要对海量数据进行在线分析的场景，例如用户行为分析 ，网络广告及其实时竞价，以及一些物联网场景中，对数据库进行准实时的在线分析处理等。 分析型云数据库 JCHDB对SQL有良好的支持，其卓越的查询性能可满足业务系统对数据库准实时分析能力的需求。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"},{\"name\":\"负载均衡\",\"url\":\"//www.jdcloud.com/products/load-balancer\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3494b242-f142-414e-bbc5-db0a87f7600c20200601140731.png\",\"showShade\":false},{\"name\":\"BI报表\",\"instruction\":\"适合各种BI分析及数据报表的场景。分析型云数据库 JCHDB 具有高效的压缩算法和杰出的并行查询能力，能够在海量数据的业务场景下快速响应业务的分析需求。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"},{\"name\":\"负载均衡\",\"url\":\"//www.jdcloud.com/products/load-balancer\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0996de21-daa0-4415-8b88-3ed84f77d79120200601140811.png\",\"showShade\":false}]",
+		"id":2082
+	}
+]
