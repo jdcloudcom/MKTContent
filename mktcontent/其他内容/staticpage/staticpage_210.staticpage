@@ -1,0 +1,1446 @@
+<!-- widget submenu begin -->
+<div class="subMenu-box">
+    <h2>城市</h2>
+    <div class="subMenu-level1">
+        <ul>
+            <li class="subMenu-link hasChild fullDrop">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_0" class="drop-link">解决方案中心</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subDropMenu">
+                        <li>
+                            <h3>善政</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_0" href="https://city.jdcloud.com/" target="_blank">京东城市云脑</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_1" href="https://city.jdcloud.com/exp/brain" target="_blank">智能城市运营中心（AIOC）</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_2" href="https://city.jdcloud.com/system.html" target="_blank">智能城市应用中心（AIAC）</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_3" href="https://www.jdcloud.com/cn/solutions/intelligent-transport-solution" target="_blank">智能交通</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_4" href="https://www.jdcloud.com/cn/solutions/intelligent-emergency-solution" target="_blank">智能应急</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_5" href="https://www.jdcloud.com/cn/solutions/internet-government-affairs-service-solution" target="_blank">互联网+政务服务</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>  
+                            <h3>兴业</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_0" href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution" target="_blank">数字农业</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_1" href="https://www.jdcloud.com/cn/solutions/intelligent-culture-and-tourism-solution" target="_blank">智能文旅</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_2" href="https://www.jdcloud.com/cn/solutions/industrial-internet-solution" target="_blank">智能制造</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_3" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_4" href="https://www.jdcloud.com/cn/solutions/industry-innovation-cloud-solution" target="_blank">产业创新云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_5" href="https://www.jdcloud.com/cn/solutions/urban-industry-service-platform" target="_blank">城市产业服务平台</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_6" href="https://www.jdcloud.com/cn/neec/index" target="_blank">线上城市新经济展示中心</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_7" href="https://www.jdcloud.com/cn/solutions/smart-park" target="_blank">AI 智慧园区</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_8" href="https://www.jdcloud.com/cn/solutions/smart-campus" target="_blank">AI 智慧校园</a></li>
+                                </ul>
+                            </div>
+                        </li>     
+                        <li>
+                            <h3>筑基</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_0" href="https://www.jdcloud.com/cn/products/data-middle-end" target="_blank">数据中台</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_1" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_2" href="https://www.jdcloud.com/cn/solutions/county-media-integration-solution" target="_blank">县域融媒云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_3" href="https://www.jdcloud.com/cn/solutions/urban-big-data-solution" target="_blank">城市大数据</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_4" href="https://www.jdcloud.com/cn/solutions/Industry-onboarding-solution" target="_blank">企业上云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_5" href="https://www.jdcloud.com/cn/solutions/intelligent-city-digital-network" target="_blank">智能城市干线网络</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_6" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_7" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_8" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_9" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政务云办公</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_10" href="https://www.jdcloud.com/cn/solutions/e-government-cloud-paas-solution" target="_blank">政务云PaaS</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_11" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIoT</a></li>
+                                </ul>
+                            </div>
+                        </li>  
+                        <li>  
+                            <h3>共生</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_3_0" href="https://www.jdcloud.com/cn/solutions/intelligent-environmental-protection-solution" target="_blank">智能环保</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_1" class="drop-link">智网落地</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_0" href="https://www.jdcloud.com/cn/solutions/industrial-e-commerce-cloud" target="_blank">数字经济产业园</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_1" href="https://www.jdcloud.com/cn/solutions/industry-innovation" target="_blank">全国创新中心</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_2" href="https://www.jdcloud.com/cn/neec/index" target="_blank">数字经济展示中心</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_2" class="drop-link">通用解决方案</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_0" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_1" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_2" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_3" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政企云办公</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_4" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_5" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIot</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_3" class="drop-link">样板城市</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/city/suqian" target="_blank">宿迁</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_1" href="https://www.jdcloud.com/cn/city/xian" target="_blank">西安</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/beihai" target="_blank">北海</a></li>
+						<li><a clstag="Channel_City|keycount|Header|Link_5_0_3" href="https://www.jdcloud.com/cn/city/binzhou" target="_blank">滨州</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_3" class="drop-link">体验中心</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_0" href="https://city.jdcloud.com/exp/" target="_blank">领导驾驶舱</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_1" href="https://city.jdcloud.com/exp/industrychain/industriesTabs" target="_blank">产业链招商</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_2" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_3" href="https://city.jdcloud.com/exp/frame/affair" target="_blank">政务服务</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_4" href="https://city.jdcloud.com/exp/equipment" target="_blank">设备运行检测</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_4" class="drop-link">客户案例</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/case/detail/186" target="_blank">滨州经济技术开发区</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_1" href="https://www.jdcloud.com/cn/case/detail/194" target="_blank">南京市麒麟园区</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_2" href="https://www.jdcloud.com/cn/case/detail/188" target="_blank">仙游县人民政府</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="tel-info"><a href="https://www.jdcloud.com/cn/forms/consultation"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i>售前咨询：400-623-0183</a> </div>
+</div>
+<!-- widget submenu end -->
+
+<!-- widget city-mode-banner1-bz begin -->
+<div class="banner-city">
+    <div class="w banner-city-ct">
+        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/banner-m.png" class="banner-m"/>
+        <div class="fs-slide-ct">
+            <div class="fs-slide-txt">
+                <b class="fs-slide-tit">云起黄河·智联未来</b>
+                <p class="fs-slide-des">全格局大数据服务“云上新经济走廊”</p>
+
+            </div>
+            <a href="https://www.jdcloud.com/cn/forms/consultation"
+               target="_blank" clstag="Channel_sq|keycount|Banner|Btn_0" class="jdc-btn jdc-btn-blue">立即咨询</a>
+        </div>
+    </div>
+</div>
+<!-- widget city-mode-banner1-bz end -->
+
+<!-- widget city-mode-fl2-bz begin -->
+<div class="fl-section fl2">
+	<div class="tit-section pc-hid">
+        <h2 class="tit-h2">
+            引入“科技合伙人”探路数字经济
+        </h2>
+    </div>
+    <div class="cont-section-st w mt20">
+        <div class="row row-top">
+            <div class="col-4 col-xs-12">
+                <div class="item-st-img">
+                    <a class="play-button" data-video="https://img1.jcloudcs.com/portal/channel/city/bz/binzhou.mp4">
+                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"/>
+                    </a>
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/bz/img-fl2-video.png"/>
+                </div>
+            </div>
+            <div class="col-8 col-xs-12">
+                <div class="item-st-txt">
+                    <b>引入“科技合伙人”，这座四线城市探路数字经济</b>
+                    <p>基于京东智联云的政务云优势和滨州市整体战略布局，2017年开始与滨州市人民政府共建黄河三角洲云计算大数据产业基地，打造滨州城市云平台，促进“互联网+政务”服务落地，形成环渤海经济圈云服务业务承接中心，加快滨州新旧动能转化，激发当地经济发展活力：累计上云54个委办局，90个单位共计141个系统544台云主机）以数字政府为核心，展示高新技术高地、科创中心、数字经济、电商大数据、智慧城市建设。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="layout-block w">
+            <div class="row">
+                <div class="col-4 col-xs-12">
+                    <div class="block">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/img-fl2-icon1.png" />
+                        <div class="bottom-text">
+                        <span>
+                            四个一
+                        </span>
+
+                            <ul class="detail">
+                                <li class="detailLi">• 城市云</li>
+                                <li class="detailLi">• 政务大数据平台</li>
+                                <li class="detailLi">• 京东（滨州）数字经济产业园</li>
+                                <li class="detailLi">• 京东黄河三角洲云计算数据中心</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 col-xs-12">
+                    <div class="block">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/img-fl2-icon2.png" />
+                        <div class="bottom-text">
+                        <span>
+                            三服务
+                        </span>
+
+                            <ul class="detail detail2">
+                                <li class="detailLi">• 智慧城市应用</li>
+                                <li class="detailLi">• 城市公共服务平台</li>
+                                <li class="detailLi">• 城市产业服务平台</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 col-xs-12">
+                    <div class="block">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/img-fl2-icon3.png" />
+                        <div class="bottom-text">
+                            <span>
+                                四要素
+                            </span>
+
+                            <ul class="detail detail3">
+                                <li class="detailLi">• 运营+</li>
+                                <li class="detailLi">• 数据+</li>
+                                <li class="detailLi">• 生态+</li>
+                                <li class="detailLi">• 平台+</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- widget city-mode-fl2-bz end -->
+
+<!-- widget city-mode-fl3-bz begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            数据政府
+        </h2>
+        <p class="tit-desc">以云计算为支撑，以大数据为驱动，以场景化的智能应用</p>
+
+    </div>
+    <div class="cont-section-szzf w szzf-show-pc">
+        <div class="szzf-show">
+            <div class="video-item">
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl3-img1.png"/>
+                    <div class="content">
+                        <b class="tit">京东黄河三角洲云计算大数据中心</b>
+                        <div class="curr-cont">
+                            <p class="p-tit">
+                                打造环渤海经济圈产业支撑中心、云服务业务承接中心
+                            </p>
+
+                            <p class="p-desc f-toe3">
+                                京东黄河三角洲云计算大数据中心，将京东在云计算、大数据方面的优势与滨州特色产业资源有机结合，承担起“改变传统模式，为当地产额发展需求、创造需求”这一使命，让“科技合伙人”为产业赋能，打造地方特色产业发展新模式。
+                            </p>
+
+                            <ul class="data-list f-cb f120">
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">100</span>
+<span class="txt-s">亩</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        占地
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">4.6万</span>
+<span class="txt-s">平米</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        总建面
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">3万</span>
+<span class="txt-s">台</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        服务器
+                                    </div>
+                                </li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_1" class="jdc-btn jdc-btn-white">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-list  curr">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl3-img2.png"/>
+                    <div class="content">
+                        <b class="tit">政务上云+公有云</b>
+                        <div class="curr-cont">
+                            <p class="p-tit">
+                                城市云架构下的政务上云和公有云
+                            </p>
+
+                            <ul class="mt15">
+                                <li>• 累计上云54个委办局；</li>
+                                <li>• 90个单位共计141个系统；</li>
+                                <li>• 梳理资源21433条，528个单位，总数据采集量5.9亿条。</li>
+                            </ul>
+                            <ul class="data-list f-cb f120">
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">70</span>
+<span class="txt-s">%</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        上云率
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">141</span>
+<span class="txt-s">个</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        系统上云
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">50</span>
+<span class="txt-s">%</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        成本降低
+                                    </div>
+                                </li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_2" class="jdc-btn jdc-btn-white">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl3-img3.png"/>
+                    <div class="content">
+                        <b class="tit">政务大数据平台</b>
+                        <div class="curr-cont">
+                            <p class="p-tit">
+                                实现进“一个门”，跑“一个窗”，办“千件事”
+                            </p>
+
+                            <p class="p-desc f-toe3">
+                            2017年9月京东承接滨州市大数据管理服务平台建设，通过平台设计与搭建、规范接口标准、指定运营体系、完善管理制度等来推进大数据服务平台的建设与运营。
+                            </p>
+
+                            <ul>
+                                <li>• 超级政务大厅</li>
+                                <li>• 66个部门数据</li>
+                                <li>• 进一个门，跑一个窗，办千件事</li>
+                                <li>• 六局数据归一</li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_3" class="jdc-btn jdc-btn-white mt35">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl3-img4.png"/>
+                    <div class="content">
+                        <b class="tit">京东（滨州）数字经济产业园</b>
+                        <div class="curr-cont">
+                            <p class="p-tit">
+                                驱动产业数字化转型，助力京东（滨州）数字经济产业
+                            </p>
+
+                            <p class="p-desc f-toe3">
+                                2019年9月，京东（滨州）数字经济产业园在开发区正式挂牌，由京东集团和开发区管委会共同打造。产业园是以黄河三角洲云计算大数据中心为基地，以京东集团在云计算和数字经济方面的技术优势和资源为依托，以创新为保障。
+                            </p>
+
+                            <ul class="data-list f-cb f120">
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">96</span>
+<span class="txt-s">亩</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        规划面积
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">3万</span>
+<span class="txt-s">平米</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        面积
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">2千</span>
+<span class="txt-s">平米</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        办公空间
+                                    </div>
+                                </li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_4" class="jdc-btn jdc-btn-white">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="cont-section-szzf szzf-show-m">
+        <div class="szzf-show">
+            <div class="video-item">
+                <div class="jdc-swiper-container swiper-fl3">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl3-img1-m.png"/>
+                                <div class="content">
+                                    <b class="tit">京东黄河三角洲云计算大数据中心</b>
+                                    <div class="curr-cont">
+                                        <p class="p-tit">
+                                            打造环渤海经济圈产业支撑中心、云服务业务承接中心
+                                        </p>
+
+                                        <p class="p-desc f-toe3">
+                                            京东黄河三角洲云计算大数据中心，将京东在云计算、大数据方面的优势与滨州特色产业资源有机结合，承担起“改变传统模式，为当地产额发展需求、创造需求”这一使命，让“科技合伙人”为产业赋能，打造地方特色产业发展新模式。
+                                        </p>
+
+                                        <ul class="data-list f-cb f120">
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">100</span>
+<span class="txt-s">亩</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    占地
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">4.6万</span>
+<span class="txt-s">平米</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    总建面
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">3万</span>
+<span class="txt-s">台</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    服务器
+                                                </div>
+                                            </li>
+                                        </ul>
+                                        <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_1" class="jdc-btn jdc-btn-blue">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl3-img2-m.png"/>
+                                <div class="content">
+                                    <b class="tit">政务上云+公有云</b>
+                                    <div class="curr-cont">
+                                        <p class="p-tit">
+                                            城市云架构下的政务上云和公有云
+                                        </p>
+
+                                        <ul class="mt15 f120">
+                                            <li>• 累计上云54个委办局；</li>
+                                            <li>• 90个单位共计141个系统；</li>
+                                            <li class="f-toe3">• 梳理资源21433条，528个单位，总数据采集量5.9亿条。</li>
+                                        </ul>
+                                        <ul class="data-list f-cb f120">
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">70</span>
+<span class="txt-s">%</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    上云率
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">141</span>
+<span class="txt-s">个</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    系统上云
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">50</span>
+<span class="txt-s">%</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    成本降低
+                                                </div>
+                                            </li>
+                                        </ul>
+                                        <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_2" class="jdc-btn jdc-btn-blue">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl3-img3-m.png"/>
+                                <div class="content">
+                                    <b class="tit">政务大数据平台</b>
+                                    <div class="curr-cont">
+                                        <p class="p-tit">
+                                            实现进“一个门”，跑“一个窗”，办“千件事”
+                                        </p>
+
+                                        <p class="p-desc f-toe3">
+                                            2017年9月京东承接滨州市大数据管理服务平台建设，通过平台设计与搭建、规范接口标准、指定运营体系、完善管理制度等来推进大数据服务平台的建设与运营。
+                                        </p>
+
+                                        <ul class="f120">
+                                            <li>• 超级政务大厅</li>
+                                            <li>• 66个部门数据</li>
+                                            <li>• 进一个门，跑一个窗，办千件事</li>
+                                            <li>• 六局数据归一</li>
+                                        </ul>
+                                        <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_3" class="jdc-btn jdc-btn-blue mt35">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl3-img4-m.png"/>
+                                <div class="content">
+                                    <b class="tit">京东（滨州）数字经济产业园</b>
+                                    <div class="curr-cont">
+                                        <p class="p-tit">
+                                            驱动产业数字化转型，助力京东（滨州）数字经济产业
+                                        </p>
+
+                                        <p class="p-desc f-toe3">
+                                            2019年9月，京东（滨州）数字经济产业园在开发区正式挂牌，由京东集团和开发区管委会共同打造。产业园是以黄河三角洲云计算大数据中心为基地，以京东集团在云计算和数字经济方面的技术优势和资源为依托，以创新为保障。
+                                        </p>
+
+                                        <ul class="data-list f-cb f120">
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">96</span>
+<span class="txt-s">亩</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    规划面积
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">3万</span>
+<span class="txt-s">平米</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    面积
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">2千</span>
+<span class="txt-s">平米</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    办公空间
+                                                </div>
+                                            </li>
+                                        </ul>
+                                        <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_4" class="jdc-btn jdc-btn-blue">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 如果需要分页器 -->
+                    <div class="jdc-swiper-pagination"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- widget city-mode-fl3-bz end -->
+
+<!-- widget city-mode-fl4-bz begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            数字经济
+        </h2>
+        <p class="tit-desc">大数据、人工智能助力滨州市城市经营发展</p>
+
+    </div>
+    <div class="economy-block economy-block-v1 w">
+        <div class="row">
+            <div class="col-4 col-xs-12 hover">
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl4-icon1.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                智能城市应用
+                            </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        京东智联云在滨州的智能城市应用包括智能城市顶层设计，云计算基础设施，数据中台，技术中台和互联网+政务服务大厅等。
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 584个便民事项一站解决</li>
+                        <li class="detailLi">• 政务信息化的集约化平台</li>
+                        <li class="detailLi">• 以技术应用为核心的智能城市咨询服务</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bz|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+            </div>
+            <div class="col-4 col-xs-12 hover">
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl4-icon2.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                城市公共服务平台
+                            </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        新一代信息技术与大数据、人工智能教育、智能社区、智能出行、智能医疗、智能家庭和智能旅游等服务板块。
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 智能教育</li>
+                        <li class="detailLi">• 智能出行</li>
+                        <li class="detailLi">• 智能家庭</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bz|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+            </div>
+            <div class="col-4 col-xs-12 hover">
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl4-icon3.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                城市产业服务
+                            </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        京东智联云在滨州的城市产业服务包括新一代新机产业技术、智慧农业、消费品工业和智能制造业。
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 新一代信息产业技术</li>
+                        <li class="detailLi">• 智能农业</li>
+                        <li class="detailLi">• 消费品工业</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bz|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="fl-section mt15">
+    <div class="economy-block w">
+        <div class="row">
+            <div class="col-12 col-xs-12">
+                <h2 class="outer-bt">360°全面出击，促进滨州全产业链升级</h2>
+            </div>
+            <div class="col-4 col-xs-12">
+                <div class="content">
+                   <div class="top">
+                       <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl4-icon4.png"/>
+                       <div class="bt-block">
+                            <h2 class="bt">
+                                品牌打造
+                            </h2>
+                       </div>
+                   </div>
+                   <p class="introduce">
+                       组织互联网+特色产业活动，打造地方特色品牌。
+                   </p>
+
+                </div>
+            </div>
+            <div class="col-4 col-xs-12">
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl4-icon5.png"/>
+                        <div class="bt-block">
+                             <h2 class="bt">
+                                 校企合作
+                             </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        共建电商专业进行电商人才培养，实现专业链和产业链对接、课程内容与职业标准对接。
+                    </p>
+
+                 </div>
+            </div>
+            <div class="col-4 col-xs-12">
+                <div class="content contentNoborder">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl4-icon6.png"/>
+                        <div class="bt-block">
+                             <h2 class="bt">
+                                 物流分拣中心
+                             </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        配送辐射周边区域，为滨州特色农特产品转运及销售缩短流通时间、降低流通费用。
+                    </p>
+
+                 </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- widget city-mode-fl4-bz end -->
+
+<!-- widget city-mode-fl5-bz begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            数字生活
+        </h2>
+        <p class="tit-desc">倾力帮助滨州打造当地农业产品品牌</p>
+
+    </div>
+    <div class="digitalPerson-block w">
+        <ul class="digital-content">
+            <li class="digital-contentli show">
+                <div class="left-block">
+                    <div class="top-bt">
+                        <h2 class="bt">品牌打造案例：沾化冬枣节</h2>
+                    </div>
+                    <p class="middle-desc">
+                        2017年9月10-25日，滨州市政府与京东共同筹划沾化冬枣节活动，与京东集团联合策划线上线下营销活动。沾化馆出货量同比增长31864%，沾化冬枣自营销售总量1400多万。</p>
+
+                    <ul class="bottom-detail">
+                        <li>• 沾化区长为家乡冬枣代言</li>
+                        <li>• 众筹预售，目标达成300%</li>
+                        <li>• 看直播买冬枣，一站式体验</li>
+                        <li>• 冬枣节开幕，扩大“沾化冬枣”品牌影响力</li>
+                    </ul>
+                    <a class="digital-btn">
+                      立即咨询
+                    </a>
+                </div>
+                <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/bz/fl5-img.png"/>
+            </li>
+        </ul>
+    </div>
+
+</div>
+<!-- widget city-mode-fl5-bz end -->
+
+<!-- widget city-mode-fl6-bz begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            滨州标杆游学之旅
+        </h2>
+    </div>
+    <div class="cont-section-tour w">
+        <div class="row">
+            <div class="col-2">
+                <ul class="left-bar">
+                    <li class="item on">数字经济产业园考察</li>
+                    <li class="item">京东落地项目参观</li>
+                    <li class="item">项目座谈交流</li>
+                    <li class="item">区域品牌人文体验</li>
+                </ul>
+            </div>
+            <div class="col-10">
+                <ul class="right-block">
+                   <li class="module show">
+                       <h3>数字经济产业园考察</h3>
+                       <div class="w" style="height:250px;position: relative;overflow: hidden;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item">
+                                      <div class="mask"></div>
+                                      <h4>京东（滨州）数字经济产业园</h4>
+                                      <p>数据中心，数字经济总部，智能制造示范区，电子商务和智能物流基地，智慧人才社区</p>
+
+                                  </div>
+                              </div>
+                          </div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                           <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_1" > 
+                             定制我的行程
+                           </a>
+                           <p class="desc">更多信息垂询visit@jd.com</p>
+
+                       </div>
+                   </li>
+                   <li class="module">
+                       <h3>京东落地项目参观</h3>
+                       <div class="w" style="height:250px;position: relative;overflow: hidden;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item img2-1">
+                                      <div class="mask"></div>
+                                      <h4>京东黄河三角洲云计算大数据中心</h4>
+                                      <p>数据中心共五层，总建面23533.3平米，规划建设2072个机柜，建成后将成为省内规格最高、规模最大的云计算数据中心之一。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img2-2">
+                                    <div class="mask"></div>
+                                    <h4>滨州政务云计算平台</h4>
+                                    <p>滨州城市云计算平台是由滨州市政府与京东智联云合作建立的政府专属云平台，是智慧滨州的基础性工程。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img2-3">
+                                    <div class="mask"></div>
+                                    <h4>滨州经济技术开发区政务服务中心</h4>
+                                    <p>京东承建的滨州经济技术开发区政务服务中心。可为群众及企业提供“一站式”政务服务。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img2-4">
+                                      <div class="mask"></div>
+                                      <h4>开发区职业中专电商实训室</h4>
+                                      <p>滨州基地与渤海科技职业中专开展了一系列教学活动，从教师培养到学生能力塑造，全方位的为专业共建项目赋能。</p>
+
+                                  </div>
+                              </div>
+                          </div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_2" > 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
+
+                        </div>
+                        <!-- 如果需要导航按钮 -->
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
+                   </li>
+                   <li class="module">
+                       <h3>项目座谈交流</h3>
+                       <div class="w" style="height:250px;position: relative;overflow: hidden;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-1">
+                                      <div class="mask"></div>
+                                      <h4>产业规划</h4>
+                                      <p>数字经济发展布局与未来规划、互联网+政务平台建设、产业集聚与新旧动能转换等。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-2">
+                                    <div class="mask"></div>
+                                    <h4>合作模式</h4>
+                                    <p>京东智联云联合政府、企业、院校多方发展数字经济，合作模式、发展目标、实现路径等。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-3">
+                                    <div class="mask"></div>
+                                    <h4>上云发展</h4>
+                                    <p>企业借力政府、京东智联云发展数字经济相关模式、技术、人才等。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-4">
+                                      <div class="mask"></div>
+                                      <h4>人才培养</h4>
+                                      <p>院校新经济学科建设与人才培育、政校企合作与专业人才联合培养等。</p>
+
+                                  </div>
+                              </div>
+                          </div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_3" > 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
+
+                        </div>
+                        <!-- 如果需要导航按钮 -->
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
+                   </li>
+                    <li class="module">
+                        <h3>区域品牌人文体验</h3>
+                        <div class="w" style="height:250px;position: relative;overflow: hidden;">
+                            <div class="study-tour tour-swiper jdc-swiper-container">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-1">
+                                            <div class="mask"></div>
+                                            <h4>渤海活塞</h4>
+                                            <p>山东滨州渤海活塞股份有限公司是国内唯一一家以内燃机活塞作为主导产品的上市公司，国家520家重点企业之一。</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-2">
+                                            <div class="mask"></div>
+                                            <h4>魏集古村落</h4>
+                                            <p>魏集古村落是一处仿明清时期古建筑风格的景区，融合特色美食、手工作坊、民俗风情、观光游水等元素。</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-3">
+                                            <div class="mask"></div>
+                                            <h4>中国孙子兵法城</h4>
+                                            <p>中国孙子兵法城是以具有千年历史的宋代古城遗址为依托而修建的华夏兵学第一圣殿。</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-4">
+                                            <div class="mask"></div>
+                                            <h4>滨州大剧院</h4>
+                                            <p>滨州大剧院是集音乐剧、歌剧、舞剧、话剧、大型文艺演出等于一体的现代化程度较高的专业剧场。</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="link-bottom">
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_3" >
+                                定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
+
+                        </div>
+                        <!-- 如果需要导航按钮 -->
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="cont-section-tourm">
+        <div class="tab-content">
+            <div class="tab-item-title  jdc-common-arr active">
+                 <h4>数字经济产业园考察</h4>
+            </div> 
+            <div class="tab-item f-cb current m-on">
+                  <div class="g-table">
+                     <div class="tab-item-txt">
+                         <ul>
+                             <li>
+                                 <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m1.png"/>
+                                 <div class="right-text">
+                                     <h4>京东（滨州）数字经济产业园</h4>
+                                     <p>数据中心，数字经济总部，智能制造示范区，电子商务和智能物流基地，智慧人才社区</p>
+
+                                 </div>
+                             </li>
+                         </ul>
+                      </div>
+                  </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                 <h4>京东落地项目参观</h4>
+            </div> 
+            <div class="tab-item f-cb current">
+                  <div class="g-table">
+                     <div class="tab-item-txt">
+                        <ul>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m4.png"/>
+                                <div class="right-text">
+                                    <h4>京东黄河三角洲云计算大数据中心</h4>
+                                    <p>数据中心共五层，总建面23533.3平米，规划建设2072个机柜，建成后将成为省内规格最高、规模最大的云计算数据中心之一。</p>
+
+                                </div>
+                            </li>
+                            <li>
+                               <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m5.png"/>
+                               <div class="right-text">
+                                   <h4>滨州政务云计算平台</h4>
+                                   <p>滨州城市云计算平台是由滨州市政府与京东智联云合作建立的政府专属云平台，是智慧滨州的基础性工程。</p>
+
+                               </div>
+                           </li>
+                           <li>
+                               <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m6.png"/>
+                               <div class="right-text">
+                                   <h4>滨州经济技术开发区政务服务中心</h4>
+                                   <p>京东承建的滨州经济技术开发区政务服务中心。可为群众及企业提供“一站式”政务服务。</p>
+
+                               </div>
+                           </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m6.png"/>
+                                <div class="right-text">
+                                    <h4>开发区职业中专电商实训室</h4>
+                                    <p>滨州基地与渤海科技职业中专开展了一系列教学活动，从教师培养到学生能力塑造，全方位的为专业共建项目赋能。</p>
+
+                                </div>
+                            </li>
+                        </ul>
+                      </div>
+                  </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>项目座谈交流</h4>
+           </div> 
+           <div class="tab-item f-cb current">
+               <div class="g-table">
+                  <div class="tab-item-txt">
+                     <ul>
+                         <li>
+                             <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m7.png"/>
+                             <div class="right-text">
+                                 <h4>产业规划</h4>
+                                 <p>数字经济发展布局与未来规划、互联网+政务平台建设、产业集聚与新旧动能转换等。</p>
+
+                             </div>
+                         </li>
+                         <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m8.png"/>
+                            <div class="right-text">
+                                <h4>合作模式</h4>
+                                <p>京东智联云联合政府、企业、院校多方发展数字经济，合作模式、发展目标、实现路径等。</p>
+
+                            </div>
+                        </li>
+                        <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m9.png"/>
+                            <div class="right-text">
+                                <h4>上云发展</h4>
+                                <p>企业借力政府、京东智联云发展数字经济相关模式、技术、人才等。</p>
+
+                            </div>
+                        </li>
+                         <li>
+                             <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m9.png"/>
+                             <div class="right-text">
+                                 <h4>人才培养</h4>
+                                 <p>院校新经济学科建设与人才培育、政校企合作与专业人才联合培养等。</p>
+
+                             </div>
+                         </li>
+                     </ul>
+                   </div>
+               </div>
+           </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>区域品牌人文体验</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="g-table">
+                    <div class="tab-item-txt">
+                        <ul>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m7.png"/>
+                                <div class="right-text">
+                                    <h4>渤海活塞</h4>
+                                    <p>山东滨州渤海活塞股份有限公司是国内唯一一家以内燃机活塞作为主导产品的上市公司，国家520家重点企业之一。</p>
+
+                                </div>
+                            </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m8.png"/>
+                                <div class="right-text">
+                                    <h4>魏集古村落</h4>
+                                    <p>魏集古村落是一处仿明清时期古建筑风格的景区，融合特色美食、手工作坊、民俗风情、观光游水等元素。</p>
+
+                                </div>
+                            </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m9.png"/>
+                                <div class="right-text">
+                                    <h4>中国孙子兵法城</h4>
+                                    <p>中国孙子兵法城是以具有千年历史的宋代古城遗址为依托而修建的华夏兵学第一圣殿。</p>
+
+                                </div>
+                            </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m9.png"/>
+                                <div class="right-text">
+                                    <h4>滨州大剧院</h4>
+                                    <p>滨州大剧院是集音乐剧、歌剧、舞剧、话剧、大型文艺演出等于一体的现代化程度较高的专业剧场。</p>
+
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+       </div>
+       <div class="btn-block">
+           <a class="btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_m1">定制我的行程</a>
+       </div>
+       <p class="visit-desc">更多信息垂询visit@jd.com</p>
+
+    </div>
+
+</div>
+<!-- widget city-mode-fl6-bz end -->
+
+<!-- widget city-mode-fl7-bz begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            滨州大数据中心发展里程碑
+        </h2>
+    </div>
+    <div class="cont-section-st w">
+        <div class="overflow-scroll">
+            <div class="time-scroll">
+                <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl7-img.png" class="pc-img-scroll" />
+                <img src="https://img1.jcloudcs.com/portal/channel/city/bz/fl7-img-m.png" class="m-img-scroll" />
+                <ul>
+                    <li class="ps-no1">
+                        <span>滨州现代农业产业</span>
+
+                        <span>发展协会秘书长单位</span>
+
+                    </li>
+                    <li class="ps-no2">
+                        <span>被评为省重点新旧动能</span>
+
+                        <span>转换项目</span>
+
+                    </li>
+                    <li class="ps-no3">
+                        <span>滨州市大数据产业协会</span>
+
+                        <span>监事长单位</span>
+
+                    </li>
+                    <li class="ps-no4">
+                        <span>滨州工业互联网+智能制造</span>
+
+                        <span>联盟理事长单位</span>
+
+                    </li>
+                    <li class="ps-no5">
+                        <span>IDC中国数字化转型大奖</span>
+
+                    </li>
+                    <li class="ps-no6">
+                        <span>JDD大会示范案例</span>
+
+                    </li>
+                    <li class="ps-no7">
+                        <span>打造农业区域</span>
+
+                        <span>公用品牌"食域滨州"</span>
+
+                    </li>
+                    <li class="ps-no8">
+                        <span>青田公社品牌溯源系统，</span>
+
+                        <span>引入京东区块链防伪追溯平台服务</span>
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- widget city-mode-fl7-bz end -->
+
+<!-- widget city-mode-fl8-bz begin -->
+<div class="fl-section mb70">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            新闻动态
+        </h2>
+    </div>
+    <div class="news-block w">
+        <div class="row">
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a  href="http://www.sd.zgonline.cc/kuaixun/2020/0214/149.html"
+                    target="_blank" clstag="Channel_bz|keycount|news|link_1" >
+                        <h2 class="bt">
+                            足不出户，便可提高办公效率
+                        </h2>
+                        <p class="desc">
+                            春节假期后，马上迎来各企业的返工潮。新型冠状病毒感染的肺炎疫情持续蔓延，各企业遇到了前所未有的困难与机会，如何自救？如何逆势成长？挑战无疑是巨大的，环境永远是不确定的，确定的是自…
+                        </p>
+
+                    </a>    
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a  href="https://mp.weixin.qq.com/s/b5ezmpC-j7r5St5kdsn6Mw"
+                    target="_blank" clstag="Channel_bz|keycount|news|link_2" >
+                        <h2 class="bt">
+                            京东云与AI：我的世界编程课程上线滨州经济技术开发区官网
+                        </h2>
+                        <p class="desc">
+                            2月1日，“Minecraft我的世界（教育版）编程课程”上线滨州经济技术开发区官网。这一课程由京东云与AI推出，在疫情期间，免费向学校师生开放。自新型肺炎疫情蔓延以来，全国多个省市教育主管部门…
+                        </p>
+
+                    </a>    
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a  href="https://mp.weixin.qq.com/s/u6mEbKa_L-EjW4GbyaSmzw"
+                    target="_blank" clstag="Channel_bz|keycount|news|link_3" >
+                        <h2 class="bt">
+                            火速落地！京东智能情感客服多场景驰援抗疫前线
+                        </h2>
+                        <p class="desc">
+                            在全民“抗疫战争中”，京东技术驰援疫区——应急资源信息服务平台、智能情感客服、远程家庭医生、“Minecraft我的世界教育版编程课程等一系列技术服务产品，让政府、企业、机构和社会公众，不…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a  href="http://www.binzhouw.com/app/detail/184/280122.html"
+                    target="_blank" clstag="Channel_bz|keycount|news|link_4" >
+                        <h2 class="bt">
+                            滨州网疫情助手智能机器人上线服务！快来体验
+                        </h2>
+                        <p class="desc">
+                            为方便广大市民了解新型冠状病毒感染肺炎疫情的最新情况、防疫治疗措施，京东集团京东云与AI事业部将研发的“疫情助手智能机器人咨询平台”部署在滨州日报旗下新媒体，免费为滨州市民提供疫情咨…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a  href="https://www.qlwb.com.cn/detail/11303334?from=groupmessage&isappinstalled=0"
+                        target="_blank" clstag="Channel_bz|keycount|news|link_3" >
+                        <h2 class="bt">
+                            有温度的技术有力量——京东云与AI携手滨州开展疫情防控纪实
+                        </h2>
+                        <p class="desc">
+                            针对连日来新型冠状病毒引发的肺炎疫情，1月29日，京东云与AI面向全国有需要的企业和机构免费开放“智能情感客服”服务。该服务应用人机协同模式，实时解决用户问题，减轻疫情困扰；并提供智能…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a  href="https://mp.weixin.qq.com/s/c6KcAWL6a7eQC1TLaKIKOA"
+                        target="_blank" clstag="Channel_bz|keycount|news|link_4" >
+                        <h2 class="bt">
+                            我市疫情助手智能机器人咨询平台投入使用
+                        </h2>
+                        <p class="desc">
+                            为方便广大市民了解新型冠状病毒感染肺炎疫情的最新情况、防疫治疗措施等，市大数据局携手京东集团搭建疫情助手智能机器人咨询平台，为滨州市民免费提供疫情咨询等服务。疫情助手智能机器人咨…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a  href="http://www.cnfood.cn/diyixianchang145180.html"
+                        target="_blank" clstag="Channel_bz|keycount|news|link_3" >
+                        <h2 class="bt">
+                            “食域滨州”庆丰收——滨州市庆祝2019中国农民丰收节系列活动成功开幕
+                        </h2>
+                        <p class="desc">
+                            9月16日，由山东省农业农村厅、滨州市人民政府、中国农产品市场协会、中国农村杂志社指导，中国食品报、滨州市农业农村局、中国食品报社品牌农业战略推进广中心和京东云联合主办，中国水产流通…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a  href="https://m.toutiao.com/i6721970988843532807/?wxshare_count=2&pbid=6710121439397168648&from=groupmessage&isappinstalled=0"
+                        target="_blank" clstag="Channel_bz|keycount|news|link_4" >
+                        <h2 class="bt">
+                            京彩滨州 云创未来 2019滨州市职业院校夏令营活动圆满结束
+                        </h2>
+                        <p class="desc">
+                            2019年7月29至8月2日，“首届京东+滨州院校电商节大赛”的优秀选手和滨州市三所职业院校40余位优秀师生代表，一起来到京东集团，参加了"京彩滨州 云创未来"2019滨州市职业院校夏令营活动。这次…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a  href="https://expo.huodongjia.com/expo-738.html"
+                        target="_blank" clstag="Channel_bz|keycount|news|link_3" >
+                        <h2 class="bt">
+                            2019第十二届中国（济南）国际信息技术博览会（济南信博会）
+                        </h2>
+                        <p class="desc">
+                            由山东新丞华展览有限公司承办的中国（济南）国际信息技术博览会（以下简称信博会）是联合国亚洲及太平洋经济社会委员会与中国合作举办的唯一一个国际区域性信息技术博览会，也是部（院）省合…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a  href="https://www.sohu.com/a/320698154_120041885"
+                        target="_blank" clstag="Channel_bz|keycount|news|link_4" >
+                        <h2 class="bt">
+                            【政务】产数融合 智创未来：滨州新一代信息技术产业在京招商路演
+                        </h2>
+                        <p class="desc">
+                            6月13日,“产数融合 智创未来”滨州新一代信息技术产业路演活动在北京举办。副市长曹玉斌出席活动并致辞。本次活动是滨州市“5+5”十强产业系列招商路演活动的第一场,也是第一站。活动由滨州市大数…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <a  href="http://www.bzcm.net/folder350/2019-06-24/37140.html"
+                        target="_blank" clstag="Channel_bz|keycount|news|link_3" >
+                        <h2 class="bt">
+                            2019首届京东+滨州市院校电商文化节落幕 举办文化节 检阅电商学生技能
+                        </h2>
+                        <p class="desc">
+                            晚报讯 6月21日，为期一个多月的2019首届京东+滨州市院校电商文化节圆满落幕，现场为电商创意短视频大赛、电商技能大赛、电商理想家演讲大赛获奖选手颁奖。本次电商文化节围绕电子商务主题，以…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <a  href="http://www.cnlifewd.cn/18861/"
+                        target="_blank" clstag="Channel_bz|keycount|news|link_4" >
+                        <h2 class="bt">
+                            京东云滨州大讲堂开讲 专家解析十九大精神，学习深化改革的责任与使命
+                        </h2>
+                        <p class="desc">
+                            11月30日，京东云滨州经济技术开发区《学习党的十九大精神-全面从严治党》报告会在滨州市经济开发区政府办公楼如期举行。国资委政策研究室研究员夏国维教授为开发区各政府、党政干部深度解析…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- widget city-mode-fl8-bz end -->
+
+<!-- widget bottom-bar begin -->
+
+<!-- 联系我们 -->
+<div class="CH-footer">
+    <div class="CH-container">
+        <div class="row">
+            <div class="col-3 col-xs-12">
+                <div class="CH-footer-slogan">
+                    联系我们的专家，为您免费提供量身定制的方案咨询服务
+                </div>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt>免费咨询专家：400-623-0183</dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="idc|keycount|footer|online" href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="idc|keycount|footer|consultation" href="https://www.jdcloud.com/forms/consultation" target="_blank">请销售顾问联系我&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>不限时间，提交需求后，我们会尽快联系您</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- //联系我们  -->
+<!-- widget bottom-bar end -->
+
+<!-- widget pop-video-wrap begin -->
+
+<div class="pop-video-wrap">
+    <div class="mask"></div>
+    <div class="pop-video-video">
+        <video id="my-player" class="my-video" controls preload="auto" >
+            <source src="" type="video/mp4" id="my-player-source">
+        </video>
+        <div class="video-close">&times;</div>
+    </div>
+</div>
+<!-- widget pop-video-wrap end -->
