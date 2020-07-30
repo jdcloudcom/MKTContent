@@ -96,6 +96,7 @@
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/city/suqian" target="_blank">宿迁</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_1" href="https://www.jdcloud.com/cn/city/xian" target="_blank">西安</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/beihai" target="_blank">北海</a></li>
+						<li><a clstag="Channel_City|keycount|Header|Link_5_0_3" href="https://www.jdcloud.com/cn/city/binzhou" target="_blank">滨州</a></li>
                     </ul>
                 </div>
             </li>
@@ -837,7 +838,7 @@
 <div class="fl-section">
     <div class="tit-section">
         <h2 class="tit-h2">
-            宿迁标杆游学之旅
+        西安标杆游学之旅
         </h2>
     </div>
     <div class="cont-section-tour w">
