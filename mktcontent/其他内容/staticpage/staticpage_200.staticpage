@@ -96,6 +96,7 @@
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/city/suqian" target="_blank">宿迁</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_1" href="https://www.jdcloud.com/cn/city/xian" target="_blank">西安</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/beihai" target="_blank">北海</a></li>
+						<li><a clstag="Channel_City|keycount|Header|Link_5_0_3" href="https://www.jdcloud.com/cn/city/binzhou" target="_blank">滨州</a></li>
                     </ul>
                 </div>
             </li>
@@ -447,7 +448,7 @@
         <div class="szzf-show">
             <div class="video-item">
                 <div class="jdc-swiper-container swiper-fl3 swiper-container-horizontal">
-                    <div class="swiper-wrapper" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0">
+                    <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-944.742px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="margin-right: 10px;">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jh-m.png">
                             <div class="content">
@@ -532,7 +533,7 @@
                                     <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m1" class="jdc-btn jdc-btn-blue">VR体验</a>
                                 </div>
                             </div>
-                        </div></div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1">
+                        </div></div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="margin-right: 10px;">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-sq-m.png">
                             <div class="content">
@@ -617,7 +618,7 @@
                                 </div>
                             </div>
                         </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2">
+                        </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="2" style="margin-right: 10px;">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-xy-m.png">
                             <div class="content">
@@ -702,7 +703,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="swiper-slide" data-swiper-slide-index="0">
+                        <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="margin-right: 10px;">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jh-m.png">
                             <div class="content">
@@ -788,7 +789,7 @@
                                 </div>
                             </div>
                         </div></div>
-                        <div class="swiper-slide" data-swiper-slide-index="1">
+                        <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="margin-right: 10px;">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-sq-m.png">
                             <div class="content">
@@ -874,7 +875,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="swiper-slide" data-swiper-slide-index="2">
+                        <div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="margin-right: 10px;">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-xy-m.png">
                             <div class="content">
@@ -959,7 +960,7 @@
                             </div>
                         </div>
                         </div>
-                    <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0">
+                    <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="margin-right: 10px;">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jh-m.png">
                             <div class="content">
@@ -1044,7 +1045,7 @@
                                     <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m1" class="jdc-btn jdc-btn-blue">VR体验</a>
                                 </div>
                             </div>
-                        </div></div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1">
+                        </div></div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="margin-right: 10px;">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-sq-m.png">
                             <div class="content">
@@ -1129,7 +1130,7 @@
                                 </div>
                             </div>
                         </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2">
+                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" style="margin-right: 10px;">
                             <div class="video-list">
                             <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-xy-m.png">
                             <div class="content">
@@ -1215,7 +1216,10 @@
                         </div>
                         </div></div>
                     <!-- 如果需要分页器 -->
-                    <div class="jdc-swiper-pagination swiper-pagination-bullets"></div>
+                    <div class="jdc-swiper-pagination swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span>
+<span class="swiper-pagination-bullet"></span>
+<span class="swiper-pagination-bullet"></span>
+</div>
                 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
 </div>
             </div>
@@ -1244,18 +1248,18 @@
                        <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq1.png">
                        <div class="bt-block">
                             <h2 class="bt">
-                                北部湾数字经济示范中心
+                                京东呼叫中心
                             </h2>
                        </div>
                    </div>
                    <p class="introduce">
-                    依托北海市优越的资源及区位优势，京东通过输出产业大数据分析、生态伙伴引入、绿色通道打通、平台技术能力输出、人才体系建设等方面的优质服务，共同打造北部湾地区实体经济与数字经济结合的典范。
+                    总占地面积220亩，已建设22万平方米客服中心及配套用房，总投资20亿元。现已发展为北京、宿迁、成都、扬州四地及全国百余所实训中心。
                    </p>
 
                    <ul class="detail">
-                       <li class="detailLi">• 营造“一站式+保姆式”电商服务生态</li>
-                       <li class="detailLi">• 本地及周边地市传统企业电商营销板块以及电商服务企业聚集</li>
-                       <li class="detailLi">• 打造地方特色产业发展新模式</li>
+                       <li class="detailLi">• 人力高峰期可达1.5W多个客服坐席的规模</li>
+                       <li class="detailLi">• 人工日承接咨询量可达200万</li>
+                       <li class="detailLi">• 从业人员高达12000+人</li>
                    </ul>
                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_sq|keycount|Economy|Btn_0" class="digital-btn">
                             立即咨询
@@ -1268,18 +1272,18 @@
                         <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq2.png">
                         <div class="bt-block">
                              <h2 class="bt">
-                                北海产业创新中心
+                                京东宿迁仓储物流中心
                              </h2>
                         </div>
                     </div>
                     <p class="introduce">
-                        数字经济产业智库创新研究院——整合高端专家资源，建立智库团队，开展北海战略新兴产业政策研究和制定，做好数字经济产业发展的顶层设计和实施方案，加快北部湾数字经济产业集聚；新经济人才培养中心——整合京东大学电商学院、地方科研教育机构及地方企业资源，围绕“市场需求为导向，以能力培养为中心”开展校企合作，培养更多高素质、高技能的应用型人才。
+                        项目于2015年启动建设，占地286亩，建设20万平方米现代物流仓库、综合楼，成为京东零售辐射山东、安徽、河南等省以及苏北地区重要的仓储物流中心。
                     </p>
 
                     <ul class="detail">
-                        <li class="detailLi">• 北部湾特色产业</li>
-                        <li class="detailLi">• 智库研究院资源整合</li>
-                        <li class="detailLi">• 数字经济产业总体规划、产业发展咨询、行业趋势分析</li>
+                        <li class="detailLi">• 立体库区、多层阁楼拣货区、生产作业区和出货分拣4个区</li>
+                        <li class="detailLi">• 分拣处理能力16000件/小时</li>
+                        <li class="detailLi">• 分拣准确率高达99.99%</li>
                     </ul>
                     <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_sq|keycount|Economy|Btn_1" class="digital-btn">
                             立即咨询
@@ -1292,18 +1296,18 @@
                         <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq3.png">
                         <div class="bt-block">
                              <h2 class="bt">
-                                北海产业创新中心
+                                京东宿迁电子商务产业园
                              </h2>
                         </div>
                     </div>
                     <p class="introduce">
-                        数字经济产业智库创新研究院——整合高端专家资源，建立智库团队，开展北海战略新兴产业政策研究和制定，做好数字经济产业发展的顶层设计和实施方案，加快北部湾数字经济产业集聚；新经济人才培养中心——整合京东大学电商学院、地方科研教育机构及地方企业资源，围绕“市场需求为导向，以能力培养为中心”开展校企合作，培养更多高素质、高技能的应用型人才。
+                        依托宿豫电子商务产业发展基础，着力打造电子商务产业集聚中心、区域性物流快递配送中心、现代服务业发展中心、定制经济创新示范中心等“四大中心。
                     </p>
 
                     <ul class="detail">
-                        <li class="detailLi">• 北部湾特色产业</li>
-                        <li class="detailLi">• 智库研究院资源整合</li>
-                        <li class="detailLi">• 数字经济产业总体规划、产业发展咨询、行业趋势分析</li>
+                        <li class="detailLi">• 园区总建设面积6.4平方公里</li>
+                        <li class="detailLi">• 京东客服中心、电子商务第一街、文化公园、通联物流等多家电子商务相关企业入驻</li>
+                        <li class="detailLi">• 电商运营、网络交易、物流配送、定制加工、软件研发、文化创意</li>
                     </ul>
                     <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_sq|keycount|Economy|Btn_2" class="digital-btn">
                             立即咨询
@@ -1323,7 +1327,7 @@
                        <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq4.png">
                        <div class="bt-block">
                             <h2 class="bt">
-                                北部湾数字经济示范中心
+                                物联网智能制造 + 互联网金融
                             </h2>
                             <p class="desc">
                                 重点加快物联网智能制造、互联网金融两大特色产业集聚发展，重点推进京东物联网智能制造产业园建设；基金小镇已有京东金融、千山资本、久友资本等投资机构相继落户，股权基金达145支，规模1300亿元。
@@ -1391,7 +1395,6 @@
             </li>
         </ul>
     </div>
-
 </div>
 <!-- widget city-model-digitallife-sq end -->
 
@@ -2042,4 +2045,3 @@
     </div>
 </div>
 <!-- //联系我们  -->
-<!-- widget bottom-bar end -->
