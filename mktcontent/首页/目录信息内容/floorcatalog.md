@@ -470,8 +470,8 @@
 		"button_title":""
 	},
 	{
-		"name":"云搜索Elasticsearch",
-		"description":"高可用、准实时的分布式全文搜索服务\n",
+		"name":"文本短信",
+		"description":"提供验证码类，营销类，通知类短信服务",
 		"id":1908
 	},
 	{
