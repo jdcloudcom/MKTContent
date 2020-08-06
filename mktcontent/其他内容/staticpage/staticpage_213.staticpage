@@ -1,0 +1,2047 @@
+<!-- widget submenu begin -->
+<div class="subMenu-box">
+    <h2>城市</h2>
+    <div class="subMenu-level1">
+        <ul>
+            <li class="subMenu-link hasChild fullDrop">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_0" class="drop-link">解决方案中心</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subDropMenu">
+                        <li>
+                            <h3>善政</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_0" href="https://city.jdcloud.com/" target="_blank">京东城市云脑</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_1" href="https://city.jdcloud.com/exp/brain" target="_blank">智能城市运营中心（AIOC）</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_2" href="https://city.jdcloud.com/system.html" target="_blank">智能城市应用中心（AIAC）</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_3" href="https://www.jdcloud.com/cn/solutions/intelligent-transport-solution" target="_blank">智能交通</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_4" href="https://www.jdcloud.com/cn/solutions/intelligent-emergency-solution" target="_blank">智能应急</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_5" href="https://www.jdcloud.com/cn/solutions/internet-government-affairs-service-solution" target="_blank">互联网+政务服务</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>  
+                            <h3>兴业</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_0" href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution" target="_blank">数字农业</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_1" href="https://www.jdcloud.com/cn/solutions/intelligent-culture-and-tourism-solution" target="_blank">智能文旅</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_2" href="https://www.jdcloud.com/cn/solutions/industrial-internet-solution" target="_blank">智能制造</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_3" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_4" href="https://www.jdcloud.com/cn/solutions/industry-innovation-cloud-solution" target="_blank">产业创新云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_5" href="https://www.jdcloud.com/cn/solutions/urban-industry-service-platform" target="_blank">城市产业服务平台</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_6" href="https://www.jdcloud.com/cn/neec/index" target="_blank">线上城市新经济展示中心</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_7" href="https://www.jdcloud.com/cn/solutions/smart-park" target="_blank">AI 智慧园区</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_8" href="https://www.jdcloud.com/cn/solutions/smart-campus" target="_blank">AI 智慧校园</a></li>
+                                </ul>
+                            </div>
+                        </li>     
+                        <li>
+                            <h3>筑基</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_0" href="https://www.jdcloud.com/cn/products/data-middle-end" target="_blank">数据中台</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_1" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_2" href="https://www.jdcloud.com/cn/solutions/county-media-integration-solution" target="_blank">县域融媒云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_3" href="https://www.jdcloud.com/cn/solutions/urban-big-data-solution" target="_blank">城市大数据</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_4" href="https://www.jdcloud.com/cn/solutions/Industry-onboarding-solution" target="_blank">企业上云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_5" href="https://www.jdcloud.com/cn/solutions/intelligent-city-digital-network" target="_blank">智能城市干线网络</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_6" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_7" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_8" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_9" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政务云办公</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_10" href="https://www.jdcloud.com/cn/solutions/e-government-cloud-paas-solution" target="_blank">政务云PaaS</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_11" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIoT</a></li>
+                                </ul>
+                            </div>
+                        </li>  
+                        <li>  
+                            <h3>共生</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_3_0" href="https://www.jdcloud.com/cn/solutions/intelligent-environmental-protection-solution" target="_blank">智能环保</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_1" class="drop-link">智网落地</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_0" href="https://www.jdcloud.com/cn/solutions/industrial-e-commerce-cloud" target="_blank">数字经济产业园</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_1" href="https://www.jdcloud.com/cn/solutions/industry-innovation" target="_blank">全国创新中心</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_2" href="https://www.jdcloud.com/cn/neec/index" target="_blank">数字经济展示中心</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_2" class="drop-link">通用解决方案</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_0" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_1" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_2" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_3" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政企云办公</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_4" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_5" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIot</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_3" class="drop-link">样板城市</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/city/suqian" target="_blank">宿迁</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_1" href="https://www.jdcloud.com/cn/city/xian" target="_blank">西安</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/beihai" target="_blank">北海</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/binzhou" target="_blank">滨州</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/nantong" target="_blank">南通</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_3" class="drop-link">体验中心</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_0" href="https://city.jdcloud.com/exp/" target="_blank">领导驾驶舱</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_1" href="https://city.jdcloud.com/exp/industrychain/industriesTabs" target="_blank">产业链招商</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_2" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_3" href="https://city.jdcloud.com/exp/frame/affair" target="_blank">政务服务</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_4" href="https://city.jdcloud.com/exp/equipment" target="_blank">设备运行检测</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_4" class="drop-link">客户案例</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/case/detail/186" target="_blank">滨州经济技术开发区</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_1" href="https://www.jdcloud.com/cn/case/detail/194" target="_blank">南京市麒麟园区</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_2" href="https://www.jdcloud.com/cn/case/detail/188" target="_blank">仙游县人民政府</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="tel-info"><a href="https://www.jdcloud.com/cn/forms/consultation"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i>售前咨询：400-623-0183</a> </div>
+</div>
+<!-- widget submenu end -->
+
+<!-- widget city-mode-banner1-nt begin -->
+<div class="banner-city">
+    <div class="w banner-city-ct">
+        <img src="https://img1.jcloudcs.com/portal/channel/city/nt/banner-m.png" class="banner-m"/>
+        <div class="fs-slide-ct">
+            <div class="fs-slide-txt">
+                <b class="fs-slide-tit">“通”上京东</b>
+                <p class="fs-slide-des">长三角“研产供销”千亿数字经济产业带</p>
+
+            </div>
+            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&amp;aspid=18263598494.1.3.0.1664&amp;waiterApp=open.18992bf0a159e570ed70016a51.waiter&amp;entry=%20%20%20%20%20&amp;venderId=18263598494&amp;mallId=18263598494&amp;ws=ws1-dd.jd.com&amp;lang=zh_CN&amp;waiterAppId=open.18992bf0a159e570ed70016a51.waiter&amp;userApp=open.18992bf0a159e570ed70016a51.customer"
+               target="_blank" clstag="Channel_sq|keycount|Banner|Btn_0" class="jdc-btn jdc-btn-blue">立即咨询</a>
+        </div>
+    </div>
+</div>
+<!-- widget city-mode-banner1-nt end -->
+
+<!-- widget city-mode-fl2-nt begin -->
+<div class="fl-section fl2">
+    <div class="tit-section pc-hid">
+        <h2 class="tit-h2">
+            京东助力南通，打造千亿数字经济产业带
+        </h2>
+    </div>
+    <div class="cont-section-st w mt20">
+        <div class="row row-top">
+            <div class="col-4 col-xs-12">
+                <div class="item-st-img">
+                    <a class="play-button" data-video="https://img1.jcloudcs.com/portal/channel/city/nt/nantong.mp4">
+                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"/>
+                    </a>
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl2-video.png"/>
+                </div>
+            </div>
+            <div class="col-8 col-xs-12">
+                <div class="item-st-txt">
+                    <b>京东助力南通，打造千亿数字经济产业带</b>
+                    <p>2019年3月16日，京东智联云与南通市崇川区就共同构建“京东智联云港航服务长三角区域中心”达成共识，共建包含“4个中心”，力争打造立足南通、覆盖长三角、辐射全球的港航服务、跨境电商、数字经济产业高地，以成功实践助力“一带一路”和“长江三角洲区域一体化”国家战略落地，携手共创南通数字经济产业高质量发展的新格局。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="layout-block w">
+            <div class="row">
+                <div class="col-4 col-xs-12">
+                    <div class="block">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/img-fl2-icon1.png" />
+                        <div class="bottom-text">
+                        <span>
+                            四要素
+                        </span>
+
+                            <ul class="detail">
+                                <li class="detailLi">• 研：模式升级，数据分析，场景应用</li>
+                                <li class="detailLi">• 产：企业聚集，技术升级，技术支持</li>
+                                <li class="detailLi">• 供：智能物流、智能供应链、供应链金融</li>
+                                <li class="detailLi">• 销：平台支持，运营支持，营销支持</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 col-xs-12">
+                    <div class="block">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/img-fl2-icon2.png" />
+                        <div class="bottom-text">
+                        <span>
+                            三中心
+                        </span>
+
+                            <ul class="detail detail2">
+                                <li class="detailLi">• 电商产业集聚中心</li>
+                                <li class="detailLi">• 直播云中心</li>
+                                <li class="detailLi">• 数字经济人才培育中心</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 col-xs-12">
+                    <div class="block">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/bz/img-fl2-icon3.png" />
+                        <div class="bottom-text">
+                            <span>
+                                六平台
+                            </span>
+
+                            <ul class="detail detail3">
+                                <li class="detailLi">• 城市产业运营综合服务平台</li>
+                                <li class="detailLi">• 南通产业供应链人工智能平台</li>
+                                <li class="detailLi">• 云计算大数据服务平台</li>
+                                <li class="detailLi">• 供应链金融服务平台</li>
+                                <li class="detailLi">• 数字化招商平台</li>
+                                <li class="detailLi">• 数字经济产业承载平台</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- widget city-mode-fl2-nt end -->
+
+<!-- widget city-mode-fl3-nt begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            四要素
+        </h2>
+        <p class="tit-desc">“研产供销”反向定制C2B平台</p>
+
+    </div>
+    <div class="step w">
+        <div class="m-width">
+            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl3-img-pc.png" class="fl3-pc-img"/>
+            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl3-img-m.png" class="fl3-m-img"/>
+            <div class="step-text">
+                <div class="row">
+                    <span class="col-3">研发</span>
+
+                    <span class="col-3">生产</span>
+
+                    <span class="col-3">供应链</span>
+
+                    <span class="col-3">销售</span>
+
+                </div>
+            </div>
+            <p>
+                “研产供销”反向定制C2B平台是通过重新构建南通供应链的上下游关系， 并依托京东的大数据和AI驱动的市场洞察与用户洞察能力，打造的互联网经济时代新的商业模式。该平台以消费者为中心，可跟踪市场热点趋势，预测商品未来价格趋势，并对商品进行综合分析。<span class="m-text">同时，可全方位解读用户关注点，预测用户需求，辅助当地产业带企业生产决策，补齐南通市产业创新要素，加快推动当地产业发展，激发当地企业创新活力和内生动力。</span>
+
+            </p>
+
+        </div>
+    </div>
+    <div class="economy-block w">
+        <div class="row m-hide">
+            <div class="col-3 col-xs-12">
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon1.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                品牌关键要素分析
+                            </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        基于C2B的客群洞察和商品分析，从消费大数据的角度，精准分析用户对品牌关注的关键点
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 区隔与其他品牌间的定位，品牌定位更精准</li>
+                        <li class="detailLi">• 降低企业定量分析的调研成本</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon5.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                营销效果预测
+                            </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        基于历史和交易数据，通过多种技术, 处理分析并模拟预测营销投放，辅助预判营销效果
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 运用数据挖掘、建模、机器学习等多种技术</li>
+                        <li class="detailLi">• 增加企业营销成功率</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+            </div>
+            <div class="col-3 col-xs-12">
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon2.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                品牌舆情分析
+                            </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        通过自然语言理解技术，针对京东及第三方平台的发布/评论内容，智能解析企业舆情信息
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 统计品牌涉及内容中的重要观点和正负情感</li>
+                        <li class="detailLi">• 了解企业舆情更高效</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon6.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                卖点挖掘
+                            </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        基于京东消费数据和品牌商数据，通过机器学习算法模型，对特定商品提供卖点关键词输出
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 无需改变商品的属性</li>
+                        <li class="detailLi">• 深度挖掘商品卖点，定制商品卖点关键词</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+            </div>
+            <div class="col-3 col-xs-12">
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon3.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                营销客群圈定
+                            </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        根据用户在京东全站品类购买中展现出的购物行为及趋势进行综合计算圈定投放客群
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 综合用户行为、趋势、购买频次等因素</li>
+                        <li class="detailLi">• 投放客群更精准</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon7.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                商品升级
+                            </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        基于京东消费数据和品牌商数据，通过机器学习算法模型，对商品部分维度提供建议和预测
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 输出相关商品转化率的提升预测</li>
+                        <li class="detailLi">• 输出相关商品评价的预测</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+            </div>
+            <div class="col-3 col-xs-12">
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon3.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                营销内容优化
+                            </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        通过数据反馈和机器学习技术，结合自然语言处理技术，辅助企业优化营销内容
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 自动生成的文案切题、通顺、有感染力</li>
+                        <li class="detailLi">• 了解企业舆情更高效</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon8.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                商品定制
+                            </h2>
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        基于京东消费数据和品牌商数据，通过机器学习算法模型，定制商品属性的部分维度
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 输出相关商品转化率的提升预测</li>
+                        <li class="detailLi">• 输出相关商品评价的预测</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="jdc-swiper-container swiper-fl3 pc-hid">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="row">
+                        <div class="col-3 col-xs-12">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon1.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            品牌关键要素分析
+                                        </h2>
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    基于C2B的客群洞察和商品分析，从消费大数据的角度，精准分析用户对品牌关注的关键点
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 区隔与其他品牌间的定位，品牌定位更精准</li>
+                                    <li class="detailLi">• 降低企业定量分析的调研成本</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon5.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            营销效果预测
+                                        </h2>
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    基于历史和交易数据，通过多种技术, 处理分析并模拟预测营销投放，辅助预判营销效果
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 运用数据挖掘、建模、机器学习等多种技术</li>
+                                    <li class="detailLi">• 增加企业营销成功率</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="row">
+                        <div class="col-3 col-xs-12">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon2.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            品牌舆情分析
+                                        </h2>
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    通过自然语言理解技术，针对京东及第三方平台的发布/评论内容，智能解析企业舆情信息
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 统计品牌涉及内容中的重要观点和正负情感</li>
+                                    <li class="detailLi">• 了解企业舆情更高效</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon6.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            卖点挖掘
+                                        </h2>
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    基于京东消费数据和品牌商数据，通过机器学习算法模型，对特定商品提供卖点关键词输出
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 无需改变商品的属性</li>
+                                    <li class="detailLi">• 深度挖掘商品卖点，定制商品卖点关键词</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="row">
+                        <div class="col-3 col-xs-12">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon3.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            营销客群圈定
+                                        </h2>
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    根据用户在京东全站品类购买中展现出的购物行为及趋势进行综合计算圈定投放客群
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 综合用户行为、趋势、购买频次等因素</li>
+                                    <li class="detailLi">• 投放客群更精准</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon7.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            商品升级
+                                        </h2>
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    基于京东消费数据和品牌商数据，通过机器学习算法模型，对商品部分维度提供建议和预测
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 输出相关商品转化率的提升预测</li>
+                                    <li class="detailLi">• 输出相关商品评价的预测</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="row">
+                        <div class="col-3 col-xs-12">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon3.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            营销内容优化
+                                        </h2>
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    通过数据反馈和机器学习技术，结合自然语言处理技术，辅助企业优化营销内容
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 自动生成的文案切题、通顺、有感染力</li>
+                                    <li class="detailLi">• 了解企业舆情更高效</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/img-fl3-icon8.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            商品定制
+                                        </h2>
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    基于京东消费数据和品牌商数据，通过机器学习算法模型，定制商品属性的部分维度
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 输出相关商品转化率的提升预测</li>
+                                    <li class="detailLi">• 输出相关商品评价的预测</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 如果需要分页器 -->
+            <div class="jdc-swiper-pagination pagination-nt-fl3"></div>
+        </div>
+    </div>
+</div>
+<!-- widget city-mode-fl3-nt end -->
+
+<!-- widget city-mode-fl4-nt begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            三中心
+        </h2>
+<!--        <p class="tit-desc">优势整合、技术赋能、产业上云</p>
+-->
+    </div>
+    <div class="cont-section-szzf w szzf-show-pc">
+        <div class="szzf-show">
+            <div class="video-item">
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl4-img1.png"/>
+                    <div class="content">
+                        <b class="tit">京东智联云（南通）直播服务中心</b>
+                        <div class="curr-cont">
+                            <p class="p-desc f-toe3">
+                                联动园区电商企业，通过直播引流、电商变现的完整商业闭环，提升园区内商企业销售额
+                            </p>
+
+                            <ul>
+                                <li>• 销售渠道—直播带货：</li>
+                                <li class="ml10">通过网红主播直播带货的方式，帮助企业、特产馆提升产品销量。</li>
+                                <li>• 品牌曝光—网红城市景点整合营销： </li>
+                                <li class="ml10">对接抖音快手等平台和MCN流量主播等，策划城市宣传和曝光，助力城市产业品牌打造。</li>
+                                <li>• 扶贫—村播计划/村播基地：</li>
+                                <li class="ml10">联合政府共同打造“村播基地”，培育驻村主播，进行长期持续性的村播卖货。</li>
+                                <li>• 人才培育—直播人才选育用：</li>
+                                <li class="ml10">联合京东大学，引入专业讲师和直播模式（如抖音、快手等），人才培训，建立“直播人才培育基地”。</li>
+                                <li>• 其他</li>
+                                <li class="ml10">加快当地云建设，协同当地招商、产业发展要素补齐。</li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_1" class="jdc-btn jdc-btn-white  mt26">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-list curr">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl4-img2.png"/>
+                    <div class="content">
+                        <b class="tit">电商产业聚集中心</b>
+                        <div class="curr-cont">
+                            <p class="p-desc f-toe3">
+                                针对南通本地特色产业，通过品牌建设服务、产业集聚服务、全网运营服务等手段，以大型招商活动、企业扶持办法、电商节等形式，帮助南通本地集聚电商产业，提升企业销售额
+                            </p>
+
+                            <ul>
+                                <li>• 产业资源对接：</li>
+                                <li class="ml10">共同引入特色产业优质生态服务企业落地进行资源对接。</li>
+                                <li class="mt20">• 电商活动支持： </li>
+                                <li class="ml10">利用京东技术及平台优势，结合当地特色产业，精准选品、电商造势、媒体宣传、爆款打造、京东直采，助推销量提升。</li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_2" class="jdc-btn jdc-btn-white mt70">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl4-img3.png"/>
+                    <div class="content">
+                        <b class="tit">数字经济人才培育中心</b>
+                        <div class="curr-cont">
+                            <p class="p-desc f-toe3">
+                                整合京东、地方资源，以市场需求为导向，能力培养为中心，线上线下结合，赋能电商人才
+                            </p>
+
+                            <ul>
+                                <li>• 人才培养：</li>
+                                <li class="ml10">将京东云学院特色优势课题与当地具体需求相结合，为企业触网、发展电商产业、实现地方新旧动能转
+                                    换、带动“互联网+新经济产业园”的聚集效应，提供基础的电商人力储备。</li>
+                                <li class="mt20">• 校企合作：  </li>
+                                <li class="ml10">整联合本地院校，通过校企合作、专业共建等方式，提供就业，培育万人跨境电商、数字经济等产业高端
+                                    人才，吸引人才回流。</li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_3" class="jdc-btn jdc-btn-white mt70">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="cont-section-szzf szzf-show-m">
+        <div class="szzf-show">
+            <div class="video-item">
+                <div class="jdc-swiper-container swiper-fl4">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl4-img1-m.png"/>
+                                <div class="content">
+                                    <b class="tit">京东智联云（南通）直播服务中心</b>
+                                    <div class="curr-cont">
+                                        <p class="p-desc f-toe3">
+                                            联动园区电商企业，通过直播引流、电商变现的完整商业闭环，提升园区内商企业销售额
+                                        </p>
+
+                                        <ul>
+                                            <li>• 销售渠道—直播带货：</li>
+<!--                                            <li>通过网红主播直播带货的方式，帮助企业、特产馆提升产品销量。</li>-->
+                                            <li>• 品牌曝光—网红城市景点整合营销： </li>
+<!--                                            <li>对接抖音快手等平台和MCN流量主播等，策划城市宣传和曝光，助力城市产业品牌打造。</li>-->
+                                            <li>• 扶贫—村播计划/村播基地：</li>
+<!--                                            <li>联合政府共同打造“村播基地”，培育驻村主播，进行长期持续性的村播卖货。</li>-->
+                                            <li>• 人才培育—直播人才选育用：</li>
+<!--                                            <li>联合京东大学，引入专业讲师和直播模式（如抖音、快手等），人才培训，建立“直播人才培育基地”。</li>-->
+                                            <li>• 其他</li>
+<!--                                            <li>加快当地云建设，协同当地招商、产业发展要素补齐。</li>-->
+                                        </ul>
+                                        <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_1" class="jdc-btn jdc-btn-blue  mt26">立即咨询</a>
+                                    </div>
+                                </div>
+                        </div></div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl4-img2-m.png"/>
+                                <div class="content">
+                                    <b class="tit">电商产业聚集中心</b>
+                                    <div class="curr-cont">
+                                        <p class="p-desc f-toe3">
+                                            针对南通本地特色产业，通过品牌建设服务、产业集聚服务、全网运营服务等手段，以大型招商活动、企业扶持办法、电商节等形式，帮助南通本地集聚电商产业，提升企业销售额
+                                        </p>
+
+                                        <ul>
+                                            <li>• 产业资源对接：</li>
+                                            <li class="f-toe2">共同引入特色产业优质生态服务企业落地进行资源对接。</li>
+                                            <li class="mt20">• 电商活动支持： </li>
+                                            <li class="f-toe2">利用京东技术及平台优势，结合当地特色产业，精准选品、电商造势、媒体宣传、爆款打造、京东直采，助推销量提升。</li>
+                                        </ul>
+                                        <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_2" class="jdc-btn jdc-btn-blue mt70">立即咨询</a>
+                                    </div>
+                                </div>
+                        </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl4-img3-m.png"/>
+                                <div class="content">
+                                    <b class="tit">数字经济人才培育中心</b>
+                                    <div class="curr-cont">
+                                        <p class="p-desc f-toe3">
+                                            整合京东、地方资源，以市场需求为导向，能力培养为中心，线上线下结合，赋能电商人才
+                                        </p>
+
+                                        <ul>
+                                            <li>• 人才培养：</li>
+                                            <li class="f-toe2">将京东云学院特色优势课题与当地具体需求相结合，为企业触网、发展电商产业、实现地方新旧动能转
+                                                换、带动“互联网+新经济产业园”的聚集效应，提供基础的电商人力储备。</li>
+                                            <li class="mt20">• 校企合作：  </li>
+                                            <li class="f-toe2">整联合本地院校，通过校企合作、专业共建等方式，提供就业，培育万人跨境电商、数字经济等产业高端
+                                                人才，吸引人才回流。</li>
+                                        </ul>
+                                        <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_3" class="jdc-btn jdc-btn-blue mt70">立即咨询</a>
+                                    </div>
+                                </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- 如果需要分页器 -->
+                    <div class="jdc-swiper-pagination"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- widget city-mode-fl4-nt end -->
+
+<!-- widget city-mode-fl5-nt begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            六平台
+        </h2>
+    </div>
+    <div class="digital-block digital-block-v1 pc w">
+        <div class="swiper-container sixPlateform">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <ul class="digital-tab">
+                        <li class="tab1li on">
+                            城市产业运营综合服务平台
+                        </li>
+                        <li class="tab1li">
+                            云计算大数据服务平台
+                        </li>
+                        <li class="tab1li">
+                            产业供应链人工智能平台
+                        </li>
+                    </ul> 
+                    <ul class="digital-content">
+                        <li class="digital-contentli digital-contentli-v1 show">
+                            <div class="left-block">
+                                <div class="top-bt">
+                                    <h2 class="bt">城市产业运营综合服务平台</h2>
+                                </div>
+                                <p class="middle-desc">面向数字经济产业园提供运营资源统筹分配、创新资源管理、园区智慧化管理等服务。同时为入驻企业，提供覆盖人财物、研、产、供、销、服八大模块的数字化系统服务，构建数字化基础，提升企业运营效率。</p>
+
+                                <div class="row">
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab1-icon1.png"/>
+                                                <span>产业运营管理服务</span>
+
+                                            </div>
+                                            <p>政策先知道、进驻园区、入驻京东、资源申请</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab1-icon2.png"/>
+                                                <span>产业创新孵化服务</span>
+
+                                            </div>
+                                            <p>服务信息管理、创新空间管理、品牌活动管理、服务开放平台</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab1-icon3.png"/>
+                                                <span>智慧园区管理服务</span>
+
+                                            </div>
+                                            <p>云数据中心、智慧一卡通、智慧导航&停车、能效管理、视频监控、信息发布</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <a href="https://mall.jd.com/index-10039656.html" target="_blank" clstag="Channel_bh|keycount|Life|Btn_1" class="digital-btn mt26">查看详情</a>
+                            </div>
+                            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab1-img.png"/>
+                        </li>
+                        <li class="digital-contentli digital-contentli-v1">
+                            <div class="left-block">
+                                <div class="top-bt top-bt2">
+                                    <h2 class="bt">云计算大数据服务平台</h2>
+                                </div>
+                                <p class="middle-desc">以京东大数据资源及技术积累为基础生态赋能，支撑地方产业建立健全大数据价值体系，保障数据创新驱动产业发展。</p>
+
+                                <ul class="bottom-detail">
+                                    <li>• 京东智联云将在南通租赁200个机柜建设云设施本地化，推动数字经济发展</li>
+                                    <li>• 产业大数据分析系统将经济与产业发展信息资源进行整合，宏观角度出发监控企业全生命周期</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt26">立即咨询</a>
+                            </div>
+                            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab2-img.png"/>
+                        </li>
+                        <li class="digital-contentli digital-contentli-v1">
+                            <div class="left-block">
+                                <div class="top-bt top-bt2">
+                                    <h2 class="bt">产业供应链人工智能平台</h2>
+                                </div>
+                                <p class="middle-desc">联合产业开发者共同为现代供应链三大应用场景（生产、流通、消费）赋予三类智慧（可视化、可感知、可调节）。三类智慧的创新应用完整覆盖了供应链上下游，从原材料的采购到产品的创意选择，设计、研发与生产，定价，选品，库存管理，仓储策略与配送优化，再到商品的营销，交易和售后服务。</p>
+
+                                <div class="row">
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab3-icon1.png"/>
+                                                <span>生产端</span>
+
+                                            </div>
+                                            <p>分析消费数据，用户画像，精准定位产品用户群体，打破原有生产端到消费端的供应链路，以消费市场来主导，提升企业竞争力，提升政府的服务意识与态度。</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab3-icon2.png"/>
+                                                <span>供应端</span>
+
+                                            </div>
+                                            <p>分析消费数据和商品地域，提高采购、仓储、配送等环节效率，提升用户消费体验；分析企业过往采购数据，实现供应链金融，帮助企业提升资金流转效率。</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab3-icon3.png"/>
+                                                <span>消费端</span>
+
+                                            </div>
+                                            <p>通过建立用户画像，精准定位消费人群，从而实现平台销售额的提升。</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt26">立即咨询</a>
+                            </div>
+                            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab3-img.png"/>
+                        </li>
+                    </ul>
+                </div>
+                <div class="swiper-slide">
+                    <ul class="digital-tab">
+                        <li class="tab2li on">
+                            数字化招商平台
+                        </li>
+                        <li class="tab2li">
+                            数字经济产业承载平台
+                        </li>
+                        <li class="tab2li">
+                            供应链金融服务平台
+                        </li>
+                    </ul> 
+                    <ul class="digital-content">
+                        <li class="digital-contentli digital-contentli-v1 digital-contentli-vtab2 show">
+                            <div class="left-block">
+                                <div class="top-bt top-bt2">
+                                    <h2 class="bt">数字化招商平台</h2>
+                                </div>
+                                <p class="middle-desc middle-desc-v1">利用云计算、物联网、大数据、人工智能等技术，感知城市运行状态，联动城市各类资源，对城市运行状态实现从感知到认知、从预测到决策的完整闭环，实现运行态势呈现、监测预警、联动指挥、分析决策、趋势预测的多元化服务。</p>
+
+                                <div class="row row-v1">
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon1.png">
+                                                <span>更透彻的感知和度量</span>
+
+                                            </div>
+                                            <p>整合城市信息资源，统一管理快速更新，及时掌握城市事件变化</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon2.png">
+                                                <span>更全面的互联互通</span>
+
+                                            </div>
+                                            <p>从全局观点出发，推动各部门数据及业务的协同</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon3.png">
+                                                <span>更深入的智能洞察</span>
+
+                                            </div>
+                                            <p>实现原始数据转化、分析、挖掘、开发特色应用和辅助决策</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon4.png">
+                                                <span>更完善的服务</span>
+
+                                            </div>
+                                            <p>满足政府和社会公众需求的服务，将城市服务能力进行统一管理</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon5.png">
+                                                <span>更精准的预测与决策</span>
+
+                                            </div>
+                                            <p>通过信息资源和预测模型，帮助政府对事件进行预测管理决策等</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon6.png">
+                                                <span>更高效的联动指挥</span>
+
+                                            </div>
+                                            <p>将数据融合、监测、分析和预测，联动指挥，提升事件处理效率</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
+                            </div>
+                            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-img.png">
+                        </li>
+                        <li class="digital-contentli digital-contentli-v1 digital-contentli-vtab2">
+                            <div class="left-block">
+                                <div class="top-bt top-bt2">
+                                    <h2 class="bt">数字经济产业承载平台</h2>
+                                </div>
+                                <p class="middle-desc">三类物理空间，服务数字经济产业</p>
+
+                                <div class="row">
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab5-icon1.png"/>
+                                                <span>京东智联云创新空间</span>
+
+                                            </div>
+                                            <p>承载京东智联云内外智能产业创新资源落地、优秀孵化项目、协同创新中心、KA客户、培训活动、品牌推广活动等。</p>
+
+                                            <div class="text">• 面积：2000-3000平米</div>
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab5-icon2.png"/>
+                                                <span>企业办公空间</span>
+
+                                            </div>
+                                            <p>企业办公空间用于支持数字经济产业园落地企业入驻。相关建筑、装修等工作由当地政府负责，委托第三方进行运营管理。</p>
+
+                                            <div class="text">• 面积：2000-3000平米</div>
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="item">
+                                            <div class="top">
+                                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab5-icon3.png"/>
+                                                <span>数字经济展厅</span>
+
+                                            </div>
+                                            <p>运用全息投影 、联动投影展示 、多维矩阵空间投影，触动LED光柱 、互动桌面 、联动屏 、智能中控系统等技术展示数字经济建设成果。</p>
+
+                                            <div class="text">• 面积：500-1000平米</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt26">立即咨询</a>
+                            </div>
+                            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab5-img.png"/>
+                        </li>
+                        <li class="digital-contentli digital-contentli-v1 digital-contentli-vtab2">
+                            <div class="left-block">
+                                <div class="top-bt top-bt2">
+                                    <h2 class="bt">供应链金融服务平台</h2>
+                                </div>
+                                <p class="middle-desc">以人工智能技术为支撑，充分利用大数据、物联网、区块链、云计算等新技术为辅助手段，在供应链的生产、流通、消费等重要环节研发颠覆式创新的人工智能关键技术，建设智能供应链新一代人工智能开放创新平台，助力打造南通产业聚集创新中心，共建供应链与大数据研究院，全面升级为供应链金融服务平台。</p>
+
+
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
+                            </div>
+                            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab6-img.png"/>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- 如果需要导航按钮 -->
+        <div class="jdc-swiper-button-prev"><i></i></div>
+        <div class="jdc-swiper-button-next"><i></i></div>
+    </div>
+    <div class="digital-block digital-block-v1 mobile w">
+        <div class="tab-content">
+            <div class="tab-item-title jdc-common-arr active">
+                <h4>城市产业运营综合服务平台</h4>
+            </div>
+            <div class="tab-item f-cb current m-on">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1 show">
+                        <div class="left-block">
+                            <div class="top-bt">
+                                <h2 class="bt">城市产业运营综合服务平台</h2>
+                            </div>
+                            <p class="middle-desc">面向数字经济产业园提供运营资源统筹分配、创新资源管理、园区智慧化管理等服务。同时为入驻企业，提供覆盖人财物、研、产、供、销、服八大模块的数字化系统服务，构建数字化基础，提升企业运营效率。</p>
+
+                            <div class="row">
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab1-icon1.png"/>
+                                            <span>• 产业运营管理服务</span>
+
+                                        </div>
+                                        <p>政策先知道、进驻园区、入驻京东、资源申请</p>
+
+                                    </div>
+                                </div>
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab1-icon2.png"/>
+                                            <span>• 产业创新孵化服务</span>
+
+                                        </div>
+                                        <p>服务信息管理、创新空间管理、品牌活动管理、服务开放平台</p>
+
+                                    </div>
+                                </div>
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab1-icon3.png"/>
+                                            <span>• 智慧园区管理服务</span>
+
+                                        </div>
+                                        <p>云数据中心、智慧一卡通、智慧导航&停车、能效管理、视频监控、信息发布</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="https://mall.jd.com/index-10039656.html" target="_blank" clstag="Channel_bh|keycount|Life|Btn_1" class="digital-btn mt26">查看详情</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab1-img-m.png"/>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>云计算大数据服务平台</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="left-block">
+                            <div class="top-bt top-bt2">
+                                <h2 class="bt">云计算大数据服务平台</h2>
+                            </div>
+                            <p class="middle-desc">以京东大数据资源及技术积累为基础生态赋能，支撑地方产业建立健全大数据价值体系，保障数据创新驱动产业发展。</p>
+
+                            <ul class="bottom-detail">
+                                <li>• 京东智联云将在南通租赁200个机柜建设云设施本地化，推动数字经济发展</li>
+                                <li>• 产业大数据分析系统将经济与产业发展信息资源进行整合，宏观角度出发监控企业全生命周期</li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab2-img-m.png"/>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>产业供应链人工智能平台</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="left-block">
+                            <div class="top-bt top-bt3">
+                                <h2 class="bt">产业供应链人工智能平台</h2>
+                            </div>
+                            <p class="middle-desc">联合产业开发者共同为现代供应链三大应用场景（生产、流通、消费）赋予三类智慧（可视化、可感知、可调节）。三类智慧的创新应用完整覆盖了供应链上下游，从原材料的采购到产品的创意选择，设计、研发与生产，定价，选品，库存管理，仓储策略与配送优化，再到商品的营销，交易和售后服务。</p>
+
+                            <div class="row">
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab3-icon1.png"/>
+                                            <span>• 生产端</span>
+
+                                        </div>
+                                        <p>分析消费数据，用户画像，精准定位产品用户群体，打破原有生产端到消费端的供应链路，以消费市场来主导，提升企业竞争力，提升政府的服务意识与态度。</p>
+
+                                    </div>
+                                </div>
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab3-icon2.png"/>
+                                            <span>• 供应端</span>
+
+                                        </div>
+                                        <p>分析消费数据和商品地域，提高采购、仓储、配送等环节效率，提升用户消费体验；分析企业过往采购数据，实现供应链金融，帮助企业提升资金流转效率。</p>
+
+                                    </div>
+                                </div>
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab3-icon3.png"/>
+                                            <span>• 消费端</span>
+
+                                        </div>
+                                        <p>通过建立用户画像，精准定位消费人群，从而实现平台销售额的提升。</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab3-img-m.png"/>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>数字化招商平台</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="left-block">
+                            <div class="top-bt top-bt4">
+                                <h2 class="bt">数字化招商平台</h2>
+                            </div>
+                            <p class="middle-desc">利用云计算、物联网、大数据、人工智能等技术，感知城市运行状态，联动城市各类资源，对城市运行状态实现从感知到认知、从预测到决策的完整闭环，实现运行态势呈现、监测预警、联动指挥、分析决策、趋势预测的多元化服务。</p>
+
+                            <div class="row">
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon1.png"/>
+                                            <span>• 更透彻的感知和度量</span>
+
+                                        </div>
+                                        <p>整合城市信息资源，统一管理快速更新，及时掌握城市事件变化</p>
+
+                                    </div>
+                                </div>
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon2.png"/>
+                                            <span>• 更全面的互联互通</span>
+
+                                        </div>
+                                        <p>从全局观点出发，推动各部门数据及业务的协同</p>
+
+                                    </div>
+                                </div>
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon3.png"/>
+                                            <span>• 更深入的智能洞察</span>
+
+                                        </div>
+                                        <p>实现原始数据转化、分析、挖掘、开发特色应用和辅助决策</p>
+
+                                    </div>
+                                </div>
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon4.png"/>
+                                            <span>• 更完善的服务</span>
+
+                                        </div>
+                                        <p>满足政府和社会公众需求的服务，将城市服务能力进行统一管理</p>
+
+                                    </div>
+                                </div>
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon5.png"/>
+                                            <span>• 更精准的预测与决策</span>
+
+                                        </div>
+                                        <p>通过信息资源和预测模型，帮助政府对事件进行预测管理决策等</p>
+
+                                    </div>
+                                </div>
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-icon6.png"/>
+                                            <span>• 更高效的联动指挥</span>
+
+                                        </div>
+                                        <p>将数据融合、监测、分析和预测，联动指挥，提升事件处理效率</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab4-img-m.png"/>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>数字经济产业承载平台</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="left-block">
+                            <div class="top-bt top-bt5">
+                                <h2 class="bt">数字经济产业承载平台</h2>
+                            </div>
+                            <p class="middle-desc">三类物理空间，服务数字经济产业</p>
+
+                            <div class="row">
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab5-icon1.png"/>
+                                            <span>京东智联云创新空间</span>
+
+                                        </div>
+                                        <p>承载京东智联云内外智能产业创新资源落地、优秀孵化项目、协同创新中心、KA客户、培训活动、品牌推广活动等。</p>
+
+                                        <div class="text">• 面积：2000-3000平米</div>
+                                    </div>
+                                </div>
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab5-icon2.png"/>
+                                            <span>企业办公空间</span>
+
+                                        </div>
+                                        <p>企业办公空间用于支持数字经济产业园落地企业入驻。相关建筑、装修等工作由当地政府负责，委托第三方进行运营管理。</p>
+
+                                        <div class="text">• 面积：2000-3000平米</div>
+                                    </div>
+                                </div>
+                                <div class="col-4 col-xs-12">
+                                    <div class="item">
+                                        <div class="top">
+                                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab5-icon3.png"/>
+                                            <span>数字经济展厅</span>
+
+                                        </div>
+                                        <p>运用全息投影 、联动投影展示 、多维矩阵空间投影，触动LED光柱 、互动桌面 、联动屏 、智能中控系统等技术展示数字经济建设成果。</p>
+
+                                        <div class="text">• 面积：500-1000平米</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab5-img-m.png"/>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>供应链金融服务平台</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="left-block">
+                            <div class="top-bt top-bt6">
+                                <h2 class="bt">供应链金融服务平台</h2>
+                            </div>
+                            <p class="middle-desc">以人工智能技术为支撑，充分利用大数据、物联网、区块链、云计算等新技术为辅助手段，在供应链的生产、流通、消费等重要环节研发颠覆式创新的人工智能关键技术，建设智能供应链新一代人工智能开放创新平台，助力打造南通产业聚集创新中心，共建供应链与大数据研究院，全面升级为供应链金融服务平台。</p>
+
+
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab6-img-m.png"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="fl-section">
+<div class="tit-section">
+    <h2 class="tit-h2">
+        经典案例
+    </h2>
+<!--    <p class="tit-desc">互联网+电商产业发展新模式</p>
+-->
+</div>
+<div class="digital-block digital-block-v2 pc w">
+    <ul class="digital-tab">
+        <li class="on">
+            南通品质家纺节
+        </li>
+        <li>
+            “通上京东 百业齐放”京东智联云南通云商大会
+        </li>
+    </ul>
+    <ul class="digital-content">
+        <li class="digital-contentli digital-contentli-v2 show">
+            <div class="left-block">
+                <div class="top-bt">
+                    <h2 class="bt">南通品质家纺节</h2>
+                </div>
+                <p class="middle-desc">针对南通特色产业，选取南通10家左右龙头企业，通过前期线上的营销预热，中期的线下传播，后期的京东直采10亿订单，耗时三个月，提升南通企业销售额，增长税收，传播南通城市品牌。</p>
+
+                <ul class="bottom-detail">
+                    <li>• 10余家南通当地知名家纺品牌参与活动</li>
+                    <li>• 实现GMV总额超7000万，环比增长60%</li>
+                    <li>• 实现微博讨论话题1076.1万次，微博大V互动277.1万次，微信朋友圈广告曝光32万次，总曝光量达1415万次</li>
+                    <li>• 南通公交车身广告、 LED广告牌、高速公路单立柱广告投放，共曝光2461万次</li>
+                </ul>
+                <a href="https://mall.jd.com/index-10039656.html" target="_blank" clstag="Channel_bh|keycount|Life|Btn_1" class="digital-btn mt26">查看详情</a>
+            </div>
+            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab7-img.png"/>
+        </li>
+        <li class="digital-contentli digital-contentli-v2">
+            <div class="left-block">
+                <div class="top-bt top-bt2">
+                    <h2 class="bt">“通上京东 百业齐放 ”京东智联云南通云商大会</h2>
+                </div>
+                <p class="middle-desc">整合京东及其周边生态资源，通过邀请产业链上下游企业参会就投资落户当地进行资源对接，并通过媒体宣传形成产业聚集示范带动作用。</p>
+
+                <ul class="bottom-detail">
+                    <li>• 现场与24家企业签订合作协议</li>
+                    <li>• 现场与中国银行南通分行、中国工商银行南通分行签订战略合作协议</li>
+                    <li>• 现场到会近400家企业</li>
+                </ul>
+                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
+            </div>
+            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/nt/fl5-tab8-img.png"/>
+        </li>
+    </ul>
+</div>
+<div class="digital-block digital-block-v2 mobile w">
+    <ul class="digital-tab">
+        <li class="on">
+            南通品质家纺节
+        </li>
+        <li>
+            “通上京东 百业齐放”京东智联云南通云商大会
+        </li>
+    </ul>
+    <ul class="digital-content">
+        <li class="digital-contentli digital-contentli-v2 show">
+            <div class="left-block">
+                <div class="top-bt top-bt7">
+                    <h2 class="bt">南通品质家纺节</h2>
+                </div>
+                <p class="middle-desc">针对南通特色产业，选取南通10家左右龙头企业，通过前期线上的营销预热，中期的线下传播，后期的京东直采10亿订单，耗时三个月，提升南通企业销售额，增长税收，传播南通城市品牌。</p>
+
+                <ul class="bottom-detail">
+                    <li>• 10余家南通当地知名家纺品牌参与活动</li>
+                    <li>• 实现GMV总额超7000万，环比增长60%</li>
+                    <li>• 实现微博讨论话题1076.1万次，微博大V互动277.1万次，微信朋友圈广告曝光32万次，总曝光量达1415万次</li>
+                    <li>• 南通公交车身广告、 LED广告牌、高速公路单立柱广告投放，共曝光2461万次</li>
+                </ul>
+                <a href="https://mall.jd.com/index-10039656.html" target="_blank" clstag="Channel_bh|keycount|Life|Btn_1" class="digital-btn mt26">查看详情</a>
+            </div>
+            <img class="right-pic" src="https://img1.jcloudcs.com/portal/city-beihai/digital-pc1.png"/>
+        </li>
+        <li class="digital-contentli digital-contentli-v2">
+            <div class="left-block">
+                <div class="top-bt top-bt8">
+                    <h2 class="bt">“通上京东 百业齐放 ”京东智联云南通云商大会</h2>
+                </div>
+                <p class="middle-desc">整合京东及其周边生态资源，通过邀请产业链上下游企业参会就投资落户当地进行资源对接，并通过媒体宣传形成产业聚集示范带动作用。</p>
+
+                <ul class="bottom-detail">
+                    <li>• 现场与24家企业签订合作协议</li>
+                    <li>• 现场与中国银行南通分行、中国工商银行南通分行签订战略合作协议</li>
+                    <li>• 现场到会近400家企业</li>
+                </ul>
+                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
+            </div>
+            <img class="right-pic" src="https://img1.jcloudcs.com/portal/city-beihai/digital-pc2.png"/>
+        </li>
+    </ul>
+</div>
+
+</div>
+<!-- widget city-mode-fl5-nt end -->
+
+<!-- widget city-mode-fl6-nt begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            南通标杆游学之旅
+        </h2>
+    </div>
+    <div class="cont-section-tour w">
+        <div class="row">
+            <div class="col-2">
+                <ul class="left-bar">
+                    <li class="item on">数字经济产业园考察</li>
+                    <li class="item">京东落地项目参观</li>
+                    <li class="item">项目座谈交流</li>
+                    <li class="item">新经济大讲堂</li>
+                    <li class="item">区域品牌人文体验</li>
+                </ul>
+            </div>
+            <div class="col-10">
+                <ul class="right-block">
+                   <li class="module show">
+                       <h3>数字经济产业园考察</h3>
+                       <div class="w" style="height:250px;position: relative;overflow: hidden;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item">
+                                      <div class="mask"></div>
+                                      <h4>云计算大数据服务基地</h4>
+                                      <p>京东智联云将在南通租赁200个机柜来建设本地化的云设施。通过产业大数据分析系统将经济与产业发展信息资源进行整合，从宏观角度出发监控企业全生命…</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img1-2">
+                                    <div class="mask"></div>
+                                    <h4>电商产业集聚中心</h4>
+                                    <p>针对南通本地特色产业，通过品牌建设服务、产业集聚服务、全网运营服务等手段，以大型招商活动、企业扶持办法、电商节等形式，帮助南通本地集聚电商…</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img1-3">
+                                    <div class="mask"></div>
+                                    <h4>京东智联云（南通）<br/>直播服务中心</h4>
+                                    <p>联动园区内的电商企业，通过直播引流、电商变现的完整商业闭环，提升园区内商企业的销售额</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img1-4">
+                                    <div class="mask"></div>
+                                    <h4>数字经济人才培育中心</h4>
+                                    <p>面向政府人员、企业职员、学生、社会剩余劳动力等群体提供集线上、线下多形式，多方向的人才培养课程</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img1-5">
+                                      <div class="mask"></div>
+                                      <h4>电商人才实训中心</h4>
+                                      <p>电商人才定向培养中心，学生学习、实训、就业平台</p>
+
+                                  </div>
+                              </div>
+                          </div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_0"> 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
+
+                        </div>
+                        <!-- 如果需要导航按钮 -->
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
+                   </li>
+                   <li class="module">
+                    <h3>京东落地项目参观</h3>
+                    <div class="w" style="height:250px;position: relative;overflow: hidden;">
+                     <div class="study-tour tour-swiper jdc-swiper-container">
+                       <div class="swiper-wrapper">
+                           <div class="swiper-slide">
+                               <div class="scene-item img2-1">
+                                   <div class="mask"></div>
+                                   <h4>南通家纺城京东物流产业园</h4>
+                                   <p>京东与南通政府共同建设“云计算+大数据”基础设施平台；推动构建B2B数字化产业交易平台，提高效率，降低成本，优化体验；打造家纺产业大数据平台，盘活数据，探索产业和消费数据互通共享，实现消费和产业互联融合。</p>
+
+                               </div>
+                           </div>
+                       </div>
+                     </div>
+                    </div>
+                    <div class="link-bottom">
+                        <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_1"> 
+                          定制我的行程
+                        </a>
+                        <p class="desc">更多信息垂询visit@jd.com</p>
+
+                    </div>
+                     <!-- 如果需要导航按钮 -->
+                     <div class="jdc-swiper-button-prev"><i></i></div>
+                     <div class="jdc-swiper-button-next"><i></i></div>
+                   </li>
+                   <li class="module">
+                       <h3>项目座谈交流</h3>
+                       <div class="w" style="height:250px;position: relative;overflow: hidden;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-1">
+                                      <div class="mask"></div>
+                                      <h4>产业规划</h4>
+                                      <p>数字经济发展布局与未来规划、互联网+政务平台建设、产业集聚与新旧动能转换等</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-2">
+                                    <div class="mask"></div>
+                                    <h4>合作模式</h4>
+                                    <p>京东智联云联合政府、企业、院校多方发展数字经济，合作模式、发展目标、实现路径等</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-3">
+                                    <div class="mask"></div>
+                                    <h4>上云发展</h4>
+                                    <p>企业借力政府、京东智联云发展数字经济相关模式、技术、人才等</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-4">
+                                    <div class="mask"></div>
+                                    <h4>人才培养</h4>
+                                    <p>院校新经济学科建设与人才培育、政校企合作与专业人才联合培养等</p>
+
+                                  </div>
+                              </div>                              
+                          </div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                           <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_2"> 
+                             定制我的行程
+                           </a>
+                           <p class="desc">更多信息垂询visit@jd.com</p>
+
+                       </div>
+                        <!-- 如果需要导航按钮 -->
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
+                   </li>
+                   <li class="module">
+                       <h3>新经济大讲堂</h3>
+                       <div class="w" style="height:250px;position: relative;overflow: hidden;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item img4-1">
+                                      <div class="mask"></div>
+                                      <h4>经验萃取，赋能开放</h4>
+                                      <p>龙头企业分享企业生存之道、发展经验、科技文化、业务布局、未来战略等</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img4-2">
+                                    <div class="mask"></div>
+                                    <h4>名家汇聚，闭门论坛</h4>
+                                    <p>学者、教授、顾问等多位一体，经济形势分析、宏观政策解读、行业趋势研判、区域发展指导等</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img4-3">
+                                    <div class="mask"></div>
+                                    <h4>专家智库，商业内参</h4>
+                                    <p>相关产业、企业问题诊断，定向辅导，助力企业转型升级、商业管理变革等</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img4-4">
+                                    <div class="mask"></div>
+                                    <h4>产业趋势，行业洞察</h4>
+                                    <p>有机结合当地产业特色，前瞻性、借鉴性考察当地产业链融合发展</p>
+
+                                  </div>
+                              </div>                              
+                          </div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_3"> 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
+
+                        </div>
+                        <!-- 如果需要导航按钮 -->
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
+                   </li>
+                   <li class="module">
+                       <h3>区域品牌人文体验</h3>
+                       <div class="w" style="height:250px;position: relative;overflow: hidden;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item img5-1">
+                                      <div class="mask"></div>
+                                      <h4>纺织博物馆</h4>
+                                      <p>我国第一座纺织专业的科技史博物馆。主馆包括六个展厅，展示原始手工纺织器具、纺织技术、机器纺织等</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img5-2">
+                                    <div class="mask"></div>
+                                    <h4>狼山风景区</h4>
+                                    <p>坐邻长江，中国佛教“八小名山”之一。山上数目葱郁、古迹众多，有千年古刹广教寺、骆宾王幕、三仙祠等。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img5-3">
+                                    <div class="mask"></div>
+                                    <h4>濠河风景名胜区</h4>
+                                    <p>是国内保留最为完整的古代护城河。两岸有包括中国景点名胜，有唐代的北极阁、明代的文峰塔等。</p>
+
+                                  </div>
+                              </div>
+                          </div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_4"> 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
+
+                        </div>
+                        <!-- 如果需要导航按钮 -->
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
+                   </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="cont-section-tourm">
+        <div class="tab-content">
+            <div class="tab-item-title  jdc-common-arr active">
+                 <h4>数字经济产业园考察</h4>
+            </div> 
+            <div class="tab-item f-cb current m-on">
+                  <div class="g-table">
+                     <div class="tab-item-txt">
+                         <ul>
+                             <li>
+                                 <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img1-m.png"/>
+                                 <div class="right-text">
+                                     <h2 class="bt">云计算大数据服务基地</h2>
+                                     <p class="desc">京东智联云将在南通租赁200个机柜来建设本地化的云设施。通过产业大数据分析系统将经济与产业发展信息资源进行整合，从宏观角度出发监控企业全生命…</p>
+
+                                 </div>
+                             </li>
+                             <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img2-m.png"/>
+                                <div class="right-text">
+                                    <h2 class="bt">电商产业集聚中心</h2>
+                                    <p class="desc">针对南通本地特色产业，通过品牌建设服务、产业集聚服务、全网运营服务等手段，以大型招商活动、企业扶持办法、电商节等形式，帮助南通本地集聚电商…</p>
+
+                                </div>
+                            </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img3-m.png"/>
+                                <div class="right-text">
+                                    <h2 class="bt">京东智联云（南通）<br/>直播服务中心</h2>
+                                    <p class="desc">联动园区内的电商企业，通过直播引流、电商变现的完整商业闭环，提升园区内商企业的销售额</p>
+
+                                </div>
+                            </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img4-m.png"/>
+                                <div class="right-text">
+                                    <h2 class="bt">数字经济人才培育中心</h2>
+                                    <p class="desc">面向政府人员、企业职员、学生、社会剩余劳动力等群体提供集线上、线下多形式，多方向的人才培养课程</p>
+
+                                </div>
+                            </li>
+                             <li>
+                                 <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img5-m.png"/>
+                                 <div class="right-text">
+                                     <h2 class="bt">电商人才实训中心</h2>
+                                     <p class="desc">电商人才定向培养中心，学生学习、实训、就业平台</p>
+
+                                 </div>
+                             </li>
+                         </ul>
+                      </div>
+                  </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                 <h4>京东落地项目参观</h4>
+            </div> 
+            <div class="tab-item f-cb current">
+                  <div class="g-table">
+                     <div class="tab-item-txt">
+                        <ul>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img6-m.png"/>
+                                <div class="right-text">
+                                    <h2 class="bt">南通家纺城京东物流产业园</h2>
+                                    <p class="desc">京东与南通政府共同建设“云计算+大数据”基础设施平台；推动构建B2B数字化产业交易平台，提高效率，降低成本，优化体验；打造家纺产业大数据平台，盘活数据，探索产业和消费数据互通共享，实现消费和产业互联融合。</p>
+
+                                </div>
+                            </li>
+                        </ul>
+                      </div>
+                  </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>项目座谈交流</h4>
+           </div> 
+           <div class="tab-item f-cb current">
+               <div class="g-table">
+                  <div class="tab-item-txt">
+                     <ul>
+                         <li>
+                             <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img7-m.png"/>
+                             <div class="right-text">
+                                 <h2 class="bt">产业规划</h2>
+                                 <p class="desc">数字经济发展布局与未来规划、互联网+政务平台建设、产业集聚与新旧动能转换等</p>
+
+                             </div>
+                         </li>
+                         <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img8-m.png"/>
+                            <div class="right-text">
+                                <h2 class="bt">合作模式</h2>
+                                <p class="desc">京东智联云联合政府、企业、院校多方发展数字经济，合作模式、发展目标、实现路径等</p>
+
+                            </div>
+                        </li>
+                        <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img9-m.png"/>
+                            <div class="right-text">
+                                <h2 class="bt">上云发展</h2>
+                                <p class="desc">企业借力政府、京东智联云发展数字经济相关模式、技术、人才等</p>
+
+                            </div>
+                        </li>
+                        <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img10-m.png"/>
+                            <div class="right-text">
+                                <h2 class="bt">人才培养</h2>
+                                <p class="desc">院校新经济学科建设与人才培育、政校企合作与专业人才联合培养等</p>
+
+                            </div>
+                        </li>
+                     </ul>
+                   </div>
+               </div>
+           </div>
+            <div class="tab-item-title jdc-common-arr">
+                 <h4>新经济大讲堂</h4>
+            </div> 
+            <div class="tab-item f-cb current">
+                <div class="g-table">
+                   <div class="tab-item-txt">
+                      <ul>
+                          <li>
+                              <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img11-m.png"/>
+                              <div class="right-text">
+                                  <h2 class="bt">经验萃取，赋能开放</h2>
+                                  <p class="desc">龙头企业分享企业生存之道、发展经验、科技文化、业务布局、未来战略等</p>
+
+                              </div>
+                          </li>
+                          <li>
+                             <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img12-m.png"/>
+                             <div class="right-text">
+                                 <h2 class="bt">名家汇聚，闭门论坛</h2>
+                                 <p class="desc">学者、教授、顾问等多位一体，经济形势分析、宏观政策解读、行业趋势研判、区域发展指导等</p>
+
+                             </div>
+                         </li>
+                         <li>
+                             <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img13-m.png"/>
+                             <div class="right-text">
+                                 <h2 class="bt">专家智库，商业内参</h2>
+                                 <p class="desc">相关产业、企业问题诊断，定向辅导，助力企业转型升级、商业管理变革等</p>
+
+                             </div>
+                         </li>
+                         <li>
+                             <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img14-m.png"/>
+                             <div class="right-text">
+                                 <h2 class="bt">产业趋势，行业洞察</h2>
+                                 <p class="desc">有机结合当地产业特色，前瞻性、借鉴性考察当地产业链融合发展</p>
+
+                             </div>
+                         </li>
+                      </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                 <h4>区域品牌人文体验</h4>
+            </div> 
+            <div class="tab-item f-cb current">
+                <div class="g-table">
+                    <div class="tab-item-txt">
+                       <ul>
+                           <li>
+                               <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img15-m.png"/>
+                               <div class="right-text">
+                                   <h2 class="bt">纺织博物馆</h2>
+                                   <p class="desc">我国第一座纺织专业的科技史博物馆。主馆包括六个展厅，展示原始手工纺织器具、纺织技术、机器纺织等</p>
+
+                               </div>
+                           </li>
+                           <li>
+                              <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img16-m.png"/>
+                              <div class="right-text">
+                                  <h2 class="bt">狼山风景区</h2>
+                                  <p class="desc">坐邻长江，中国佛教“八小名山”之一。山上数目葱郁、古迹众多，有千年古刹广教寺、骆宾王幕、三仙祠等。</p>
+
+                              </div>
+                          </li>
+                          <li>
+                              <img src="https://img1.jcloudcs.com/portal/channel/city/nt/fl6-img17-m.png"/>
+                              <div class="right-text">
+                                  <h2 class="bt">濠河风景名胜区</h2>
+                                  <p class="desc">是国内保留最为完整的古代护城河。两岸有包括中国景点名胜，有唐代的北极阁、明代的文峰塔等。</p>
+
+                              </div>
+                          </li>
+                       </ul>
+                     </div>
+                 </div>
+            </div>
+       </div>
+       <div class="btn-block">
+           <a class="btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_m1">定制我的行程</a>
+       </div>
+       <p class="visit-desc">更多信息垂询visit@jd.com</p>
+
+    </div>
+
+</div>
+<!-- widget city-mode-fl6-nt end -->
+
+<!-- widget city-mode-fl7-nt begin -->
+<div class="fl-section mb70">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            新闻动态
+        </h2>
+    </div>
+    <div class="news-block w">
+        <div class="row">
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a href="http://www.nantong.gov.cn//ntsrmzf/bmyw/content/12e0d5c2-6fa8-4d92-a10f-99c7bcac5c16.html
+" clstag="Channel_sq|keycount|News|Btn_0" target="_blank">
+                        <h2 class="bt">
+                            《推进项目落地落实 携手京东再结硕果》
+                        </h2>
+                        <p class="desc">
+                            2019年3月16日，京东智联云与南通市崇川区就共同构建“京东智联云港航服务长三角区域中心”达成共识。合同共建包含“4个中心”，即港航服务云计算大数据中心、跨境电商产业集聚中心、智能制造产…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a href="https://www.sohu.com/a/283399584_100251467" clstag="Channel_sq|keycount|News|Btn_1" target="_blank">
+                        <h2 class="bt">
+                            南通与京东签署协议 京东物流全球航空货运枢纽将落户南通
+                        </h2>
+                        <p class="desc">
+                            2018年5月以来，南通市与京东集团开展多轮磋商，最终达成合作共识。根据协议约定，京东物流全球航空货运枢纽将落户南通，同时，双方还将在物流体系、城市数据基础设施、智能城市体系、健康…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <a href="http://cio.chinabyte.com/359/745420359.shtml" clstag="Channel_sq|keycount|News|Btn_2" target="_blank">
+                        <h2 class="bt">
+                            京东智联云亮相南通新一代信息技术博览会，引领信息技术产业发展新趋势
+                        </h2>
+                        <p class="desc">
+                            1月2日-4日,2019南通新一代信息技术博览会在南通国际展览中心举行。博览会由南通市委市政府主办,市工信局承办,京东云受邀参展。博览会以集成电路、5G和人工智能、大数据、物联网及工业互联网等…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <a href="https://www.91jiabohui.com/post/611.html" clstag="Channel_sq|keycount|News|Btn_3" target="_blank">
+                        <h2 class="bt">
+                            京东智联云携南通家纺家居企业参展京东家博会
+                         </h2>
+                         <p class="desc">
+                             京东家博会以京东平台为依托，集装修设计、家具建材、家电、家居日用、全屋定制等家居全品类商品为一体，增设了自营、智能等特色场馆，通过打通线上与线下营销渠道，引导消费者近距离体验时尚…
+                         </p>
+
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- widget city-mode-fl7-nt end -->
+
+<!-- widget bottom-bar begin -->
+
+<!-- 联系我们 -->
+<div class="CH-footer">
+    <div class="CH-container">
+        <div class="row">
+            <div class="col-3 col-xs-12">
+                <div class="CH-footer-slogan">
+                    联系我们的专家，为您免费提供量身定制的方案咨询服务
+                </div>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt>免费咨询专家：400-623-0183</dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="idc|keycount|footer|online" href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="idc|keycount|footer|consultation" href="https://www.jdcloud.com/forms/consultation" target="_blank">请销售顾问联系我&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>不限时间，提交需求后，我们会尽快联系您</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- //联系我们  -->
+<!-- widget bottom-bar end -->
+
+<!-- widget pop-video-wrap begin -->
+
+<div class="pop-video-wrap">
+    <div class="mask"></div>
+    <div class="pop-video-video">
+        <video id="my-player" class="my-video" controls preload="auto" >
+            <source src="" type="video/mp4" id="my-player-source">
+        </video>
+        <div class="video-close">&times;</div>
+    </div>
+</div>
+<!-- widget pop-video-wrap end -->
