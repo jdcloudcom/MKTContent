@@ -845,7 +845,7 @@
 	},
 	{
 		"id":913,
-		"title":"\\[cn-south-1\\]Notification of Upgrading Application Load Balancer Service"
+		"title":"\\[cn-south-1\\] Notification of Upgrading Application Load Balancer Service"
 	},
 	{
 		"id":914,
@@ -870,5 +870,25 @@
 	{
 		"id":919,
 		"title":"\\[Notification of Upgrading Redis 4.0 Underlayer in South China\\]"
+	},
+	{
+		"id":920,
+		"title":"App Third-party SDK Information Added to JD Cloud & AI Privacy Agreement"
+	},
+	{
+		"id":921,
+		"title":"\\[Full Regions\\] Notice on Full-region Upgrade of Cloud Disk Service Snapshot Policy from 21:00 to 22:00 on July 28"
+	},
+	{
+		"id":922,
+		"title":"Notice on Upgrade of Redis 4.0 Underlayer in East China"
+	},
+	{
+		"id":923,
+		"title":"Notice on Upgrade and Reconstruction of Public Cloud Virtual Network OPENAPI"
+	},
+	{
+		"id":924,
+		"title":"\\[Full Regions\\] Notice on Start Time Delay of Billing for Cloud Disk Snapshot"
 	}
 ]

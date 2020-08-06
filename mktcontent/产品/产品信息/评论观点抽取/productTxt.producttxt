@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"20% off in a limited time\",\"explainLink\":\"https://www.jdcloud.com/cn/activity/midyear-ai\",\"classTag\":\"\"}],\"productName\":\"Commentary Extraction\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/commentary-extraction\",\"classTag\":\"\"}],\"desc\":\"Automatically analyze the commentary focus and point, extract the viewpoint tags for the comment. Assist users with content generation, decision-making on product, operation monitoring and so on\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Commentary Extraction\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/commentary-extraction\",\"classTag\":\"\"}],\"desc\":\"Automatically analyze the commentary focus and point, extract the viewpoint tags for the comment. Assist users with content generation, decision-making on product, operation monitoring and so on\"}",
 		"id":1045
 	},
 	{

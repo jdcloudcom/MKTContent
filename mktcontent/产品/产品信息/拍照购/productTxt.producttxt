@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"15% off in a limited time\",\"explainLink\":\"https://www.jdcloud.com/cn/activity/midyear-ai\",\"classTag\":\"\"}],\"productName\":\"Snap Shop\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/snap-shop\",\"classTag\":\"\"}],\"desc\":\"Shoot and recognize objects in photos and return the same or similar commodity information from JD Mall, greatly improving searching speed and accuracy and increasing shooting and shopping enjoyment\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Snap Shop\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/image/snap-shop\",\"classTag\":\"\"}],\"desc\":\"Shoot and recognize objects in photos and return the same or similar commodity information from JD Mall, greatly improving searching speed and accuracy and increasing shooting and shopping enjoyment\"}",
 		"id":1085
 	},
 	{

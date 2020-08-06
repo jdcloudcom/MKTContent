@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"20% off in a limited time\",\"explainLink\":\"https://www.jdcloud.com/cn/activity/midyear-ai\",\"classTag\":\"\"}],\"productName\":\"Sentiment Classifier\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/sentiment-classifier\",\"classTag\":\"\"}],\"desc\":\"For Chinese text with subjective description, sentiment polarity type of this text will be automatically determined and corresponding confidence coefficient will be provided. Help the user understand user’s consumption habits, monitor public opinions and analyze hot topics and provides enterprises with powerful decision support\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Sentiment Classifier\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/nlp/sentiment-classifier\",\"classTag\":\"\"}],\"desc\":\"For Chinese text with subjective description, sentiment polarity type of this text will be automatically determined and corresponding confidence coefficient will be provided. Help the user understand user’s consumption habits, monitor public opinions and analyze hot topics and provides enterprises with powerful decision support\"}",
 		"id":1037
 	},
 	{

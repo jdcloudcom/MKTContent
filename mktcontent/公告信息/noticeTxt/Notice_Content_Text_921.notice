@@ -1,0 +1,15 @@
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif"></span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">&nbsp;</span>
+</p>
+<p style="text-indent:28px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">7</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">Cloud Disk Snapshot policy will be upgraded in full regions from 21:00 to 22:00 on July 28. During the upgrade period, console operations related to the snapshot policy are not available in full regions, and openAPI services including policy creation and query are suspended.</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-indent:0"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">&nbsp;</span>
+</p>
+<p><strong><span style="font-family:&#39;微软雅黑&#39;,sans-serif">This function upgrade will not affect operation of your existing snapshot policies and other services in all regions.</span>
+</strong><span style="font-family:&#39;微软雅黑&#39;,sans-serif">After completion of operation & maintenance, the normal use of console-related functions and APIs corresponding to OpenAPI will be resumed.</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">If you have any problem during the launching period, please contact JD Cloud & AI's customer service (Phone number: 4006151212) at any time. Thanks for your support to JD Cloud & AI!</span>
+</p>
+<p><br/></p>

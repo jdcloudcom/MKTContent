@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"20% off in a limited time\",\"explainLink\":\"https://www.jdcloud.com/cn/activity/midyear-ai\",\"classTag\":\"\"}],\"productName\":\"Text to Speech - Standard Quality\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/voice/text-to-speech\",\"classTag\":\"\"}],\"desc\":\"Text to Speech Service is provided with high naturalness, emotional coloring and personality, including text-to-speech and speech-to-speech services. Equip the smart machine with a ready tongue and make it speak\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Text to Speech - Standard Quality\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://ai-console.jdcloud.com/voice/text-to-speech\",\"classTag\":\"\"}],\"desc\":\"Text to Speech Service is provided with high naturalness, emotional coloring and personality, including text-to-speech and speech-to-speech services. Equip the smart machine with a ready tongue and make it speak\"}",
 		"id":1005
 	},
 	{
