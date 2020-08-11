@@ -1419,5 +1419,12 @@
 		"id":1268,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"开发者社区招募",
+		"id":1270,
+		"button_title":"",
+		"main_title":""
 	}
 ]
