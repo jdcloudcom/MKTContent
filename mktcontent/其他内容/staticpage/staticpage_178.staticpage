@@ -98,6 +98,7 @@
 								<li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/beihai" target="_blank">北海</a></li>
 								<li><a clstag="Channel_City|keycount|Header|Link_5_0_3" href="https://www.jdcloud.com/cn/city/binzhou" target="_blank">滨州</a></li>
 								<li><a clstag="Channel_City|keycount|Header|Link_5_0_4" href="https://www.jdcloud.com/cn/city/nantong" target="_blank">南通</a></li>
+								<li><a clstag="Channel_City|keycount|Header|Link_5_0_5" href="https://www.jdcloud.com/cn/city/xiangtan" target="_blank">湘潭</a></li>
 							</ul>
 						</div>
 					</li>
@@ -2489,42 +2490,51 @@
 										</div>
 									</div>
 									<div class="swiper-slide">
-										<div class="CH-carousel-container">
-											<div class="CH-carousel-img-m pcbg pcbg-13"></div>
-											<div class="box-content">
-												<h3 class="CH-carousel-title">
-													湘潭创新中心
-												</h3>
-												<p class="CH-carousel-desc xs-line-3">
-													京东智联云（湘潭）创新中心是京东智联云的产业孵化和创新业务平台，整合京东内部资源与外部行业资源，打造1个创新空间载体、1个开放创新服务平台、1个本地化服务体系和N个协同创新中心，逐步完善现代产业新体系要素，孵化智能制造、人工智能、大数据、消费升级产品等领域的创新创业企业，促进湘潭市传统产业转型升级与创新；同时承载京东集团的内外创新资源、优秀孵化项目、产业链企业、协同创新中心落地。
-												</p>
+										<div class="city-mode">
+											<div class="city-mode-lf xt">
+												<b>智数驱动·云上融合</b>
+												<p>京东大数据+智能助建湘潭国家创新型城市</p>
 
-												<p>
-													面 积：13000平米<br/>
-													入驻企业：86个<br/>
-													地址：湘潭高新区吉安路108号家家美写字楼
-												</p>
+												<a href="https://www.jdcloud.com/cn/city/xiangtan" target="_blank">了解更多样板城市内容 &#62;</a>
+											</div>
+											<div class="CH-carousel-container">
+												<div class="CH-carousel-img-m pcbg pcbg-13"></div>
+												<div class="box-content">
+													<h3 class="CH-carousel-title">
+														湘潭创新中心
+													</h3>
+													<p class="CH-carousel-desc xs-line-3">
+														京东智联云（湘潭）创新中心是京东智联云的产业孵化和创新业务平台，整合京东内部资源与外部行业资源，打造1个创新空间载体、1个开放创新服务平台、1个本地化服务体系和N个协同创新中心，逐步完善现代产业新体系要素，孵化智能制造、人工智能、大数据、消费升级产品等领域的创新创业企业，促进湘潭市传统产业转型升级与创新；同时承载京东集团的内外创新资源、优秀孵化项目、产业链企业、协同创新中心落地。
+													</p>
 
-												<ul>
-													<li>• 湘潭特色产业</li>
-													<li>• 智能制造</li>
-												</ul>
-												<p class="xs-hidden">
-													<a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_25">
-														<span class="section-case-button">预约参观</span>
+													<p>
+														面 积：13000平米<br/>
+														入驻企业：86个<br/>
+														地址：湘潭高新区吉安路108号家家美写字楼
+													</p>
 
-													</a>
-													<a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_26">预约报告厅></a>
-												</p>
+													<ul>
+														<li>• 湘潭特色产业</li>
+														<li>• 智能制造</li>
+													</ul>
+													<p class="xs-hidden">
+														<a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_25">
+															<span class="section-case-button">预约参观</span>
 
-												<p class="md-hidden">
-													<a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_25">
-														<span class="section-case-button">预约参观</span>
+														</a>
+														<a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|Btn_26">预约报告厅></a>
+													</p>
 
-													</a>
-													<a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_26">预约报告厅></a>
-												</p>
+													<p class="md-hidden">
+														<a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_25">
+															<span class="section-case-button">预约参观</span>
 
+														</a>
+														<a target="_blank" href="https://chanye.jdcloud.com/#|view0::M::mingjing/exhibition-appointment!routerjson=eyJvcmdJZCI6IiJ9" clstag="Channel_City|keycount|Floor3|MBtn_26">预约报告厅></a>
+													</p>
+
+												</div>
+												<a href="https://www.jdcloud.com/cn/city/xiangtan" target="_blank" class="link-city-mode">了解更多样板城市内容 &#62;</a>
 											</div>
 										</div>
 									</div>
