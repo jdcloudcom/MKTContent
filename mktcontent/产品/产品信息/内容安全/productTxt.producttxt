@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Content Security\",\"label\":[{\"TitleName\":\"Buy Now\",\"TitleUrl\":\"https://common-buy.jdcloud.com/resource/create?serviceCode=censorpkg\",\"classTag\":\"\"},{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://censor-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"Based on deep learning technology, the content security supports security detection as to texts, images, audios, videos and other multi-medias, can intelligently recognize porn, politics, terrorism, abuse, illegal contents, etc., greatly improve review efficiency, avoid risks from illegal contents, protect business and promote it toward health development.       \"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Content Security\",\"label\":[{\"TitleName\":\"Buy Now\",\"TitleUrl\":\"https://common-buy.jdcloud.com/resource/create?serviceCode=censorpkg\",\"classTag\":\"\"},{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://censor-console.jdcloud.com/overview\",\"classTag\":\"\"},{\"TitleName\":\"Product Trial\",\"TitleUrl\":\"https://censor-trial.jdcloud.com/index\",\"classTag\":\"\"}],\"desc\":\"Based on deep learning technology, the content security supports security detection as to texts, images, audios, videos and other multi-medias, can intelligently recognize porn, politics, terrorism, abuse, illegal contents, etc., greatly improve review efficiency, avoid risks from illegal contents, protect business and promote it toward health development.       \"}",
 		"id":1646
 	},
 	{

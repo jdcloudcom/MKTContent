@@ -890,5 +890,9 @@
 	{
 		"id":924,
 		"title":"\\[Full Regions\\] Notice on Start Time Delay of Billing for Cloud Disk Snapshot"
+	},
+	{
+		"id":943,
+		"title":"\\[cn-east-2\\] Notification of Upgrading Cloud File Service (CFS)"
 	}
 ]

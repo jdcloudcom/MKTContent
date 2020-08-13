@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Media Processing Service\",\"label\":[{\"TitleName\":\"Instant Account Setup\",\"TitleUrl\":\"https://docs.jdcloud.com/en/media-processing-service/started\"}],\"desc\":\"Media Processing Service is a multimedia file processing service developed based on JD Cloud & AI's powerful ability in basic services, which provides customers with convenient one-stop services such as video transcoding, snapshots and callbacks.\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fe70ebd0-a8b3-42c4-8093-65757b74372920181115171955.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|72\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|72\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Media Processing Service\",\"label\":[{\"TitleName\":\"Instant Account Setup\",\"TitleUrl\":\"https://mps-console.jdcloud.com/task/list/snapshot\"}],\"desc\":\"Media Processing Service is a multimedia file processing service developed based on JD Cloud & AI's powerful ability in basic services, which provides customers with convenient one-stop services such as video transcoding, snapshots and callbacks.\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fe70ebd0-a8b3-42c4-8093-65757b74372920181115171955.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|72\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|72\"}",
 		"id":193
 	},
 	{

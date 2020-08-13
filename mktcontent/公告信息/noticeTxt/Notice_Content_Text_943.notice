@@ -1,0 +1,12 @@
+<p><span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13.3333px; background-color: rgb(255, 255, 255);"></span>
+<span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13.3333px; background-color: rgb(255, 255, 255);"></span>
+<br style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13.3333px; background-color: rgb(255, 255, 255);">
+In order to improve the service quality, it is scheduled to update the Cloud File Service (CFS) in [cn-east-2] region from 00:00:00 - 1:00:00 on August 6, 2020. During the upgrade, it is expected that the CFS read-write will be affected for up to 3 times with a total duration of no more than 5 minutes and each duration of no more than 2 minutes.
+</span>
+<br style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13.3333px; background-color: rgb(255, 255, 255);">
+Please confirm that the -o noresvport (Linux operating system) or -o mtype=hard (Windows server operating system) parameter is used when attaching the CF to ensure that the IO will automatically recover after the upgrade.
+</span>
+<br style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13.3333px; background-color: rgb(255, 255, 255);">
+We apologize unreservedly for any inconvenience this upgrade may cause. If you need help, please contact us by ticket or telephone at 400-615-1212. Thanks for using and supporting JD Cloud & AI!
+</span>
+</p>
