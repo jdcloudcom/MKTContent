@@ -1,0 +1,1187 @@
+<!-- widget submenu begin -->
+<div class="subMenu-box">
+    <h2>城市</h2>
+    <div class="subMenu-level1">
+        <ul>
+            <li class="subMenu-link hasChild fullDrop">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_0" class="drop-link">解决方案中心</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subDropMenu">
+                        <li>
+                            <h3>善政</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_0" href="https://city.jdcloud.com/" target="_blank">京东城市云脑</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_1" href="https://city.jdcloud.com/exp/brain" target="_blank">智能城市运营中心（AIOC）</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_2" href="https://city.jdcloud.com/system.html" target="_blank">智能城市应用中心（AIAC）</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_3" href="https://www.jdcloud.com/cn/solutions/intelligent-transport-solution" target="_blank">智能交通</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_4" href="https://www.jdcloud.com/cn/solutions/intelligent-emergency-solution" target="_blank">智能应急</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_5" href="https://www.jdcloud.com/cn/solutions/internet-government-affairs-service-solution" target="_blank">互联网+政务服务</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>  
+                            <h3>兴业</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_0" href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution" target="_blank">数字农业</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_1" href="https://www.jdcloud.com/cn/solutions/intelligent-culture-and-tourism-solution" target="_blank">智能文旅</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_2" href="https://www.jdcloud.com/cn/solutions/industrial-internet-solution" target="_blank">智能制造</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_3" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_4" href="https://www.jdcloud.com/cn/solutions/industry-innovation-cloud-solution" target="_blank">产业创新云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_5" href="https://www.jdcloud.com/cn/solutions/urban-industry-service-platform" target="_blank">城市产业服务平台</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_6" href="https://www.jdcloud.com/cn/neec/index" target="_blank">线上城市新经济展示中心</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_7" href="https://www.jdcloud.com/cn/solutions/smart-park" target="_blank">AI 智慧园区</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_8" href="https://www.jdcloud.com/cn/solutions/smart-campus" target="_blank">AI 智慧校园</a></li>
+                                </ul>
+                            </div>
+                        </li>     
+                        <li>
+                            <h3>筑基</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_0" href="https://www.jdcloud.com/cn/products/data-middle-end" target="_blank">数据中台</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_1" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_2" href="https://www.jdcloud.com/cn/solutions/county-media-integration-solution" target="_blank">县域融媒云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_3" href="https://www.jdcloud.com/cn/solutions/urban-big-data-solution" target="_blank">城市大数据</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_4" href="https://www.jdcloud.com/cn/solutions/Industry-onboarding-solution" target="_blank">企业上云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_5" href="https://www.jdcloud.com/cn/solutions/intelligent-city-digital-network" target="_blank">智能城市干线网络</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_6" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_7" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_8" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_9" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政务云办公</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_10" href="https://www.jdcloud.com/cn/solutions/e-government-cloud-paas-solution" target="_blank">政务云PaaS</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_11" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIoT</a></li>
+                                </ul>
+                            </div>
+                        </li>  
+                        <li>  
+                            <h3>共生</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_3_0" href="https://www.jdcloud.com/cn/solutions/intelligent-environmental-protection-solution" target="_blank">智能环保</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_1" class="drop-link">智网落地</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_0" href="https://www.jdcloud.com/cn/solutions/industrial-e-commerce-cloud" target="_blank">数字经济产业园</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_1" href="https://www.jdcloud.com/cn/solutions/industry-innovation" target="_blank">全国创新中心</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_2" href="https://www.jdcloud.com/cn/neec/index" target="_blank">数字经济展示中心</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_2" class="drop-link">通用解决方案</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_0" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_1" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_2" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_3" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政企云办公</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_4" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_5" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIot</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_3" class="drop-link">样板城市</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/city/suqian" target="_blank">宿迁</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_1" href="https://www.jdcloud.com/cn/city/xian" target="_blank">西安</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/beihai" target="_blank">北海</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_3" href="https://www.jdcloud.com/cn/city/binzhou" target="_blank">滨州</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_4" href="https://www.jdcloud.com/cn/city/nantong" target="_blank">南通</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_5" href="https://www.jdcloud.com/cn/city/xiangtan" target="_blank">湘潭</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_3" class="drop-link">体验中心</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_0" href="https://city.jdcloud.com/exp/" target="_blank">领导驾驶舱</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_1" href="https://city.jdcloud.com/exp/industrychain/industriesTabs" target="_blank">产业链招商</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_2" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_3" href="https://city.jdcloud.com/exp/frame/affair" target="_blank">政务服务</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_4" href="https://city.jdcloud.com/exp/equipment" target="_blank">设备运行检测</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_4" class="drop-link">客户案例</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/case/detail/186" target="_blank">滨州经济技术开发区</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_1" href="https://www.jdcloud.com/cn/case/detail/194" target="_blank">南京市麒麟园区</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_2" href="https://www.jdcloud.com/cn/case/detail/188" target="_blank">仙游县人民政府</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="tel-info"><a href="https://www.jdcloud.com/cn/forms/consultation"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i>售前咨询：400-623-0183</a> </div>
+</div>
+<!-- widget submenu end -->
+
+<!-- widget city-mode-banner1-xt begin -->
+<div class="banner-city">
+    <div class="w banner-city-ct">
+        <img src="https://img1.jcloudcs.com/portal/channel/city/xt/banner-m.png" class="banner-m"/>
+        <div class="fs-slide-ct">
+            <div class="fs-slide-txt">
+                <b class="fs-slide-tit">智数驱动 云上融合</b>
+                <p class="fs-slide-des">大数据+智能制造“华中智数”中心</p>
+
+            </div>
+            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&amp;aspid=18263598494.1.3.0.1664&amp;waiterApp=open.18992bf0a159e570ed70016a51.waiter&amp;entry=%20%20%20%20%20&amp;venderId=18263598494&amp;mallId=18263598494&amp;ws=ws1-dd.jd.com&amp;lang=zh_CN&amp;waiterAppId=open.18992bf0a159e570ed70016a51.waiter&amp;userApp=open.18992bf0a159e570ed70016a51.customer"
+               target="_blank" clstag="Channel_sq|keycount|Banner|Btn_0" class="jdc-btn jdc-btn-blue">立即咨询</a>
+        </div>
+    </div>
+</div>
+<!-- widget city-mode-banner1-xt end -->
+
+<!-- widget city-mode-fl2-xt begin -->
+<div class="fl-section fl2">
+    <div class="tit-section pc-hid">
+        <h2 class="tit-h2">
+            京东智能生态助建湘潭“国家创新型城市”
+        </h2>
+    </div>
+    <div class="cont-section-st w mt20">
+        <div class="row row-top">
+            <div class="col-4 col-xs-12">
+                <div class="item-st-img">
+                    <a class="play-button" data-video="https://img1.jcloudcs.com/portal/channel/city/xt/xiangtan.mp4">
+                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"/>
+                    </a>
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/xt/img-fl2-video.png"/>
+                </div>
+            </div>
+            <div class="col-8 col-xs-12">
+                <div class="item-st-txt">
+                    <b>京东智能生态助建湘潭“国家创新型城市”</b>
+                    <p>2018年4月8日京东集团与湘潭市政府开展合作，全面承接湘潭市政务云平台建设；京东智联云联合京东集团多个业务版块项目落地，助建湘潭市政务云格局，实现电商产业集聚效应，产业园招商规模不断扩大，目前产业园产值达10亿，人才培育工作不断深化，真正为湘潭培养本地电商专业人才，提升院校学生回潭、留潭率。将继续围绕智能制造，产业链生态引入，紧扣政府相应产业链政策，配备相应的业务场景，打造大数据+智能制造“华中智数”中心。</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="layout-block w">
+            <div class="row">
+                <div class="col-4 col-xs-12">
+                    <div class="block">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/xt/img-fl2-icon1.png" />
+                        <div class="bottom-text">
+                        <span>
+                            区位特色
+                        </span>
+
+                            <ul class="detail">
+                                <li class="detailLi">长江中游城市群成员、长株潭金三角地区、国家长株潭城市群、“两型社会”综合配套改革试验区中心城市</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 col-xs-12">
+                    <div class="block">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/xt/img-fl2-icon2.png" />
+                        <div class="bottom-text">
+                        <span>
+                            特色人文
+                        </span>
+
+                            <ul class="detail detail2">
+                                <li class="detailLi">湖湘文化的重要发祥地、伟人毛泽东故里、彭德怀纪念馆、红色旅游、文化旅游、生态旅游</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 col-xs-12">
+                    <div class="block">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/xt/img-fl2-icon3.png" />
+                        <div class="bottom-text">
+                            <span>
+                                产业完备
+                            </span>
+
+                            <ul class="detail detail3">
+                                <li class="detailLi">全国工业重地“电工产品的摇篮”，以先进制造、新能源装备、现代商贸物流、文化旅游、高端服务业等协调发展，中国湘莲之乡</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- widget city-mode-fl2-xt end -->
+
+<!-- widget city-mode-fl3-xt begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            数字政务
+        </h2>
+        <p class="tit-desc">以政务云平台为核心，助力湘潭城市大脑建设</p>
+
+    </div>
+    <div class="cont-section-szzf w szzf-show-pc">
+        <div class="szzf-show">
+            <div class="video-item">
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl3-img1.png"/>
+                    <div class="content">
+                        <b class="tit">湘潭市疫情大数据平台</b>
+                        <div class="curr-cont">
+                            <p class="p-tit">大数据助力超级政府，精准高效的城市治理与应急处理</p>
+
+                            <p class="p-desc f-toe3">
+                                智能供应链系统及技术支撑，实时监控疫情动态，实时监控重点人员，GIS地图精准定位，热力分布展现疫情全市、各区县疫情分布状态。
+                            </p>
+
+                            <ul>
+                                <li>• 数据分析：一键导入，形成分析疫情结果</li>
+                                <li>• 快速决策：判断疫情变化趋势走向，响应决策</li>
+                                <li>• 实时鉴别：展现疫情分布状态，鉴别疫情重点区域</li>
+                                <li>• 多维监测：重点监测指标无遗漏多维展示</li>
+                                <li>• 全域防控：社区化-街道-区县数据联控</li>
+                                <li>• 状态跟踪：疫情人员信息状态跟踪</li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_1" class="jdc-btn jdc-btn-white mt20">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-list curr">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl3-img2.png"/>
+                    <div class="content">
+                        <b class="tit">“一件事，一次办” 政务云平台</b>
+                        <div class="curr-cont">
+                            <p class="p-tit">大数据+智能生态助建湘潭市政务云格局</p>
+
+                            <p class="p-desc f-toe3">
+                                京东智联云根据国家标准，建设内、外部数据中心两套JDStack政务云平台，通过国家等保三级测评，全面承接湘潭市政务系统迁移上云。已上线运行21个委办单位的33个政务应用。
+                            </p>
+
+                            <ul>
+                                <li>• 在京东智联云云城市项目中首次承接“雪亮工程”系统，成功助力将湘潭市纳“2019年公共安全视频监控项目”国家重点支持城市</li>
+                                <li>• 承接“智慧警务”系统，成功助力该项目获得湖南公安基层技术革新大赛决赛二等奖</li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_2" class="jdc-btn jdc-btn-white  mt100">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl3-img3.png"/>
+                    <div class="content">
+                        <b class="tit">智能城市与大数据研究院</b>
+                        <div class="curr-cont">
+                            <p class="p-desc f-toe3">
+                                京东智联云携手京东城市、湘潭大学、湘潭市人民政府共建京东(华中)智能城市与大数据研究院。该研究院是京东在华中地区的技术研发中心，也是京东全国布局的区域总部项目之一。
+                            </p>
+
+                            <ul>
+                                <li>• CDN落成</li>
+                                <li>• 与湘潭电信达成CDN项目合作，助力湘潭成为全省第三个CDN核心节点（一级节点）城市。</li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xan|keycount|Science|Btn_3" class="jdc-btn jdc-btn-white  mt100">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="cont-section-szzf szzf-show-m">
+        <div class="szzf-show">
+            <div class="video-item">
+                <div class="jdc-swiper-container swiper-fl3">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl3-img1-m.png"/>
+                            <div class="content">
+                                <b class="tit">湘潭市疫情大数据平台</b>
+                                <div class="curr-cont">
+                                    <p class="p-tit">大数据助力超级政府，精准高效的城市治理与应急处理</p>
+
+                                    <p class="p-desc f-toe3">
+                                        智能供应链系统及技术支撑，实时监控疫情动态，实时监控重点人员，GIS地图精准定位，热力分布展现疫情全市、各区县疫情分布状态。
+                                    </p>
+
+                                    <ul>
+                                        <li>• 数据分析：一键导入，形成分析疫情结果</li>
+                                        <li>• 快速决策：判断疫情变化趋势走向，响应决策</li>
+                                        <li>• 实时鉴别：展现疫情分布状态，鉴别疫情重点区域</li>
+                                        <li>• 多维监测：重点监测指标无遗漏多维展示</li>
+                                        <li>• 全域防控：社区化-街道-区县数据联控</li>
+                                        <li>• 状态跟踪：疫情人员信息状态跟踪</li>
+                                    </ul>
+                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Science|Btn_1" class="jdc-btn jdc-btn-blue">立即咨询</a>
+                                </div>
+                            </div>
+                        </div></div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl3-img2-m.png"/>
+                            <div class="content">
+                                <b class="tit">“一件事，一次办” 政务云平台</b>
+                                <div class="curr-cont">
+                                    <p class="p-tit">大数据+智能生态助建湘潭市政务云格局</p>
+
+                                    <p class="p-desc f-toe3">
+                                        京东智联云根据国家标准，建设内、外部数据中心两套JDStack政务云平台，通过国家等保三级测评，全面承接湘潭市政务系统迁移上云。已上线运行21个委办单位的33个政务应用。
+                                    </p>
+
+                                    <ul>
+                                        <li>• 在京东智联云云城市项目中首次承接“雪亮工程”系统，成功助力将湘潭市纳“2019年公共安全视频监控项目”国家重点支持城市</li>
+                                        <li>• 承接“智慧警务”系统，成功助力该项目获得湖南公安基层技术革新大赛决赛二等奖</li>
+                                    </ul>
+                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Science|Btn_2" class="jdc-btn jdc-btn-blue ">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl3-img3-m.png"/>
+                            <div class="content">
+                                <b class="tit">智能城市与大数据研究院</b>
+                                <div class="curr-cont">
+                                    <p class="p-desc f-toe3">
+                                        京东智联云携手京东城市、湘潭大学、湘潭市人民政府共建京东(华中)智能城市与大数据研究院。该研究院是京东在华中地区的技术研发中心，也是京东全国布局的区域总部项目之一。
+                                    </p>
+
+                                    <ul>
+                                        <li>• CDN落成</li>
+                                        <li>• 与湘潭电信达成CDN项目合作，助力湘潭成为全省第三个CDN核心节点（一级节点）城市。</li>
+                                    </ul>
+                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Science|Btn_3" class="jdc-btn jdc-btn-blue ">立即咨询</a>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- 如果需要分页器 -->
+                    <div class="jdc-swiper-pagination pagination-xan"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- widget city-mode-fl3-xt end -->
+
+<!-- widget city-mode-fl4-xt begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            数字经济
+        </h2>
+        <p class="tit-desc">产业聚集与创新生态，助力湘潭领跑新经济建设</p>
+
+    </div>
+    <div class="digital-block digital-block-v1 pc w">
+        <div class="swiper-container sixPlateform">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <ul class="digital-tab">
+                        <li class="tab1li on">
+                            湘潭市大数据中心及运营中心
+                        </li>
+                        <li class="tab1li">
+                            京东智联云（湘潭）创新中心
+                        </li>
+                        <li class="tab1li">
+                            新经济展示中心
+                        </li>
+                    </ul> 
+                    <ul class="digital-content">
+                        <li class="digital-contentli digital-contentli-v1 show">
+                            <div class="left-block">
+                                <div class="top-bt">
+                                    <h2 class="bt">湘潭市大数据中心及运营中心</h2>
+                                    <p class="desc">智慧湘潭的基础平台与信息化系统工程的“心脏”</p>
+
+                                </div>
+                                <p class="middle-desc">2019年8月27日开工建设，作为湖南省大数据产业园（湘潭高新）大数据产业基础载体与内核驱动引擎，预计2020年年底交付使用。
+
+                                    建设湘潭大数据中心，是创建国家创新型城市、建设数字湘潭的重要一环，也是推动全省首批12家大数据产业园具体化、特色化、项目化落地的重要举措。</p>
+
+                                <ul class="bottom-detail">
+                                    <li>• 机柜规划上千架（可扩充）</li>
+                                    <li>• 未来将用于京东云华中区域大数据基地、湘潭市政府、智慧湘潭建设项目及其他有需求的企业使用。</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_1" class="digital-btn mt26">立即咨询</a>
+                            </div>
+                            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-img1.png"/>
+                        </li>
+                        <li class="digital-contentli digital-contentli-v1">
+                            <div class="left-block">
+                                <div class="top-bt top-bt2">
+                                    <h2 class="bt">京东智联云（湘潭）创新中心</h2>
+                                </div>
+                                <ul class="bottom-detail mt26">
+                                    <li>• 1个创新空间载体</li>
+                                    <li class="ml10">成功举办27场财法税宣讲、创新创业培训、创新应用大赛等，覆盖3000人次</li>
+                                    <li>• 1个本地化服务体系</li>
+                                    <li class="ml10">组建本地服务商32家，包含工商财法税、营销服务、投融资、政府政策咨询和人力资源</li>
+                                    <li>• N个主题协同创新</li>
+                                    <li class="ml10">孵化企业26家，在谈及储备项目100个，涉及厨电、大数据、机械设备、企业服务等多类企业；与4家投资机构达成合作</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt26">立即咨询</a>
+                            </div>
+                            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-img2.png"/>
+                        </li>
+                        <li class="digital-contentli digital-contentli-v1">
+                            <div class="left-block">
+                                <div class="top-bt">
+                                    <h2 class="bt">新经济展示中心</h2>
+                                    <p class="desc">打造湘潭市城市新经济发展成果的展示窗口</p>
+
+                                </div>
+                                <p class="middle-desc">通过京东品牌元素与数字经济项目落地、主流黑科技产品等多种方式，将湘潭市在新经济发展中取得的成绩和未来愿景进行全方位的展示。</p>
+
+
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt26">立即咨询</a>
+                            </div>
+                            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-img3.png"/>
+                        </li>
+                    </ul>
+                </div>
+                <div class="swiper-slide">
+                    <ul class="digital-tab">
+                        <li class="tab2li on">
+                            京东无人机（湘潭）飞行服务中心
+                        </li>
+                        <li class="tab2li">
+                            新经济人才培育中心
+                        </li>
+                    </ul> 
+                    <ul class="digital-content">
+                        <li class="digital-contentli digital-contentli-v1 digital-contentli-vtab2 show">
+                            <div class="left-block">
+                                <div class="top-bt">
+                                    <h2 class="bt">京东无人机（湘潭）飞行服务中心</h2>
+                                    <p class="desc">京东部署未来智慧物流体系的重要一环</p>
+
+                                </div>
+                                <p class="middle-desc middle-desc-v1">无人机“飞服师”可以全方位负责无人机的研发测试、航线规划、运营调度、维修保养等工作。“飞服师”不仅能够在物流领域获得巨大的发展空间，而且在地质勘探、环境保护、林区植物保护、公安巡防、影视拍摄等领域都能够发挥巨大的作用,是各行业急需的新型人才。</p>
+
+
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
+                            </div>
+                            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-img4.png">
+                        </li>
+                        <li class="digital-contentli digital-contentli-v1 digital-contentli-vtab2">
+                            <div class="left-block">
+                                <div class="top-bt">
+                                    <h2 class="bt">新经济人才培育中心</h2>
+                                    <p class="desc">为本地留存新型有才</p>
+
+                                </div>
+                                <ul class="bottom-detail mt20">
+                                    <li>• 1个创新空间载体</li>
+                                    <li class="ml10">成功举办27场财法税宣讲、创新创业培训、创新应用大赛等，覆盖3000人次</li>
+                                    <li>• 1个本地化服务体系</li>
+                                    <li class="ml10">组建本地服务商32家，包含工商财法税、营销服务、投融资、政府政策咨询和人力资源</li>
+                                    <li>• N个主题协同创新</li>
+                                    <li class="ml10">孵化企业26家，在谈及储备项目100个，涉及厨电、大数据、机械设备、企业服务等多类企业；与4家投资机构达成合作</li>
+                                </ul>
+
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt26">立即咨询</a>
+                            </div>
+                            <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-img5.png"/>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- 如果需要导航按钮 -->
+        <div class="jdc-swiper-button-prev"><i></i></div>
+        <div class="jdc-swiper-button-next"><i></i></div>
+    </div>
+    <div class="digital-block digital-block-v1 mobile w">
+        <div class="tab-content">
+            <div class="tab-item-title jdc-common-arr active">
+                <h4>湘潭市大数据中心及运营中心</h4>
+            </div>
+            <div class="tab-item f-cb current m-on">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1 show">
+                        <div class="left-block">
+                            <div class="top-bt">
+                                <h2 class="bt">湘潭市大数据中心及运营中心</h2>
+                                <p class="desc">智慧湘潭的基础平台与信息化系统工程的“心脏”</p>
+
+                            </div>
+                            <p class="middle-desc">2019年8月27日开工建设，作为湖南省大数据产业园（湘潭高新）大数据产业基础载体与内核驱动引擎，预计2020年年底交付使用。
+
+                                建设湘潭大数据中心，是创建国家创新型城市、建设数字湘潭的重要一环，也是推动全省首批12家大数据产业园具体化、特色化、项目化落地的重要举措。</p>
+
+                            <ul class="bottom-detail">
+                                <li>• 机柜规划上千架（可扩充）</li>
+                                <li>• 未来将用于京东云华中区域大数据基地、湘潭市政府、智慧湘潭建设项目及其他有需求的企业使用。</li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_1" class="digital-btn mt26">立即咨询</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-img1-m.png"/>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>京东智联云（湘潭）创新中心</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="left-block">
+                            <div class="top-bt top-bt2">
+                                <h2 class="bt">京东智联云（湘潭）创新中心</h2>
+                            </div>
+                            <ul class="bottom-detail mt26">
+                                <li>• 1个创新空间载体</li>
+                                <li class="ml10">成功举办27场财法税宣讲、创新创业培训、创新应用大赛等，覆盖3000人次</li>
+                                <li>• 1个本地化服务体系</li>
+                                <li class="ml10">组建本地服务商32家，包含工商财法税、营销服务、投融资、政府政策咨询和人力资源</li>
+                                <li>• N个主题协同创新</li>
+                                <li class="ml10">孵化企业26家，在谈及储备项目100个，涉及厨电、大数据、机械设备、企业服务等多类企业；与4家投资机构达成合作</li>
+                            </ul>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt26">立即咨询</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-img2-m.png"/>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>新经济展示中心</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="left-block">
+                            <div class="top-bt top-bt3">
+                                <h2 class="bt">新经济展示中心</h2>
+                                <p class="desc">打造湘潭市城市新经济发展成果的展示窗口</p>
+
+                            </div>
+                            <p class="middle-desc">通过京东品牌元素与数字经济项目落地、主流黑科技产品等多种方式，将湘潭市在新经济发展中取得的成绩和未来愿景进行全方位的展示。</p>
+
+
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt26">立即咨询</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-img3-m.png"/>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>京东无人机（湘潭）飞行服务中心</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="left-block">
+                            <div class="top-bt top-bt4">
+                                <h2 class="bt">京东无人机（湘潭）飞行服务中心</h2>
+                                <p class="desc">京东部署未来智慧物流体系的重要一环</p>
+
+                            </div>
+                            <p class="middle-desc middle-desc-v1">无人机“飞服师”可以全方位负责无人机的研发测试、航线规划、运营调度、维修保养等工作。“飞服师”不仅能够在物流领域获得巨大的发展空间，而且在地质勘探、环境保护、林区植物保护、公安巡防、影视拍摄等领域都能够发挥巨大的作用,是各行业急需的新型人才。</p>
+
+
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-img4-m.png"/>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>新经济人才培育中心</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="left-block">
+                            <div class="top-bt top-bt5">
+                                <h2 class="bt">新经济人才培育中心</h2>
+                                <p class="desc">为本地留存新型有才</p>
+
+                            </div>
+                            <ul class="bottom-detail mt20">
+                                <li>• 1个创新空间载体</li>
+                                <li class="ml10">成功举办27场财法税宣讲、创新创业培训、创新应用大赛等，覆盖3000人次</li>
+                                <li>• 1个本地化服务体系</li>
+                                <li class="ml10">组建本地服务商32家，包含工商财法税、营销服务、投融资、政府政策咨询和人力资源</li>
+                                <li>• N个主题协同创新</li>
+                                <li class="ml10">孵化企业26家，在谈及储备项目100个，涉及厨电、大数据、机械设备、企业服务等多类企业；与4家投资机构达成合作</li>
+                            </ul>
+
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt26">立即咨询</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-img5-m.png"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tit-section m-tit-h2 pc-hid">
+        <h2 class="tit-h2">
+            360°全面出击，促进滨州全产业链升级
+        </h2>
+    </div>
+    <div class="economy-block mt20 w">
+        <div class="row">
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-icon1.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                京东湘潭电商产业园
+                            </h2>
+                            <p class="desc">人才+运营+产业链+资源+政策”服务体系</p>
+
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        人才优势+数字运营+产业链服务+京东资源+政策引导”的服务体系，集商务办公、仓储服务、产品展示、技术交流、生活配套等多功能于一体的电子商务综合服务园区
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 产业聚集初具规模、企业电商培育壮大</li>
+                        <li class="detailLi">• 创新业务引入、本地人才带动就业</li>
+                        <li class="detailLi">• 智能园区，数字运营，园区党建机制健全</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <div class="top">
+                        <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-icon2.png"/>
+                        <div class="bt-block">
+                            <h2 class="bt">
+                                京东直播基地
+                            </h2>
+                            <p class="desc">直播生态+内容电商+多渠道”服务模式</p>
+
+                        </div>
+                    </div>
+                    <p class="introduce">
+                        引入直播新业态，打造一个新型的直播新零售产业集群。落地智能影棚业务，促进湘潭电商内容高效、优质、数字化发展。占地1300平米，具有智能影棚基地、16个直播间和开放场景等功能区域
+                    </p>
+
+                    <ul class="detail">
+                        <li class="detailLi">• 定向培养：已完成首期培训，并输送至园区就业。</li>
+                        <li class="detailLi">• 直播运营：已累计开展1500余场直播，电商扶贫、抗疫助农直播100余场，总销售农副产品10000余斤。</li>
+                    </ul>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- widget city-mode-fl4-xt end -->
+
+<!-- widget city-mode-fl5-xt begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            湘潭标杆游学之旅
+        </h2>
+    </div>
+    <div class="cont-section-tour w">
+        <div class="row">
+            <div class="col-2">
+                <ul class="left-bar">
+                    <li class="item on">数字经济产业园考察</li>
+                    <li class="item">京东落地项目参观</li>
+                    <li class="item">项目座谈交流</li>
+                    <li class="item">区域品牌人文体验</li>
+                </ul>
+            </div>
+            <div class="col-10">
+                <ul class="right-block">
+                   <li class="module show">
+                       <h3>数字经济产业园考察</h3>
+                       <div class="w">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item img1-1">
+                                      <div class="mask"></div>
+                                      <h4>京东湘潭电商产业园</h4>
+                                      <p>“人才优势+数字运营+产业链服务+京东资源+政策引导”的服务体系，集商务办公、仓储服务、产品展示、技术交流、生活配套等多功能于一体的电子商务综合服务园区</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img1-2">
+                                      <div class="mask"></div>
+                                      <h4>湘潭新经济城市展厅</h4>
+                                      <p>通过京东品牌元素与数字经济项目落地、主流黑科技产品等多种方式，将湘潭市在新经济发展中取得的成绩和未来愿景进行全方位的展示。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img1-3">
+                                      <div class="mask"></div>
+                                      <h4>京东智联云（湘潭）直播基地</h4>
+                                      <p>引入直播新业态，打造一个新型的直播新零售产业集群。落地智能影棚业务，促进湘潭电商内容高效、优质、数字化发展。占地1300平米，具有智能影棚基地、16个直播间和开…</p>
+
+                                  </div>
+                              </div>
+                          </div>
+
+                            <!-- 如果需要导航按钮 -->
+                            <div class="jdc-swiper-button-prev"><i></i></div>
+                            <div class="jdc-swiper-button-next"><i></i></div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                           <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_1" > 
+                             定制我的行程
+                           </a>
+                           <p class="desc">更多信息垂询visit@jd.com</p>
+
+                       </div>
+                   </li>
+                   <li class="module">
+                       <h3>京东落地项目参观</h3>
+                       <div class="w">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item img2-1">
+                                      <div class="mask"></div>
+                                      <h4>京东湘潭政务云电信机房</h4>
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img2-2">
+                                    <div class="mask"></div>
+                                    <h4>湘潭大数据中心及运营中心</h4>
+                                    <p>建设湘潭大数据中心，是创建国家创新型城市、建设数字湘潭的重要一环，也是推动全省首批12家大数据产业园具体化、特色化、项目化落地的重要举措。</p>
+
+                                  </div>
+                              </div>
+                          </div>
+
+                            <!-- 如果需要导航按钮 -->
+                            <div class="jdc-swiper-button-prev"><i></i></div>
+                            <div class="jdc-swiper-button-next"><i></i></div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_2" > 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
+
+                        </div>
+                   </li>
+                   <li class="module">
+                       <h3>项目座谈交流</h3>
+                       <div class="w">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-1">
+                                      <div class="mask"></div>
+                                      <h4>产业规划</h4>
+                                      <p>数字经济发展布局与未来规划、互联网+政务平台建设、产业集聚与新旧动能转换等。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-2">
+                                    <div class="mask"></div>
+                                    <h4>合作模式</h4>
+                                    <p>京东智联云联合政府、企业、院校多方发展数字经济，合作模式、发展目标、实现路径等。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-3">
+                                    <div class="mask"></div>
+                                    <h4>上云发展</h4>
+                                    <p>企业借力政府、京东智联云发展数字经济相关模式、技术、人才等。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-4">
+                                      <div class="mask"></div>
+                                      <h4>人才培养</h4>
+                                      <p>院校新经济学科建设与人才培育、政校企合作与专业人才联合培养等。</p>
+
+                                  </div>
+                              </div>
+                          </div>
+
+                            <!-- 如果需要导航按钮 -->
+                            <div class="jdc-swiper-button-prev"><i></i></div>
+                            <div class="jdc-swiper-button-next"><i></i></div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_3" > 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
+
+                        </div>
+                   </li>
+                    <li class="module">
+                        <h3>区域品牌人文体验</h3>
+                        <div class="w">
+                            <div class="study-tour tour-swiper jdc-swiper-container">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-1">
+                                            <div class="mask"></div>
+                                            <h4>窑湾</h4>
+                                            <p>风景区，湘潭城区文化发源最早、人文资源最丰富、文化底蕴最深厚的地方。</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-2">
+                                            <div class="mask"></div>
+                                            <h4>昭山风景区</h4>
+                                            <p>风景区，为长沙、湘潭、株洲三市交界处。每逢雨后新晴，或是旭日破晓，万丈霞光撒在山间，雨气氤氲，色彩缤纷，美而壮观。</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-3">
+                                            <div class="mask"></div>
+                                            <h4>毛泽东故居</h4>
+                                            <p>红色旅游，国家5A级旅游景区，全国著名革命纪念地。有毛泽东故居、毛泽东铜像、毛泽东纪念馆、毛泽东遗物馆、毛泽东诗词碑林、毛泽东纪念园等人文景观。</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-4">
+                                            <div class="mask"></div>
+                                            <h4>齐白石纪念馆</h4>
+                                            <p>纪念馆，馆内收藏齐白石国画作品和早期雕花作品数十件并收藏了近、当代名家书画作品数百件，是湘潭市的文物保护单位。</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-5">
+                                            <div class="mask"></div>
+                                            <h4>盘龙大观园</h4>
+                                            <p>公园，园内有杜鹃园、樱花园、荷花园、兰花园、茶花园、盆景园、蔬菜博览园、农耕园、紫藤园、养和园十大特色主题园。</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- 如果需要导航按钮 -->
+                                <div class="jdc-swiper-button-prev"><i></i></div>
+                                <div class="jdc-swiper-button-next"><i></i></div>
+                            </div>
+                        </div>
+                        <div class="link-bottom">
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_3" >
+                                定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
+
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="cont-section-tourm">
+        <div class="tab-content">
+            <div class="tab-item-title  jdc-common-arr active">
+                 <h4>数字经济产业园考察</h4>
+            </div> 
+            <div class="tab-item f-cb current m-on">
+                  <div class="g-table">
+                     <div class="tab-item-txt">
+                         <ul>
+                             <li>
+                                 <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab1-img1-m.png"/>
+                                 <div class="right-text">
+                                     <h4>京东湘潭电商产业园</h4>
+                                     <p>“人才优势+数字运营+产业链服务+京东资源+政策引导”的服务体系，集商务办公、仓储服务、产品展示、技术交流、生活配套等多功能于一体的电子商务综合服务园区</p>
+
+                                 </div>
+                             </li>
+                             <li>
+                                 <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab1-img2-m.png"/>
+                                 <div class="right-text">
+                                     <h4>湘潭新经济城市展厅</h4>
+                                     <p>通过京东品牌元素与数字经济项目落地、主流黑科技产品等多种方式，将湘潭市在新经济发展中取得的成绩和未来愿景进行全方位的展示</p>
+
+                                 </div>
+                             </li>
+                             <li>
+                                 <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab1-img3-m.png"/>
+                                 <div class="right-text">
+                                     <h4>京东智联云（湘潭）直播基地</h4>
+                                     <p>引入直播新业态，打造一个新型的直播新零售产业集群。落地智能影棚业务，促进湘潭电商内容高效、优质、数字化发展。占地1300平米，具有智能影棚基地、16个直播间和开…</p>
+
+                                 </div>
+                             </li>
+                         </ul>
+                      </div>
+                  </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                 <h4>京东落地项目参观</h4>
+            </div> 
+            <div class="tab-item f-cb current">
+                  <div class="g-table">
+                     <div class="tab-item-txt">
+                        <ul>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab2-img1-m.png"/>
+                                <div class="right-text">
+                                    <h4>京东湘潭政务云电信机房</h4>
+                                </div>
+                            </li>
+                            <li>
+                               <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab2-img2-m.png"/>
+                               <div class="right-text">
+                                   <h4>湘潭大数据中心及运营中心</h4>
+                                   <p>建设湘潭大数据中心，是创建国家创新型城市、建设数字湘潭的重要一环，也是推动全省首批12家大数据产业园具体化、特色化、项目化落地的重要举措。</p>
+
+                               </div>
+                           </li>
+                        </ul>
+                      </div>
+                  </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>项目座谈交流</h4>
+           </div> 
+           <div class="tab-item f-cb current">
+               <div class="g-table">
+                  <div class="tab-item-txt">
+                     <ul>
+                         <li>
+                             <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab3-img1-m.png"/>
+                             <div class="right-text">
+                                 <h4>产业规划</h4>
+                                 <p>数字经济发展布局与未来规划、互联网+政务平台建设、产业集聚与新旧动能转换等。</p>
+
+                             </div>
+                         </li>
+                         <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab3-img2-m.png"/>
+                            <div class="right-text">
+                                <h4>合作模式</h4>
+                                <p>京东智联云联合政府、企业、院校多方发展数字经济，合作模式、发展目标、实现路径等。</p>
+
+                            </div>
+                        </li>
+                        <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab3-img3-m.png"/>
+                            <div class="right-text">
+                                <h4>上云发展</h4>
+                                <p>企业借力政府、京东智联云发展数字经济相关模式、技术、人才等。</p>
+
+                            </div>
+                        </li>
+                         <li>
+                             <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab3-img4-m.png"/>
+                             <div class="right-text">
+                                 <h4>人才培养</h4>
+                                 <p>院校新经济学科建设与人才培育、政校企合作与专业人才联合培养等。</p>
+
+                             </div>
+                         </li>
+                     </ul>
+                   </div>
+               </div>
+           </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>区域品牌人文体验</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="g-table">
+                    <div class="tab-item-txt">
+                        <ul>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab4-img1-m.png"/>
+                                <div class="right-text">
+                                    <h4>窑湾</h4>
+                                    <p>风景区，湘潭城区文化发源最早、人文资源最丰富、文化底蕴最深厚的地方。</p>
+
+                                </div>
+                            </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab4-img2-m.png"/>
+                                <div class="right-text">
+                                    <h4>昭山风景区</h4>
+                                    <p>风景区，为长沙、湘潭、株洲三市交界处。每逢雨后新晴，或是旭日破晓，万丈霞光撒在山间，雨气氤氲，色彩缤纷，美而壮观。</p>
+
+                                </div>
+                            </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab4-img3-m.png"/>
+                                <div class="right-text">
+                                    <h4>毛泽东故居</h4>
+                                    <p>红色旅游，国家5A级旅游景区，全国著名革命纪念地。有毛泽东故居、毛泽东铜像、毛泽东纪念馆、毛泽东遗物馆、毛泽东诗词碑林、毛泽东纪念园等人文景观。</p>
+
+                                </div>
+                            </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab4-img4-m.png"/>
+                                <div class="right-text">
+                                    <h4>齐白石纪念馆</h4>
+                                    <p>纪念馆，馆内收藏齐白石国画作品和早期雕花作品数十件并收藏了近、当代名家书画作品数百件，是湘潭市的文物保护单位。</p>
+
+                                </div>
+                            </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/xt/fl5-tab4-img5-m.png"/>
+                                <div class="right-text">
+                                    <h4>盘龙大观园</h4>
+                                    <p>公园，园内有杜鹃园、樱花园、荷花园、兰花园、茶花园、盆景园、蔬菜博览园、农耕园、紫藤园、养和园十大特色主题园。</p>
+
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+       </div>
+       <div class="btn-block">
+           <a class="btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_xt|keycount|Tour|Btn_m1">定制我的行程</a>
+       </div>
+       <p class="visit-desc">更多信息垂询visit@jd.com</p>
+
+    </div>
+
+</div>
+<!-- widget city-mode-fl5-xt end -->
+
+<!-- widget city-mode-fl6-xt begin -->
+<div class="fl-section mb30">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            新闻动态
+        </h2>
+    </div>
+    <div class="news-block w">
+        <div class="row">
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a href="https://www.sohu.com/a/285851350_100159978" clstag="Channel_xt|keycount|News|Btn_0" target="_blank">
+                        <h2 class="bt">
+                            2018年12月29日，京东湘潭电商产业园开园，市长谈文胜出席开园大会并致辞
+                        </h2>
+                        <p class="desc">
+                            12月29日，京东湘潭电商产业园开园大会在湘潭高新区举行。湘潭市委副书记、市长谈文胜出席开园大会并致辞，副市长傅军主持大会，京东集团副总裁杜正平等参加。
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a href="http://www.xtol.cn/2018/0707/5205799.shtml" clstag="Channel_xt|keycount|News|Btn_1" target="_blank">
+                        <h2 class="bt">
+                            迅达集团成为“湘潭十大品牌计划”首批入选品牌
+                        </h2>
+                        <p class="desc">
+                            2018年7月6日，由湖南省人民政府指导，湖南省商务厅、湘潭市人民政府主办，湘潭市商务局、京东集团承办的第七届湖南省电子商务大会在湘潭举行。迅达集团与京东集团正式签订入驻京东湘潭电商产…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <a href="https://city.huanqiu.com/article/9CaKrnKclch" clstag="Channel_xt|keycount|News|Btn_2" target="_blank">
+                        <h2 class="bt">
+                            京东智联云携手湘潭高校，打通产教融合“最后一公里”
+                        </h2>
+                        <p class="desc">
+                            2018年9月6日，京东智联云携手京东大学，与湖南理工职业技术学院达成了产教融合、专业共建合作签约仪式。当天，“湖南理工职业技术学院京东学院”，在湘潭市人民政府副市长刘永珍，湖南理工职院…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <a href="https://xt.rednet.cn/content/2019/09/20/6057964.html" clstag="Channel_xt|keycount|News|Btn_3" target="_blank">
+                        <h2 class="bt">
+                            “京东产教融合中心培训基地”在湘潭挂牌
+                         </h2>
+                         <p class="desc">
+                             2019年9月19日，京东智联云与湖南电气职业学院举行校企合作签约仪式。副市长傅军、京东智联云公共业务副总裁李永明、湖南电气职业技术学院党委书记秦祖泽等出席会议。
+                         </p>
+
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- widget city-mode-fl6-xt end -->
+
+<!-- widget bottom-bar begin -->
+
+<!-- 联系我们 -->
+<div class="CH-footer">
+    <div class="CH-container">
+        <div class="row">
+            <div class="col-3 col-xs-12">
+                <div class="CH-footer-slogan">
+                    联系我们的专家，为您免费提供量身定制的方案咨询服务
+                </div>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt>免费咨询专家：400-623-0183</dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="idc|keycount|footer|online" href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="idc|keycount|footer|consultation" href="https://www.jdcloud.com/forms/consultation" target="_blank">请销售顾问联系我&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>不限时间，提交需求后，我们会尽快联系您</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- //联系我们  -->
+<!-- widget bottom-bar end -->
+
+<!-- widget pop-video-wrap begin -->
+
+<div class="pop-video-wrap">
+    <div class="mask"></div>
+    <div class="pop-video-video">
+        <video id="my-player" class="my-video" controls preload="auto" >
+            <source src="" type="video/mp4" id="my-player-source">
+        </video>
+        <div class="video-close">&times;</div>
+    </div>
+</div>
+<!-- widget pop-video-wrap end -->
