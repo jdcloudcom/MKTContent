@@ -449,8 +449,8 @@
 		"id":1898
 	},
 	{
-		"name":"分布式关系型数据库 DRDS",
-		"description":"自动分库分表的分布式数据库，兼容 MySQL 协议\n",
+		"name":" 云数据库 SQL Server",
+		"description":"功能强大，稳定可靠的数据管理平台\n",
 		"id":1900
 	},
 	{
