@@ -1,0 +1,45 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测到Apache Shiro披露了Shiro 1.6之前版本中存在的权限执行漏洞（CVE-2020-13933）。攻击者可利用此漏洞发送一些HTTP请求绕过权限控制。</span>
+</p>
+<p style="text-indent:28px"><span style="font-family: 宋体;">【漏洞描述】</span>
+</p>
+<p style="line-height:28px;background:white">&nbsp;&nbsp;&nbsp; Apache Shiro是一个强大且易用的Java安全框架,执行身份验证、授权、密码和会话管理。</p>
+<p style="line-height:28px;background:white">之前的Apache Shiro身份验证绕过漏洞CVE-2020-11989的修复补丁存在缺陷，在1.5.3及其之前的版本，由于shiro在处理url时与spring存在差异，远程攻击者可以发送特制的HTTP请求，绕过身份验证过程并获得对应用程序的未授权访问。<span style="font-family: 宋体;">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">中危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p><span style=";font-family:&#39;Segoe UI Emoji&#39;,sans-serif;color:#333333;background:white">Apache Shiro &lt; 1.6.0</span>
+<span style="font-size:16px;font-family:宋体">。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【安全版本】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Apache Shiro 1.6.0</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">升级 </span>
+<span style=";font-family:&#39;Segoe UI Emoji&#39;,sans-serif;color:#333333;background:white">Apache Shiro</span>
+<span style=";color:#333333;background:white">到</span>
+<span style=";font-family:&#39;Segoe UI Emoji&#39;,sans-serif;color:#333333;background:white"> 1.6.0</span>
+<span style="font-size:16px;font-family:宋体">。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p><a href="https://lists.apache.org/thread.html/r539f87706094e79c5da0826030384373f0041068936912876856835f%40%3Cdev.shiro.apache.org%3E"><span style="font-size:16px;font-family:宋体;color:windowtext;text-underline: none">https://lists.apache.org/thread.html/r539f87706094e79c5da0826030384373f0041068936912876856835f%40%3Cdev.shiro.apache.org%3E</span>
+</a></p>
+<p><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13933"><span style="font-size:16px;font-family:宋体;color:windowtext;text-underline: none">https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13933</span>
+</a></p>
+<p><br/></p>
