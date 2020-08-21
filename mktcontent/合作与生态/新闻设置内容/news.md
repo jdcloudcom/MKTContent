@@ -2198,5 +2198,13 @@
 		"jss_key":"News_Content_830",
 		"id":830,
 		"news_title":"猜你所想 京东智联云情感客服助你购物省心省力"
+	},
+	{
+		"summary":"如何利用现代智能化技术，改善流通市场对于人车货的全流程控制力、提升突发风险应对水平？休市后的紧要关头，新发地市场携手京东智联云，共同解决这一难题。",
+		"image_url":"//img1.jcloudcs.com/cms/ca793f71-1e5f-4eec-8378-227cedd3377220200821165150.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_843",
+		"jss_key":"News_Content_843",
+		"id":843,
+		"news_title":"15天！新发地的涅槃“智变”"
 	}
 ]
