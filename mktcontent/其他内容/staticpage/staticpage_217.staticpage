@@ -1,0 +1,1483 @@
+<!-- widget submenu begin -->
+<div class="subMenu-box">
+    <h2>城市</h2>
+    <div class="subMenu-level1">
+        <ul>
+            <li class="subMenu-link hasChild fullDrop">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_0" class="drop-link">解决方案中心</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subDropMenu">
+                        <li>
+                            <h3>善政</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_0" href="https://city.jdcloud.com/" target="_blank">京东城市云脑</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_1" href="https://city.jdcloud.com/exp/brain" target="_blank">智能城市运营中心（AIOC）</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_2" href="https://city.jdcloud.com/system.html" target="_blank">智能城市应用中心（AIAC）</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_3" href="https://www.jdcloud.com/cn/solutions/intelligent-transport-solution" target="_blank">智能交通</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_4" href="https://www.jdcloud.com/cn/solutions/intelligent-emergency-solution" target="_blank">智能应急</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_0_5" href="https://www.jdcloud.com/cn/solutions/internet-government-affairs-service-solution" target="_blank">互联网+政务服务</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>  
+                            <h3>兴业</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_0" href="https://www.jdcloud.com/cn/solutions/intelligent-agriculture-solution" target="_blank">数字农业</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_1" href="https://www.jdcloud.com/cn/solutions/intelligent-culture-and-tourism-solution" target="_blank">智能文旅</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_2" href="https://www.jdcloud.com/cn/solutions/industrial-internet-solution" target="_blank">智能制造</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_3" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_4" href="https://www.jdcloud.com/cn/solutions/industry-innovation-cloud-solution" target="_blank">产业创新云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_5" href="https://www.jdcloud.com/cn/solutions/urban-industry-service-platform" target="_blank">城市产业服务平台</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_6" href="https://www.jdcloud.com/cn/neec/index" target="_blank">线上城市新经济展示中心</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_7" href="https://www.jdcloud.com/cn/solutions/smart-park" target="_blank">AI 智慧园区</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_1_8" href="https://www.jdcloud.com/cn/solutions/smart-campus" target="_blank">AI 智慧校园</a></li>
+                                </ul>
+                            </div>
+                        </li>     
+                        <li>
+                            <h3>筑基</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_0" href="https://www.jdcloud.com/cn/products/data-middle-end" target="_blank">数据中台</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_1" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_2" href="https://www.jdcloud.com/cn/solutions/county-media-integration-solution" target="_blank">县域融媒云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_3" href="https://www.jdcloud.com/cn/solutions/urban-big-data-solution" target="_blank">城市大数据</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_4" href="https://www.jdcloud.com/cn/solutions/Industry-onboarding-solution" target="_blank">企业上云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_5" href="https://www.jdcloud.com/cn/solutions/intelligent-city-digital-network" target="_blank">智能城市干线网络</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_6" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_7" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_8" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_9" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政务云办公</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_10" href="https://www.jdcloud.com/cn/solutions/e-government-cloud-paas-solution" target="_blank">政务云PaaS</a></li>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_2_11" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIoT</a></li>
+                                </ul>
+                            </div>
+                        </li>  
+                        <li>  
+                            <h3>共生</h3>
+                            <div>
+                                <ul>
+                                    <li><a clstag="Channel_City|keycount|Header|Link_0_3_0" href="https://www.jdcloud.com/cn/solutions/intelligent-environmental-protection-solution" target="_blank">智能环保</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_1" class="drop-link">智网落地</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_0" href="https://www.jdcloud.com/cn/solutions/industrial-e-commerce-cloud" target="_blank">数字经济产业园</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_1" href="https://www.jdcloud.com/cn/solutions/industry-innovation" target="_blank">全国创新中心</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_1_0_2" href="https://www.jdcloud.com/cn/neec/index" target="_blank">数字经济展示中心</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_2" class="drop-link">通用解决方案</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_0" href="https://www.jdcloud.com/cn/solutions/hybrid-cloud-security" target="_blank">混合云安全</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_1" href="https://www.jdcloud.com/cn/solutions/govcloudsec" target="_blank">政务云安全</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_2" href="https://www.jdcloud.com/cn/solutions/Government" target="_blank">政务专有云</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_3" href="https://www.jdcloud.com/cn/solutions/government-enterprise-business-cloud-solution" target="_blank">政企云办公</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_4" href="https://www.jdcloud.com/cn/products/jdstack" target="_blank">JDStack</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_2_0_5" href="https://www.jdcloud.com/cn/solutions/aiot-solution" target="_blank">AIot</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_3" class="drop-link">样板城市</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/city/suqian" target="_blank">宿迁</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_1" href="https://www.jdcloud.com/cn/city/xian" target="_blank">西安</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/beihai" target="_blank">北海</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_3" href="https://www.jdcloud.com/cn/city/binzhou" target="_blank">滨州</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_4" href="https://www.jdcloud.com/cn/city/nantong" target="_blank">南通</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_5" href="https://www.jdcloud.com/cn/city/xiangtan" target="_blank">湘潭</a></li>
+						<li><a clstag="Channel_City|keycount|Header|Link_5_0_5" href="https://www.jdcloud.com/cn/city/hebi" target="_blank">鹤壁</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_3" class="drop-link">体验中心</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_0" href="https://city.jdcloud.com/exp/" target="_blank">领导驾驶舱</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_1" href="https://city.jdcloud.com/exp/industrychain/industriesTabs" target="_blank">产业链招商</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_2" href="https://city.jdcloud.com/exp/frame/ecommerce" target="_blank">产业电商</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_3" href="https://city.jdcloud.com/exp/frame/affair" target="_blank">政务服务</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_3_0_4" href="https://city.jdcloud.com/exp/equipment" target="_blank">设备运行检测</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="subMenu-link hasChild">
+                <a href="#" clstag="Channel_City|keycount|Header|Tab_4" class="drop-link">客户案例</a>
+                <div class="subMenu-drop-box">
+                    <ul class="subMenu-level2">
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/case/detail/186" target="_blank">滨州经济技术开发区</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_1" href="https://www.jdcloud.com/cn/case/detail/194" target="_blank">南京市麒麟园区</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_4_0_2" href="https://www.jdcloud.com/cn/case/detail/188" target="_blank">仙游县人民政府</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="tel-info"><a href="https://www.jdcloud.com/cn/forms/consultation"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i>售前咨询：400-623-0183</a> </div>
+</div>
+<!-- widget submenu end -->
+
+<!-- widget city-mode-banner1-hb begin -->
+<div class="banner-city">
+    <div class="w banner-city-ct">
+        <img src="https://img1.jcloudcs.com/portal/channel/city/hb/banner-m.png" class="banner-m"/>
+        <div class="fs-slide-ct">
+            <div class="fs-slide-txt">
+                <b class="fs-slide-tit">云智鹤壁 智造未来</b>
+                <p class="fs-slide-des">“1+2+X”京东全生态赋能 打造一体化设计的智能新城</p>
+
+            </div>
+            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&amp;aspid=18263598494.1.3.0.1664&amp;waiterApp=open.18992bf0a159e570ed70016a51.waiter&amp;entry=%20%20%20%20%20&amp;venderId=18263598494&amp;mallId=18263598494&amp;ws=ws1-dd.jd.com&amp;lang=zh_CN&amp;waiterAppId=open.18992bf0a159e570ed70016a51.waiter&amp;userApp=open.18992bf0a159e570ed70016a51.customer"
+               target="_blank" clstag="Channel_sq|keycount|Banner|Btn_0" class="jdc-btn jdc-btn-blue">立即咨询</a>
+        </div>
+    </div>
+</div>
+<!-- widget city-mode-banner1-hb end -->
+
+<!-- widget city-mode-fl2-hb begin -->
+<div class="fl-section fl2">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            京东生态全面落地
+        </h2>
+    </div>
+    <div class="cont-section-st w mt20">
+        <div class="row row-top">
+            <div class="col-6 col-xs-12">
+                <div class="item-st-txt">
+                    <p>2018年9月鹤壁市政府与京东集团在智能城市、云计算大数据、数字经济等领域深度合作，通过传统产业与电子商务的深度融合，带动鹤壁农特产品、绿色食品、智能家居等特色产业转型升级，打造地方特色产业发展新模式，增强经济社会发展新动能。</p>
+
+                    <p class="mt20">目前鹤壁基地已成为鹤壁智慧城市建设合伙人，高质量建成了市级政务云平台，并且成功引进京东政府慧采、司法拍卖、无人超市、智能影棚、直播基地、京东物流、智能制造KA企业等集团资源落地鹤壁，拉通加快对接落地，产业赋能初见成效，新经济发展氛围初显，激发了当地经济发展活力，加快鹤壁数字经济进程。</p>
+
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="item-st-txt">
+                    <ul class="list-icon f-cb">
+                        <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl2-icon1.png"/>
+                            <span>智能城市合伙人</span>
+
+                        </li>
+                        <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl2-icon2.png"/>
+                            <span>京东政府慧采</span>
+
+                        </li>
+                        <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl2-icon3.png"/>
+                            <span>智能制造产业</span>
+
+                        </li>
+                        <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl2-icon4.png"/>
+                            <span>市级政务云</span>
+
+                        </li>
+                        <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl2-icon5.png"/>
+                            <span>京东智能影棚</span>
+
+                        </li>
+                        <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl2-icon6.png"/>
+                            <span>国家智能供应链</span>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- widget city-mode-fl2-hb end -->
+
+<!-- widget city-mode-fl3-hb begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            数据政府
+        </h2>
+    </div>
+    <div class="cont-section-szzf w szzf-show-pc">
+        <div class="szzf-show">
+            <div class="video-item">
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl3-img1.png"/>
+                    <div class="content">
+                        <b class="tit">多云统一管理平台</b>
+                        <div class="curr-cont">
+                            <p class="p-tit">
+                                整合集中本地政务云 多平台云资源统一管理
+                            </p>
+
+                            <p class="p-desc f-toe3">
+                                创新引入多云管理技术模式，实现多类型云平台的云资源的统一管理和维护，极大地节约了管理成本提高了管理效率。政务云在一年时间内上云政府部门占比50%，成本降低70%，效率提升30%以上，有效推进了政府数据资源共享开放。
+                            </p>
+
+                            <ul class="mt15">
+                                <li>• 交通云、公安云等智联云产品覆盖领域最广,已成功取得了鹤壁市公安局等21个市政府部门的支持</li>
+                                <li>• 为多部门提供智慧应用上云咨询服务和技术支持</li>
+                                <li>• 为近35个政务应用安全稳定运行提供云计算大数据服务</li>
+                            </ul>
+                            <ul class="data-list data-list-v1 f-cb">
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">35</span>
+<span class="txt-s">家</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        智能城市
+                                        服务应用
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">1</span>
+<span class="txt-s">亿</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        财政成本节约
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">70</span>
+<span class="txt-s">%</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        运营成本降低
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">30</span>
+<span class="txt-s">%</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        处理效率提高
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">80</span>
+<span class="txt-s">%</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        服务质量增强
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">99.</span>
+<span class="txt-s">99%</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        系统可用性
+                                        数据可靠性
+                                    </div>
+                                </li>
+                            </ul>
+                            <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|Science|Btn_1" class="jdc-btn jdc-btn-white">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-list  curr">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl3-img2.png"/>
+                    <div class="content">
+                        <b class="tit">一体化智能城市顶层设计</b>
+                        <div class="curr-cont">
+                            <p class="p-tit">
+                                成立全国首个政府合资公司    以合伙人身份推进智慧鹤壁全面建设
+                            </p>
+
+                            <p class="p-desc f-toe3">
+                                鹤壁云中鹤大数据产业发展有限公司已于2019年9月30日正式注册成立，京东出资4000万占股40%，积极与市投资集团、农信通集团、鹤壁移动等公司合作，充分发挥计算、大数据的资源优势，搭建云计算大数据平台，以合伙人定位全面推进智慧鹤壁建设。
+                            </p>
+
+                            <ul class="mt15">
+                                <li>• 智能城市顶层设计、大数据产业规划、新经济产业招商路线图等战略规划服务</li>
+                                <li>• 与市政府成立合资公司共同推进智能城市项目</li>
+                            </ul>
+                            <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|Science|Btn_2" class="jdc-btn jdc-btn-white">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl3-img3.png"/>
+                    <div class="content">
+                        <b class="tit">京东智联云（河南）云计算大数据基地</b>
+                        <div class="curr-cont">
+                            <p class="p-desc f-toe3">
+                                2019年3月15日，京东智联云（河南）云计算大数据产业基地正式启用，以“云计算+大数据”为核心，立足鹤壁，辐射河南省及周边地市，作为京东向鹤壁市开放数据资源的载体，为政府和企业提供的安全便捷的云计算、大数据服务；更好的实现数据对接和数据服务。
+                            </p>
+
+                            <ul>
+                                <li>• 未来五年京东将在鹤壁投资建设2000个机柜的数据中心，占地10000平米</li>
+                                <li>• 过渡期计划部署100个服务器机柜</li>
+                            </ul>
+                            <ul class="data-list f-cb">
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">2000</span>
+<span class="txt-s">万</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        固定资产
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">192</span>
+<span class="txt-s">台</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        高性能服务器
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">17</span>
+<span class="txt-s">台/套</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        安全设备
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">38</span>
+<span class="txt-s">台</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        网络设备
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <span class="txt-b">5000</span>
+<span class="txt-s">万</span>
+
+                                    </div>
+                                    <div class="text2">
+                                        财政节约
+                                    </div>
+                                </li>
+                            </ul>
+                            <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|Science|Btn_3" class="jdc-btn jdc-btn-white mt35">立即咨询</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-list">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl3-img4.png"/>
+                    <div class="content">
+                        <b class="tit">城市智能运行中心（AIOC）</b>
+                        <div class="curr-cont">
+                            <p class="p-desc f-toe3">
+                                鹤壁市城市智能运行中心（AIOC）负责鹤壁市经济与产业发展信息资源整合与分析展示，利用云计算、物联网、大数据、人工智能等技术，感知经济与产业发展运行状态，联动产业各类资源，对经济与产业发展运行状态实现从感知到认知、从预测到决策的完整闭环，实现运行态势呈现、监测预警、联动指挥、分析决策、趋势预测的多元化服务，为领导决策提供技术支持。
+                            </p>
+
+                            <ul class="data-list data-list-v2 f-cb">
+                                <li>
+                                    <div class="text1">
+                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government1.png">
+                                        <span class="txt-s">领导驾驶舱</span>
+
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government2.png">
+                                        <span class="txt-s">大数据分析</span>
+
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government3.png">
+                                        <span class="txt-s">产业发展态势分析</span>
+
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png">
+                                        <span class="txt-s">招商运行态势分析</span>
+
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png">
+                                        <span class="txt-s">靶向企业画像</span>
+
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="text1">
+                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png">
+                                        <span class="txt-s">政策云</span>
+
+                                    </div>
+                                </li>
+                            </ul>
+                            <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|Science|Btn_4" class="jdc-btn jdc-btn-white">立即咨询</a>
+                            <a herf="">体验AIOC→ </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="cont-section-szzf szzf-show-m">
+        <div class="szzf-show">
+            <div class="video-item">
+                <div class="jdc-swiper-container swiper-fl3">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl3-img1-m.png"/>
+                                <div class="content">
+                                    <b class="tit">多云统一管理平台</b>
+                                    <div class="curr-cont">
+                                        <p class="p-tit">
+                                            整合集中本地政务云 多平台云资源统一管理
+                                        </p>
+
+                                        <p class="p-desc f-toe3">
+                                            创新引入多云管理技术模式，实现多类型云平台的云资源的统一管理和维护，极大地节约了管理成本提高了管理效率。政务云在一年时间内上云政府部门占比50%，成本降低70%，效率提升30%以上，有效推进了政府数据资源共享开放。
+                                        </p>
+
+                                        <ul class="mt15 m-hide">
+                                            <li class="f-toe">• 交通云、公安云等智联云产品覆盖领域最广,已成功取得了鹤壁市公安局等21个市政府部门的支持</li>
+                                            <li class="f-toe">• 为多部门提供智慧应用上云咨询服务和技术支持</li>
+                                            <li class="f-toe">• 为近35个政务应用安全稳定运行提供云计算大数据服务</li>
+                                        </ul>
+                                        <ul class="data-list data-list-v1 f-cb">
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">35</span>
+<span class="txt-s">家</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    智能城市
+                                                    服务应用
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">1</span>
+<span class="txt-s">亿</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    财政成本节约
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">70</span>
+<span class="txt-s">%</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    运营成本降低
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">30</span>
+<span class="txt-s">%</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    处理效率提高
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">80</span>
+<span class="txt-s">%</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    服务质量增强
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">99.</span>
+<span class="txt-s">99%</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    系统可用性
+                                                    数据可靠性
+                                                </div>
+                                            </li>
+                                        </ul>
+                                        <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|Science|Btn_1" class="jdc-btn jdc-btn-blue">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl3-img2-m.png"/>
+                                <div class="content">
+                                    <b class="tit">一体化智能城市顶层设计</b>
+                                    <div class="curr-cont">
+                                        <p class="p-tit">
+                                            成立全国首个政府合资公司    以合伙人身份推进智慧鹤壁全面建设
+                                        </p>
+
+                                        <p class="p-desc f-toe3">
+                                            鹤壁云中鹤大数据产业发展有限公司已于2019年9月30日正式注册成立，京东出资4000万占股40%，积极与市投资集团、农信通集团、鹤壁移动等公司合作，充分发挥计算、大数据的资源优势，搭建云计算大数据平台，以合伙人定位全面推进智慧鹤壁建设。
+                                        </p>
+
+                                        <ul class="mt15">
+                                            <li>• 智能城市顶层设计、大数据产业规划、新经济产业招商路线图等战略规划服务</li>
+                                            <li>• 与市政府成立合资公司共同推进智能城市项目</li>
+                                        </ul>
+                                        <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|Science|Btn_2" class="jdc-btn jdc-btn-blue">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl3-img3-m.png"/>
+                                <div class="content">
+                                    <b class="tit">京东智联云（河南）云计算大数据基地</b>
+                                    <div class="curr-cont">
+                                        <p class="p-desc f-toe3">
+                                            2019年3月15日，京东智联云（河南）云计算大数据产业基地正式启用，以“云计算+大数据”为核心，立足鹤壁，辐射河南省及周边地市，作为京东向鹤壁市开放数据资源的载体，为政府和企业提供的安全便捷的云计算、大数据服务；更好的实现数据对接和数据服务。
+                                        </p>
+
+                                        <ul class="mb10 m-hide">
+                                            <li>• 未来五年京东将在鹤壁投资建设2000个机柜的数据中心，占地10000平米</li>
+                                            <li>• 过渡期计划部署100个服务器机柜</li>
+                                        </ul>
+                                        <ul class="data-list data-list-v3 f-cb mb10">
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">2000</span>
+<span class="txt-s">万</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    固定资产
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">192</span>
+<span class="txt-s">台</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    高性能服务器
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">17</span>
+<span class="txt-s">台/套</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    安全设备
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">38</span>
+<span class="txt-s">台</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    网络设备
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <span class="txt-b">5000</span>
+<span class="txt-s">万</span>
+
+                                                </div>
+                                                <div class="text2">
+                                                    财政节约
+                                                </div>
+                                            </li>
+                                        </ul>
+                                        <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|Science|Btn_3" class="jdc-btn jdc-btn-blue">立即咨询</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="video-list">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl3-img4-m.png"/>
+                                <div class="content">
+                                    <b class="tit">城市智能运行中心（AIOC）</b>
+                                    <div class="curr-cont">
+                                        <p class="p-desc f-toe3">
+                                            鹤壁市城市智能运行中心（AIOC）负责鹤壁市经济与产业发展信息资源整合与分析展示，利用云计算、物联网、大数据、人工智能等技术，感知经济与产业发展运行状态，联动产业各类资源，对经济与产业发展运行状态实现从感知到认知、从预测到决策的完整闭环，实现运行态势呈现、监测预警、联动指挥、分析决策、趋势预测的多元化服务，为领导决策提供技术支持。
+                                        </p>
+
+                                        <ul class="data-list data-list-v2 f-cb">
+                                            <li>
+                                                <div class="text1">
+                                                    <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government1.png">
+                                                    <span class="txt-s">领导驾驶舱</span>
+
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government2.png">
+                                                    <span class="txt-s">大数据分析</span>
+
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government3.png">
+                                                    <span class="txt-s">产业发展态势分析</span>
+
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png">
+                                                    <span class="txt-s">招商运行态势分析</span>
+
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png">
+                                                    <span class="txt-s">靶向企业画像</span>
+
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="text1">
+                                                    <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png">
+                                                    <span class="txt-s">政策云</span>
+
+                                                </div>
+                                            </li>
+                                        </ul>
+                                        <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|Science|Btn_4" class="jdc-btn jdc-btn-blue">立即咨询</a>
+                                        <a herf="" class="link-aioc">体验AIOC→ </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 如果需要分页器 -->
+                    <div class="jdc-swiper-pagination"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- widget city-mode-fl3-hb end -->
+
+<!-- widget city-mode-fl4-hb begin -->
+<div class="fl-section w">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            数字经济
+        </h2>
+        <p class="tit-desc">构建智能供应链国家新一代人工智能开放创新平台豫北分中心</p>
+
+    </div>
+    <div class="row">
+        <div class="col-3 col-xs-12">
+            <div class="left-digital">
+                <img class="pc-hid" src="https://img1.jcloudcs.com/portal/channel/city/hb/fl4-img1-m.png"/>
+                <b>“三四 三四五总”体框架</b>
+                <p>结合鹤壁市和河南省特色资源优势，依托 京东智能供应链国家新一代人工开放创平台，将从基础资源、能力支撑应用生态三个层面进行平台架构设计，形成“ 三四 三四五 ”智能供应链国家人工开放创新平台豫北分中心总体框架 ”打造以云计算、大数据、 人工智能5G 等核心的新型基础设施建，目前项正在积极调研分析逐步推进。</p>
+
+            </div>
+        </div>
+        <div class="col-9 col-xs-12">
+            <div class="digital-block digital-block-v1 pc">
+                <ul class="digital-tab">
+                    <li class="tab1li on">
+                        智能制造产业园
+                    </li>
+                    <li class="tab1li">
+                        电商产业生态中心
+                    </li>
+                    <li class="tab1li">
+                        智能影棚基地
+                    </li>
+                    <li class="tab1li">
+                        人才赋能中心
+                    </li>
+                </ul>
+                <ul class="digital-content">
+                    <li class="digital-contentli digital-contentli-v1 show">
+                        <div class="economy-block">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl4-icon1.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            京东（鹤壁）智能制造产业园
+                                        </h2>
+                                        <p class="desc">全国首家能制造产业园实现智能制造业集聚发展</p>
+
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    依托京东“智能供应链国家新一代人工智能开放创新平台”，落地全国首家京东（鹤壁）智能制造产业园。
+                                    依托数字经济产业园 “京东+政府”合力引入深圳等地优质智能制造类企业入驻园区，依托京东智联云打造全市智能制造大数据平台，快速实现智能制造业在鹤壁的集聚发展，打造制造业转型发展的示范园。
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 项目签约后5个月内，完成5家智能制造企业入园</li>
+                                    <li class="detailLi">• 企业入园3个月内，牵引5条生产线落地，累计新增出口额13亿元</li>
+                                    <li class="detailLi">• 快速实现智能制造业在鹤壁的集聚发展</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="digital-contentli digital-contentli-v1">
+                        <div class="economy-block">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl4-icon2.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            京东智联云（鹤壁）电商产业生态中心
+                                        </h2>
+                                        <p class="desc">立足鹤壁、服务豫北、辐射中原、面向全国</p>
+
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    积极加快区域新兴产业集聚，推动京东电商、物流、金融、技术四大体系和京东生态系统全面落地对接，推进鹤壁产业扶持基金的体系化、规模化拉动升级转型，加快鹤壁市优质产品“卖出去”、市外优质产业“引进来”步伐，打造电商新经济产业集群，构筑鹤壁在河南省乃至全国电商产业领先地位。
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 京东11.11全国“黑马”城市： 销售额同比增长83%，排名全省第一；下单量同比增长全国第一</li>
+                                    <li class="detailLi">• 电商企业集聚效应明显：服务于更多的电商、农业、文化旅游、云计算、大数据、人工智能产业集群，园区52家企业产品上行京东，高达82%的外地企业首次入驻鹤壁，产销一体型企业33家，科技型企业39家（国家级高新企业1家），入园电商企业目前销售额累计2.1亿元</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="digital-contentli digital-contentli-v1">
+                        <div class="economy-block">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl4-icon3.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            京东智联云智能影棚基地
+                                        </h2>
+                                        <p class="desc">落地全国首个京东智能影棚基地 推动视觉服务体系全面升级</p>
+
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    首次走出京东，为商家提供高质量电商平面拍摄及电商短视频制作。智能影棚技术实现了高效率、低成本、标准化出片，帮助企业降低成本，提升产品展示形象。
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 预置模板自动拍摄并快速输出，每天可以拍摄200-300个SKU</li>
+                                    <li class="detailLi">• 拍摄成本降低 50%，拍摄效率提升 60%</li>
+                                    <li class="detailLi">• 京东官方授权背书，与京东商家大量拍摄需求对应，有助于当地电商集聚</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="digital-contentli digital-contentli-v1">
+                        <div class="economy-block">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl4-icon4.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            新经济人才赋能中心
+                                        </h2>
+                                        <p class="desc">线下赋能、线上直播、应用示范、科技创新、产业孵化</p>
+
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    整合京东大学电商学院、地方科研教育机构资源及地方企业，开展校企共建合作，围绕“市场需求为导向，以能力培养为中心”，为数字经济产业培养更多高素质、高技能的应用型人才。同时，与鹤壁职业技术学院在电商专业展开合作，后续将继续在新能源、金融、物流等方面展开培训合作，为鹤壁本地新兴产业发展输送高质量人才。
+                                </p>
+
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="digital-block digital-block-v1 mobile w">
+        <div class="tab-content">
+            <div class="tab-item-title jdc-common-arr active">
+                <h4>智能制造产业园</h4>
+            </div>
+            <div class="tab-item f-cb current m-on">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1 show">
+                        <div class="economy-block">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl4-icon1.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            新经济人才赋能中心
+                                        </h2>
+                                        <p class="desc">线下赋能、线上直播、应用示范、科技创新、产业孵化</p>
+
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    整合京东大学电商学院、地方科研教育机构资源及地方企业，开展校企共建合作，围绕“市场需求为导向，以能力培养为中心”，为数字经济产业培养更多高素质、高技能的应用型人才。同时，与鹤壁职业技术学院在电商专业展开合作，后续将继续在新能源、金融、物流等方面展开培训合作，为鹤壁本地新兴产业发展输送高质量人才。
+                                </p>
+
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>电商产业生态中心</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="economy-block">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl4-icon2.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            京东智联云（鹤壁）电商产业生态中心
+                                        </h2>
+                                        <p class="desc">立足鹤壁、服务豫北、辐射中原、面向全国</p>
+
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    积极加快区域新兴产业集聚，推动京东电商、物流、金融、技术四大体系和京东生态系统全面落地对接，推进鹤壁产业扶持基金的体系化、规模化拉动升级转型，加快鹤壁市优质产品“卖出去”、市外优质产业“引进来”步伐，打造电商新经济产业集群，构筑鹤壁在河南省乃至全国电商产业领先地位。
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 京东11.11全国“黑马”城市： 销售额同比增长83%，排名全省第一；下单量同比增长全国第一</li>
+                                    <li class="detailLi">• 电商企业集聚效应明显：服务于更多的电商、农业、文化旅游、云计算、大数据、人工智能产业集群，园区52家企业产品上行京东，高达82%的外地企业首次入驻鹤壁，产销一体型企业33家，科技型企业39家（国家级高新企业1家），入园电商企业目前销售额累计2.1亿元</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>智能影棚基地</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="economy-block">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl4-icon3.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            京东智联云智能影棚基地
+                                        </h2>
+                                        <p class="desc">落地全国首个京东智能影棚基地 推动视觉服务体系全面升级</p>
+
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    首次走出京东，为商家提供高质量电商平面拍摄及电商短视频制作。智能影棚技术实现了高效率、低成本、标准化出片，帮助企业降低成本，提升产品展示形象。
+                                </p>
+
+                                <ul class="detail">
+                                    <li class="detailLi">• 预置模板自动拍摄并快速输出，每天可以拍摄200-300个SKU</li>
+                                    <li class="detailLi">• 拍摄成本降低 50%，拍摄效率提升 60%</li>
+                                    <li class="detailLi">• 京东官方授权背书，与京东商家大量拍摄需求对应，有助于当地电商集聚</li>
+                                </ul>
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>人才赋能中心</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="economy-block">
+                            <div class="content">
+                                <div class="top">
+                                    <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl4-icon4.png"/>
+                                    <div class="bt-block">
+                                        <h2 class="bt">
+                                            新经济人才赋能中心
+                                        </h2>
+                                        <p class="desc">线下赋能、线上直播、应用示范、科技创新、产业孵化</p>
+
+                                    </div>
+                                </div>
+                                <p class="introduce">
+                                    整合京东大学电商学院、地方科研教育机构资源及地方企业，开展校企共建合作，围绕“市场需求为导向，以能力培养为中心”，为数字经济产业培养更多高素质、高技能的应用型人才。同时，与鹤壁职业技术学院在电商专业展开合作，后续将继续在新能源、金融、物流等方面展开培训合作，为鹤壁本地新兴产业发展输送高质量人才。
+                                </p>
+
+                                <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_xt|keycount|Economy|Btn_1" class="digital-btn">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="digital-content">
+                    <div class="digital-contentli digital-contentli-v1">
+                        <div class="left-block">
+                            <div class="top-bt top-bt5">
+                                <h2 class="bt">新经济人才培育中心</h2>
+                                <p class="desc">为本地留存新型有才</p>
+
+                            </div>
+                            <ul class="bottom-detail mt20">
+                                <li>• 1个创新空间载体</li>
+                                <li class="ml10">成功举办27场财法税宣讲、创新创业培训、创新应用大赛等，覆盖3000人次</li>
+                                <li>• 1个本地化服务体系</li>
+                                <li class="ml10">组建本地服务商32家，包含工商财法税、营销服务、投融资、政府政策咨询和人力资源</li>
+                                <li>• N个主题协同创新</li>
+                                <li class="ml10">孵化企业26家，在谈及储备项目100个，涉及厨电、大数据、机械设备、企业服务等多类企业；与4家投资机构达成合作</li>
+                            </ul>
+
+                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt26">立即咨询</a>
+                        </div>
+                        <img class="right-pic" src="https://img1.jcloudcs.com/portal/channel/city/xt/fl4-img5-m.png"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- widget city-mode-fl4-hb end -->
+
+<!-- widget city-mode-fl5-hb begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            鹤壁标杆游学之旅
+        </h2>
+    </div>
+    <div class="cont-section-tour w">
+        <div class="row">
+            <div class="col-2">
+                <ul class="left-bar">
+                    <li class="item on">数字经济产业园考察</li>
+                    <li class="item">项目座谈交流</li>
+                    <li class="item">区域品牌人文体验</li>
+                </ul>
+            </div>
+            <div class="col-10">
+                <ul class="right-block">
+                   <li class="module show">
+                       <h3>数字经济产业园考察</h3>
+                       <div class="w">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item img1-1">
+                                      <div class="mask"></div>
+                                      <h4>京东智联云（鹤壁）<br/>
+                                          数字经济产业园</h4>
+                                      <p>不断引入京东优质生态合作伙伴，打造以云计算大数据、智能制造、产业孵化、电商运营为主要方向的全国领先的数字经济产业园</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img1-2">
+                                      <div class="mask"></div>
+                                      <h4>京东智联云鹤壁<br/>
+                                          数字经济展示中心</h4>
+                                      <p>政府、协会、联盟、高校多要素汇聚的核心载体，数字经济领域发展成果与规划的重要展示平台</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img1-3">
+                                      <div class="mask"></div>
+                                      <h4>京东（鹤壁）智能影棚</h4>
+                                      <p>京东智能影棚首次走出京东，落地河南鹤壁，助力当地新兴产业发展，丰富园区业态，拍摄业务将辐射整个中原地区</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img1-4">
+                                      <div class="mask"></div>
+                                      <h4>优秀KA企业</h4>
+                                      <p>
+                                          <span>• 饮马泉薯业</span>
+<br/>
+                                          <span>• 河南淘食汇科技</span>
+<br/>
+                                          <span>• 帮太食品</span>
+<br/>
+                                          <span>• 鲜味佳食品</span>
+
+                                      </p>
+
+                                  </div>
+                              </div>
+                          </div>
+
+                            <!-- 如果需要导航按钮 -->
+                            <div class="jdc-swiper-button-prev"><i></i></div>
+                            <div class="jdc-swiper-button-next"><i></i></div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                           <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_1" > 
+                             定制我的行程
+                           </a>
+                           <p class="desc">更多信息垂询visit@jd.com</p>
+
+                       </div>
+                   </li>
+                   <li class="module">
+                       <h3>项目座谈交流</h3>
+                       <div class="w">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-1">
+                                    <div class="mask"></div>
+                                    <h4>合作模式</h4>
+                                    <p>京东智联云联合政府、企业、院校多方发展数字经济，合作模式、发展目标、实现路径等。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-2">
+                                    <div class="mask"></div>
+                                    <h4>上云发展</h4>
+                                    <p>企业借力政府、京东智联云发展数字经济相关模式、技术、人才等。</p>
+
+                                  </div>
+                              </div>
+                              <div class="swiper-slide">
+                                  <div class="scene-item img3-3">
+                                      <div class="mask"></div>
+                                      <h4>人才培养</h4>
+                                      <p>院校新经济学科建设与人才培育、政校企合作与专业人才联合培养等。</p>
+
+                                  </div>
+                              </div>
+                          </div>
+
+                            <!-- 如果需要导航按钮 -->
+                            <div class="jdc-swiper-button-prev"><i></i></div>
+                            <div class="jdc-swiper-button-next"><i></i></div>
+                        </div>
+                       </div>
+                       <div class="link-bottom">
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_3" > 
+                            定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
+
+                        </div>
+                   </li>
+                    <li class="module">
+                        <h3>区域品牌人文体验</h3>
+                        <div class="w">
+                            <div class="study-tour tour-swiper jdc-swiper-container">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-1">
+                                            <div class="mask"></div>
+                                            <h4>鹤壁淇河天然太极图</h4>
+                                            <p>鹤壁淇河天然太极图,位于中原太行山东麓，鹤壁市西北5公里处的上峪乡境内。鹤壁淇河天然太极图自然分布面积约100万平方米，是我国目前发现的最大的“天然太极图”。</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-2">
+                                            <div class="mask"></div>
+                                            <h4>鹤壁大伾山</h4>
+                                            <p class="f-toe4">大伾山，位于国家历史文化名城河南省鹤壁市浚县城东，故又称东山。大伾山上现存道观佛寺建筑群7处，名亭8座，石窟6处，各式古建筑138间，摩崖碑刻460余处。因其有中国最早，北方最大的浚县大佛而著称于世。2001年6月被国务院公布为国保文物，属国家AAAA级景区。</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="scene-item img4-3">
+                                            <div class="mask"></div>
+                                            <h4>鹤壁云梦山</h4>
+                                            <p class="f-toe4">云梦山，又名青岩山，战国时期鬼谷子隐居地，苏秦、张仪、孙膑、庞涓、毛遂、李牧等学生求学圣地，中华第一古军校。国家AAAA级景区，国家级森林公园，全国重点文物保护单位，中国最佳旅游景区。</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- 如果需要导航按钮 -->
+                                <div class="jdc-swiper-button-prev"><i></i></div>
+                                <div class="jdc-swiper-button-next"><i></i></div>
+                            </div>
+                        </div>
+                        <div class="link-bottom">
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_3" >
+                                定制我的行程
+                            </a>
+                            <p class="desc">更多信息垂询visit@jd.com</p>
+
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="cont-section-tourm">
+        <div class="tab-content">
+            <div class="tab-item-title  jdc-common-arr active">
+                 <h4>数字经济产业园考察</h4>
+            </div>
+            <div class="tab-item f-cb current m-on">
+                  <div class="g-table">
+                     <div class="tab-item-txt">
+                         <ul>
+                             <li>
+                                 <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl5-img1-m.png"/>
+                                 <div class="right-text">
+                                     <h4>京东智联云（鹤壁）数字经济产业园</h4>
+                                     <p>不断引入京东优质生态合作伙伴，打造以云计算大数据、智能制造、产业孵化、电商运营为主要方向的全国领先的数字经济产业园</p>
+
+                                 </div>
+                             </li>
+                             <li>
+                                 <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl5-img2-m.png"/>
+                                 <div class="right-text">
+                                     <h4>京东智联云鹤壁数字经济展示中心</h4>
+                                     <p>政府、协会、联盟、高校多要素汇聚的核心载体，数字经济领域发展成果与规划的重要展示平台</p>
+
+                                 </div>
+                             </li>
+                             <li>
+                                 <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl5-img3-m.png"/>
+                                 <div class="right-text">
+                                     <h4>京东（鹤壁）智能影棚</h4>
+                                     <p>京东智能影棚首次走出京东，落地河南鹤壁，助力当地新兴产业发展，丰富园区业态，拍摄业务将辐射整个中原地区</p>
+
+                                 </div>
+                             </li>
+                             <li>
+                                 <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl5-img4-m.png"/>
+                                 <div class="right-text">
+                                     <h4>优秀KA企业</h4>
+                                     <p>
+                                         <span>• 饮马泉薯业</span>
+<br/>
+                                         <span>• 饮马泉薯业</span>
+<br/>
+                                         <span>• 帮太食品</span>
+<br/>
+                                         <span>• 鲜味佳食品</span>
+
+                                     </p>
+
+                                 </div>
+                             </li>
+                         </ul>
+                      </div>
+                  </div>
+            </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>项目座谈交流</h4>
+           </div>
+           <div class="tab-item f-cb current">
+               <div class="g-table">
+                  <div class="tab-item-txt">
+                     <ul>
+                         <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl5-img5-m.png"/>
+                            <div class="right-text">
+                                <h4>合作模式</h4>
+                                <p>京东智联云联合政府、企业、院校多方发展数字经济，合作模式、发展目标、实现路径等。</p>
+
+                            </div>
+                        </li>
+                        <li>
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl5-img6-m.png"/>
+                            <div class="right-text">
+                                <h4>上云发展</h4>
+                                <p>企业借力政府、京东智联云发展数字经济相关模式、技术、人才等。</p>
+
+                            </div>
+                        </li>
+                         <li>
+                             <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl5-img7-m.png"/>
+                             <div class="right-text">
+                                 <h4>人才培养</h4>
+                                 <p>院校新经济学科建设与人才培育、政校企合作与专业人才联合培养等。</p>
+
+                             </div>
+                         </li>
+                     </ul>
+                   </div>
+               </div>
+           </div>
+            <div class="tab-item-title jdc-common-arr">
+                <h4>区域品牌人文体验</h4>
+            </div>
+            <div class="tab-item f-cb current">
+                <div class="g-table">
+                    <div class="tab-item-txt">
+                        <ul>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl5-img8-m.png"/>
+                                <div class="right-text">
+                                    <h4>鹤壁淇河天然太极图</h4>
+                                    <p>鹤壁淇河天然太极图,位于中原太行山东麓，鹤壁市西北5公里处的上峪乡境内。鹤壁淇河天然太极图自然分布面积约100万平方米，是我国目前发现的最大的“天然太极图”。</p>
+
+                                </div>
+                            </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl5-img9-m.png"/>
+                                <div class="right-text">
+                                    <h4>鹤壁大伾山</h4>
+                                    <p>大伾山，位于国家历史文化名城河南省鹤壁市浚县城东，故又称东山。大伾山上现存道观佛寺建筑群7处，名亭8座，石窟6处，各式古建筑138间，摩崖碑刻460余处。因其有中国最早，北方最大的浚县大佛而著称于世。2001年6月被国务院公布为国保文物，属国家AAAA级景区。</p>
+
+                                </div>
+                            </li>
+                            <li>
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/hb/fl5-img10-m.png"/>
+                                <div class="right-text">
+                                    <h4>鹤壁云梦山</h4>
+                                    <p>云梦山，又名青岩山，战国时期鬼谷子隐居地，苏秦、张仪、孙膑、庞涓、毛遂、李牧等学生求学圣地，中华第一古军校。国家AAAA级景区，国家级森林公园，全国重点文物保护单位，中国最佳旅游景区。</p>
+
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+       </div>
+       <div class="btn-block">
+           <a class="btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_xt|keycount|Tour|Btn_m1">定制我的行程</a>
+       </div>
+       <p class="visit-desc">更多信息垂询visit@jd.com</p>
+
+    </div>
+
+</div>
+<!-- widget city-mode-fl5-hb end -->
+
+<!-- widget city-mode-fl6-hb begin -->
+<div class="fl-section mb30">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            新闻动态
+        </h2>
+    </div>
+    <div class="news-block w">
+        <div class="row">
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a href="http://www.hebi.gov.cn/swj/741681/2358094/index.html" clstag="Channel_hb|keycount|News|Btn_0" target="_blank">
+                        <h2 class="bt">
+                            鹤壁市政府与京东集团正式签订五年合作协议
+                        </h2>
+                        <p class="desc">
+                            2018年9月17日上午，市政府与京东集团“互联网+”新经济发展合作项目签约仪式在京东集团总部举行。希望京东集团将云计算、大数据方面的技术经验优势，与鹤壁特色产业、特色企业、特色产品等有机…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a href="https://www.sohu.com/a/283575974_100221300" clstag="Channel_hb|keycount|News|Btn_1" target="_blank">
+                        <h2 class="bt">
+                            鹤壁市人民政府与京东集团联合举办“云起鹤壁·数聚中原”2018鹤壁新经济产业发展大会暨京…
+                        </h2>
+                        <p class="desc">
+                            2018年12月21日，“云起鹤壁·数聚中原”2018鹤壁新经济产业发展大会暨京东智联云（鹤壁）数字经济产业园开园仪式。首批入驻企业签约。“京东云（鹤壁）数字经济产业园”和“京东（鹤壁）商家服务中…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a href="http://www.southfi.cn/news/jy/2018/1214/7265.html" clstag="Channel_hb|keycount|News|Btn_2" target="_blank">
+                        <h2 class="bt">
+                            京东智联云携手鹤壁高校 打通产教融合“最后一公里”
+                        </h2>
+                        <p class="desc">
+                            京东智联云携手京东大学，与鹤壁职业技术学院达成了产教融合、专业共建合作，将针对园区企业定向定期输出电商人才，旨在提高学生实践能力与社会适应能力，为社会培养更多实用型、复合型人才…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12 mb20">
+                <div class="content">
+                    <a href="https://view.inews.qq.com/w2/20200427A0QKTT00?tbkt=I&strategy=&openid=o04IBAPQ896_JvrKFjV7sjPRMFWw&uid=&refer=wx_hot&ft=0" clstag="Channel_hb|keycount|News|Btn_3" target="_blank">
+                        <h2 class="bt">
+                            投资134亿！京东又一重大项目落户河南
+                         </h2>
+                         <p class="desc">
+                             京东集团与鹤壁市达成合作，建设（鹤壁）智能制造产业新城项目，落地智能制造生产企业200家，打造最系统、最完善的3C产品智能制造产业链。据介绍，项目全部建成投用后，预计进驻原料初加工企…
+                         </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <a href="http://www.hbqbq.gov.cn/qbdt/qbyw/2019-07-26/9730.html" clstag="Channel_hb|keycount|News|Btn_2" target="_blank">
+                        <h2 class="bt">
+                            鹤壁首家京东无人超市开业，科技感十足！
+                        </h2>
+                        <p class="desc">
+                            “真方便！”“就是，想要啥拿起来就走，再也不用排队结账了。”7月25日上午，京东无人超市正式开业仪式在鹤壁东区5G产业园举行，吸引不少市民前来体验全新的便捷式智能购物。刚从京东无人超市购物…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <a href="http://www.ciotimes.com/IT/174936.html" clstag="Channel_hb|keycount|News|Btn_3" target="_blank">
+                        <h2 class="bt">
+                            京东智联云引领鹤壁新经济发展 京东首家智能影棚加速电商产品数字化进程
+                        </h2>
+                        <p class="desc">
+                            鹤壁新经济展示中心揭牌仪式暨京东首家智能影棚基地落地活动现场5月30日，鹤壁新经济展示中心揭牌仪式暨京东首家智能影棚基地落地活动顺利举行， 京东智联云带动鹤壁新经济产业园引进更多电商…
+                        </p>
+
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- widget city-mode-fl6-hb end -->
+
+<!-- widget city-mode-fl7-hb begin -->
+<div class="fl-section">
+    <div class="tit-section">
+        <h2 class="tit-h2">
+            荣誉资质
+        </h2>
+    </div>
+    <div class="honour-block w">
+        <div class="row">
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/hb/fl7-img1.png"/>
+                    <p class="desc2">京东智联云鹤壁基地自建设至今创下多个第一得到鹤壁市政府、各委办局及京东集团一致认可</p>
+
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="content">
+                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/hb/fl7-img2.png"/>
+                    <p class="desc2">政府认可</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- widget city-mode-fl7-hb end -->
+
+<!-- widget bottom-bar begin -->
+
+<!-- 联系我们 -->
+<div class="CH-footer">
+    <div class="CH-container">
+        <div class="row">
+            <div class="col-3 col-xs-12">
+                <div class="CH-footer-slogan">
+                    联系我们的专家，为您免费提供量身定制的方案咨询服务
+                </div>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt>免费咨询专家：400-623-0183</dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="idc|keycount|footer|online" href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="idc|keycount|footer|consultation" href="https://www.jdcloud.com/forms/consultation" target="_blank">请销售顾问联系我&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>不限时间，提交需求后，我们会尽快联系您</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- //联系我们  -->
+<!-- widget bottom-bar end -->
+
+<!-- widget pop-video-wrap begin -->
+
+<div class="pop-video-wrap">
+    <div class="mask"></div>
+    <div class="pop-video-video">
+        <video id="my-player" class="my-video" controls preload="auto" >
+            <source src="" type="video/mp4" id="my-player-source">
+        </video>
+        <div class="video-close">&times;</div>
+    </div>
+</div>
+<!-- widget pop-video-wrap end -->
