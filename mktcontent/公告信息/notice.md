@@ -894,5 +894,17 @@
 	{
 		"id":943,
 		"title":"\\[cn-east-2\\] Notification of Upgrading Cloud File Service (CFS)"
+	},
+	{
+		"id":944,
+		"title":"\\[cn-south-1\\] Notification of Upgrading Elastic Compute, Network, Storage and Other Services"
+	},
+	{
+		"id":945,
+		"title":"\\[All-region\\] Notification of Cancelling Virtual Machine Creation Access from Local System Disks"
+	},
+	{
+		"id":946,
+		"title":"Notification of Upgrading Public Cloud and Hybrid Cloud Products on August 13 (Thursday) at 21:00-23:59"
 	}
 ]
