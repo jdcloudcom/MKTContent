@@ -96,10 +96,10 @@
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/city/suqian" target="_blank">宿迁</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_1" href="https://www.jdcloud.com/cn/city/xian" target="_blank">西安</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/beihai" target="_blank">北海</a></li>
-						<li><a clstag="Channel_City|keycount|Header|Link_5_0_3" href="https://www.jdcloud.com/cn/city/binzhou" target="_blank">滨州</a></li>
-						<li><a clstag="Channel_City|keycount|Header|Link_5_0_4" href="https://www.jdcloud.com/cn/city/nantong" target="_blank">南通</a></li>
-						<li><a clstag="Channel_City|keycount|Header|Link_5_0_5" href="https://www.jdcloud.com/cn/city/xiangtan" target="_blank">湘潭</a></li>
-						<li><a clstag="Channel_City|keycount|Header|Link_5_0_6" href="https://www.jdcloud.com/cn/city/hebi" target="_blank">鹤壁</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_3" href="https://www.jdcloud.com/cn/city/binzhou" target="_blank">滨州</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_4" href="https://www.jdcloud.com/cn/city/nantong" target="_blank">南通</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_5" href="https://www.jdcloud.com/cn/city/xiangtan" target="_blank">湘潭</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_6" href="https://www.jdcloud.com/cn/city/hebi" target="_blank">鹤壁</a></li>
                     </ul>
                 </div>
             </li>
@@ -134,14 +134,15 @@
 <!-- widget city-mode-banner1-sq begin -->
 <div class="banner-city">
     <div class="w banner-city-ct">
-        <img src="https://img1.jcloudcs.com/portal/channel/city/sq/banner-sq-m.png" class="banner-m">
+        <img src="https://img1.jcloudcs.com/portal/channel/city/sq/banner-sq-m.png" class="banner-m"/>
         <div class="fs-slide-ct">
             <div class="fs-slide-txt">
                 <b class="fs-slide-tit">云起宿迁</b>
                 <p class="fs-slide-des">国内首个一体化建设运营的大数据智能新城</p>
 
             </div>
-            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&amp;aspid=18263598494.1.3.0.1664&amp;waiterApp=open.18992bf0a159e570ed70016a51.waiter&amp;entry=%20%20%20%20%20&amp;venderId=18263598494&amp;mallId=18263598494&amp;ws=ws1-dd.jd.com&amp;lang=zh_CN&amp;waiterAppId=open.18992bf0a159e570ed70016a51.waiter&amp;userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank" clstag="Channel_sq|keycount|Banner|Btn_0" class="jdc-btn jdc-btn-blue">立即咨询</a>
+            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&amp;aspid=18263598494.1.3.0.1664&amp;waiterApp=open.18992bf0a159e570ed70016a51.waiter&amp;entry=%20%20%20%20%20&amp;venderId=18263598494&amp;mallId=18263598494&amp;ws=ws1-dd.jd.com&amp;lang=zh_CN&amp;waiterAppId=open.18992bf0a159e570ed70016a51.waiter&amp;userApp=open.18992bf0a159e570ed70016a51.customer"
+            target="_blank" clstag="Channel_sq|keycount|Banner|Btn_0" class="jdc-btn jdc-btn-blue">立即咨询</a>
         </div>
     </div>
 </div>
@@ -154,9 +155,9 @@
             <div class="col-4 col-xs-12">
                 <div class="item-st-img">
                     <a class="play-button" data-video="https://img1.jcloudcs.com/portal/channel/city/sq/sq_xcp.mp4">
-                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"/>
                     </a>
-                    <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-st.png">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-st.png"/>
                 </div>
             </div>
             <div class="col-8 col-xs-12">
@@ -173,10 +174,10 @@
 <div class="pop-video-wrap">
 <div class="mask"></div>
 <div class="pop-video-video">
-    <video id="my-player" class="my-video" controls="" preload="auto">
+    <video id="my-player" class="my-video" controls preload="auto" >
         <source src="" type="video/mp4" id="my-player-source">
     </video>
-    <div class="video-close">×</div>
+    <div class="video-close">&times;</div>
 </div>
 </div>
 <!-- widget city-mode-fl2-sq end -->
@@ -192,7 +193,7 @@
         <div class="szzf-show">
             <div class="video-item">
                 <div class="video-list">
-                    <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-szzf1.png">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-szzf1.png"/>
                     <div class="content">
                         <b class="tit">京东华东数据中心</b>
                         <div class="curr-cont">
@@ -253,7 +254,7 @@
                                 </li>
                                 <li>
                                     <div class="text1">
-                                        <span class="txt-b">&gt;99</span>
+                                        <span class="txt-b">&#62;99</span>
 <span class="txt-s">.99%</span>
 
                                     </div>
@@ -263,7 +264,7 @@
                                 </li>
                                 <li>
                                     <div class="text1">
-                                        <span class="txt-b">&gt;99</span>
+                                        <span class="txt-b">&#62;99</span>
 <span class="txt-s">.9999999%</span>
 
                                     </div>
@@ -277,7 +278,7 @@
                     </div>
                 </div>
                 <div class="video-list curr">
-                    <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-szzf2.png">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-szzf2.png"/>
                     <div class="content">
                         <b class="tit">宿迁政务云</b>
                         <div class="curr-cont">
@@ -337,7 +338,7 @@
                                 </li>
                                 <li>
                                     <div class="text1">
-                                        <span class="txt-b">&gt;99</span>
+                                        <span class="txt-b">&#62;99</span>
 <span class="txt-s">.99%</span>
 
                                     </div>
@@ -347,7 +348,7 @@
                                 </li>
                                 <li>
                                     <div class="text1">
-                                        <span class="txt-b">&gt;99</span>
+                                        <span class="txt-b">&#62;99</span>
 <span class="txt-s">.9999999%</span>
 
                                     </div>
@@ -356,12 +357,13 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_1" class="jdc-btn jdc-btn-white mt15">立即咨询</a>
+                            <a href="https://www.jdcloud.com/cn/forms/consultation"
+                            target="_blank" clstag="Channel_bh|keycount|gover|Btn_1" class="jdc-btn jdc-btn-white mt15">立即咨询</a>
                         </div>
                     </div>
                 </div>
                 <div class="video-list">
-                    <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-szzf3.png">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-szzf3.png"/>
                     <div class="content">
                         <b class="tit">信用城市建设</b>
                         <div class="curr-cont">
@@ -421,7 +423,7 @@
                                 </li>
                                 <li>
                                     <div class="text1">
-                                        <span class="txt-b">&gt;99</span>
+                                        <span class="txt-b">&#62;99</span>
 <span class="txt-s">.99%</span>
 
                                     </div>
@@ -431,7 +433,7 @@
                                 </li>
                                 <li>
                                     <div class="text1">
-                                        <span class="txt-b">&gt;99</span>
+                                        <span class="txt-b">&#62;99</span>
 <span class="txt-s">.9999999%</span>
 
                                     </div>
@@ -440,7 +442,8 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_3" class="jdc-btn jdc-btn-white mt86">立即咨询</a>
+                            <a  href="https://www.jdcloud.com/cn/forms/consultation"
+                            target="_blank" clstag="Channel_bh|keycount|gover|Btn_3" class="jdc-btn jdc-btn-white mt86">立即咨询</a>
                         </div>
                     </div>
                 </div>
@@ -450,10 +453,11 @@
     <div class="cont-section-szzf szzf-show-m">
         <div class="szzf-show">
             <div class="video-item">
-                <div class="jdc-swiper-container swiper-fl3 swiper-container-horizontal">
-                    <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-944.742px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="margin-right: 10px;">
+                <div class="jdc-swiper-container swiper-fl3">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
                             <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jh-m.png">
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jh-m.png"/>
                             <div class="content">
                                 <b class="tit">京东华东数据中心</b>
                                 <div class="curr-cont">
@@ -514,7 +518,7 @@
                                         </li>
                                         <li>
                                             <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
+                                                <span class="txt-b">&#62;99</span>
 <span class="txt-s">.99%</span>
 
                                             </div>
@@ -524,7 +528,7 @@
                                         </li>
                                         <li>
                                             <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
+                                                <span class="txt-b">&#62;99</span>
 <span class="txt-s">.9999999%</span>
 
                                             </div>
@@ -533,268 +537,14 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m1" class="jdc-btn jdc-btn-blue">VR体验</a>
-                                </div>
-                            </div>
-                        </div></div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="margin-right: 10px;">
-                            <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-sq-m.png">
-                            <div class="content">
-                                <b class="tit">宿迁政务云</b>
-                                <div class="curr-cont">
-                                    <p class="p-tit">
-                                        一窗受理、一网覆盖的政务上云标杆城市
-                                    </p>
-
-                                    <p class="p-desc">
-                                        宿迁市政府高度重视政务服务质量的提升，为民众营造优质、高效的政务服务环境。京东智联云互联网+政务服务解决方案从“供给端”发力，通过整合区域政务资源，成功打造出“线上+线下”融合的高效政务服务新模式，为当地民众和企业提供“随时随地、随需、随行”的政务服务。
-                                    </p>
-
-                                    <ul class="f-dn">
-                                        <li>• 政务服务一张网：宿迁市行政审批局“一张网”办件系统，助力“互联网+行政审批”建设。</li>
-                                        <li>• 不动产登记信息共享国家试点：不动产登记全面拥抱“互联网+”。</li>
-                                        <li>• 办电服务新模式：居民“零证办电”，企业“一证 办电”，全力打造“一次办好”办电服</li>
-                                    </ul>
-                                    <ul class="data-list f-cb">
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">98</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                上云率
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">219</span>
-<span class="txt-s">个</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统上云
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">75</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                成本降低
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">30</span>
-<span class="txt-s">%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                效率提升
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.99%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统可用性
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.9999999%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                数据可靠性
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m2" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                </div>
-                            </div>
-                        </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="2" style="margin-right: 10px;">
-                            <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-xy-m.png">
-                            <div class="content">
-                                <b class="tit">信用城市建设</b>
-                                <div class="curr-cont">
-                                    <p class="p-tit">
-                                        打造国家社会信用体系建设示范城市
-                                    </p>
-
-                                    <p class="p-desc">
-                                        宿迁市把社会信用体系建设作为加强和创新社会治理的重要抓手，高端定位、强力推进。京东和市发改委信用办合作建成宿迁信用-西楚分系统，于2018年3月成功对外开放，全面推广宿迁个人信用积分体系建设。
-                                    </p>
-
-                                    <ul class="f-db">
-                                        <li>•  打通个人、企业、城市管理部门三大城市信用主体之间的数据壁垒；</li>
-                                        <li>• 2017年成功获批国家社会信用体系建设示范城市.</li>
-                                    </ul>
-                                    <ul class="data-list f-cb f-dn">
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">98</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                上云率
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">219</span>
-<span class="txt-s">个</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统上云
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">75</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                成本降低
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">30</span>
-<span class="txt-s">%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                效率提升
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.99%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统可用性
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.9999999%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                数据可靠性
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m3" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                </div>
-                            </div>
-                        </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="margin-right: 10px;">
-                            <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jh-m.png">
-                            <div class="content">
-                                <b class="tit">京东华东数据中心</b>
-                                <div class="curr-cont">
-                                    <p class="p-tit">
-                                        超级云必有超级云数据中心，大数据应用示范城市
-                                    </p>
-
-                                    <p class="p-desc">
-                                        位于宿迁的京东智联云华东数据中心，依托京东集团的技术能力和数据资源，以智能城市建设为主线，拓展大数据应用场景，不仅承载了京东自身的电商业务和物流业务，还辐射周边产业，成为全省乃至全国大数据应用示范城市。
-                                    </p>
-
-                                    <!-- f-db = display:block -->
-                                    <ul class="f-db">
-                                        <li>• 京东公有云骨干网络节点核心数据中心之一；</li>
-                                        <li>• 通过京东智联云华东数据中心项目将运营商网络接入国家一级环网；</li>
-                                        <li>• 完成了全市政务数据共享平台，人口、法人、电子证照、空间地理、信用五大基础数据库的建设。</li>
-                                    </ul>
-                                    <ul class="data-list f-cb f-dn">
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">98</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                上云率
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">219</span>
-<span class="txt-s">个</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统上云
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">75</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                成本降低
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">30</span>
-<span class="txt-s">%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                效率提升
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.99%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统可用性
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.9999999%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                数据可靠性
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m1" class="jdc-btn jdc-btn-blue">VR体验</a>
+                                    <a href="https://data-roam.jdcloud.com/step3.html" 
+                                    target="_blank" clstag="Channel_bh|keycount|gover|Btn_m1" class="jdc-btn jdc-btn-blue">VR体验</a>
                                 </div>
                             </div>
                         </div></div>
-                        <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="margin-right: 10px;">
+                        <div class="swiper-slide">
                             <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-sq-m.png">
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-sq-m.png"/>
                             <div class="content">
                                 <b class="tit">宿迁政务云</b>
                                 <div class="curr-cont">
@@ -854,7 +604,7 @@
                                         </li>
                                         <li>
                                             <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
+                                                <span class="txt-b">&#62;99</span>
 <span class="txt-s">.99%</span>
 
                                             </div>
@@ -864,7 +614,7 @@
                                         </li>
                                         <li>
                                             <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
+                                                <span class="txt-b">&#62;99</span>
 <span class="txt-s">.9999999%</span>
 
                                             </div>
@@ -873,14 +623,15 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m2" class="jdc-btn jdc-btn-blue">立即咨询</a>
+                                    <a href="https://www.jdcloud.com/cn/forms/consultation"
+                                    target="_blank" clstag="Channel_bh|keycount|gover|Btn_m2" class="jdc-btn jdc-btn-blue">立即咨询</a>
                                 </div>
                             </div>
                         </div>
                         </div>
-                        <div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="margin-right: 10px;">
+                        <div class="swiper-slide">
                             <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-xy-m.png">
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-xy-m.png"/>
                             <div class="content">
                                 <b class="tit">信用城市建设</b>
                                 <div class="curr-cont">
@@ -939,7 +690,7 @@
                                         </li>
                                         <li>
                                             <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
+                                                <span class="txt-b">&#62;99</span>
 <span class="txt-s">.99%</span>
 
                                             </div>
@@ -949,7 +700,7 @@
                                         </li>
                                         <li>
                                             <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
+                                                <span class="txt-b">&#62;99</span>
 <span class="txt-s">.9999999%</span>
 
                                             </div>
@@ -958,273 +709,16 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m3" class="jdc-btn jdc-btn-blue">立即咨询</a>
+                                    <a href="https://www.jdcloud.com/cn/forms/consultation"
+                                    target="_blank" clstag="Channel_bh|keycount|gover|Btn_m3" class="jdc-btn jdc-btn-blue">立即咨询</a>
                                 </div>
                             </div>
                         </div>
                         </div>
-                    <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="margin-right: 10px;">
-                            <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jh-m.png">
-                            <div class="content">
-                                <b class="tit">京东华东数据中心</b>
-                                <div class="curr-cont">
-                                    <p class="p-tit">
-                                        超级云必有超级云数据中心，大数据应用示范城市
-                                    </p>
-
-                                    <p class="p-desc">
-                                        位于宿迁的京东智联云华东数据中心，依托京东集团的技术能力和数据资源，以智能城市建设为主线，拓展大数据应用场景，不仅承载了京东自身的电商业务和物流业务，还辐射周边产业，成为全省乃至全国大数据应用示范城市。
-                                    </p>
-
-                                    <!-- f-db = display:block -->
-                                    <ul class="f-db">
-                                        <li>• 京东公有云骨干网络节点核心数据中心之一；</li>
-                                        <li>• 通过京东智联云华东数据中心项目将运营商网络接入国家一级环网；</li>
-                                        <li>• 完成了全市政务数据共享平台，人口、法人、电子证照、空间地理、信用五大基础数据库的建设。</li>
-                                    </ul>
-                                    <ul class="data-list f-cb f-dn">
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">98</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                上云率
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">219</span>
-<span class="txt-s">个</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统上云
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">75</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                成本降低
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">30</span>
-<span class="txt-s">%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                效率提升
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.99%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统可用性
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.9999999%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                数据可靠性
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <a href="https://data-roam.jdcloud.com/step3.html" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m1" class="jdc-btn jdc-btn-blue">VR体验</a>
-                                </div>
-                            </div>
-                        </div></div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="margin-right: 10px;">
-                            <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-sq-m.png">
-                            <div class="content">
-                                <b class="tit">宿迁政务云</b>
-                                <div class="curr-cont">
-                                    <p class="p-tit">
-                                        一窗受理、一网覆盖的政务上云标杆城市
-                                    </p>
-
-                                    <p class="p-desc">
-                                        宿迁市政府高度重视政务服务质量的提升，为民众营造优质、高效的政务服务环境。京东智联云互联网+政务服务解决方案从“供给端”发力，通过整合区域政务资源，成功打造出“线上+线下”融合的高效政务服务新模式，为当地民众和企业提供“随时随地、随需、随行”的政务服务。
-                                    </p>
-
-                                    <ul class="f-dn">
-                                        <li>• 政务服务一张网：宿迁市行政审批局“一张网”办件系统，助力“互联网+行政审批”建设。</li>
-                                        <li>• 不动产登记信息共享国家试点：不动产登记全面拥抱“互联网+”。</li>
-                                        <li>• 办电服务新模式：居民“零证办电”，企业“一证 办电”，全力打造“一次办好”办电服</li>
-                                    </ul>
-                                    <ul class="data-list f-cb">
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">98</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                上云率
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">219</span>
-<span class="txt-s">个</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统上云
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">75</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                成本降低
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">30</span>
-<span class="txt-s">%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                效率提升
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.99%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统可用性
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.9999999%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                数据可靠性
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m2" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                </div>
-                            </div>
-                        </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" style="margin-right: 10px;">
-                            <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-xy-m.png">
-                            <div class="content">
-                                <b class="tit">信用城市建设</b>
-                                <div class="curr-cont">
-                                    <p class="p-tit">
-                                        打造国家社会信用体系建设示范城市
-                                    </p>
-
-                                    <p class="p-desc">
-                                        宿迁市把社会信用体系建设作为加强和创新社会治理的重要抓手，高端定位、强力推进。京东和市发改委信用办合作建成宿迁信用-西楚分系统，于2018年3月成功对外开放，全面推广宿迁个人信用积分体系建设。
-                                    </p>
-
-                                    <ul class="f-db">
-                                        <li>•  打通个人、企业、城市管理部门三大城市信用主体之间的数据壁垒；</li>
-                                        <li>• 2017年成功获批国家社会信用体系建设示范城市.</li>
-                                    </ul>
-                                    <ul class="data-list f-cb f-dn">
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">98</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                上云率
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">219</span>
-<span class="txt-s">个</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统上云
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">75</span>
-<span class="txt-s">.5%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                成本降低
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">30</span>
-<span class="txt-s">%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                效率提升
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.99%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                系统可用性
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">&gt;99</span>
-<span class="txt-s">.9999999%</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                数据可靠性
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|gover|Btn_m3" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                </div>
-                            </div>
-                        </div>
-                        </div></div>
+                    </div>
                     <!-- 如果需要分页器 -->
-                    <div class="jdc-swiper-pagination swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span>
-<span class="swiper-pagination-bullet"></span>
-<span class="swiper-pagination-bullet"></span>
-</div>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-</div>
+                    <div class="jdc-swiper-pagination"></div>
+                </div>
             </div>
         </div>
     </div>
@@ -1248,7 +742,7 @@
             <div class="col-4 col-xs-12">
                 <div class="content">
                    <div class="top">
-                       <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq1.png">
+                       <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq1.png"/>
                        <div class="bt-block">
                             <h2 class="bt">
                                 京东呼叫中心
@@ -1264,7 +758,8 @@
                        <li class="detailLi">• 人工日承接咨询量可达200万</li>
                        <li class="detailLi">• 从业人员高达12000+人</li>
                    </ul>
-                   <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_sq|keycount|Economy|Btn_0" class="digital-btn">
+                   <a href="https://www.jdcloud.com/cn/forms/consultation"
+                        target="_blank" clstag="Channel_sq|keycount|Economy|Btn_0" class="digital-btn">
                             立即咨询
                    </a>
                 </div>
@@ -1272,7 +767,7 @@
             <div class="col-4 col-xs-12">
                 <div class="content">
                     <div class="top">
-                        <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq2.png">
+                        <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq2.png"/>
                         <div class="bt-block">
                              <h2 class="bt">
                                 京东宿迁仓储物流中心
@@ -1288,7 +783,8 @@
                         <li class="detailLi">• 分拣处理能力16000件/小时</li>
                         <li class="detailLi">• 分拣准确率高达99.99%</li>
                     </ul>
-                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_sq|keycount|Economy|Btn_1" class="digital-btn">
+                    <a href="https://www.jdcloud.com/cn/forms/consultation"
+                        target="_blank" clstag="Channel_sq|keycount|Economy|Btn_1" class="digital-btn">
                             立即咨询
                    </a>
                  </div>
@@ -1296,7 +792,7 @@
             <div class="col-4 col-xs-12">
                 <div class="content contentNoborder">
                     <div class="top">
-                        <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq3.png">
+                        <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq3.png"/>
                         <div class="bt-block">
                              <h2 class="bt">
                                 京东宿迁电子商务产业园
@@ -1312,7 +808,8 @@
                         <li class="detailLi">• 京东客服中心、电子商务第一街、文化公园、通联物流等多家电子商务相关企业入驻</li>
                         <li class="detailLi">• 电商运营、网络交易、物流配送、定制加工、软件研发、文化创意</li>
                     </ul>
-                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_sq|keycount|Economy|Btn_2" class="digital-btn">
+                    <a href="https://www.jdcloud.com/cn/forms/consultation"
+                        target="_blank" clstag="Channel_sq|keycount|Economy|Btn_2" class="digital-btn">
                             立即咨询
                    </a>
                  </div>
@@ -1327,7 +824,7 @@
             <div class="col-12 col-xs-12">
                 <div class="content">
                    <div class="top">
-                       <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq4.png">
+                       <img src="https://img1.jcloudcs.com/portal/city-beihai/economy-sq4.png"/>
                        <div class="bt-block">
                             <h2 class="bt">
                                 物联网智能制造 + 互联网金融
@@ -1384,15 +881,16 @@
                             <a href="https://www.jdcloud.com/cn/products/web-application-firewall">Web应用防火墙(高级版)</a><a href="https://www.jdcloud.com/cn/products/anti-ddos-protection-package">DDOS防护包(5G版)</a><a href="https://www.jdcloud.com/cn/products/endpoint-security">云主机安全</a><a href="https://www.jdcloud.com/cn/products/situation-awareness">态势感知</a><a href="https://www.jdcloud.com/cn/products/jd-cloud-swift">专有云</a><a href="https://www.jdcloud.com/cn/products/application-security-gateway">VPC-WAF(基础版)</a>
                         </div>
                     </div>
-                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_sq|keycount|EconomyLife|Btn_0" class="digital-btn">
+                    <a href="https://www.jdcloud.com/cn/forms/consultation"
+                        target="_blank" clstag="Channel_sq|keycount|EconomyLife|Btn_0" class="digital-btn">
                             立即咨询
                     </a>
                 </div>
                 <div class="right-pic">
                     <a class="play-button" data-video="https://img1.jcloudcs.com/portal/channel/city/sq/sq_gjj.mp4">
-                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"/>
                     </a>
-                    <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-szsh.png">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/sq/img-szsh.png"/>
                 </div>
 
             </li>
@@ -1424,9 +922,9 @@
                    <li class="module show">
                        <h3>数字经济产业园考察</h3>
                        <div class="w" style="height:250px;position: relative;overflow: hidden;">
-                        <div class="study-tour tour-swiper jdc-swiper-container swiper-container-horizontal">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
                           <div class="swiper-wrapper">
-                              <div class="swiper-slide swiper-slide-active" style="width: 312.333px;">
+                              <div class="swiper-slide">
                                   <div class="scene-item">
                                       <div class="mask"></div>
                                       <h4>宿迁电子商务产业园</h4>
@@ -1434,7 +932,7 @@
 
                                   </div>
                               </div>
-                              <div class="swiper-slide swiper-slide-next" style="width: 312.333px;">
+                              <div class="swiper-slide">
                                   <div class="scene-item img1-2">
                                     <div class="mask"></div>
                                     <h4>宿迁特色馆</h4>
@@ -1442,7 +940,7 @@
 
                                   </div>
                               </div>
-                              <div class="swiper-slide" style="width: 312.333px;">
+                              <div class="swiper-slide">
                                   <div class="scene-item img1-3">
                                     <div class="mask"></div>
                                     <h4>宿迁智能城市科技馆</h4>
@@ -1450,7 +948,7 @@
 
                                   </div>
                               </div>
-                              <div class="swiper-slide" style="width: 312.333px;">
+                              <div class="swiper-slide">
                                   <div class="scene-item img1-4">
                                     <div class="mask"></div>
                                     <h4>KA特色企业</h4>
@@ -1459,25 +957,24 @@
                                   </div>
                               </div>                              
                           </div>
-                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-</div>
+                        </div>
                        </div>
                        <div class="link-bottom">
-                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_0"> 
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_0"> 
                             定制我的行程
                             </a>
                             <p class="desc">更多信息垂询visit@jd.com</p>
 
                         </div>
                         <!-- 如果需要导航按钮 -->
-                        <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
-                        <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
                    </li>
                    <li class="module">
                     <h3>京东落地项目参观</h3>
                     <div class="w" style="height:250px;position: relative;overflow: hidden;">
-                     <div class="study-tour tour-swiper jdc-swiper-container swiper-container-horizontal">
-                       <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                     <div class="study-tour tour-swiper jdc-swiper-container">
+                       <div class="swiper-wrapper">
                            <div class="swiper-slide">
                                <div class="scene-item img2-1">
                                    <div class="mask"></div>
@@ -1511,25 +1008,24 @@
                                </div>
                            </div>                              
                        </div>
-                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-</div>
+                     </div>
                     </div>
                     <div class="link-bottom">
-                        <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_1"> 
+                        <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_1"> 
                           定制我的行程
                         </a>
                         <p class="desc">更多信息垂询visit@jd.com</p>
 
                     </div>
                      <!-- 如果需要导航按钮 -->
-                     <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
-                     <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
+                     <div class="jdc-swiper-button-prev"><i></i></div>
+                     <div class="jdc-swiper-button-next"><i></i></div>
                    </li>
                    <li class="module">
                        <h3>项目座谈交流</h3>
                        <div class="w" style="height:250px;position: relative;overflow: hidden;">
-                        <div class="study-tour tour-swiper jdc-swiper-container swiper-container-horizontal">
-                          <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
                               <div class="swiper-slide">
                                   <div class="scene-item img3-1">
                                       <div class="mask"></div>
@@ -1563,25 +1059,24 @@
                                   </div>
                               </div>                              
                           </div>
-                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-</div>
+                        </div>
                        </div>
                        <div class="link-bottom">
-                           <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_2"> 
+                           <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_2"> 
                              定制我的行程
                            </a>
                            <p class="desc">更多信息垂询visit@jd.com</p>
 
                        </div>
                         <!-- 如果需要导航按钮 -->
-                        <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
-                        <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
                    </li>
                    <li class="module">
                        <h3>新经济大讲堂</h3>
                        <div class="w" style="height:250px;position: relative;overflow: hidden;">
-                        <div class="study-tour tour-swiper jdc-swiper-container swiper-container-horizontal">
-                          <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
                               <div class="swiper-slide">
                                   <div class="scene-item img4-1">
                                       <div class="mask"></div>
@@ -1615,25 +1110,24 @@
                                   </div>
                               </div>                              
                           </div>
-                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-</div>
+                        </div>
                        </div>
                        <div class="link-bottom">
-                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_3"> 
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_3"> 
                             定制我的行程
                             </a>
                             <p class="desc">更多信息垂询visit@jd.com</p>
 
                         </div>
                         <!-- 如果需要导航按钮 -->
-                        <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
-                        <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
                    </li>
                    <li class="module">
                        <h3>区域品牌人文体验</h3>
                        <div class="w" style="height:250px;position: relative;overflow: hidden;">
-                        <div class="study-tour tour-swiper jdc-swiper-container swiper-container-horizontal">
-                          <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
                               <div class="swiper-slide">
                                   <div class="scene-item img5-1">
                                       <div class="mask"></div>
@@ -1667,19 +1161,18 @@
                                 </div>
                               </div>                              
                           </div>
-                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-</div>
+                        </div>
                        </div>
                        <div class="link-bottom">
-                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_4"> 
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_4"> 
                             定制我的行程
                             </a>
                             <p class="desc">更多信息垂询visit@jd.com</p>
 
                         </div>
                         <!-- 如果需要导航按钮 -->
-                        <div class="jdc-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="false"><i></i></div>
-                        <div class="jdc-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"><i></i></div>
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
                    </li>
                 </ul>
             </div>
@@ -1695,7 +1188,7 @@
                      <div class="tab-item-txt">
                          <ul>
                              <li>
-                                 <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm1.png">
+                                 <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm1.png"/>
                                  <div class="right-text">
                                      <h2 class="bt">宿迁电子商务产业园</h2>
                                      <p class="desc">园区总体规划建设面积6.4平方公里，已建成区域1.8平方公里，主要有京东客服中心、电子商务第一街、文化公园、通联物流等项目</p>
@@ -1703,7 +1196,7 @@
                                  </div>
                              </li>
                              <li>
-                                <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm2.png">
+                                <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm2.png"/>
                                 <div class="right-text">
                                     <h2 class="bt">宿迁特色馆</h2>
                                     <p class="desc">京东“中国特产·宿迁馆”2015年正式运营，涵盖休闲食品、生鲜、酒水饮料等品类</p>
@@ -1711,7 +1204,7 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm3.png">
+                                <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm3.png"/>
                                 <div class="right-text">
                                     <h2 class="bt">宿迁智能城市科技馆</h2>
                                     <p class="desc">该馆是宿迁市智能城市的首批建设项目，是一个集科普展示中心、科技研发中心、运营管理中心于一体的综合性智能城市科技馆</p>
@@ -1719,7 +1212,7 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm4.png">
+                                <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm4.png"/>
                                 <div class="right-text">
                                     <h2 class="bt">KA特色企业</h2>
                                     <p class="desc">园区已入驻京东、当当、小米、途牛等知名互联网企业480家。从业人员3.5万人</p>
@@ -1738,7 +1231,7 @@
                      <div class="tab-item-txt">
                         <ul>
                             <li>
-                                <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm5.png">
+                                <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm5.png"/>
                                 <div class="right-text">
                                     <h2 class="bt">京东全国客服中心一期、二期</h2>
                                     <p class="desc">是集自助服务，互助服务及客服服务为一体的服务中心，提供包括在线、电话、电子邮件、网页留言、微博、JIMI机器人、电话预约、手机端移动服务等多方式、多渠道、全方位的7*24小时“360”服务</p>
@@ -1746,7 +1239,7 @@
                                 </div>
                             </li>
                             <li>
-                               <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm6.png">
+                               <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm6.png"/>
                                <div class="right-text">
                                    <h2 class="bt">京东华东数据中心</h2>
                                    <p class="desc">京东华东数据中心拥有30万台以上服务器运营能力，采用Uptime Tier3+标准以及TIA-924 T4标准设计并建造，能够提供全面的基础服务能力</p>
@@ -1754,7 +1247,7 @@
                                </div>
                            </li>
                            <li>
-                               <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm7.png">
+                               <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm7.png"/>
                                <div class="right-text">
                                    <h2 class="bt">全国无人机运营调度中心</h2>
                                    <p class="desc">京东（宿迁）智慧物流全国无人机运营调度中心于2017年 6月建成并投入使用，是全球首个无人机运营调度中心</p>
@@ -1762,7 +1255,7 @@
                                </div>
                            </li>
                            <li>
-                               <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm8.png">
+                               <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm8.png"/>
                                <div class="right-text">
                                    <h2 class="bt">京东宿迁仓储物流中心一期</h2>
                                    <p class="desc">项目于2015年启动建设，占地286亩，建设20万平方米现代物流仓库、综合楼</p>
@@ -1781,7 +1274,7 @@
                   <div class="tab-item-txt">
                      <ul>
                          <li>
-                             <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm9.png">
+                             <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm9.png"/>
                              <div class="right-text">
                                  <h2 class="bt">产业规划</h2>
                                  <p class="desc">数字经济发展布局与未来规划、互联网+政务平台建设、产业集聚与新旧动能转换等</p>
@@ -1789,7 +1282,7 @@
                              </div>
                          </li>
                          <li>
-                            <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm10.png">
+                            <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm10.png"/>
                             <div class="right-text">
                                 <h2 class="bt">合作模式</h2>
                                 <p class="desc">京东智联云联合政府、企业、院校多方发展数字经济，合作模式、发展目标、实现路径等</p>
@@ -1797,7 +1290,7 @@
                             </div>
                         </li>
                         <li>
-                            <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm11.png">
+                            <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm11.png"/>
                             <div class="right-text">
                                 <h2 class="bt">上云发展</h2>
                                 <p class="desc">企业借力政府、京东智联云发展数字经济相关模式、技术、人才等</p>
@@ -1805,7 +1298,7 @@
                             </div>
                         </li>
                         <li>
-                            <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm12.png">
+                            <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm12.png"/>
                             <div class="right-text">
                                 <h2 class="bt">人才培养</h2>
                                 <p class="desc">院校新经济学科建设与人才培育、政校企合作与专业人才联合培养等</p>
@@ -1824,7 +1317,7 @@
                    <div class="tab-item-txt">
                       <ul>
                           <li>
-                              <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm13.png">
+                              <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm13.png"/>
                               <div class="right-text">
                                   <h2 class="bt">经验萃取，赋能开放</h2>
                                   <p class="desc">龙头企业分享企业生存之道、发展经验、科技文化、业务布局、未来战略等</p>
@@ -1832,7 +1325,7 @@
                               </div>
                           </li>
                           <li>
-                             <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm14.png">
+                             <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm14.png"/>
                              <div class="right-text">
                                  <h2 class="bt">名家汇聚，闭门论坛</h2>
                                  <p class="desc">学者、教授、顾问等多位一体，经济形势分析、宏观政策解读、行业趋势研判、区域发展指导等</p>
@@ -1840,7 +1333,7 @@
                              </div>
                          </li>
                          <li>
-                             <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm15.png">
+                             <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm15.png"/>
                              <div class="right-text">
                                  <h2 class="bt">专家智库，商业内参</h2>
                                  <p class="desc">相关产业、企业问题诊断，定向辅导，助力企业转型升级、商业管理变革等</p>
@@ -1848,7 +1341,7 @@
                              </div>
                          </li>
                          <li>
-                             <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm16.png">
+                             <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm16.png"/>
                              <div class="right-text">
                                  <h2 class="bt">产业趋势，行业洞察</h2>
                                  <p class="desc">有机结合当地产业特色，前瞻性、借鉴性考察当地产业链融合发展</p>
@@ -1867,7 +1360,7 @@
                     <div class="tab-item-txt">
                        <ul>
                            <li>
-                               <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm17.png">
+                               <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm17.png"/>
                                <div class="right-text">
                                    <h2 class="bt">洋河酒厂</h2>
                                    <p class="desc">走进中国名酒企业，感受传统产业与现代工艺完美结合，探究工匠精神、品牌打造、智能制造、电子商务</p>
@@ -1875,7 +1368,7 @@
                                </div>
                            </li>
                            <li>
-                              <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm18.png">
+                              <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm18.png"/>
                               <div class="right-text">
                                   <h2 class="bt">项王故里/乾隆行宫</h2>
                                   <p class="desc">西楚霸王项羽出生地，既有汉代民居特点，又有宫殿式建筑风格，观三进院落，感创业之艰</p>
@@ -1883,7 +1376,7 @@
                               </div>
                           </li>
                           <li>
-                              <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm19.png">
+                              <img src="https://img1.jcloudcs.com/portal/city-suqian/sq-tourm19.png"/>
                               <div class="right-text">
                                   <h2 class="bt">三台山国家森林公园</h2>
                                   <p class="desc">坐落于江苏省宿迁市湖滨新区，美丽的骆马湖湖畔，这里山水相依，花海荡漾，是一座天然的生态氧吧</p>
@@ -1896,7 +1389,7 @@
             </div>
        </div>
        <div class="btn-block">
-           <a class="btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_m1">定制我的行程</a>
+           <a class="btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_sq|keycount|Tour|Btn_m1">定制我的行程</a>
        </div>
        <p class="visit-desc">更多信息垂询visit@jd.com</p>
 
@@ -1983,28 +1476,28 @@
         <div class="row">
             <div class="col-6 col-xs-12">
                 <div class="content">
-                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz1.png">
+                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz1.png"/>
                     <p class="desc2">宿迁市电子政务办公室荣获2017年-2018年度中国信通院颁发的“可信云用户奖”</p>
 
                 </div>
             </div>
             <div class="col-6 col-xs-12">
                 <div class="content">
-                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz2.png">
+                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz2.png"/>
                     <p class="desc2">宿迁政务云连续荣获中国信通院颁发的“政务云综合水平先进级”</p>
 
                 </div>
             </div>
             <div class="col-6 col-xs-12 mt20">
                 <div class="content">
-                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz3.png">
+                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz3.png"/>
                     <p class="desc2">中国信通院颁发的“十佳政务云”</p>
 
                 </div>
             </div>
             <div class="col-6 col-xs-12 mt20">
                 <div class="content content-noborder">
-                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz4.png">
+                    <img class="img1" src="https://img1.jcloudcs.com/portal/channel/city/sq/img-jz4.png"/>
                     <p class="desc2">入选工信部组织的《大数据优秀产品和应用解决方案案例集（2019）》，并获得了贵阳数博会获得了大数据十佳优秀产品奖</p>
 
                 </div>
@@ -2034,7 +1527,7 @@
             </div>
             <div class="col-3 col-xs-12">
                 <dl class="CH-footer-info-list">
-                    <dt><a clstag="idc|keycount|footer|online" href="https://dd1-open.jd.com/chat/m/index?source=open_web&amp;aspid=18263598494.1.3.0.1664&amp;waiterApp=open.18992bf0a159e570ed70016a51.waiter&amp;entry=%20%20%20%20%20&amp;venderId=18263598494&amp;mallId=18263598494&amp;ws=ws1-dd.jd.com&amp;lang=zh_CN&amp;waiterAppId=open.18992bf0a159e570ed70016a51.waiter&amp;userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dt><a clstag="idc|keycount|footer|online" href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
                     <dd>周一至周五 9:00-18:00</dd>
                 </dl>
             </div>
@@ -2048,3 +1541,4 @@
     </div>
 </div>
 <!-- //联系我们  -->
+<!-- widget bottom-bar end -->
