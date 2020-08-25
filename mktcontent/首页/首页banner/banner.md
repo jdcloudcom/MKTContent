@@ -1440,5 +1440,19 @@
 		"id":1274,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"助企业降低财税、订单、仓储、物流等手工操作成本",
+		"name":"RPA",
+		"id":1276,
+		"button_title":"查看详情",
+		"main_title":"免费定制软件机器人自动化方案 限时八折"
+	},
+	{
+		"sub_title":"",
+		"name":"超级爆款-通信云",
+		"id":1278,
+		"button_title":"",
+		"main_title":""
 	}
 ]
