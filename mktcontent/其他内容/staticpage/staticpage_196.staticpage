@@ -96,16 +96,16 @@
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/city/suqian" target="_blank">宿迁</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_1" href="https://www.jdcloud.com/cn/city/xian" target="_blank">西安</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_5_0_2" href="https://www.jdcloud.com/cn/city/beihai" target="_blank">北海</a></li>
-						<li><a clstag="Channel_City|keycount|Header|Link_5_0_3" href="https://www.jdcloud.com/cn/city/binzhou" target="_blank">滨州</a></li>
-						<li><a clstag="Channel_City|keycount|Header|Link_5_0_4" href="https://www.jdcloud.com/cn/city/nantong" target="_blank">南通</a></li>
-						<li><a clstag="Channel_City|keycount|Header|Link_5_0_5" href="https://www.jdcloud.com/cn/city/xiangtan" target="_blank">湘潭</a></li>
-						<li><a clstag="Channel_City|keycount|Header|Link_5_0_6" href="https://www.jdcloud.com/cn/city/hebi" target="_blank">鹤壁</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_3" href="https://www.jdcloud.com/cn/city/binzhou" target="_blank">滨州</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_4" href="https://www.jdcloud.com/cn/city/nantong" target="_blank">南通</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_5" href="https://www.jdcloud.com/cn/city/xiangtan" target="_blank">湘潭</a></li>
+                        <li><a clstag="Channel_City|keycount|Header|Link_5_0_6" href="https://www.jdcloud.com/cn/city/hebi" target="_blank">鹤壁</a></li>
                     </ul>
                 </div>
             </li>
             <li class="subMenu-link hasChild">
                 <a href="#" clstag="Channel_City|keycount|Header|Tab_3" class="drop-link">体验中心</a>
-                <div class="subMenu-drop-box" style="left: 458px; height: 0px;">
+                <div class="subMenu-drop-box">
                     <ul class="subMenu-level2">
                         <li><a clstag="Channel_City|keycount|Header|Link_3_0_0" href="https://city.jdcloud.com/exp/" target="_blank">领导驾驶舱</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_3_0_1" href="https://city.jdcloud.com/exp/industrychain/industriesTabs" target="_blank">产业链招商</a></li>
@@ -117,7 +117,7 @@
             </li>
             <li class="subMenu-link hasChild">
                 <a href="#" clstag="Channel_City|keycount|Header|Tab_4" class="drop-link">客户案例</a>
-                <div class="subMenu-drop-box" style="left: 534px; height: 0px;">
+                <div class="subMenu-drop-box">
                     <ul class="subMenu-level2">
                         <li><a clstag="Channel_City|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/case/detail/186" target="_blank">滨州经济技术开发区</a></li>
                         <li><a clstag="Channel_City|keycount|Header|Link_4_0_1" href="https://www.jdcloud.com/cn/case/detail/194" target="_blank">南京市麒麟园区</a></li>
@@ -134,14 +134,15 @@
 <!-- widget city-mode-banner1-bh begin -->
 <div class="banner-city">
     <div class="w banner-city-ct">
-        <img src="https://img1.jcloudcs.com/portal/channel/city/bh/banner-bh-m.png" class="banner-m">
+        <img src="https://img1.jcloudcs.com/portal/channel/city/bh/banner-bh-m.png" class="banner-m"/>
         <div class="fs-slide-ct">
             <div class="fs-slide-txt">
                 <b class="fs-slide-tit">云聚北海</b>
                 <p class="fs-slide-des">“向海经济”千亿产值数字经济产业集群</p>
 
             </div>
-            <a href="http://dd1-open.jd.com/chat/m/index?source=open_web&amp;aspid=18263598494.1.3.0.1664&amp;waiterApp=open.18992bf0a159e570ed70016a51.waiter&amp;entry=%20%20%20%20%20&amp;venderId=18263598494&amp;mallId=18263598494&amp;ws=ws1-dd.jd.com&amp;lang=zh_CN&amp;waiterAppId=open.18992bf0a159e570ed70016a51.waiter&amp;userApp=open.18992bf0a159e570ed70016a51.customer" class="jdc-btn jdc-btn-blue" target="_blank" clstag="Channel_bh|keycount|Banner|Btn_0">立即咨询</a>
+            <a class="jdc-btn jdc-btn-blue" href="http://dd1-open.jd.com/chat/m/index?source=open_web&amp;aspid=18263598494.1.3.0.1664&amp;waiterApp=open.18992bf0a159e570ed70016a51.waiter&amp;entry=%20%20%20%20%20&amp;venderId=18263598494&amp;mallId=18263598494&amp;ws=ws1-dd.jd.com&amp;lang=zh_CN&amp;waiterAppId=open.18992bf0a159e570ed70016a51.waiter&amp;userApp=open.18992bf0a159e570ed70016a51.customer"
+            target="_blank" clstag="Channel_bh|keycount|Banner|Btn_0">立即咨询</a>
         </div>
     </div>
 </div>
@@ -159,9 +160,9 @@
             <div class="col-4 col-xs-12">
                 <div class="item-st-img">
                     <a class="play-button" data-video="https://img1.jcloudcs.com/portal/channel/city/bh/bh.mov">
-                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png">
+                        <img class="player-pc" src="https://img1.jcloudcs.com/portal/channel/iot/pc/player.png"/>
                     </a>
-                    <img src="https://img1.jcloudcs.com/portal/channel/city/bh/img-fl2.png">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/bh/img-fl2.png"/>
                 </div>
             </div>
             <div class="col-8 col-xs-12">
@@ -173,8 +174,8 @@
         </div>
         <div class="overflow-scroll">
             <div class="time-scroll">
-                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/bg-time-scroll.png" class="pc-img-scroll">
-                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/bg-time-scroll-m3.png" class="m-img-scroll">
+                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/bg-time-scroll.png" class="pc-img-scroll" />
+                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/bg-time-scroll.png" class="m-img-scroll" />
                 <ul>
                     <li class="ps-no1">
                         <span>2018年12月13日</span>
@@ -218,7 +219,7 @@
 <div class="fl-section">
     <div class="tit-section">
         <h2 class="tit-h2">
-            数字政府
+            数据政府
         </h2>
         <p class="tit-desc">以云计算为支撑，以大数据为驱动，以场景化的智能应用</p>
 
@@ -227,7 +228,7 @@
         <div class="szzf-show">
             <div class="video-item">
                 <div class="video-list">
-                    <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-pc1.png">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-pc1.png"/>
                     <div class="content">
                         <b class="tit">北海市产业树大数据平台</b>
                         <div class="curr-cont">
@@ -248,7 +249,7 @@
                     </div>
                 </div>
                 <div class="video-list  curr">
-                    <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-pc2.png">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-pc2.png"/>
                     <div class="content">
                         <b class="tit">京东智联云（东盟）云计算大数据产业基地</b>
                         <div class="curr-cont">
@@ -270,7 +271,7 @@
                     </div>
                 </div>
                 <div class="video-list">
-                    <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-pc3.png">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-pc3.png"/>
                     <div class="content">
                         <b class="tit">北海城市产业服务平台</b>
                         <div class="curr-cont">
@@ -340,7 +341,7 @@
                     </div>
                 </div>
                 <div class="video-list">
-                    <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-pc4.png">
+                    <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-pc4.png"/>
                     <div class="content">
                         <b class="tit">京东智联云（东盟）云计算大数据中心</b>
                         <div class="curr-cont">
@@ -360,28 +361,28 @@
                             <ul class="data-list f-cb">
                                 <li>
                                     <div class="text1">
-                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government1.png">
+                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government1.png"/>
                                         <span class="txt-s">系统上云</span>
 
                                     </div>
                                 </li>
                                 <li>
                                     <div class="text1">
-                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government2.png">
+                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government2.png"/>
                                         <span class="txt-s">建设规模</span>
 
                                     </div>
                                 </li>
                                 <li>
                                     <div class="text1">
-                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government3.png">
+                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government3.png"/>
                                         <span class="txt-s">区域覆盖</span>
 
                                     </div>
                                 </li>
                                 <li>
                                     <div class="text1">
-                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png">
+                                        <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png"/>
                                         <span class="txt-s">精细化管理</span>
 
                                     </div>
@@ -397,176 +398,11 @@
     <div class="cont-section-szzf szzf-show-m">
         <div class="szzf-show">
             <div class="video-item">
-                <div class="jdc-swiper-container swiper-fl3 swiper-container-horizontal">
-                    <div class="swiper-wrapper" style="transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0">
+                <div class="jdc-swiper-container swiper-fl3">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
                             <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m1.png">
-                                <div class="content">
-                                    <b class="tit">北海市产业树大数据平台</b>
-                                    <div class="curr-cont">
-                                        <p class="p-tit">
-                                            平台化、数字化、可视化
-                                        </p>
-
-                                        <p class="p-desc">北海市产业树大数据平台，以平台驱动政府产业工作升级，围绕产业树、招商、服务、政策、统计五大板块，将产业发展的各环节有效的结合起来，实现政府工作的线上化、流程化 、数据化和可视化，提高政府工作效率及企业服务能力，是城市产业服务平台的样板点工程
-                                        </p>
-
-                                        <!-- f-db = display:block -->
-                                        <ul class="f-db f100">
-                                            <li>• 临港新材料产业、林纸木材加工产业、海洋产业、电子信息产业、食品加工产业、石化产业、高端...</li>
-                                            <li>• 打造“一棵产业树、一名市领导、一个牵头单位、一支招商队伍”的模式 </li>
-                                        </ul>
-
-                                        <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_m1" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1">
-                            <div class="video-list">
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m2.png">
-                                <div class="content">
-                                    <b class="tit">京东智联云（东盟）云计算大数据产业基地</b>
-                                    <div class="curr-cont">
-                                        <p class="p-tit">
-                                            智慧北海城市运营指挥中心（AIOC）
-                                        </p>
-
-                                        <p class="p-desc">京东智联云承建的北海城市智慧运行平台（AIOC）已部署上线正式运行，实现城市运行态势呈现、监测预警、联动指挥、分析决策的多元化服务；积极参与北海智慧城市建设，在交通、公共安全、应急、安监、环保等领域，助力北海打造 “数字政府”。位于宿迁的京东智联云华东数据中心，依托京东集团的技术能力和数据资源，以智能城市建设为主线，拓展大数据应用场景，不仅承载了京东自身的电商业务和物流业务，还辐射周边产业，成为全省乃至全国大数据应用示范城市。
-                                        </p>
-
-                                        <!-- f-db = display:block -->
-                                        <ul class="f-db f100">
-                                            <li>• 打造城市仪表盘，保障城市秩序运行</li>
-                                            <li>• 提高处置效率，提升决策能力</li>
-                                            <li>• 推动城市管理、公共服务、产业发展等方面全方位智能应用</li>
-                                        </ul>
-                                        <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_m2" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2">
-                            <div class="video-list">
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m3.png">
-                            <div class="content">
-                                <b class="tit">北海城市产业服务平台</b>
-                                <div class="curr-cont">
-                                    <p class="p-tit">
-                                        资源跨界融合、需求精准对接、数据驱动创新、多方合作共赢
-                                    </p>
-
-                                    <ul class="f-db mt15 f120">
-                                        <li>• 提升城市产业发展规模、效率、质量的公共服务平台</li>
-                                        <li>• 产业资源平台化、产业服务数字化、产业管理智能化</li>
-                                        <li>• 产业聚集能力、企业服务能力、产业管理能力，吸引更多优质企业聚集北海市</li>
-                                    </ul>
-                                    <ul class="data-list f-cb f120">
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">87</span>
-<span class="txt-s">家</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                平台认证用户
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">487</span>
-<span class="txt-s"></span>
-
-                                            </div>
-                                            <div class="text2">
-                                                企业服务SKU
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">436</span>
-<span class="txt-s">万</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                产业补贴资源发放
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">48</span>
-<span class="txt-s">篇</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                AI政策
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">53</span>
-<span class="txt-s">场</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                线上活动
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_m3" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                </div>
-                            </div>
-                        </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3">
-                            <div class="video-list">
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m4.png">
-                            <div class="content">
-                                <b class="tit">京东智联云（东盟）云计算大数据中心</b>
-                                <div class="curr-cont">
-                                    <p class="p-tit">
-                                        以整合共享为基础，系统和数据产品服务为核心，助力北海数字经济高质量发展
-                                    </p>
-
-                                    <p class="p-desc">
-                                        京东智联云联合北海市政府打造城市数字基础设施，向北海市开放数据资源载体，推进北海市政府政务、电商、旅游、医疗、教育等业务发展，构建起一张覆盖全国的智慧城市骨干网络，实现数据对接和数据服务。
-                                    </p>
-
-                                    <ul class="data-list f-cb f100">
-                                        <li class="spe-li mb15">
-                                            <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government1.png">
-                                                <span class="txt-s">系统上云</span>
-
-                                            </div>
-                                        </li>
-                                        <li class="spe-li mb15">
-                                            <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government2.png">
-                                                <span class="txt-s">建设规模</span>
-
-                                            </div>
-                                        </li>
-                                        <li class="spe-li">
-                                            <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government3.png">
-                                                <span class="txt-s">区域覆盖</span>
-
-                                            </div>
-                                        </li>
-                                        <li class="spe-li">
-                                            <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png">
-                                                <span class="txt-s">精细化管理</span>
-
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_m4" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                </div>
-                            </div>
-                        </div>
-                        </div>
-                        <div class="swiper-slide" data-swiper-slide-index="0">
-                            <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m1.png">
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m1.png"/>
                                 <div class="content">
                                     <b class="tit">北海市产业树大数据平台</b>
                                     <div class="curr-cont">
@@ -588,9 +424,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide" data-swiper-slide-index="1">
+                        <div class="swiper-slide">
                             <div class="video-list">
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m2.png">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m2.png"/>
                                 <div class="content">
                                     <b class="tit">京东智联云（东盟）云计算大数据产业基地</b>
                                     <div class="curr-cont">
@@ -612,9 +448,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide" data-swiper-slide-index="2">
+                        <div class="swiper-slide">
                             <div class="video-list">
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m3.png">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m3.png"/>
                             <div class="content">
                                 <b class="tit">北海城市产业服务平台</b>
                                 <div class="curr-cont">
@@ -684,9 +520,9 @@
                             </div>
                         </div>
                         </div>
-                        <div class="swiper-slide" data-swiper-slide-index="3">
+                        <div class="swiper-slide">
                             <div class="video-list">
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m4.png">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m4.png"/>
                             <div class="content">
                                 <b class="tit">京东智联云（东盟）云计算大数据中心</b>
                                 <div class="curr-cont">
@@ -701,28 +537,28 @@
                                     <ul class="data-list f-cb f100">
                                         <li class="spe-li mb15">
                                             <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government1.png">
+                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government1.png"/>
                                                 <span class="txt-s">系统上云</span>
 
                                             </div>
                                         </li>
                                         <li class="spe-li mb15">
                                             <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government2.png">
+                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government2.png"/>
                                                 <span class="txt-s">建设规模</span>
 
                                             </div>
                                         </li>
                                         <li class="spe-li">
                                             <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government3.png">
+                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government3.png"/>
                                                 <span class="txt-s">区域覆盖</span>
 
                                             </div>
                                         </li>
                                         <li class="spe-li">
                                             <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png">
+                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png"/>
                                                 <span class="txt-s">精细化管理</span>
 
                                             </div>
@@ -733,176 +569,10 @@
                             </div>
                         </div>
                         </div>
-                    <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0">
-                            <div class="video-list">
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m1.png">
-                                <div class="content">
-                                    <b class="tit">北海市产业树大数据平台</b>
-                                    <div class="curr-cont">
-                                        <p class="p-tit">
-                                            平台化、数字化、可视化
-                                        </p>
-
-                                        <p class="p-desc">北海市产业树大数据平台，以平台驱动政府产业工作升级，围绕产业树、招商、服务、政策、统计五大板块，将产业发展的各环节有效的结合起来，实现政府工作的线上化、流程化 、数据化和可视化，提高政府工作效率及企业服务能力，是城市产业服务平台的样板点工程
-                                        </p>
-
-                                        <!-- f-db = display:block -->
-                                        <ul class="f-db f100">
-                                            <li>• 临港新材料产业、林纸木材加工产业、海洋产业、电子信息产业、食品加工产业、石化产业、高端...</li>
-                                            <li>• 打造“一棵产业树、一名市领导、一个牵头单位、一支招商队伍”的模式 </li>
-                                        </ul>
-
-                                        <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_m1" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1">
-                            <div class="video-list">
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m2.png">
-                                <div class="content">
-                                    <b class="tit">京东智联云（东盟）云计算大数据产业基地</b>
-                                    <div class="curr-cont">
-                                        <p class="p-tit">
-                                            智慧北海城市运营指挥中心（AIOC）
-                                        </p>
-
-                                        <p class="p-desc">京东智联云承建的北海城市智慧运行平台（AIOC）已部署上线正式运行，实现城市运行态势呈现、监测预警、联动指挥、分析决策的多元化服务；积极参与北海智慧城市建设，在交通、公共安全、应急、安监、环保等领域，助力北海打造 “数字政府”。位于宿迁的京东智联云华东数据中心，依托京东集团的技术能力和数据资源，以智能城市建设为主线，拓展大数据应用场景，不仅承载了京东自身的电商业务和物流业务，还辐射周边产业，成为全省乃至全国大数据应用示范城市。
-                                        </p>
-
-                                        <!-- f-db = display:block -->
-                                        <ul class="f-db f100">
-                                            <li>• 打造城市仪表盘，保障城市秩序运行</li>
-                                            <li>• 提高处置效率，提升决策能力</li>
-                                            <li>• 推动城市管理、公共服务、产业发展等方面全方位智能应用</li>
-                                        </ul>
-                                        <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_m2" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2">
-                            <div class="video-list">
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m3.png">
-                            <div class="content">
-                                <b class="tit">北海城市产业服务平台</b>
-                                <div class="curr-cont">
-                                    <p class="p-tit">
-                                        资源跨界融合、需求精准对接、数据驱动创新、多方合作共赢
-                                    </p>
-
-                                    <ul class="f-db mt15 f120">
-                                        <li>• 提升城市产业发展规模、效率、质量的公共服务平台</li>
-                                        <li>• 产业资源平台化、产业服务数字化、产业管理智能化</li>
-                                        <li>• 产业聚集能力、企业服务能力、产业管理能力，吸引更多优质企业聚集北海市</li>
-                                    </ul>
-                                    <ul class="data-list f-cb f120">
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">87</span>
-<span class="txt-s">家</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                平台认证用户
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">487</span>
-<span class="txt-s"></span>
-
-                                            </div>
-                                            <div class="text2">
-                                                企业服务SKU
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">436</span>
-<span class="txt-s">万</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                产业补贴资源发放
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">48</span>
-<span class="txt-s">篇</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                AI政策
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="text1">
-                                                <span class="txt-b">53</span>
-<span class="txt-s">场</span>
-
-                                            </div>
-                                            <div class="text2">
-                                                线上活动
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_m3" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                </div>
-                            </div>
-                        </div>
-                        </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3">
-                            <div class="video-list">
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/fl3-m4.png">
-                            <div class="content">
-                                <b class="tit">京东智联云（东盟）云计算大数据中心</b>
-                                <div class="curr-cont">
-                                    <p class="p-tit">
-                                        以整合共享为基础，系统和数据产品服务为核心，助力北海数字经济高质量发展
-                                    </p>
-
-                                    <p class="p-desc">
-                                        京东智联云联合北海市政府打造城市数字基础设施，向北海市开放数据资源载体，推进北海市政府政务、电商、旅游、医疗、教育等业务发展，构建起一张覆盖全国的智慧城市骨干网络，实现数据对接和数据服务。
-                                    </p>
-
-                                    <ul class="data-list f-cb f100">
-                                        <li class="spe-li mb15">
-                                            <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government1.png">
-                                                <span class="txt-s">系统上云</span>
-
-                                            </div>
-                                        </li>
-                                        <li class="spe-li mb15">
-                                            <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government2.png">
-                                                <span class="txt-s">建设规模</span>
-
-                                            </div>
-                                        </li>
-                                        <li class="spe-li">
-                                            <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government3.png">
-                                                <span class="txt-s">区域覆盖</span>
-
-                                            </div>
-                                        </li>
-                                        <li class="spe-li">
-                                            <div class="text1">
-                                                <img class="txt-img" src="https://img1.jcloudcs.com/portal/channel/city/bh/government4.png">
-                                                <span class="txt-s">精细化管理</span>
-
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Science|Btn_m4" class="jdc-btn jdc-btn-blue">立即咨询</a>
-                                </div>
-                            </div>
-                        </div>
-                        </div></div>
+                    </div>
                     <!-- 如果需要分页器 -->
-                    <div class="jdc-swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-</div>
+                    <div class="jdc-swiper-pagination"></div>
+                </div>
             </div>
         </div>
     </div>
@@ -923,7 +593,7 @@
             <div class="col-6 col-xs-12">
                 <div class="content">
                    <div class="top">
-                       <img src="https://img1.jcloudcs.com/portal/city-beihai/ecnomy-pc1.png">
+                       <img src="https://img1.jcloudcs.com/portal/city-beihai/ecnomy-pc1.png"/>
                        <div class="bt-block">
                             <h2 class="bt">
                                 北部湾数字经济示范中心
@@ -947,7 +617,7 @@
             <div class="col-6 col-xs-12">
                 <div class="content">
                     <div class="top">
-                        <img src="https://img1.jcloudcs.com/portal/city-beihai/ecnomy-pc1.png">
+                        <img src="https://img1.jcloudcs.com/portal/city-beihai/ecnomy-pc1.png"/>
                         <div class="bt-block">
                              <h2 class="bt">
                                 北海产业创新中心
@@ -1008,7 +678,7 @@
                     </ul>
                     <a href="https://mall.jd.com/index-10039656.html" target="_blank" clstag="Channel_bh|keycount|Life|Btn_1" class="digital-btn mt26">查看详情</a>
                 </div>
-                <img class="right-pic" src="https://img1.jcloudcs.com/portal/city-beihai/digital-pc1.png">
+                <img class="right-pic" src="https://img1.jcloudcs.com/portal/city-beihai/digital-pc1.png"/>
             </li>
             <li class="digital-contentli">
                 <div class="left-block">
@@ -1026,7 +696,7 @@
                     </ul>
                     <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="Channel_bh|keycount|Life|Btn_2" class="digital-btn mt8">立即咨询</a>
                 </div>
-                <img class="right-pic" src="https://img1.jcloudcs.com/portal/city-beihai/digital-pc2.png">
+                <img class="right-pic" src="https://img1.jcloudcs.com/portal/city-beihai/digital-pc2.png"/>
             </li>
         </ul>
     </div>
@@ -1045,19 +715,19 @@
         <div class="row">
             <div class="col-2">
                 <ul class="left-bar">
-                    <li class="item">数字经济产业园考察</li>
+                    <li class="item on">数字经济产业园考察</li>
                     <li class="item">项目座谈交流</li>
-                    <li class="item on">区域品牌人文体验</li>
+                    <li class="item">区域品牌人文体验</li>
                 </ul>
             </div>
             <div class="col-10">
                 <ul class="right-block">
-                   <li class="module">
+                   <li class="module show">
                        <h3>数字经济产业园考察</h3>
                        <div class="w" style="height:250px;position: relative;overflow: hidden;">
-                        <div class="study-tour tour-swiper jdc-swiper-container swiper-container-horizontal">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
                           <div class="swiper-wrapper">
-                              <div class="swiper-slide swiper-slide-active" style="width: 312.333px;">
+                              <div class="swiper-slide">
                                   <div class="scene-item">
                                       <div class="mask"></div>
                                       <h4>京东智联云北海数字经济展示中心</h4>
@@ -1065,7 +735,7 @@
 
                                   </div>
                               </div>
-                              <div class="swiper-slide swiper-slide-next" style="width: 312.333px;">
+                              <div class="swiper-slide">
                                   <div class="scene-item img1-2">
                                     <div class="mask"></div>
                                     <h4>京东智联云（北海）直播基地</h4>
@@ -1073,7 +743,7 @@
 
                                   </div>
                               </div>
-                              <div class="swiper-slide" style="width: 312.333px;">
+                              <div class="swiper-slide">
                                   <div class="scene-item img1-3">
                                     <div class="mask"></div>
                                     <h4>中国特产·北海馆</h4>
@@ -1082,11 +752,10 @@
                                   </div>
                               </div>                              
                           </div>
-                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-</div>
+                        </div>
                        </div>
                        <div class="link-bottom">
-                           <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_1"> 
+                           <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_1" > 
                              定制我的行程
                            </a>
                            <p class="desc">更多信息垂询visit@jd.com</p>
@@ -1096,8 +765,8 @@
                    <li class="module">
                        <h3>项目座谈交流</h3>
                        <div class="w" style="height:250px;position: relative;overflow: hidden;">
-                        <div class="study-tour tour-swiper jdc-swiper-container swiper-container-horizontal">
-                          <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
                               <div class="swiper-slide">
                                   <div class="scene-item img2-1">
                                       <div class="mask"></div>
@@ -1123,26 +792,25 @@
                                   </div>
                               </div>                            
                           </div>
-                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-</div>
+                        </div>
                        </div>
                        <div class="link-bottom">
-                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_2"> 
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_2" > 
                             定制我的行程
                             </a>
                             <p class="desc">更多信息垂询visit@jd.com</p>
 
                         </div>
                         <!-- 如果需要导航按钮 -->
-                        <div class="jdc-swiper-button-prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"><i></i></div>
-                        <div class="jdc-swiper-button-next swiper-button-disabled" tabindex="0" role="button" aria-label="Next slide" aria-disabled="true"><i></i></div>
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
                    </li>
-                   <li class="module show">
+                   <li class="module">
                        <h3>区域品牌人文体验</h3>
                        <div class="w" style="height:250px;position: relative;overflow: hidden;">
-                        <div class="study-tour tour-swiper jdc-swiper-container swiper-container-horizontal">
-                          <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px);">
-                              <div class="swiper-slide swiper-slide-active" style="width: 312.333px;">
+                        <div class="study-tour tour-swiper jdc-swiper-container">
+                          <div class="swiper-wrapper">
+                              <div class="swiper-slide">
                                   <div class="scene-item img3-1">
                                       <div class="mask"></div>
                                       <h4>银滩</h4>
@@ -1150,7 +818,7 @@
 
                                   </div>
                               </div>
-                              <div class="swiper-slide swiper-slide-next" style="width: 312.333px;">
+                              <div class="swiper-slide">
                                   <div class="scene-item img3-2">
                                     <div class="mask"></div>
                                     <h4>涠洲岛</h4>
@@ -1158,7 +826,7 @@
 
                                   </div>
                               </div>
-                              <div class="swiper-slide" style="width: 312.333px;">
+                              <div class="swiper-slide">
                                   <div class="scene-item img3-3">
                                     <div class="mask"></div>
                                     <h4>北海老街</h4>
@@ -1167,19 +835,18 @@
                                   </div>
                               </div>                            
                           </div>
-                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-</div>
+                        </div>
                        </div>
                        <div class="link-bottom">
-                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_3"> 
+                            <a class="link-btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_3" > 
                             定制我的行程
                             </a>
                             <p class="desc">更多信息垂询visit@jd.com</p>
 
                         </div>
                         <!-- 如果需要导航按钮 -->
-                        <div class="jdc-swiper-button-prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"><i></i></div>
-                        <div class="jdc-swiper-button-next swiper-button-disabled" tabindex="0" role="button" aria-label="Next slide" aria-disabled="true"><i></i></div>
+                        <div class="jdc-swiper-button-prev"><i></i></div>
+                        <div class="jdc-swiper-button-next"><i></i></div>
                    </li>
                 </ul>
             </div>
@@ -1195,7 +862,7 @@
                      <div class="tab-item-txt">
                          <ul>
                              <li>
-                                 <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m1.png">
+                                 <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m1.png"/>
                                  <div class="right-text">
                                      <h2 class="bt">京东智联云北海数字经济展示中心</h2>
                                      <p class="desc">京东智联云（北海）数字经济展示中心已全面建成并投入运营，是北海特色产业发展新模式的展示窗口</p>
@@ -1203,7 +870,7 @@
                                  </div>
                              </li>
                              <li>
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m2.png">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m2.png"/>
                                 <div class="right-text">
                                     <h2 class="bt">京东智联云（北海）直播基地</h2>
                                     <p class="desc">打造“直播+电商”模式， 提供直播带货、直播选品、提案咨询、企业品牌定位分析、企业上行直播平台优化指导、直播岗位培训服务、直播店铺分</p>
@@ -1211,7 +878,7 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m3.png">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m3.png"/>
                                 <div class="right-text">
                                     <h2 class="bt">中国特产·北海馆</h2>
                                     <p class="desc">促进北海数字经济与实体经济的结合，开创互联网+电商产业发展的新模式</p>
@@ -1230,7 +897,7 @@
                      <div class="tab-item-txt">
                         <ul>
                             <li>
-                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m4.png">
+                                <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m4.png"/>
                                 <div class="right-text">
                                     <h2 class="bt">合作模式</h2>
                                     <p class="desc">京东智联云联合政府、企业、院校多方发展数字经济，合作模式、发展目标、实现路径等</p>
@@ -1238,7 +905,7 @@
                                 </div>
                             </li>
                             <li>
-                               <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m5.png">
+                               <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m5.png"/>
                                <div class="right-text">
                                    <h2 class="bt">上云发展</h2>
                                    <p class="desc">企业借力政府、京东智联云发展数字经济相关模式、技术、人才等</p>
@@ -1246,7 +913,7 @@
                                </div>
                            </li>
                            <li>
-                               <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m6.png">
+                               <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m6.png"/>
                                <div class="right-text">
                                    <h2 class="bt">人才培养</h2>
                                    <p class="desc">院校新经济学科建设与人才培育、政校企合作与专业人才联合培养等</p>
@@ -1265,7 +932,7 @@
                   <div class="tab-item-txt">
                      <ul>
                          <li>
-                             <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m7.png">
+                             <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m7.png"/>
                              <div class="right-text">
                                  <h2 class="bt">银滩</h2>
                                  <p class="desc">北海银滩是北海市的著名的旅游景点，被称为“天下第一滩”。</p>
@@ -1273,7 +940,7 @@
                              </div>
                          </li>
                          <li>
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m8.png">
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m8.png"/>
                             <div class="right-text">
                                 <h2 class="bt">涠洲岛</h2>
                                 <p class="desc">火山喷发堆凝而成的岛屿，有“蓬莱岛”之称，是中国地质年龄最年轻的火山岛，也是广西最大的海岛。</p>
@@ -1281,7 +948,7 @@
                             </div>
                         </li>
                         <li>
-                            <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m9.png">
+                            <img src="https://img1.jcloudcs.com/portal/channel/city/bh/tour-m9.png"/>
                             <div class="right-text">
                                 <h2 class="bt">北海老街</h2>
                                 <p class="desc">北海老街是一条有近二百年历史的老街，始建于1821年，是东西方文化碰撞的结晶。</p>
@@ -1294,7 +961,7 @@
            </div>
        </div>
        <div class="btn-block">
-           <a class="btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&amp;surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_m1">定制我的行程</a>
+           <a class="btn" href="http://answer.jd.com/jump/?shortCode=kuaErJadhdYb&surveyId=1688304" target="_blank" clstag="Channel_bh|keycount|Tour|Btn_m1">定制我的行程</a>
        </div>
        <p class="visit-desc">更多信息垂询visit@jd.com</p>
 
@@ -1314,7 +981,8 @@
         <div class="row">
             <div class="col-6 col-xs-12 mb20">
                 <div class="content">
-                    <a href="http://www.beihai.gov.cn/xwdt/bhyw/201911/t20191127_2101753.html" target="_blank" clstag="Channel_xan|keycount|news|link_1">
+                    <a  href="http://www.beihai.gov.cn/xwdt/bhyw/201911/t20191127_2101753.html"
+                    target="_blank" clstag="Channel_xan|keycount|news|link_1" >
                         <h2 class="bt">
                             京东（北海）数字经济产业园正式开园 王乃学宣布开园并揭牌
                         </h2>
@@ -1327,7 +995,8 @@
             </div>
             <div class="col-6 col-xs-12 mb20">
                 <div class="content">
-                    <a href="http://business.china.com.cn/2019-09/26/content_40907697.html" target="_blank" clstag="Channel_xan|keycount|news|link_2">
+                    <a  href="http://business.china.com.cn/2019-09/26/content_40907697.html"
+                    target="_blank" clstag="Channel_xan|keycount|news|link_2" >
                         <h2 class="bt">
                             广西省领导赴京东智联云北海分公司考察“互联网+“新经济发展工作
                         </h2>
@@ -1340,7 +1009,8 @@
             </div>
             <div class="col-6 col-xs-12">
                 <div class="content">
-                    <a href="https://www.jdcloud.com/cn/news/detail/622" target="_blank" clstag="Channel_xan|keycount|news|link_3">
+                    <a  href="https://www.jdcloud.com/cn/news/detail/622"
+                    target="_blank" clstag="Channel_xan|keycount|news|link_3" >
                         <h2 class="bt">
                             云聚北海·共赢未来，北海携手京东智联云打造“互联网+电商产业”发展新模式
                         </h2>
@@ -1353,7 +1023,8 @@
             </div>
             <div class="col-6 col-xs-12">
                 <div class="content">
-                    <a href="http://www.gx.xinhuanet.com/newscenter/2019-12/28/c_1125398136.htm" target="_blank" clstag="Channel_xan|keycount|news|link_4">
+                    <a  href="http://www.gx.xinhuanet.com/newscenter/2019-12/28/c_1125398136.htm"
+                    target="_blank" clstag="Channel_xan|keycount|news|link_4" >
                         <h2 class="bt">
                             北海：创新服务精准招商 “产业树”引领高质量发展
                         </h2>
@@ -1381,14 +1052,14 @@
         <div class="row">
             <div class="col-6 col-xs-12">
                 <div class="content">
-                    <img class="img1" src="https://img1.jcloudcs.com/portal/city-beihai/honour-pc1.png">
+                    <img class="img1" src="https://img1.jcloudcs.com/portal/city-beihai/honour-pc1.png"/>
                     <p class="desc2">2019年11月，大数据产业园区项目建设获评第一批数字广西建设标杆引领重点支撑平台</p>
 
                 </div>
             </div>
             <div class="col-6 col-xs-12">
                 <div class="content content-noborder">
-                    <img class="img1" src="https://img1.jcloudcs.com/portal/city-beihai/honour-pc3.jpg">
+                    <img class="img1" src="https://img1.jcloudcs.com/portal/city-beihai/honour-pc3.jpg"/>
                     <p class="desc2">疫情期间，北海市工业和信息化局给予京东云与AI的感谢信</p>
 
                 </div>
@@ -1418,7 +1089,7 @@
             </div>
             <div class="col-3 col-xs-12">
                 <dl class="CH-footer-info-list">
-                    <dt><a clstag="idc|keycount|footer|online" href="https://dd1-open.jd.com/chat/m/index?source=open_web&amp;aspid=18263598494.1.3.0.1664&amp;waiterApp=open.18992bf0a159e570ed70016a51.waiter&amp;entry=%20%20%20%20%20&amp;venderId=18263598494&amp;mallId=18263598494&amp;ws=ws1-dd.jd.com&amp;lang=zh_CN&amp;waiterAppId=open.18992bf0a159e570ed70016a51.waiter&amp;userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dt><a clstag="idc|keycount|footer|online" href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务&nbsp;<i class="iconfont jc-icon-my-right"></i></a></dt>
                     <dd>周一至周五 9:00-18:00</dd>
                 </dl>
             </div>
@@ -1439,10 +1110,10 @@
 <div class="pop-video-wrap">
     <div class="mask"></div>
     <div class="pop-video-video">
-        <video id="my-player" class="my-video" controls="" preload="auto">
+        <video id="my-player" class="my-video" controls preload="auto" >
             <source src="" type="video/mp4" id="my-player-source">
         </video>
-        <div class="video-close">×</div>
+        <div class="video-close">&times;</div>
     </div>
 </div>
 <!-- widget pop-video-wrap end -->
