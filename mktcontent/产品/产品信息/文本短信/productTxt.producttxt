@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"云通信专场, 低至0.036元/条 再送61.8元\",\"explainLink\":\"https://www.jdcloud.com/cn/activity/message\",\"classTag\":\"\"}],\"productName\":\"文本短信\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://sms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"文本短信(Text Message)是京东云为用户提供的一种短信服务能力,支持国内快速发送短信验证码和短信通知, 到达率高达99%, 完美支持618及双11期间短信需求.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"文本短信\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://sms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"文本短信(Text Message)是京东云为用户提供的一种短信服务能力,支持国内快速发送短信验证码和短信通知, 到达率高达99%, 完美支持618及双11期间短信需求.\"}",
 		"id":767
 	},
 	{
