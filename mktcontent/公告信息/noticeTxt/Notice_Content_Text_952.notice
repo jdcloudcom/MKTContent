@@ -1,0 +1,25 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测到Apache官方发布季度安全公告，其中包含修复一个缓冲区溢出漏洞导致的远程代码执行(CVE-2020-11984)。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+<span style="font-family: 宋体;">mod_proxy_uwsgi</span>
+<span style="font-family: 宋体;">是Apache的一个服务模块，主要提供对uwsgi协议的支持。mod_proxy_uwsgi服务模块出现的漏洞,可能导致远程连接命令/代码执行漏洞。</span>
+</p>
+<p><span style="font-family: 宋体;">【漏洞评级】</span>
+<span style="font-family: 宋体;">高危</span>
+</p>
+<p><span style="font-family: 宋体;">【受影响版本】</span>
+<span style="font-family: 宋体;">Apache HTTP Server</span>
+<span style="font-family: 宋体;">版本2.4.32至2.4.43</span>
+</p>
+<p><span style="font-family: 宋体;">【修复建议】</span>
+<span style="font-family: 宋体;">1.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+<span style="font-family: 宋体;">升级到2.4.44版本</span>
+</p>
+<p><span style="font-family: 宋体;">【相关链接】</span>
+<a href="https://httpd.apache.org/security/vulnerabilities_24.html">https://httpd.apache.org/security/vulnerabilities_24.html</a></p>
+<p><br/></p>
