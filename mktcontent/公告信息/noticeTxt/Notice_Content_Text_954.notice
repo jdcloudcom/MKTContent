@@ -1,0 +1,62 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测到Jackson中的jackson-databind 发布了新版本 2.9.10.6，修复之前版本中存在的反序列化远程代码执行漏洞（CVE-2020-24616），对应的issue漏洞,#2826,#2827,#2798。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; FasterXML Jackson</span>
+<span style="font-size:16px;font-family:宋体">是美国FasterXML公司的一款适用于Java的数据处理工具。jackson-databind是其中的一个具有数据绑定功能的组件。Jackson是SpringBoot中首选和默认的转换工具。该漏洞源于Jackson 上使用</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">br.com.anteros:Anteros-DBCP </span>
+<span style="font-size:16px;font-family:宋体">组件库进行了不安全的反序列化。远程攻击者可通过精心构造的恶意载荷利用该漏洞在系统上执行任意代码.</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+<span style="font-family: 宋体;">中危</span>
+</p>
+<p><span style="font-family: 宋体;">【受影响版本】</span>
+<span style="font-family: 宋体;">jackson-databind &lt; 2.9.10.6</span>
+<span style="font-family: 宋体;">。</span>
+</p>
+<p><span style="font-family: 宋体;">【安全版本】</span>
+<span style="font-family: 宋体;">Jackson-databind 2.9.10.6</span>
+<span style="font-family: 宋体;">或更好版本</span>
+</p>
+<p><span style="font-family: 宋体;">【修复建议】</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-size:16px;font-family:宋体">1.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">升级到版本2.9.10.6以上。</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-size:16px;font-family:宋体">2.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">在Jackson 2.10 中引入了Safe Default Typing白名单机制，可杜绝此类gadget的影响</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-size:16px;font-family:宋体">3.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">如暂时无法升级，作为缓解措施，建议不要将有反序列化接口暴露在外网或开启访问控制，限制来源IP.</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://github.com/FasterXML/jackson-databind/releases/tag/jackson-databind-2.9.10.6"><span style="color:windowtext;text-underline:none">https://github.com/FasterXML/jackson-databind/releases/tag/jackson-databind-2.9.10.6</span>
+</a></span>
+</p>
+<p><a href="https://nvd.nist.gov/vuln/detail/CVE-2020-24616" style="font-family: 宋体;"><span style="color:windowtext;text-underline:none">https://nvd.nist.gov/vuln/detail/CVE-2020-24616</span>
+</a></p>
+<p><a href="https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062" style="font-family: 宋体;"><span style="color:windowtext;text-underline:none">https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062</span>
+</a></p>
+<p><a href="https://github.com/FasterXML/jackson-databind/issues/2827" style="font-family: 宋体;"><span style="color:windowtext;text-underline:none">https://github.com/FasterXML/jackson-databind/issues/282</span>
+</a><span style="font-family: 宋体;">6</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://github.com/FasterXML/jackson-databind/issues/2827"><span style="color:windowtext;text-underline:none">https://github.com/FasterXML/jackson-databind/issues/2827</span>
+</a></span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://github.com/FasterXML/jackson-databind/issues/27"><span style="color:windowtext;text-underline:none">https://github.com/FasterXML/jackson-databind/issues/27</span>
+</a>98</span>
+</p>
+<p><br/></p>
