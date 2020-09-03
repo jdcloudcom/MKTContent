@@ -1,0 +1,41 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体"> </span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">Recently, JD Cloud Security Team detected that Apache Shiro has disclosed a permission execution vulnerability in the earlier versions of Shiro 1.6 (CVE-2020-13933). By virtue of such vulnerability, attackers may send certain HTTP requests bypassing the permission control.</span>
+</p>
+<p style="text-indent:28px"><span style="font-family: 宋体;">[Vulnerability Description]</span>
+</p>
+<p style="line-height:28px;background:white">&nbsp;&nbsp;&nbsp; Apache Shiro is Java security framework that is powerful and easy to use, which executes identity verification, authorization, password and dialogue management.</p>
+<p style="line-height:28px;background:white">Since there are defects in the patches for the Apache Shiro identity verification bypass vulnerability CVE-2020-11989 and there are differences between url processing and spring processing by shiro in 1.5.3 and earlier versions, remotes attackers may send a tailored HTTP request to bypass the identity verification process and get unauthorized access to their applications. <span style="font-family: Song typeface; ">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Rating]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Moderate Risk</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Affected Version]</span>
+</p>
+<p><span style=";font-family:&#39;Segoe UI Emoji&#39;,sans-serif;color:#333333;background:white">Apache Shiro &lt; 1.6.0</span>
+<span style="font-size:16px;font-family:宋体">.</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Secure Version]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Apache Shiro 1.6.0</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Fix Recommendation]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">Upgrade Apache Shiro to 1.6.0.</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Related Links]</span>
+</p>
+<p><a href="https://lists.apache.org/thread.html/r539f87706094e79c5da0826030384373f0041068936912876856835f%40%3Cdev.shiro.apache.org%3E"><span style="font-size:16px;font-family:宋体;color:windowtext;text-underline: none">https://lists.apache.org/thread.html/r539f87706094e79c5da0826030384373f0041068936912876856835f%40%3Cdev.shiro.apache.org%3E</span>
+</a></p>
+<p><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13933"><span style="font-size:16px;font-family:宋体;color:windowtext;text-underline: none">https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13933</span>
+</a></p>
+<p><br/></p>

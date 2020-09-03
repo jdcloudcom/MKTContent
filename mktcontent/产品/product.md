@@ -660,10 +660,6 @@
 		"id":1370
 	},
 	{
-		"name":"Intelligent Edge Security",
-		"id":1372
-	},
-	{
 		"name":"Security Crowdsourced Testing Service",
 		"id":1373
 	},

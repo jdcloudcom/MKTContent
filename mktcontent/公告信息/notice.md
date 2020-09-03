@@ -906,5 +906,17 @@
 	{
 		"id":946,
 		"title":"Notification of Upgrading Public Cloud and Hybrid Cloud Products on August 13 (Thursday) at 21:00-23:59"
+	},
+	{
+		"id":947,
+		"title":"\\Notification of Upgrading Elastic Compute, Network, Storage and Other Services in [cn-north-1\\] and \\[cn-east-1\\]"
+	},
+	{
+		"id":948,
+		"title":"\\[Vulnerability Warning\\] Security Announcement for Apache Shiro Permission Bypass Vulnerability (CVE-2020-13933)"
+	},
+	{
+		"id":949,
+		"title":"Notification of Upgrading Redis Underlayer in South China"
 	}
 ]

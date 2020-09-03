@@ -2030,5 +2030,13 @@
 		"jss_key":"News_Content_830",
 		"id":830,
 		"news_title":"Guessing What You Think, JD Cloud & AI's Sentiment Customer Service Facilitates Your Shopping Experience"
+	},
+	{
+		"summary":"How modern intelligent technologies can be used to improve the circulation market's whole-process control of people, vehicles and cargoes and improve its response level to emergency risks? At the critical moment after the business suspension, Beijing Xinfadi Wholesale Market works together with JD Cloud & AI to address this challenge.",
+		"image_url":"//img1.jcloudcs.com/cms/ca793f71-1e5f-4eec-8378-227cedd3377220200821165150.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_843",
+		"jss_key":"News_Content_843",
+		"id":843,
+		"news_title":"15 days! Rebirth and \"Intelligent Change\" of Beijing Xinfadi Market"
 	}
 ]
