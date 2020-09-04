@@ -2206,5 +2206,13 @@
 		"jss_key":"News_Content_843",
 		"id":843,
 		"news_title":"15天！新发地的涅槃“智变”"
+	},
+	{
+		"summary":"历经7年千锤百炼的技术打磨及618、11.11等高压实战场景考验，京东智联云智能客服已为企业数字化转型开启“加速度”。作为京东集团技术与服务的核心输出通道，京东智联云将基于全场景、全流程的产品矩阵，持续为各个行业输出全栈AI能力，帮助客服实现从成本中心到价值中心的转变，推动智能服务不断升级。",
+		"image_url":"//img1.jcloudcs.com/cms/448e552a-999b-4adf-8d26-8ef123878aaf20200904093431.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_844",
+		"jss_key":"News_Content_844",
+		"id":844,
+		"news_title":"七年磨一剑：从智能客服到智能服务"
 	}
 ]
