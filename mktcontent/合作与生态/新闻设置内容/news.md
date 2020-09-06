@@ -2214,5 +2214,13 @@
 		"jss_key":"News_Content_844",
 		"id":844,
 		"news_title":"七年磨一剑：从智能客服到智能服务"
+	},
+	{
+		"summary":"从0到1，从时间到空间，从展览到论坛，京东智联云打造的会展云，秉持“科技办会”、“云端办会”的核心理念，深入会展各个环节，对“展、论、洽”三大关键场景实现数字化、智能化重构，助力会展数智化到会展基础设施数智化的全面升级。",
+		"image_url":"//img1.jcloudcs.com/cms/4ec13e2e-20be-494b-986e-68107c27f4d020200906172007.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_845",
+		"jss_key":"News_Content_845",
+		"id":845,
+		"news_title":"从永不落幕的服贸会，看京东“会展云”的领跑力"
 	}
 ]
