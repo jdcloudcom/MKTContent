@@ -1482,5 +1482,12 @@
 		"id":1286,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"京东智联云企业论坛",
+		"id":1288,
+		"button_title":"",
+		"main_title":""
 	}
 ]
