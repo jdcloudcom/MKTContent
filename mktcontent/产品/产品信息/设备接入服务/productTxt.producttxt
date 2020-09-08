@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"设备接入服务\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://deviceaccess-console.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"    设备接入服务是京东云的物联网平台的全新升级，整合了原设备接入服务和设备管理服务的功能。按设备接入量，包月/包月付费。\"}",
+		"id":2128
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"多样化接入\",\"proName\":\"接入方式多种选择，\\n接入协议多（MQTT、CoAP、HTTPS、\\nModbus、私有协议等），\\n满足各类设备和接入场景要求\"},{\"showShade\":false,\"proGood\":\"快速接入\",\"proName\":\"提供系列化、多语言的开源IoT Device SDK，\\n与主流模组集成，简化设备接入难度。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"性能稳定\",\"proName\":\"服务资源可弹性扩展，\\n支持亿级设备接入，\\n百万级消息并发能力，\\n服务可用性99.9%\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全可靠\",\"proName\":\"一机一密、双向证书认证等多种认证方式，\\n多种传输加密协议保障通道安全.\"}]",
+		"id":2129
+	},
+	{
+		"txt":"[{\"funcName\":\"轻松使用\",\"funcContent\":[{\"funcTitle\":\"快速创建\",\"funcP\":\"通过设备接入，可以添加设备名称，设备场景，设备型号等属性信息，快速完成单个或批量的设备注册\\n\"}]},{\"funcName\":\"可靠管理\",\"funcContent\":[{\"funcTitle\":\"实时获取设备状态\",\"funcP\":\"设备连接后，可以实时获取设备状态信息。\"},{\"funcTitle\":\"物类型创建与管理\",\"funcP\":\"自定义物类型或者通过预置模板创建物类型。\"},{\"funcTitle\":\"设备数据采集\",\"funcP\":\"通过物模型上报设备数据到云端，随时查询设备数据。\"}]},{\"funcName\":\"标准化的物模型\",\"funcContent\":[{\"funcTitle\":\"物模型\",\"funcP\":\"设备在云端的功能描述，通过统一的物模型定义，标准化数据，支持包括设备的属性，事件，服务的定义，简化设备与云端的应用开发。\"},{\"funcTitle\":\"物模型 – 设备消息数据\",\"funcP\":\"设备上行的报文流式数据，是一个描述客观事实的观测值，不可被云端服务或者其他应用修改。\"},{\"funcTitle\":\"物模型 – 设备状态属性\",\"funcP\":\"设备状态数据，例如设备的运行状态，设备版本号，设备报文数据的发送频率等，相对于报文数据，更新频率较低。状态属性可以被云端服务或者其他应用修改。\"}]},{\"funcName\":\"便捷数据处理与操作\",\"funcContent\":[{\"funcTitle\":\"规则引擎\",\"funcP\":\"对deviceAccess接收的设备数据进行预处理，可以按照定义的业务规则，设置条件，对物联网中心接收的设备数据快速的进行预处理，并能够将处理后的数据转发转储到京东云其他服务，例如JCQ，HTTP等。\"}]}]",
+		"id":2131
+	},
+	{
+		"txt":"[{\"name\":\"产品概述\",\"link\":\"https://docs.jdcloud.com/device-access/product-overview\",\"classTag\":\"\"},{\"name\":\"设备接入\",\"link\":\"https://docs.jdcloud.com/device-access/device-access\",\"classTag\":\"\"},{\"name\":\"Device SDK 开发指南\",\"link\":\"https://docs.jdcloud.com/device-access/device-sdk-introduction\",\"classTag\":\"\"}]",
+		"id":2134
+	}
+]
