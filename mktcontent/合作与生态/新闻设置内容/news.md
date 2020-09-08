@@ -2222,5 +2222,13 @@
 		"jss_key":"News_Content_845",
 		"id":845,
 		"news_title":"从永不落幕的服贸会，看京东“会展云”的领跑力"
+	},
+	{
+		"summary":"会议期间，京东智联云副总裁、数据智能产品部负责人通过“释放京东技术红利，赋能产业生态发展”主题演讲，分享了京东智联云在数字经济领域的战略和思考，并重点介绍了云端SaaS的全链路数智化解决方案。",
+		"image_url":"//img1.jcloudcs.com/cms/5e21fd55-c1a7-486e-8737-2218a6f788e420200908110009.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_846",
+		"jss_key":"News_Content_846",
+		"id":846,
+		"news_title":"服贸会技术解密 京东推出云端SaaS数智化解决方案"
 	}
 ]
