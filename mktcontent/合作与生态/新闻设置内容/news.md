@@ -2230,5 +2230,13 @@
 		"jss_key":"News_Content_846",
 		"id":846,
 		"news_title":"服贸会技术解密 京东推出云端SaaS数智化解决方案"
+	},
+	{
+		"summary":"9月7日，在服贸会-京东智联云企业论坛上，京东智联云副总裁、IoT产品部负责人发表“物联网：全方位使能数智化转型”主题演讲，深度解读在产业数智化转型过程中，物联网作为数智化转型的必备技术之一，如何助力产业全方位使能数智化转型。",
+		"image_url":"//img1.jcloudcs.com/cms/db9b2e52-5cfc-4ce5-881a-2e725e1d770c20200909093208.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_847",
+		"jss_key":"News_Content_847",
+		"id":847,
+		"news_title":"直击2020服贸会 看京东物联网如何使能数智化转型"
 	}
 ]
