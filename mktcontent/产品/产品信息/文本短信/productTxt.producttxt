@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"RMB 0.036/entry special offer for cloud communication, with an extra gift of RMB 61.8\",\"explainLink\":\"https://www.jdcloud.com/cn/activity/message\",\"classTag\":\"\"}],\"productName\":\"Text Message\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://sms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"Text Message is a short message service provided for users by JD Cloud, supporting rapid SMS verification code and SMS notification in China with the arrival rate up to 99% and perfectly supporting SMS demands required by the 618 Shopping Festival and the 11.11 Shopping Festival.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Text Message\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://sms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"Text Message is a short message service provided for users by JD Cloud, supporting rapid SMS verification code and SMS notification in China with the arrival rate up to 99% and perfectly supporting SMS demands required by the 618 Shopping Festival and the 11.11 Shopping Festival.\"}",
 		"id":767
 	},
 	{

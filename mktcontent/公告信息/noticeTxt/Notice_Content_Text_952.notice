@@ -1,0 +1,25 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体"></span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">Recently, JD Cloud's security team monitored that a quarterly security announcement was launched by Apache officially, which comprises a fix of remote code execution (CVE-2020-11984) due to one buffer overflow vulnerability.</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Description]</span>
+
+<span style="font-family: 宋体;">>mod_proxy_uwsgi is one service module of Apache, mainly used for providing support to the uwsgi protocol. The vulnerability of the mod_proxy_uwsgi service module might cause the execution vulnerability of the remote connection command/code.</span>
+</p>
+<p><span style="font-family: 宋体;">[Vulnerability Rating]</span>
+<span style="font-family: 宋体;">High Risk</span>
+</p>
+<p><span style="font-family: 宋体;">[Affected Version]</span>
+
+<span style="font-family: 宋体;">Apache HTTP Server Version 2.4.32 to 2.4.43</span>
+</p>
+<p><span style="font-family: 宋体;">[Fix Recommendation]</span>
+<span style="font-family: 宋体;">1.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+<span style="font-family: 宋体;">Upgraded to Version 2.4.44</span>
+</p>
+<p><span style="font-family: 宋体;">[Related Links]</span>
+<a href="https://httpd.apache.org/security/vulnerabilities_24.html">https://httpd.apache.org/security/vulnerabilities_24.html</a></p>
+<p><br/></p>

@@ -1,0 +1,61 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体"></span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">Recently, JD Cloud's security team monitored that the new version 2.9.10.6 was launched for jackson-databind of Jackson. The version used before fix has deserialization remote code execution vulnerabilities (CVE-2020-24616) which correspond to issue vulnerabilities #2826, #2827 and #2798.</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Description]</span>
+</p>
+<p>
+<span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; FasterXML Jackson is one data processing tool provided by FasterXML, USA, which is applicable to Java. jackson-databind is one component with data association function. Jackson is the preferred and default conversion tool in SpringBoot. The vulnerability is caused by</span>
+</p>
+<p>
+<span style="font-size:16px;font-family:宋体">br.com.anterosinsecure deserialization carried out on Jackson with the :Anteros-DBCP component. By using the vulnerability, the remote attacker can execute any code on the system with the malicious load which is carefully constructed by the attacker.</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Rating]</span>
+<span style="font-family: 宋体;">Moderate Risk</span>
+</p>
+<p><span style="font-family: 宋体;">[Affected Version]</span>
+<span style="font-family: 宋体;">jackson-databind &lt; 2.9.10.6</span>
+<span style="font-family: 宋体;"></span>
+</p>
+<p><span style="font-family: 宋体;">[Secure Version]</span>
+<span style="font-family: 宋体;">Jackson-databind 2.9.10.6 or better version</span>
+</p>
+<p><span style="font-family: 宋体;">[Fix Recommendation]</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-size:16px;font-family:宋体">1.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">Upgrade to Version 2.9.10.6 and above.</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-size:16px;font-family:宋体">2.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">The Safe Default Typing white list mechanism is introduced to Jackson 2.10, avoiding impact from gadget of this type</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-size:16px;font-family:宋体">3.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">If it is impossible to upgrade now, as mitigation measures, it is suggested that exposing the deserialization API to the Internet and enabling IAM shall be avoided for restricting source IP.</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Related Links]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://github.com/FasterXML/jackson-databind/releases/tag/jackson-databind-2.9.10.6"><span style="color:windowtext;text-underline:none">https://github.com/FasterXML/jackson-databind/releases/tag/jackson-databind-2.9.10.6</span>
+</a></span>
+</p>
+<p><a href="https://nvd.nist.gov/vuln/detail/CVE-2020-24616" style="font-family: 宋体;"><span style="color:windowtext;text-underline:none">https://nvd.nist.gov/vuln/detail/CVE-2020-24616</span>
+</a></p>
+<p><a href="https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062" style="font-family: 宋体;"><span style="color:windowtext;text-underline:none">https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062</span>
+</a></p>
+<p><a href="https://github.com/FasterXML/jackson-databind/issues/2827" style="font-family: 宋体;"><span style="color:windowtext;text-underline:none">https://github.com/FasterXML/jackson-databind/issues/282</span>
+</a><span style="font-family: 宋体;">6</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://github.com/FasterXML/jackson-databind/issues/2827"><span style="color:windowtext;text-underline:none">https://github.com/FasterXML/jackson-databind/issues/2827</span>
+</a></span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://github.com/FasterXML/jackson-databind/issues/27"><span style="color:windowtext;text-underline:none">https://github.com/FasterXML/jackson-databind/issues/27</span>
+</a>98</span>
+</p>
+<p><br/></p>

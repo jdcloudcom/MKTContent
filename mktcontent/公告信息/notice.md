@@ -918,5 +918,25 @@
 	{
 		"id":949,
 		"title":"Notification of Upgrading Redis Underlayer in South China"
+	},
+	{
+		"id":950,
+		"title":"\\[cn-south-1\\] Notification of Upgrading Elastic Compute, Network, Storage and Other Services"
+	},
+	{
+		"id":951,
+		"title":"\\[North China\\] Notification of Upgrading General Specification Services for Cloud File Service (CFS) at 00:00 on August 26"
+	},
+	{
+		"id":952,
+		"title":"\\[Vulnerability Warning\\] Apache HTTP Server Buffer Overflow Code Execution Vulnerability Security Announcement (CVE-2020-11984)"
+	},
+	{
+		"id":953,
+		"title":"Notification of Upgrading Elastic Compute, Network, Storage and Other Services in \\[cn-north-1\\] and \\[cn-east-2\\]"
+	},
+	{
+		"id":954,
+		"title":"\\[Vulnerability Warning\\] Security Announcement on FasterXML Jackson Deserialization Remote Code Execution Vulnerability (CVE-2020-24616)"
 	}
 ]
