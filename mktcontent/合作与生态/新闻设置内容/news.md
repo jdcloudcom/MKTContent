@@ -2238,5 +2238,21 @@
 		"jss_key":"News_Content_847",
 		"id":847,
 		"news_title":"直击2020服贸会 看京东物联网如何使能数智化转型"
+	},
+	{
+		"summary":"2020服贸会格外精彩！有风彩多姿的新经济线下大展，更有科技感十足的沉浸式云上展会。京东智联云作为官方技术服务商，倾力打造“云上服贸会数字平台”，以技术、生态、实战经验促进会展行业数智化发展。京东会展云，云上会展首选服务商！",
+		"image_url":"//img1.jcloudcs.com/cms/9b601812-9e58-4d54-96d5-2241017795c020200910163143.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_848",
+		"jss_key":"News_Content_848",
+		"id":848,
+		"news_title":"一张图看懂 服贸会为什么选择京东智联云"
+	},
+	{
+		"summary":"近日，在2020年中国国际服务贸易交易会京东智联云企业论坛上，京东智联云副总裁、人工智能平台部总经理任成元发表了重要演讲，畅谈京东智联云在产业数智化方面的思考与实践。",
+		"image_url":"//img1.jcloudcs.com/cms/9e4f3a96-f2f5-4169-9b65-728cb6e6dbb920200911155828.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_849",
+		"jss_key":"News_Content_849",
+		"id":849,
+		"news_title":"云“智”联世界 产业数智化转型的关键"
 	}
 ]
