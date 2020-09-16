@@ -2254,5 +2254,13 @@
 		"jss_key":"News_Content_849",
 		"id":849,
 		"news_title":"云“智”联世界 产业数智化转型的关键"
+	},
+	{
+		"summary":"近日，京东智联云联合京东零售，携手罗曼重磅推出京东专供款小京刷。这款智能C2B定制新品无论是在功能和品质，还是更加人性化的设计，都更精准地满足消费者的个性化需求。",
+		"image_url":"//img1.jcloudcs.com/cms/35bf0eed-3974-48ac-89cd-2fbef4b16a7420200916163831.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_850",
+		"jss_key":"News_Content_850",
+		"id":850,
+		"news_title":"“玩转C2B”，京东智联云打造罗曼新品牙刷“出圈记”"
 	}
 ]
