@@ -1,0 +1,24 @@
+<p style="text-indent: 2em;">随着5G、云计算、物联网、大数据的蓬勃发展，数据中心的规模不断扩大，使得机房空间成本高昂、交付时间大大增加、海量服务器的运维也变得更加复杂，绿色化、模块化、智能化的机柜服务器，成为云时代数据中心建设的“刚需”。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">9月15日-16日，在ODCC 2020开放数据中心峰会上，京东智联云重磅发布首款全自主研发、低成本、高可靠2U机架式整机柜服务器，以高密度、高效能、低功耗、低成本、易管理、灵活部署等特性，为数据中心提供了新一代开放技术管理方案。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/bade1b68-63a5-4e26-b904-06eed5b5fb9b20200917182954.jpg" title="" alt="1112.jpg"/></p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em;">众所周知，传统的整机柜服务器无论从结构还是系统架构上都有一定的部署局限性，加上每个机房的基础设施条件不同，业务类型复杂、资源调配迁移需求多样，导致传统整机柜服务器在通用数据中心占比偏低。相比国内其他同类方案，京东智联云推出的这款整机柜服务器采用了标准的19英寸设计,完全融合标准服务器的尺寸，对数据中心环境适配要求更低，极大降低了用户使用门槛。京东智联云结合用户的需求及痛点，采用自主创新弹性模块化架构设计，用户可以以搭积木的方式，实现按需定制，快速安装，轻松维护。</p>
+<p style="text-indent: 2em; text-align: center;">&nbsp;<img src="//img1.jcloudcs.com/cms/b6f78a61-dd73-4158-a000-5aea152ca35520200917183139.jpg" title="" alt="1111.jpg"/></p>
+<p style="text-indent: 2em; text-align: center;">京东智联云首款自研整机柜服务器</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>一体化交付，集中供电</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;">京东智联云整机柜以42U、19英寸标准机柜为设计单位，节点独立散热，整机柜与标准机柜可以任意切换，用户可以像使用U盘一样“即插即用”，大幅降低了数据中心的准入门槛和投入成本。同时采用节点电源独立供电，使用标准CRPS，且能通过安装整机柜电源接入模块实现整机柜集中供电，满足不同用户需求。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>前后IO设计，灵活配置</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">在机柜的框架上，京东智联云服务器采用前置IO设计，将数据中心的强电和弱电分开运维，搭配机柜前置理线槽，机柜后面无任何线缆，确保了所有运维工作均可在冷通道进行，单边维护效率更高。当前IO 服务器遇到标准机柜时，用户仅需拿掉一个风扇、换上后IO模组就可以实现后出线，前后IO灵活配置。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>功能模块优化，高效低耗</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">在设计过程中，京东智联云结合京东多年沉淀的应用经验，针对计算、存储、网络等不同场景进行优化设计。采用京东深度定制化Intel®最新X86架构CPU，服务器核心可达64核，性能提升33%；创新风液混合散热和集中供电设计，提高了电源转换效率，有效降低了散热系统功耗，使得整体能效提升10%，单机柜每年可节约用电2.5万度以上；采用硬盘前置，风扇后置设计，大大拉开了风扇和硬盘距离，减少了噪声和振动对硬盘的影响。当硬盘容量增大到20TB以上，与通用服务器相比，吞吐量性能大大提升。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">面对云时代的应用场景和发展趋势，京东智联云以前瞻性的技术视野，发布整机柜服务器产品，不仅能实现按需配置、弹性部署，更能无缝贴合用户业务需求。相信随着京东智联云整机柜的大规模部署，政府、金融、互联网等客户数据中心的稳定、高效运行将得到有力支撑。</p>
+<p><br/></p>
