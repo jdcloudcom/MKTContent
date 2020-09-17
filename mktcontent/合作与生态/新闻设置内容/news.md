@@ -2262,5 +2262,21 @@
 		"jss_key":"News_Content_850",
 		"id":850,
 		"news_title":"“玩转C2B”，京东智联云打造罗曼新品牙刷“出圈记”"
+	},
+	{
+		"summary":"2020年9月15日-19日，第二十二届中国国际工业博览会（简称“中国工博会”）在国家会展中心（上海）隆重举行。京东智联云IoT携智能工厂及综合能源管理平台两大展项，隆重亮相工博会京东工业品展区，集中展现物联网技术带动传统制造业向人、机、物全面互联的数字工业未来。",
+		"image_url":"//img1.jcloudcs.com/cms/b87e2057-887f-488a-9fc9-915ec530059b20200917152647.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_851",
+		"jss_key":"News_Content_851",
+		"id":851,
+		"news_title":"智构工业互联新世界 京东智联云IoT亮相2020工博会"
+	},
+	{
+		"summary":"9月15日-16日，在ODCC 2020开放数据中心峰会上，京东智联云重磅发布首款全自主研发、低成本、高可靠2U机架式整机柜服务器，以高密度、高效能、低功耗、低成本、易管理、灵活部署等特性，为数据中心提供了新一代开放技术管理方案。",
+		"image_url":"//img1.jcloudcs.com/cms/87ccae89-4a90-4c3a-8561-35cc69e62b6420200917182916.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_852",
+		"jss_key":"News_Content_852",
+		"id":852,
+		"news_title":"即插即用，融合标准服务器设计 京东智联云发布首款整机柜服务器"
 	}
 ]
