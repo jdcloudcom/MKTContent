@@ -2038,5 +2038,53 @@
 		"jss_key":"News_Content_843",
 		"id":843,
 		"news_title":"15 days! Rebirth and \"Intelligent Change\" of Beijing Xinfadi Market"
+	},
+	{
+		"summary":"After 7 years of technology refining and test under practical high-pressure scenarios such as 6.18 and 11.11 Global Shopping Festivals, JD Cloud & AI's Intelligent Customer Service has started \"acceleration\" for the digital transformation of enterprises. As the core channel to output technologies and services of JD Group, JD Cloud & AI will constantly provide each industry with full-stack AI capabilities based on its full-scenario and full-process product matrix, to assist in the transformation of customer service from cost-centered to valve-centered, and promote the constant upgrading of intelligent service.",
+		"image_url":"//img1.jcloudcs.com/cms/448e552a-999b-4adf-8d26-8ef123878aaf20200904093431.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_844",
+		"jss_key":"News_Content_844",
+		"id":844,
+		"news_title":"Seven Years for One Sword: From Intelligent Customer Service to Intelligent Service"
+	},
+	{
+		"summary":"From 0 to 1, time to space, and exhibition to the forum, adhering to the core concepts of \"technology-based CIFTIS\" and \"cloud-based CIFTIS\", the JD Exhibition Cloud created by JD Cloud & AI has penetrated into all parts of the exhibition, digitally and intelligently reconstructed three key scenarios of \"exhibition, forum & business talks\", and promoted the comprehensive upgrading from digital & intelligent exhibition to digital & intelligent exhibition infrastructure.",
+		"image_url":"//img1.jcloudcs.com/cms/4ec13e2e-20be-494b-986e-68107c27f4d020200906172007.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_845",
+		"jss_key":"News_Content_845",
+		"id":845,
+		"news_title":"Appreciate the leading power of \"JD Exhibition Cloud\" from the everlasting CIFTIS"
+	},
+	{
+		"summary":"During the conferences, the Vice President of JD Cloud & AI and the person in charge of the Data Intelligence Product Department delivered a keynote speech on \"Releasing JD's Technology Dividends to Empower Industrial Ecological Development\", sharing the strategy and thinking of JD Cloud & AI in the field of the digital economy, and emphatically introducing the full-link digital & intelligent solutions of Cloud SaaS.",
+		"image_url":"//img1.jcloudcs.com/cms/5e21fd55-c1a7-486e-8737-2218a6f788e420200908110009.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_846",
+		"jss_key":"News_Content_846",
+		"id":846,
+		"news_title":"Deciphering Technologies for CIFTIS: JD Launched the Cloud SaaS-based Digital & Intelligent Solution"
+	},
+	{
+		"summary":"On September 7, at the CIFTIS—JD Cloud & AI Enterprise Forum, the Vice President of JD Cloud & AI and the person in charge of the IoT Product Department delivered a keynote speech on \"IoT: All-round Enabling of Digital & Intelligent Transformation\", deeply interpreting that, in the digital & intelligent transformation process of the industry, how IoT helps the industry to fully enable the digital & intelligent transformation as one of the necessary technologies for digital & intelligent transformation.",
+		"image_url":"//img1.jcloudcs.com/cms/db9b2e52-5cfc-4ce5-881a-2e725e1d770c20200909093208.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_847",
+		"jss_key":"News_Content_847",
+		"id":847,
+		"news_title":"Understand How JD IoT Enables Digital & Intelligent Transformation by Direct Witnessing on 2020 CIFTIS"
+	},
+	{
+		"summary":"The 2020 CIFTIS was extraordinarily wonderful! There were diverse and colorful off-line exhibitions with regard to new economies and immersive on-cloud exhibitions with a sense of technology. As the official technology service provider, JD Cloud & AI has done its utmost to build the \"Cloud CFITIS Digital Platform\", and promoted the digital & intelligence development of the exhibition industry with its technologies, ecology and practical experience. JD Exhibition Cloud, the first choice for cloud exhibitions!",
+		"image_url":"//img1.jcloudcs.com/cms/9b601812-9e58-4d54-96d5-2241017795c020200910163143.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_848",
+		"jss_key":"News_Content_848",
+		"id":848,
+		"news_title":"A Quick Introduction to Why JD Cloud & AI is Chosen for CIFTIS"
+	},
+	{
+		"summary":"Recently, at the 2020 China International Fair for Trade in Services—JD Cloud & AI Enterprise Forum, Ren Chengyuan, Vice President of JD Cloud & AI and General Manager of the AI Platform Department, delivered an important speech, talking freely about the thinking and practice of JD Cloud & AI in terms of industrial digitization and intellectualization.",
+		"image_url":"//img1.jcloudcs.com/cms/9e4f3a96-f2f5-4169-9b65-728cb6e6dbb920200911155828.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_849",
+		"jss_key":"News_Content_849",
+		"id":849,
+		"news_title":"Cloud \"Intelligence\" Connecting the World — the Key to Digital & Intelligent Transformation of the Industry"
 	}
 ]

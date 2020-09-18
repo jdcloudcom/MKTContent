@@ -938,5 +938,13 @@
 	{
 		"id":954,
 		"title":"\\[Vulnerability Warning\\] Security Announcement on FasterXML Jackson Deserialization Remote Code Execution Vulnerability (CVE-2020-24616)"
+	},
+	{
+		"id":955,
+		"title":"\\[cn-north-1\\] Notification of Upgrading Elastic Compute, Network, Storage and Other Services"
+	},
+	{
+		"id":956,
+		"title":"Notification of Upgrading Redis Underlayer in East China"
 	}
 ]
