@@ -1038,5 +1038,13 @@
 	{
 		"id":960,
 		"title":"【漏洞预警】Mircrosoft netlogon服务权限提升安全漏洞公告"
+	},
+	{
+		"id":961,
+		"title":"【华南-广州】弹性计算、网络、存储等服务升级通知"
+	},
+	{
+		"id":962,
+		"title":"【漏洞预警】Mircrosoft SqlServer Report Services远程代码执行安全漏洞公告"
 	}
 ]
