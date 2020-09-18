@@ -1,0 +1,55 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">2020</span>
+<span style="font-size:16px;font-family:宋体">年9月18日，京东云安全团队监测研究人员近期披露了 Microsoft SQL Server Reporting Services 远程执行代码漏洞（漏洞编号：CVE-2020-0618）的漏洞利用。微软在2020年2月补丁日中披露了该漏洞，本次通告标识该漏洞利用工具已公开。为避免您的业务受影响，京东云安全建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被外部攻击者入侵</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; Microsoft SQL Server Reporting Services </span>
+<span style="font-size:16px;font-family:宋体">是微软基于服务器的报表生成软件，它是 Microsoft SQL Server 服务套件的一部分，通过Web界面进行管理，可用于准备和交付各种交互式报告。Microsoft SQL Server Reporting Services（SSRS）在处理页面请求方式中存在远程代码执行漏洞，经过身份验证的攻击者通过向受影响的 Reporting Services 实例提交精心构造的HTTP请求，可利用应用中的反序列化问题在服务器上执行代码。本漏洞补丁微软已于2月发布，本次发布的是研究人员的漏洞利用代码。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left;background:white"><span style=";font-family:Wingdings;color:black">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:black">Microsoft SQL Server 2016</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left;background:white"><span style=";font-family:Wingdings;color:black">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:black">Microsoft SQL Server 2014</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left;background:white"><span style=";font-family:Wingdings;color:black">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:black">Microsoft SQL Server 2012</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">微软官方已针对受影响系统发布安全补丁，进行 Windows 版本更新并且保持 Windows 自动更新开启，补丁下载地址</span>
+</p>
+<p style="text-align:left"><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618" title="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618"><span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:#00A4FF;background:white">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618</span>
+</a></p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline"><span style="font-size:16px;font-family: 宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p style="text-align:left"><span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:black;background:white">官方安全公告：</span>
+</p>
+<p style="text-align:left"><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618" title="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618"><span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:#00A4FF;background:white">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618</span>
+</a></p>
+<p><br/></p>
