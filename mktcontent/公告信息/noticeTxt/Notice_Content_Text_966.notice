@@ -1,0 +1,77 @@
+<p style="text-indent:28px"><span style=";font-family:&#39;微软雅黑&#39;,sans-serif">您好！</span>
+</p>
+<p style="text-align:left"><span style=";font-family:&#39;微软雅黑&#39;,sans-serif">2020</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">年9月18日，京东云安全团队监测openwall社区上公开了一个Linux内核AF_PACKET原生套接字内存破坏漏洞。根据细节描述，该漏洞出现在net/packet/af_packet.c中，由整数溢出导致越界写，可以通过它进行权限提升。该漏洞危害评级为高，编号为CVE-2020-14386。京东云安全建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被外部攻击者入侵。</span>
+</p>
+<p><span style=";font-family:&#39;微软雅黑&#39;,sans-serif">【漏洞描述】</span>
+</p>
+<p style="text-align:left"><span style=";font-family:&#39;微软雅黑&#39;,sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">发行版高于4.6的内核版本net/packet/af_packet.c中，在处理AF_PACKET时存在整数溢出漏洞，可以通过它进行权限提升。京东云应急响应中心提醒用户尽快采取安全措施阻止漏洞攻击。</span>
+</p>
+<p><span style=";font-family:&#39;微软雅黑&#39;,sans-serif">【漏洞评级】</span>
+</p>
+<p><span style=";font-family:&#39;微软雅黑&#39;,sans-serif">高危</span>
+</p>
+<p><span style=";font-family:&#39;微软雅黑&#39;,sans-serif">【受影响版本】</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left"><span style=";font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Ubuntu Bionic (18.04) </span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">及后续的版本</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left"><span style=";font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Debian 9/10</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style=";font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">CentOS 8/RHEL 8</span>
+</p>
+<p><span style=";font-family:&#39;微软雅黑&#39;,sans-serif">【修复建议】</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">（<span style="font-family:&#39;微软雅黑&#39;,sans-serif">1</span>
+）修补系统</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">上游内核补丁如下：</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif"><a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=acf69c946233259ab4d64f8869d4037a198c7f06">https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=acf69c946233259ab4d64f8869d4037a198c7f06</a></span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">（</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">2</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">）关闭</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">CAP_NET_RAW</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">功能</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">针对<span style="font-family:&#39;微软雅黑&#39;,sans-serif">RHEL8</span>
+，具体关闭步骤如下：</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif"># echo&quot;user.max_user_namespaces=0&quot; &gt; /etc/sysctl.d/userns.conf</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif"># sysctl -p/etc/sysctl.d/userns.conf</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">（<span style="font-family:&#39;微软雅黑&#39;,sans-serif">3</span>
+）针对一些受影响的容器产品，同样采取关闭<span style="font-family:&#39;微软雅黑&#39;,sans-serif">CAP_NET_RAW</span>
+功能进行缓解</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif">Kubernetes Pod</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">安全策略：配置</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">Pod</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">安全策略以删除运行容器中的</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">CAP_NET_RAW</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">功能，参考链接：</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif"><a href="https://cloud.google.com/kubernetes-engine/docs/security-bulletins"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">https://cloud.google.com/kubernetes-engine/docs/security-bulletins</span>
+</a></span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">。</span>
+</p>
+<p><span style=";font-family:&#39;微软雅黑&#39;,sans-serif">【相关链接】</span>
+</p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif"><a href="https://www.openwall.com/lists/oss-security/2020/09/03/3" target="_blank"><span style="color:#00B7D3">https://www.openwall.com/lists/oss-security/2020/09/03/3</span>
+</a></span>
+</p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif"><a href="https://github.com/cgwalters/cve-2020-14386" target="_self"><span style="color:#00B7D3">https://github.com/cgwalters/cve-2020-14386</span>
+</a></span>
+</p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif"><a href="https://sysdig.com/blog/cve-2020-14386-falco/" target="_blank"><span style="color:#00B7D3">https://sysdig.com/blog/cve-2020-14386-falco/</span>
+</a></span>
+</p>
+<p><br/></p>
