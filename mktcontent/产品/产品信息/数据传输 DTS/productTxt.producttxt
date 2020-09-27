@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"数据传输 DTS\",\"label\":[{\"TitleName\":\"数据迁移\",\"TitleUrl\":\"https://dts-console.jdcloud.com/list\",\"classTag\":\"https://dts-console.jdcloud.com/list\"},{\"TitleName\":\"数据订阅(公测中)\",\"TitleUrl\":\"https://dts-console.jdcloud.com/subscription/list\",\"classTag\":\"https://dts-console.jdcloud.com/subscription/list\"}],\"desc\":\"数据传输 DTS 是京东云提供的实时数据流服务，支持数据迁移和数据订阅服务，可简单方便的满足数据上云、业务异步解耦等业务场景。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"数据传输 DTS\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://dts-console.jdcloud.com/list\",\"classTag\":\"https://dts-console.jdcloud.com/list\"}],\"desc\":\"数据传输 DTS 是京东云提供的实时数据流服务，支持数据迁移、数据订阅、数据同步(公测中)，可简单方便的满足数据上云、业务异步解耦、跨地域数据灾备等业务场景。\"}",
 		"id":1490
 	},
 	{
@@ -8,7 +8,7 @@
 		"id":1491
 	},
 	{
-		"txt":"[{\"funcName\":\"数据迁移\",\"funcContent\":[{\"funcTitle\":\"支持多种数据库同构迁移\",\"funcP\":\"支持多种关系型数据库和非关系型数据库的同构数据迁移，支持MySQL、Percona、MariaDB、SQLserver、 PostgreSQL、MongoDB等数据库。\\n支持选择库表迁移，可按需选择迁移数据，支持选择整个实例迁移或指定库、表迁移。\"},{\"funcTitle\":\"支持热迁移，减少停机时间\",\"funcP\":\"支持选择结构迁移、全量迁移和增量迁移，可以结合业务场景选择使用。\\n支持增量迁移，源数据库在迁移期间发生的所有数据更改都会持续复制到目标数据库，只需在切换数据库时短时间停服。\"}]},{\"funcName\":\"数据订阅\",\"funcContent\":[{\"funcTitle\":\"数据库类型\",\"funcP\":\"支持实时订阅云数据库 MySQL 与自建 MySQL增量数据。\"},{\"funcTitle\":\"灵活方便\",\"funcP\":\"数据订阅目标端为Kafka实例，支持Kafka生态，通过Kafka Client可以直接消费订阅数据。\"}]}]",
+		"txt":"[{\"funcName\":\"数据迁移\",\"funcContent\":[{\"funcTitle\":\"支持多种数据库同构迁移\",\"funcP\":\"支持多种关系型数据库和非关系型数据库的同构数据迁移，支持MySQL、Percona、MariaDB、SQLserver、 PostgreSQL、MongoDB等数据库。\\n支持选择库表迁移，可按需选择迁移数据，支持选择整个实例迁移或指定库、表迁移。\"},{\"funcTitle\":\"支持热迁移，减少停机时间\",\"funcP\":\"支持选择结构迁移、全量迁移和增量迁移，可以结合业务场景选择使用。\\n支持增量迁移，源数据库在迁移期间发生的所有数据更改都会持续复制到目标数据库，只需在切换数据库时短时间停服。\"}]},{\"funcName\":\"数据订阅\",\"funcContent\":[{\"funcTitle\":\"数据库类型\",\"funcP\":\"支持实时订阅云数据库 MySQL 与自建 MySQL增量数据。\"},{\"funcTitle\":\"灵活方便\",\"funcP\":\"数据订阅目标端为Kafka实例，支持Kafka生态，通过Kafka Client可以直接消费订阅数据。\"}]},{\"funcName\":\"数据同步（公测中）\",\"funcContent\":[{\"funcTitle\":\"数据库类型\",\"funcP\":\"支持云数据库MySQL主备实例跨地域同步数据至MySQL灾备实例。\"}]}]",
 		"id":1492
 	},
 	{
