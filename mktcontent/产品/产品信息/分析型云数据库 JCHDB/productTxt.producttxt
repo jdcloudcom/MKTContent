@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"分析型云数据库 JCHDB\",\"label\":[],\"desc\":\"JCHDB 是京东智联云基于开源 ClickHouse 打造的分析型云数据库，具有分布式架构，可实现多核、多节点的并行化查询，其查询性能比传统开源数据库的高1 ~ 2个数量级。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"分析型云数据库 JCHDB\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://jchdb-console.jdcloud.com/create?regionId=cn-north-1\",\"classTag\":\"\"}],\"desc\":\"JCHDB 是京东智联云基于开源 ClickHouse 打造的分析型云数据库，具有分布式架构，可实现多核、多节点的并行化查询，其查询性能比传统开源数据库的高1 ~ 2个数量级。\"}",
 		"id":2079
 	},
 	{
