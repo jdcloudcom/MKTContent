@@ -1,0 +1,68 @@
+<p style="text-align:left;text-indent:32px"><span style="font-size: 16px;font-family:宋体">您好近日，京东云安全团队监测到DPDK官方发布关于vhost crypto组件的多个安全公告，其中最严重的一处为代码执行漏洞。对此京东云建议广大用户升级DPDK到最新版本。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p><span style="font-size:16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">CVE-2020-14374: </span>
+<span style="font-size: 16px;color:black;letter-spacing:1px">代码执行漏洞</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">DPDK&nbsp;vhost_crypto.c&nbsp;中&nbsp;copy_data&nbsp;函数的边界检查不正确，导致一处缓冲区溢出漏洞。虚拟环境中的攻击者通过利用该缓冲区溢出漏洞来复写任意数据到 vhost_crypto应用程序中的任何地址，造成代码执行<span style="font-family: &#39;微软雅黑&#39;,sans-serif;color:#333333;letter-spacing:1px">。</span>
+该漏洞可用于在vhost_crypto进程中执行代码，并造成虚拟环境逃逸。</p>
+<p><span style="font-size:16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">CVE-2020-14375: </span>
+<span style="font-size: 16px;color:black;letter-spacing:1px">缓冲区</span>
+<span style="font-size: 16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">/</span>
+<span style="font-size:16px;color:black;letter-spacing:1px">栈溢出漏洞</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">DPDK&nbsp;vhost_crypto.c&nbsp;中 Virtio Ring描述符及内存区域中的数据可以被虚拟机和主机访问。虚拟环境中的攻击者通过在 vhost_crypto.c 相关功能验证后修改该内存区域内容，可造成缓冲区溢出。并且当满足 CVE-2020-14374&nbsp;的情况时可造成代码执行。</p>
+<p><span style="font-size:16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">CVE-2020-14376: </span>
+<span style="font-size: 16px;color:black;letter-spacing:1px">缓冲区</span>
+<span style="font-size: 16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">/</span>
+<span style="font-size:16px;color:black;letter-spacing:1px">栈溢出漏洞</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">DPDK&nbsp;vhost_crypto.c&nbsp;在从虚拟环境复制&nbsp;iv_data&nbsp;数据时，存在一处缓冲区溢出漏洞。虚拟环境中的攻击者通过控制控制&nbsp;cipher-&gt;para.iv_len&nbsp;参数，最多复制4G数据到 iv_data 的缓冲区，可造成缓冲区溢出，并在特定条件下导致代码执行。</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white"><span style="font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing: 1px">CVE-2020-14377: </span>
+<span style="font-family:等线;color:black;letter-spacing:1px">缓冲区</span>
+<span style="font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">/</span>
+<span style="font-family:等线;color:black;letter-spacing:1px">栈溢出漏洞</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">DPDK&nbsp;vhost_crypto.c&nbsp;中缺乏对&nbsp;cipher-&gt;para.dst_data_len&nbsp;的校验。导致存在一处缓冲区越界读取漏洞。虚拟环境中的攻击者通过控制该参数，可以造成&nbsp;缓冲区越界读取。该漏洞可以将大量的主机内存内容读取到虚拟环境中，可以与&nbsp;CVE-2020-14374&nbsp;结合，读取任意&nbsp;vhost_crypto&nbsp;进程的数据。</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white"><strong><span style="font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">&nbsp;</span>
+</strong></p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white"><span style="font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing: 1px">CVE-2020-14378: </span>
+<span style="font-family:等线;color:black;letter-spacing:1px">拒绝服务漏洞</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">DPDK&nbsp;vhost_crypto.c中move_desc函数存在一处整数溢会漏洞。虚拟环境中的攻击者通过触发该漏洞，可造成拒绝服务。该漏洞导致执行长时间运行的循环。最多可以使move_desc函数陷入&nbsp;4,294,967,295&nbsp;次迭代循环中。同时根据使用vhost_crypto的方式，这可能会影响其他虚拟环境或DPDK lcore执行效率<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:#333333;letter-spacing:1px">。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">dpdk:dpdk: &lt;18.11.10</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">dpdk:dpdk: &lt;19.11.5</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">升级到 DPDK 最新版本</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">DPDK 18.11.10 (LTS)</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white"><em>http://fast.dpdk.org/rel/dpdk-18.11.10.tar.xz</em></p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">DPDK 19.11.5 (LTS)</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white"><em>https://fast.dpdk.org/rel/dpdk-19.11.5.tar.xz</em></p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">1、 Bug 272 - DPDK Virtio Crypto Vulnerabilities and Issues</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">https://bugs.dpdk.org/show_bug.cgi?id=272</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">2、 DPDK security advisory for multiple vhost crypto issues</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">https://seclists.org/oss-sec/2020/q3/200</p>
+<p><br/></p>
