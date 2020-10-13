@@ -2278,5 +2278,13 @@
 		"jss_key":"News_Content_852",
 		"id":852,
 		"news_title":"即插即用，融合标准服务器设计 京东智联云发布首款整机柜服务器"
+	},
+	{
+		"summary":"去年文登区人民医院升级了机房部署方案，在京东智联云的技术支持下，部署了JDSystem一体机，优化了新旧设备的功能和用途，改善了医院信息系统的流畅性和安全性，不仅使医院业务得以高效稳定运行，也为患者提供了更便捷、更智能、更安全的医疗服务体验。",
+		"image_url":"//img1.jcloudcs.com/cms/92128f7e-bff9-4b94-bef8-33b1ea412f7320201013090514.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_853",
+		"jss_key":"News_Content_853",
+		"id":853,
+		"news_title":"1分钟跨科室调看，文登区人民医院看片子就这么简单"
 	}
 ]
