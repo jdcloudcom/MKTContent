@@ -1510,5 +1510,12 @@
 		"id":1294,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"京东智联云技术沙龙",
+		"id":1296,
+		"button_title":"",
+		"main_title":""
 	}
 ]
