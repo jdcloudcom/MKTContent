@@ -1,0 +1,23 @@
+<p style="text-indent: 2em;">在使用异构计算服务的场景中，“计算资源过剩”问题十分普遍。以云游戏为例，企业通常仅需要一颗物理GPU几分之一的计算能力即可流畅完成图形或视觉计算。针对这类对算力需求较少的应用场景，轻量型异构计算产品则更为适用。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">为了让用户可以用更细粒度的计算资源开启业务，京东智联云集成GPU虚拟化技术，推出两款基于NVIDIA vGPU的虚拟化型GPU云主机实例，均搭载NVIDIA® Tesla® P40，支持1/2、1/4、1/6 三种划分粒度，并提供多种CPU、内存配置组合，用户可以按需选择适量的计算资源，提升系统灵活性，并大幅降低成本。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em; text-align: center;">&nbsp;<img src="//img1.jcloudcs.com/cms/a8f12399-073c-47aa-bbc2-b4b8a200e0da20201014190201.jpg" title="" alt="1111.jpg"/></p>
+<p style="text-indent: 2em;">京东智联云推出的这两款vGPU实例，分别为C类型（Virtual Compute Server）vGPU实例和Q类型（Quadro vDWS）vGPU实例。C类型vGPU实例主要面向AI、计算机学习和科学计算等场景，多适用于高校设计院、研究机构等深度学习的教学和实验；Q类型vGPU实例主要面向影视行业的实时渲染、图形图像处理和建筑工业设计等专业图像处理场景，可支持Maya、3DMAX、UG、BIM等专业级图形处理软件，满足用户对GPU在图形设计方面的需求。</p>
+<p style="text-indent: 2em;">&nbsp;</p>
+<p style="text-indent: 2em; text-align: center;"><img src="//img1.jcloudcs.com/cms/99aefe38-d5c4-4ced-9f88-a3b25804c3a920201014190229.jpg" title="" alt="1112.jpg"/></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"><strong>更灵活的算力匹配，降低用户成本</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;">京东智联云基于NVIDIA vGPU的分片虚拟化技术，将物理GPU卡重新划分，分割后的vGPU具有相应划分比例的计算能力和显存，同一块GPU卡经虚拟化分割后可分配至不同的云主机使用，实现GPU能力的多虚机共享。例如一颗NVIDIA® Tesla® P40具有24GB显存，通过vGPU技术将P40的计算能力平均分成6份，每个vGPU具有接近1/6的计算能力和4GB显存，一张GPU卡就能同时服务最多6个云主机用户，从而提高资源利用率，降低用户的使用成本。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>按需定制，合理利用GPU资源</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;">京东智联云推出的vGPU实例，打破了传统直通模式的局限，提供了比单颗物理GPU更细粒度的服务，用户可以根据工作负载选择合适的vGPU规格主机作为集群的最小部署单元，以使得集群计算能力更贴合实际计算力需求曲线，实现“按需定制”。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">以教学、开发场景为例，高校及教学机构在开展AI相关课程时，需要提供搭载GPU的服务器作为基础教学实践环境，参与课程的人员研究方向和业务水平各异，对GPU资源算力的需求也不尽相同，如果在云上根据教学任务按需申请不同规格的vGPU云主机和GPU云主机，就既能满足各种场景下的资源需求，又可以节省教学资源。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东智联云和贪心学院联合打造的 “自然语言处理实战训练营”，后端就采用了P40*1/2规格云主机作为训练集群，训练营吸引了包含哈佛、剑桥、清华、北大等多名顶尖高校学员在内的近200名AI领域的从业者和爱好者加入，为每位学员提供企业级的AI项目资源和基于京东真实场景的实战演练平台。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东智联云始终致力于通过最新虚拟化技术研发为用户提供安全便利的异构计算产品，基于NVIDIA vGPU解决方案，为客户带来更灵活、更低成本的应用体验。未来，京东智联云将继续依托在人工智能、大数据、云计算、物联网等方面的业务实践和技术积淀，不断创造新产品、新价值，满足更多场景和更多样化的客户需求，为客户开启创新智能化变革时代。</p>
+<p><br/></p>
