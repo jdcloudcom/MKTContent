@@ -1,0 +1,125 @@
+<p>您好</p>
+<p>2020年10月14日，京东云安全团队监测微软发布10月漏洞补丁，修复了Windows TCP/IP远程代码执行漏洞（CVE-2020-16898），此漏洞被称为”Bad Neighbor”，CVSS评分为9.8。Windows TCP/IP协议栈在处理IMCPv6 Router Advertisement数据包时存在漏洞，攻击者可向受影响主机发送特制的ICMPv6 Router Advertisement数据包进行利用，实现在目标服务器或客户端上执行任意代码。</p>
+<p>【漏洞描述】</p>
+<p>&nbsp;Windows TCP/IP堆栈在处理IMCPv6 Router Advertisement（路由通告）数据包时存在漏洞，远程攻击者通过构造特制的ICMPv6 Router Advertisement（路由通告）数据包，并将其发送到远程Windows主机上，即可在目标主机上执行任意代码。</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">【漏洞评级】</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">高危</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">【受影响版本】</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1709 for 32-bit Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1709 for ARM64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1709 for x64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1803 for 32-bit Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1803 for ARM64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1803 for x64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1809 for 32-bit Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1809 for ARM64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1809 for x64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1903 for 32-bit Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1903 for ARM64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1903 for x64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1909 for 32-bit Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1909 for ARM64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 1909 for x64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 2004 for 32-bit Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 2004 for ARM64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows 10 Version 2004 for x64-based Systems</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows Server 2019</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows Server 2019&nbsp; (Server Core installation)</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows Server, version 1903 (Server Core installation)</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows Server, version 1909 (Server Core installation)</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:32px;text-align: left;line-height:28px"><span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Windows Server, version 2004 (Server Core installation)</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+<span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">【修复建议】</span>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">1．微软官方已针对受影响系统发布安全补丁，强烈建议相关用户尽快安装补丁更新。补丁升级，参考链接:</span>
+</p>
+<p style="text-align:left"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><span style="font-size: 16px; font-family: 宋体;">&nbsp;</span>
+<span style="text-indent: 28px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">2．若相关用户暂时无法安装补丁，也可通过以下措施进行缓解：</span>
+</span>
+</p>
+<p style="text-align:left;text-indent:28px;line-height:28px"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">使用以下 PowerShell 命令禁用 ICMPv6 RDNSS，以阻止攻击者利用漏洞。</span>
+</p>
+<p style="text-align:left;text-indent:28px;line-height:28px"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">netsh&nbsp;int&nbsp;ipv6&nbsp;set&nbsp;int&nbsp;*INTERFACENUMBER*&nbsp;rabaseddnsconfig=disable</span>
+</p>
+<p style="text-align:left;background:white;vertical-align:baseline"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><span style="font-size: 16px; font-family: 宋体;">&nbsp;</span>
+【相关链接】</span>
+</p>
+<p style="text-align:left"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><br/></p>
