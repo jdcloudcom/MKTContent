@@ -2086,5 +2086,29 @@
 		"jss_key":"News_Content_849",
 		"id":849,
 		"news_title":"Cloud \"Intelligence\" Connecting the World — the Key to Digital & Intelligent Transformation of the Industry"
+	},
+	{
+		"summary":"Recently, JD Cloud & AI, together with JD Retail, cooperated with Roaman to launch an exclusive product for JD, Xiaojing Toothbrush. This new C2B customized smart product meets the individual demand of consumers in a more accurately manner in terms of function and quality, as well as more humanized design.",
+		"image_url":"//img1.jcloudcs.com/cms/35bf0eed-3974-48ac-89cd-2fbef4b16a7420200916163831.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_850",
+		"jss_key":"News_Content_850",
+		"id":850,
+		"news_title":"JD Cloud & AI Creates Roaman's New Smart Toothbrush with C2B"
+	},
+	{
+		"summary":"On September 15-19, 2020, the 22nd session China International Industry Fair (\"CIIF\") was held in the National Exhibition and Convention Center (Shanghai). JD Cloud & AI IoT took the Smart Factory and Integrated Energy Management Solutions to JD's industrial products exhibition area in CIIF so as to intensively present a future of digital industry where traditional manufacturing is driven to realize comprehensive interconnection among human, machine and things by IoT technologies.",
+		"image_url":"//img1.jcloudcs.com/cms/b87e2057-887f-488a-9fc9-915ec530059b20200917152647.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_851",
+		"jss_key":"News_Content_851",
+		"id":851,
+		"news_title":"JD Cloud & AI IoT Appeared in CIIF 2020 to Create a New Industrial Interconnection World"
+	},
+	{
+		"summary":"In the summit of Open Data Center Committee (ODCC) 2020 held on September 15-16, JD Cloud & AI released its first self-developed, low-cost, high-reliability 2U rack and cabinet-type server that can provide the new generation of open technology management solution for data centers as it is featured with high density, high efficiency, low power consumption, low cost, easy management, and flexible deployment.",
+		"image_url":"//img1.jcloudcs.com/cms/87ccae89-4a90-4c3a-8561-35cc69e62b6420200917182916.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_852",
+		"jss_key":"News_Content_852",
+		"id":852,
+		"news_title":"JD Cloud & AI Released the First Cabinet-type Server with Standard Design Supporting Plug and Play"
 	}
 ]

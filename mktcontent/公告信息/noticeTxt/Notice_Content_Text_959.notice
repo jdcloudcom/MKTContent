@@ -1,0 +1,5 @@
+<p><span style="font-family: &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;, sans-serif; font-size: 14px; font-variant-numeric: normal; font-variant-east-asian: normal; line-height: 21px; widows: 1; background-color: rgb(255, 255, 255);"></span>
+</p>
+<p>In order to continuously improve the product stability, with the recommendations from hardware manufacturers, JD Cloud & AI plans to upgrade the first batch of the hard disk firmware of compute node in [cn-north-1]. The upgrade period is from 23:00 to 1:00 the next day between September 14 and September 17. The schedule of the second batch of upgrade will be announced otherwise. During this upgrade, a transient second-level (15-30 seconds) IO read and write stall may occur. Please understand.</p>
+<p>If you need help, please contact us by ticket or phone at 400-615-1212. Thank you for your support!</p>
+<p><br/></p>

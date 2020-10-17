@@ -1,0 +1,101 @@
+<p style="text-indent:28px">
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif"></span>
+</p>
+<p style="text-align:left">
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">On September 18, 2020, JD Cloud Security Team disclosed the Linux core AF_PACKET native socket memory corruption vulnerability on its monitoring openwall community. According to detailed description, this vulnerability was found in net/packet/af_packet.c. The integer overflow will lead to out-of-bounds write, through which the permission can be escalated. This vulnerability has a high risk rating and is numbered as CVE-2020-14386. JD Cloud Security Team suggests that you take a timely security self-inspection. If you are affected, please take timely update and repair actions to avoid external attacks.</span>
+</p>
+<p>
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">[Vulnerability Description]</span>
+</p>
+<p style="text-align:left">
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Linux's released kernel version net/packet/af_packet.c which is higher than 4.6, the integer overflow vulnerability exists when AF_PACKET is handled, through which can the permission can be escalated. JD Cloud Emergency Response Center reminds users of taking immediate security measures to prevent vulnerability attacks.</span>
+</p>
+<p>
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">[Vulnerability Rating]</span>
+</p>
+<p>
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">High Risk</span>
+</p>
+<p>
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">[Affected Version]</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left">
+	<span style=";font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Ubuntu Bionic (18.04) and subsequent versions</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left">
+	<span style=";font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">Debian 9/10</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style=";font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">CentOS 8/RHEL 8</span>
+</p>
+<p>
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">[Fix Recommendation]</span>
+</p>
+<p>
+	<span style="font-family:&#39;微软雅黑&#39;,sans-serif">(1) Patching system</span>
+</p>
+<p>
+	<span style="font-family:&#39;微软雅黑&#39;,sans-serif">The kernel patches from upstream are as follows:</span>
+</p>
+<p>
+	<span style="font-family:&#39;微软雅黑&#39;,sans-serif">
+		<a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=acf69c946233259ab4d64f8869d4037a198c7f06">https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=acf69c946233259ab4d64f8869d4037a198c7f06</a>
+	</span>
+</p>
+<p>
+	<span style="font-family:&#39;微软雅黑&#39;,sans-serif">(2) Close CAP_NET_RAW function</span>
+</p>
+<p>
+	<span style="font-family:&#39;微软雅黑&#39;,sans-serif">The specific close steps for RHEL8 are as follows:</span>
+</p>
+<p>
+	<span style="font-family:&#39;微软雅黑&#39;,sans-serif"># echo&quot;user.max_user_namespaces=0&quot; &gt; /etc/sysctl.d/userns.conf</span>
+</p>
+<p>
+	<span style="font-family:&#39;微软雅黑&#39;,sans-serif"># sysctl -p/etc/sysctl.d/userns.conf</span>
+</p>
+<p>
+	<span style="font-family:&#39;微软雅黑&#39;,sans-serif">(3) For some affected container products, users may relieve the affect by closing the CAP_NET_RAW function</span>
+</p>
+<p>
+	<span style="font-family:&#39;微软雅黑&#39;,sans-serif">Kubernetes Pod security policy: The Pod security policy can be configured to delete the CAP_NET_RAW function in the running container. The link for reference is:</span>
+	<span style="font-family:&#39;微软雅黑&#39;,sans-serif">
+		<a href="https://cloud.google.com/kubernetes-engine/docs/security-bulletins">
+			<span style="font-family:&#39;微软雅黑&#39;,sans-serif">https://cloud.google.com/kubernetes-engine/docs/security-bulletins</span>
+		</a>
+	</span>
+	<span style="font-family:&#39;微软雅黑&#39;,sans-serif">.</span>
+</p>
+<p>
+	<span style=";font-family:&#39;微软雅黑&#39;,sans-serif">[Related Links]</span>
+</p>
+<p style=";margin-bottom:0;line-height:24px;background:white">
+	<span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif">
+		<a href="https://www.openwall.com/lists/oss-security/2020/09/03/3" target="_blank">
+			<span style="color:#00B7D3">https://www.openwall.com/lists/oss-security/2020/09/03/3</span>
+		</a>
+	</span>
+</p>
+<p style=";margin-bottom:0;line-height:24px;background:white">
+	<span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif">
+		<a href="https://github.com/cgwalters/cve-2020-14386" target="_self">
+			<span style="color:#00B7D3">https://github.com/cgwalters/cve-2020-14386</span>
+		</a>
+	</span>
+</p>
+<p style=";margin-bottom:0;line-height:24px;background:white">
+	<span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif">
+		<a href="https://sysdig.com/blog/cve-2020-14386-falco/" target="_blank">
+			<span style="color:#00B7D3">https://sysdig.com/blog/cve-2020-14386-falco/</span>
+		</a>
+	</span>
+</p>
+<p>
+	<br/>
+</p>

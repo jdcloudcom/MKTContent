@@ -1,0 +1,76 @@
+<p style="text-indent:28px">
+	<span style="font-size:16px;font-family:宋体"></span>
+</p>
+<p style="text-align:left;background:white">
+	<span style="font-size:16px;font-family:宋体">On September 18, 2020, the monitoring researchers of JD Cloud Security Team recently disclosed exploitation of Microsoft SQL Server Reporting Services Remote Code Execution Vulnerability (vulnerability code: CVE-2020-0618). Microsoft disclosed this vulnerability on the patching day in February 2020 and released the vulnerability exploitation tool identified in this bulletin. JD Cloud Security Team suggests that you take a timely security self-inspection to avoid effect on your business. If you are affected, please take timely update and repair actions to avoid external attacks.</span>
+</p>
+<p style="text-indent:28px">
+	<span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">[Vulnerability Description]</span>
+</p>
+<p style="text-align:left">
+	<span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; Microsoft SQL Server Reporting Services are software products developed by Microsoft based on server reports. As part of the Microsoft SQL Server service kit, it is managed through Web interface and can be applied to prepare and deliver a variety of interactive reports. Microsoft SQL Server Reporting Services (SSRS) has remote code execution vulnerability in a way that handles page requests. The authenticated attackers could exploit deserialization in applications to gain the ability to execute code on the target server by submitting elaborated HTTP requests to the affected Reporting Services instance. Microsoft released the vulnerability patch in February. The researchers now release the vulnerability exploitation code.</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">[Vulnerability Rating]</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">High Risk</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">[Affected Version]</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left;background:white">
+	<span style=";font-family:Wingdings;color:black">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:black">Microsoft SQL Server 2016</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left;background:white">
+	<span style=";font-family:Wingdings;color:black">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:black">Microsoft SQL Server 2014</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left;background:white">
+	<span style=";font-family:Wingdings;color:black">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:black">Microsoft SQL Server 2012</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">[Fix Recommendation]</span>
+</p>
+<p style="text-align:left">
+	<span style="font-size:16px;font-family:宋体">Microsoft released the security patch for the affected system to update the Windows version and maintain the enabling of Windows automatic update. The download link for the patch is</span>
+</p>
+<p style="text-align:left">
+	<a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618" title="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618">
+		<span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:#00A4FF;background:white">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618</span>
+	</a>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline">
+	<span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline">
+	<span style="font-size:16px;font-family: 宋体">&nbsp;</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">[Related Links]</span>
+</p>
+<p style="text-align:left">
+	<span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:black;background:white">Official Security Announcement:</span>
+</p>
+<p style="text-align:left">
+	<a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618" title="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618">
+		<span style=";font-family:&#39;pingfang SC&#39;,sans-serif;color:#00A4FF;background:white">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0618</span>
+	</a>
+</p>
+<p>
+	<br/>
+</p>

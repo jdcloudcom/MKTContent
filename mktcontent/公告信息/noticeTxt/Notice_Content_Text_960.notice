@@ -1,0 +1,134 @@
+<p style="text-indent:28px">
+	<span style="font-size:16px;font-family:宋体"/>
+</p>
+<p style="text-indent:28px">
+	<span style="font-size:16px;font-family:宋体">On September 15, 2020, JD Cloud Security Team detected that Microsoft's MSRC released the announcement on privilege escalation vulnerability for Netlogon on August 11. The vulnerability (CVE-2020-1472) received the score of 10.0 based on CVSS Scoring system. The vulnerability was found and named as ZeroLogon by Tom Tervoort from Secura.</span>
+</p>
+<p style="text-indent:28px">
+	<span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">[Vulnerability Description]</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; </span>
+	<span style="font-size:16px;font-family:宋体">The privilege escalation vulnerability occurs when attackers use the Netlogon Remote Protocol (also called MS-NRPC) to establish a Netlogon secure channel connected with the domain controller. When successfully using this vulnerability, the attackers can obtain the domain controller administrator permission by running the specifically designed application program on a network device without authentication.</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">[Vulnerability Rating]</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">High Risk</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">[Affected Version]</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server, version 2004 (Server Core installation)</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server 2008 R2 for x64-based Systems Service Pack 1</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server 2012</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server 2012 (Server Core installation)</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server 2012 R2</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server 2012 R2 (Server Core installation)</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server 2016</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server 2016 (Server Core installation)</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server 2019</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server 2019 (Server Core installation)</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server, version 1903 (Server Core installation)</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px">
+	<span style="font-size:16px;font-family:Wingdings">l<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+	</span>
+	<span style="font-size:16px;font-family:宋体">Windows Server, version 1909 (Server Core installation)</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">[Fix Recommendation]</span>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline">
+	<span style="font-size:16px;font-family:宋体">1</span>
+	<span style="font-size: 16px;font-family:宋体">. Microsoft released the security patch for the affected system to update the Windows version and maintain the enabling of Windows automatic update. Users can also download the software package in the following link for manual upgrade</span>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline">
+	<span style="font-size:16px;font-family:宋体">https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1472</span>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline">
+	<span style="font-size:16px;font-family: 宋体">2</span>
+	<span style="font-size:16px;font-family:宋体">. Users can refer to the following link for specific operations of enabling enforcement mode for domain controller</span>
+</p>
+<p style="text-align:left;text-indent:28px;background:white;vertical-align:baseline">
+	<span style="font-size:16px;font-family: 宋体">https://support.microsoft.com/zh-cn/help/4557222/how-to-manage-the-changes-in-netlogon-secure-channel-connections-assoc</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:宋体">[Related Links]</span>
+</p>
+<p>
+	<a href="https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1472">https://portal.msrc.microsoft.com/zh-CN/security-guidance/advisory/CVE-2020-1472</a>
+</p>
+<p>&nbsp;</p>
+<p>
+	<a href="https://support.microsoft.com/zh-cn/help/4557222/how-to-manage-the-changes-in-netlogon-secure-channel-connections-assoc">https://support.microsoft.com/zh-cn/help/4557222/how-to-manage-the-changes-in-netlogon-secure-channel-connections-assoc</a>
+</p>
+<p>&nbsp;</p>
+<p>
+	<a href="https://www.secura.com/pathtoimg.php?id=2055">https://www.secura.com/pathtoimg.php?id=2055</a>
+</p>
+<p>&nbsp;</p>
+<p>
+	<a href="https://github.com/SecuraBV/CVE-2020-1472/">https://github.com/SecuraBV/CVE-2020-1472/</a>
+</p>
+<p>
+	<br/>
+</p>

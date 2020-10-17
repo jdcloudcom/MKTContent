@@ -946,5 +946,45 @@
 	{
 		"id":956,
 		"title":"Notification of Upgrading Redis Underlayer in East China"
+	},
+	{
+		"id":957,
+		"title":"\\[cn-east-2\\] Notice on Upgrading Virtual Machines, Cloud Disk Service, Cloud Network and Other JD Cloud Products and Services on September 15 from 22:00-24:00"
+	},
+	{
+		"id":958,
+		"title":"Notice on Upgrading Redis Underlayer in North China"
+	},
+	{
+		"id":959,
+		"title":"Announcement on Upgrading Hard Disk Firmware of Compute Node in North China (The First Week)"
+	},
+	{
+		"id":960,
+		"title":"\\[Vulnerability Warning\\] Announcement on Mircrosoft netlogon Privilege Escalation Enhancement Vulnerability"
+	},
+	{
+		"id":961,
+		"title":"\\[cn-south-1\\] Notice on Upgrading Elastic Compute, Network, Storage and Other Services"
+	},
+	{
+		"id":962,
+		"title":"\\[Vulnerability Warning\\] Announcement on Mircrosoft SqlServer Report Services Remote Code Execution Vulnerability"
+	},
+	{
+		"id":963,
+		"title":"Announcement on Services During the National Day and the Mid-Autumn Festival Holidays in 2020"
+	},
+	{
+		"id":964,
+		"title":"Announcement on Upgrading Hard Disk Firmware of Compute Node in North China (The Second Week)"
+	},
+	{
+		"id":965,
+		"title":"\\[cn-east-2\\] Notice on Upgrading Elastic Compute, Network, Storage and Other Services"
+	},
+	{
+		"id":966,
+		"title":"\\[Vulnerability Warning\\] Announcement on Linux af_packet Integer Overflow Vulnerability"
 	}
 ]
