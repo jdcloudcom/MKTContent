@@ -2286,5 +2286,13 @@
 		"jss_key":"News_Content_853",
 		"id":853,
 		"news_title":"1分钟跨科室调看，文登区人民医院看片子就这么简单"
+	},
+	{
+		"summary":"近日，在以“创新驱动数字化转型、智能引领高质量发展”为主题的第三届数字中国建设峰会大数据论坛上，京东智联云副总裁朱冰发表《数字孪生 驱动商业创新》主题演讲，分享了京东在数字经济领域的战略及思考，展望了数字中国、智能社会的美好未来图景。",
+		"image_url":"//img1.jcloudcs.com/cms/8307d067-69c3-4b91-bc80-3334cf5cdcfe20201019172442.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_855",
+		"jss_key":"News_Content_855",
+		"id":855,
+		"news_title":"聚焦商业创新：第三届数字中国建设峰会的“京东方案”"
 	}
 ]
