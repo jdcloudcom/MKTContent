@@ -1,14 +1,18 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdhbase\",\"classTag\":\"\"}],\"desc\":\"列式存储是基于Hadoop且100%兼容HBase协议的高性能、可弹性伸缩、面向列的分布式数据库，轻松支持PB级大数据存储，满足千万级QPS高吞吐随机读写场景。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/8c390255-5fac-47b7-8c16-2ba0701d9cae20180620152331.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|81\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|81\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"列式存储\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdhbase\",\"classTag\":\"\"}],\"desc\":\"云数据库JD NoSQL是基于HBase打造的高可靠、高性能、面向列、可伸缩的PB级分布式存储系统，提供毫秒级的服务，同时配备完善的管理平台，支持自主在线DDL操作，监控查看。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/8c390255-5fac-47b7-8c16-2ba0701d9cae20180620152331.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|81\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|81\"}",
 		"id":224
 	},
 	{
-		"txt":"[{\"proGood\":\"高可靠存储引擎\",\"proName\":\"分布式集群架构、至少3副本架构保障数据可靠性。\"},{\"proGood\":\"服务高可用\",\"proName\":\"HA实时监控系统，单节点故障迅速转移，保障业务不中断 。\"},{\"proGood\":\"兼容生态产品\",\"proName\":\"支持phoenix，支持openTSDB\"}]",
+		"txt":"[{\"proGood\":\"异地双活\",\"proName\":\"保证数据和业务SLA的万无一失\"},{\"proGood\":\"毫秒级读写\",\"proName\":\"支持PB级别数据的随机、实时读写\"},{\"proGood\":\"自动扩容\",\"proName\":\"磁盘及节点可灵活扩容，支持无限扩展\"}]",
 		"id":225
 	},
 	{
-		"txt":"[{\"funcContent\":[{\"funcP\":\"默认双主节点，支持高可用且实时检测，保障业务高可靠；core节点故障时，region可秒级切换。\",\"funcTitle\":\"支持HA模式\"}],\"funcName\":\"集群架构高可用\"},{\"funcContent\":[{\"funcP\":\"磁盘及节点可灵活扩容，可轻松扩展到千台规模，满足千万级QPS及数PB存储空间。\",\"funcTitle\":\"支持节点灵活扩容\"}],\"funcName\":\"集群弹性扩展\"},{\"funcContent\":[{\"funcP\":\"ACL权限控制，多层网络防护机制，抵御90%恶意数据损毁\",\"funcTitle\":\"支持权限控制\"}],\"funcName\":\"集群防护保障\"}]",
+		"txt":"[{\"funcContent\":[{\"funcP\":\"支持HBase低成本存储，存储成本降低50%以上。\",\"funcTitle\":\"灵活扩展\"}],\"funcName\":\"低成本存储\"},{\"funcContent\":[{\"funcP\":\"管理控制平台可对集群进行扩容，修改配置参数、重启等。\",\"funcTitle\":\"可视化的管控界面\"}],\"funcName\":\"可视化管理\"},{\"funcContent\":[{\"funcP\":\"高可用架构，Master互为主备模式，且HA实时检测，保障业务高可靠。\\n\",\"funcTitle\":\"主备机制\"}],\"funcName\":\"架构高可用\\t\"},{\"funcName\":\"限额&限速\",\"funcContent\":[{\"funcTitle\":\"合理利用资源\",\"funcP\":\"提供NameSpace、表、用户不同粒度的限额、限速，保障合理利用资源。\"}]}]",
 		"id":226
+	},
+	{
+		"txt":"[{\"name\":\"金融风控场景\",\"instruction\":\"支持结构化和非结构化的数据毫秒级响应，通过整合与分析用户交易、企业数据和爬虫抓取信息，帮助客户构建关联分析、信用评分，提供大数据金融风控服务。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"搜索推荐场景\",\"instruction\":\"高效存储用户行为数据，构建用户画像。根据用户画像和用户搜索实时推荐业务，提升用户体验。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Feeds流场景\",\"instruction\":\"使用JD NoSQL来存储评价信息、问答信息、瀑布流、朋友圈等数据。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"监控场景\",\"instruction\":\"支持时序数据高效低成本处理，适合物联网、监控、金融K线等多个应用场景。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2159
 	}
 ]
