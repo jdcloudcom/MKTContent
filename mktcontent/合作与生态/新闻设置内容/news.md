@@ -2294,5 +2294,13 @@
 		"jss_key":"News_Content_855",
 		"id":855,
 		"news_title":"聚焦商业创新：第三届数字中国建设峰会的“京东方案”"
+	},
+	{
+		"summary":"第九届中国创新创业大赛大中小企业融通专业赛（京东专场）在重庆南岸区正式开赛。大赛聚焦人工智能技术的实际应用，围绕京东智能物流、智能供应链、智能客服和智能硬件四大领域。大赛期间，京东智联云发布重庆定制版SaaS加速器，给当地的企业云服务生态装上强大的“助推器”。",
+		"image_url":"//img1.jcloudcs.com/cms/00dec0eb-ce75-4488-8b64-bcd99acdd67e20201021172200.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_856",
+		"jss_key":"News_Content_856",
+		"id":856,
+		"news_title":"释放京东技术红利，京东智联云发布“SaaS加速器重庆版”"
 	}
 ]
