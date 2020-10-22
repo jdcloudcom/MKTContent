@@ -1,0 +1,29 @@
+<p>您好</p>
+<p>近日，京东云安全团队监测到Oracle官方发布10月份安全更新，其中包含多个oracle产品，其中关于weblogic有5个反序列化漏洞，该漏洞通过T3协议，HTTP，IIOP进行利用，建议尽快修复。</p>
+<p>&nbsp;</p>
+<p>【漏洞描述】</p>
+<p>&nbsp; &nbsp; WebLogic是Oracle公司出品的用于开发、集成、部署和管理大型分布式Web应用、网络应用和数据库应用的Java应用服务器，全球使用广泛。WebLogic的远程方法调用RMI通信使用T3协议，而T3协议与HTTP协议复用7001端口。本漏洞是之前的补丁修复不全面，存在绕过方式。</p>
+<p>&nbsp;</p>
+<p>本次公告包含了以下weblogic漏洞cve</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; CVE-2020-14882</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; CVE-2020-14841</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; CVE-2020-14825</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; CVE-2020-14859</p>
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; CVE-2020-14820</p>
+<p>其中成功利用 CVE-2020-14882 漏洞的远程攻击者可以构造特殊的HTTP请求，在未经身份验证的情况下接管 WebLogic Server ，并在 WebLogic Server 执行任意代码。</p>
+<p>&nbsp;&nbsp;</p>
+<p>【漏洞评级】</p>
+<p>高危</p>
+<p>&nbsp;</p>
+<p>【修复建议】</p>
+<p>&nbsp;</p>
+<p>通用修补建议</p>
+<p>及时更新补丁，参考oracle官网发布的补丁:Oracle Critical Patch Update Advisory - October 2020。</p>
+<p>&nbsp;</p>
+<p>Weblogic 临时修补建议</p>
+<p>1:如果不依赖 T3 协议进行 JVM 通信，禁用 T3 协议</p>
+<p>2:如果不依赖 IIOP 协议进行 JVM 通信，禁用 IIOP 协议</p>
+<p>&nbsp;</p>
+<p>【相关链接】</p>
+<p>https://support.oracle.com/</p>
+<p><br/></p>
