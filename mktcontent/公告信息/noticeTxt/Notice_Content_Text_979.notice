@@ -1,0 +1,29 @@
+<p>您好</p>
+<p>近日，京东云安全团队监测到Apache Kylin有一个restful api会在没有任何认证的情况下暴露配置信息。</p>
+<p>&nbsp;</p>
+<p>【漏洞描述】</p>
+<p>&nbsp; &nbsp; Apache Kylin是一个开源的分布式分析引擎，它最初由eBay开发。Apache Kylin建立在Apache Hadoop，Apache Hive，Apache HBase，Apache Parquet，Apache Calcite，Apache Spark和其他技术之上。这些技术使Kylin可以轻松扩展以支持海量数据负载，当前部分版本存在一个restful api会在没有认可认证的情况下暴露配置信息</p>
+<p>&nbsp;</p>
+<p>【漏洞评级】</p>
+<p>高危</p>
+<p>&nbsp;</p>
+<p>【受影响版本】</p>
+<p>Kylin 2.x.x</p>
+<p>Kylin &lt;= 3.1.0</p>
+<p>Kylin 4.0.0-alpha</p>
+<p>&nbsp;</p>
+<p>【安全版本】</p>
+<p>Kylin 3.1.1</p>
+<p>&nbsp;</p>
+<p>【修复建议】</p>
+<p>升级 Apache Kylin到版本3.1.1。</p>
+<p>&nbsp;</p>
+<p>【漏洞处置】</p>
+<p>目前，官方已发布新版本Apache Kylin 3.1.1 修复了该漏洞，请受影响的用户升级到安全版本：</p>
+<p>下载地址：https://kylin.apache.org/docs/release_notes.html</p>
+<p>或执行以下缓解措施：</p>
+<p>编辑 &quot;$KYLIN_HOME/WEB-INF/classes/kylinSecurity.xml&quot;，删除下列行 &quot;&lt;scr:intercept-url pattern=&quot;/api/admin/config&quot; access=&quot;permitAll&quot;/&gt;&quot;，重启 Kylin实例以使其生效。</p>
+<p>&nbsp;</p>
+<p>【相关链接】</p>
+<p>https://www.mail-archive.com/dev@kylin.apache.org/msg12170.html</p>
+<p><br/></p>
