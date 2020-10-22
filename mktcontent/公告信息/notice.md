@@ -986,5 +986,41 @@
 	{
 		"id":966,
 		"title":"\\[Vulnerability Warning\\] Announcement on Linux af_packet Integer Overflow Vulnerability"
+	},
+	{
+		"id":967,
+		"title":"\\[cn-east-2\\] Notification of Upgrading Network Load Balancer and Cloud File Service"
+	},
+	{
+		"id":968,
+		"title":"\\[cn-north-1\\] Notification of Upgrading Network Load Balancer and Cloud File Service"
+	},
+	{
+		"id":969,
+		"title":"\\[Vulnerability Warning\\] Security Announcement on Multiple DPDK Vulnerabilities"
+	},
+	{
+		"id":970,
+		"title":"Notification of Upgrading General Specification Services in North China by Cloud File Service (CFS)"
+	},
+	{
+		"id":971,
+		"title":"\\[cn-south-1\\] Notification of Upgrading Application Load Balancer Service"
+	},
+	{
+		"id":972,
+		"title":"Notification of Upgrading VPN Services"
+	},
+	{
+		"id":973,
+		"title":"\\[cn-east-2\\] Notification of Upgrading Application Load Balancer Service"
+	},
+	{
+		"id":974,
+		"title":"\\[cn-north-1\\] Notification of Upgrading Application Load Balancer Service"
+	},
+	{
+		"id":976,
+		"title":"\\[Vulnerability Warning\\] Mircosoft TCP/IP Remote Code Execution Vulnerability Risk Advertisement (CVE-2020-16898)"
 	}
 ]

@@ -2110,5 +2110,13 @@
 		"jss_key":"News_Content_852",
 		"id":852,
 		"news_title":"JD Cloud & AI Released the First Cabinet-type Server with Standard Design Supporting Plug and Play"
+	},
+	{
+		"summary":"Last year, Wendeng District People's Hospital upgraded its data center deployment plan. Under the technical support of JD Cloud & AI, a JDSystem All-in-one Machine was deployed, which optimized the functions and usages of both new and old equipment, improved the fluency and security of the information system of the hospital. Not only has the business of the hospital run efficiently and stably, but also patients have been provided with a more convenient, more intelligent, and more secure medical services experience.",
+		"image_url":"//img1.jcloudcs.com/cms/92128f7e-bff9-4b94-bef8-33b1ea412f7320201013090514.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_853",
+		"jss_key":"News_Content_853",
+		"id":853,
+		"news_title":"So Easy to Fetch Your Images Across Departments of Wendeng District People's Hospital Within Just 1 Minute"
 	}
 ]

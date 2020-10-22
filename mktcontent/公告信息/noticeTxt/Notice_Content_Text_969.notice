@@ -1,0 +1,79 @@
+<p style="text-align:left;text-indent:32px">
+<span style="font-size: 16px;font-family:宋体">
+Hello, the JD Cloud security team recently monitored multiple security announcements officially issued by DPDK on the vhost crypto component, and the most serious one is the code execution vulnerability. Therefore, JD Cloud recommends you to upgrade DPDK to the latest version.
+</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Description]</span>
+</p>
+<p>
+<span style="font-size:16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">CVE-2020-14374: </span>
+<span style="font-size: 16px;color:black;letter-spacing:1px">Code execution vulnerability</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">
+The border inspection by the &nbsp;copy_data&nbsp; function in DPDK&nbsp;vhost_crypto.c&nbsp; is incorrect, resulting in a buffer overflow vulnerability. Attackers in the virtual environment can use this buffer overflow vulnerability to duplicate arbitrary data to any address in the vhost_crypto application, causing code execution. This vulnerability can be used to execute code in the vhost_crypto process and cause the virtual environment to escape.
+</p>
+<p><span style="font-size:16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">
+CVE-2020-14375: Buffer/Stack Overflow Vulnerability
+</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">
+The data in the Virtio Ring descriptor and memory area in DPDK&nbsp;vhost_crypto.c&nbsp; can be accessed by the virtual machine and the host. Attackers in the virtual environment can cause a buffer overflow by modifying the content of the memory area after relevant functions of vhost_crypto.c are verified, and result in code execution when the conditions of CVE-2020-14374&nbsp; are met.
+</p>
+<p><span style="font-size:16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">
+CVE-2020-14376: Buffer/Stack Overflow Vulnerability
+</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">
+When DPDK&nbsp;vhost_crypto.c&nbsp; replicates the &nbsp;iv_data&nbsp; data from a virtual environment, there is a buffer overflow vulnerability. Attackers in the virtual environment can replicate up to 4G data to the iv_data buffer by controlling the &nbsp;cipher-&gt;para.iv_len&nbsp; parameter, causing a buffer overflow and then code execution under certain conditions.
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white"><span style="font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing: 1px">
+CVE-2020-14377: Buffer/Stack Overflow Vulnerability
+</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">
+In DPDK&nbsp;vhost_crypto.c&nbsp;, there is a lack of verification to &nbsp;cipher-&gt;para.dst_data_len&nbsp; resulting in a buffer cross-border reading vulnerability. By controlling this parameter, attackers in the virtual environment can cause &nbsp; the buffer cross-border reading vulnerability. This vulnerability can read a large amount of host memory content into the virtual environment, and be combined with &nbsp;CVE-2020-14374&nbsp; to read data of any &nbsp;vhost_crypto&nbsp; process.
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white"><strong><span style="font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">&nbsp;</span>
+</strong></p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white"><span style="font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing: 1px">
+CVE-2020-14378: Denial of Service Vulnerability
+</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">
+There is an integer overflow vulnerability in the move_desc function in DPDK&nbsp;vhost_crypto.c. Attackers in the virtual environment can cause a denial of services by triggering this vulnerability. This vulnerability can cause the execution of long-running loops. The move_desc function can be trapped in iterative loops for up to &nbsp;4,294,967,295&nbsp; times. At the same time, depending on the method to use vhost_crypto, this may affect the execution efficiency of other virtual environments or DPDK lcore.
+</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Vulnerability Rating]</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">High Risk</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Affected Versions]</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">dpdk:dpdk: &lt;18.11.10</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">dpdk:dpdk: &lt;19.11.5</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Fix Recommendation]</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">Upgrade to the latest DPDK version</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">DPDK 18.11.10 (LTS)</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white"><em>http://fast.dpdk.org/rel/dpdk-18.11.10.tar.xz</em></p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">DPDK 19.11.5 (LTS)</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white"><em>https://fast.dpdk.org/rel/dpdk-19.11.5.tar.xz</em></p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">[Related Links]</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">1. Bug 272 - DPDK Virtio Crypto Vulnerabilities and Issues</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">https://bugs.dpdk.org/show_bug.cgi?id=272</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">2. DPDK security advisory for multiple vhost crypto issues</p>
+<p style="text-align:justify;text-justify:inter-ideograph;line-height:28px;background:white">https://seclists.org/oss-sec/2020/q3/200</p>
+<p><br/></p>
