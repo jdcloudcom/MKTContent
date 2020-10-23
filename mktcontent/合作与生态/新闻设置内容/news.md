@@ -2302,5 +2302,13 @@
 		"jss_key":"News_Content_856",
 		"id":856,
 		"news_title":"释放京东技术红利，京东智联云发布“SaaS加速器重庆版”"
+	},
+	{
+		"summary":"在第八届“2020亚太内容分发大会”的金秒奖颁奖典礼上，京东智联云凭借在边缘计算领域的技术实力与创新实践，荣获“边缘计算领航企业”奖项。大会同步举行领袖论坛，京东智联云高级总监魏伟，围绕《数智连接-京东智联云融合RTC平台和应用场景》主题演讲，详细介绍了京东智联云在视频云领域的技术与实践。",
+		"image_url":"//img1.jcloudcs.com/cms/b069c902-e1d5-4e00-bc1b-9b38680afdc520201023153544.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_857",
+		"jss_key":"News_Content_857",
+		"id":857,
+		"news_title":"领跑视频云技术服务，京东智联云荣获“边缘计算领航企业”奖"
 	}
 ]
