@@ -2310,5 +2310,21 @@
 		"jss_key":"News_Content_857",
 		"id":857,
 		"news_title":"领跑视频云技术服务，京东智联云荣获“边缘计算领航企业”奖"
+	},
+	{
+		"summary":"在10月24召开的2020中国开源年会 (COSCon'20) 主会场上，京东智联云高级总监、专家架构师张成远通过《Cloud Native 时代，开源软件的机遇与挑战》主题演讲，从开源软件和云的特点，以及开源遇到云产生的变化等方面，阐述了云计算给开源带来的机遇和挑战。",
+		"image_url":"//img1.jcloudcs.com/cms/c1123928-083b-41e3-9af3-db331b822a5720201029155604.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_858",
+		"jss_key":"News_Content_858",
+		"id":858,
+		"news_title":"京东智联云参加2020中国开源年会，共探“开源向善”"
+	},
+	{
+		"summary":"10月27日，京东智联云与北理新源在武汉经开区成立联合实验室，标志着京东智联云全面加码智能车联网领域，加速开拓智能交通新局面。",
+		"image_url":"//img1.jcloudcs.com/cms/78187d36-d91b-4f6f-bd0b-0910b65881e620201029161556.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_859",
+		"jss_key":"News_Content_859",
+		"id":859,
+		"news_title":"京东智联云加码智能车联网，以“车路协同”构建智能交通"
 	}
 ]
