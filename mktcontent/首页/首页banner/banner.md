@@ -1531,5 +1531,12 @@
 		"id":1300,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"数智未来",
+		"id":1302,
+		"button_title":"",
+		"main_title":""
 	}
 ]
