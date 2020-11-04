@@ -2326,5 +2326,13 @@
 		"jss_key":"News_Content_859",
 		"id":859,
 		"news_title":"京东智联云加码智能车联网，以“车路协同”构建智能交通"
+	},
+	{
+		"summary":"以往大促，消费者在网上买得热火朝天，工程师却要频繁出入闷热的机房，确保数据中心的安全稳定运行。而在今年即将到来的11.11，北京的工程师小李轻松很多，因为他将通过京东智联云Smart IDC平台，远程对机房各模组集中管理，实时监控各地机房设备的温度、电压、电流、功率、运行状态等信息。",
+		"image_url":"//img1.jcloudcs.com/cms/5de2e79a-bbe4-402a-b954-edd97811604020201104100554.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_860",
+		"jss_key":"News_Content_860",
+		"id":860,
+		"news_title":"Smart IDC平台，产业数智化转型不容忽视的“核心关键”"
 	}
 ]
