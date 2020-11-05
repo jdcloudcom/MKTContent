@@ -1,0 +1,54 @@
+<p style="text-align:left;text-indent:32px"><span style="font-size: 16px;font-family:宋体">您好近日，京东云安全团队监测到Saltstack官方发布多个高危漏洞的风险通告。其中标识为严重的有两个（cve-2020-16846/cve-2020-25592）。对此京东云建议广大用户下载升级安全补丁文件。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">SaltStack,</span>
+<span style="font-size:16px;font-family:宋体">一种全新的基础设施管理方式，部署轻松，在几分钟内可运行起来，扩展性好，很容易管理上万台服务器，速度够快，服务器之间秒级通讯。salt底层采用动态的连接总线, 使其可以用于编配, 远程执行, 配置管理等等。</span>
+</p>
+<p><span style="font-size:16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">CVE-2020-16846: </span>
+<span style="font-size: 16px;color:black;letter-spacing:1px">命令注入漏洞</span>
+<span style="font-size:16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing: 1px">&nbsp;&nbsp; </span>
+</p>
+<p style="text-align:left;text-indent:24px"><span style="font-size: 16px;font-family:宋体">未经过身份验证的攻击者通过发送特制请求包，可通过 Salt API 注入 ssh 连接命令，导致命令执行。</span>
+</p>
+<p><span style="font-size:16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">CVE-2020-25592: </span>
+<span style="font-size: 16px;color:black;letter-spacing:1px">验证绕过漏洞</span>
+</p>
+<p style="text-align:left;text-indent:28px"><span style="font-size:16px;font-family:宋体">在验证 eauth 凭据和访问控制列表 ACL 时存在一处验证绕过漏洞。未经过身份验证的远程攻击者通过发送特制的请求包，可以通过 salt-api 绕过身份验证，并使用 salt ssh 连接目标服务器。结合 CVE-2020-16846 可能造成命令执行</span>
+<span style=";font-family:&#39;微软雅黑&#39;,sans-serif;color:#333333;background:white">。</span>
+</p>
+<p><span style="font-size:16px;font-family:&#39;Helvetica Neue&#39;;color:black;letter-spacing:1px">CVE-2020-17490: </span>
+<span style="font-size: 16px;color:black;letter-spacing:1px">逻辑漏洞</span>
+</p>
+<p style="text-align:left;text-indent:28px"><span style="font-size:16px;font-family:宋体">执行模块中函数 create_ca，create_csr 和 create_self_signed_cert 中存在逻辑漏洞，不能确保密钥使用正确的权限创建。本地攻击者通过以低权限用户登录 salt 主机，可以从当前 salt 程序主机上读取到密钥内容。导致信息泄漏。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p style="text-align:left"><span style=";font-family:&#39;微软雅黑&#39;,sans-serif;color:#333333;background:white">saltstack :2015/2016/2017/2018/2019/3000/3001/3002</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="margin-bottom:16px;background:white">从官方下载对应版本的修复补丁，SaltStack修复补丁下载地址：</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:16px;margin-left: 0;background:white"><a href="https://gitlab.com/saltstack/open/salt-patches"><span style="color:windowtext;text-underline:none">https://gitlab.com/saltstack/open/salt-patches</span>
+</a></p>
+<p style="margin-top:0;background:white">若暂时无法打上补丁，在业务允许的情况下，通过限制系统访问来源ip，降低风险。</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p style="text-align:left"><span style=";font-family:&#39;Helvetica Neue&#39;;color:#954F72"><a href="https://www.saltstack.com/blog/on-november-3-2020-saltstack-publicly-disclosed-three-new-cves/"><span style="color:#954F72">https://www.saltstack.com/blog/on-november-3-2020-saltstack-publicly-disclosed-three-new-cves/</span>
+</a></span>
+</p>
+<p><br/></p>
