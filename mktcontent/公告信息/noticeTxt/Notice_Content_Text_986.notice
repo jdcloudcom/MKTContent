@@ -1,0 +1,44 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测到XXL-JOB API接口存在未授权访问远程命令执行漏洞。XXL-JOB是一个轻量级分布式任务调度平台。默认情况下XXL-JOB的Restful API接口或RPC接口没有配置认证措施，未授权的攻击者可构造恶意请求，造成远程执行命令，直接控制服务器。。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; XXL-JOB</span>
+<span style="font-size:16px;font-family:宋体">的Restful API接口或RPC接口没有配置认证措施，未授权的攻击者可构造恶意请求，造成远程执行命令</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">XXL-JOB &lt;= 2.2.0</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left"><span style="font-size:16px;font-family:宋体">1.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体;color:#333333;background:white">开启</span>
+<span style="font-size:16px;font-family:&#39;Apple Color Emoji&#39;;color:#333333;background:white"> XXL-JOB </span>
+<span style="font-size:16px;font-family:宋体;color:#333333;background:white">自带的鉴权组件：官方文档中搜索</span>
+ <span style="font-size:16px;font-family:&#39;Times New Roman&#39;,serif;color:#333333;background:white">“</span>
+<span style="font-size:16px;font-family:&#39;Apple Color Emoji&#39;;color:#333333;background: white">xxl.job.accessToken</span>
+<span style="font-size:16px;font-family:&#39;Times New Roman&#39;,serif;color:#333333;background:white">”</span>
+ <span style="font-size:16px;font-family:宋体;color:#333333;background:white">，按照文档说明启用即可。</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-size:16px;font-family:宋体">2.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp; </span>
+</span>
+<span style="font-size:16px;font-family:宋体">端口访问限制：通过配置安全组限制只允许指定IP才能访问端口</span>
+</p>
+<p><br/></p>
