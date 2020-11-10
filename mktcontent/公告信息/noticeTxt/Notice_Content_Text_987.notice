@@ -1,0 +1,65 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测到网络上披露了7月份Apache Tomcat漏洞（CVE-2020-13935）的验证代码（poc）。攻击者可利用此代码对使用了tomcat 内置websocket组件，但没有升级的tomcat版本发起拒绝服务攻击。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p style="text-align:left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:16px;font-family:宋体">Apache Tomcat WebSocket</span>
+<span style="font-size:16px;font-family:宋体">拒绝服务漏洞是由于WebSocket帧中的攻击载荷长度未正确验证导致，无效的攻击载荷长度可能会触发无限循环，如果有大量的包含无效攻击载荷长度的请求发生，可能会导致拒绝服务。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">中危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">Apache Tomcat 10.0.0-M1</span>
+<span style="font-size:16px;font-family:宋体">至10.0.0-M6</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">Apache Tomcat 9.0.0.M1</span>
+<span style="font-size:16px;font-family:宋体">至9.0.36</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">Apache Tomcat 8.5.0</span>
+<span style="font-size:16px;font-family:宋体">至8.5.56</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">Apache Tomcat 7.0.27</span>
+<span style="font-size:16px;font-family:宋体">至7.0.104</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【安全版本】</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">Apache Tomcat 10.0.0-M7</span>
+<span style="font-size:16px;font-family:宋体">或更高版本</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">Apache Tomcat 9.0.37</span>
+<span style="font-size:16px;font-family:宋体">或更高版本</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">Apache Tomcat 8.5.57</span>
+<span style="font-size:16px;font-family:宋体">或更高版本</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">检查你的网站或系统是否使用到Websocket协议并使用了tomcat的内置版本</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">请你选择合理时间进行升级操作，升级到修复版本，避免影响业务。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">CVE-2020-13935</span>
+<span style="font-size:16px;font-family:宋体">：<a href="https://www.openwall.com/lists/oss-security/2020/07/14/3" title="https://www.openwall.com/lists/oss-security/2020/07/14/3"><span style="color:windowtext;text-underline:none">https://www.openwall.com/lists/oss-security/2020/07/14/3</span>
+</a></span>
+</p>
+<p><br/></p>
