@@ -2334,5 +2334,13 @@
 		"jss_key":"News_Content_860",
 		"id":860,
 		"news_title":"Smart IDC平台，产业数智化转型不容忽视的“核心关键”"
+	},
+	{
+		"summary":"“夫子”，是基于京东智联云AI能力打造的智能客服产品。通过高度还原客服工作的真实会话场景，“夫子”能够让客服人员在不面对顾客的情况下，体验到最接近真实的接线过程。在培训过程中，“夫子”化身为私人教练，“手把手”地让客服人员快速熟悉工作内容，极大程度节省了培训人员的指导时间。",
+		"image_url":"//img1.jcloudcs.com/cms/77294577-fa5b-4a17-865b-1a975361b62920201110103157.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_861",
+		"jss_key":"News_Content_861",
+		"id":861,
+		"news_title":"机器人“夫子”，你的一对一“私教”"
 	}
 ]
