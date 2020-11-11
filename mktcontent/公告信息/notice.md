@@ -1138,5 +1138,13 @@
 	{
 		"id":987,
 		"title":"【漏洞预警】Apache Tomcat websocket拒绝服务漏洞安全公告(CVE-2020-13935)"
+	},
+	{
+		"id":988,
+		"title":"公网IP、负载均衡、NAT网关服务条款更新通知"
+	},
+	{
+		"id":989,
+		"title":"【漏洞预警】Mircosoft windows系统nfsv3远程代码执行漏洞风险通告(CVE-2020-17051)"
 	}
 ]
