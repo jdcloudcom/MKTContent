@@ -2342,5 +2342,13 @@
 		"jss_key":"News_Content_861",
 		"id":861,
 		"news_title":"机器人“夫子”，你的一对一“私教”"
+	},
+	{
+		"summary":"今年京东11.11期间，京东智联云自主研发的智能情感客服系统，以一个专业、有情感、会“未问而先知”的客服形象频频出现，且能够在“导购”“客服”“售后”等身份间自如切换，给无数消费者带来了全新的交互体验。",
+		"image_url":"//img1.jcloudcs.com/cms/4a3f85bd-c7ea-469f-b402-38cecaf82f1120201111141431.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_862",
+		"jss_key":"News_Content_862",
+		"id":862,
+		"news_title":"京东智能客服，京东11.11再秀“高情商”"
 	}
 ]
