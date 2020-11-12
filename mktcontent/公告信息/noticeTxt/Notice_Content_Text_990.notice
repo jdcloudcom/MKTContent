@@ -1,0 +1,65 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">2020</span>
+<span style="font-size:16px;font-family:宋体">年11月11日，京东云安全团队监测微软发布风险通告，修复了由Google Project Zero和TAG安全团队10月30日披露的windows kernel整形数字溢出漏洞，编号cve-2020-17087。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; Windows</span>
+<span style="font-size:16px;font-family:宋体">的cng.sys驱动程序中的CfgAdtpFormatPropertyBlock函数&nbsp;</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">在处理本地用户提交的参数时，导致一个16bit整形数字溢出。利用此漏洞可以成功逃逸chrome浏览器的安全沙箱。</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+<span style="font-size:16px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#333333;letter-spacing:1px">&nbsp;</span>
+</p>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:28px;text-align:left;line-height:28px;background:white"><span style="font-size:16px;font-family:宋体">1：microsoft:windows 7&nbsp;: *</span>
+</p>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:28px;text-align:left;line-height:28px;background:white"><span style="font-size:16px;font-family:宋体">2：microsoft:windows 8&nbsp;: *</span>
+</p>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:28px;text-align:left;line-height:28px;background:white"><span style="font-size:16px;font-family:宋体">3：microsoft:windows 10&nbsp;: *</span>
+</p>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:28px;text-align:left;line-height:28px;background:white"><span style="font-size:16px;font-family:宋体">4：microsoft:windows server 2008&nbsp;: *</span>
+</p>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:28px;text-align:left;line-height:28px;background:white"><span style="font-size:16px;font-family:宋体">5：microsoft:windows server 2012&nbsp;: *</span>
+</p>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:28px;text-align:left;line-height:28px;background:white"><span style="font-size:16px;font-family:宋体">6：microsoft:windows server 2016&nbsp;: *</span>
+</p>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:28px;text-align:left;line-height:28px;background:white"><span style="font-size:16px;font-family:宋体">7：microsoft:windows server 2019&nbsp;: *</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="margin-top:auto;margin-bottom:auto;text-indent:24px;line-height:28px;background:white"><span style="font-size:16px;font-family:宋体">及时更新官方最新补丁，下载地址如下：</span>
+</p>
+<p style="margin-top:auto;margin-bottom:auto;text-indent:24px;line-height:28px;background:white"><span style="font-size:16px;font-family:宋体">Windows </span>
+<span style="font-size:16px;font-family:宋体">网络文件系统远程代码执行漏洞</span>
+</p>
+<p style="margin-top:auto;margin-bottom:auto;line-height:28px;background:white"><em><span style="font-size:16px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#0080FF;letter-spacing:1px">https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2020-17087</span>
+</em></p>
+<p style="text-align:left;background:white;vertical-align:baseline"><span style="font-size: 16px;font-family:宋体">&nbsp;</span>
+</p>
+<p style="margin-left:20px;text-align:left;background:white;vertical-align:baseline"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p style="text-align:left"><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-17087"><span style="font-size:16px;font-family:宋体">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-17087</span>
+</a></p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p style="text-align:left"><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=2104"><span style="font-size:16px;font-family:宋体">https://bugs.chromium.org/p/project-zero/issues/detail?id=2104</span>
+</a></p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><br/></p>
