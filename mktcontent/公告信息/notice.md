@@ -1146,5 +1146,9 @@
 	{
 		"id":989,
 		"title":"【漏洞预警】Mircosoft windows系统nfsv3远程代码执行漏洞风险通告(CVE-2020-17051)"
+	},
+	{
+		"id":990,
+		"title":"【漏洞预警】Microsoft windows系统本地提权漏洞安全公告(CVE-2020-17087）"
 	}
 ]
