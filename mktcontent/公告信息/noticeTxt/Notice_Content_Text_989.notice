@@ -21,33 +21,21 @@
 <p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
 <span style="font-size:16px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#333333;letter-spacing:1px">&nbsp;</span>
 </p>
-<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:Wingdings">n<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:Wingdings"><span style="font:9px &#39;Times New Roman&#39;">&nbsp;</span>
 </span>
 <span style="font-size:16px;font-family:宋体">microsoft:windows 7&nbsp;: *</span>
 </p>
-<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:Wingdings">n<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
-</span>
-<span style="font-size:16px;font-family:宋体">microsoft:windows 8&nbsp;: *</span>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:宋体">microsoft:windows 8&nbsp;: *</span>
 </p>
-<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:Wingdings">n<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
-</span>
-<span style="font-size:16px;font-family:宋体">microsoft:windows 10&nbsp;: *</span>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:宋体">microsoft:windows 10&nbsp;: *</span>
 </p>
-<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:Wingdings">n<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
-</span>
-<span style="font-size:16px;font-family:宋体">microsoft:windows server 2008&nbsp;: *</span>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:宋体">microsoft:windows server 2008&nbsp;: *</span>
 </p>
-<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:Wingdings">n<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
-</span>
-<span style="font-size:16px;font-family:宋体">microsoft:windows server 2012&nbsp;: *</span>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:宋体">microsoft:windows server 2012&nbsp;: *</span>
 </p>
-<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:Wingdings">n<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
-</span>
-<span style="font-size:16px;font-family:宋体">microsoft:windows server 2016&nbsp;: *</span>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:宋体">microsoft:windows server 2016&nbsp;: *</span>
 </p>
-<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:Wingdings">n<span style="font:9px &#39;Times New Roman&#39;">&nbsp; </span>
-</span>
-<span style="font-size:16px;font-family:宋体">microsoft:windows server 2019&nbsp;: *</span>
+<p class="MsoListParagraph" style="margin-top:auto;margin-bottom: auto;margin-left:56px;line-height: 28px;background:white"><span style="font-size:16px;font-family:宋体">microsoft:windows server 2019&nbsp;: *</span>
 </p>
 <p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
 </p>
@@ -66,7 +54,7 @@
 </p>
 <p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
 </p>
-<p style="text-align:left"><span style="font-size:16px;font-family:宋体">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898</span>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-17051</span>
 </p>
 <p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
 </p>
