@@ -1545,5 +1545,12 @@
 		"id":1304,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"开发者活动",
+		"id":1306,
+		"button_title":"",
+		"main_title":""
 	}
 ]
