@@ -1150,5 +1150,9 @@
 	{
 		"id":990,
 		"title":"【漏洞预警】Microsoft windows系统本地提权漏洞安全公告(CVE-2020-17087）"
+	},
+	{
+		"id":991,
+		"title":"【漏洞预警】ThoughtWorks XStream远程反序列化代码执行漏洞安全公告(CVE-2020-26217)"
 	}
 ]
