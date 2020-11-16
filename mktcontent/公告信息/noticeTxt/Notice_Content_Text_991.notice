@@ -1,0 +1,43 @@
+<p style="text-align: left;"><span style="font-family: 宋体; text-indent: 28px;">您好</span>
+<br/></p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测XStream官方发布安全更新，修复了 CVE-2020-26217 XStream远程代码执行漏洞。攻击者通过构造恶意的XML文档，可绕过XStream的黑名单，触发反序列化，从而造成远程代码执行漏洞，控制服务器</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">XStream</span>
+<span style="font-size:16px;font-family:宋体">是一个常用的Java对象和XML相互转换的工具，未对输入的xml做安全有效性控制，攻击者通过构造恶意的XML文档，触发反序列化，从而造成远程代码执行漏洞。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">XStream &lt; 1.4.14</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【安全版本】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">XStream 1.4.14</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">针对使用到XStream组件的web服务升级XStream至最新版本</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p><a href="http://x-stream.github.io/CVE-2020-26217.html">http://x-stream.github.io/CVE-2020-26217.html</a></p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><br/></p>
