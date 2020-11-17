@@ -59,7 +59,7 @@
                                                href="https://www.jdcloud.com/cn/products/sd-wan">SD-WAN</a></li>
                                         <li><a target="_blank" data-ga="TopNavSec_句法分析"
                                                clstag="IDCChannel|keycount|Header|direct-link"
-                                               href="https://www.jdcloud.com/cn/products/direct-link">专线互联</a></li>
+                                               href="https://www.jdcloud.com/cn/products/direct-link">数据同步服务</a></li>
                                     </ul>
                                 </div>
                             </li>
@@ -306,7 +306,7 @@
                                     <a clstag="Channel_IDC|keycount|Floor5|Link_0"
                                        href="https://www.jdcloud.com/cn/products/direct-link"
                                        target="_blank" class="mr10"
-                                    >专线互联</a>
+                                    >数据同步服务</a>
                                 </p>
 
                             </div>
