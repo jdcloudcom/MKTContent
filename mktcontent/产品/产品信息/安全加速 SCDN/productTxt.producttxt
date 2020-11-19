@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"安全加速 SCDN\",\"label\":[{\"TitleName\":\"售前咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"},{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://scdn-console.jdcloud.com/create\",\"classTag\":\"\"}],\"desc\":\"安全加速SCDN是京东智联云与网络性能安全公司 Cloudflare战略合作的安全内容加速产品。为在中国开展业务的跨国公司以及覆盖全球的中国公司提供更快、更安全的互联网安全加速服务。\"}",
+		"id":2172
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"国际战略合作\",\"proName\":\"京东智联云SCDN与国际知名网络安全性能功能Cloudflare战略合作共同打造， 融合双方的优质产品能力、技术优势、节点资源，共同打造稳定、安全、高性能的应用加速防护产品\"},{\"showShade\":false,\"proGood\":\"高效快速接入\",\"proName\":\"京东智联云SCDN提供了快速的域名半接入方式，接入方式简单，轻松易用的自助配置，使站点快速具备安全加速能力\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"海量带宽与性能\",\"proName\":\"京东智联云SCDN全网节点可达600w QPS并发处理能力，国内节点分布广泛，覆盖三大运营商海量带宽，可提供高质量的服务速度和性能\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"一站式安全防护加速\",\"proName\":\"SCDN具备内容缓存能力，同时提供应用攻击防护能力、DDoS攻击防护能力，一站式解决站点安全、加速的需求\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高效优质节点\",\"proName\":\"全节点全SSD固态硬盘读写，大幅减少用户访问时间，优质的节点控制程序优化CPU多核处理，高效使用内存，最大化高效吞吐，单节点性能优异\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"简易半接入 \",\"proName\":\"支持Cname的方式接入域名，用户无需全部接入，根据实际需要灵活选择，接入方式简单\"}]",
+		"id":2173
+	},
+	{
+		"txt":"[{\"funcName\":\"高级安全防护\",\"funcContent\":[{\"funcTitle\":\"大规模DDoS攻击防护\",\"funcP\":\"SCDN全网节点带宽500G带宽容量，节点持续扩容建设，计划超过TB级别容量，轻松防御HTTP Flood、UDP Flood、TCP Flood、QUIC Flood等大规模DDoS攻击\"},{\"funcTitle\":\"应用安全防御\",\"funcP\":\"SCDN 提供Web 攻击防护能力，基于Cloudflare合作的预定义规则集，经过全球客户训练。具有低漏报误报率、高安全性的特点，可精准高效地防御应用层安全威胁\"}]},{\"funcName\":\"性能优化与加速\",\"funcContent\":[{\"funcTitle\":\"多类型静态资源加速\",\"funcP\":\"支持文件、图片等多种静态资源加速。\"},{\"funcTitle\":\"全站HTTPS接入 多种加密模式选择\",\"funcP\":\"支持客户端与、SCDN、源站之间，灵活加密模式选择，覆盖不同安全等级，根据场景需要灵活匹配\"},{\"funcTitle\":\"URL粒度高级页面规则\",\"funcP\":\"功能详述： 支持灵活的Page Rule设置，用户可自定义页面重定向、自定义缓存设置。\"}]},{\"funcName\":\"高可靠流量调度\",\"funcContent\":[{\"funcTitle\":\"智能DNS解析与调度\",\"funcP\":\"DNS待编写\"}]},{\"funcName\":\"数据分析与监控\",\"funcContent\":[{\"funcTitle\":\"缓存监控\",\"funcP\":\"通过报表分析确切了解您网站上哪些资源已缓存，哪些未缓存。进行配置更改以提高缓存命中率，根据提供的请求和数据传输，获取网站性能的仪表板视图，以优化性能并节省成本；按主机名进行过滤，或者直接在仪表板上使用直观的深入图标查看未能缓存的热门 URL 列表\"}]}]",
+		"id":2174
+	},
+	{
+		"txt":"[{\"name\":\"安全加速应用场景\",\"instruction\":\"正常用户请求与恶意攻击请求，共同经过京东智联云安全加速网络，节点分析识别恶意攻击请求，并立即拦截。分布式高防集群对 DDoS 攻击流量进行清洗，精准的页面规则，以及WAF规则，对于CC、XSS、注入等攻击行为进行拦截。并形成丰富准确的报表以及告警。\\n从距离攻击最近的地方阻断恶意行为，对于正常请求，触发缓存，从而使得请求加速。充分保障业务访问高效、快速、安全、稳定。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"安全加速 SCDN\",\"url\":\"//www.jdcloud.com/products/scdn\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f0482212-bf4d-430d-818c-3ef5a908cdb020201023181553.png\",\"showShade\":false}]",
+		"id":2175
+	}
+]
