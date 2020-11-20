@@ -2350,5 +2350,29 @@
 		"jss_key":"News_Content_862",
 		"id":862,
 		"news_title":"京东智能客服，京东11.11再秀“高情商”"
+	},
+	{
+		"summary":"科技实力撬动中国人工智能市场新格局。近日，全球权威分析机构Forrester最新发布《The Forrester Wave™：中国预测分析与机器学习解决方案厂商评测2020Q4》报告（以下简称“报告”）。凭借在人工智能领域的持续投入和飞速发展，京东智联云首次参评即强势进入“卓越表现者”阵营。",
+		"image_url":"//img1.jcloudcs.com/cms/e79761a9-1da6-4561-98fe-53993efd3b7020201120151119.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_863",
+		"jss_key":"News_Content_863",
+		"id":863,
+		"news_title":"业界权威报告发布：京东智联云首次参评即跻身机器学习卓越表现者阵营"
+	},
+	{
+		"summary":"2020京东11.11全球热爱季正式落下帷幕，截至11月11日24时，京东平台累计下单金额超2715亿元，成交额同比增长33％，再次打破记录。在这场2715亿元全民狂欢的背后， 京东智联云再度发挥出京东技术基石的本色，以全面、稳定、安全、可信赖的技术支撑，扛住来自“数字世界”汹涌的数据洪流，守护住每个人的每一份热爱。",
+		"image_url":"//img1.jcloudcs.com/cms/0c016250-f942-4668-a670-f873c3af147720201120181004.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_864",
+		"jss_key":"News_Content_864",
+		"id":864,
+		"news_title":"产业数智化赋能的云原生平台 为京东11.11保驾护航"
+	},
+	{
+		"summary":"发于京东，又不止于京东。京东智联云以技术驱动客服行业数智升级，智能人机交互品牌“言犀”也将于11月25日在2020京东全球科技探索者大会上正式发布，持续为各个行业输出全栈AI能力。",
+		"image_url":"//img1.jcloudcs.com/cms/8b8bf3e3-b98c-4ae8-b088-22d62f313f8d20201120183016.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_865",
+		"jss_key":"News_Content_865",
+		"id":865,
+		"news_title":"智能客服战报"
 	}
 ]
