@@ -1,0 +1,27 @@
+<p>近日，京东云安全团队监测到骑士CMS官方发布安全更新，修复了一处远程代码执行漏洞。</p>
+<p>&nbsp;</p>
+<p>【漏洞描述】</p>
+<p>&nbsp;&nbsp;&nbsp; 骑士CMS是一套基于PHP+MYSQL的免费网站管理系统。骑士CMS官方发布安全更新，修复了一处远程代码执行漏洞。由于骑士系统的assign_resume_tpl函数存在过滤不严格，攻击者通过构造恶意请求，配合文件包含漏洞可在无需登录的情况下执行任意代码，控制服务器。漏洞利用简单，且相关利用细节已公开。提醒骑士CMS用户尽快采取安全措施阻止漏洞攻击。</p>
+<p>&nbsp;</p>
+<p>【漏洞评级】</p>
+<p>高危</p>
+<p>&nbsp;</p>
+<p>【受影响版本】</p>
+<p>骑士CMS &lt; 6.0.48</p>
+<p>&nbsp;</p>
+<p>【修复建议】</p>
+<p><span style="font-family: 宋体;">1.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp; </span>
+</span>
+<span style="font-family: 宋体;">升级骑士CMS至最新版本</span>
+</p>
+<p>2.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65); background: white;">由于二次开发过或其他原因无法直接升级的站点，建议参考</span>
+<a href="http://www.74cms.com/news/show-2497.html" target="_blank"><span style=";font-family:&#39;微软雅黑&#39;,sans-serif;color:#00B7D3;background:white">&nbsp;http://www.74cms.com/news/show-2497.html&nbsp;</span>
+</a><span style="font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65); background: white;">中具体步骤修改文件进行手动升级</span>
+</p>
+<p>&nbsp;</p>
+<p>【相关链接】</p>
+<p><a href="http://www.74cms.com/news/show-2497.html" target="_blank"><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#00B7D3;background: white">http://www.74cms.com/news/show-2497.html</span>
+</a></p>
+<p>&nbsp;</p>
+<p><br/></p>
