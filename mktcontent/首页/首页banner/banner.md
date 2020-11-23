@@ -1552,5 +1552,19 @@
 		"id":1306,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"JDD大会",
+		"id":1308,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"中小企业",
+		"id":1310,
+		"button_title":"",
+		"main_title":""
 	}
 ]
