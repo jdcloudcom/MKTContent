@@ -1566,5 +1566,12 @@
 		"id":1310,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"NLP高阶实训营",
+		"id":1312,
+		"button_title":"",
+		"main_title":""
 	}
 ]
