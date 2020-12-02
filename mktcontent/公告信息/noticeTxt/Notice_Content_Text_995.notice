@@ -1,0 +1,27 @@
+<p style="text-indent:28px">您好</p>
+<p>近日，京东云安全团队监测到containerd官方发布安全更新，修复了一处容器内部用户权限提升漏洞。&nbsp;</p>
+<p>【漏洞描述】</p>
+<p>&nbsp;&nbsp;&nbsp; Containerd 是一个控制 runC 的守护进程，提供命令行客户端和 API，用于在一个机器上管理容器。在特定网络条件下，容器内攻击者可通过访问containerd-shim API，从而实现容器权限提升。提醒 containerd 用户尽快采取安全措施阻止此漏洞攻击。&nbsp;</p>
+<p>【漏洞评级】</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;高危&nbsp;</p>
+<p>【受影响版本】</p>
+<p style=";margin-bottom:0;line-height:24px;background:white">&nbsp;&nbsp;&nbsp;&nbsp;containerd &lt; 1.4.3</p>
+<p style=";margin-bottom:0;line-height:24px;background:white">&nbsp;&nbsp;&nbsp;&nbsp;containerd &lt; 1.3.9&nbsp;</p>
+<p>【安全版本】</p>
+<p style=";margin-bottom:0;line-height:24px;background:white">&nbsp;&nbsp;&nbsp;&nbsp;containerd &gt;= 1.4.3</p>
+<p style=";margin-bottom:0;line-height:24px;background:white">&nbsp;&nbsp;&nbsp;&nbsp;containerd &gt;= 1.3.9</p>
+<p style=";margin-bottom:0;line-height:24px;background:white">&nbsp;&nbsp;&nbsp;&nbsp;对于不确定是否受影响的用户，可以使用如下命令自查，如果有返回结果，表明存在漏洞。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;$ cat /proc/net/unix | grep &#39;containerd-shim&#39; | grep &#39;@&#39;</p>
+<p>&nbsp;【修复建议】</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-size: 16px; font-family: arial, helvetica, sans-serif;">1.升级 containerd 至最新版本</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-size: 16px; font-family: arial, helvetica, sans-serif;">2.<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp;&nbsp; </span>
+通过添加如 deny unix addr=@**的AppArmor策略禁止访问抽象套接字</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-indent:0"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p>【相关链接】</p>
+<p><a href="https://github.com/containerd/containerd/security/advisories/GHSA-36xw-fx78-c5r4?spm=a2c4g.11174386.n2.3.4f421051WYGqxN">https://github.com/containerd/containerd/security/advisories/GHSA-36xw-fx78-c5r4?spm=a2c4g.11174386.n2.3.4f421051WYGqxN</a></p>
+<p>&nbsp;</p>
+<p><a href="https://research.nccgroup.com/2020/11/30/technical-advisory-containerd-containerd-shim-api-exposed-to-host-network-containers-cve-2020-15257/">https://research.nccgroup.com/2020/11/30/technical-advisory-containerd-containerd-shim-api-exposed-to-host-network-containers-cve-2020-15257/</a></p>
+<p><br/></p>
