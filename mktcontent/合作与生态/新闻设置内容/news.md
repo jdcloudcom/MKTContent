@@ -2374,5 +2374,13 @@
 		"jss_key":"News_Content_865",
 		"id":865,
 		"news_title":"智能客服战报"
+	},
+	{
+		"summary":"11 月 19 日，由InfoQ 发起并组织的“2020中国技术力量年度榜单评选”结果正式揭晓。京东智联云凭借2020中国国际服务贸易交易会数字平台案例，从300多参评项目中脱颖而出，斩获“十大云原生行业”奖项，充分展示了京东会展云非凡的领跑力。",
+		"image_url":"//img1.jcloudcs.com/cms/7c9a507c-ed52-4105-8fb6-c3c39570d13820201204150133.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_866",
+		"jss_key":"News_Content_866",
+		"id":866,
+		"news_title":"展现非凡领跑力，京东会展云斩获“十大云原生行业”奖项"
 	}
 ]
