@@ -1587,5 +1587,12 @@
 		"id":1316,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"企业级大数据集群云服务，快速构建分布式数据分析系统",
+		"name":"jmr产品",
+		"id":1318,
+		"button_title":"",
+		"main_title":"京东智联云弹性MapReduce"
 	}
 ]
