@@ -1,0 +1,42 @@
+<p style="text-indent:28px"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">近日，京东云安全团队监测到Apache Struts2官方发布风险，披露一处代码执行漏洞，编号CVE-2020-17530，S2-061.</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">【漏洞描述】</span>
+</p>
+<p style="text-align:left"><span style="font-size: 16px; font-family: 宋体;">&nbsp;&nbsp;&nbsp; 在如果开发人员使用了%{..}语法强制使用OGNL解析时，某些特殊的TAG属性可能会被双重解析，最终造成代码执行.</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">【漏洞评级】</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">高危</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">【受影响版本】</span>
+</p>
+<p style="text-align:left"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">2.0.0-2.5.25&nbsp;</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">【安全版本】</span>
+</p>
+<p style="text-align:left"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">Struts &gt;= 2.5.26</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">【修复建议】</span>
+</p>
+<p style="text-align:left"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">升级Struts2至最新版本</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">【相关链接】</span>
+</p>
+<p><a href="https://cwiki.apache.org/confluence/display/WW/S2-061?spm=a2c4g.11174386.n2.3.15861051GPHTIx" style="font-size: 16px; color: windowtext; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; text-decoration: underline;"><span style="font-size: 16px; color: windowtext; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">https://cwiki.apache.org/confluence/display/WW/S2-061?spm=a2c4g.11174386.n2.3.15861051GPHTIx</span>
+</a><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p><br/></p>
