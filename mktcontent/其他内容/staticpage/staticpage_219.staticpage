@@ -8,7 +8,7 @@
 
             </div>
         </div>
-        <a href="https://www.jdcloud.com/cn/forms/consultation?name=会展云" target="_blank" clstag="fmh|keycount|Banner|Btn_0" class="jdc-btn jdc-btn-blue">立即咨询</a>
+        <a href="https://www.jdcloud.com/forms/consultation?name=会展云" target="_blank" clstag="fmh|keycount|Banner|Btn_0" class="jdc-btn jdc-btn-blue">立即咨询</a>
     </div>
 </div>
 <!-- widget fmh-banner end -->
@@ -433,7 +433,23 @@
 </div>
 <!-- widget fmh-fl7 end -->
 
+<div class="fl10-connect">
 
+    <div class="bt">
+            <h2 class="bt-tit">
+                品牌荣誉
+            </h2>
+        </div>
+    <div class="connect-bg w">
+        <img class="img_zs" src="https://img1.jcloudcs.com/portal/cloudexpo/fl10_img.png"/>
+        <div>
+            <b>十大云原生行业落地典范</b>
+            <p>11 月 19 日，由InfoQ 发起并组织的“2020中国技术力量年度榜单评选”结果正式揭晓。京东智联云凭借2020中国国际服务贸易交易会数字平台案例，从300多参评项目中脱颖而出，斩获“十大云原生行业落地典范”奖项，充分展示了京东会展云非凡的领跑力。</p>
+
+            <a href="https://www.jdcloud.com/cn/news/detail/866">查看详情 &#62;</a>
+        </div>
+    </div>
+</div>
 
 <!-- widget fmh-fl9 begin -->
 <div class="fl9-connect">
@@ -446,7 +462,7 @@
         <div class="connect-block">
             <p>如果您想了解更多关于会展云解决方案的信息，请联系我们的售前咨询团队</p>
 
-            <a href="https://www.jdcloud.com/cn/forms/consultation" class="jdc-btn jdc-btn-blue">立即咨询</a>
+            <a href="https://www.jdcloud.com/forms/consultation?name=会展云" class="jdc-btn jdc-btn-blue">立即咨询</a>
         </div>
     </div>
 </div>
