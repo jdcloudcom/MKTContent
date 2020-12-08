@@ -1594,5 +1594,12 @@
 		"id":1318,
 		"button_title":"",
 		"main_title":"京东智联云弹性MapReduce"
+	},
+	{
+		"sub_title":"",
+		"name":"开发者活动2",
+		"id":1320,
+		"button_title":"",
+		"main_title":""
 	}
 ]
