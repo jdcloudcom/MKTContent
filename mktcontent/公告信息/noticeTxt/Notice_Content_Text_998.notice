@@ -1,0 +1,33 @@
+<p>&nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-align:left;text-indent:28px"><span style=";font-family: &#39;pingfang SC&#39;,sans-serif">近</span>
+<span style="font-size:16px;font-family:宋体">日，京东智联云安全团队监测到OpenSSL官方发布风险公告，披露一处拒绝服务漏洞，编号CVE-2020-1971。</span>
+</p>
+<p style="text-align:left;text-indent:28px"><span style="font-family: 宋体;">【漏洞描述】</span>
+<span style="font-family: 宋体;">OpenSSL</span>
+<span style="font-family: 宋体;">在处理EDIPartyName（X.509 GeneralName类型标识之一）时，GENERAL_NAME_cmp()函数设计不当，特定情况下会产生空指针解引用问题，进而引发崩溃导致拒绝服务。</span>
+</p>
+<p style="text-align:left"><span style="font-family: 宋体;">&nbsp; 【漏洞评级】高危</span>
+</p>
+<p><span style="font-family: 宋体;">&nbsp; 【受影响版本】</span>
+<span style="font-family: &quot;Helvetica Neue&quot;;"><span style="font-family: 宋体;">o</span>
+</span>
+<span style="font-family: 宋体;">penssl: 1.0.2~1.0.2w ；&nbsp; openssl: 1.1.1~1.1.1h</span>
+</p>
+<p><span style="font-family: 宋体;">&nbsp; 【安全版本】</span>
+<span style="font-family: &quot;Helvetica Neue&quot;;"><span style="font-family: 宋体;">o</span>
+</span>
+<span style="font-family: 宋体;">penssl: 1.1.1i ； openssl: 1.0.2</span>
+<span style="font-family: &quot;Helvetica Neue&quot;;">x</span>
+</p>
+<p><span style="font-family: 宋体;">&nbsp; 【修复建议】</span>
+<span style="font-family: 宋体;">将Openssl 升级到受支持的1.1.1i，openssl: 1.0.2x版本。</span>
+</p>
+<p style="text-align:left;background:white;vertical-align:baseline"><span style="font-family: 宋体;">&nbsp; 【相关链接】</span>
+</p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><a href="https://www.openssl.org/news/vulnerabilities-1.1.1.html?spm=a2c4g.11174386.n2.3.18e11051kMpEfG#CVE-2020-1971">https://www.openssl.org/news/vulnerabilities-1.1.1.html?spm=a2c4g.11174386.n2.3.18e11051kMpEfG#CVE-2020-1971</a></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><a href="https://www.openssl.org/news/vulnerabilities-1.0.2.html?spm=a2c4g.11174386.n2.4.18e11051kMpEfG#CVE-2020-1971">https://www.openssl.org/news/vulnerabilities-1.0.2.html?spm=a2c4g.11174386.n2.4.18e11051kMpEfG#CVE-2020-1971</a></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#373D41">&nbsp;</span>
+</p>
+<p><br/></p>
