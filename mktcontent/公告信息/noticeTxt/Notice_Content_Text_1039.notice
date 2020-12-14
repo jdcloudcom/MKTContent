@@ -1,0 +1,56 @@
+<p style="text-indent:28px"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">您好</span>
+</p>
+<p style="text-align:left"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">近日，京东云安全团队监测XStream官方发布安全更新，修复了 CVE-2020-26258，CVE-2020-26259远程漏洞。未授权的远程攻击者，可构造特定的序列化数据造成任意文件删除或服务端请求伪造，风险极大。</span>
+</p>
+<p style="text-align:left"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">【漏洞描述】</span>
+</p>
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">XStream官方发布了关于XStream反序列化漏洞的风险通告（漏洞编号：CVE-2020-26259,CVE-2020-26258），如果代码中使用了XStream，未授权的远程攻击者，可构造特定的序列化数据造成任意文件删除或服务端请求伪造</span>
+</p>
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">CVE-2020-26259: 任意文件删除漏洞</span>
+</p>
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">如果XStream服务有足够的权限，在XStream在反序列化数据时，攻击者可构造特定的XML/JSON请求，造成任意文件删除。</span>
+</p>
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">CVE-2020-26258: 服务端请求伪造漏洞</span>
+</p>
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">XStream的服务在反序列化数据时，攻击者可以操纵处理后的输入流并替换或注入对象，从而导致服务器端进行伪造请求。</span>
+</p>
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">【漏洞评级】</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">高危</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">【受影响版本】</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">XStream &lt; 1.4.15</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">【安全版本】</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">XStream 1.4.15</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">【修复建议】</span>
+</p>
+<p style="text-align:left"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">针对使用到XStream组件的web服务升级XStream至最新版本</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">【相关链接】</span>
+</p>
+<p><a href="http://x-stream.github.io/CVE-2020-26258.html" style="text-decoration: underline; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">http://x-stream.github.io/CVE-2020-26258.html</span>
+</a></p>
+<p><a href="http://x-stream.github.io/CVE-2020-26259.html" style="text-decoration: underline; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">http://x-stream.github.io/CVE-2020-26259.html</span>
+</a></p>
+<p>&nbsp;</p>
+<p><br/></p>
