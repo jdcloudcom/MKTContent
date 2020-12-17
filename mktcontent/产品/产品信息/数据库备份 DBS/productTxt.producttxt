@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"数据库备份 DBS\",\"label\":[],\"desc\":\"数据库备份 DBS 是一种集中式数据库备份服务，实时备份数据到云端或异地机房，为数据库提供持续性、低成本的数据保护，帮助企业快速构建数据库备份中心，满足业务和监管备份合规性要求。\"}",
+		"id":2184
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"简单易用\",\"proName\":\"使用数据库备份 DBS 进行数据库备份，只需简单几步即可创建备份任务，开始数据备份。\"},{\"showShade\":false,\"proGood\":\"功能丰富\",\"proName\":\"提供逻辑备份、增量备份等备份选择。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"低成本\",\"proName\":\"提供冷备容灾备份方案，降低业务和存储成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"性能可靠\",\"proName\":\"根据备份量和备份压力，自动扩展，适应高并发、大流量的备份场景。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全可信\",\"proName\":\"支持备份可用性和完整性校验，保证备份可用性。\"}]",
+		"id":2185
+	},
+	{
+		"txt":"[{\"funcName\":\"数据库备份\",\"funcContent\":[{\"funcTitle\":\"数据库备份\",\"funcP\":\"支持将自建数据库的数据备份到云端，目前支持源库通过公网连接到数据库备份 DBS进行数据备份。\"}]},{\"funcName\":\"备份方式\",\"funcContent\":[{\"funcTitle\":\"备份方式\",\"funcP\":\"支持逻辑备份，并可以按需开启增量备份；目前仅支持对源库进行整库备份。\"}]},{\"funcName\":\"数据库恢复\",\"funcContent\":[{\"funcTitle\":\"数据库恢复\",\"funcP\":\"支持使用数据库备份 DBS中保存的备份文件，将数据恢复到自建数据库，目前支持数据库备份 DBS通过公网连接到目标库进行数据恢复。\"}]},{\"funcName\":\"备份文件下载\",\"funcContent\":[{\"funcTitle\":\"备份文件下载\",\"funcP\":\"提供备份文件下载功能，支持将备份文件保存到本地；目前全量备份文件和增量备份备份都提供了下载链接，您可以将指定的备份文件下载到本地。\"}]}]",
+		"id":2186
+	},
+	{
+		"txt":"[{\"name\":\"异地备份\",\"instruction\":\"数据库备份 DBS 可以帮助用户快速的为自建数据库、云RDS进行异地备份，并通过专线或公网将数据库实时备份到数据库备份 DBS上。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"数据库备份 DBS\",\"url\":\"//www.jdcloud.com/products/database-backup-service\"},{\"name\":\"云数据库 MySQL\",\"url\":\"//www.jdcloud.com/products/jcs-for-mysql\"},{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/15f7c4d5-5c09-43fa-af2a-c79c763592c020201217213602.png\",\"showShade\":false}]",
+		"id":2187
+	}
+]
