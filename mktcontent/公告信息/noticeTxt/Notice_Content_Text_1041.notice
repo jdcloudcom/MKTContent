@@ -1,0 +1,48 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测到Jackson中的jackson-databind 发布了安全通告。 披露Jackson-databind &lt; 2.9.10.8存在反序列化远程代码执行漏洞，漏洞编号CVE-2020-35490、CVE-2020-35491</span>
+<span style="font-size:16px;font-family:宋体;color:#161616;background:white">。</span>
+</p>
+<p><span style="font-family: 宋体; text-indent: 28px;">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; FasterXML Jackson</span>
+<span style="font-size:16px;font-family:宋体">是美国FasterXML公司的一款适用于Java的数据处理工具。Jackson-databind存在一处新的反序列化远程代码执行漏洞（CVE-2020-35790/CVE-2020-35491），该漏洞是由于org.apache.commons.dbcp2.datasources.PerUserPoolDataSource和org.apache.commons.dbcp2.datasources.SharedPoolDataSource</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">组件库存在不安全的反序列化，导致攻击者可以利用漏洞实现远程代码执行</span>
+<span style="font-size:16px;font-family:宋体;color:#161616;background:white">。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">中危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">jackson-databind &lt; 2.9.10.8</span>
+<span style="font-size:16px;font-family:宋体">。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【安全版本】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">jackson-databind &gt;= 2.9.10.8 (</span>
+<span style="font-size:16px;font-family:宋体">尚未推出)<br/>jackson-databind &gt;= 2.10.0</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">1.</span>
+<span style="font-size:16px;font-family:宋体">官方尚未推出补丁，建议使用 jackson-databind &gt; 2.10的版本，此版本使用白名单验证，可彻底杜绝此类风险。<br/> 2.针对无法升级jackson-databind的，排查并将相关jar组件从应用依赖中移除可阻止漏洞攻击（可能会导致应用不可用风险）。</span>
+</p>
+<p style="background:white"><span style="font-size:16px;font-family:宋体">官方链接：</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://github.com/FasterXML/jackson-databind/releases" title="https://github.com/FasterXML/jackson-databind/releases"><span style="color: windowtext">https://github.com/FasterXML/jackson-databind/releases</span>
+</a></span>
+</p>
+<p><br/></p>
