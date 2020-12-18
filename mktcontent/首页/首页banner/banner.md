@@ -1601,5 +1601,12 @@
 		"id":1320,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"开发者活动",
+		"id":1322,
+		"button_title":"",
+		"main_title":""
 	}
 ]
