@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"数据库备份 DBS\",\"label\":[],\"desc\":\"数据库备份 DBS 是一种集中式数据库备份服务，实时备份数据到云端或异地机房，为数据库提供持续性、低成本的数据保护，帮助企业快速构建数据库备份中心，满足业务和监管备份合规性要求。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"数据库备份 DBS\",\"label\":[{\"TitleName\":\"公测申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/dbs\",\"classTag\":\"\"}],\"desc\":\"数据库备份 DBS 是一种集中式数据库备份服务，实时备份数据到云端或异地机房，为数据库提供持续性、低成本的数据保护，帮助企业快速构建数据库备份中心，满足业务和监管备份合规性要求。\"}",
 		"id":2184
 	},
 	{
