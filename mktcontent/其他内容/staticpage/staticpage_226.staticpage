@@ -1,0 +1,2260 @@
+<div class="channel_submenu">
+
+<h2>营销</h2>
+
+<div class="channel_submenu_menu hidden-xs">
+    <ul class="channel_submenu_menu_list clear">
+        <li class="listItem-hook hasChildren">
+            <a href="javascript:void(0)" class="channel_submenu_list_item">产品</a>
+
+            <div class="channel_menu_dropdown">
+                <div class="channel-dropdown-wrap">
+                    <div class="channel-dropdown-col">
+                        <dl class="channel-dropdown-dl">
+                            <dt>营销洞察</dt>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/580000" clstag="Channel_Retail|keycount|Header|Link_3_0_0">商圈罗盘</a></dd>
+                            <dd><a target="_blank" href="https://www.jdcloud.com/cn/solutions/Insight" clstag="Channel_Retail|keycount|Header|Link_3_0_1">云洞察-调研</a></dd>
+                        </dl>
+                    </div>
+                    <div class="channel-dropdown-col">
+                        <dl class="channel-dropdown-dl">
+                            <dt>营销投放</dt>
+                            <dd><a target="_blank" href="https://dooh.jdcloud.com/" clstag="Channel_Retail|keycount|Header|Link_3_1_0">京屏线下广告</a></dd>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583656" clstag="Channel_Retail|keycount|Header|Link_3_1_1">智推短信营销</a></dd>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/582313" clstag="Channel_Retail|keycount|Header|Link_3_1_2">微信营销SCRM</a></dd>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583649" clstag="Channel_Retail|keycount|Header|Link_3_1_3">达人KOL营销</a></dd>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583668" clstag="Channel_Retail|keycount|Header|Link_3_1_4">直播营销</a></dd>
+                        </dl>
+                    </div>
+                    <div class="channel-dropdown-col">
+                        <dl class="channel-dropdown-dl">
+                            <dt>行业营销</dt>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583032" clstag="Channel_Retail|keycount|Header|Link_3_2_0">潜在客户管理平台（汽车版）</a></dd>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="listItem-hook">
+            <a target="_blank" clstag="Channel_Retail|keycount|Header|Link_4_0_0" href="http://aicube.jdcloud.com" class="channel_submenu_list_item">数据中台</a>
+        </li>
+        <li class="listItem-hook">
+            <a target="_blank" clstag="Channel_Retail|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/case/list" class="channel_submenu_list_item">客户案例</a>
+        </li>
+        <li class="listItem-hook">
+            <a target="_blank" clstag="Channel_Retail|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/partner/index" class="channel_submenu_list_item">合作伙伴</a>
+        </li>
+    </ul>
+</div>
+
+<div class="tel-info">
+    <a href="https://martech.jdcloud.com/dashborad" target="_blank">
+        <i class=""><img src="https://img1.jcloudcs.com/portal/channel/marketing/img-home.png"></i>进入营销中心&#62;
+    </a>
+</div>
+
+
+<div class="channel-m-menu-wrap">
+    <div class="nav-m-menu">
+        <div class="m-title-level-1 m-menu-parent">
+            <a href="javascript:;">产品</a>
+        </div>
+        <div class="m-menu-list">
+            <div class="m-title-level-2 m-menu-parent">
+                <a href="javascript:;">营销洞察</a>
+            </div>
+            <div class="m-menu-list">
+                <div class="m-title-level-3">
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/580000" clstag="Channel_Retail|keycount|Header|Link_3_0_0">商圈罗盘</a>
+                </div>
+                <div class="m-title-level-3">
+                    <a target="_blank" href="https://www.jdcloud.com/cn/solutions/Insight" clstag="Channel_Retail|keycount|Header|Link_3_0_1">云洞察-调研</a>
+                </div>
+            </div>
+            <div class="m-title-level-2 m-menu-parent">
+                <a href="javascript:;">营销投放</a>
+            </div>
+            <div class="m-menu-list">
+                <div class="m-title-level-3">
+                    <a target="_blank" href="https://dooh.jdcloud.com/" clstag="Channel_Retail|keycount|Header|Link_3_1_0">京屏线下广告</a>
+                </div>
+                <div class="m-title-level-3">
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/583656" clstag="Channel_Retail|keycount|Header|Link_3_1_1">智推短信营销</a>
+                </div>
+                <div class="m-title-level-3">
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/582313" clstag="Channel_Retail|keycount|Header|Link_3_1_2">微信营销SCRM</a>
+                </div>
+                <div class="m-title-level-3">
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/583649" clstag="Channel_Retail|keycount|Header|Link_3_1_3">达人KOL营销</a>
+                </div>
+                <div class="m-title-level-3">
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/583668" clstag="Channel_Retail|keycount|Header|Link_3_1_4">直播营销</a>
+                </div>
+            </div>            
+            <div class="m-title-level-2 m-menu-parent">
+                <a href="javascript:;">行业营销</a>
+            </div>
+            <div class="m-menu-list">
+                <div class="m-title-level-3">
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/583032" clstag="Channel_Retail|keycount|Header|Link_3_3_0">潜在客户管理平台（汽车版）</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="nav-m-menu">
+        <div class="m-title-level-1">
+            <a target="_blank" clstag="Channel_Retail|keycount|Header|Link_4_0_0" href="https://yd.jdcloud.com/#/">数据中台</a>
+        </div>
+    </div>
+    <div class="nav-m-menu">
+        <div class="m-title-level-1">
+            <a target="_blank" clstag="Channel_Retail|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/case/list">客户与案例</a>
+        </div>
+    </div>
+    <div class="nav-m-menu">
+        <div class="m-title-level-1">
+            <a target="_blank" href="https://www.jdcloud.com/cn/partner/index" clstag="Channel_Retail|keycount|Header|Link_6_0_0">合作伙伴</a>
+        </div>
+    </div>
+</div>
+
+</div>
+<div class="nav-m-mask"></div>
+<!-- widget jc-marketing-header end -->
+
+<!-- widget marketing begin -->
+<div class="CH-container">
+    <section class="CH-section section-firstScreen">
+        <div class="panel col-carousel">
+            <div class="swiper-container CH-carousel-type-1 swiper-no-swiping">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="CH-carousel-container">
+                            <img src="https://img1.jcloudcs.com/portal/channel/marketing/m/banner_m.png" class="CH-carousel-img-m">
+                            <div class="CH-carousel-content">
+                                <h3 class="CH-carousel-title">全链路营销云</h3>
+                                <p class="CH-carousel-desc">依托京东零售大数据与AI，提供营销所需的SaaS工具和增值服务，通过全域数字化提升效率，营销智能化降低运营复杂度</p>
+
+                            </div>
+                            <a target="_blank" clstag="Channel_marketing|keycount|Banner|Btn_0"
+                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer"><button
+                                    class="CH-carousel-button">立即咨询</button></a>
+                            <img src="https://img1.jcloudcs.com/portal/channel/marketing/banner_pc.png" class="CH-carousel-img-pc" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel col-broadcast">
+            <div class="CH-card-broadcast">
+                <dl class="list-news">
+                    <dt class="list-news-title">新闻动态</dt>
+                    <dd class="list-news-desc f-toe2">
+                        <a target="_blank" href="https://www.jdcloud.com/cn/news/detail/780" clstag="Channel_marketing|keycount|BannerRight|Link_0">三张图看懂京东智联云的过去、现在和未来</a>
+                    </dd>
+                </dl>
+
+                <dl class="list-news">
+                    <dt class="list-news-title">新基建</dt>
+                    <dd class="list-news-desc f-toe2">
+                        <a target="_blank" href="https://www.jdcloud.com/cn/news/detail/781" clstag="Channel_marketing|keycount|BannerRight|Link_1">扎根“新基建”，京东智联云释放向上生长的力量</a>
+                    </dd>
+                </dl>
+
+                <dl class="list-news">
+                    <dt class="list-news-title">行业话题</dt>
+                    <dd class="list-news-desc f-toe2">
+                        <a target="_blank" href="https://www.jdcloud.com/cn/news/detail/804" clstag="Channel_marketing|keycount|BannerRight|Link_2">京东智联云SCRM 携手赛诺贝斯开启营销新形态</a>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </section>
+
+    <!-- TODO:行业洞察部分 -->
+
+    <!-- 更安全、更具性价比的精选产品 -->
+    <section class="CH-section platform-core platform-core-pc">
+        <header>
+            <h1>一站式全链路营销</h1>
+        </header>
+        <div class="img-thmb-pc">
+            <img src="https://img1.jcloudcs.com/portal/channel/marketing/img_fl2.png"/>
+        </div>
+    </section>
+
+    <section class="CH-section platform-core platform-core-m">
+        <header>
+            <h1>一站式全链路营销</h1>
+        </header>
+        <div class="fl2-section">
+            <div class="img-thmb">
+                <img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img_fl2.png"/>
+            </div>
+            <div class="img-thmb-cont">
+                <div class="swiper-container CH-carousel-type-8">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide" data-index="1">
+                            <div class="list-item">
+                                <div><i><img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img1_fl2.png"/></i><b>营销洞察</b></div>
+                                <p>依托京东零售大数据，提供全行业市场竞争监测、消费者洞察、品牌洞察等全域洞察能力，为客户提供更全面的运营决策能力。</p>
+
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-index="2">          
+                            <div class="list-item">
+                                <div><i><img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img2_fl2.png"/></i><b>营销决策</b></div>
+                                <p>利用京东零售平台历史成功营销模型，通过AI技术，帮助客户建立营销决策，提高营销效率与效果。</p>
+
+                            </div>          
+                        </div>
+                        <div class="swiper-slide" data-index="3">          
+                            <div class="list-item">
+                                <div><i><img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img3_fl2.png"/></i><b>营销执行</b></div>
+                                <p>涵盖全域线上线下营销触点，以及流行的微信社群与视频直播等互动营销，通过自动化营销管理，帮助客户快速投入营销活动，并动态智能调整营销方案，获得高营销转化。</p>
+
+                            </div>          
+                        </div>
+                        <div class="swiper-slide" data-index="4">          
+                            <div class="list-item">
+                                <div><i><img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img4_fl2.png"/></i><b>营销监测</b></div>
+                                <p>全域营销监测，多触点实时统一效果分析与自动优化，快速跟踪评估营销效果。同时提供京东零售平台的消费行为监测，形成完整的ROI闭环。</p>
+
+                            </div>          
+                        </div>
+                        <div class="swiper-slide" data-index="5">          
+                            <div class="list-item">
+                                <div><i><img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img5_fl2.png"/></i><b>后链路再营销</b></div>
+                                <p>基于京东零售平台，展示投后链路数据，包括消费者决策路径、加购、待付状态，并提供关键节点的营销触达能力，提升转化。</p>
+
+                            </div>          
+                        </div>
+                        <div class="swiper-slide" data-index="6">          
+                            <div class="list-item">
+                                <div><i><img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img6_fl2.png"/></i><b>消费者生命周期管理</b></div>
+                                <p>构建品牌私域消费者管理平台，通过京东零售大数据给予更多的洞察与运营能力，利用互动营销工具不断提升公域潜客到私域的消费者资产与活跃度，形成长期价值转化。</p>
+
+                            </div>          
+                        </div>
+                    </div>
+
+                        <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 更安全、更具性价比的精选产品 -->
+    <section class="CH-section platform-core platform-core-pc">
+        <header>
+            <h1>全链路营销产品</h1>
+        </header>
+        <ul class="CH-tab platform-tab-pc">
+            <li class="CH-tab-item is-selected"><a href="javascript:;" clstag="Channel_marketing|keycount|Floor2|Tab_0">营销洞察</a></li>
+            <li class="CH-tab-item"><a href="javascript:;" clstag="Channel_marketing|keycount|Floor2|Tab_1">营销投放</a></li>
+            <li class="CH-tab-item"><a href="javascript:;" clstag="Channel_marketing|keycount|Floor2|Tab_2">营销监测</a></li>
+            <li class="CH-tab-item"><a href="javascript:;" clstag="Channel_marketing|keycount|Floor2|Tab_3">行业营销</a></li>
+        </ul>
+        <div class="CH-section-body platform-body-pc">
+            <div class="CH-secion-box">
+                <div class="CH-section-body">
+                    <div class="CH-card-group row">
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon">
+                                        <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab1-icon1.svg" /></i>人群营销洞察
+                                    </h3>
+                                </div>
+
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc f-toe2">
+                                        人群洞察是对特定人群进行的购物行为、兴趣偏好、群体基本特征多维度属性的分析
+                                    </p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">顾客特性</li>
+                                        <li class="CH-list-item">会员层次</li>
+                                        <li class="CH-list-item">购买力</li>
+                                        <li class="CH-list-item">忠诚度</li>
+                                    </ul>
+
+                                    <!-- TODO: -->
+
+                                    <div class="CH-card-price">免费咨询</div>
+
+                                </div>
+
+                                <div class="CH-card-footer">
+
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_1" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon">
+                                        <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab1-icon2.svg" /></i>营销投放预测
+                                    </h3>
+                                </div>
+
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc f-toe2">
+                                        智能化、自动化独有算法的场景计划，在广告投放前多维度预估结果，做到投放效果提前预知
+                                    </p>
+
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">精准预测</li>
+                                        <li class="CH-list-item">智能分析</li>
+                                        <li class="CH-list-item">预算分配</li>
+                                        <li class="CH-list-item">KPI预估</li>
+                                    </ul>
+                                    <!-- TODO: -->
+                                    <div class="CH-card-price">免费咨询</div>
+                                </div>
+
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_3" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon">
+                                        <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab1-icon3.svg" /></i>品牌爆款孵化中心
+
+                                    </h3>
+
+                                </div>
+
+                                <div class="CH-card-body">
+
+                                    <p class="CH-card-desc f-toe2">
+                                        以“成功数据”驱动产品设计，提供“上京东”、营销等一系列端到端服务，辅助新品孵化
+                                    </p>
+
+
+                                    <ul class="CH-list">
+
+                                        <li class="CH-list-item">深度洞察</li>
+                                        <li class="CH-list-item">测新测款</li>
+                                        <li class="CH-list-item">供应链匹配</li>
+                                        <li class="CH-list-item">新品营销</li>
+                                    </ul>
+
+                                    <!-- TODO: -->
+
+                                    <div class="CH-card-price">免费咨询</div>
+
+                                </div>
+
+                                <div class="CH-card-footer">
+
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_5" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon">
+                                        <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab1-icon4.svg" /></i>商圈罗盘
+                                    </h3>
+                                </div>
+
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc f-toe2">
+                                        依托于强大人本数据、地理信息数据和商业经济数据， 为企业提供全方位的数据分析
+                                    </p>
+
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">客流热力分析</li>
+                                        <li class="CH-list-item">竞争分析</li>
+                                        <li class="CH-list-item">优秀区位推荐</li>
+                                        <li class="CH-list-item">多地点详细优选</li>
+                                    </ul>
+
+                                    <!-- TODO: -->
+
+                                    <div class="CH-card-price">免费咨询</div>
+
+                                </div>
+
+                                <div class="CH-card-footer">
+
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/580000">查看详情</a>
+                                        </div>
+
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="CH-card-group row">
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon">
+                                        <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab1-icon5.svg" /></i>云洞察-调研
+
+                                    </h3>
+                                </div>
+
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc f-toe2">
+                                        依托京东大数据与第三方数据，为广告主提供智能营销解决方案
+                                    </p>
+
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">品牌行业深度分析</li>
+                                        <li class="CH-list-item">云调研</li>
+                                        <li class="CH-list-item">云洞察</li>
+                                        <li class="CH-list-item">云舆情</li>
+                                    </ul>
+
+                                    <!-- TODO: -->
+                                    <div class="CH-card-price">免费咨询</div>
+                                </div>
+
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://www.jdcloud.com/cn/solutions/Insight">查看详情</a>
+                                        </div>
+
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="CH-secion-box">
+                <div class="CH-section-body">
+                    <div class="CH-card-group row">
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon">
+                                        <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon1.svg" /></i>全域线上广告
+                                    </h3>
+                                </div>
+
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc f-toe2">
+                                        依托京东数据分析能力，通过脱敏数据及算法模型实现全域线上广告投放
+                                    </p>
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">多样化媒体资源</li>
+                                        <li class="CH-list-item">定制化媒体策略</li>
+                                        <li class="CH-list-item">AI算法支持</li>
+                                    </ul>
+
+                                    <!-- TODO: -->
+
+                                    <div class="CH-card-price">免费咨询</div>
+
+                                </div>
+
+                                <div class="CH-card-footer">
+
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_1" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon">
+                                        <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon2.svg" /></i>家庭大屏智选平台
+                                    </h3>
+                                </div>
+
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc f-toe2">
+                                        基于家庭智能电视的全流程广告营销工具，实现下单、执行、投放报告输出的全流程营销管理
+                                    </p>
+
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">基于家庭场景的广告营销能力</li>
+                                        <li class="CH-list-item">针对OTT终端用户的标签画像能力</li>
+                                        <li class="CH-list-item">视频+图片等多形式展现能力</li>
+                                    </ul>
+                                    <!-- TODO: -->
+                                    <div class="CH-card-price">免费咨询</div>
+                                </div>
+
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_3" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon">
+                                        <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon3.svg" /></i>京屏线下广告
+
+                                    </h3>
+
+                                </div>
+
+                                <div class="CH-card-body">
+
+                                    <p class="CH-card-desc f-toe2">
+                                        依托京东大数据，为客户提供线下全场景、一站式户外广告投放服务
+                                    </p>
+
+
+                                    <ul class="CH-list">
+
+                                        <li class="CH-list-item">线上+线下一站式投放</li>
+                                        <li class="CH-list-item">智能化监测投放过程</li>
+                                        <li class="CH-list-item">智能投放、品效合一</li>
+                                    </ul>
+
+                                    <!-- TODO: -->
+
+                                    <div class="CH-card-price">免费咨询</div>
+
+                                </div>
+
+                                <div class="CH-card-footer">
+
+                                    <div class="row">
+
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_4" target="_blank" class="CH-card-button-default" href="https://dooh.jdcloud.com/">查看详情</a>
+                                        </div>
+
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_5" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon">
+                                        <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon4.svg" /></i>智推短信营销
+                                    </h3>
+                                </div>
+
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc f-toe2">
+                                        整合京东智能人群模型能力，为品牌提供一站式精准智能场景营销解决方案
+                                    </p>
+
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">精准筛选目标人群</li>
+                                        <li class="CH-list-item">融合视频、图文等媒体形式</li>
+                                        <li class="CH-list-item">营销信息100%有效触达潜客人群</li>
+                                    </ul>
+
+                                    <!-- TODO: -->
+
+                                    <div class="CH-card-price">免费咨询</div>
+
+                                </div>
+
+                                <div class="CH-card-footer">
+
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/583656">查看详情</a>
+                                        </div>
+
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="CH-card-group row">
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon">
+                                        <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon5.svg" /></i>微信营销SCRM
+
+                                    </h3>
+                                </div>
+
+                                <div class="CH-card-body">
+                                    <p class="CH-card-desc f-toe2">
+                                        通过微信端千人千信，助力微信私域流量自动化精准运营，实现店铺社交域营销，加速销售效率
+                                    </p>
+
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">潜客精准识别</li>
+                                        <li class="CH-list-item">社交裂变营销</li>
+                                        <li class="CH-list-item">内容拉动转化</li>
+                                        <li class="CH-list-item">效果直观评估</li>
+                                    </ul>
+
+                                    <!-- TODO: -->
+                                    <div class="CH-card-price">免费咨询</div>
+                                </div>
+
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/582313">查看详情</a>
+                                        </div>
+
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-3">
+                            <div class="CH-card is-hover is-hover-shadow">
+                                <div class="CH-card-header">
+                                    <h3 class="CH-card-title is-icon">
+                                        <i class="CH-card-title-icon"><img
+                                                src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon6.svg" /></i>达人KOL营销
+
+                                    </h3>
+
+                                </div>
+
+                                <div class="CH-card-body">
+
+                                    <p class="CH-card-desc f-toe2">
+                                        基于京东电商数据赋能，助力智能优选微信KOL，多触点推广，全域效果量化评估
+                                    </p>
+
+
+                                    <ul class="CH-list">
+
+                                        <li class="CH-list-item">智能优选KOL资源</li>
+                                        <li class="CH-list-item">指导内容创意</li>
+                                        <li class="CH-list-item">多触点推广</li>
+                                        <li class="CH-list-item">多触点推广</li>
+
+                                    </ul>
+
+                                    <!-- TODO: -->
+
+                                    <div class="CH-card-price">免费咨询</div>
+
+                                </div>
+
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/583649">查看详情</a>
+                                        </div>
+
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="col-xs-12 col-3">
+
+                            <div class="CH-card is-hover is-hover-shadow">
+
+                                <div class="CH-card-header">
+
+                                    <h3 class="CH-card-title is-icon">
+
+                                        <i class="CH-card-title-icon"><img
+                                                src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon7.svg" /></i>直播营销
+
+                                    </h3>
+
+                                </div>
+
+                                <div class="CH-card-body">
+
+                                    <p class="CH-card-desc f-toe2">
+                                        集达人直播、内容运营、渠道分发、供应链整合于一体的全网一站式价值链视频服务平台
+                                    </p>
+
+
+                                    <ul class="CH-list">
+
+                                        <li class="CH-list-item">KOL多维度数据解析</li>
+                                        <li class="CH-list-item">精准匹配品牌调性</li>
+                                        <li class="CH-list-item">短视频类整合营销解决方案</li>
+                                        <li class="CH-list-item">商家达人精准匹配</li>
+
+                                    </ul>
+
+                                    <!-- TODO: -->
+
+                                    <div class="CH-card-price">免费咨询</div>
+
+                                </div>
+
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/583668">查看详情</a>
+                                        </div>
+
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-xs-12 col-3">
+
+                            <div class="CH-card is-hover is-hover-shadow">
+
+                                <div class="CH-card-header">
+
+                                    <h3 class="CH-card-title is-icon">
+
+                                        <i class="CH-card-title-icon"><img
+                                                src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon8.svg" /></i>再营销
+
+                                    </h3>
+
+                                </div>
+
+                                <div class="CH-card-body">
+
+                                    <p class="CH-card-desc f-toe2">
+                                        基于站外广告营销人群，在站内分析、细分，进而使用站内营销工具进行转化触达
+                                    </p>
+
+
+                                    <ul class="CH-list">
+
+                                        <li class="CH-list-item">站外与站内有效联动 实现品销合一</li>
+                                        <li class="CH-list-item">强大的人群下钻再分组能力</li>
+
+                                    </ul>
+
+                                    <!-- TODO: -->
+
+                                    <div class="CH-card-price">免费咨询</div>
+
+                                </div>
+
+                                <div class="CH-card-footer">
+                                    <div class="row">
+
+                                        <div class="col-12">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="CH-secion-box">
+                <div class="CH-section-body">
+                    <div class="CH-card-group row">
+                        <div class="col-xs-12 col-3">
+
+                            <div class="CH-card is-hover is-hover-shadow">
+
+                                <div class="CH-card-header">
+
+                                    <!-- TODO:这里h3里内容过长折行里，样式要调整下 -->
+
+                                    <h3 class="CH-card-title is-icon f-toe">
+
+                                        <i class="CH-card-title-icon"><img
+                                                src="https://img1.jcloudcs.com/portal/channel/marketing/tab3-icon1.svg" /></i>
+                                        全域广告效果监测
+
+                                    </h3>
+
+                                </div>
+
+                                <div class="CH-card-body">
+
+                                    <p class="CH-card-desc f-toe2">
+                                        市场领先的⼴告监测分析及转化跟踪平台，从各个⻆度评估⼴告效果，打造⼴告分析闭环
+                                    </p>
+
+
+                                    <ul class="CH-list">
+                                        <li class="CH-list-item">广告监测</li>
+                                        <li class="CH-list-item">转化跟踪</li>
+                                        <li class="CH-list-item">效果评估</li>
+                                    </ul>
+
+                                    <!-- TODO: -->
+
+                                    <div class="CH-card-price">免费咨询</div>
+
+                                </div>
+
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="CH-secion-box">
+                <div class="CH-section-body">
+                    <div class="CH-card-group row">
+                        <div class="col-xs-12 col-3">
+
+                            <div class="CH-card is-hover is-hover-shadow">
+
+                                <div class="CH-card-header">
+
+                                    <!-- TODO:这里h3里内容过长折行里，样式要调整下 -->
+
+                                    <h3 class="CH-card-title is-icon f-toe">
+
+                                        <i class="CH-card-title-icon"><img
+                                                src="https://img1.jcloudcs.com/portal/channel/marketing/tab4-icon1.svg" /></i>潜在客户管理平台（汽车行业版）
+
+                                    </h3>
+
+                                </div>
+
+                                <div class="CH-card-body">
+
+                                    <p class="CH-card-desc f-toe2">
+                                        通过对每条网销线索提供360度的智能管理、助力汽车经销商网销线索转化业务降本提效
+                                    </p>
+
+
+                                    <ul class="CH-list">
+
+                                        <li class="CH-list-item">方便性：快速启用、便捷易学</li>
+                                        <li class="CH-list-item">实效性：实时响应、见效迅速</li>
+                                        <li class="CH-list-item">持续性：工作流程持续优化、粘度高</li>
+
+                                    </ul>
+
+                                    <!-- TODO: -->
+
+                                    <div class="CH-card-price">免费咨询</div>
+
+                                </div>
+
+                                <div class="CH-card-footer">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/583032">查看详情</a>
+                                        </div>
+
+                                        <div class="col-6">
+                                            <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                               href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="CH-section platform-core platform-core-m">
+        <header>
+            <h1>全链路营销产品</h1>
+        </header>
+        <div class="CH-section-body">
+            <div class="CH-collapse">
+                <div class="CH-collapse-item is-selected">
+                    <div class="CH-collapse-item-header">
+                        <a name="bank">营销洞察</a><i class="iconfont jc-icon-my-down" clstag="Channel_furniture|keycount|Floor2|MTab_0"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-secion-box">
+                            <div class="CH-section-body">
+                                <div class="CH-card-group row">
+                                    <div class="col-xs-12 col-3">
+                                        <div class="CH-card is-hover is-hover-shadow">
+                                            <div class="CH-card-header">
+                                                <h3 class="CH-card-title is-icon">
+                                                    <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab1-icon1.svg" /></i>人群营销洞察
+                                                </h3>
+                                            </div>
+
+                                            <div class="CH-card-body">
+                                                <p class="CH-card-desc f-toe2">
+                                                    人群洞察是对特定人群进行的购物行为、兴趣偏好、群体基本特征多维度属性的分析
+                                                </p>
+
+                                                <ul class="CH-list">
+                                                    <li class="CH-list-item">顾客特性</li>
+                                                    <li class="CH-list-item">会员层次</li>
+                                                    <li class="CH-list-item">购买力</li>
+                                                    <li class="CH-list-item">忠诚度</li>
+                                                </ul>
+
+                                                <!-- TODO: -->
+
+                                                <div class="CH-card-price">免费咨询</div>
+
+                                            </div>
+
+                                            <div class="CH-card-footer">
+
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_1" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="col-xs-12 col-3">
+                                        <div class="CH-card is-hover is-hover-shadow">
+                                            <div class="CH-card-header">
+                                                <h3 class="CH-card-title is-icon">
+                                                    <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab1-icon2.svg" /></i>营销投放预测
+                                                </h3>
+                                            </div>
+
+                                            <div class="CH-card-body">
+                                                <p class="CH-card-desc f-toe2">
+                                                    智能化、自动化独有算法的场景计划，在广告投放前多维度预估结果，做到投放效果提前预知
+                                                </p>
+
+
+                                                <ul class="CH-list">
+                                                    <li class="CH-list-item">精准预测</li>
+                                                    <li class="CH-list-item">智能分析</li>
+                                                    <li class="CH-list-item">预算分配</li>
+                                                    <li class="CH-list-item">KPI预估</li>
+                                                </ul>
+                                                <!-- TODO: -->
+                                                <div class="CH-card-price">免费咨询</div>
+                                            </div>
+
+                                            <div class="CH-card-footer">
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_3" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="col-xs-12 col-3">
+                                        <div class="CH-card is-hover is-hover-shadow">
+                                            <div class="CH-card-header">
+                                                <h3 class="CH-card-title is-icon">
+                                                    <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab1-icon3.svg" /></i>品牌爆款孵化中心
+
+                                                </h3>
+
+                                            </div>
+
+                                            <div class="CH-card-body">
+
+                                                <p class="CH-card-desc f-toe2">
+                                                    以“成功数据”驱动产品设计，提供“上京东”、营销等一系列端到端服务，辅助新品孵化
+                                                </p>
+
+
+                                                <ul class="CH-list">
+
+                                                    <li class="CH-list-item">深度洞察</li>
+                                                    <li class="CH-list-item">测新测款</li>
+                                                    <li class="CH-list-item">供应链匹配</li>
+                                                    <li class="CH-list-item">新品营销</li>
+                                                </ul>
+
+                                                <!-- TODO: -->
+
+                                                <div class="CH-card-price">免费咨询</div>
+
+                                            </div>
+
+                                            <div class="CH-card-footer">
+
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_5" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="col-xs-12 col-3">
+                                        <div class="CH-card is-hover is-hover-shadow">
+                                            <div class="CH-card-header">
+                                                <h3 class="CH-card-title is-icon">
+                                                    <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab1-icon4.svg" /></i>商圈罗盘
+                                                </h3>
+                                            </div>
+
+                                            <div class="CH-card-body">
+                                                <p class="CH-card-desc f-toe2">
+                                                    依托于强大人本数据、地理信息数据和商业经济数据， 为企业提供全方位的数据分析
+                                                </p>
+
+
+                                                <ul class="CH-list">
+                                                    <li class="CH-list-item">客流热力分析</li>
+                                                    <li class="CH-list-item">竞争分析</li>
+                                                    <li class="CH-list-item">优秀区位推荐</li>
+                                                    <li class="CH-list-item">多地点详细优选</li>
+                                                </ul>
+
+                                                <!-- TODO: -->
+
+                                                <div class="CH-card-price">免费咨询</div>
+
+                                            </div>
+
+                                            <div class="CH-card-footer">
+
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/580000">查看详情</a>
+                                                    </div>
+
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="CH-card-group row">
+                                    <div class="col-xs-12 col-3">
+                                        <div class="CH-card is-hover is-hover-shadow">
+                                            <div class="CH-card-header">
+                                                <h3 class="CH-card-title is-icon">
+                                                    <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab1-icon5.svg" /></i>云洞察-调研
+
+                                                </h3>
+                                            </div>
+
+                                            <div class="CH-card-body">
+                                                <p class="CH-card-desc f-toe2">
+                                                    依托京东大数据与第三方数据，为广告主提供智能营销解决方案
+                                                </p>
+
+
+                                                <ul class="CH-list">
+                                                    <li class="CH-list-item">品牌行业深度分析</li>
+                                                    <li class="CH-list-item">云调研</li>
+                                                    <li class="CH-list-item">云洞察</li>
+                                                    <li class="CH-list-item">云舆情</li>
+                                                </ul>
+
+                                                <!-- TODO: -->
+                                                <div class="CH-card-price">免费咨询</div>
+                                            </div>
+
+                                            <div class="CH-card-footer">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://www.jdcloud.com/cn/solutions/Insight">查看详情</a>
+                                                    </div>
+
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-collapse-item">
+                    <div class="CH-collapse-item-header">
+                        <a name="security">营销投放</a><i class="iconfont jc-icon-my-down" clstag="Channel_furniture|keycount|Floor2|MTab_1"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-secion-box">
+                            <div class="CH-section-body">
+                                <div class="CH-card-group row">
+                                    <div class="col-xs-12 col-3">
+                                        <div class="CH-card is-hover is-hover-shadow">
+                                            <div class="CH-card-header">
+                                                <h3 class="CH-card-title is-icon">
+                                                    <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon1.svg" /></i>全域线上广告
+                                                </h3>
+                                            </div>
+
+                                            <div class="CH-card-body">
+                                                <p class="CH-card-desc f-toe2">
+                                                    依托京东数据分析能力，通过脱敏数据及算法模型实现全域线上广告投放
+                                                </p>
+
+                                                <ul class="CH-list">
+                                                    <li class="CH-list-item">多样化媒体资源</li>
+                                                    <li class="CH-list-item">定制化媒体策略</li>
+                                                    <li class="CH-list-item">AI算法支持</li>
+                                                </ul>
+
+                                                <!-- TODO: -->
+
+                                                <div class="CH-card-price">免费咨询</div>
+
+                                            </div>
+
+                                            <div class="CH-card-footer">
+
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_1" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="col-xs-12 col-3">
+                                        <div class="CH-card is-hover is-hover-shadow">
+                                            <div class="CH-card-header">
+                                                <h3 class="CH-card-title is-icon">
+                                                    <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon2.svg" /></i>家庭大屏智选平台
+                                                </h3>
+                                            </div>
+
+                                            <div class="CH-card-body">
+                                                <p class="CH-card-desc f-toe2">
+                                                    基于家庭智能电视的全流程广告营销工具，实现下单、执行、投放报告输出的全流程营销管理
+                                                </p>
+
+
+                                                <ul class="CH-list">
+                                                    <li class="CH-list-item">基于家庭场景的广告营销能力</li>
+                                                    <li class="CH-list-item">针对OTT终端用户的标签画像能力</li>
+                                                    <li class="CH-list-item">视频+图片等多形式展现能力</li>
+                                                </ul>
+                                                <!-- TODO: -->
+                                                <div class="CH-card-price">免费咨询</div>
+                                            </div>
+
+                                            <div class="CH-card-footer">
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_3" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="col-xs-12 col-3">
+                                        <div class="CH-card is-hover is-hover-shadow">
+                                            <div class="CH-card-header">
+                                                <h3 class="CH-card-title is-icon">
+                                                    <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon3.svg" /></i>京屏线下广告
+
+                                                </h3>
+
+                                            </div>
+
+                                            <div class="CH-card-body">
+
+                                                <p class="CH-card-desc f-toe2">
+                                                    依托京东大数据，为客户提供线下全场景、一站式户外广告投放服务
+                                                </p>
+
+
+                                                <ul class="CH-list">
+
+                                                    <li class="CH-list-item">线上+线下一站式投放</li>
+                                                    <li class="CH-list-item">智能化监测投放过程</li>
+                                                    <li class="CH-list-item">智能投放、品效合一</li>
+                                                </ul>
+
+                                                <!-- TODO: -->
+
+                                                <div class="CH-card-price">免费咨询</div>
+
+                                            </div>
+
+                                            <div class="CH-card-footer">
+
+                                                <div class="row">
+
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_4" target="_blank" class="CH-card-button-default" href="https://dooh.jdcloud.com/">查看详情</a>
+                                                    </div>
+
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_5" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="col-xs-12 col-3">
+                                        <div class="CH-card is-hover is-hover-shadow">
+                                            <div class="CH-card-header">
+                                                <h3 class="CH-card-title is-icon">
+                                                    <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon4.svg" /></i>智推短信营销
+                                                </h3>
+                                            </div>
+
+                                            <div class="CH-card-body">
+                                                <p class="CH-card-desc f-toe2">
+                                                    整合京东智能人群模型能力，为品牌提供一站式精准智能场景营销解决方案
+                                                </p>
+
+
+                                                <ul class="CH-list">
+                                                    <li class="CH-list-item">精准筛选目标人群</li>
+                                                    <li class="CH-list-item">融合视频、图文等媒体形式</li>
+                                                    <li class="CH-list-item">营销信息100%有效触达潜客人群</li>
+                                                </ul>
+
+                                                <!-- TODO: -->
+
+                                                <div class="CH-card-price">免费咨询</div>
+
+                                            </div>
+
+                                            <div class="CH-card-footer">
+
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/583656">查看详情</a>
+                                                    </div>
+
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="CH-card-group row">
+                                    <div class="col-xs-12 col-3">
+                                        <div class="CH-card is-hover is-hover-shadow">
+                                            <div class="CH-card-header">
+                                                <h3 class="CH-card-title is-icon">
+                                                    <i class="CH-card-title-icon"><img src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon5.svg" /></i>微信营销SCRM
+
+                                                </h3>
+                                            </div>
+
+                                            <div class="CH-card-body">
+                                                <p class="CH-card-desc f-toe2">
+                                                    通过微信端千人千信，助力微信私域流量自动化精准运营，实现店铺社交域营销，加速销售效率
+                                                </p>
+
+
+                                                <ul class="CH-list">
+                                                    <li class="CH-list-item">潜客精准识别</li>
+                                                    <li class="CH-list-item">社交裂变营销</li>
+                                                    <li class="CH-list-item">内容拉动转化</li>
+                                                    <li class="CH-list-item">效果直观评估</li>
+                                                </ul>
+
+                                                <!-- TODO: -->
+                                                <div class="CH-card-price">免费咨询</div>
+                                            </div>
+
+                                            <div class="CH-card-footer">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/582313">查看详情</a>
+                                                    </div>
+
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-3">
+                                        <div class="CH-card is-hover is-hover-shadow">
+                                            <div class="CH-card-header">
+                                                <h3 class="CH-card-title is-icon">
+                                                    <i class="CH-card-title-icon"><img
+                                                            src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon6.svg" /></i>达人KOL营销
+
+                                                </h3>
+
+                                            </div>
+
+                                            <div class="CH-card-body">
+
+                                                <p class="CH-card-desc f-toe2">
+                                                    基于京东电商数据赋能，助力智能优选微信KOL，多触点推广，全域效果量化评估
+                                                </p>
+
+
+                                                <ul class="CH-list">
+
+                                                    <li class="CH-list-item">智能优选KOL资源</li>
+                                                    <li class="CH-list-item">指导内容创意</li>
+                                                    <li class="CH-list-item">多触点推广</li>
+                                                    <li class="CH-list-item">多触点推广</li>
+
+                                                </ul>
+
+                                                <!-- TODO: -->
+
+                                                <div class="CH-card-price">免费咨询</div>
+
+                                            </div>
+
+                                            <div class="CH-card-footer">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/583649">查看详情</a>
+                                                    </div>
+
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="col-xs-12 col-3">
+
+                                        <div class="CH-card is-hover is-hover-shadow">
+
+                                            <div class="CH-card-header">
+
+                                                <h3 class="CH-card-title is-icon">
+
+                                                    <i class="CH-card-title-icon"><img
+                                                            src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon7.svg" /></i>直播营销
+
+                                                </h3>
+
+                                            </div>
+
+                                            <div class="CH-card-body">
+
+                                                <p class="CH-card-desc f-toe2">
+                                                    集达人直播、内容运营、渠道分发、供应链整合于一体的全网一站式价值链视频服务平台
+                                                </p>
+
+
+                                                <ul class="CH-list">
+
+                                                    <li class="CH-list-item">KOL多维度数据解析</li>
+                                                    <li class="CH-list-item">精准匹配品牌调性</li>
+                                                    <li class="CH-list-item">短视频类整合营销解决方案</li>
+                                                    <li class="CH-list-item">商家达人精准匹配</li>
+
+                                                </ul>
+
+                                                <!-- TODO: -->
+
+                                                <div class="CH-card-price">免费咨询</div>
+
+                                            </div>
+
+                                            <div class="CH-card-footer">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/583668">查看详情</a>
+                                                    </div>
+
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div class="col-xs-12 col-3">
+
+                                        <div class="CH-card is-hover is-hover-shadow">
+
+                                            <div class="CH-card-header">
+
+                                                <h3 class="CH-card-title is-icon">
+
+                                                    <i class="CH-card-title-icon"><img
+                                                            src="https://img1.jcloudcs.com/portal/channel/marketing/tab2-icon8.svg" /></i>再营销
+
+                                                </h3>
+
+                                            </div>
+
+                                            <div class="CH-card-body">
+
+                                                <p class="CH-card-desc f-toe2">
+                                                    基于站外广告营销人群，在站内分析、细分，进而使用站内营销工具进行转化触达
+                                                </p>
+
+
+                                                <ul class="CH-list">
+
+                                                    <li class="CH-list-item">站外与站内有效联动 实现品销合一</li>
+                                                    <li class="CH-list-item">强大的人群下钻再分组能力</li>
+
+                                                </ul>
+
+                                                <!-- TODO: -->
+
+                                                <div class="CH-card-price">免费咨询</div>
+
+                                            </div>
+
+                                            <div class="CH-card-footer">
+                                                <div class="row">
+
+                                                    <div class="col-12">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-collapse-item">
+                    <div class="CH-collapse-item-header">
+                        <a name="insurance">营销监测</a><i class="iconfont jc-icon-my-down" clstag="Channel_furniture|keycount|Floor2|MTab_2"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-secion-box">
+                            <div class="CH-section-body">
+                                <div class="CH-card-group row">
+                                    <div class="col-xs-12 col-3">
+
+                                        <div class="CH-card is-hover is-hover-shadow">
+
+                                            <div class="CH-card-header">
+
+                                                <!-- TODO:这里h3里内容过长折行里，样式要调整下 -->
+
+                                                <h3 class="CH-card-title is-icon f-toe">
+
+                                                    <i class="CH-card-title-icon"><img
+                                                            src="https://img1.jcloudcs.com/portal/channel/marketing/tab3-icon1.svg" /></i>
+                                                    全域广告效果监测
+
+                                                </h3>
+
+                                            </div>
+
+                                            <div class="CH-card-body">
+
+                                                <p class="CH-card-desc f-toe2">
+                                                    市场领先的⼴告监测分析及转化跟踪平台，从各个⻆度评估⼴告效果，打造⼴告分析闭环
+                                                </p>
+
+
+                                                <ul class="CH-list">
+                                                    <li class="CH-list-item">广告监测</li>
+                                                    <li class="CH-list-item">转化跟踪</li>
+                                                    <li class="CH-list-item">效果评估</li>
+                                                </ul>
+
+                                                <!-- TODO: -->
+
+                                                <div class="CH-card-price">免费咨询</div>
+
+                                            </div>
+
+                                            <div class="CH-card-footer">
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-collapse-item">
+                    <div class="CH-collapse-item-header">
+                        <a name="insurance">行业营销</a><i class="iconfont jc-icon-my-down" clstag="Channel_furniture|keycount|Floor2|MTab_2"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-secion-box">
+                            <div class="CH-section-body">
+                                <div class="CH-card-group row">
+                                    <div class="col-xs-12 col-3">
+
+                                        <div class="CH-card is-hover is-hover-shadow">
+
+                                            <div class="CH-card-header">
+
+                                                <!-- TODO:这里h3里内容过长折行里，样式要调整下 -->
+
+                                                <h3 class="CH-card-title is-icon f-toe">
+
+                                                    <i class="CH-card-title-icon"><img
+                                                            src="https://img1.jcloudcs.com/portal/channel/marketing/tab4-icon1.svg" /></i>潜在客户管理平台（汽车行业版）
+
+                                                </h3>
+
+                                            </div>
+
+                                            <div class="CH-card-body">
+
+                                                <p class="CH-card-desc f-toe2">
+                                                    通过对每条网销线索提供360度的智能管理、助力汽车经销商网销线索转化业务降本提效
+                                                </p>
+
+
+                                                <ul class="CH-list">
+
+                                                    <li class="CH-list-item">方便性：快速启用、便捷易学</li>
+                                                    <li class="CH-list-item">实效性：实时响应、见效迅速</li>
+                                                    <li class="CH-list-item">持续性：工作流程持续优化、粘度高</li>
+
+                                                </ul>
+
+                                                <!-- TODO: -->
+
+                                                <div class="CH-card-price">免费咨询</div>
+
+                                            </div>
+
+                                            <div class="CH-card-footer">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_6" target="_blank" class="CH-card-button-default" href="https://market.jdcloud.com/service/details/583032">查看详情</a>
+                                                    </div>
+
+                                                    <div class="col-6">
+                                                        <a clstag="Channel_marketing|keycount|Floor3|Btn_7" target="_blank" class="CH-card-button-primary"
+                                                        href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //更安全、更具性价比的精选产品-->
+
+</div>
+    <!-- 精选成功案例部分 -->
+<div class="CH-container">
+    <section class="CH-section section-case section-case">
+
+        <header>
+
+            <h1>精选客户成功案例</h1>
+
+        </header>
+
+        <div class="CH-section-body seccessCase">
+
+            <div class="CH-panel">
+
+                <div class="swiper-container swiper-no-swiping CH-carousel-type-2">
+
+                    <div class="swiper-wrapper">
+
+                        <div class="swiper-slide" data-index="1">
+
+                            <img class="on" src="https://img1.jcloudcs.com/portal/channel/marketing/img_fl3.png" alt="" />
+
+                        </div>
+
+
+
+                        <div class="swiper-slide" data-index="2">
+
+                            <img src="https://img1.jcloudcs.com/portal/channel/marketing/img2_fl3.png" alt="" />
+
+                        </div>
+
+
+
+                        <div class="swiper-slide" data-index="3">
+
+                            <img src="https://img1.jcloudcs.com/portal/channel/marketing/img3_fl3.png" alt="" />
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="CH-container-scroll-box">
+
+                    <div class="CH-container-scroll">
+
+                        <div class="CH-container-column">
+
+                            <div class="CH-container-imageText">
+
+                                <div class="col-image">
+
+                                    <div class="model">
+                                        <p class="dot">“</p>
+
+                                        <p>
+                                            为京东牛排超品日实现社交种草，共投放近30篇KOL，并结合粉丝群实现二次曝光，阅读量超过20万+，并有效实现订单转化，同时推送种草所影响的粉丝PIN包至京准通，通过广告二次再营销，达成最高ROI在1：28以上
+                                        </p>
+
+                                        <p class="dot-end">”</p>
+
+                                    </div>
+                                    <img src="https://img1.jcloudcs.com/portal/channel/marketing/img4_fl3.png"/>
+
+                                </div>
+
+                                <div class="col-content">
+
+                                    <h3 class="section-case-title">京东牛排超品日</h3>
+
+                                    <p class=" section-case-desc">
+
+                                        基于京东电商数据赋能，帮助平台超品日智能优选高TA匹配度的微信KOL，并通过微信KOL多触点推广，在实现活动曝光/裂变/口碑沉淀最终达成京东电商转化，实现微信社交营销的品效联动
+
+                                    </p>
+
+                                    <ul class="section-case-feature">
+                                        <li>指导内容创意</li>
+                                        <li>多触点推广</li>
+                                        <li>再营销</li>
+                                    </ul>
+
+                                    <p class="section-case-product">
+
+                                        使用产品：<strong><a href="https://market.jdcloud.com/service/details/583649" clstag="Channel_marketing|keycount|Floor4|Link_0"
+                                                        target="_blank">达人KOL营销</a></strong>
+
+                                    </p>
+
+
+                                </div>
+
+                                <div>
+                                    <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|Link_2"
+                                       href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                                        立即咨询</a>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="CH-container-column">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <div class="model">
+                                        <p class="dot">“</p>
+
+                                        <p>
+                                            整合微信+京东全链路数据追踪，匹配激活粉丝资产，并带动销售转化；有京东数据加持，活动触发效果提升3.5倍，下单率9.1%，成交率5.6%
+                                        </p>
+
+                                        <p class="dot-end">”</p>
+
+                                    </div>
+                                    <img src="https://img1.jcloudcs.com/portal/channel/marketing/img5_fl3.png" alt="" />
+                                </div>
+
+                                <div class="col-content">
+                                    <h3 class="section-case-title">kindle微信精准营销</h3>
+                                    <p class=" section-case-desc">
+                                        电商消费行为数据结合微信社交属性，基于品牌微信公众号进行千人千信智能触达，最大化微信SCRM触达价值，实现微信+京东后链路精细化营销，私域流量引爆双十一京东店铺产品热销
+                                    </p>
+
+
+                                    <ul class="section-case-feature">
+                                        <li>私域流量识别</li>
+                                        <li>私域流量运营</li>
+                                        <li>私域流量变现</li>
+                                    </ul>
+
+                                    <p class="section-case-product">
+                                        使用产品：<strong><a href="https://market.jdcloud.com/service/details/582313" target="_blank" clstag="Channel_marketing|keycount|Floor4|Link_4">微信营销SCRM</a></strong>
+                                    </p>
+
+
+                                    <div>
+
+                                        <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|Link_5"
+                                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                                            立即咨询</a>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="CH-container-column">
+
+                            <div class="CH-container-imageText">
+
+                                <div class="col-image">
+
+                                    <div class="model">
+                                        <p class="dot">“</p>
+
+                                        <p>
+                                            投放覆盖人群男性比例较高，达到61.7%，以21-45岁的中青年为主，教育水平多为本科，且远高于全网人群。播放次数5万+，覆盖总人次400万+，全面提升京东智联云在温州地区的品牌影响力
+                                        </p>
+
+                                        <p class="dot-end">”</p>
+
+                                    </div>
+
+                                    <img src="https://img1.jcloudcs.com/portal/channel/marketing/img6_fl3.png" alt="" />
+
+                                </div>
+
+                                <div class="col-content">
+
+                                    <h3 class="section-case-title">京东智联云浙江总部区域影响力</h3>
+
+                                    <p class=" section-case-desc">
+
+                                        借京东集团香港上市和6.18大促，宣传京东智联云浙江总部基地落户乐清。锁定TA人群，根据TA浓度分析筛选出乐清、温州核心商圈LED进行1个月投放，覆盖全城目标消费人群
+                                    </p>
+
+
+                                    <ul class="section-case-feature">
+
+                                        <li>锁定高TA人群</li>
+
+                                        <li>多频次播放</li>
+
+                                        <li>提高品牌影响力</li>
+
+                                    </ul>
+
+                                    <p class="section-case-product">
+
+                                        使用产品：<strong><a href="https://dooh.jdcloud.com/" clstag="Channel_marketing|keycount|Floor4|Link_6"
+                                                        target="_blank">京屏联盟</a></strong>
+
+                                    </p>
+
+
+                                    <div>
+
+                                        <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|Link_7"
+                                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                                            立即咨询</a>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="CH-section section-case-m">
+        <header>
+            <h1>精选成功案例</h1>
+        </header>
+        <div class="CH-section-body">
+            <div class="CH-collapse">
+                <div class="CH-collapse-item is-selected">
+                    <div class="CH-collapse-item-header"><a name="case1">京东牛排超品日</a><i class="iconfont jc-icon-my-down"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-container-imageText">
+                            <div class="col-image">
+                                <img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img_fl3.png" alt="">
+                            </div>
+                            <div class="col-content">
+                                <h3 class="section-case-title">京东牛排超品日</h3>
+                                <p class=" section-case-desc">
+                                    基于京东电商数据赋能，帮助平台超品日智能优选高TA匹配度的微信KOL，并通过微信KOL多触点推广，在实现活动曝光/裂变/口碑沉淀最终达成京东电商转化，实现微信社交营销的品效联动
+                                </p>
+
+                                <ul class="section-case-feature">
+                                    <li>指导内容创意</li>
+                                    <li>多触点推广</li>
+                                    <li>再营销</li>
+                                </ul>
+                                <p class="section-case-product"><label>使用产品：</label><strong><a
+                                        href="https://market.jdcloud.com/service/details/583649" clstag="Channel_marketing|keycount|Floor4|MLink_0" target="_blank">达人KOL营销</a></strong></p>
+
+                                <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|MLink_2"
+                                   href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-collapse-item">
+                    <div class="CH-collapse-item-header"><a name="case2">kindle微信精准营销</a><i class="iconfont jc-icon-my-down"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-container-imageText">
+                            <div class="col-image">
+                                <img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img2_fl3.png" alt="">
+                            </div>
+                            <div class="col-content">
+                                <h3 class="section-case-title">kindle微信精准营销</h3>
+                                <p class=" section-case-desc">
+                                    电商消费行为数据结合微信社交属性，基于品牌微信公众号进行千人千信智能触达，最大化微信SCRM触达价值，实现微信+京东后链路精细化营销，私域流量引爆双十一京东店铺产品热销
+                                </p>
+
+                                <ul class="section-case-feature">
+                                    <li>私域流量识别</li>
+
+                                    <li>私域流量运营</li>
+
+                                    <li>私域流量变现</li>
+                                </ul>
+                                <p class="section-case-product"><label>使用产品：</label><strong><a
+                                        href="https://market.jdcloud.com/service/details/582313" clstag="Channel_marketing|keycount|Floor4|MLink_3" target="_blank">微信营销SCRM</a></strong></p>
+
+                                <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|MLink_4"
+                                   href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="CH-collapse-item">
+                    <div class="CH-collapse-item-header"><a name="case2">京东智联云浙江总部区域影响力</a><i class="iconfont jc-icon-my-down"></i>
+                    </div>
+                    <div class="CH-collapse-item-body">
+                        <div class="CH-container-imageText">
+                            <div class="col-image">
+                                <img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img3_fl3.png" alt="">
+                            </div>
+                            <div class="col-content">
+                                <h3 class="section-case-title">京东智联云浙江总部区域影响力</h3>
+                                <p class=" section-case-desc">借京东集团香港上市和6.18大促，宣传京东智联云浙江总部基地落户乐清。锁定TA人群，根据TA浓度分析筛选出乐清、温州核心商圈LED进行1个月投放，覆盖全城目标消费人群</p>
+
+                                <ul class="section-case-feature">
+                                    <li>锁定高TA人群</li>
+
+                                    <li>多频次播放</li>
+
+                                    <li>提高品牌影响力</li>
+                                </ul>
+                                <p class="section-case-product"><label>使用产品：</label><strong><a
+                                        href="https://dooh.jdcloud.com/" clstag="Channel_marketing|keycount|Floor4|MLink_5" target="_blank">京屏联盟</a></strong></p>
+
+                                <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|MLink_6"
+                                   href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>
+<!-- 专业、可靠的合作伙伴部分 -->
+<!-- TODO:文字过长后面的字就不显示了 -->
+
+<div class="CH-container">
+    <!-- 专业可靠的合作伙伴 -->
+    <section class="CH-section section-solution section-case fl7">
+        <header>
+            <h1>专业可靠的合作伙伴</h1>
+        </header>
+        <div class="CH-section-body seccessCase">
+            <div class="CH-panel">
+                <div class="swiper-container CH-carousel-type-7 swiper-no-swiping">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide" data-index="1">
+                            <div class="row">
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img2_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img3_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img4_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img5_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img6_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img7_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img8_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-3">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img9_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="partner">
+                    <a target="_blank" clstag="Channel_furniture|keycount|Floor6|Btn_0" href="https://www.jdcloud.com/cn/partner/index"
+                    >加入合作伙伴</a
+                    >
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="CH-section section-solution section-case-m fl7">
+        <header>
+            <h1>专业可靠的合作伙伴</h1>
+        </header>
+        <div class="CH-section-body seccessCase">
+            <div class="CH-panel">
+                <div class="swiper-container CH-carousel-type-7">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide" data-index="1">
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img2_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img3_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img4_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img5_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img6_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-index="2">
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img7_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img8_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                                <div class="col-xs-6">
+                                    <img
+                                            src="https://img1.jcloudcs.com/portal/channel/marketing/img9_fl4.png"
+                                            alt=""
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                        <div class="swiper-pagination"></div>
+                </div>
+                <div class="partner">
+                    <a target="_blank" clstag="Channel_furniture|keycount|Floor6|MBtn_0" href="https://www.jdcloud.com/cn/partner/index"
+                    >加入合作伙伴</a
+                    >
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //专业可靠的合作伙伴 -->
+    <section class="CH-section section-service">
+        <header>
+            <h1>为您提供一站式专业服务</h1>
+        </header>
+        <div class="CH-section-body">
+            <div class="CH-col-workflow CH-panel">
+                <ul class="workflow-list">
+                    <li class="workflow-list-item">
+                        <i><span>售前</span>
+</i>
+                        <p>1对1采购立项指导，获得1对1VIP服务</p>
+
+                    </li>
+                    <li class="workflow-list-item">
+                        <i><span>方案评估</span>
+</i>
+                        <p>免费提供演示账号、案例解读、流程指导及定制方案</p>
+
+                    </li>
+                    <li class="workflow-list-item">
+                        <i><span>购买</span>
+</i>
+                        <p>专业操作指导，尊享VIP购买服务，采购过程正规透明</p>
+
+                    </li>
+                    <li class="workflow-list-item">
+                        <i><span>使用</span>
+</i>
+                        <p>提供演示账号、经验分享、1V1指导保证进度，推荐最合适的人工服务渠道</p>
+
+                    </li>
+                    <li class="workflow-list-item">
+                        <i><span>总结</span>
+</i>
+                        <p>提供总结及规划建议，汇集真诚的意见、建议</p>
+
+                    </li>
+                </ul>
+                <div>
+                    <a href="#" target="_blank" class="CH-button-primary" clstag="Channel_marketing|keycount|Floor6|Link_0">立即咨询</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<div class="CH-footer">
+    <div class="CH-container">
+        <div class="row">
+            <div class="col-3 col-xs-12">
+                <div class="CH-footer-slogan">
+                    联系我们的专家，为您免费提供量身定制的方案咨询服务
+                </div>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt>免费咨询专家：400-623-0183</dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="Channel_marketing|keycount|Floor7|Link_0" href="https://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer" target="_blank">在线咨询服务<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>周一至周五 9:00-18:00</dd>
+                </dl>
+            </div>
+            <div class="col-3 col-xs-12">
+                <dl class="CH-footer-info-list">
+                    <dt><a clstag="Channel_marketing|keycount|Floor7|Link_1" href="https://www.jdcloud.com/forms/consultation" target="_blank">请销售顾问联系我<i class="iconfont jc-icon-my-right"></i></a></dt>
+                    <dd>不限时间，提交需求后，我们会尽快联系您</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
