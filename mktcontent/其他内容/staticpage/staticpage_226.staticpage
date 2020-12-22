@@ -12,37 +12,37 @@
                     <div class="channel-dropdown-col">
                         <dl class="channel-dropdown-dl">
                             <dt>营销洞察</dt>
-                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/580000" clstag="Channel_Retail|keycount|Header|Link_3_0_0">商圈罗盘</a></dd>
-                            <dd><a target="_blank" href="https://www.jdcloud.com/cn/solutions/Insight" clstag="Channel_Retail|keycount|Header|Link_3_0_1">云洞察-调研</a></dd>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/580000" clstag="Channel_marketing|keycount|Header|Link_3_0_0">商圈罗盘</a></dd>
+                            <dd><a target="_blank" href="https://www.jdcloud.com/cn/solutions/Insight" clstag="Channel_marketing|keycount|Header|Link_3_0_1">云洞察-调研</a></dd>
                         </dl>
                     </div>
                     <div class="channel-dropdown-col">
                         <dl class="channel-dropdown-dl">
                             <dt>营销投放</dt>
-                            <dd><a target="_blank" href="https://dooh.jdcloud.com/" clstag="Channel_Retail|keycount|Header|Link_3_1_0">京屏线下广告</a></dd>
-                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583656" clstag="Channel_Retail|keycount|Header|Link_3_1_1">智推短信营销</a></dd>
-                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/582313" clstag="Channel_Retail|keycount|Header|Link_3_1_2">微信营销SCRM</a></dd>
-                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583649" clstag="Channel_Retail|keycount|Header|Link_3_1_3">达人KOL营销</a></dd>
-                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583668" clstag="Channel_Retail|keycount|Header|Link_3_1_4">直播营销</a></dd>
+                            <dd><a target="_blank" href="https://dooh.jdcloud.com/" clstag="Channel_marketing|keycount|Header|Link_3_1_0">京屏线下广告</a></dd>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583656" clstag="Channel_marketing|keycount|Header|Link_3_1_1">智推短信营销</a></dd>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/582313" clstag="Channel_marketing|keycount|Header|Link_3_1_2">微信营销SCRM</a></dd>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583649" clstag="Channel_marketing|keycount|Header|Link_3_1_3">达人KOL营销</a></dd>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583668" clstag="Channel_marketing|keycount|Header|Link_3_1_4">直播营销</a></dd>
                         </dl>
                     </div>
                     <div class="channel-dropdown-col">
                         <dl class="channel-dropdown-dl">
                             <dt>行业营销</dt>
-                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583032" clstag="Channel_Retail|keycount|Header|Link_3_2_0">潜在客户管理平台（汽车版）</a></dd>
+                            <dd><a target="_blank" href="https://market.jdcloud.com/service/details/583032" clstag="Channel_marketing|keycount|Header|Link_3_2_0">潜在客户管理平台（汽车版）</a></dd>
                         </dl>
                     </div>
                 </div>
             </div>
         </li>
         <li class="listItem-hook">
-            <a target="_blank" clstag="Channel_Retail|keycount|Header|Link_4_0_0" href="http://aicube.jdcloud.com" class="channel_submenu_list_item">数据中台</a>
+            <a target="_blank" clstag="Channel_marketing|keycount|Header|Link_4_0_0" href="http://aicube.jdcloud.com" class="channel_submenu_list_item">数据中台</a>
         </li>
         <li class="listItem-hook">
-            <a target="_blank" clstag="Channel_Retail|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/case/list" class="channel_submenu_list_item">客户案例</a>
+            <a target="_blank" clstag="Channel_marketing|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/case/list" class="channel_submenu_list_item">客户案例</a>
         </li>
         <li class="listItem-hook">
-            <a target="_blank" clstag="Channel_Retail|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/partner/index" class="channel_submenu_list_item">合作伙伴</a>
+            <a target="_blank" clstag="Channel_marketing|keycount|Header|Link_4_0_0" href="https://www.jdcloud.com/cn/partner/index" class="channel_submenu_list_item">合作伙伴</a>
         </li>
     </ul>
 </div>
@@ -65,10 +65,10 @@
             </div>
             <div class="m-menu-list">
                 <div class="m-title-level-3">
-                    <a target="_blank" href="https://market.jdcloud.com/service/details/580000" clstag="Channel_Retail|keycount|Header|Link_3_0_0">商圈罗盘</a>
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/580000" clstag="Channel_marketing|keycount|Header|Link_3_0_0">商圈罗盘</a>
                 </div>
                 <div class="m-title-level-3">
-                    <a target="_blank" href="https://www.jdcloud.com/cn/solutions/Insight" clstag="Channel_Retail|keycount|Header|Link_3_0_1">云洞察-调研</a>
+                    <a target="_blank" href="https://www.jdcloud.com/cn/solutions/Insight" clstag="Channel_marketing|keycount|Header|Link_3_0_1">云洞察-调研</a>
                 </div>
             </div>
             <div class="m-title-level-2 m-menu-parent">
@@ -76,19 +76,19 @@
             </div>
             <div class="m-menu-list">
                 <div class="m-title-level-3">
-                    <a target="_blank" href="https://dooh.jdcloud.com/" clstag="Channel_Retail|keycount|Header|Link_3_1_0">京屏线下广告</a>
+                    <a target="_blank" href="https://dooh.jdcloud.com/" clstag="Channel_marketing|keycount|Header|Link_3_1_0">京屏线下广告</a>
                 </div>
                 <div class="m-title-level-3">
-                    <a target="_blank" href="https://market.jdcloud.com/service/details/583656" clstag="Channel_Retail|keycount|Header|Link_3_1_1">智推短信营销</a>
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/583656" clstag="Channel_marketing|keycount|Header|Link_3_1_1">智推短信营销</a>
                 </div>
                 <div class="m-title-level-3">
-                    <a target="_blank" href="https://market.jdcloud.com/service/details/582313" clstag="Channel_Retail|keycount|Header|Link_3_1_2">微信营销SCRM</a>
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/582313" clstag="Channel_marketing|keycount|Header|Link_3_1_2">微信营销SCRM</a>
                 </div>
                 <div class="m-title-level-3">
-                    <a target="_blank" href="https://market.jdcloud.com/service/details/583649" clstag="Channel_Retail|keycount|Header|Link_3_1_3">达人KOL营销</a>
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/583649" clstag="Channel_marketing|keycount|Header|Link_3_1_3">达人KOL营销</a>
                 </div>
                 <div class="m-title-level-3">
-                    <a target="_blank" href="https://market.jdcloud.com/service/details/583668" clstag="Channel_Retail|keycount|Header|Link_3_1_4">直播营销</a>
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/583668" clstag="Channel_marketing|keycount|Header|Link_3_1_4">直播营销</a>
                 </div>
             </div>            
             <div class="m-title-level-2 m-menu-parent">
@@ -96,24 +96,24 @@
             </div>
             <div class="m-menu-list">
                 <div class="m-title-level-3">
-                    <a target="_blank" href="https://market.jdcloud.com/service/details/583032" clstag="Channel_Retail|keycount|Header|Link_3_3_0">潜在客户管理平台（汽车版）</a>
+                    <a target="_blank" href="https://market.jdcloud.com/service/details/583032" clstag="Channel_marketing|keycount|Header|Link_3_3_0">潜在客户管理平台（汽车版）</a>
                 </div>
             </div>
         </div>
     </div>
     <div class="nav-m-menu">
         <div class="m-title-level-1">
-            <a target="_blank" clstag="Channel_Retail|keycount|Header|Link_4_0_0" href="https://yd.jdcloud.com/#/">数据中台</a>
+            <a target="_blank" clstag="Channel_marketing|keycount|Header|Link_4_0_0" href="https://yd.jdcloud.com/#/">数据中台</a>
         </div>
     </div>
     <div class="nav-m-menu">
         <div class="m-title-level-1">
-            <a target="_blank" clstag="Channel_Retail|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/case/list">客户与案例</a>
+            <a target="_blank" clstag="Channel_marketing|keycount|Header|Link_5_0_0" href="https://www.jdcloud.com/cn/case/list">客户与案例</a>
         </div>
     </div>
     <div class="nav-m-menu">
         <div class="m-title-level-1">
-            <a target="_blank" href="https://www.jdcloud.com/cn/partner/index" clstag="Channel_Retail|keycount|Header|Link_6_0_0">合作伙伴</a>
+            <a target="_blank" href="https://www.jdcloud.com/cn/partner/index" clstag="Channel_marketing|keycount|Header|Link_6_0_0">合作伙伴</a>
         </div>
     </div>
 </div>
@@ -231,7 +231,7 @@
                         </div>
                         <div class="swiper-slide" data-index="6">          
                             <div class="list-item">
-                                <div><i><img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img6_fl2.png"/></i><b>消费者生命周期管理</b></div>
+                                <div><i><img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img6_fl2.png"/></i><b>客户旅程管理</b></div>
                                 <p>构建品牌私域消费者管理平台，通过京东零售大数据给予更多的洞察与运营能力，利用互动营销工具不断提升公域潜客到私域的消费者资产与活跃度，形成长期价值转化。</p>
 
                             </div>          
@@ -1727,7 +1727,7 @@
 
                         <div class="swiper-slide" data-index="2">
 
-                            <img src="https://img1.jcloudcs.com/portal/channel/marketing/img2_fl3.png" alt="" />
+                            <img src="https://img1.jcloudcs.com/portal/channel/marketing/img3_fl3.png" alt="" />
 
                         </div>
 
@@ -1735,7 +1735,7 @@
 
                         <div class="swiper-slide" data-index="3">
 
-                            <img src="https://img1.jcloudcs.com/portal/channel/marketing/img3_fl3.png" alt="" />
+                            <img src="https://img1.jcloudcs.com/portal/channel/marketing/img2_fl3.png" alt="" />
 
                         </div>
                     </div>
@@ -1744,110 +1744,6 @@
                 <div class="CH-container-scroll-box">
 
                     <div class="CH-container-scroll">
-
-                        <div class="CH-container-column">
-
-                            <div class="CH-container-imageText">
-
-                                <div class="col-image">
-
-                                    <div class="model">
-                                        <p class="dot">“</p>
-
-                                        <p>
-                                            为京东牛排超品日实现社交种草，共投放近30篇KOL，并结合粉丝群实现二次曝光，阅读量超过20万+，并有效实现订单转化，同时推送种草所影响的粉丝PIN包至京准通，通过广告二次再营销，达成最高ROI在1：28以上
-                                        </p>
-
-                                        <p class="dot-end">”</p>
-
-                                    </div>
-                                    <img src="https://img1.jcloudcs.com/portal/channel/marketing/img4_fl3.png"/>
-
-                                </div>
-
-                                <div class="col-content">
-
-                                    <h3 class="section-case-title">京东牛排超品日</h3>
-
-                                    <p class=" section-case-desc">
-
-                                        基于京东电商数据赋能，帮助平台超品日智能优选高TA匹配度的微信KOL，并通过微信KOL多触点推广，在实现活动曝光/裂变/口碑沉淀最终达成京东电商转化，实现微信社交营销的品效联动
-
-                                    </p>
-
-                                    <ul class="section-case-feature">
-                                        <li>指导内容创意</li>
-                                        <li>多触点推广</li>
-                                        <li>再营销</li>
-                                    </ul>
-
-                                    <p class="section-case-product">
-
-                                        使用产品：<strong><a href="https://market.jdcloud.com/service/details/583649" clstag="Channel_marketing|keycount|Floor4|Link_0"
-                                                        target="_blank">达人KOL营销</a></strong>
-
-                                    </p>
-
-
-                                </div>
-
-                                <div>
-                                    <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|Link_2"
-                                       href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
-                                        立即咨询</a>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <div class="CH-container-column">
-                            <div class="CH-container-imageText">
-                                <div class="col-image">
-                                    <div class="model">
-                                        <p class="dot">“</p>
-
-                                        <p>
-                                            整合微信+京东全链路数据追踪，匹配激活粉丝资产，并带动销售转化；有京东数据加持，活动触发效果提升3.5倍，下单率9.1%，成交率5.6%
-                                        </p>
-
-                                        <p class="dot-end">”</p>
-
-                                    </div>
-                                    <img src="https://img1.jcloudcs.com/portal/channel/marketing/img5_fl3.png" alt="" />
-                                </div>
-
-                                <div class="col-content">
-                                    <h3 class="section-case-title">kindle微信精准营销</h3>
-                                    <p class=" section-case-desc">
-                                        电商消费行为数据结合微信社交属性，基于品牌微信公众号进行千人千信智能触达，最大化微信SCRM触达价值，实现微信+京东后链路精细化营销，私域流量引爆双十一京东店铺产品热销
-                                    </p>
-
-
-                                    <ul class="section-case-feature">
-                                        <li>私域流量识别</li>
-                                        <li>私域流量运营</li>
-                                        <li>私域流量变现</li>
-                                    </ul>
-
-                                    <p class="section-case-product">
-                                        使用产品：<strong><a href="https://market.jdcloud.com/service/details/582313" target="_blank" clstag="Channel_marketing|keycount|Floor4|Link_4">微信营销SCRM</a></strong>
-                                    </p>
-
-
-                                    <div>
-
-                                        <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|Link_5"
-                                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
-                                            立即咨询</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
 
                         <div class="CH-container-column">
 
@@ -1912,6 +1808,109 @@
 
                         </div>
 
+                        <div class="CH-container-column">
+                            <div class="CH-container-imageText">
+                                <div class="col-image">
+                                    <div class="model">
+                                        <p class="dot">“</p>
+
+                                        <p>
+                                            整合微信+京东全链路数据追踪，匹配激活粉丝资产，并带动销售转化；有京东数据加持，活动触发效果提升3.5倍，下单率9.1%，成交率5.6%
+                                        </p>
+
+                                        <p class="dot-end">”</p>
+
+                                    </div>
+                                    <img src="https://img1.jcloudcs.com/portal/channel/marketing/img5_fl3.png" alt="" />
+                                </div>
+
+                                <div class="col-content">
+                                    <h3 class="section-case-title">kindle微信精准营销</h3>
+                                    <p class=" section-case-desc">
+                                        电商消费行为数据结合微信社交属性，基于品牌微信公众号进行千人千信智能触达，最大化微信SCRM触达价值，实现微信+京东后链路精细化营销，私域流量引爆双十一京东店铺产品热销
+                                    </p>
+
+
+                                    <ul class="section-case-feature">
+                                        <li>私域流量识别</li>
+                                        <li>私域流量运营</li>
+                                        <li>私域流量变现</li>
+                                    </ul>
+
+                                    <p class="section-case-product">
+                                        使用产品：<strong><a href="https://market.jdcloud.com/service/details/582313" target="_blank" clstag="Channel_marketing|keycount|Floor4|Link_4">微信营销SCRM</a></strong>
+                                    </p>
+
+
+                                    <div>
+
+                                        <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|Link_5"
+                                           href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                                            立即咨询</a>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="CH-container-column">
+                            <div class="CH-container-imageText">
+
+                                <div class="col-image">
+
+                                    <div class="model">
+                                        <p class="dot">“</p>
+
+                                        <p>
+                                            为京东牛排超品日实现社交种草，共投放近30篇KOL，并结合粉丝群实现二次曝光，阅读量超过20万+，并有效实现订单转化，同时推送种草所影响的粉丝PIN包至京准通，通过广告二次再营销，达成最高ROI在1：28以上
+                                        </p>
+
+                                        <p class="dot-end">”</p>
+
+                                    </div>
+                                    <img src="https://img1.jcloudcs.com/portal/channel/marketing/img4_fl3.png"/>
+
+                                </div>
+
+                                <div class="col-content">
+
+                                    <h3 class="section-case-title">京东牛排超品日</h3>
+
+                                    <p class=" section-case-desc">
+
+                                        基于京东电商数据赋能，帮助平台超品日智能优选高TA匹配度的微信KOL，并通过微信KOL多触点推广，在实现活动曝光/裂变/口碑沉淀最终达成京东电商转化，实现微信社交营销的品效联动
+
+                                    </p>
+
+                                    <ul class="section-case-feature">
+                                        <li>指导内容创意</li>
+                                        <li>多触点推广</li>
+                                        <li>再营销</li>
+                                    </ul>
+
+                                    <p class="section-case-product">
+
+                                        使用产品：<strong><a href="https://market.jdcloud.com/service/details/583649" clstag="Channel_marketing|keycount|Floor4|Link_0"
+                                                        target="_blank">达人KOL营销</a></strong>
+
+                                    </p>
+
+
+                                </div>
+
+                                <div>
+                                    <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|Link_2"
+                                       href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">
+                                        立即咨询</a>
+                                </div>
+
+                            </div>
+
+                        </div>
+
                     </div>
 
                 </div>
@@ -1929,28 +1928,28 @@
         <div class="CH-section-body">
             <div class="CH-collapse">
                 <div class="CH-collapse-item is-selected">
-                    <div class="CH-collapse-item-header"><a name="case1">京东牛排超品日</a><i class="iconfont jc-icon-my-down"></i>
+                    <div class="CH-collapse-item-header"><a name="case2">京东智联云浙江总部区域影响力</a><i class="iconfont jc-icon-my-down"></i>
                     </div>
                     <div class="CH-collapse-item-body">
                         <div class="CH-container-imageText">
                             <div class="col-image">
-                                <img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img_fl3.png" alt="">
+                                <img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img3_fl3.png" alt="">
                             </div>
                             <div class="col-content">
-                                <h3 class="section-case-title">京东牛排超品日</h3>
-                                <p class=" section-case-desc">
-                                    基于京东电商数据赋能，帮助平台超品日智能优选高TA匹配度的微信KOL，并通过微信KOL多触点推广，在实现活动曝光/裂变/口碑沉淀最终达成京东电商转化，实现微信社交营销的品效联动
-                                </p>
+                                <h3 class="section-case-title">京东智联云浙江总部区域影响力</h3>
+                                <p class=" section-case-desc">借京东集团香港上市和6.18大促，宣传京东智联云浙江总部基地落户乐清。锁定TA人群，根据TA浓度分析筛选出乐清、温州核心商圈LED进行1个月投放，覆盖全城目标消费人群</p>
 
                                 <ul class="section-case-feature">
-                                    <li>指导内容创意</li>
-                                    <li>多触点推广</li>
-                                    <li>再营销</li>
+                                    <li>锁定高TA人群</li>
+
+                                    <li>多频次播放</li>
+
+                                    <li>提高品牌影响力</li>
                                 </ul>
                                 <p class="section-case-product"><label>使用产品：</label><strong><a
-                                        href="https://market.jdcloud.com/service/details/583649" clstag="Channel_marketing|keycount|Floor4|MLink_0" target="_blank">达人KOL营销</a></strong></p>
+                                        href="https://dooh.jdcloud.com/" clstag="Channel_marketing|keycount|Floor4|MLink_5" target="_blank">京屏联盟</a></strong></p>
 
-                                <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|MLink_2"
+                                <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|MLink_6"
                                    href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                             </div>
                         </div>
@@ -1987,32 +1986,33 @@
                     </div>
                 </div>
                 <div class="CH-collapse-item">
-                    <div class="CH-collapse-item-header"><a name="case2">京东智联云浙江总部区域影响力</a><i class="iconfont jc-icon-my-down"></i>
+                <div class="CH-collapse-item-header"><a name="case1">京东牛排超品日</a><i class="iconfont jc-icon-my-down"></i>
                     </div>
                     <div class="CH-collapse-item-body">
                         <div class="CH-container-imageText">
                             <div class="col-image">
-                                <img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img3_fl3.png" alt="">
+                                <img src="https://img1.jcloudcs.com/portal/channel/marketing/m/img_fl3.png" alt="">
                             </div>
                             <div class="col-content">
-                                <h3 class="section-case-title">京东智联云浙江总部区域影响力</h3>
-                                <p class=" section-case-desc">借京东集团香港上市和6.18大促，宣传京东智联云浙江总部基地落户乐清。锁定TA人群，根据TA浓度分析筛选出乐清、温州核心商圈LED进行1个月投放，覆盖全城目标消费人群</p>
+                                <h3 class="section-case-title">京东牛排超品日</h3>
+                                <p class=" section-case-desc">
+                                    基于京东电商数据赋能，帮助平台超品日智能优选高TA匹配度的微信KOL，并通过微信KOL多触点推广，在实现活动曝光/裂变/口碑沉淀最终达成京东电商转化，实现微信社交营销的品效联动
+                                </p>
 
                                 <ul class="section-case-feature">
-                                    <li>锁定高TA人群</li>
-
-                                    <li>多频次播放</li>
-
-                                    <li>提高品牌影响力</li>
+                                    <li>指导内容创意</li>
+                                    <li>多触点推广</li>
+                                    <li>再营销</li>
                                 </ul>
                                 <p class="section-case-product"><label>使用产品：</label><strong><a
-                                        href="https://dooh.jdcloud.com/" clstag="Channel_marketing|keycount|Floor4|MLink_5" target="_blank">京屏联盟</a></strong></p>
+                                        href="https://market.jdcloud.com/service/details/583649" clstag="Channel_marketing|keycount|Floor4|MLink_0" target="_blank">达人KOL营销</a></strong></p>
 
-                                <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|MLink_6"
+                                <a target="_blank" class="section-case-button" clstag="Channel_marketing|keycount|Floor4|MLink_2"
                                    href="http://dd1-open.jd.com/chat/m/index?source=open_web&aspid=18263598494.1.3.0.1664&waiterApp=open.18992bf0a159e570ed70016a51.waiter&entry=%20%20%20%20%20&venderId=18263598494&mallId=18263598494&ws=ws1-dd.jd.com&lang=zh_CN&waiterAppId=open.18992bf0a159e570ed70016a51.waiter&userApp=open.18992bf0a159e570ed70016a51.customer">立即咨询</a>
                             </div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </div>
@@ -2146,10 +2146,7 @@
                                             alt=""
                                     />
                                 </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide" data-index="2">
-                            <div class="row">
+
                                 <div class="col-xs-6">
                                     <img
                                             src="https://img1.jcloudcs.com/portal/channel/marketing/img7_fl4.png"
@@ -2162,6 +2159,10 @@
                                             alt=""
                                     />
                                 </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-index="2">
+                            <div class="row">
                                 <div class="col-xs-6">
                                     <img
                                             src="https://img1.jcloudcs.com/portal/channel/marketing/img9_fl4.png"
@@ -2222,7 +2223,7 @@
                     </li>
                 </ul>
                 <div>
-                    <a href="#" target="_blank" class="CH-button-primary" clstag="Channel_marketing|keycount|Floor6|Link_0">立即咨询</a>
+                    <a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" class="CH-button-primary" clstag="Channel_marketing|keycount|Floor6|Link_0">立即咨询</a>
                 </div>
             </div>
         </div>
