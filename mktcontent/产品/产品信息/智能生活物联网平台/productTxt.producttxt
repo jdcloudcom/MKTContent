@@ -12,7 +12,7 @@
 		"id":2190
 	},
 	{
-		"txt":"[{\"name\":\"开通服务\",\"link\":\"https://docs.jdcloud.com/iot-estate/product-overview\",\"classTag\":\"\"},{\"name\":\"计费规则\",\"link\":\"https://docs.jdcloud.com/iot-estate/product-overview\",\"classTag\":\"\"},{\"name\":\"入门指南\",\"link\":\"https://docs.jdcloud.com/iot-estate/product-overview\",\"classTag\":\"\"},{\"name\":\"FAQ\",\"link\":\"https://docs.jdcloud.com/iot-estate/product-overview\",\"classTag\":\"\"},{\"name\":\"设备接入\",\"link\":\"\",\"classTag\":\"\"},{\"name\":\"设备直连SDK\",\"link\":\"\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"购买流程\",\"link\":\"https://docs.jdcloud.com/iot-estate/purchase-process\",\"classTag\":\"\"},{\"name\":\"计费规则\",\"link\":\"https://docs.jdcloud.com/iot-estate/billing-rules\",\"classTag\":\"\"},{\"name\":\"入门指南\",\"link\":\"https://docs.jdcloud.com/iot-estate/getting-started\",\"classTag\":\"\"},{\"name\":\"FAQ\",\"link\":\"https://docs.jdcloud.com/iot-estate/faq\",\"classTag\":\"\"},{\"name\":\"设备接入\",\"link\":\"https://docs.jdcloud.com/iot-estate/device-access\",\"classTag\":\"\"},{\"name\":\"设备直连SDK\",\"link\":\"https://docs.jdcloud.com/iot-estate/device-sdk-introduction\",\"classTag\":\"\"}]",
 		"id":2191
 	}
 ]
