@@ -1,0 +1,19 @@
+<p style="text-indent:32px">您好，近日京东云安全团队监测到FireEye 发布了 SolarWinds 供应链攻击的分析报告。其产品中存在长达1年的供应链攻击，被植入多个后门。</p>
+<p>&nbsp;</p>
+<p>【漏洞描述】</p>
+<p>&nbsp;&nbsp;&nbsp; SolarWinds Inc. 是一家美国公司，为企业提软件以帮助管理其网络，系统和信息技术基础架构。近日SolarWinds官方发布安全公告，SolarWinds Orion平台软件在2020年3月至6月之间发布的2019.4 - 2020.2.1版本均受到了供应链攻击影响，这些版本的安装包内存在恶意的后门应用程序。后门在经过长达两个星期的休眠期后，会根据C2返回的指令进行活动。</p>
+<p><strong><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#373D41;background:white">提醒SolarWinds 用户尽快采取安全措施阻止漏洞攻击</span>
+</strong></p>
+<p>&nbsp;</p>
+<p>【影响版本】</p>
+<p>SolarWinds Orion 2019.4 - 2020.2.1版本</p>
+<p>&nbsp;</p>
+<p>【安全建议】</p>
+<p style=";margin-bottom:0;line-height:24px;background:white">1. 将 SolarWinds 软件升级至 2020.2.1 HF2</p>
+<p style=";margin-bottom:0;line-height:24px;background:white">2. SolarWinds 为商业软件，可联系 swisupport#solarwinds.com 以获取进一步支持</p>
+<p>&nbsp;</p>
+<p>【相关链接】</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html" target="_blank"><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#00AFC9">https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html</span>
+</a></span>
+</p>
+<p><br/></p>
