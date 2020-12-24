@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"安全培训\",\"label\":[{\"TitleName\":\"工单咨询\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=1135&questionId=1194\",\"classTag\":\"\"}],\"desc\":\"根据政府和企业具体情况与需求，定制个性化的安全培训课程计划，帮助相关人员了解并掌握相关安全知识和技能。通过培训，帮助企业在研发和运维过程中尽量避免由于安全知识的匮乏而造成信息安全事故。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"安全培训\",\"label\":[{\"TitleName\":\"工单咨询\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=1135&questionId=1194\",\"classTag\":\"\"},{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://threatscanner-console.jdcloud.com/safety/create\",\"classTag\":\"\"}],\"desc\":\"根据政府和企业具体情况与需求，定制个性化的安全培训课程计划，帮助相关人员了解并掌握相关安全知识和技能。通过培训，帮助企业在研发和运维过程中尽量避免由于安全知识的匮乏而造成信息安全事故。\"}",
 		"id":1468
 	},
 	{
