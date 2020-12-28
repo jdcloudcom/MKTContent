@@ -1,49 +1,50 @@
 <body class="jdc-rwd">
-    <div class="subMenu-box">
-        <h2>物联网</h2>
-        <div class="subMenu-level1">
-            <ul>
-                <li class="subMenu-link submenu-index">
-                    <a href="https://www.jdcloud.com" target="_blank" clstag="IoT|keycount|subMenu|homePage">首页</a>
-                </li>
-                <li class="subMenu-link hasChild">
-                    <a href="#" class="drop-link" clstag="IoT|keycount|subMenu|products">产品</a>
-                    <div class="subMenu-drop-box">
-                        <ul class="subMenu-level2">
-                            <li><a href="https://www.jdcloud.com/cn/products/iot-core" target="_blank" clstag="IoT|keycount|subMenu|core">物联网引擎</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/products/iot-hub" target="_blank" clstag="IoT|keycount|subMenu|hub">物联网中心</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/products/iot-protocol-adaptor" target="_blank" clstag="IoT|keycount|subMenu|protocolAdaptor">物联网协议适配</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/products/iot-edge" target="_blank" clstag="IoT|keycount|subMenu|edge">物联网智能边缘计算</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/products/iot-link-service" target="_blank" clstag="IoT|keycount|subMenu|linkService">物联网卡服务</a></li>
-                            <li><a href="https://www.jdcloud.com/products/jdwhale-dcs" target="_blank" clstag="IoT|keycount|subMenu|dcs">京鱼座设备池开放</a></li>
+	<div class="subMenu-box">
+		<h2>物联网</h2>
+		<div class="subMenu-level1">
+			<ul>
+				<li class="subMenu-link submenu-index">
+					<a href="https://www.jdcloud.com" target="_blank" clstag="IoT|keycount|subMenu|homePage">首页</a>
+				</li>
+				<li class="subMenu-link hasChild">
+					<a href="#" class="drop-link" clstag="IoT|keycount|subMenu|products">产品</a>
+					<div class="subMenu-drop-box">
+						<ul class="subMenu-level2">
+							<li><a href="https://www.jdcloud.com/cn/products/iot-core" target="_blank" clstag="IoT|keycount|subMenu|core">物联网引擎</a></li>
+							<li><a href="https://www.jdcloud.com/cn/products/iot-hub" target="_blank" clstag="IoT|keycount|subMenu|hub">物联网中心</a></li>
+							<li><a href="https://www.jdcloud.com/cn/products/iot-protocol-adaptor" target="_blank" clstag="IoT|keycount|subMenu|protocolAdaptor">物联网协议适配</a></li>
+							<li><a href="https://www.jdcloud.com/cn/products/iot-edge" target="_blank" clstag="IoT|keycount|subMenu|edge">物联网智能边缘计算</a></li>
+							<li><a href="https://www.jdcloud.com/cn/products/iot-link-service" target="_blank" clstag="IoT|keycount|subMenu|linkService">物联网卡服务</a></li>
+							<li><a href="https://www.jdcloud.com/products/jdwhale-dcs" target="_blank" clstag="IoT|keycount|subMenu|dcs">京鱼座设备池开放</a></li>
 							<li><a href="https://www.jdcloud.com/cn/products/rt-thread" target="_blank" clstag="IoT|keycount|subMenu|thread">物联网操作系统</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/products/iov-mobility-service" target="_blank" clstag="IoT|keycount|subMenu|service">车主出行服务</a></li>
+							<li><a href="https://www.jdcloud.com/cn/products/iov-mobility-service" target="_blank" clstag="IoT|keycount|subMenu|service">车主出行服务</a></li>
+							<li><a href="https://www.jdcloud.com/cn/products/iotestate" target="_blank" clstag="IoT|keycount|subMenu|iotestate">智能生活物联网平台</a></li>
 						</ul>
-                    </div>
-                </li>
-                <li class="subMenu-link hasChild">
-                    <a href="#" class="drop-link" clstag="IoT|keycount|subMenu|resolve">行业解决方案</a>
-                    <div class="subMenu-drop-box">
-                        <ul class="subMenu-level2">
-                            <li><a href="https://www.jdcloud.com/solutions/smarthome-connectivity" target="_blank" clstag="IoT|keycount|subMenu|smarthomeConnectivity">单品智能化</a></li>
-                            <li><a href="https://www.jdcloud.com/solutions/jdwhale-assistant" target="_blank" clstag="IoT|keycount|subMenu|jdwhaleAssistant">智能助手赋能</a></li>
-                            <li><a href="https://www.jdcloud.com/solutions/iov-automotive-services" target="_blank" clstag="IoT|keycount|subMenu|iovAutomotiveServices">车联网</a></li>
-                            <li><a href="https://www.jdcloud.com/solutions/iov-v2x" target="_blank" clstag="IoT|keycount|subMenu|iovV2x">车路协同</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/solutions/community" target="_blank" clstag="IoT|keycount|subMenu|community">智能社区</a></li>
-                            <li><a href="https://www.jdcloud.com/solutions/iiot" target="_blank" clstag="IoT|keycount|subMenu|iiot">工业物联</a></li>
+					</div>
+				</li>
+				<li class="subMenu-link hasChild">
+					<a href="#" class="drop-link" clstag="IoT|keycount|subMenu|resolve">行业解决方案</a>
+					<div class="subMenu-drop-box">
+						<ul class="subMenu-level2">
+							<li><a href="https://www.jdcloud.com/solutions/smarthome-connectivity" target="_blank" clstag="IoT|keycount|subMenu|smarthomeConnectivity">单品智能化</a></li>
+							<li><a href="https://www.jdcloud.com/solutions/jdwhale-assistant" target="_blank" clstag="IoT|keycount|subMenu|jdwhaleAssistant">智能助手赋能</a></li>
+							<li><a href="https://www.jdcloud.com/solutions/iov-automotive-services" target="_blank" clstag="IoT|keycount|subMenu|iovAutomotiveServices">车联网</a></li>
+							<li><a href="https://www.jdcloud.com/solutions/iov-v2x" target="_blank" clstag="IoT|keycount|subMenu|iovV2x">车路协同</a></li>
+							<li><a href="https://www.jdcloud.com/cn/solutions/community" target="_blank" clstag="IoT|keycount|subMenu|community">智能社区</a></li>
+							<li><a href="https://www.jdcloud.com/solutions/iiot" target="_blank" clstag="IoT|keycount|subMenu|iiot">工业物联</a></li>
 							<li><a href="https://www.jdcloud.com/solutions/starlink " target="_blank" clstag="IoT|keycount|subMenu|starlink">京东星链零售物联平台</a></li>
-                            <li><a href="https://www.jdcloud.com/cn/solutions/commercial-vehicle" target="_blank" clstag="IoT|keycount|subMenu|vehicle">商用车数字车队</a></li>
-                            <li><a href="https://www.jdcloud.com/solutions/iov-telematics-devices" target="_blank" clstag="IoT|keycount|subMenu|devices">车载智能硬件</a></li>
-                            <li><a href="https://www.jdcloud.com/solutions/iov-digital-marketing" target="_blank" clstag="IoT|keycount|subMenu|marketing">车联数字营销</a></li>
-                        </ul>
-                    </div>
-                </li>
-                <li class="subMenu-link">
-                    <a href="https://mall.jd.com/index-1000039942.html" target="_blank" clstag="IoT|keycount|subMenu|inteHardware">智能硬件</a>
-                </li>
-            </ul>
-        </div>
-        <div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i><a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="IoT|keycount|subMenu|preSaleConsultation">售前咨询：400-623-0183</a></div>
+							<li><a href="https://www.jdcloud.com/cn/solutions/commercial-vehicle" target="_blank" clstag="IoT|keycount|subMenu|vehicle">商用车数字车队</a></li>
+							<li><a href="https://www.jdcloud.com/solutions/iov-telematics-devices" target="_blank" clstag="IoT|keycount|subMenu|devices">车载智能硬件</a></li>
+							<li><a href="https://www.jdcloud.com/solutions/iov-digital-marketing" target="_blank" clstag="IoT|keycount|subMenu|marketing">车联数字营销</a></li>
+						</ul>
+					</div>
+				</li>
+				<li class="subMenu-link">
+					<a href="https://mall.jd.com/index-1000039942.html" target="_blank" clstag="IoT|keycount|subMenu|inteHardware">智能硬件</a>
+				</li>
+			</ul>
+		</div>
+		<div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i><a href="https://www.jdcloud.com/cn/forms/consultation" target="_blank" clstag="IoT|keycount|subMenu|preSaleConsultation">售前咨询：400-623-0183</a></div>
     </div>
 
     <div class="CH-container">
