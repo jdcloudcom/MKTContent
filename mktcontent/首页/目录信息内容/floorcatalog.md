@@ -2752,8 +2752,8 @@
 		"button_title":"立即抢购"
 	},
 	{
-		"name":".cn 域名",
-		"description":"国内顶级域名，中国企业的互联网标识",
+		"name":".com 域名",
+		"description":"全球注册量No.1，全球最受欢迎域名",
 		"id":3212,
 		"button_title":"立即注册"
 	},
