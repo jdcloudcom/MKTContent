@@ -12,7 +12,7 @@
 		"id":1498
 	},
 	{
-		"txt":"[{\"name\":\"应用场景\",\"instruction\":\"通常利用jmeter客户端，本地创建自定义脚本并上传或在线创建简单的http发压脚本，配置简单的发压参数，快速执行发压请求，并根据用户需要快速扩展发压资源。可以实时查看性能测试报告、采样日志追踪、历史执行记录以及监控数据，并且可以设置简单的定时任务执行发压。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"性能测试\",\"url\":\"//www.jdcloud.com/products/perftest\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ee04e6ef-92b6-4b65-a6ff-206e824bc49520191017182136.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"系统交付前的性能验收测试\",\"instruction\":\"通过性能测试服务，准确评估系统能力，保证新上线系统面对真实用户流量时稳定。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"性能测试\",\"url\":\"//www.jdcloud.com/products/perftest\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\" 技术升级验证\",\"instruction\":\"技术架构升级后进行性能评估，验证系统升级后的性能。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"性能测试\",\"url\":\"//www.jdcloud.com/products/perftest\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"容量规划\",\"instruction\":\"模拟真实的业务场景在生产环境进行单系统/单链路/全链路压测，确定每个服务节点的具体性能表现，进行针对性调整比如垂直扩容或水平扩容。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"性能测试\",\"url\":\"//www.jdcloud.com/products/perftest\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"性能瓶颈定位\",\"instruction\":\"使用性能测试服务，设计不同的压测场景，精准定位系统的性能瓶颈点，进行优化和回归验证。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"性能测试\",\"url\":\"//www.jdcloud.com/products/perftest\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
 		"id":1499
 	}
 ]
