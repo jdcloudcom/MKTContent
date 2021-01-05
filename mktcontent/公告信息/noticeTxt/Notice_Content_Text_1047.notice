@@ -1,0 +1,27 @@
+<p style="text-indent:28px"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">您好</span>
+</p>
+<p style="text-align:left"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">近日，京东云安全团队监测到Oracle WebLogic Server存在XXE漏洞。攻击者可以在未授权情况下对目标系统发起XML外部实体注入攻击，成功触发该漏洞需要目标开启T3或IIOP协议。T3是用于在WebLogic服务器和其他类型的Java程序之间传输信息的协议。漏洞影响力较大，请<span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: black;">检</span>
+查当前是否使用受漏洞影响的软件版本</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">【漏洞评级】</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">高危</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">【受影响版本】</span>
+</p>
+<p>WebLogic 10.3.6.0.0</p>
+<p>WebLogic 12.1.3.0.0</p>
+<p>WebLogic 12.2.1.3.0</p>
+<p>WebLogic 12.2.1.4.0</p>
+<p>WebLogic 14.1.1.0.0</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">&nbsp;</span>
+</p>
+<p><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">【修复建议】</span>
+</p>
+<p style="text-align:left"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">由于Oracle暂未发布相关修复补丁，建议受影响用户禁用T3、IIOP协议之后重启weblogic项目从而降低风险，并关注Oracle Weblogic Server补丁更新情况</span>
+</p>
+<p><br/></p>
