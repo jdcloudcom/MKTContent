@@ -1222,5 +1222,9 @@
 	{
 		"id":1047,
 		"title":"【漏洞预警】Oracle WebLogic XXE漏洞安全公告"
+	},
+	{
+		"id":1048,
+		"title":"【漏洞预警】Apache Flink 高危漏洞预警（CVE-2020-17518/CVE-2020-17519）"
 	}
 ]
