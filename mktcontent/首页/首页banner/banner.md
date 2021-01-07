@@ -1615,5 +1615,12 @@
 		"id":1324,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"开发者培训认证活动",
+		"id":1326,
+		"button_title":"",
+		"main_title":""
 	}
 ]
