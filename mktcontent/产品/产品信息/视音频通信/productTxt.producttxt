@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"视音频通信\",\"label\":[],\"desc\":\"京东智联云视音频通信产品，依托核心音视频编解码、信道传输、网络调度等技术，为您提供高可用、高品质、超低延时的音视频通信服务和实时音视频开发平台，满足多人音视频通话和低延时互动多场景使用需求。\"}",
+		"id":2180
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"安全\",\"proName\":\"视音频数据全程AES高强度加密；秘钥周期性更换，确保数据传输安全；\\n信令https/websocket加密，安全可靠，无法非法窃取内容；\\n严格的账号、服务认证体系，拒绝非法访问。\"},{\"showShade\":false,\"proGood\":\"性能\",\"proName\":\"网络丢包>70%, 声音质量良好；网络丢包>30%,视频质量良好；\\n房间并发用户数>2000 ，每用户均可发布视频，并发语音发言16方；\\n平均视音频延时<260ms；平均起播延时<1秒。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"可靠\",\"proName\":\"平台服务多机房、多线路、多集群部署，确保服务永不下线；\\n客户端网络自适应，增强对复杂环境适应性；\\n支持单流双推到不同服务器、机房，异常后自动切换，观看端基本不感知。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"易用\",\"proName\":\"针对场景封装SDK，包括在线教育SDK、低延时直播SDK，贴近应用、快捷集成；\\n提供用户控制台，查看用量、质量、设置、计费、开通服务等。\"}]",
+		"id":2181
+	},
+	{
+		"txt":"[{\"funcName\":\"多终端多平台\",\"funcContent\":[{\"funcTitle\":\"多端快速集成\",\"funcP\":\"提供满足PC、移动、专业设备系统运行的SDK版本，客户可快速集成满足自身业务侧开发需求，场景快速落地\"}]},{\"funcName\":\"丰富的场景支撑\",\"funcContent\":[{\"funcTitle\":\"纯音频通话\",\"funcP\":\"可支持一对一、一对多、多对多的纯语音通话，实现语音派对、小语种教学、桌游等场景\"},{\"funcTitle\":\"视频通话\",\"funcP\":\"可支持一对一、一对多、多对多的高清画质视频通话，实现视频教学、直播互动、视频会议等场景\"},{\"funcTitle\":\"屏幕共享\",\"funcP\":\"支持PC端Windows、Mac平台的电脑屏幕共享，完美支撑远程协同办公和解说类场景\"},{\"funcTitle\":\"一流多规格\",\"funcP\":\"同一路流可提供多种分辨率画面输出，大屏订阅高分辨率，小屏订阅低分辨率，提供最佳的观看体验\"},{\"funcTitle\":\"互动连麦\",\"funcP\":\"主播与主播、主播与观众连麦互动，引爆直播间人气，增加观看人数和流量\"},{\"funcTitle\":\"云端合流\",\"funcP\":\"可将频道内的音视频按照自定义布局合成新的画面，通过标准直播方式分发，实现合流后的大规模观看\"},{\"funcTitle\":\"云端录制\",\"funcP\":\"将频道内音视频按照所选布局合流，进行云端录制存储，实现精彩PK瞬间的点播回看\"}]},{\"funcName\":\"完善的统计数据\",\"funcContent\":[{\"funcTitle\":\"用量查询\",\"funcP\":\"通信时长、频道数等多种统计数据可查询，实时了解业务用量情况\"},{\"funcTitle\":\"通信记录\",\"funcP\":\"详细频道历史记录，可随时了解终端会话详情\"}]}]",
+		"id":2182
+	},
+	{
+		"txt":"[{\"name\":\"视频电商\",\"instruction\":\"支持主播与主播、主播与观众实时连麦互动，赋能直播带货，以视频交互增加观众流量，提高订单转化率\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"视频直播\",\"url\":\"//www.jdcloud.com/products/live-video\"},{\"name\":\"视音频通信\",\"url\":\"//www.jdcloud.com/products/real-time-communication\"},{\"name\":\"视频点播\",\"url\":\"//www.jdcloud.com/products/video-on-demand\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d66ae144-c53e-40b6-8d44-f7699a0298fb20201228160317.jpg\",\"showShade\":false},{\"name\":\"在线教育\",\"instruction\":\"支持1对1、互动小班课、双师课堂等多种教育模式，课中强视频互动，提高教学质量\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"视频直播\",\"url\":\"//www.jdcloud.com/products/live-video\"},{\"name\":\"视音频通信\",\"url\":\"//www.jdcloud.com/products/real-time-communication\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1cca327a-f114-4e52-9677-c2a4346263f820201228160400.jpg\",\"showShade\":false},{\"name\":\"互联网医疗\",\"instruction\":\"集实时音视频、屏幕共享、文档共享、互动白板、实时消息、录制留存等功能的一站式智慧医疗解决方案，\\n满足医疗诊断、医疗社交、医疗教育的多元需求\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"视频直播\",\"url\":\"//www.jdcloud.com/products/live-video\"},{\"name\":\"视音频通信\",\"url\":\"//www.jdcloud.com/products/real-time-communication\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d001d0e2-5026-4e57-839f-8cfa7337c76420201228160450.jpg\",\"showShade\":false}]",
+		"id":2183
+	}
+]
