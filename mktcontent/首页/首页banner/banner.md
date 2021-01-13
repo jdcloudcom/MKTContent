@@ -1622,5 +1622,12 @@
 		"id":1326,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"开发者社区大促备战",
+		"id":1328,
+		"button_title":"",
+		"main_title":""
 	}
 ]
