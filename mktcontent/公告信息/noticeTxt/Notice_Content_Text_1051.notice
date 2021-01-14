@@ -1,0 +1,42 @@
+<p style="text-indent:28px">您好</p>
+<p>近日，京东智联云安全团队监测到Jenkins官方在最新的安全公告中披露了多个漏洞。其中包括7个高危，3个中危。高危漏洞涉及多个xss漏洞，一个xml反序列化漏洞及一个路径穿越漏洞。</p>
+<p><br/></p>
+<p>【漏洞描述】</p>
+<p style="background:white">Jenkins是一个开源软件项目，是基于Java开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件的持续集成变成可能。</p>
+<p style="background:white">&nbsp;</p>
+<p style="background:white">官方公告中以下漏洞需重点关注：</p>
+<p style="background:white">SECURITY-1889/CVE-2021-21603：notification bar模块XSS漏洞(高危)</p>
+<p style="background:white">SECURITY-1923/CVE-2021-21604：REST API XML 反序列化漏洞(高危)</p>
+<p style="background:white">SECURITY-2021/CVE-2021-21605：agent names路径穿越漏洞(高危)</p>
+<p style="background:white">SECURITY-2035/CVE-2021-21608：button labels模块存储型XSS漏洞(高危)&nbsp;</p>
+<p style="background:white">SECURITY-2098/CVE-2021-21613：TICS Plugin模块XSS漏洞(高危)&nbsp;</p>
+<p style="background:white">SECURITY-2153/CVE-2021-21610：markup formatter preview模块反射型XSS漏洞(高危)</p>
+<p style="background:white">SECURITY-2171/CVE-2021-21611：item页面存储型XSS漏洞(高危)</p>
+<p style="background:white">SECURITY-1452/CVE-2021-21602：workspace browsers任意文件读取漏洞(中危)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>【漏洞评级】</p>
+<p>高危</p>
+<p>&nbsp;</p>
+<p>【受影响版本】</p>
+<p style="background:white">Jenkins weekly &lt;= 2.274</p>
+<p style="background:white">Jenkins LTS &lt;= 2.263.1</p>
+<p style="background:white">Bumblebee HP ALM Plugin &lt;= 4.1.5</p>
+<p style="background:white">TICS Plugin &lt;= 2020.3.0.6</p>
+<p style="background:white">TraceTronic ECU-TEST Plugin &lt;= 2.23.1</p>
+<p>&nbsp;</p>
+<p>【安全版本】</p>
+<p style="background:white">Jenkins weekly版2.275及以上</p>
+<p style="background:white">Jenkins LTS版2.263.2及以上</p>
+<p style="background:white">Bumblebee HP ALM插件4.1.6及以上</p>
+<p style="background:white">TICS插件2020.3.0.7及以上</p>
+<p style="background:white">TraceTronic ECU-TEST插件2.24及以上</p>
+<p>&nbsp;</p>
+<p>【修复建议】</p>
+<p style="background:white">Jenkins官方已发布安全版本，京东智联云安全建议您尽快升级到上述最新版本，避免相关安全风险。</p>
+<p>&nbsp;</p>
+<p>【相关链接】</p>
+<p><a href="https://www.jenkins.io/security/advisory/2021-01-13/" title="https://www.jenkins.io/security/advisory/2021-01-13/"><span style="font-size:15px;font-family:&#39;Helvetica Neue&#39;;color:#333333;letter-spacing: 1px;text-underline:none">https://www.jenkins.io/security/advisory/2021-01-13/</span>
+</a></p>
+<p>&nbsp;</p>
+<p><br/></p>
