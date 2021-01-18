@@ -1,0 +1,43 @@
+<p style="text-indent:28px">您好</p>
+<p>近日，京东云安全团队监测到JumpServer官方发布安全更新，修复了一处远程代码执行漏洞。</p>
+<p>&nbsp;</p>
+<p>【漏洞描述】</p>
+<p>&nbsp;&nbsp;&nbsp; JumpServer 是全球首款完全开源的堡垒机, 使用 GNU GPL v2.0 开源协议, 是符合 4A 的专业运维审计系统。使用 Python / Django 进行开发, 遵循 Web 2.0 规范, 配备了业界领先的 Web Terminal 解决方案。由于api认证接口存在认证漏洞，攻击者可构造恶意请求绕过权限控制，获取敏感信息，或者执行api控制机器，执行任意命令。</p>
+<p>&nbsp;</p>
+<p>【漏洞评级】</p>
+<p>高危</p>
+<p>&nbsp;</p>
+<p>【受影响版本】</p>
+<p>&lt; v2.6.2</p>
+<p>&lt; v2.5.4</p>
+<p>&lt; v2.4.5</p>
+<p>= v1.5.9</p>
+<p>&nbsp;</p>
+<p>【安全版本】</p>
+<p>&gt;= v2.6.2</p>
+<p>&gt;= v2.5.4</p>
+<p>&gt;= v2.4.5&nbsp;</p>
+<p>= v1.5.9 （版本号没变）</p>
+<p>&nbsp;</p>
+<p>【修复建议】</p>
+<p><span style="font-size:16px;font-family:宋体">目前官方已在新版本中修复了该漏洞，请受影响的用户升级至安全版本。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://github.com/jumpserver/jumpserver/releases"><span style="color:windowtext;text-underline:none">https://github.com/jumpserver/jumpserver/releases</span>
+</a></span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">若受影响用户无法及时升级，请参考官方提供的临时修复方案实施规避措施，参考链接：</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体"><a href="https://github.com/jumpserver/jumpserver/blob/master/README.md"><span style="color:windowtext;text-underline:none">https://github.com/jumpserver/jumpserver/blob/master/README.md</span>
+</a></span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">注：修复漏洞前请将资料备份，并进行充分测试。</span>
+</p>
+<p><br/></p>
