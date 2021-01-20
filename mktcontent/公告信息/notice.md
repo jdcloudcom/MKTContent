@@ -1242,5 +1242,13 @@
 	{
 		"id":1052,
 		"title":"【漏洞预警】JumpServer远程代码执行安全公告"
+	},
+	{
+		"id":1053,
+		"title":"【漏洞预警】Tomcat信息泄漏漏洞风险预警（CVE-2021-24122）"
+	},
+	{
+		"id":1054,
+		"title":"【漏洞预警】Oracle Weblogic server多个严重漏洞（CVE-2021-2109）"
 	}
 ]
