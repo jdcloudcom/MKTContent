@@ -13,6 +13,23 @@
     <div class="jdc-common-floor-item wp-floor1">
       <div class="w">
         <div class="row">
+		  <div class="col-6 col-xs-12">
+            <div class="wp-floor1-item wp-floor1-item-2">
+              <div class="wp-floor1-item-hd">技术重构社会供应链—未来科技趋势白皮书</div>
+              <div class="wp-floor1-item-bd">
+                <div class="wp-floor1-img">
+                  <img src="https://img1.jcloudcs.com/portal/whitepaper/wp-5.png" alt="">
+                </div>
+                <div class="wp-floor1-right">
+                  <p class="wp-floor1-txt">
+                    《技术重构社会供应链——未来科技趋势白皮书》全面展示了京东数智化社会供应链在人工智能、物联网、区块链、自主系统、下一代技术等五大关键技术领域的技术趋势研究，以及在零售、健康、物流、金融、城市等五大场景的技术赋能成果。本白皮书将成为供应链变革和产业数智化转型的新指引。
+                  </p>
+
+                  <a clstag="WhitePaper|keycount|MiddleContentSec|WhitePaper_5" onclick="whitepaperClick('r',4)" class="jdc-btn jdc-bg">立即查看</a>
+                </div>
+              </div>
+            </div>
+          </div>
           <div class="col-6 col-xs-12">
             <div class="wp-floor1-item wp-floor1-item-2">
               <div class="wp-floor1-item-hd">中国智能城市发展战略与策略研究（2019）</div>
