@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"验证码\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://captcha-console.jdcloud.com/dataOverview\",\"classTag\":\"\"},{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://captcha-console.jdcloud.com/create\",\"classTag\":\"\"}],\"desc\":\"凝聚了京东近20年人机对抗的技术沉淀，为网页、APP、小程序开发者提供立体、全面的验证码服务，高效拦截机器恶意攻击，可智能识别用户风险等级并给出不同验证难度的验证码类型，兼顾业务安全与用户极致体验。\"}",
+		"id":2196
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"智能分级\",\"proName\":\"正常用户通过更轻松，机器批量操作更困难。智能识别引擎能根据设备指纹、防伪技术等环境参数，精确区分可信、可疑或恶意用户，对于可信请求，直接通过；对于可疑或恶意请求，进行二次再验证，并弹出不同的验证方式。\"},{\"showShade\":false,\"proGood\":\"极致用户体验\",\"proName\":\"双重验证，支持9种不同的验证码形式，丰富、便捷、有趣，给予用户极致的交互体验。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"精准识别\",\"proName\":\"基于设备指纹、防伪技术等进行风险预判，可信用户无感知，准确率高达99%。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"自由灵活配置\",\"proName\":\"支持网页、APP、微信小程序验证，控制台提供数据概览和策略配置功能。通过数据概览，可以查看历史的总体请求、验证情况、拦截情况等数据。通过策略可以实时调整不同场景的验证方式，灵活配置。\"}]",
+		"id":2197
+	},
+	{
+		"txt":"[{\"funcName\":\"静默验证\",\"funcContent\":[{\"funcTitle\":\"静默验证\",\"funcP\":\"基于设备指纹、防伪技术等进行风险预判，可信用户无感知，直接通过。根据风险高低决定是否需要二次验证及二次验证方式，极大提升用户体验和安全性。\"}]},{\"funcName\":\"二次验证\",\"funcContent\":[{\"funcTitle\":\"二次验证\",\"funcP\":\"二次验证包括低、中、高三种验证难度的验证码形式。低难度验证方式为滑动轨迹、滑动拼图、旋转图片；中等难度验证方式有图中点图、拖动拼图；高难度验证方式有图形语义、文字语义、3D点击图标、空间推理语义等，高难度验证码破解难度大，可抵御高强度的恶意攻击，是验证体系中最为强劲的安全保障。\"}]}]",
+		"id":2198
+	},
+	{
+		"txt":"[{\"name\":\"注册登录\",\"instruction\":\"适用于 App、Web、小程序等用户注册、登录场景，有效抵御批量注册、撞库暴力登录风险，从源头上保护业务安全。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"秒杀领券\",\"instruction\":\"适用于“预售“、抢购”、“秒杀”、“领优惠券”等活动场景，有效抵御黑灰产利用自动化脚本、爬虫程序领券刷券等行为。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"刷赞发帖\",\"instruction\":\"适用于“投票”、“发帖“、”评论”等场景，有效抵御黑灰产利用机器程序恶意刷票、灌水、恶意差评等行为。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"数据保护\",\"instruction\":\"适用于 “论坛”、“价格”等场景，有效抵御“爬虫”来爬取网站内容信息、价格。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2199
+	}
+]
