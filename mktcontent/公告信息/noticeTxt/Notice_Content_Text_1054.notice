@@ -1,0 +1,99 @@
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">您好 <br/> <br/> 近日，京东云安全团队监测到2021年1月20日Oracle官网发布公告，通包含Oracle产品系列中的329个新安全补丁</span>
+<span style="font-size:16px;font-family:宋体">，其中</span>
+<span style="font-size:16px;font-family:宋体">主要涵盖了Oracle Weblogic、Oracle Endeca Information Discovery Integrator、Oracle WebCenter Portal、Oracle BI Publisher、Oracle Business Intelligence Enterprise Edition等产品</span>
+<span style="font-size:16px;font-family:宋体">。</span>
+<span style="font-size:16px;font-family: 宋体"> </span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">【漏洞描述】 <br/> <br/> 2021年1月20日，Oracle官方发布</span>
+<span style="font-size:16px;font-family:宋体">的</span>
+<span style="font-size:16px;font-family:宋体">漏洞补丁</span>
+<span style="font-size:16px;font-family:宋体">中</span>
+<span style="font-size:16px;font-family:宋体">，修</span>
+<span style="font-size:16px;font-family:宋体">复</span>
+<span style="font-size:16px;font-family:宋体">了包括 CVE-2021-2109 Weblogic Server远程代码执行漏洞在内的多个漏洞。CVE-2021-2109 中，攻击者可构造恶意请求，造成JNDI注入，执行任意代码，从而控制服务。</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white">&nbsp;</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white">【漏洞编号】</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-size:16px;font-family:宋体">CVE-2021-1994</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-size:16px;font-family:宋体">CVE-2021-2047</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-size:16px;font-family:宋体">CVE-2021-2064</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-size:16px;font-family:宋体">CVE-2021-2108</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-size:16px;font-family:宋体">CVE-2021-2075</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-size:16px;font-family:宋体">CVE-2019-17195</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-size:16px;font-family:宋体">CVE-2020-14756</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><br/> 【漏洞评级】 <br/> <br/> 高危 <br/> <br/> <br/> 【受影响版本】 <br/> <br/> <span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">WebLogic 10.3.6.0.0</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size:15px;font-family: &#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">WebLogic 12.1.3.0.0</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size:15px;font-family: &#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">WebLogic 12.2.1.3.0</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size:15px;font-family: &#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">WebLogic 12.2.1.4.0</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size:15px;font-family: &#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">WebLogic 14.1.1.0.0</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><br/> 【修复建议】 <br/> <br/> <span style="font-size:15px;color:#333333;letter-spacing:1px">一、禁用</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">T3</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">协议</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size:15px;color:#333333;letter-spacing:1px">如果您不依赖</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">T3</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">协议进行</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">JVM</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">通信，可通过暂时阻断</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">T3</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">协议缓解此漏洞带来的影响</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size:15px;font-family: &#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">1. </span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">进入</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">Weblogic</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">控制台，在</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">base_domain</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">配置页面中，进入</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">“</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">安全</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">”</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">选项卡页面，点击</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">“</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">筛选器</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">”</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">，配置筛选器。</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size:15px;font-family: &#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">2. </span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">在连接筛选器中输入：</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">weblogic.security.net.ConnectionFilterImpl</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">，在连接筛选器规则框中输入：</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">* * 7001 deny t3 t3s</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">。</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;"><img src="//img1.jcloudcs.com/cms/324b88f4-5daf-4da3-9be8-af584bee221720210120171251.jpg" title="" alt="公告示例图片1.jpg" width="864" height="462" style="width: 864px; height: 462px;"/></span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">二、禁止启用</span>
+<span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">IIOP</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px"><img src="//img1.jcloudcs.com/cms/4242a4c6-1970-43d4-ab79-7cce83dc193320210120171019.jpg" title="" alt="公告示例图片1.jpg" width="1" height="1" style="width: 1px; height: 1px;"/></span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size:15px;color:#333333;letter-spacing:1px">登陆</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">Weblogic</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">控制台，找到启用</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">IIOP</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">选项，取消勾选，重启生效</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><img src="//img1.jcloudcs.com/cms/50295db9-7b2f-4d31-bb82-fadb94179bed20210120171318.jpg" title="" alt="公告示例图片2.jpg" width="869" height="425" style="width: 869px; height: 425px;"/></p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size:15px;color:#333333;letter-spacing:1px">三、临时关闭后台</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">/console/console.portal</span>
+<span style="font-size: 15px;color:#333333;letter-spacing:1px">对外访问</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white"><span style="font-size:15px;color:#333333;letter-spacing:1px">四、升级官方安全补丁</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white">【官方链接】</p>
+<p style="text-align:left"><span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">https://www.oracle.com/security-alerts/cpujan2021.html</span>
+</p>
+<p><br/></p>
