@@ -1,0 +1,70 @@
+<p style="text-align:left"><span style="font-family: 宋体; font-size: 14px;">您好 <br/> <br/> 近日，京东云安全团队监测到国外研究团队JSOF发布了DNSpooq风险通告，披露了存在于dnsmasq软件中的多个漏洞。</span>
+</p>
+<p style="text-align:left"><span style="font-family: 宋体; font-size: 14px;">【漏洞描述】&nbsp;</span>
+</p>
+<p style="text-align:left"><span style="font-family: 宋体; font-size: 14px;">Dnsmasq 提供 DNS 缓存和 DHCP 服务功能。作为域名解析服务器(DNS)，dnsmasq可以通过缓存 DNS 请求来提高对访问过的网址的连接速度。作为DHCP 服务器，dnsmasq 可以用于为局域网电脑分配内网ip地址和提供路由。国外研究团队JSOF发布了DNSpooq风险通告，披露了存在于dnsmasq软件中的多个漏洞，其中包括 CVE-2020-25681 远程代码执行漏洞 和 CVE-2020-25682 远程代码执行漏洞。攻击者利用该批漏洞，可造成域名劫持、流量劫持、拒绝服务等，在启用DNSSEC的情况下甚至导致远程代码执行。</span>
+</p>
+<p style="text-align:left"><span style="background-color: white; font-size: 14px;">【漏洞编号】</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-family: 宋体; font-size: 14px;">CVE-2020-25682 远程代码执行 高危</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-family: 宋体; font-size: 14px;">CVE-2020-25681 远程代码执行 高危</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-family: 宋体; font-size: 14px;">CVE-2020-25683 拒绝服务 中危</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-family: 宋体; font-size: 14px;">CVE-2020-25687 拒绝服务 中危</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-family: 宋体; font-size: 14px;">CVE-2020-25684 拒绝服务 中危</span>
+</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-family: 宋体; font-size: 14px;">CVE-2020-25685 DNS投毒 低危</span>
+</p>
+<p style="text-align:left"><span style="font-size: 14px;"><span style="font-size: 16px; font-family: 宋体;">CVE-2020-25686 DNS投毒 低危</span>
+</span>
+</p>
+<p style="text-align:left"><span style="font-family: 宋体; font-size: 14px;">【受影响版本】</span>
+</p>
+<p style="text-align:left"><span style="background-color: white; color: rgb(55, 61, 65); font-family: 微软雅黑, sans-serif;">dnsmsaq &lt; 2.83</span>
+</p>
+<p style="text-align:left"><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14px; letter-spacing: 1px;">【安全版本】</span>
+</p>
+<p style="text-align:left"><span style="background-color: white; color: rgb(55, 61, 65); font-family: 微软雅黑, sans-serif; font-size: 14px;">dnsmsaq &gt;= 2.83</span>
+</p>
+<p style="text-align:left"><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14px; letter-spacing: 1px;">【修复建议】</span>
+</p>
+<p style="text-align:left"><span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">1. </span>
+<span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">根据发行版包管理器及时安装升级并重启</span>
+<span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">dnsmasq</span>
+<span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">。</span>
+</p>
+<p style="text-align:left"><span style="font-size: 14px;"><span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">2. </span>
+<span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">禁止从外部网络访问</span>
+<span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">dsnmasq</span>
+</span>
+</p>
+<p style="text-align:left"><span style="font-size: 14px;"><span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">3. </span>
+<span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">设置</span>
+<span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">--dns-forward-max=</span>
+<span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">参数为小于</span>
+<span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;"> 150 </span>
+<span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">的值</span>
+</span>
+</p>
+<p style="text-align:left"><span style="font-size: 14px;"><span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">4. </span>
+<span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">在无需</span>
+<span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">DNSSEC</span>
+<span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">功能的情况下可临时禁用</span>
+<span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;"> DNSSEC </span>
+<span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">功能。</span>
+</span>
+</p>
+<p style="text-align:left"><span style="font-size: 14px;"><span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">5. </span>
+<span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">可以通过启用一些</span>
+<span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">DNS</span>
+<span style="font-size: 15px; color: rgb(51, 51, 51); letter-spacing: 1px;">安全传输的策略</span>
+<span style="font-size: 15px; font-family: &quot;Monospaced Number&quot;; color: rgb(51, 51, 51); letter-spacing: 1px;">(DNS Over TLS, DoH, DoT)</span>
+</span>
+</p>
+<p style="text-align: left;"><span style="background-color: white; font-size: 14px;">【链接地址】</span>
+</p>
+<p style="text-align: left;"><span style="color: rgb(51, 51, 51); font-family: &quot;Monospaced Number&quot;; font-size: 14px; letter-spacing: 1px;">https://www.jsof-tech.com/wp-content/uploads/2021/01/DNSpooq-Technical-WP.pdf</span>
+</p>
