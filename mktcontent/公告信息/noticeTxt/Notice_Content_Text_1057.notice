@@ -1,0 +1,64 @@
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">您好 <br/> <br/> </span>
+<span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测在2021年1月27日，Qualys研究小组发现了sudo中的堆溢出漏洞，该漏洞在类似Unix的主要操作系统上都可以使用。通过利用此漏洞，任何没有特权的用户都可以使用默认的sudo配置在易受攻击的主机上获得root特权。</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】 <br/> <br/> </span>
+<span style="font-size:16px;font-family:宋体">Sudo</span>
+<span style="font-size:16px;font-family: 宋体">是一个功能强大的实用程序，大多数（如果不是全部）基于Unix和Linux的操作系统都包含Sudo。它允许用户使用其他用户的安全特权运行程序。该漏洞本身已经隐藏了将近十年。它于2011年7月引入（提交8255ed69），在其默认配置下会影响从1.8.2到1.8.31p2的所有旧版本以及从1.9.0到1.9.5p1的所有稳定版本。成功利用此漏洞，任何没有特权的用户都可以在易受攻击的主机上获得root特权。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white">【漏洞编号】</p>
+<p style="margin-top:auto;margin-bottom: auto;text-align:left"><span style="font-size:16px;font-family:宋体">CVE-2021-3156</span>
+</p>
+<p style="text-align:left"><br/> 【漏洞评级】 <br/> <br/> 高危 <br/> <br/> <br/> 【受影响版本】 <br/> <span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px"><br/> </span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing: 1px">Sudo1.9.0&nbsp;</span>
+<span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">到</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">&nbsp;1.9.5p1</span>
+<span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">所有稳定版本</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">Sudo1.8.2&nbsp;</span>
+<span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">到</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing: 1px">&nbsp;1.8.31p2</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family: &#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">&nbsp;</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">【安全版本】</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family: &#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">&nbsp;</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">Sudo 1.9.5p2</span>
+<span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">或更新版本</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family: &#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">&nbsp;</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">【检测方法】</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">以非</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">root</span>
+<span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">用户登录系统，并使用命令</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">sudoedit -s /</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">如果系统容易受到攻击，它将以“</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px"> sudoedit</span>
+<span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">：”开头的错误作为响应。</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">&nbsp;</span>
+<span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">如果对系统进行了修补，它将以“</span>
+<span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px"> usage</span>
+<span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">：”开头的错误作为响应。</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family: &#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px"><br/> </span>
+<span style="font-size:15px;font-family:宋体;color:#333333;letter-spacing:1px">【修复建议】</span>
+ </p>
+<p style="text-align:left">&nbsp;</p>
+<p style="text-align:left"><span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">Redhat</span>
+<span style="font-size:15px;color:#333333;letter-spacing:1px">官方已经紧急发布修复补丁，涉及各个版本系统。</span>
+</p>
+<p style="text-align:left"><span style="font-size:15px;font-family: &#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">&nbsp;</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:24px;margin-left: 0;background:white">【官方公告】</p>
+<p style="text-align:left"><span style="font-size:15px;font-family:&#39;Monospaced Number&#39;;color:#333333;letter-spacing:1px">https://www.sudo.ws/dist/</span>
+</p>
+<p><br/></p>
