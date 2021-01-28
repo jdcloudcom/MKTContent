@@ -62,70 +62,51 @@
 </div>
 <!-- widget fmh-fl1 end -->
 
-<!-- widget fmh-fl2 begin -->
+<!-- widget fmh-fl2-2 begin -->
 <div class="fl-section">
     <div class="tit-section">
         <h2 class="tit-h2">
             突破时间、空间、语言限制
         </h2>
     </div>
-    <div class="cont-section-szzf w szzf-show-pc">
-        <div class="szzf-show">
-            <div class="video-item">
-                <div class="video-list">
-                    <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-img1.jpg"/>
-                    <div class="content">
-                        <b class="tit">
-                            <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-icon1.png"/>
-                            <span>展览</span>
-
-                        </b>
-                        <div class="curr-cont">
-                            <b>打破空间限制</b>
-                            <p>传统页面虚拟展台打造云上展会；3D虚拟展台，第三视角电子展位图多端呈现</p>
+    
+    <div class="fl2-item w">
+        <div class="fl2-item-list">
+            <div class="row">
+                <div class="col-3 col-xs-12">
+                    <div class="item bg1">
+                        <div class="m-item">
+                            <h3>展览</h3>
+                            <b>看得见的智能体验</b>
+                            <p>传统页面+3D虚拟展台，第三视角电子展位图多端呈现</p>
 
                         </div>
                     </div>
                 </div>
-                <div class="video-list  curr">
-                    <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-img2.jpg"/>
-                    <div class="content">
-                        <b class="tit">
-                            <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-icon2.png"/>
-                            <span>论坛</span>
-
-                        </b>
-                        <div class="curr-cont">
+                <div class="col-3 col-xs-12">
+                    <div class="item bg2">
+                        <div class="m-item">
+                            <h3>论坛</h3>
                             <b>打破地域、语言限制</b>
                             <p>视频直播、视频会议，在线翻译等科技手段，打造线上线下会议论坛</p>
 
                         </div>
                     </div>
                 </div>
-                <div class="video-list">
-                    <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-img3.jpg"/>
-                    <div class="content">
-                        <b class="tit">
-                            <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-icon3.png"/>
-                            <span>洽谈</span>
-
-                        </b>
-                        <div class="curr-cont">
+                <div class="col-3 col-xs-12">
+                    <div class="item bg3">
+                        <div class="m-item">
+                            <h3>洽谈</h3>
                             <b>打破线下限制</b>
                             <p>即时消息通讯，视频洽谈、在线翻译、智能客服等多种工具，打造云端虚拟洽谈间</p>
 
                         </div>
                     </div>
                 </div>
-                <div class="video-list">
-                    <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-img4.jpg"/>
-                    <div class="content">
-                        <b class="tit">
-                            <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-icon4.png"/>
-                            <span>数字智能</span>
-
-                        </b>
-                        <div class="curr-cont">
+                <div class="col-3 col-xs-12">
+                    <div class="item bg4">
+                        <div class="m-item">
+                            <h3>数字运营</h3>
                             <b>商业驱动，智能推荐</b>
                             <p>智能分析、成果统计，智能匹配交易，提供可视化的商业智能分析平台</p>
 
@@ -133,40 +114,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <div class="szzf-show-m">
-        <div class="item-list bg1">
-            <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-icon1.png"/>
-            <b class="txt1">展览</b>
-            <p class="txt2">打破空间限制</p>
-
-            <p class="txt3">传统页面虚拟展台打造云上展会；3D虚拟展台，第三视角电子展位图多端呈现</p>
-
-        </div>
-        <div class="item-list bg2">
-            <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-icon2.png"/>
-            <b class="txt1">论坛</b>
-            <p class="txt2">打破地域、语言限制</p>
-
-            <p class="txt3">视频直播、视频会议，在线翻译等科技手段，打造线上线下会议论坛</p>
-
-        </div>
-        <div class="item-list bg3">
-            <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-icon3.png"/>
-            <b class="txt1">洽谈</b>
-            <p class="txt2">打破线下限制</p>
-
-            <p class="txt3">即时消息通讯，视频洽谈、在线翻译、智能客服等多种工具，打造云端虚拟洽谈间</p>
-
-        </div>
-        <div class="item-list bg4">
-            <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl2-icon4.png"/>
-            <b class="txt1">数字智能</b>
-            <p class="txt2">商业驱动，智能推荐</p>
-
-            <p class="txt3">智能分析、成果统计，智能匹配交易，提供可视化的商业智能分析平台</p>
-
         </div>
     </div>
 </div>
@@ -184,7 +131,7 @@
         </div>
     </div>
 </div>
-<!-- widget fmh-fl2 end -->
+<!-- widget fmh-fl2-2 end -->
 
 <!-- widget fmh-fl3 begin -->
 
@@ -218,31 +165,31 @@
                     <h3 class="tit">虚拟展厅</h3>
                     <p class="desc">云上展厅融合人工智能、大数据、AR/VR等先进技术，为展商提供丰富的展台搭建、展品发布功能，让客商可随时随地浏览，双方可在线发起洽谈、意向单及电子签约，云上展厅全程助您紧跟商机。</p>
 
-                    <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/fl4-img1.jpg"/>
+                    <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/tab1_img.png"/>
                 </li>
                 <li class="digital-contentli">
                     <h3 class="tit">视频直播</h3>
                     <p class="desc">基于京东智联云大规模分布式实时视频处理技术和优质的网络基础设施打造的音视频直播平台，平台提供极速、稳定、专业的云直播服务，根据展会期间的不同直播场景需求，云直播提供直播推流、云端转码/分发加速等、直播控制等功能，可满足高峰论坛直播、参展商直播等不同场景需求。 针对大规模实时观看、高并发推流录制及超低延时的直播场景，直播服务支持实时多直播平台同频展示直播现场，为展会观展受众提供一站式的音视频直播服务。 此外，云直播服务系统还包含直播在线翻译、添加字幕、内容及评论审核、内容过滤等升级功能。</p>
 
-                    <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/fl4-img2.jpg"/>
+                    <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/tab2_img.png"/>
                 </li>
                 <li class="digital-contentli">
                     <h3 class="tit">在线洽谈</h3>
                     <p class="desc">支持文本、表情、图片、短视频、文件等多种业务形态的消息平台服务，串联整个展会中人与人、人与商务之间的连接。私密洽谈间支持中英文双语种的消息中英互译，语音转文字等功能满足全球客户的平台使用和跨语言沟通需求。在安全方面，私密洽谈间保证每一个洽谈间均进行端到端独立加密，确保会议参与者之间的信息隐私安全。沟通消息可选择阅后即焚，特殊消息自动销毁不留痕，确保资料展示安全。</p>
 
-                    <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/fl4-img3.jpg"/>
+                    <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/tab3_img.png"/>
                 </li>
                 <li class="digital-contentli">
                     <h3 class="tit">智能匹配</h3>
                     <p class="desc">智能推荐通过AI算法结合多维度的信息收集，360度还原刻画每一个展会参与者，精准高效的拉通参展商和采购商，匹配供应项目和采购项目，助力云上会展供需双方洽谈促成率的同时提升用户观展体验、挖掘更多潜在商机。</p>
 
-                    <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/fl4-img4.jpg"/>
+                    <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/tab4_img.png"/>
                 </li>
                 <li class="digital-contentli">
                     <h3 class="tit">数字营销</h3>
                     <p class="desc">基于统一数据平台和全域信息化系统，并结合大数据和人工智能技术，能够实现线下线上数据融合、统计与分析，为主办方、组展机构、参展商提供展会智能分析、效果评估、企业画像、展位热力图、流量统计、智能推荐、商机撮合等服务，提升展会主办方的服务水平和展会质量。</p>
 
-                    <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/fl4-img5.jpg"/>
+                    <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/tab5_img.png"/>
                 </li>
             </ul>
         </div>
@@ -253,7 +200,7 @@
                 </div>
                 <div class="tab-item f-cb current m-on">
                     <div class="digital-content">
-                        <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/fl4-img1-m.jpg"/>
+                        <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/tab1_img_m.png"/>
                         <h3 class="tit">虚拟展厅</h3>
                         <p class="desc">云上展厅融合人工智能、大数据、AR/VR等先进技术，为展商提供丰富的展台搭建、展品发布功能，让客商可随时随地浏览，双方可在线发起洽谈、意向单及电子签约，云上展厅全程助您紧跟商机。</p>
 
@@ -265,7 +212,7 @@
                 </div>
                 <div class="tab-item f-cb current">
                     <div class="digital-content">
-                        <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/fl4-img2-m.jpg"/>
+                        <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/tab2_img_m.png"/>
                         <h3 class="tit">视频直播</h3>
                         <p class="desc">基于京东智联云大规模分布式实时视频处理技术和优质的网络基础设施打造的音视频直播平台，平台提供极速、稳定、专业的云直播服务，根据展会期间的不同直播场景需求，云直播提供直播推流、云端转码/分发加速等、直播控制等功能，可满足高峰论坛直播、参展商直播等不同场景需求。 针对大规模实时观看、高并发推流录制及超低延时的直播场景，直播服务支持实时多直播平台同频展示直播现场，为展会观展受众提供一站式的音视频直播服务。 此外，云直播服务系统还包含直播在线翻译、添加字幕、内容及评论审核、内容过滤等升级功能。</p>
 
@@ -276,7 +223,7 @@
                 </div>
                 <div class="tab-item f-cb current">
                     <div class="digital-content">
-                        <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/fl4-img3-m.jpg"/>
+                        <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/tab3_img_m.png"/>
                         <h3 class="tit">在线洽谈</h3>
                         <p class="desc">支持文本、表情、图片、短视频、文件等多种业务形态的消息平台服务，串联整个展会中人与人、人与商务之间的连接。私密洽谈间支持中英文双语种的消息中英互译，语音转文字等功能满足全球客户的平台使用和跨语言沟通需求。在安全方面，私密洽谈间保证每一个洽谈间均进行端到端独立加密，确保会议参与者之间的信息隐私安全。沟通消息可选择阅后即焚，特殊消息自动销毁不留痕，确保资料展示安全。</p>
 
@@ -287,7 +234,7 @@
                 </div>
                 <div class="tab-item f-cb current">
                     <div class="digital-content">
-                        <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/fl4-img4-m.jpg"/>
+                        <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/tab4_img_m.png"/>
                         <h3 class="tit">智能匹配</h3>
                         <p class="desc">智能推荐通过AI算法结合多维度的信息收集，360度还原刻画每一个展会参与者，精准高效的拉通参展商和采购商，匹配供应项目和采购项目，助力云上会展供需双方洽谈促成率的同时提升用户观展体验、挖掘更多潜在商机。</p>
 
@@ -298,7 +245,7 @@
                 </div>
                 <div class="tab-item f-cb current">
                     <div class="digital-content">
-                        <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/fl4-img5-m.jpg"/>
+                        <img class="b-img" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/tab5_img_m.png"/>
                         <h3 class="tit">数字营销</h3>
                         <p class="desc">基于统一数据平台和全域信息化系统，并结合大数据和人工智能技术，能够实现线下线上数据融合、统计与分析，为主办方、组展机构、参展商提供展会智能分析、效果评估、企业画像、展位热力图、流量统计、智能推荐、商机撮合等服务，提升展会主办方的服务水平和展会质量。</p>
 
@@ -392,8 +339,8 @@
     </div>
     <div class="m-section">
         <div class="item-img2">
-            <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl6-img.png" class="pc" alt="方案架构"/>
-            <img src="https://img1.jcloudcs.com/portal/cloudexpo/fl6-img-m.png" class="mobile" alt="方案架构"/>
+            <img src="https://img1.jcloudcs.com/portal/cloudexpo/0114/fl6-img2.png" class="pc" alt="方案架构"/>
+            <img src="https://img1.jcloudcs.com/portal/cloudexpo/0114/fl6-img2-m.png" class="mobile" alt="方案架构"/>
         </div>
     </div>
 </div>
@@ -433,6 +380,52 @@
 </div>
 <!-- widget fmh-fl7 end -->
 
+<!-- widget fmh-fl8 begin -->
+<div class="fl8-case">
+    <div class="case-bg">
+       <div class="bt">
+         <h2 class="bt-tit">
+             客户案例
+         </h2>
+       </div>
+       <div class="w">
+        <div class="resist-scene resist-swiper jdc-swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="scene-item">
+                        <div class="scene-img img2-1"></div>
+                        <div class="scene-txt">
+                            <h4>永不落幕的南博会在线展</h4>
+                            <p>2020年12月12日至18日由中国—南亚博览会秘书处主办的2020“永不落幕的南博会”在线展成功举办。南博会在线展数字平台由京东智联云会展云团队提供技术支持，以云计算、人工智能、大数据、虚拟现实、5G等前沿技术内核’实现展览、洽谈、贸易三大基础功能’可为境内外参 展参会企业和专业买家提供展览展示、供需对接、实时翻译、洽谈磋商、智能客服、电子签约等展会服务。本次在线展充分发挥了京东集团的产业链供应链优势，得到了云南省各级相关领导的一致认可。</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="scene-item">
+                        <div class="scene-img img2-2"></div>
+                        <div class="scene-txt">
+                            <h4>视听大会</h4>
+                            <p>视听行业是文化和科技深度融合的文化形态。2020年市政府工作报告提出，要促进媒体融合发展，打造智慧广电媒体和网络。北京市广播电视局在北京展览中心举办新视听展会，同期线上展开启，京东在11月19日前交付云上视听大会SaaS服务及运营服务，助力展会顺利举办。
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <!-- 如果需要分页器 -->
+            <div class="jdc-swiper-pagination jdc-swiper-pagination-case"></div>
+            <!-- 如果需要导航按钮 -->
+            <div class="jdc-swiper-button-prev jdc-swiperCase-button-prev"><i></i></div>
+            <div class="jdc-swiper-button-next jdc-swiperCase-button-next"><i></i></div>
+          </div>
+       </div>
+    </div>
+</div>
+<!-- widget fmh-fl8 end -->
+
+<!-- widget fmh-fl10 begin -->
 <div class="fl10-connect">
 
     <div class="bt">
@@ -450,6 +443,7 @@
         </div>
     </div>
 </div>
+<!-- widget fmh-fl10 end -->
 
 <!-- widget fmh-fl9 begin -->
 <div class="fl9-connect">
