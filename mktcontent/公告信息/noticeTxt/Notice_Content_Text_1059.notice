@@ -1,0 +1,70 @@
+<p><span style="font-size:16px;font-family:宋体">您好 <br/> <br/> </span>
+<span style="font-size:18px;color:black">京东云安全团队于2021年1月27日监测到</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black;background:white">Apache ActiveMQ</span>
+<span style="font-size:18px;color:black">存在未授权访问漏洞（CVE-2021-26117）。京东云安全建议您请检查当前是否使用受漏洞影响的软件版本</span>
+</p>
+<p style="text-indent:28px"><span style="color:black">&nbsp;</span>
+</p>
+<p><span style="font-size:18px;color:black">&nbsp;</span>
+</p>
+<p><strong><span style="font-size:18px;color:black">漏洞描述</span>
+</strong></p>
+<p><span style="color:black">&nbsp;</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:18px;color:black">Apache ActiveMQ</span>
+<span style="font-size:18px;color:black">是Apache软件基金会所研发的开放源码消息中间件。</span>
+</p>
+<p><span style="font-size:18px;color:black">ActiveMQ</span>
+<span style="font-size:18px;color:black">是Apache软件基金下的一个开源软件，它遵循JMS1.1规范（Java Message Service），是消息驱动中间件软件（MOM）。 它为企业消息传递提供高可用，出色性能，可扩展，稳定和安全保障。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:18px;color:black">官方公告称ActiveMQ LDAP登录模块可被配置为使用匿名访问。在这种情况下，远程攻击者在只提供有效的用户名时，无需提供密码，即可获得对系统的未授权访问。</span>
+</p>
+<p><span style="color:black">&nbsp;</span>
+</p>
+<p><strong><span style="font-size:18px;color:black">漏洞编号</span>
+</strong></p>
+<p><span style="color:black">&nbsp;</span>
+</p>
+<h1 style=";margin-bottom:0;text-indent:28px;background:white"><span style="font-size:18px;font-family:等线;color:black;font-weight:normal">CVE-2021-26117</span>
+</h1><p><span style="font-size:18px;color:black">&nbsp;</span>
+</p>
+<p style="background:white"><strong><span style="font-size:18px;color:black">影响版本</span>
+</strong></p>
+<p style="background:white"><span style="font-size: 18px;color:black">&nbsp;</span>
+</p>
+<p style=";margin-bottom:0;text-indent:28px;background:white"><span style="font-size:18px;font-family:等线;color:black">Apache ActiveMQ Artemis &lt; 2.16.0</span>
+</p>
+<p style=";margin-bottom:0;text-indent:28px;background:white"><span style="font-size:18px;font-family:等线;color:black">Apache ActiveMQ &lt; 5.16.1</span>
+</p>
+<p style=";margin-bottom:0;text-indent:28px;background:white"><span style="font-size:18px;font-family:等线;color:black">Apache ActiveMQ &lt; 5.15.14</span>
+</p>
+<p><span style="font-size:18px;color:black">&nbsp;</span>
+</p>
+<p><strong><span style="font-size:18px;color:black">安全版本</span>
+</strong></p>
+<p><span style="font-size:18px;color:black">&nbsp;</span>
+</p>
+<p style=";margin-bottom:0;text-indent:16px;background:white"><span style="font-size:18px;font-family:等线;color:black">Apache ActiveMQ Artemis &gt;= 2.16.0</span>
+</p>
+<p style="margin-top:7px;margin-right:0;margin-bottom:0;margin-left:16px;margin-bottom:0;background:white"><span style="font-size:18px;font-family:等线;color:black">Apache ActiveMQ &gt;= 5.16.1</span>
+</p>
+<p style="margin-top:7px;margin-right:0;margin-bottom:0;margin-left:16px;margin-bottom:0;background:white"><span style="font-size:18px;font-family:等线;color:black">Apache ActiveMQ &gt;= 5.15.14</span>
+</p>
+<p><span style="font-size:18px;color:black">&nbsp;</span>
+</p>
+<p style="background:white"><strong><span style="font-size:18px;color:black">修复建议</span>
+</strong></p>
+<p><span style="font-size:18px;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size:18px;color:black">建议将Apache ActiveMQ的版本升级到5.16.1&nbsp;或5.16.1以上</span>
+</p>
+<p><span style="font-size:18px;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p><span style="font-size:18px;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size:18px;color:#044A91"><a href="http://activemq.apache.org/security-advisories.data/CVE-2021-26117-announcement.txt"><span style="color:#044A91">http://activemq.apache.org/security-advisories.data/CVE-2021-26117-announcement.txt</span>
+</a></span>
+</p>
+<p><span style="font-size:18px;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size:18px;color:#044A91"><a href="http://activemq.apache.org/"><span style="color:#044A91">http://activemq.apache.org/</span>
+</a></span>
+</p>
+<p><br/></p>
