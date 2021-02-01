@@ -5339,5 +5339,55 @@
 		"name":"京东会展云",
 		"description":"满足“展、论、洽、贸 + 服务（全流程）” 核心场景，全角色全场景全域覆盖，多端融合的数字化、智能化会展新基建平台。",
 		"id":6319
+	},
+	{
+		"name":"城市",
+		"description":"城市",
+		"id":6321
+	},
+	{
+		"name":"零售",
+		"description":"零售",
+		"id":6323
+	},
+	{
+		"name":"营销",
+		"description":"营销",
+		"id":6325
+	},
+	{
+		"name":"金融",
+		"description":"金融",
+		"id":6327
+	},
+	{
+		"name":"物流",
+		"description":"物流",
+		"id":6329
+	},
+	{
+		"name":"智能供应链",
+		"description":"智能供应链",
+		"id":6331
+	},
+	{
+		"name":"智能IDC",
+		"description":"智能IDC",
+		"id":6333
+	},
+	{
+		"name":"教育",
+		"description":"教育",
+		"id":6335
+	},
+	{
+		"name":"智能家居",
+		"description":"智能家居",
+		"id":6337
+	},
+	{
+		"name":"会展",
+		"description":"会展",
+		"id":6339
 	}
 ]
