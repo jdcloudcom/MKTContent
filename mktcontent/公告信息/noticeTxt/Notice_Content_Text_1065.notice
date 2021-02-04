@@ -1,0 +1,69 @@
+<p><span style="font-family: 宋体; text-indent: 28px;">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测国外安全研究团队披露了SolarWinds多款产品高危漏洞。影响范围较大，建议及时升级。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; SolarWinds Inc. </span>
+<span style="font-size:16px;font-family:宋体">是一家美国公司，为企业提软件以帮助管理其网络，系统和信息技术基础架构。近日，国外安全研究团队披露SolarWinds多款产品存在高危漏洞。</span>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size: 16px;font-family:宋体">CVE-2021-25274 SolarWinds Orion</span>
+<span style="font-size:16px;font-family:宋体">远程代码执行漏洞中，远程攻击者可在无需认证的情况下通过TCP 1801端口将恶意请求发送进入MSMQ消息队列，触发反序列化，造成远程代码执行。</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; CVE-2021-25275 SolarWinds Orion</span>
+<span style="font-size: 16px;font-family:宋体">敏感信息泄漏漏洞中，本地攻击者可在无需特权的情况下直接访问并控制SolarWinds Orion后端数据库SOLARWINDS_ORION，导致敏感信息泄漏等。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; CVE-2021-25276 SolarWinds Serv-U FTP </span>
+<span style="font-size:16px;font-family:宋体">（Windows）权限设置不当漏洞中，任何经过FTP认证的用户将具备对C盘的完全控制权限，可以读取、替换其中的任意文件。</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">SolarWinds Orion &lt; 2020.2.4</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">SolarWinds ServU-FTP &lt; 15.2.2 Hotfix 1</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【安全版本】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">SolarWinds Orion Platform 2020.2.4</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">SolarWinds ServU-FTP 15.2.2 Hotfix 1</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">建议及时联系厂商进行安全升级。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://thehackernews.com/2021/02/3-new-severe-security-vulnerabilities.html?spm=a2c4g.11174386.n2.6.76661051n7p8NL</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://www.computerweekly.com/news/252495701/SolarWinds-patches-two-critical-CVEs-in-Orion-platform?spm=a2c4g.11174386.n2.4.76661051n7p8NL</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">CVE-2021-25274</span>
+<span style="font-size:16px;font-family:宋体">：https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25274 </span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">CVE-2021-25275</span>
+<span style="font-size:16px;font-family:宋体">：https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25275</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">CVE-2021-25276: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25276</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><br/></p>
