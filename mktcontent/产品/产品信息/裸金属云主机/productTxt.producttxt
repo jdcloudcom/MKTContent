@@ -1,10 +1,10 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"裸金属云主机\",\"label\":[],\"desc\":\"基于京东智联云新一代自研硬件卸载虚拟化技术架构推出的云主机实例类型，同时兼顾物理机性能及虚拟机灵活性\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"裸金属云主机\",\"label\":[],\"desc\":\"基于京东云新一代自研硬件卸载虚拟化技术架构推出的云主机实例类型，同时兼顾物理机性能及虚拟机灵活性\"}",
 		"id":1782
 	},
 	{
-		"txt":"[{\"showShade\":false,\"proGood\":\"极致性能\",\"proName\":\"具备与物理机无差别的极致性能，提供网络和存储的硬件加速能力，将原有虚拟化网络和存储协议栈负载从物理宿主机上卸载至特定硬件上，无额外虚拟化损耗，提供万兆网络带宽，支持嵌套虚拟化。\"},{\"showShade\":false,\"proGood\":\"安全隔离\",\"proName\":\"提供硬件级别隔离，资源独占（80C384GB），无需与其他云上用户争抢宿主机资源。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"分钟级交付\",\"proName\":\"无需提前采购及人工介入，分钟级交付一台裸金属云主机，保证及时响应业务扩容需求。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"无缝集成云产品\",\"proName\":\"完全兼容VPC、云硬盘、云数据库、云监控等云产品，提供完整的云上解决方案。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"一致性管理体验\",\"proName\":\"支持控制台及SDK/OpenAPI/CLI操作，与普通云主机体验一致。\"}]",
+		"txt":"[{\"showShade\":false,\"proGood\":\"极致性能\",\"proName\":\"具备与物理机无差别的极致性能，提供网络和存储的硬件加速能力，将原有虚拟化网络和存储协议栈负载从物理宿主机上卸载至特定硬件上，无额外虚拟化损耗，提供万兆网络带宽，支持嵌套虚拟化。\"},{\"showShade\":false,\"proGood\":\"安全隔离\",\"proName\":\"提供硬件级别隔离，资源独占（80C384GB 或 96C384GB），无需与其他云上用户争抢宿主机资源。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"分钟级交付\",\"proName\":\"无需提前采购及人工介入，分钟级交付一台裸金属云主机，保证及时响应业务扩容需求。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"无缝集成云产品\",\"proName\":\"完全兼容VPC、云硬盘、云数据库、云监控等云产品，提供完整的云上解决方案。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"一致性管理体验\",\"proName\":\"支持控制台及SDK/OpenAPI/CLI操作，与普通云主机体验一致。\"}]",
 		"id":1783
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":1784
 	},
 	{
-		"txt":"[{\"name\":\"极致计算性能\",\"instruction\":\"针对游戏场景，裸金属云主机提供极致计算性能，可同时承载更多游戏用户人数，提升极致游戏体验。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/48dde124-8858-4b69-8a04-31d5f8f3a3a520191231123511.png\",\"showShade\":false},{\"name\":\"虚拟化\",\"instruction\":\"裸金属云主机提供嵌套虚拟化能力，为AnyStack迁移上云提供基础资源。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/8e6e8e62-3cbc-444b-a3a6-a1f918af691220191231124438.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"极致计算性能\",\"instruction\":\"针对游戏场景，裸金属云主机提供极致计算性能，可同时承载更多游戏用户人数，提升极致游戏体验。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"裸金属云主机\",\"url\":\"//www.jdcloud.com/products/bare-metal-virtual-machines\"},{\"name\":\"云缓存 Redis\",\"url\":\"//www.jdcloud.com/products/jcs-for-redis\"},{\"name\":\"CDN\",\"url\":\"//www.jdcloud.com/products/cdn\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/48dde124-8858-4b69-8a04-31d5f8f3a3a520191231123511.png\",\"showShade\":false},{\"name\":\"虚拟化\",\"instruction\":\"裸金属云主机提供嵌套虚拟化能力，为AnyStack迁移上云提供基础资源。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"裸金属云主机\",\"url\":\"//www.jdcloud.com/products/bare-metal-virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/8e6e8e62-3cbc-444b-a3a6-a1f918af691220191231124438.png\",\"showShade\":false}]",
 		"id":1785
 	},
 	{
