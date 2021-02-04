@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"性能测试\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://perftest-console.jdcloud.com/ts/ts-list\",\"classTag\":\"\"}],\"desc\":\"高效多场景发压、报告分析管理的性能测试系统\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"性能测试服务高性价比，50及以下并发永久免费\",\"explainLink\":\"https://perftest-console.jdcloud.com/recharge\",\"classTag\":\"\"}],\"productName\":\"性能测试\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://perftest-console.jdcloud.com/index\",\"classTag\":\"\"},{\"TitleName\":\"购买性能测试资源包，模拟海量用户\",\"TitleUrl\":\"https://perftest-console.jdcloud.com/recharge\",\"classTag\":\"\"}],\"desc\":\"京东云性能测试服务遵循测试服务“云化”的思想，通过对弹性资源的灵活调度，快速实施多种类型的性能测试，可通过模拟海量用户的真实业务场景来帮助用户迅速、准确的评估系统性能、容量和稳定性。\"}",
 		"id":1496
 	},
 	{
