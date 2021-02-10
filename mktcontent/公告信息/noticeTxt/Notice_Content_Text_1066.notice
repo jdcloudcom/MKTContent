@@ -1,0 +1,8 @@
+<p>您好 
+<br/><br/>京东云安全团队于2021年2月9日监测到微软发布了2021年2月的例行安全更新公告，共涉及漏洞数87个，其中严重级别漏洞11个，重要级别44个。远程代码执行漏洞
+ 
+21个，安全功能绕过漏洞3个，信息泄露漏洞9个，特权提升12个。本次发布涉及.net、Office、Edge浏览器、Windows等多个软件的安全更新。京东云安全建议您请检查当前是否使用受漏洞影响的版本 
+<br/> <br/>漏洞详情<br/> 在此次公告中以下漏洞需要重点关注：<br/>CVE-2021-24098：为Windows 控制台驱动程序拒绝服务漏洞，即曾被公开过的ConDrv.sys 模块DoS（拒绝服务）漏洞。存在漏洞的系统访问某个特别构造的快捷方式时，会立刻蓝屏。<br/><br/>CVE-2021-1732:低权限攻击者可通过该漏洞，获得高级控制权限<br/><br/>CVE-2021-1727：为MSI管理器的特权提升漏洞，攻击者可通过Windows Installer提升到系统特权，目前相关利用方式已被公开。<br/>CVE-2021-24086：为拒绝服务漏洞，攻击者可以通过构造特殊的IP数据包触发漏洞，使用该漏洞可能导致目标主机发生蓝屏。<br/>CVE-2021-24078 : Windows DNS Server远程代码执行漏洞中，攻击者通过构造并发送恶意的DNS请求，可以在开启了DNS服务的Windows Server上执行任意代码<br/>CVE-2021-24074：为远程代码执行漏洞，攻击者可以通过构造特殊的IP数据包触发漏洞，成功利用此漏洞的攻击者可能获得在目标服务器上执行任意代码的能力。<br/></p>
+<p><br/></p>
+<p>影响版本<br/> CVE-2021-24074/CVE-2021- 24086：<br/>Win7 SP1 – Windows10 20H2<br/>Windows Server 2008 - Windows Server 20H2 
+<br/><br/>修复建议<br/> &nbsp; &nbsp; &nbsp;微软官方已发布漏洞修复更新，京东云安全建议您：<br/>1）更新系统补丁：确保服务器打上了所需的补丁，打开Windows Update更新功能或下载修复补丁，点击“检查更新”<br/>2）不要打开来历不明的文件或者链接：避免被攻击者利用在机器上执行恶意代码。<br/><br/>CVE-2021-24074：参考微软官方解决方案：<br/>1.将源路由行为设置为“下拉”<br/>使用下列命令：<br/>netsh int ipv4 set global sourceroutingbehavior=drop<br/>有关 ipv4 注册表设置的更多信息，请参阅其他注册表设置<br/>变通办法的影响<br/>（此变通方法的影响是什么？）<br/>如何撤消变通方法<br/>还原为默认设置 “Dontforward”：<br/>netsh int ipv4 set global sourceroutingbehavior=dontforward<br/>2.配置防火墙或负载平衡器以禁止源路由请求.<br/>https://msrc.microsoft.com/update-guide/zh-cn/vulnerability/CVE-2021-24074<br/>CVE-2021-24078 : https://msrc.microsoft.com/update-guide/zh-cn/vulnerability/CVE-2021-24078<br/>CVE-2021-24086 : https://msrc.microsoft.com/update-guide/zh-cn/vulnerability/CVE-2021-24086<br/><br/>参考链接：https://msrc.microsoft.com/update-guide/releaseNote/2021-Feb</p>
