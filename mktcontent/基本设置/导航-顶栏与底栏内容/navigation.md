@@ -5394,5 +5394,65 @@
 		"name":"内网域名解析",
 		"description":"为京东云用户提供内网域名解析服务",
 		"id":6341
+	},
+	{
+		"name":"AI 机器人",
+		"description":"AI机器人",
+		"id":6343
+	},
+	{
+		"name":"机房巡检AI机器人",
+		"description":"机房巡检AI机器人",
+		"id":6345
+	},
+	{
+		"name":"室内运送 AI 机器人",
+		"description":"室内运送AI机器人",
+		"id":6347
+	},
+	{
+		"name":"商用服务AI机器人",
+		"description":"商用服务AI机器人",
+		"id":6349
+	},
+	{
+		"name":"轨道巡检AI机器人",
+		"description":"轨道巡检AI机器人",
+		"id":6351
+	},
+	{
+		"name":"挂轨巡检AI机器人",
+		"description":"挂轨巡检AI机器人",
+		"id":6353
+	},
+	{
+		"name":"可穿戴AI仿生手",
+		"description":"可穿戴AI仿生手",
+		"id":6355
+	},
+	{
+		"name":"动作感知臂环",
+		"description":"动作感知臂环",
+		"id":6357
+	},
+	{
+		"name":"通用运动平台",
+		"description":"通用运动平台",
+		"id":6359
+	},
+	{
+		"name":"智能硬件",
+		"description":"智能硬件",
+		"id":6361
+	},
+	{
+		"name":"人脸门禁",
+		"description":"人脸门禁",
+		"id":6363
+	},
+	{
+		"name":"人脸闸机",
+		"description":"人脸闸机",
+		"id":6365
 	}
 ]
