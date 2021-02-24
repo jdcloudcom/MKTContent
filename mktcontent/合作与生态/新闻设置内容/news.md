@@ -2382,5 +2382,13 @@
 		"jss_key":"News_Content_866",
 		"id":866,
 		"news_title":"展现非凡领跑力，京东会展云斩获“十大云原生行业”奖项"
+	},
+	{
+		"summary":"民以食为天，春节期间，北京的农产品食品供应情况，成了许多群众和有关部门过年关心的问题。为保障蔬菜等生活必需品安全畅通，北京市商务局、市发展改革委委托京东科技集团开发了“蔬菜进京分省对接平台”“车辆进京报备系统”，用科技保障北京市民的“菜篮子”。",
+		"image_url":"//img1.jcloudcs.com/cms/ad39b9f6-fc1d-4f2e-89e7-712ca267551820210224144827.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_878",
+		"jss_key":"News_Content_878",
+		"id":878,
+		"news_title":"京东科技：用科技保障北京市民的“菜篮子”"
 	}
 ]
