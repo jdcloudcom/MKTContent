@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"productName\":\"商用服务AI机器人\",\"desc\":\"商用服务AI机器人——您的智慧AI商业助手。为用户提供人工智能、语音交互和强大音影等全新使用体验，全人工智能要素协助商用AI场景应用落地。\",\"label\":[{\"TitleName\":\"客服咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2215
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"语音识别准确率\",\"proName\":\"语音识别准确率>97%\"},{\"showShade\":false,\"proGood\":\"人脸识别准确率\",\"proName\":\"人脸识别准确率>99%\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"设备续航\",\"proName\":\"设备续航>8小时\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"拟人表情\",\"proName\":\"拟人表情>56种\"}]",
+		"id":2216
+	},
+	{
+		"txt":"[{\"funcName\":\"智动双擎、未来科技\",\"funcContent\":[{\"funcTitle\":\"机器人大脑 人工智能引擎\",\"funcP\":\"互动对话，多感交互，越用越聪明\"},{\"funcTitle\":\"机器人小脑 机器智能引擎\",\"funcP\":\"灵活避障，环境分析，自主规划路径\"}]},{\"funcName\":\"双屏联动，智能协同\",\"funcContent\":[{\"funcTitle\":\"表情屏幕\",\"funcP\":\"10.1寸交互屏，6核高性能处理器\\n轻松实现双屏互动、多感交互\"},{\"funcTitle\":\"广告屏幕\",\"funcP\":\"27寸显示屏，1080完美显示\\n全方位沉浸式视听体验，专为行业客户设计\"}]},{\"funcName\":\"人物性格自由切换\",\"funcContent\":[{\"funcTitle\":\"0限制情感表达、8大情感设计模块、56+拟人表情 首创机器人情感引擎系统，搭载EAI语料库、情绪语音合成技术 深度共情、多维交互，百变IP、灵活定制\",\"funcP\":\"活泼可爱 ，科技灵动\"}]},{\"funcName\":\"多模交互，无界融合\",\"funcContent\":[{\"funcTitle\":\"语音识别\",\"funcP\":\"采用超强语音引擎，搭载6+0环形麦克风阵列，1.5米远场拾音、360°声源定位\"},{\"funcTitle\":\"视觉识别\",\"funcP\":\"自定义表情识别，实时人脸追踪，动态行为识别\"},{\"funcTitle\":\"语义理解\",\"funcP\":\"情绪+状态+意图，云端语义分析，深度学习算法\"},{\"funcTitle\":\"情感表达\",\"funcP\":\"表情灵活多变，可支持覆盖100+定制场景，\\n完美表达，更人性化、更聪明、更懂你\"}]},{\"funcName\":\"轻盈灵动、商务科技\",\"funcContent\":[{\"funcTitle\":\"全流线型设计，打造未来感美学体验，完美融合质感、触感、美感，多种配色灵活选择，覆盖各种使用场景\",\"funcP\":\"尺寸\\n60X57X136cm\\n\\n重量60kg\\n颜色多种支持定制\\n续航>8h\"}]},{\"funcName\":\"场景编辑，灵活定制\",\"funcContent\":[{\"funcTitle\":\"场景引擎\",\"funcP\":\"开放场景引擎系统、自由编辑应用组件\"},{\"funcTitle\":\"编排系统\",\"funcP\":\"实时在线运行测试，保证场景交互体验\"},{\"funcTitle\":\"成为小科开发者\",\"funcP\":\"百变场景灵活定制，发掘小科的无限潜力\"}]},{\"funcName\":\"多端管控，智慧运营\",\"funcContent\":[{\"funcTitle\":\"机器人HMI\",\"funcP\":\"千人千面的个性化首页，精准营销实时推送\"},{\"funcTitle\":\"移动端APP\",\"funcP\":\"实时采集数据，云端数据分析\"},{\"funcTitle\":\"云端管理后台\",\"funcP\":\"云端知识库，智慧数据管理、AI智能行为分析\"}]}]",
+		"id":2217
+	},
+	{
+		"txt":"[{\"name\":\"酒店\",\"instruction\":\"通过多套智慧系统相互结合，小科可以充当智慧前台，提供迎宾接待、办理入住、运送物品等服务，打造无接触配送、自动导航、管家服务等一体化智慧酒店服务。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"商场\",\"instruction\":\"在商超，小科能够提供智慧化的购物体验，进行导引介绍、促销导购，快捷支付，会员办理、优惠推送等，实现轻松购物。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"展厅\",\"instruction\":\"在展会展馆里，小科可以独立完成主动迎宾、展位引导、智能讲解、规范提示、安防巡逻等工作，全面提升观展体验。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"企业\",\"instruction\":\"在企业，小科可以充当工作小助理，进行人脸打卡，业务咨询、位置寻找，会议室预约，大大提高企业效率，降低企业用人成本。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2218
+	},
+	{
+		"txt":"{\"opraUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2e02f238-05c1-4a8a-986b-09da691e1fd120210225151722.png\",\"opraWebUrl\":\"\",\"operatingClasstag\":\"\",\"position\":\"1\"}",
+		"id":2219
+	}
+]
