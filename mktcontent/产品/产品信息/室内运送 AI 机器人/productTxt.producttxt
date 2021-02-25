@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"productName\":\"室内运送 AI 机器人\",\"desc\":\"室内运送AI机器人——末端物流的未来AI新运力。打破运送物理界限，定义未来新型劳动力。\",\"label\":[{\"TitleName\":\"客服咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2210
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"投资回报\",\"proName\":\"3年实现高投资回报\"},{\"showShade\":false,\"proGood\":\"人效提升\",\"proName\":\"人效可提升2倍\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"快速部署\",\"proName\":\"支持快速部署1周上线\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"场景覆盖\",\"proName\":\"快速接入5大类场景覆盖\"}]",
+		"id":2211
+	},
+	{
+		"txt":"[{\"funcName\":\"室内场景，物流专家\",\"funcContent\":[{\"funcTitle\":\"智能多机协作，支持API与 SDK 二次开发，系统对接与集成，快速切入5大类应用场景。\",\"funcP\":\"精准避障，人机协作\\n通用底盘，多用箱体\\n通用底盘，多用箱体\\n立体运送，自由通行\\n立体运送，自由通行\\n智能大脑，双擎运动\\n智能大脑，双擎运动\"}]},{\"funcName\":\"多机协作，智能调度\",\"funcContent\":[{\"funcTitle\":\"极致路径规划\",\"funcP\":\"全局最优路线规划，单机拥堵避让决策执行判断\"},{\"funcTitle\":\"路网拥堵决策\",\"funcP\":\"复杂路网路况实时分析，杜绝拥堵\"},{\"funcTitle\":\"机间自主协同\",\"funcP\":\"多设备通信联动，机器之间互联互通\"}]},{\"funcName\":\"聚能平台，集成对接\",\"funcContent\":[{\"funcTitle\":\"机器人开放平台，提供 API 与 SDK，支持系统集成与二次开发，高效融入场景业务。\",\"funcP\":\"原子级API与SDK\\n金融级系统安全加密\\n金融级系统安全加密\\n多系统对接与集成\\n多系统对接与集成\\n高效开发验证\\n高效开发验证\"}]},{\"funcName\":\"全域设备，多端联动\",\"funcContent\":[{\"funcTitle\":\"云端平台，远程管控\",\"funcP\":\"调配机器人、充电桩、电梯、呼车设备等终端\"},{\"funcTitle\":\"数据追溯，完整记录\",\"funcP\":\"任务记录，地图版本，操作日志，全程易追溯\"},{\"funcTitle\":\"站点路线，自由配置\",\"funcP\":\"开箱即用，易部署，易维护，高可靠，低成本\"}]},{\"funcName\":\"一选一点，自动出发\",\"funcContent\":[{\"funcTitle\":\"简单易用，快速点选，即刻执行运送任务。\",\"funcP\":\"1、创建任务，快速下单\\n可视化操作，支持管控平台/机器人本体/呼车设备/App 等终端\\n\\n2、自动任务，云端监控\\n自动乘梯、开门，管控平台远程监控，状态、位置清晰了然\\n\\n3、到达通知，验证取物\\n到达终点，多终端联动通知，权限验证，拿取记录，物资更安全\"}]}]",
+		"id":2212
+	},
+	{
+		"txt":"[{\"name\":\"工业区\",\"instruction\":\"易交互型运送机器人，针对场景内物资量大、设备重等特点，提供设备、工具、耗材、零件等自动化运送服务，减轻工程师负担，提高工厂整体智能化程度，提升物资运送效率。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"医院\",\"instruction\":\"协助/代替人工完成手术室、PIVAS、中心供应室、药房、后勤、住院部、护士站等场景的药品、器械、餐食、被服、输液、耗材等多类物资的转移和运送，支持门禁、电梯联动，降低物资运送成本，提高运送效率，确保物资安全。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"养老院\",\"instruction\":\"支持快递、重物、报纸、期刊、文件等物资，送至房间门口，机器人支持自动进出电梯，减轻看护人员和管家工作压力，降低快递等物资的储存空间占用，提升养护人员入住体验。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"酒店\",\"instruction\":\"智能服务生，可代替员工完成六小件、发票、快递、外卖、下午茶等常用物品的送货上门，支持自动呼梯、送达通知，安全可靠，快速稳定，保护入住用户隐私，提升入住体验，减轻各时间段内的物资运送压力。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"写字楼\",\"instruction\":\"物业管理新选择，可完成外卖、快递、复印文件、物业通知等物品送至指定位置，支持自动呼梯、到达通知，管理更容易，楼宇更安全，提高楼宇智能化程度，提升写字楼工作体验，降低物业管理难度。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2213
+	},
+	{
+		"txt":"{\"opraUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a8c2607f-ccbb-4131-9934-c642d930a88b20210225150137.png\",\"opraWebUrl\":\"\",\"operatingClasstag\":\"\",\"position\":\"1\"}",
+		"id":2214
+	}
+]
