@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"productName\":\"可穿戴AI仿生手\",\"desc\":\"集合全关节仿生结构、多自由度协同策略、 快速机电耦合/解耦机构和柔性触控材料等前沿技术，实现便捷使用、快速穿脱、无线控制、压力感应、手指协同、触屏点控等功能，可应用于上肢伤残、辅助装配、智慧工厂等场景\",\"label\":[{\"TitleName\":\"客服咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2229
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"外观自然\",\"proName\":\"15关节全关节仿生设计、国标指导外形尺寸\"},{\"showShade\":false,\"proGood\":\"结构可靠\",\"proName\":\"高强度钢材承力部件、航空铝材辅助部件\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"单手穿脱\",\"proName\":\"无需工具、自动锁死、360°旋转、单手解锁\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"使用便捷\",\"proName\":\"小尺寸锂电池供电、自由选择控制方式\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"协同控制\",\"proName\":\"压力反馈闭环控制、自主路径优化、时空动作协同\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"个性专属\",\"proName\":\"自选控制方式、自定义动作模式、自编辑动作\"}]",
+		"id":2230
+	},
+	{
+		"txt":"[{\"funcName\":\"核心功能\",\"funcContent\":[{\"funcTitle\":\"使用便捷\",\"funcP\":\"直流低压供电、5种以上的独立控制方式\"},{\"funcTitle\":\"快速穿脱\",\"funcP\":\"单手可完成、秒级穿戴脱离、360°旋转\"},{\"funcTitle\":\"无线控制\",\"funcP\":\"蓝牙加密协议、高效低延迟通信\"},{\"funcTitle\":\"压力感应\",\"funcP\":\"实时感应手指压力、适应不同任务\"},{\"funcTitle\":\"手指协同\",\"funcP\":\"物体形状自适应、动作路径优化\"},{\"funcTitle\":\"触屏点控\",\"funcP\":\"手机/PAD单点触控、多点触控\"},{\"funcTitle\":\"个性化配置\",\"funcP\":\"动作模式自定义、控制指令自定义\"}]},{\"funcName\":\"动态升级\",\"funcContent\":[{\"funcTitle\":\"多种形式升级\",\"funcP\":\"   支持模块化架构、动态更新、无线升级\"}]}]",
+		"id":2231
+	}
+]
