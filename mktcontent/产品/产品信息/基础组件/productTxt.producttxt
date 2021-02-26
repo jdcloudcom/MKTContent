@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"基础组件\",\"desc\":\"提供丰富的UI基础组件和开发基础组件，具有一定的设计开发规范，有利于前端页面设计和功能开发，降低开发成本，提高开发效率。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2257
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"设计开发规范\",\"proName\":\"具有完整的一套设计开发规范，有利于前端页面开发和业务基础功能开发。\"},{\"showShade\":false,\"proGood\":\"拉取即用\",\"proName\":\"可直接拉取组件放到自己的开发工程中使用，降低开发成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全稳定\",\"proName\":\"所有组件均是京东内部最佳实践，在安全性和稳定性方面具有可靠保障。\"}]",
+		"id":2258
+	},
+	{
+		"txt":"[{\"funcName\":\"UI基础组件\",\"funcContent\":[{\"funcTitle\":\"组件丰富\",\"funcP\":\"可提供丰富的UI组件，包括Alert弹窗组件、按钮组件、确认弹窗组件、倒计时组件、网络错误组件、暂无数据组件、密码输入组件、路由组件等。\"}]},{\"funcName\":\"开发基础组件\",\"funcContent\":[{\"funcTitle\":\"多媒体功能\",\"funcP\":\"可以提供相机、相册、分享、设备标识、客户端基本信息获取、扫一扫、视频等组件。\"}]}]",
+		"id":2259
+	},
+	{
+		"txt":"[{\"name\":\"业务开发场景\",\"instruction\":\"在进行前端页面开发时可以直接拉取UI组件进行页面开发，在开发业务基础功能时可直接拉取基础开发组件进行开发，极大地降低了开发成本。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2260
+	}
+]
