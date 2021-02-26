@@ -2605,10 +2605,10 @@
 		"button_title":"提供优质产品，享冰点价格，提供极致服务"
 	},
 	{
-		"name":"推荐系统高阶实训营",
-		"description":"签订就业协议，基于京东真实项目，大咖主讲，助教全程指导",
+		"name":"云主机-计算优化型",
+		"description":"存储、网络性能、计算稳定性大幅度提升",
 		"id":3108,
-		"button_title":"支付预定金"
+		"button_title":"咨询享优惠"
 	},
 	{
 		"name":"文本短信-1000条",
@@ -2692,10 +2692,10 @@
 		"button_title":"立即抢购"
 	},
 	{
-		"name":"云主机共享型 2核4G",
-		"description":"存储40GB HDD盘 带宽1M",
+		"name":"云主机通用型 2核8G",
+		"description":"存储40GB SSD盘 带宽1M",
 		"id":3190,
-		"button_title":"立即抢购"
+		"button_title":"咨询享优惠"
 	},
 	{
 		"name":"产品",
