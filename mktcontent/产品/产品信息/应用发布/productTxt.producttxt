@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"应用发布\",\"desc\":\"应用发布系统提供移动APP应用灰度发布、全量升级发布功能，实现移动APP安装包发布阶段的一体化服务。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2246
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"产品快速集成\",\"proName\":\"无须改造现有业务，仅需客户端集成SDK即可实现应用发布的所有功能。\"},{\"showShade\":false,\"proGood\":\"策略配置、范围可控\",\"proName\":\"基于官方标准方案进行开发，可进行配置升级策略，对指定问题版本进行提示升级，确保升级范围可控，升级转化率最优。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"应用数据联动\",\"proName\":\"通过灰度发布验证的版本，可通过一体化后台实现快速查询数据（安装、崩溃、使用状态）。\"}]",
+		"id":2247
+	},
+	{
+		"txt":"[{\"funcName\":\"灰度发布\",\"funcContent\":[{\"funcTitle\":\"便捷性\",\"funcP\":\"针对新版本或未正式上线版本提供给随机用户进行试用，在试用过程中可进行多版本，多机型，不同环境下的产品质量测试，从而在上线前验证其版本稳定性。\"}]},{\"funcName\":\"普通发布\",\"funcContent\":[{\"funcTitle\":\"精准性\",\"funcP\":\"针对已经集成SDK的应用版本，通过后台配置发布策略，实现对指定客户端版本或用户进行升级，支持配置黑名单组，实现精准下发策略和范围可控。\"}]},{\"funcName\":\"强制升级\",\"funcContent\":[{\"funcTitle\":\"可操控性\",\"funcP\":\"针对指定版本进行强制升级下发功能，用户可选择指定的版本区间或指定版本，进行配置下发强制升级，实现指定版本的强制迭代。\"}]}]",
+		"id":2248
+	},
+	{
+		"txt":"[{\"name\":\"新版本功能上线场景\",\"instruction\":\"正式发版前，通过灰度试用方式，发现隐性问题，将重大问题带来的影响降到最低。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"稳定版本发布场景\",\"instruction\":\"已经验证稳定的版本，对全渠道、全量用户进行发布，提示升级。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"线上版本应急处理场景\",\"instruction\":\"新上线版本出现重大问题，导致用户无法正常使用客户端，快速修复覆盖问题版本。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"制定版本修复场景\",\"instruction\":\"最新版本/功能无法在某个系统进行正常使用，需要进行单独适配，确保可正常使用。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2249
+	}
+]
