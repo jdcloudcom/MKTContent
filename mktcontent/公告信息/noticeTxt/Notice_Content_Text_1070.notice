@@ -1,0 +1,50 @@
+<p>您好！</p>
+<p><br/></p>
+<p>京东云安全团队于2021年2月26日监测到SaltStack官方发布安全公告，披露SaltStack多个高危漏洞风险。</p>
+<p><br/></p>
+<p>漏洞描述</p>
+<p>Salt是基于Python的开源软件，用于事件驱动的IT自动化，远程任务执行和配置管理。支持数据中心系统和网络部署和管理，配置自动化，SecOps编排，漏洞修复和混合云控制的“基础结构即代码”方法。</p>
+<p>2021年2月26日，SaltStack官方发布安全公告，披露修复了多个高危严重漏洞。</p>
+<p><br/></p>
+<p>漏洞详情</p>
+<p><br/></p>
+<p>CVE-2021-25283：SaltAPI 模板注入漏洞 wheel.pillar_roots.write存在目录遍历导致jinja渲染器无法抵御服务器端模板注入攻击。</p>
+<p><br/></p>
+<p>CVE-2021-25282：未经授权的访问wheel_async，通过salt-api可以执行任意代码/命令。</p>
+<p><br/></p>
+<p>CVE-2021-3197：SaltAPI SSH 命令注入中，由于Salt-API SSH 客户端过滤不严，攻击者可通过ProxyCommand等参数造成命令执行。</p>
+<p><br/></p>
+<p>CVE-2021-3148：salt.utils.thin.gen_thin()中存在命令注入。通过SaltAPI，从格式化的字符串构造命令，如果extra_mods中有单引号，则可以将命令截断，因为json.dumps()会转义双引号，同时保持单引号不变。</p>
+<p><br/></p>
+<p>CVE-2020-28243：Minion中的本地特权升级，当无特权的用户能够通过进程名称中的命令注入而能够在任何未列入黑名单的目录中创建文件时，SaltStack的Minion可以进行特权升级。</p>
+<p><br/></p>
+<p>CVE-2021-25281：salt-api未校验wheel_async客户端的eauth凭据，受此漏洞影响攻击者可远程调用master上任意wheel模块。</p>
+<p><br/></p>
+<p>风险等级</p>
+<p><br/></p>
+<p>高风险</p>
+<p><br/></p>
+<p>影响版本</p>
+<p><br/></p>
+<p>SaltStack &lt; 3002.5</p>
+<p>SaltStack &lt; 3001.6</p>
+<p>SaltStack &lt; 3000.8</p>
+<p><br/></p>
+<p>安全版本</p>
+<p><br/></p>
+<p>SaltStack &gt;= 3002.5</p>
+<p>SaltStack &gt;= 3001.6</p>
+<p>SaltStack &gt;= 3000.8</p>
+<p><br/></p>
+<p>修复建议</p>
+<p><br/></p>
+<p>平台安全组建议您尽快升级saltstack为安全版本及其以上。</p>
+<p>获取补丁文件，设置SaltStack为自动更新。</p>
+<p><br/></p>
+<p>官方安全版本下载地址：</p>
+<p>https://repo.saltstack.com‘</p>
+<p>官方漏洞补丁获取地址：</p>
+<p>https : //gitlab.com/saltstack/open/salt-patches</p>
+<p><br/></p>
+<p>可参考链接：https://saltproject.io/security_announcements/active-saltstack-cve-release-2021-feb-25/</p>
+<p><br/></p>
