@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Android原生开发管理平台\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"desc\":\"移动Android开发管理平台是Android平台下的模块化解决方案，提供高效解耦、并行开发、独立调试、快速构建、灵活集成的能力。\"}",
+		"id":2238
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"平台化管理\",\"proName\":\"一体化管理平台，使接入过程自动化和简洁化，无需关心任何打包、编译细节，真正实现一键接入。\"},{\"showShade\":false,\"proGood\":\"并行化开发\",\"proName\":\"应用内各模块工程相互独立，实现独立开发和调试，业务解耦，通过router协议进行模块间的通信，真正达到高内聚低耦合。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"精细化权限控制\",\"proName\":\"应用、模块管理权限明确划分，应用负责人享有应用权限，模块负责人拥有该模块的所有权限。\"}]",
+		"id":2239
+	},
+	{
+		"txt":"[{\"funcName\":\"应用管理\",\"funcContent\":[{\"funcTitle\":\"提供多种功能\",\"funcP\":\"移动Android开发框架基于应用维度，提供应用的创建及设置、应用权限管理、应用构建、配置表下发、应用版本管理等功能。\"}]},{\"funcName\":\"组件管理\",\"funcContent\":[{\"funcTitle\":\"多组件构成\",\"funcP\":\"组件是属于某个应用，多个组件共同组成了一个应用，移动Android开发框架也提供了组件创建、组件构建、组件版本管理、组件数据查看等功能。\"}]},{\"funcName\":\"系统设置\",\"funcContent\":[{\"funcTitle\":\"管理员使用更便捷\",\"funcP\":\"移动Android开发框架里有多种用户角色，系统设置是给管理员使用的功能，可以进行管理员权限的分配、应用负责人权限管理等功能。\"}]},{\"funcName\":\"平台数据\",\"funcContent\":[{\"funcTitle\":\"直观展示多维度数据\",\"funcP\":\"平台数据可以直观的反应平台的使用情况，移动Android开发框架对应用、模块的数据进行了多个维度的展示。比如接入应用总数、模块接入总数等。\"}]}]",
+		"id":2240
+	},
+	{
+		"txt":"[{\"name\":\"Android原生业务解耦\",\"instruction\":\"适用Android原生业务解耦，模块独立开发、调试，解决不同的业务、应用和版本并行开发的问题；并拥有平台化管理、模块精细化权限控制的能力。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2241
+	}
+]
