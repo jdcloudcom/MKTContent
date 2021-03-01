@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"productName\":\"代付\",\"desc\":\"代替商户付款到银行卡或支付账户。收单机构代替商户付款到银行卡或支付账户，代付的目标账户可以是银行卡、余额。\\n\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2313
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"对接简单\",\"proName\":\"对私代付不需要银行卡号，只需要订单信息和打款三要素即可。\"},{\"showShade\":false,\"proGood\":\"代付账户多样\",\"proName\":\"支持代付到银行卡和钱包余额。\\n\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"通道稳定\",\"proName\":\"到账稳定性强，底层基于银网联结算系统的打款能力。\"}]",
+		"id":2314
+	},
+	{
+		"txt":"[{\"funcName\":\"代替商户付款\",\"funcContent\":[{\"funcTitle\":\"代替商户付款\",\"funcP\":\"收单机构代替商户付款到银行卡或支付账户。\"}]},{\"funcName\":\"支持多种账户\",\"funcContent\":[{\"funcTitle\":\"目标账户多样化\",\"funcP\":\"代付的目标账户可以是银行卡、余额。\"}]}]",
+		"id":2315
+	}
+]
