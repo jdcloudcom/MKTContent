@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"图计算平台\",\"desc\":\"集成图数据库、图计算引擎和图可视化分析的一站式平台\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2299
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"丰富的图数据\",\"proName\":\"支持万亿级节点关系的存储和计算，同时拥有丰富的图数据渲染和展现的可视化方案。通过高效的智能算法进行关系挖掘计算\"},{\"showShade\":false,\"proGood\":\"一站式解决方案\",\"proName\":\"帮助业务人员从复杂关联数据网络中洞察有效信息。平台为金融、公安、新零售、社交、政府、企业等领域提供可靠高效的一站式解决方案。\"}]",
+		"id":2300
+	},
+	{
+		"txt":"[{\"funcName\":\"图谱构建\",\"funcContent\":[{\"funcTitle\":\"全程可视化及自定义\",\"funcP\":\"用户全程可视化、拖拽式操作，能够快速定义Schema，完成映射配置等。\"}]},{\"funcName\":\"图查询\",\"funcContent\":[{\"funcTitle\":\"多维度查询方式\",\"funcP\":\"支持实体查询、关系查询、属性查询、路径查询、组合查询等多种查询方式。 同时在万亿级规模的顶点和边数据的存储量级下做到毫秒级的查询。\"}]},{\"funcName\":\"可视化探查\",\"funcContent\":[{\"funcTitle\":\"多种图结构布局\",\"funcP\":\"支持树形、网络等多种图结构布局和可视化方案。直观展现数据间的复杂关系，大幅度提升图谱的探索效率。\"}]},{\"funcName\":\"图计算引擎\",\"funcContent\":[{\"funcTitle\":\"多维度图算法\",\"funcP\":\"涵盖了多种图算法，提供社区发现、子图匹配、最短路径等多种处理算法，开箱即用。高度优化的自研图计算引擎，提供高并发、高效的图检索和图分析能力。\"}]}]",
+		"id":2301
+	},
+	{
+		"txt":"[{\"name\":\"金融风控\",\"instruction\":\"图计算被广泛应用于金融领域，面对层出不穷、复杂多样的个人和群体行为，帮助客户挖掘出潜在的风险，为客户保驾护航。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"智慧公安\",\"instruction\":\"通过图数据库和机器学习等相关的人工智能技术，全面整合人、物、地、组织等关联信息，构建一张具有公安特性的多维的关系网络；可更全面、更深刻把握犯罪形势、动态特征、局部特点、演变规律、发展趋势，为决策指挥提供动态的数据依据，以达到实现智能公安的目的。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"智慧司法\",\"instruction\":\"基于传统数据库搜索，难以表达复杂信息或复杂关系；基于图计算平台搜索，可以支持不同场景需求的法律数据关联、检索分析、类案分析和结果预判。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"互联网\",\"instruction\":\"商品或资讯推荐、用户分群、舆情&社会化聆听。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"城市交通\",\"instruction\":\"帮助客户对城市路网或管道（如水气电油管道等）进行压力调节、负载平衡，提升交通网络、管道等的通过性，进行精细化控制。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2302
+	}
+]
