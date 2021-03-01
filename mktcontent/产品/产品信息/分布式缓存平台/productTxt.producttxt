@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"分布式缓存平台\",\"desc\":\"分布式缓存提供高性能、高可用、可伸缩、易维护的数据缓存服务，满足用户高并发及快速访问数据的诉求\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2309
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"高性能\",\"proName\":\"单片4万+QPS，可通过扩片线性扩展\"},{\"showShade\":false,\"proGood\":\"高可用\",\"proName\":\"单节点支持多副本，故障自动选主；支持数据自动、手动备份\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"平滑扩缩\",\"proName\":\"可在线进行扩容、缩容，数据平滑迁移，业务无感知\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多种语言接入方式\",\"proName\":\"支持JAVA、非JAVA等多种客户端接入\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"可视化运维\",\"proName\":\"提供集群一键部署、监控、热key查询、大key查询等功能\\n\"}]",
+		"id":2310
+	},
+	{
+		"txt":"[{\"funcName\":\"多机房切换及容灾\",\"funcContent\":[{\"funcTitle\":\"机房正常切换\",\"funcP\":\"容灾实现一键切换\"}]},{\"funcName\":\"资源池统筹管理\",\"funcContent\":[{\"funcTitle\":\"多层级资源管理、监控资源利用率\",\"funcP\":\"从机房、分组、机器、实例多层级管理资源和监控资源利用率，最大限度的统筹和平衡资源利用\"}]},{\"funcName\":\"热key/大key发现\",\"funcContent\":[{\"funcTitle\":\"热key发现、大key分析\",\"funcP\":\"采用网络抓包方式的热key发现，对业务无侵入，性能损耗小；遍历从节点的大key分析，对业务无影响\"}]},{\"funcName\":\"完善监控告警\",\"funcContent\":[{\"funcTitle\":\"监控指标、告警功能、异常情况预警、多图表展示\",\"funcP\":\"各种维度的监控指标和告警功能，及时对异常情况进行预警；多种图表展示\\n\"}]},{\"funcName\":\"在线水平扩容/数据迁移\",\"funcContent\":[{\"funcTitle\":\"在线扩容机制、可容控据迁移、自动扩容\",\"funcP\":\"在线扩容机制，扩容时，业务对数据迁移过程基本无感知；可容控据迁移，可随时终止及恢复迁移；自动扩容，依据规则自动扩展容量\"}]},{\"funcName\":\"集群一键部署\",\"funcContent\":[{\"funcTitle\":\"一键部署\",\"funcP\":\"一键完成从机器推荐、节点部署、集群构建、到节点配置、正确性检查等所有动作\"}]}]",
+		"id":2311
+	},
+	{
+		"txt":"[{\"name\":\"使用场景\",\"instruction\":\"主要用于监控、治理以及追踪，应用在运行时出现的性能问题和分析，包括耗时、GC、底层、RPC等监控，以及对监控内容的实时告警\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2312
+	}
+]
