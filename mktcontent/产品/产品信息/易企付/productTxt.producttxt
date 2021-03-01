@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"易企付\",\"desc\":\"易企付是符合企业现有采购流程，专注于企业各种线下场景支付，基于企业已有银行结算户的对公转账产品。适用客群为B2B电商交易平台，多上游供应商线下打款。电子付款单支付，收付免开户，便捷收付款。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2362
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"采付分离，符合财务现有打款流程\",\"proName\":\"不改变企业现有支出流程，业务线上采购下单，财务线下审批转账，付款企业仅需做审批、复核，无需手填账号等信息。\"},{\"showShade\":false,\"proGood\":\"解决收款方财务对账认款难\",\"proName\":\"实现系统自动化认款，订单自动核销。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"自动归集\",\"proName\":\"多网点、多总分公司等层级型架构的企业机构，实现认款后资金自动归集。\"}]",
+		"id":2363
+	},
+	{
+		"txt":"[{\"funcName\":\"线上下单，线下审批转账\",\"funcContent\":[{\"funcTitle\":\"线上线下一站式\",\"funcP\":\"采购员平台下单，系统生成付款单并推送至银行，企业财务线下登录网银审批复核，资金自动划拨。客群定位为：B2B采购/交易平台。\"}]},{\"funcName\":\"线下转账，缴费归集\",\"funcContent\":[{\"funcTitle\":\"缴费便捷\",\"funcP\":\"针对付款企业生成缴费单，财务通过网银、柜台等电汇方式转账至缴费单账户。客群定位为：网点、总分公司类型企业。\"}]},{\"funcName\":\"线下转账，自动认款\",\"funcContent\":[{\"funcTitle\":\"专属收款\",\"funcP\":\"针对付款企业分配收款专属账号，企业财务通过原汇款方式转账至指定账户。客群定位为：人资、灵活用工等行业客户。\"}]}]",
+		"id":2364
+	},
+	{
+		"txt":"[{\"name\":\"B2B采购/交易平台\",\"instruction\":\"适用于B2B采购/交易平台。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"网点、总分公司\",\"instruction\":\"适用于网点、总分公司类型企业。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"人资、灵活用工\",\"instruction\":\"适用于人资、灵活用工等行业客户。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2365
+	}
+]
