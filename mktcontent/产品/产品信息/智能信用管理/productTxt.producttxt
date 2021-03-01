@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"智能信用管理\",\"desc\":\"基于海量数据的信用风险评价与跟踪\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2332
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"稳定的评分模型\",\"proName\":\"结合传统企业研究逻辑，模型稳定度较好\"},{\"showShade\":false,\"proGood\":\"灵活可拓展的产品设计\",\"proName\":\"支持自定义各类数据指标、风控规则、评分模型等，支持通过个性化配置支持不同场景下的风险管理\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"覆盖业务前中后的一体化设计\",\"proName\":\"客户资金管理系统和授信风险管理系统，覆盖业务前中后的一体化设计\"}]",
+		"id":2333
+	},
+	{
+		"txt":"[{\"funcName\":\"产业债主体信用评价\",\"funcContent\":[{\"funcTitle\":\"海量数据\",\"funcP\":\"结合传统企业研究逻辑，基于海量数据，对产业债主体进行信用评价\"}]},{\"funcName\":\"城投债主体信用评价\",\"funcContent\":[{\"funcTitle\":\"整合多维数据\",\"funcP\":\"结合传统企业研究逻辑，整合多维数据，对城投债主体进行信用评价\"}]},{\"funcName\":\"预警中心实时风险监控\",\"funcContent\":[{\"funcTitle\":\"信用风险\",\"funcP\":\"灵活自定义预警方案，基于多维数据实时监控上市发债主体信用风险\"}]},{\"funcName\":\"智能报告\",\"funcContent\":[{\"funcTitle\":\"信用日报\",\"funcP\":\"个性化配置，一键订阅自动化信用日报\"}]}]",
+		"id":2334
+	},
+	{
+		"txt":"[{\"name\":\"信用评估\",\"instruction\":\"在投前、投中进行快速的企业信用分析，在投后实时监控企业信用风险\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"同业授信\",\"instruction\":\"结合评价结果，设置授信策略。通过实时计算，控制授信额度。实时监控授信对手方及质押券主体风险，及时预警通知\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2335
+	}
+]
