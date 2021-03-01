@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"productName\":\"摹略数字化营销决策平台\",\"desc\":\"摹略数字化运营平台以营销策略中台为定位、以服务不同场景的策略可视化灵活编排为基础，串联起公司内部不同的业务系统。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2306
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"功能强大\",\"proName\":\"功能上是内部最佳实践的工程化沉淀\"},{\"showShade\":false,\"proGood\":\"性能稳定\",\"proName\":\"系统性能经618双十一考验\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"增值服务\",\"proName\":\"可提供运营体系架构咨询的增值服务\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"实力雄厚\",\"proName\":\"数字化营销中台支撑着月活5000万的app\"}]",
+		"id":2307
+	},
+	{
+		"txt":"[{\"funcName\":\"平台快速搭建运行\",\"funcContent\":[{\"funcTitle\":\"平台快速搭建运行、策略快速迭代\",\"funcP\":\"运营人员通过类似搭积木的方法在平台快速完成策略的搭建、运行，根据系统反馈的运行数据再进行快速的策略迭代。\"}]},{\"funcName\":\"运营人员自服务\",\"funcContent\":[{\"funcTitle\":\"快速上线，自服务\",\"funcP\":\"策略上线、迭代经过审批后即可快速上线，可以做到运营人员的完全自服务。\"}]}]",
+		"id":2308
+	}
+]
