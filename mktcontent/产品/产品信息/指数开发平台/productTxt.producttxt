@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"productName\":\"指数开发平台\",\"desc\":\"指数开发者平台配置多种指数加权规则和精准条件成份筛选，支持高度自定义的指数创建和多维度指数分析，是辅助资产组合配置的有效工具。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2383
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"全覆盖的指数加权规则\",\"proName\":\"满足市场上绝大部分指数加权计算规则\"},{\"showShade\":false,\"proGood\":\"灵活的指数成份筛选\",\"proName\":\"提供可运算的的指标条件深度筛选，支持自定义因子成份筛选。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多维度指数归因分析\",\"proName\":\"从多方面对指数业绩贡献因子和风险因子进行可视化归因展示。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"指数成份二次优化管理\",\"proName\":\"在收益风险归因基础上及时进行成份优化，实现千人千面的指数管理需求。\"}]",
+		"id":2384
+	},
+	{
+		"txt":"[{\"funcName\":\"指数成份筛选\",\"funcContent\":[{\"funcTitle\":\"条件成份筛选\",\"funcP\":\"配置多种指数加权规则和精准条件成份筛选\"}]},{\"funcName\":\"指数创建\",\"funcContent\":[{\"funcTitle\":\"多维度指数分析\",\"funcP\":\"支持高度自定义的指数创建和多维度指数分析\"}]}]",
+		"id":2385
+	}
+]
