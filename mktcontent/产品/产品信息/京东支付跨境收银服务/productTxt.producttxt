@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"京东支付跨境收银服务\",\"desc\":\"京东跨境支付以金融科技赋能跨境企业，为商户提供收单购付汇、国际卡收单服务。目前涵盖货贸、留学、酒店住宿、航空机票业务。为企业和用户提供一站式跨境支付解决方案。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2284
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"支持多币种\",\"proName\":\"支持人民币及主流币。\"},{\"showShade\":false,\"proGood\":\"支持多种支付产品\",\"proName\":\"支持京东白条，快捷支付，网银支付，小金库，余额等支付产品。\"}]",
+		"id":2285
+	},
+	{
+		"txt":"[{\"funcName\":\"跨境支付产品\",\"funcContent\":[{\"funcTitle\":\"支持多种币种\",\"funcP\":\"跨境支付产品支持用户登录京东账号使用中国境内发行的银行卡（快捷支付、网关支付）、白条、小金库等付款，支持PC、H5、SDK接入，支持跨境电商保税模式支付单海关报关，支持的结算币种包括：美元、欧元、港币、英镑、澳元、新西兰元、新加坡元等。\"}]},{\"funcName\":\"留学缴费产品\",\"funcContent\":[{\"funcTitle\":\"一站式汇款服务\",\"funcP\":\"为广大留学生提供一站式安全、便捷、快速的跨境留学汇款服务。\"}]},{\"funcName\":\"国际卡收单\",\"funcContent\":[{\"funcTitle\":\"主要面向跨境出口业务\",\"funcP\":\"主要面向跨境出口业务，支持用户使用境外（除中国大陆以外）发行的银行卡付款，支持的卡组织有Mastercard、VISA、JCB等。\\n国际卡支付是京东跨境支付联合VISA、万事达、JCB等国际卡组织为境外持卡人提供的便捷、安全的支付服务，产品高度标准化，并通过了PCI DSS数据安全评测即插即用，可以快速部署至合作商户的网站或APP，境外持卡人支付时采用国际通卡支付流程, 便捷、安全。\"}]}]",
+		"id":2286
+	},
+	{
+		"txt":"[{\"name\":\"线上网站或平台\",\"instruction\":\"客群为向中国境内消费者提供商品或服务的线上网站或平台。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"线上零售类中小企业商户\",\"instruction\":\"在中国境内从事跨境出口线上零售类业务的中小企业商户。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2287
+	}
+]
