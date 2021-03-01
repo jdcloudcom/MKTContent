@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"联邦模盒\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"desc\":\"通过分布式机器学习、数据加密计算和交互，实现了各机构间数据在隐私数据不出库前提下的联合建模\"}",
+		"id":2272
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"支持可视化建模\",\"proName\":\"无学习成本，即刻上手使用\"},{\"showShade\":false,\"proGood\":\"成熟的商业合作机制\",\"proName\":\"包括数据使用对账、汇总、结算等\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"算法的优化\",\"proName\":\"对加密、机器学习的算法进行了优化，效率更高\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"针对实时生产的专项优化\",\"proName\":\"对推理进行重构，完全与训练解耦\"}]",
+		"id":2273
+	},
+	{
+		"txt":"[{\"funcName\":\"分布式机器学习\",\"funcContent\":[{\"funcTitle\":\"数据加密计算\",\"funcP\":\"通过分布式机器学习、数据加密计算和交互，实现了各机构间数据在隐私数据不出库前提下的联合建模，为风控、营销领域业务实践提供精准数据驱动能力。\"}]},{\"funcName\":\"联邦学习框架\",\"funcContent\":[{\"funcTitle\":\"联合建模工具\",\"funcP\":\"跨机构间的数据合作充满风险，分布在不同企业的本地数据难以打通，风控模型效果难以提升，基于上述问题京东数科使用行业前沿的联邦学习框架研发出联合建模工具-联邦模盒，并率先实现了案例落地调用。\"}]}]",
+		"id":2274
+	}
+]
