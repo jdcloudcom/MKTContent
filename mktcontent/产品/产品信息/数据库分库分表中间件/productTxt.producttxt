@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"productName\":\"数据库分库分表中间件\",\"desc\":\"京东科技自主研发的一整套分布式关系型数据库服务解决方案\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2336
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"提供海量数据存取服务\",\"proName\":\"提供高性能、高并发和高可靠的海量数据存取服务，实现客户端JDBC模式和Proxy服务模式，并支持两种模式的切换。支持哈希、范围、列表的分片规则，以及自定义路由算法和多级路由策略\"},{\"showShade\":false,\"proGood\":\"提供多种功能特性\",\"proName\":\"提供读写分离、全局ID管理、防SQL注入攻击、一键扩容等功能特性。满足高可用、高可靠、高性能的数据存取访问需求。\"}]",
+		"id":2337
+	},
+	{
+		"txt":"[{\"funcName\":\"分库分表\",\"funcContent\":[{\"funcTitle\":\"分库分表\",\"funcP\":\"满足多业务线需求，CDS提供多种分库分表方案\"}]},{\"funcName\":\"读写分离\",\"funcContent\":[{\"funcTitle\":\"读写分离\",\"funcP\":\"读库权重配置；故障读节点自动摘除及恢复；需要读写分离的SQL语句由业务开发人员指定，可以细化到每个Service层方法。\\n\"}]},{\"funcName\":\"运行监控\",\"funcContent\":[{\"funcTitle\":\"运行监控\",\"funcP\":\"通过CDS Console可以实时查看接入的应用进程，监控应用进程的执行情况。\"}]},{\"funcName\":\"全局唯一序列\",\"funcContent\":[{\"funcTitle\":\"全局唯一序列\",\"funcP\":\"保证全局唯一性，每个应用服务器的CDS Driver会缓存一段序列值，减少并发访问时全局序列的压力。\"}]},{\"funcName\":\"版本控制\",\"funcContent\":[{\"funcTitle\":\"版本控制\",\"funcP\":\"CDS的版本控制功能，确保只有规则配置正确且校验通过，才能发布此规则，而应用只能取到最新已发布版本的规则，从而避免了读取错误规则的问题。\"}]},{\"funcName\":\"集群规则检查服务\",\"funcContent\":[{\"funcTitle\":\"集群规则检查服务\",\"funcP\":\"验集群规则的完整性\"}]},{\"funcName\":\"应用配置在线变更\",\"funcContent\":[{\"funcTitle\":\"应用配置在线变更\",\"funcP\":\"通过CDS Console，可以在线向应用进程推送配置变更请求。\"}]},{\"funcName\":\"集群版本一键升级\",\"funcContent\":[{\"funcTitle\":\"集群版本一键升级\",\"funcP\":\"通过版本控制，可以实现规则动态升级，如当前增加一个分表，以前的做法需要应用重启，现在可以通过推送事件达到不停机升级的效果。\"}]},{\"funcName\":\"算法包热加载\",\"funcContent\":[{\"funcTitle\":\"算法包热加载\",\"funcP\":\"把算法包配置到集群规则里，这样即使算法做了更新，只要升级对应的配置就能达到所有应用算法同时升级的效果。\"}]},{\"funcName\":\"故障切换\",\"funcContent\":[{\"funcTitle\":\"故障切换\",\"funcP\":\"CDS可以通过Proxy对群组做主从切换\"}]}]",
+		"id":2338
+	}
+]
