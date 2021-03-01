@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"productName\":\"特色指数\",\"desc\":\"利用消费数据，结合京东科技集团在数据整合、建模分析和算法研究上的优势，加工各类指数，提供独树一帜的市场洞察\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2380
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"数据生态\",\"proName\":\"通过大数据生态圈进行消费数据的深度整合\"},{\"showShade\":false,\"proGood\":\"多维度定制化指数编制\",\"proName\":\"从行业、消费升级、人群等多角度编制消费指数，同时提供行业指数定制服务，助力高频、有效地进行多维度市场洞察\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多场景的消费指数应用\",\"proName\":\"充分利用特色指数的市场洞察力，助力行业研究与行业轮动策略，有效提高投研人员工作效率\"}]",
+		"id":2381
+	},
+	{
+		"txt":"[{\"funcName\":\"数据整合\",\"funcContent\":[{\"funcTitle\":\"消费数据\",\"funcP\":\"利用消费数据，结合京东科技集团在数据整合\"}]},{\"funcName\":\"建模分析\",\"funcContent\":[{\"funcTitle\":\"算法研究优势\",\"funcP\":\"从行业、消费升级、人群等建模数据分析和算法优势，加工各类指数，提供独树一帜的市场洞察\"}]}]",
+		"id":2382
+	}
+]
