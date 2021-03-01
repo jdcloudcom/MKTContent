@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"productName\":\"模拟组合工具\",\"desc\":\"支持进行模拟FOF组合构建和管理，提供模拟组合风险收益分析、持仓分析、穿透归因分析，同时可以进行模拟调仓记录。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2374
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"灵活的模拟组合管理\",\"proName\":\"组合构建时支持各种类别资产标的选择和自定义权重配置，组合构建后可以进行灵活调仓\"},{\"showShade\":false,\"proGood\":\"模拟持仓分析\",\"proName\":\"模拟子产品持仓管理，测算子产品各类风险收益指标\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"穿透归因分析\",\"proName\":\"在股票、债券、商品、现金类投资资产内分别进行穿透底层资产分析，提供各维度和多模型归因方法\"}]",
+		"id":2375
+	},
+	{
+		"txt":"[{\"funcName\":\"模拟组合分析\",\"funcContent\":[{\"funcTitle\":\"风险收益分析\",\"funcP\":\"模拟组合风险收益分析、持仓分析、穿透归因分析\"}]},{\"funcName\":\"模拟管理\",\"funcContent\":[{\"funcTitle\":\"自定义权重配置\",\"funcP\":\"支持进行模拟FOF组合构建和管理\"}]}]",
+		"id":2376
+	}
+]
