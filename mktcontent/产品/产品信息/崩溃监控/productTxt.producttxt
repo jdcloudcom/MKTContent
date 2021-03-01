@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"崩溃监控\",\"desc\":\"移动APP提供崩溃监控及崩溃模块定位，通过对APP崩溃数据的监控和分析，从而协助APP降低崩溃频率，提升用户满意度。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2261
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"接入简单\",\"proName\":\"支持Android、iOS极简接入, 只依赖SDK，所有的功能提供运行时开关控制。\"},{\"showShade\":false,\"proGood\":\"实时监控\",\"proName\":\"多种时间维度分析崩溃趋势，及时发现重点问题。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"信息全面\",\"proName\":\"采集崩溃设备信息，异常堆栈信息，运行时信息，提升定位效率。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全稳定\",\"proName\":\"采用安全解决方案和服务器集群设计，服务安全可靠。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"弹性设计\",\"proName\":\"所有服务之间解耦，以功能为单位迭代升级。\"}]",
+		"id":2262
+	},
+	{
+		"txt":"[{\"funcName\":\"崩溃上报\",\"funcContent\":[{\"funcTitle\":\"实时上报，信息全面有效\",\"funcP\":\"实时上报所有崩溃异常，支持用户未联网时崩溃数据保存，上报信息全面有效，帮助开发者快速定位解决问题。\"}]},{\"funcName\":\"崩溃分析\",\"funcContent\":[{\"funcTitle\":\"多种时间维度的崩溃统计分析\",\"funcP\":\"支持按分钟、小时、按天等多种时间维度的崩溃统计分析，实现TOP崩溃展示和趋势分析，帮助开发者快速发现重点问题，提升用户留存。\"}]},{\"funcName\":\"BUG列表\",\"funcContent\":[{\"funcTitle\":\"分类汇总，便于修改\",\"funcP\":\"系统按照一定的规则，将崩溃问题分类汇总，形成BUG列表，方便开发者或测试人员跟进修改。\"}]},{\"funcName\":\"OOM监控\",\"funcContent\":[{\"funcTitle\":\"全程监控\",\"funcP\":\"OOM（out-of-memory event） 通常是发生在应用持续内存增长，而内存不足时。\"}]},{\"funcName\":\"高级功能\",\"funcContent\":[{\"funcTitle\":\"更多搜索查询\",\"funcP\":\"可配置平台、版本、build，并针对各种异常信息进行详尽的搜索查询，支持导出报表，支持不同查询条件的对比查询。\"}]}]",
+		"id":2263
+	},
+	{
+		"txt":"[{\"name\":\"移动APP场景\",\"instruction\":\"崩溃监控系统定位于为移动APP提供崩溃监控及崩溃模块定位的服务平台，具有接入简洁、响应及时、信息全面、分析透彻、统计详细等特点。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2264
+	}
+]
