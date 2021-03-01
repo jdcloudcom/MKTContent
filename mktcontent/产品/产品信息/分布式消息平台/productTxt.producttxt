@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"\",\"desc\":\"高可靠、高可用消息存储和分发服务\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2316
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"多协议支持\",\"proName\":\"支持HTTP协议、支持TCP协议，提供更专业稳定的SDK\"},{\"showShade\":false,\"proGood\":\"高可靠性\",\"proName\":\"消息多份存储，通过了严格断电测试、允许海量消息堆积，单Topic可堆积100亿条消息、支持自定义重试策略、默认持久化存储2天\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高性能\",\"proName\":\"同步双写单条消息平均处理时间2ms，tp99 4ms(8w tps)、单Broker（无复制）TPS达20w、顺序写盘\"}]",
+		"id":2317
+	},
+	{
+		"txt":"[{\"funcName\":\"支持多种消息\",\"funcContent\":[{\"funcTitle\":\"支持多种消息类型\",\"funcP\":\"满足不同消费场景、灵活的写盘与复制、提供同步与异步的写盘与复制方式，均衡性能与安全\"}]},{\"funcName\":\"并行消费\",\"funcContent\":[{\"funcTitle\":\"多消费节点并行消费\",\"funcP\":\"单队列并行消费功能，采用滑动窗口方式，多个消费节点并行消费，解决单节点慢延缓整个队列的问题\"}]},{\"funcName\":\"就近发送\",\"funcContent\":[{\"funcTitle\":\"就近发送\",\"funcP\":\"显著提升生产性能并降低延迟\"}]},{\"funcName\":\"消息归档\",\"funcContent\":[{\"funcTitle\":\"消息归档\",\"funcP\":\"对于重要消息延长生命周期\"}]},{\"funcName\":\"监控报警\",\"funcContent\":[{\"funcTitle\":\"可视化监控报警\",\"funcP\":\"可视化配置关注的报警指标及策略，实时关注消息生产、消费状态\"}]},{\"funcName\":\"报表统计\",\"funcContent\":[{\"funcTitle\":\"报表统计\",\"funcP\":\"采集详尽的指标，可视化展示运行状态与资源使用情况\"}]}]",
+		"id":2318
+	},
+	{
+		"txt":"[{\"name\":\"使用场景\",\"instruction\":\"上下游解耦，削峰填谷，可靠投递\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2319
+	}
+]
