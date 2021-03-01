@@ -2382,5 +2382,29 @@
 		"jss_key":"News_Content_866",
 		"id":866,
 		"news_title":"展现非凡领跑力，京东会展云斩获“十大云原生行业”奖项"
+	},
+	{
+		"summary":"10月19日，国际权威分析机构Forrester发布2020年《TheForresterWave™：公有云开发与基础架构平台中国市场厂商评测》（以下简称“报告”）报告，京东智联云凭借前瞻性的战略布局、独特智能供应链优势以及云、联、智三阶引擎的双轮驱动，实现战略布局、产品能力、市场表现等方面全面提升，斩获“卓越表现者”。",
+		"image_url":"//img1.jcloudcs.com/cms/1a6c5d49-6ae3-4737-adec-a07b1fb0874820210301160232.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_884",
+		"jss_key":"News_Content_884",
+		"id":884,
+		"news_title":"全球云市场现新格局，京东智联云已成第一梯队最强劲冲击者"
+	},
+	{
+		"summary":"科技实力撬动中国人工智能市场新格局。近日，全球权威分析机构Forrester最新发布《The Forrester Wave™：中国预测分析与机器学习解决方案厂商评测2020Q4》报告（以下简称“报告”）。",
+		"image_url":"//img1.jcloudcs.com/cms/9d0043ea-4bc8-475c-8661-20dadaee3ae820210301160308.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_885",
+		"jss_key":"News_Content_885",
+		"id":885,
+		"news_title":"Forrester：业界权威报告发布：京东智联云首次参评即跻身机器学习卓越表现者阵营"
+	},
+	{
+		"summary":"4月15日，产业数字化研究与咨询机构爱分析发布《2020爱分析·中国云计算厂商榜》，涵盖阿里云、腾讯云、京东智联云、百度智能云等国内30家优秀云计算厂商。",
+		"image_url":"//img1.jcloudcs.com/cms/ecd1f4a5-4006-4fd9-937c-f16e3968346620210301160341.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_886",
+		"jss_key":"News_Content_886",
+		"id":886,
+		"news_title":"爱分析：京东智联云跻身爱分析2020中国云计算厂商三甲"
 	}
 ]
