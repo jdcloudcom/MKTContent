@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"易帐通\",\"desc\":\"易账通是为企业打造专属的，集安全合规、资金收付、钱包增值于一体的账户服务体系。适用客群为网络货运，B2B电商，KA客户，人力资源平台。企业线上钱包支付，支付结算一站完成。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2366
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"企业/个人线上实时开户\",\"proName\":\"企业、个人可线上自助开户，实名，绑卡，无需临柜，实时开户即时可用。\"},{\"showShade\":false,\"proGood\":\"金融增值助力拉新/留存/促活\",\"proName\":\"协助平台营销，为平台客户提供钱包增值、金融增值服务，提升平台服务能力及品牌背书能力。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"资金收付灵活\",\"proName\":\"支持转账入金，支持实时交易、担保交易、批量交易及分批次交易等，提供7*24无限额提现出金，解决多种场景下的资金收付问题。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"交易安全合规，款票一致\",\"proName\":\"银行资金存管，安全合规，入金、出金款票一致，业务、订单、资金三流合一，银行提供电子回单，解决财务税务问题。\"}]",
+		"id":2367
+	},
+	{
+		"txt":"[{\"funcName\":\"信贷融资\",\"funcContent\":[{\"funcTitle\":\"支持信贷融资\",\"funcP\":\"借钱、还款代扣、定向支付。\"}]},{\"funcName\":\"合规性\",\"funcContent\":[{\"funcTitle\":\"合法合规\",\"funcP\":\"银行账户，清算合规。\"}]},{\"funcName\":\"大额充值入金\",\"funcContent\":[{\"funcTitle\":\"不限额转账充值\",\"funcP\":\"大额充值入金转账充值、不限额度、个人+企业。\"}]},{\"funcName\":\"大额实时收付款\",\"funcContent\":[{\"funcTitle\":\"多场景支付\",\"funcP\":\"支持余额支付、分账等多场景支付。\\n\"}]},{\"funcName\":\"大额实时提现\",\"funcContent\":[{\"funcTitle\":\"实时性\",\"funcP\":\"支持对公、对私大额实时提现。\"}]}]",
+		"id":2368
+	},
+	{
+		"txt":"[{\"name\":\"线上订单交易\",\"instruction\":\"场景对于入金方式及入金时效性要求高，支付场景多样，如：实时付款、担保支付、分批付款等，出金/提现支持大额、实时提现。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"企业代发代付\",\"instruction\":\"场景为核心企业给企业员工发薪；人力资源平台向灵活用工人员发放佣金或劳务报酬。场景特点：支持单笔、批量代发。支持钱包代发、银行卡代发。实效性要求高。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\" 金融放款还款\",\"instruction\":\"场景为资方通过易账通放款，资金可以直接发放到客户钱包，也可以受托支付至外部银行账户。款项到期后，客户可以主动还款，也可以钱包充值后由资方扣款 。场景特点为资金放至企业钱包，可以直接用来进行线上交易，结合线上交易场景，把控企业资金流，降低风险。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"物流或集团型企业\",\"instruction\":\"物流或集团型企业资金归集管理，每天或定期进行资金归集、业务订单核销管理。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2369
+	}
+]
