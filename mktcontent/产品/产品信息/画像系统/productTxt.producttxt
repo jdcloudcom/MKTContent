@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"画像系统\",\"desc\":\"帮助企业面向营销场景系统化构建标签体系和画像分析模板，沉淀数据资产打造完善的营销驱动引擎 。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2324
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"高性能\",\"proName\":\"亿级实体、千级标签多维组合秒级响应。\"},{\"showShade\":false,\"proGood\":\"灵活易用\",\"proName\":\"根据业务需求，快速灵活集成标签数据、生成数据接口。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"智能可视化\",\"proName\":\"自定义分析维度、自助式可视化画像分析。\"}]",
+		"id":2325
+	},
+	{
+		"txt":"[{\"funcName\":\"标签市场\",\"funcContent\":[{\"funcTitle\":\"标签指标统计\",\"funcP\":\"标签列表中展示所有标签，对指定标签查看标签信息、标签值分布及标签的各项指标统计。\"}]},{\"funcName\":\"人群画像\",\"funcContent\":[{\"funcTitle\":\"人群与标签关系\",\"funcP\":\"支持对人群进行人群数量计算、基础画像分析、自定义画像分析，并可分析两个人群间的交差情况、分析人群与其他标签关系。\"}]},{\"funcName\":\"人群管理\",\"funcContent\":[{\"funcTitle\":\"人群信息设置\",\"funcP\":\"人群管理支持多种方式创建人群，并支持人群的信息设置、规则修改，保存后的人群可进行人群画像等操作。\"}]}]",
+		"id":2326
+	},
+	{
+		"txt":"[{\"name\":\"特定人群分析\",\"instruction\":\"将具有相同或相似特征的客户圈选为人群，并进行人群分析。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"精准营销\",\"instruction\":\"依据营销的不同场景，使用客户标签组合出最合适的目标人群进行触达，节省人力同时提升活动转化率。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"风险客户识别\",\"instruction\":\"构建客户的黑/白名单，防范风险客户产生的异常行为。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2327
+	}
+]
