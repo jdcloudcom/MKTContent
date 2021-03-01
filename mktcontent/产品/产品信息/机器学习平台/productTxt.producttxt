@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"机器学习平台\",\"desc\":\"KuAI是面向开发者的一站式AI开发平台，为传统机器学习和深度学习提供从数据处理、模型训练、服务部署到预测的一站式服务。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2295
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"一站式服务\",\"proName\":\"集数据处理、开发、训练、部署一站式服务。\"},{\"showShade\":false,\"proGood\":\"深度学习\",\"proName\":\"支持Tensorflow、Torch、Scikit-learn等主流深度学习框架。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高性能\",\"proName\":\"支持CPU/GPU调度，高效的资源利用，为TB级数据的模型训练提供坚实基础。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"算法全面\",\"proName\":\"提供数据处理、分类、聚类、深度学习等几十种主流算法。\"}]",
+		"id":2296
+	},
+	{
+		"txt":"[{\"funcName\":\"模型开发\",\"funcContent\":[{\"funcTitle\":\"交互式开发调试\",\"funcP\":\"KuAI集成了基于开源的Jupyterlab，可提供在线的交互式开发调试工具。用户可创建开发环境，自行编写和调测模型训练代码并进行模型训练。\"}]},{\"funcName\":\"模型部署\",\"funcContent\":[{\"funcTitle\":\"多场景模型部署\",\"funcP\":\"完成模型的开发、训练工作后，可以把它部署为可以线上执行的模型；支持离线模型部署和在线模型部署2种方式。\"}]},{\"funcName\":\"模型监控\",\"funcContent\":[{\"funcTitle\":\"模型指标设置\",\"funcP\":\"支持通过对监控指标设置告警规则，一旦触发此规则立即进行通知。方便用户及时了解线上模型的运行效果。\"}]},{\"funcName\":\"自动学习\",\"funcContent\":[{\"funcTitle\":\"机器学习自动化\",\"funcP\":\"针对结构化数据，通过自动化数据处理、特征工程、模型筛选、自动调参，实现机器学习自动化。\"}]},{\"funcName\":\"我的云盘\",\"funcContent\":[{\"funcTitle\":\"云盘管理功能\",\"funcP\":\"对云盘中的文件夹及文件进行新建、复制、移动、重命名等管理功能。\"}]}]",
+		"id":2297
+	},
+	{
+		"txt":"[{\"name\":\"学习训练模型\",\"instruction\":\"提供深度学习解决方案，支持信息流推荐、人群划分、营销用户召回、失联预测等实际业务场景，深度学习训练模型可直接部署成服务供业务调用\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2298
+	}
+]
