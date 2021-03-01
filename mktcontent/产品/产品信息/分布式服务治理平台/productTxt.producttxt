@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"\",\"desc\":\"全链路追踪、智能预警与秒级监控，接入零侵入\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2346
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"高时效性\",\"proName\":\"秒级监控与告警\"},{\"showShade\":false,\"proGood\":\"高可维护性\",\"proName\":\"代码零侵入，接入简单，轻松部署；自动化识别监控目标\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高稳定性\",\"proName\":\"全异步处理及软引用实现，性能影响小\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高扩展性\",\"proName\":\"自定义描述性扩展语言，可实现快速外部扩展\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定可靠\",\"proName\":\"99.9%可用率，确保监控服务的稳定可靠\"}]",
+		"id":2347
+	},
+	{
+		"txt":"[{\"funcName\":\"支持所有主流框架及协议\",\"funcContent\":[{\"funcTitle\":\"支持所有主流框架及协议\",\"funcP\":\"支持所有主流框架及协议，如HTTP、JMS、AMQP、Dubbo、Spring Cloud、Motan、Hessian、JAX-WS等\"}]},{\"funcName\":\"调用来源分析\",\"funcContent\":[{\"funcTitle\":\"调用来源分析\",\"funcP\":\"每个指标可追溯来源\"}]},{\"funcName\":\"配置灵活\",\"funcContent\":[{\"funcTitle\":\"配置灵活\",\"funcP\":\"可配置的多维度业务监控(分类监控、比值监控、状态转移监控、累加监控等)\"}]},{\"funcName\":\"故障定位\",\"funcContent\":[{\"funcTitle\":\"故障定位\",\"funcP\":\"耗时明细（缓存、数据库、NoSQL……）分析，快速故障定位\"}]},{\"funcName\":\"全链路分析\",\"funcContent\":[{\"funcTitle\":\"全链路分析\",\"funcP\":\"支持远程调用、跨线程，整体拓扑展示\"}]},{\"funcName\":\"监控与预警\",\"funcContent\":[{\"funcTitle\":\"监控与预警\",\"funcP\":\"方法调用量、性能、成功率等基础监控与预警\"}]},{\"funcName\":\"实时显示\",\"funcContent\":[{\"funcTitle\":\"实时显示\",\"funcP\":\"动态容量规划，实时显示应用容量水位\"}]}]",
+		"id":2348
+	},
+	{
+		"txt":"[{\"name\":\"使用场景\",\"instruction\":\"主要用于监控、治理以及追踪，应用在运行时出现的性能问题和分析，包括耗时、GC、底层、RPC等监控，以及对监控内容的实时告警\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2349
+	}
+]
