@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"数据治理\",\"desc\":\"合理构建行业数据标准、高效提升数据质量、科学保障客户数据资产价值最大化。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2328
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"超大规模\",\"proName\":\"支持大数据量、高并发作业同时安全稳定运行。\"},{\"showShade\":false,\"proGood\":\"安全可靠\",\"proName\":\"保证数据资源隔离、作业隔离、计算资源隔离。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"简单易用\",\"proName\":\"良好可视化界面，整体产品设计人性化，操作简单易用。\"}]",
+		"id":2329
+	},
+	{
+		"txt":"[{\"funcName\":\"数据标准\",\"funcContent\":[{\"funcTitle\":\"数据标准制定\",\"funcP\":\"数据治理平台提供完整的数据标准管理流程及制度，通过统一的数据标准制定和发布，实现企业大数据平台数据的完整性、有效性、一致性、规范性和共享性。\"}]},{\"funcName\":\"数据模型\",\"funcContent\":[{\"funcTitle\":\"自助式的模型设计\",\"funcP\":\"数据模型提供向导式、自助式的模型设计与管理。满足用户数仓建模和集市建模；用户可以根据业务逻辑快速自顶向下构建企业维度、打通整体业务流程。\"}]},{\"funcName\":\"元数据管理\",\"funcContent\":[{\"funcTitle\":\"数据管理工具\",\"funcP\":\"提供元数据采集、存储、查询及元数据应用等多种元数据管理工具，致力于构建企业级的元数据管理平台。\"}]},{\"funcName\":\"数据质量\",\"funcContent\":[{\"funcTitle\":\"质量稽核功能\",\"funcP\":\"提供数据质量稽核功能来保证数据质量。可以随时一键操作，进行稽核作业的上下线操作，对稽核结果进行查询和统计，以及稽核问题的管理。\"}]}]",
+		"id":2330
+	},
+	{
+		"txt":"[{\"name\":\"提升企业数据洞察力\",\"instruction\":\"汇总系统数据属性信息，建设元数据主题目录，通过元数据之间的关系和影响挖掘隐藏在资源中的价值。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"规范企业数据资产管理\",\"instruction\":\"采集、清洗、加工企业全量数据，汇总、统计、分析有价值的数据资源，提供数据资产地图，帮助管理者快速发现、清理冗余无效的不良资产。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"行业数据标准制定和质量稽核\",\"instruction\":\"帮助金融、政府、公安等领域制定符合行业规范的数据标准，提升各行业监管的数据质量，推动各行业高质量数字化转型，完善相关数据质量管理机制。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2331
+	}
+]
