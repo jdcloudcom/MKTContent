@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"分布式统一日志平台\",\"desc\":\"统一日志是一套完善的日志监控与治理的方案\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2354
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"及时性\",\"proName\":\"亚秒级延迟（从日志产生到搜索、预警）\"},{\"showShade\":false,\"proGood\":\"智能化\",\"proName\":\"日志目录及文件自动发现机制，日志格式自动适配\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定可靠\",\"proName\":\"99.9%可用率，确保监控服务的稳定可靠\"}]",
+		"id":2355
+	},
+	{
+		"txt":"[{\"funcName\":\"关键词统计与预警\",\"funcContent\":[{\"funcTitle\":\"关键词统计与预警\",\"funcP\":\"关键词预警包含全局关键词和应用关键词；关键词统计，所有出现关键词次数都可以通过多种方式多种维度在页面查询\"}]},{\"funcName\":\"日志检索\",\"funcContent\":[{\"funcTitle\":\"日志检索\",\"funcP\":\"日志检索是统一日志的核心功能，包含以下功能：常规检索、下载、线程/主机查询、实时日志（实现WEB端Tail功能）\"}]}]",
+		"id":2356
+	},
+	{
+		"txt":"[{\"name\":\"统一日志监控\",\"instruction\":\"1、服务规模化，日志集群管理；2、服务级别高，需要日志报警的场景；3、审计日志的需求；4、应对各项日志合规检查的需求。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2357
+	}
+]
