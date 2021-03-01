@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"微服务开放网关\",\"desc\":\"微服务开放网关是一套网关服务，客户端和微服务之间重要请求转发枢纽，可以简单、快速、低成本、低风险的实现微服务聚合和对外发布能力。\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":2386
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"开放平台能力\",\"proName\":\"OPS管理和开放平台能力\"},{\"showShade\":false,\"proGood\":\"多协议转换能力\",\"proName\":\"无侵入的多协议转换能力\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"集成开发环境\",\"proName\":\"接口定义和集成开发环境\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"数据共享能力\",\"proName\":\"基于多级缓存的数据共享能力\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"快速编排发布\",\"proName\":\"接口的快速编排和发布能力\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"插件化体系\",\"proName\":\"支持基于插件快速实现功能扩展\"}]",
+		"id":2387
+	},
+	{
+		"txt":"[{\"funcName\":\"网关服务能力\",\"funcContent\":[{\"funcTitle\":\"网关服务能力\",\"funcP\":\"支持负载均衡、熔断降级、流量控制和动态路由、分级缓存和功能组件化\"}]},{\"funcName\":\"接口定义能力\",\"funcContent\":[{\"funcTitle\":\"接口定义能力\",\"funcP\":\"在线页面化、模板化接口定义，自动生成文档和接口Mock\"}]},{\"funcName\":\"协议转换能力\",\"funcContent\":[{\"funcTitle\":\"协议转换能力\",\"funcP\":\"Web应用直接接入、泛化调用的方式访问RPC服务、为非Web应用代理Web能力，实现HTTP与RPC协议快速转换\"}]},{\"funcName\":\"服务发布能力\",\"funcContent\":[{\"funcTitle\":\"服务发布能力\",\"funcP\":\"蓝绿发布、滚动发布、灰度发布/金丝雀/AB Test\"}]},{\"funcName\":\"接口开放能力\",\"funcContent\":[{\"funcTitle\":\"接口开放能力\",\"funcP\":\"以统一的规范和标准发布、以组合的方式编排微服务、以微服务的方式定向发布\"}]},{\"funcName\":\"统一监管能力\",\"funcContent\":[{\"funcTitle\":\"统一监管能力\",\"funcP\":\"监控预警和动态调度、调用链路和日志追踪、身份认证和安全管理\"}]}]",
+		"id":2388
+	},
+	{
+		"txt":"[{\"name\":\"移动网关：提供移动终端对接\",\"instruction\":\"通过SDK快速对接移动网关服务，移动网关解决移动服务开发所需：API安全、协议转换、报文转换、限流、降级、熔断、错误监控等基础能力。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"开放网关：多业务错场景开放对接\",\"instruction\":\"通过SDK可快速、低成本、低风险实现生态合作伙伴的连接，提供服务开放所需API安全、协议转换、限流、降级、熔断、错误监控等基础能力。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"内网网关：实现异构服务集成\",\"instruction\":\"通过SDK集成和插件化扩展支持异构系统快速集成，为其提供：协议转换、报文转换等基础能力同时提供服务治理等扩展能力。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2389
+	}
+]
