@@ -1,0 +1,32 @@
+[
+	{
+		"txt":"{\"name\":\"banner\",\"operator\":\"dengcuifeng\",\"floorName\":\"banner\",\"data\":[{\"title\":\"银行敏捷IT架构解决方案\",\"description\":\"京东数科可帮助商业银行建立更加高效的基础架构体系，提升商业银行IT资源利用率，降低应用交付成本，实现业务应用的开发测试运维一体化。\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/994e9baa-9ebb-4a7f-8545-7a982cd8957c20210302104334.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[{\"name\":\"获取方案\",\"link\":\"//www.jdcloud.com/forms/consultation\",\"classTag\":\"q1\"}],\"tagMetas\":[]}]}",
+		"templet":"11",
+		"id":1238,
+		"solution_id":"251"
+	},
+	{
+		"txt":"{\"name\":\"description-2\",\"operator\":\"dengcuifeng\",\"floorName\":\"方案简介\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/51bcfa47-0276-4c2c-9409-9ad819c5b9b320210302104417.jpg\",\"showTitle\":\"银行敏捷IT架构解决方案\",\"descriptionDetail\":\"金融科技时代，商业银行的IT架构正在发生着深刻的变化，京东科技可帮助商业银行建立更加高效的基础架构体系，提升商业银行IT资源利用率，加快应用迭代速度，降低应用交付成本，实现业务应用的开发测试运维一体化，满足商业银行向容器化、微服务化、智能化过渡的广泛需求。\",\"buttons\":{\"name\":\"获取方案\",\"link\":\"//www.jdcloud.com/forms/consultation\",\"classTag\":\"q1\"}}]}",
+		"templet":"22",
+		"id":1239,
+		"solution_id":"251"
+	},
+	{
+		"txt":"{\"name\":\"architecture-1\",\"operator\":\"dengcuifeng\",\"floorName\":\"方案架构\",\"data\":[{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e2bcacd9-3c9e-42a2-8ff6-19370be9907120210302104639.png\",\"title\":\"敏捷架构战略\",\"descriptionDetail\":\"京东科技提出的敏捷架构战略，重构了金融机构的架构形态，升级了协作交付效率，通过组件化、高可用、自主可控和金融级安全体系为金融机构带来敏捷性和安全性双重加速发展，保障了金融产品和金融服务的快速创新和迭代，让金融机构实现在稳态业务和敏态业务的高效响应，并确保其在数字化转型中更加稳定前行，最终大幅提升金融机构的整体市场竞争力。\",\"buttons\":{\"name\":\"获取方案\",\"link\":\"//www.jdcloud.com/forms/consultation\",\"classTag\":\"q1\"}}]}",
+		"templet":"31",
+		"id":1240,
+		"solution_id":"251"
+	},
+	{
+		"txt":"{\"name\":\"advantage\",\"operator\":\"dengcuifeng\",\"floorName\":\"方案优势\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ac2a6119-19e3-4c00-b670-5e8b9726a3a320210302104747.png\",\"title\":\"赋能业务，降本增效\",\"description\":\"通过技术创新赋能业务转型，大幅降低中小型金融机构的研发成本、提升技术体系效能。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cd882047-cc51-4c5e-a317-fde4dc81e60020210302104751.png\",\"title\":\"本地部署、自主可控\",\"description\":\"实现基于分布式架构的本地化系统部署，为打造敏捷开发的金融产品和服务提供技术支撑。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/8c4831c4-fdd6-4c66-a609-46c429ca490020210302104757.png\",\"title\":\"安全稳定、灵活调用\",\"description\":\"已将基础技术能力形成标准化的技术中间件，支持中间件的整合和包装，提供高效多样的“工具箱”，支持前台敏捷快速的创新业务研发。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/16db7270-fa5f-40be-897f-fa3c8d4def8820210302104803.png\",\"title\":\"VIP顾问式服务\",\"description\":\"1v1按需求定制个性化方案，全程360°可信赖的服务。\"}]}",
+		"templet":"51",
+		"id":1241,
+		"solution_id":"251"
+	},
+	{
+		"txt":"{\"name\":\"scene\",\"operator\":\"dengcuifeng\",\"floorName\":\"典型场景\",\"data\":[{\"title\":\"金融机构\",\"sceneDescription\":\"京东科技为金融机构提供从架构转型咨询规划与设计、组件式工具、到陪伴式转型服务的端到端解决方案，打造技术中台、业务中台、数据中台，支持金融机构高效的构建、管理和运营，帮助金融机构奠定数字化转型的技术基础，助力金融机构的数字化转型，推动实现数字转型的整体目标。\",\"solution\":\"\",\"selectedProduct\":[],\"tmpSelected\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/06cc44ae-9d5e-4127-aa54-7c88b911ddd120210302115746.png\",\"showShade\":false}]}",
+		"templet":"41",
+		"id":1242,
+		"solution_id":"251"
+	}
+]
