@@ -2384,6 +2384,54 @@
 		"news_title":"展现非凡领跑力，京东会展云斩获“十大云原生行业”奖项"
 	},
 	{
+		"summary":"民以食为天，春节期间，北京的农产品食品供应情况，成了许多群众和有关部门过年关心的问题。为保障蔬菜等生活必需品安全畅通，北京市商务局、市发展改革委委托京东科技集团开发了“蔬菜进京分省对接平台”“车辆进京报备系统”，用科技保障北京市民的“菜篮子”。",
+		"image_url":"//img1.jcloudcs.com/cms/13afacaa-046b-479a-ab63-cbe9c1f4aac120210302114550.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_878",
+		"jss_key":"News_Content_878",
+		"id":878,
+		"news_title":"京东科技：用科技保障北京市民的“菜篮子”"
+	},
+	{
+		"summary":"2021年的春节，有超过12亿人次通过直播间看春晚，703亿人次参与红包互动，京东云作为春晚红包互动活动的技术供应商之一，依靠10年618和11.11购物节积累的云服务产品能力和经验，从容应对不断攀登的流量洪峰和复杂的网络环境，数百亿次的互动背后，展现的是平台超强的服务承载能力。",
+		"image_url":"//img1.jcloudcs.com/cms/a50f156d-8c3f-4a06-8df9-e9bbc6e5549920210302114509.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_879",
+		"jss_key":"News_Content_879",
+		"id":879,
+		"news_title":"12亿人观看，703亿人次参与红包互动，京东云如何应对春晚流量洪峰？"
+	},
+	{
+		"summary":"早晨8点，生活在天津市河西区桃园街道的翁淑琴老人，会准时接到京东科技集团智能外呼系统“京小昂”打来的电话，它像往常一样，提醒老人注意天气变化，保暖防寒，还特意叮嘱老人家今天是腊八节，别忘了喝上一碗腊八粥，好好过节。而在腊八节这天，天津市河西区5000多位独居老人，都接到了“京小昂”从河西区居家养老服务中心打来的问询电话",
+		"image_url":"//img1.jcloudcs.com/cms/fcdc7d19-f116-412d-a5c7-608fcf782bd420210302114446.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_880",
+		"jss_key":"News_Content_880",
+		"id":880,
+		"news_title":"京东科技助推居家养老“智能化”"
+	},
+	{
+		"summary":"2021年2月24日08:00，成都“数字人民币 红包迎新春”消费红包测试活动将正式启动。成都市政府将联合京东面向市民发放20万份总计4000万元的数字人民币红包，红包金额为178元、238元两档，随机发放。京东科技集团作为京东集团旗下专注于以技术为产业服务的业务子集团，为本次活动提供技术与服务支持。",
+		"image_url":"//img1.jcloudcs.com/cms/ba30e217-036f-4cab-9970-b705d176fdb720210302114426.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_881",
+		"jss_key":"News_Content_881",
+		"id":881,
+		"news_title":"4000万红包来袭！京东科技助力成都首次进行数字人民币专项测试"
+	},
+	{
+		"summary":"2月10日18时00分，“数字人民币·苏州年货节京东专场”正式启动。苏州市政府联合京东面向市民发放总计3000万元数字人民币红包。",
+		"image_url":"//img1.jcloudcs.com/cms/adaad087-dfd0-49e0-8f3b-945a2120e99e20210302114408.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_882",
+		"jss_key":"News_Content_882",
+		"id":882,
+		"news_title":"苏州年货节正式启动 京东科技再次助力数字人民币试点落地"
+	},
+	{
+		"summary":"新华网北京2月7日电（刘绪尧）近日，推动数字经济和实体经济深度融合研讨会在中国社会科学院举行。会上，中国社科院经济学部与京东集团签署合作协议，这标志着双方在数字经济领域的研究合作迈出了坚实的一步。",
+		"image_url":"//img1.jcloudcs.com/cms/63ddd3cd-571c-4dd2-9944-1e590c36995820210302114353.png",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_883",
+		"jss_key":"News_Content_883",
+		"id":883,
+		"news_title":"推动数字经济和实体经济深度融合研讨会在京举行"
+	},
+	{
 		"summary":"10月19日，国际权威分析机构Forrester发布2020年《TheForresterWave™：公有云开发与基础架构平台中国市场厂商评测》（以下简称“报告”）报告，京东智联云凭借前瞻性的战略布局、独特智能供应链优势以及云、联、智三阶引擎的双轮驱动，实现战略布局、产品能力、市场表现等方面全面提升，斩获“卓越表现者”。",
 		"image_url":"//img1.jcloudcs.com/cms/1a6c5d49-6ae3-4737-adec-a07b1fb0874820210301160232.png",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_884",
