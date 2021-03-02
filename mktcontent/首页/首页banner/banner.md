@@ -1636,5 +1636,19 @@
 		"id":1330,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"助力互联网、金融、城市等产业数字化升级",
+		"name":"京东云",
+		"id":1332,
+		"button_title":"了解更多",
+		"main_title":"京东云，值得信赖的智能技术提供者"
+	},
+	{
+		"sub_title":"",
+		"name":"嗨购季",
+		"id":1334,
+		"button_title":"",
+		"main_title":""
 	}
 ]
