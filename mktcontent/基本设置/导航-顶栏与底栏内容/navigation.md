@@ -660,8 +660,8 @@
 		"id":281
 	},
 	{
-		"name":"定价",
-		"description":"",
+		"name":"定价规则",
+		"description":"定价规则",
 		"id":282
 	},
 	{
@@ -1085,8 +1085,8 @@
 		"id":435
 	},
 	{
-		"name":"帮助文档",
-		"description":"帮助文档",
+		"name":"资源工具",
+		"description":"资源工具",
 		"id":959
 	},
 	{
@@ -5621,8 +5621,8 @@
 		"id":6431
 	},
 	{
-		"name":"IMALL购物中心解决方案",
-		"description":"IMALL购物中心解决方案",
+		"name":"购物中心解决方案",
+		"description":"购物中心解决方案",
 		"id":6433
 	},
 	{
@@ -6003,5 +6003,25 @@
 		"name":"Cloud OPS",
 		"description":"Cloud OPS",
 		"id":6589
+	},
+	{
+		"name":"工单服务",
+		"description":"工单服务",
+		"id":6591
+	},
+	{
+		"name":"在线咨询",
+		"description":"在线咨询",
+		"id":6593
+	},
+	{
+		"name":"数字会展",
+		"description":"数字会展",
+		"id":6595
+	},
+	{
+		"name":"展会云",
+		"description":"展会云",
+		"id":6597
 	}
 ]
