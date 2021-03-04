@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"JMR\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://xdata.jdcloud.com/rmgr/resources/res-manage/custom-resources.html?dataCenter=bj_02\"}],\"desc\":\"JMR(JingDong MapReduce)是一个托管集群平台，可以在京东云上运行大数据框架（如Apache Hadoop和Apache Spark）或运行这些框架相关的开源项目（如Apache Hive和Apache Pig），您可便捷地使用MapReduce，Hive，Spark，Presto等服务低成本开展大规模分布式数据计算服务和海量数据分析。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/51be59c8-862b-4cfe-a2a5-26fc31527f4820181115162120.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|38\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|38\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"JMR\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://jmr-console.jdcloud.com/cluster/list\"}],\"desc\":\"JMR(JingDong MapReduce)是一个托管集群平台，可以在京东云上运行大数据框架（如Apache Hadoop和Apache Spark）或运行这些框架相关的开源项目（如Apache Hive和Apache Pig），您可便捷地使用MapReduce，Hive，Spark，Presto等服务低成本开展大规模分布式数据计算服务和海量数据分析。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/51be59c8-862b-4cfe-a2a5-26fc31527f4820181115162120.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|38\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|38\"}",
 		"id":80
 	},
 	{
