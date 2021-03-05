@@ -1,0 +1,32 @@
+<p style="text-align:center">【漏洞预警】通达OA任意用户登录漏洞安全公告</p>
+<p style="text-align:center">&nbsp;</p>
+<p>近日，京东云安全团队监测到通达OA组件存在任意用户登录漏洞，高危。该漏洞是由于存在某接口可查询和获取数据库中用户登录后的有效Session，攻击者可利用该漏洞在未授权的情况下，构造恶意数据获取用户的有效Session值，并以该用户的身份登录，最终获取用户后台权限。</p>
+<p>&nbsp;</p>
+<p>【漏洞描述】</p>
+<p>&nbsp;&nbsp;&nbsp; 通达OA（Office Anywhere网络智能办公系统）是由北京通达信科科技有限公司自主研发的协同办公自动化软件。</p>
+<p>&nbsp;mobile/auth_mobi.php<span style=";color:windowtext">程序将参数uid和P_VER的值带入了SQL语句，主要功能为查询在线用户的有效SESSION值。其中user_online表存放了用户的登录信息，SID字段为有效SESSION。</span>
+</p>
+<p>最后在响应包的Set-Cookie中将Session返回。。</p>
+<p>&nbsp;</p>
+<p>【漏洞评级】</p>
+<p>高危</p>
+<p>&nbsp;</p>
+<p>【受影响版本】</p>
+<p>通达OA &lt;= V11.7</p>
+<p>&nbsp;</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">【修复建议】</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">1.<span style="font: 9px arial, helvetica, sans-serif;">&nbsp;&nbsp; </span>
+访问inc/expired.php即可显示组件的版本信息</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px;text-align:left"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">2.<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-size: 16px; font-family: &quot;microsoft yahei&quot;, sans-serif; color: rgb(55, 61, 65); background: white;">官方修复建议</span>
+</span>
+</p>
+<p>&nbsp;</p>
+<p><span style=";color:windowtext">当前官方已发布最新版本，建议受影响的用户及时更新升级到最新版本。链接如下：</span>
+</p>
+<p>https://www.tongda2000.com/download/sp2019.php</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br/></p>
