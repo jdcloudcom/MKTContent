@@ -1,0 +1,156 @@
+<p style="margin-left: 28px; text-indent: 28px; text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【漏洞预警】<span style="font-family: arial, helvetica, sans-serif; color: windowtext;">Microsoft Exchange Server多个高危漏洞</span>
+</span>
+</p>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">京东云安全团队监测微软官方发布了一则漏洞安全通告，通告披露了Exchange Server组件存在多个漏洞。</span>
+</p>
+<p style="text-indent: 28px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">【漏洞描述】</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;&nbsp;&nbsp; <span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: windowtext;">漏洞编号：CVE-2021-26855/26857/26858/27065。</span>
+</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">CVE-2021-26855: SSRF漏洞</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">ExchangeServer服务器端请求伪造（SSRF）漏洞，利用此漏洞的攻击者能够发送任意HTTP请求并通过Exchange Server进行身份验证。</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">CVE-2021-26857: 反序列化漏洞</span>
+</p>
+<p style="text-align: left;"><span style="font-family: 宋体; font-size: 16px;">ExchangeServer反序列化漏洞，该漏洞需要管理员权限，利用此漏洞的攻击者可以在Exchange服务器上以SYSTEM身份运行代码。</span>
+</p>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">CVE-2021-26858/CVE-2021-27065: 任意文件写入漏洞</span>
+</p>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;"><span style="font-size: 16px; font-family: 宋体;">ExchangeServer中身份验证后的任意文件写入漏洞。攻击者通过ExchangeServer服务器进行身份验证后，可以利用此漏洞将文件写入服务器上的任何路径。同时，通过配合利用CVE-2021-26855 SSRF漏洞可以绕过身份验证</span>
+<span style="font-family: arial, helvetica, sans-serif; font-size: 19px;">。</span>
+</span>
+</p>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">【漏洞评级】</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">高危</span>
+</p>
+<p style="text-indent: 28px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;"><span style="font-size: 16px; font-family: 宋体;">【受影响版本】</span>
+<span style="font-size: 16px; font-family: &quot;microsoft yahei&quot;, sans-serif; color: rgb(51, 51, 51); letter-spacing: 1px;">&nbsp;</span>
+</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">Exchange Server 2013</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">Exchange Server 2016</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">Exchange Server 2019</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">【修复建议】</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">1.如何检测组件系统版本</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">首先打开Exchange Management Shell</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">然后再命令行中输入</span>
+</p>
+<p style="text-align: left; background: white; vertical-align: baseline;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">Get-ExchangeServer | fl admindisplayversion</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">2.官方修复建议</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">当前官方已发布最新版本，建议受影响的用户及时更新升级到最新版本。链接如下：</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26855</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26857</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26858</span>
+</p>
+<p style="text-align: left; background: white; vertical-align: baseline;"><a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-27065" style="text-decoration: underline; color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;"><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-27065</span>
+</a></p>
+<p style="text-align: left; background: white; vertical-align: baseline;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">安全更新可用于以下特定版本的Exchange：</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">Exchange Server 2010（Service Pack 3的RU 31 –这是深度防御更新）</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">Exchange Server 2013（CU 23）</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">Exchange Server 2016（CU 19，CU 18）</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">Exchange Server 2019（CU 8，CU 7）</span>
+</p>
+<p style="text-align: left; background: white; vertical-align: baseline;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">如果Exchange Server不在此版本上建议升级至以上版本进行安全更新。</span>
+</p>
+<p style="text-align: left; background: white; vertical-align: baseline;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">3.临时修复建议</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">CVE-2021-26855： _</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">可以通过以下Exchange HttpProxy日志进行检测：</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">%PROGRAMFILES%\Microsoft\Exchange Server\V15\Logging\HttpProxy</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;"><span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: windowtext;">可以通过在AuthenticatedUser为空并且AnchorMailbox包含ServerInfo</span>
+<span style="font-size: 16px; font-family: &quot;microsoft yahei&quot;, sans-serif; color: windowtext;">〜</span>
+<span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: windowtext;">* / *模式的日志条目中进行搜索来识别漏洞利用，也可以通过以下PowerShell命令来查找这些日志条目：</span>
+</span>
+</p>
+<p style="text-align: left; background: white; vertical-align: baseline;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">Import-Csv -Path (Get-ChildItem -Recurse -Path “$env:PROGRAMFILES\Microsoft\Exchange Server\V15\Logging\HttpProxy” -Filter ‘*.log’).FullName | Where-Object {&nbsp; $_.AuthenticatedUser -eq ” -and</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">$_.AnchorMailbox -like ‘ServerInfo~*/*’ } | select DateTime, AnchorMailbox</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">如果检测到了入侵，可以通过以下目录获取攻击者采取了哪些活动</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">%PROGRAMFILES%\Microsoft\Exchange Server\V15\Logging</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">CVE-2021-26858： _</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">可以通过日志文件查看相关信息</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">C:\ProgramFiles\Microsoft\Exchange Server\V15\Logging\OABGeneratorLog</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">文件应仅下载到</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">%PROGRAMFILES%\Microsoft\Exchange Server\V15\ClientAccess\OAB\Temp目录,如果被利用，文件将下载到其他目录（UNC或本地路径），可以通过以下命令搜索可能的漏洞利用。</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">findstr /snip /c:”Download failed and temporary file”“%PROGRAMFILES%\Microsoft\Exchange Server\V15\Logging\OABGeneratorLog\*.log”</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">CVE-2021-26857： _</span>
+</p>
+<p style="text-align: left; background: white; vertical-align: baseline;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">可利用以下命令检测日志条目，并检查是否受到攻击。</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">Get-EventLog -LogName Application -Source “MSExchange Unified Messaging”-EntryType Error | Where-Object { $_.Message -like “*System.InvalidCastException*”}</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">利用该漏洞将创建具有以下属性的应用程序事件：</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">Source: MSExchange Unified Messaging</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">EntryType: Error</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">Event Message Contains: System.InvalidCastException</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: windowtext; font-size: 16px;">CVE-2021-27065： _</span>
+</p>
+<p><span style="color: windowtext; font-family: arial, helvetica, sans-serif; font-size: 16px;">通过以下powershell命令进行日志检测，并检查是否遭到攻击:</span>
+</p>
+<p style="text-align: left; background: white; vertical-align: baseline;"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">Select-String -Path “$env:PROGRAMFILES\Microsoft\Exchange Server\V15\Logging\ECP\Server\*.log”-Pattern ‘Set-.+VirtualDirectory’</span>
+</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span>
+</p>
+<p><br/></p>
