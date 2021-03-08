@@ -6020,8 +6020,8 @@
 		"id":6595
 	},
 	{
-		"name":"展会云",
-		"description":"展会云",
+		"name":"会展云",
+		"description":"会展云",
 		"id":6597
 	}
 ]
