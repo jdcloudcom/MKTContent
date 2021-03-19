@@ -1,0 +1,31 @@
+<p style="text-align:center">【漏洞预警】Gitlab markdown远程代码执行漏洞</p>
+<p style="text-align:center">&nbsp;</p>
+<p>尊敬的用户</p>
+<p style="text-indent:28px">您好</p>
+<p style="text-indent:28px">近日，京东云安全团队监测到Gitlab官方发布安全更新,修复了一处远程代码执行漏洞。</p>
+<p style="text-indent:28px">&nbsp;</p>
+<p>【漏洞描述】</p>
+<p>&nbsp;&nbsp;&nbsp; Gitlab是一款基于Git 的完全集成的软件开发平台，且具有wiki以及在线编辑、issue跟踪功能、CI/CD 等功能。2021年3月16日Gitlab官方发布安全更新，修复了一处远程代码执行漏洞，攻击者可构造恶意请求，在Gitlab服务器上执行任意代码，控制服务器。<strong>京东云安全提醒Gitlab用户尽快采取安全措施阻止漏洞攻击。</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>【漏洞评级】</p>
+<p>严重</p>
+<p>&nbsp;</p>
+<p>【受影响版本】</p>
+<p style="margin-top:0;margin-right:27px;margin-bottom:0;margin-left: 0;margin-bottom:0;text-align:justify;text-justify:inter-ideograph;background:white">Gitlab CE/EE &lt; 13.9.4</p>
+<p style="margin-top:0;margin-right:27px;margin-bottom:0;margin-left: 0;margin-bottom:0;text-align:justify;text-justify:inter-ideograph;background:white">Gitlab CE/EE &lt; 13.8.6</p>
+<p style="margin-top:0;margin-right:27px;margin-bottom:0;margin-left: 0;margin-bottom:0;text-align:justify;text-justify:inter-ideograph;background:white">Gitlab CE/EE &lt; 13.7.9</p>
+<p>&nbsp;</p>
+<p>【安全版本】</p>
+<p style="margin-top:0;margin-right:27px;margin-bottom:0;margin-left: 0;margin-bottom:0;text-align:justify;text-justify:inter-ideograph;background:white">Gitlab CE/EE 13.9.4</p>
+<p style="margin-top:0;margin-right:27px;margin-bottom:0;margin-left: 0;margin-bottom:0;text-align:justify;text-justify:inter-ideograph;background:white">Gitlab CE/EE 13.8.6</p>
+<p style="margin-top:0;margin-right:27px;margin-bottom:0;margin-left: 0;margin-bottom:0;text-align:justify;text-justify:inter-ideograph;background:white">Gitlab CE/EE 13.7.9</p>
+<p>&nbsp;</p>
+<p>【修复建议】</p>
+<p style="margin-top:0;margin-right:27px;margin-bottom:0;margin-left: 0;margin-bottom:0;text-align:justify;text-justify:inter-ideograph;background:white">1. 升级Gitlab至安全版本。</p>
+<p style="margin-top:0;margin-right:27px;margin-bottom:0;margin-left: 0;margin-bottom:0;text-align:justify;text-justify:inter-ideograph;background:white">2. 将Gitlab服务器部署于内网，设置安全策略仅对可信地址开放。</p>
+<p>&nbsp;</p>
+<p>【相关链接】</p>
+<p style="margin-top:0;margin-right:27px;margin-bottom:0;margin-left: 0;margin-bottom:0;text-align:justify;text-justify:inter-ideograph;background:white">https://about.gitlab.com/releases/2021/03/16/security-release-gitlab-13-9-4-released/#remote-code-execution-via-unsafe-user-controlled-markdown-rendering-options</p>
+<p>&nbsp;</p>
+<p><br/></p>
