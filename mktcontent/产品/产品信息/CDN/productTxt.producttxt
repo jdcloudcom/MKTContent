@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"CDN\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"http://www.jdcloud.com/help/detail/1468/isCateLog/1\"}],\"desc\":\"京东云CDN（ContentDeliveryNetwork）基于京东优质网络基础设施和智能云计算技术，向客户提供低成本、高性能、可扩展的互联网内容分发服务。利用广泛的节点覆盖和先进的云调度、云存储技术，将海量内容更快、更可靠地投递给互联网终端用户，降低网站运营成本，提升用户互联网应用体验。\\n开通此功能需联系运营人员，联系电话：4006151212。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/724e3e76-7729-49ac-9df9-beb707c27eb520181115170140.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|13\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|13\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"CDN\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\"}],\"desc\":\"京东云CDN（ContentDeliveryNetwork）基于京东优质网络基础设施和智能云计算技术，向客户提供低成本、高性能、可扩展的互联网内容分发服务。利用广泛的节点覆盖和先进的云调度、云存储技术，将海量内容更快、更可靠地投递给互联网终端用户，降低网站运营成本，提升用户互联网应用体验。\\n开通此功能需联系运营人员，联系电话：4006151212。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/724e3e76-7729-49ac-9df9-beb707c27eb520181115170140.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|13\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|13\"}",
 		"id":42
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":44
 	},
 	{
-		"txt":"[{\"instruction\":\"直播CDN服务基于京东云全国优质节点以及智能云计算能力，为各类视频直播平台提供高可用稳定的音视频内容分发服务，支持互动式推拉流直播、传统回源拉流模式，提供分布式转码、录制存储、访问控制、多维度统计查询一站式服务。\",\"name\":\"视频直播\",\"picUrl\":\"//img1.jcloudcs.com/cms/70d30e73-8189-4f4a-b548-5bec10834acf20181031114450.png\",\"selectedProduct\":[{\"name\":\"查看详情\",\"url\":\"https://docs.jdcloud.com/cn/cdn/living\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
+		"txt":"[{\"instruction\":\"直播CDN服务基于京东云全国优质节点以及智能云计算能力，为各类视频直播平台提供高可用稳定的音视频内容分发服务，支持互动式推拉流直播、传统回源拉流模式，提供分布式转码、录制存储、访问控制、多维度统计查询一站式服务。\",\"name\":\"视频直播\",\"picUrl\":\"//img1.jcloudcs.com/cms/70d30e73-8189-4f4a-b548-5bec10834acf20181031114450.png\",\"selectedProduct\":[{\"name\":\"查看详情\",\"url\":\"https://docs.jdcloud.com/cn/cdn/living\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":45
 	},
 	{
