@@ -38,7 +38,7 @@
                 </li>
             </ul>
         </div>
-        <div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i><a clstag="fintech|keycount|TopNav|tel" href="https://www.jdcloud.com/forms/consultation" target="_blank">售前咨询：400-623-0183</a></div>
+        <div class="tel-info"><i class=""><img src="https://img1.jcloudcs.com/portal/header/icon-phone.png"></i><a clstag="fintech|keycount|TopNav|tel" href="https://www.jdcloud.com/forms/consultation" target="_blank">售前咨询：400-0988-505转1</a></div>
     </div>
     <div class="CH-container">
         <section class="CH-section section-firstScreen">
@@ -68,7 +68,7 @@
                             <div class="fs-slide-ct">
                                 <div class="fs-slide-txt">
                                     <h3 class="CH-carousel-title">全栈式金融方案，助力<br>客户实践云上创新</h3>
-                                    <p class="CH-carousel-desc">京东智联云金融服务+ 数字化金融场景解决方案</p>
+                                    <p class="CH-carousel-desc">京东云金融服务+ 数字化金融场景解决方案</p>
 
                                 </div>
                                 <a clstag="fintech|keycount|BannerswiperSlide1|consultation" class="CH-carousel-button" href="https://www.jdcloud.com/cn/forms/consultation" target="_blank">立即咨询</a>
@@ -89,7 +89,7 @@
                     </dl>
                     <dl class="list-news">
                         <dt class="list-news-title">新基建</dt>
-                        <dd class="list-news-desc f-toe2"><a clstag="fintech|keycount|broadcast|article2" href="https://www.jdcloud.com/cn/news/detail/781" target="_blank">扎根“新基建”，京东智联云释放向上生长的力量。</a></dd>
+                        <dd class="list-news-desc f-toe2"><a clstag="fintech|keycount|broadcast|article2" href="https://www.jdcloud.com/cn/news/detail/781" target="_blank">扎根“新基建”，京东云释放向上生长的力量。</a></dd>
                     </dl>
                     <dl class="list-news">
                         <dt class="list-news-title">行业话题</dt>
@@ -115,7 +115,7 @@
                                     <div class="swiper-slide">
                                         <div class="CH-carousel-container">
                                             <div class="CH-carousel-content">
-                                                <h3 class="CH-carousel-title">京东智联云全栈式金融级技术方案及数字化金融解决方案，将在保障金融业务的安全、稳定、高效的同时，为金融机构降本增效，全方位助推金融行业客户的数字化升级。</h3>
+                                                <h3 class="CH-carousel-title">京东云全栈式金融级技术方案及数字化金融解决方案，将在保障金融业务的安全、稳定、高效的同时，为金融机构降本增效，全方位助推金融行业客户的数字化升级。</h3>
                                                 <a target="_blank" clstag="fintech|keycount|industryCarouselSwiperSlide1|contrust" href="https://www.jdcloud.com/cn/forms/consultation" class="CH-carousel-button">联系我们 <i class="iconfont jc-icon-my-right"></i></a>
                                             </div>
                                             <img src="https://img1.jcloudcs.com/portal/channel/finance/banner-02.png" class="CH-carousel-img-pc">
@@ -361,7 +361,7 @@
 									<h3 class="CH-card-title">开发运营一体化解决方案</h3>
 								</div>
 								<div class="CH-card-body">
-									<p class="CH-card-desc">基于京东智联云多年业务实践经验，以DevOps技术完善和提升持续交付和IT服务的能力，高效支撑证券业务发展。</p>
+									<p class="CH-card-desc">基于京东云多年业务实践经验，以DevOps技术完善和提升持续交付和IT服务的能力，高效支撑证券业务发展。</p>
 
 									<ul class="CH-list">
 										<li class="CH-list-item">自定义pipeline，秒级部署</li>
@@ -479,7 +479,7 @@
 									<h3 class="CH-card-title">互联网金融托管专区</h3>
 								</div>
 								<div class="CH-card-body">
-									<p class="CH-card-desc">基于京东智联云和京东集团在数据中心运营、政务云、金融支付等场景多年积累的实践经验，提供运营运维、实施和资产相关服务。</p>
+									<p class="CH-card-desc">基于京东云和京东集团在数据中心运营、政务云、金融支付等场景多年积累的实践经验，提供运营运维、实施和资产相关服务。</p>
 
 									<ul class="CH-list">
 										<li class="CH-list-item">等保4级机房</li>
@@ -757,7 +757,7 @@
 									<h3 class="CH-card-title">开发运营一体化解决方案</h3>
 								</div>
 								<div class="CH-card-body">
-									<p class="CH-card-desc">基于京东智联云多年业务实践经验，以DevOps技术完善和提升持续交付和IT服务的能力，高效支撑证券业务发展。</p>
+									<p class="CH-card-desc">基于京东云多年业务实践经验，以DevOps技术完善和提升持续交付和IT服务的能力，高效支撑证券业务发展。</p>
 
 									<ul class="CH-list">
 										<li class="CH-list-item">自定义pipeline，秒级部署</li>
@@ -871,7 +871,7 @@
 									<h3 class="CH-card-title">互联网金融托管专区</h3>
 								</div>
 								<div class="CH-card-body">
-									<p class="CH-card-desc">基于京东智联云和京东集团在数据中心运营、政务云、金融支付等场景多年积累的实践经验，提供运营运维、实施和资产相关服务。</p>
+									<p class="CH-card-desc">基于京东云和京东集团在数据中心运营、政务云、金融支付等场景多年积累的实践经验，提供运营运维、实施和资产相关服务。</p>
 
 									<ul class="CH-list">
 										<li class="CH-list-item">等保4级机房</li>
@@ -1329,7 +1329,7 @@
                             </div>
                             <div class="CH-card-body is-align-center">
                                 <ul class="CH-list is-size-media">
-                                    <li class="CH-list-item f-toe2">京东智联云多年集大成的公有云、超大型专有云、敏捷专有云系列产品</li>
+                                    <li class="CH-list-item f-toe2">京东云多年集大成的公有云、超大型专有云、敏捷专有云系列产品</li>
                                     <li class="CH-list-item f-toe2">提供全栈式、全场景的多云环境解决方案</li>
                                 </ul>
                             </div>
@@ -1447,7 +1447,7 @@
                                     </div>
                                     <div class="col-content">
                                         <h3 class="section-case-title">大象慧云</h3>
-                                        <p class=" section-case-desc">京东智联云和客户共同分析业务模型，建立测试系统，提供全方位云计算服务。在使用京东智联云平台后，客户实现了降本增效，高效管理，极简运维，各方面业务指标均有显著提升。</p>
+                                        <p class=" section-case-desc">京东云和客户共同分析业务模型，建立测试系统，提供全方位云计算服务。在使用京东云平台后，客户实现了降本增效，高效管理，极简运维，各方面业务指标均有显著提升。</p>
 
                                         <ul class="section-case-feature">
                                             <li>提升开发人员效率30%</li>
@@ -1572,7 +1572,7 @@
                                 </div>
                                 <div class="col-content">
                                     <h3 class="section-case-title">大象慧云</h3>
-                                    <p class=" section-case-desc">京东智联云和客户共同分析业务模型，建立测试系统，提供全方位云计算服务。在使用京东智联云平台后，客户实现了降本增效，高效管理，极简运维，各方面业务指标均有显著提升。</p>
+                                    <p class=" section-case-desc">京东云和客户共同分析业务模型，建立测试系统，提供全方位云计算服务。在使用京东云平台后，客户实现了降本增效，高效管理，极简运维，各方面业务指标均有显著提升。</p>
 
                                     <ul class="section-case-feature">
                                         <li>提升开发人员效率30%</li>
@@ -1991,7 +1991,7 @@
                 </div>
                 <div class="col-3 col-xs-12">
                     <dl class="CH-footer-info-list">
-                        <dt>免费咨询专家：400-623-0183</dt>
+                        <dt>免费咨询专家：400-0988-505转1</dt>
                         <dd>周一至周五 9:00-18:00</dd>
                     </dl>
                 </div>
