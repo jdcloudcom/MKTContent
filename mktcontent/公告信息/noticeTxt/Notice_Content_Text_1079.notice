@@ -1,0 +1,45 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测到Apache OFBiz发布安全更新，修复了一处由RMI反序列化造成的远程代码执行漏洞（CVE-2021-26295）。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; Apache OFBiz</span>
+<span style="font-size: 16px;font-family:宋体">是一个电子商务平台，用于构建大中型企业级、跨平台、跨数据库、跨应用服务器的多层、分布式电子商务类应用系统。2021年3月22日 Apache OFBiz官方发布安全更新，修复了一处由RMI反序列化造成的远程代码执行漏洞（CVE-2021-26295）。攻击者可构造恶意请求，触发反序列化，从而造成任意代码执行，控制服务器。京东云安全中心提醒 <span style="color:#0070C0">Apache OFBiz </span>
+<span style="color:#0070C0">用户尽快采取安全措施阻止漏洞攻击</span>
+<span style="color:#171717">。</span>
+</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">严重</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p style=";margin-bottom:0;line-height:24px"><span style="font-size:14px">Apache OFBiz &lt; 17.12.06</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【安全版本】</span>
+</p>
+<p style=";margin-bottom:0;line-height:24px"><span style="font-size:14px">Apache OFBiz 17.12.06</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="text-align:left"><span style=";font-family:宋体">升级 Apache OFBiz 至安全版本</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p style="text-align:left"><a href="https://seclists.org/oss-sec/2021/q1/255" target="_blank"><span style="font-size:16px;font-family:宋体;color:windowtext;text-underline: none">https://seclists.org/oss-sec/2021/q1/255</span>
+</a></p>
+<p><br/></p>
