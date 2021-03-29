@@ -1,0 +1,2 @@
+<p><span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">计划于2021年04月02日00:00:00至03:00:00对华北公有云VPC内网网关维护升级，影响范围包括VPC内资源（如云主机、原生容器、Kubernetes集群、数据库、负载均衡等），访问同地域DNS、yum源等内容服务。正常情况下业务无影响, 极端情况下出现分钟级中断。届时请留意网络状况。</span>
+</p>
