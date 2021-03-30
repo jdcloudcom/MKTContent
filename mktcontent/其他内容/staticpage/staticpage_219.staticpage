@@ -403,6 +403,17 @@
                 </div>
                 <div class="swiper-slide">
                     <div class="scene-item">
+                        <div class="scene-img img2-3"></div>
+                        <div class="scene-txt">
+                            <h4>2020 京东全球科技探索者大会</h4>
+                            <p>2020年11月，JDDiscovery-2020京东全球科技探索者大会（简称JDD）成功举办，作为京东每年一度的全球科技大会，是京东面向行业、合作伙伴、媒体和公众的最高级别的科技盛事。本届JDD大会由京东会展云全力打造，获得京东集团内外部一致认可。
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="scene-item">
                         <div class="scene-img img2-2"></div>
                         <div class="scene-txt">
                             <h4>视听大会</h4>
@@ -429,19 +440,60 @@
 <div class="fl10-connect">
 
     <div class="bt">
-            <h2 class="bt-tit">
-                品牌荣誉
-            </h2>
-        </div>
-    <div class="connect-bg w">
-        <img class="img_zs" src="https://img1.jcloudcs.com/portal/cloudexpo/fl10_img.png"/>
-        <div>
-            <b>十大云原生行业落地典范</b>
-            <p>11 月 19 日，由InfoQ 发起并组织的“2020中国技术力量年度榜单评选”结果正式揭晓。京东云凭借2020中国国际服务贸易交易会数字平台案例，从300多参评项目中脱颖而出，斩获“十大云原生行业落地典范”奖项，充分展示了京东会展云非凡的领跑力。</p>
+        <h2 class="bt-tit">
+            品牌荣誉
+        </h2>
+    </div>
+    <div class="w">
+        <div class="row">
+            <div class="col-6 col-xs-12">
+                <div class="connect-bg">
+                    <img class="img_zs" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/fl10_img1.png"/>
+                    <div>
+                        <b>十大云原生行业落地典范</b>
+                        <p>11 月 19 日，由InfoQ 发起的“2020中国技术力量年度榜单评选”结果揭晓。京东云凭借服贸会数字平台案例，从数百项目中脱颖而出，斩获“十大云原生行业落地典范”奖。</p>
 
-            <a href="https://www.jdcloud.com/cn/news/detail/866">查看详情 &#62;</a>
+                        <a href="https://www.jdcloud.com/cn/news/detail/866">查看详情 &#62;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="connect-bg">
+                    <img class="img_zs" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/fl10_img2.png"/>
+                    <div>
+                        <b>2020年度线上会展服务机构20强</b>
+                        <p>2020年12月，线上会展服务机构20强新鲜出炉，京东会展云凭借核心实力与市场影响力，赢得了会展业的高度认可，“荣膺2020年度线上会展服务机构20强”。</p>
+
+                        <a href="#" class="f-hide">查看详情 &#62;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="connect-bg">
+                    <img class="img_zs" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/fl10_img3.png"/>
+                    <div>
+                        <b>TOP100全球案例</b>
+                        <p>TOP100全球软件案例研究峰会选出年度有代表的100个技术创新/研发管理案例。京东会展云打造的服贸会数字平台案例，荣登TOP100，成为榜单最具学习价值的案例之一。</p>
+
+                        <a href="https://www.top100summit.com/detailed?id=15092">查看详情 &#62;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-xs-12">
+                <div class="connect-bg">
+                    <img class="img_zs" src="https://img1.jcloudcs.com/portal/cloudexpo/0114/fl10_img4.png"/>
+                    <div>
+                        <b>2020年度中国技术品牌影响力企业</b>
+                        <p>“中国技术品牌影响力企业”是由SegmentFault 思否独家策划、业内首个技术品牌影响力榜单。 京东云凭借申报会展云服贸会数字平台案例，荣登年度榜单。 </p>
+
+                        <a href="https://segmentfault.com/a/1190000038574558">查看详情 &#62;</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
+
+    
 </div>
 <!-- widget fmh-fl10 end -->
 
