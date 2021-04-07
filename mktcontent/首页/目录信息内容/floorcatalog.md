@@ -2392,10 +2392,10 @@
 		"button_title":"提供优质产品，享冰点价格，提供极致服务"
 	},
 	{
-		"name":"云主机-计算优化型",
-		"description":"存储、网络性能、计算稳定性大幅度提升",
+		"name":"云主机独享型 2核4G",
+		"description":"性能稳定，高端品质可信赖",
 		"id":3108,
-		"button_title":"咨询享优惠"
+		"button_title":"立即购买"
 	},
 	{
 		"name":"SSL 证书",
