@@ -2404,10 +2404,10 @@
 		"button_title":"立即抢购"
 	},
 	{
-		"name":"开年嗨购季",
+		"name":"第四代云主机发布",
 		"description":"",
 		"id":3114,
-		"button_title":"咨询享优惠"
+		"button_title":"查看详情"
 	},
 	{
 		"name":"企业福利专区 ",
@@ -2437,8 +2437,8 @@
 		"id":3150
 	},
 	{
-		"name":"开年嗨购季",
-		"description":"特价1.4折起，iphone12送你",
+		"name":"企业福利专区",
+		"description":"爆款特惠，尊享8大权益",
 		"id":3152,
 		"button_title":"查看详情"
 	},
@@ -2479,10 +2479,10 @@
 		"button_title":"立即抢购"
 	},
 	{
-		"name":"云主机通用型 2核8G",
-		"description":"存储40GB SSD盘 带宽1M",
+		"name":"短信基础包10万条",
+		"description":"个人及小微企业适用，短信秒级触达且接入简单",
 		"id":3190,
-		"button_title":"咨询享优惠"
+		"button_title":"立即购买"
 	},
 	{
 		"name":"产品",
@@ -2499,7 +2499,7 @@
 		"id":3196
 	},
 	{
-		"name":" · 活动满额送iphone12",
+		"name":" · 云主机年付4折",
 		"id":3198
 	},
 	{
@@ -2637,7 +2637,7 @@
 		"button_title":"了解更多"
 	},
 	{
-		"name":"· 答题送腾讯视频VIP卡",
+		"name":"· 短信产品促销优惠",
 		"id":3250
 	},
 	{
