@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"数据传输 DTS\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://dts-console.jdcloud.com/list\",\"classTag\":\"https://dts-console.jdcloud.com/list\"}],\"desc\":\"数据传输 DTS 是京东云提供的实时数据流服务，支持数据迁移、数据订阅、数据同步(公测中)，可简单方便的满足数据上云、业务异步解耦、跨地域数据灾备等业务场景。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"数据传输 DTS\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://dts-console.jdcloud.com/list\",\"classTag\":\"https://dts-console.jdcloud.com/list\"}],\"desc\":\"数据传输 DTS 是京东云提供的实时数据流服务，支持数据迁移、数据订阅、数据同步，可简单方便的满足数据上云、业务异步解耦、跨地域数据灾备等业务场景。\"}",
 		"id":1490
 	},
 	{
