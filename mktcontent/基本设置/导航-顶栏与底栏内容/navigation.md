@@ -6040,7 +6040,7 @@
 		"id":6603
 	},
 	{
-		"name":"云舰-COS",
+		"name":"云舰-JDOS",
 		"description":"基于京东多年的大规模容器实践打造，安全、稳定、高性能、支持超大规模、通过CNCF一致性认证的企业级Kubernetes多云容器平台。",
 		"id":6605
 	},
@@ -6174,5 +6174,35 @@
 		"name":"产业园区合作计划",
 		"description":"产业园区合作计划",
 		"id":6667
+	},
+	{
+		"name":"基础云交付服务",
+		"description":"基础云交付服务",
+		"id":6669
+	},
+	{
+		"name":"金牌服务",
+		"description":"金牌服务",
+		"id":6671
+	},
+	{
+		"name":"Cloud OPS",
+		"description":"Cloud OPS",
+		"id":6673
+	},
+	{
+		"name":"云开发服务",
+		"description":"云开发服务",
+		"id":6675
+	},
+	{
+		"name":"云开发服务",
+		"description":"云开发服务",
+		"id":6677
+	},
+	{
+		"name":"云开发服务",
+		"description":"满足中大型政企客户数智化转型中复杂系统交付需求",
+		"id":6679
 	}
 ]
