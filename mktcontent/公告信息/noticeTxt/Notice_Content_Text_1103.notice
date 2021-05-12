@@ -1,0 +1,59 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测微软发布5月漏洞更新，其中披露4个严重漏洞、50个高危漏洞。主要覆盖以下组件：Windows操作系统、Exchange server、.Net Core、Office、SharePoint Server、Hyper-V、Visual Studio。其中以下漏洞影响范围较大，建议用户及时升级。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; CVE-2021-31166: HTTP </span>
+<span style="font-size:16px;font-family:宋体">协议远程代码执行漏洞,攻击者发送精心构造的数据包可触发该漏洞。该漏洞可造成蠕虫级影响，同时可在通信设备间传播。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; CVE-2021-28476: Hyper-V </span>
+<span style="font-size:16px;font-family:宋体">远程代码执行漏洞，攻击者可通过利用该漏洞在Hyper-V服务器上执行任意代码，最终控制服务器。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">CVE-2021-27068: Visual Studio </span>
+<span style="font-size:16px;font-family:宋体">远程代码执行漏洞，攻击者可利用该漏洞在VS2019服务器上执行任意代码，并最终控制服务器。同时该漏洞无需交互，且利用难度低。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">CVE-2021-31204: .Net Core </span>
+<span style="font-size:16px;font-family:宋体">权限提升漏洞，该漏洞存在在野利用.net5.0、.net core 3.1受漏洞影响，同时影响VS2019。成功利用该漏洞可从普通用户权限提升至高权限用户。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">CVE-2021-31200: Common Utilites </span>
+<span style="font-size:16px;font-family:宋体">远程代码执行漏洞，该漏洞存在在野利用，通过利用该漏洞可在服务器上执行代码执行，并最终控制该服务器。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">CVE-2021-31207: Exchange Server </span>
+<span style="font-size:16px;font-family:宋体">安全特性绕过漏洞，该漏洞存在在野漏洞，为2021 Pwn2Own上被披露。成功利用该漏洞可获得服务器权限。</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">严重</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">建议及时联系厂商或参考【相关链接】进行安全升级。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://msrc.microsoft.com/update-guide/releaseNote/2021-May</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31166 </span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-28476</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-27068</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31204 </span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-</span>
+<span style="font-family: 宋体;">31200</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31207</span>
+</p>
