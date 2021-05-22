@@ -1713,5 +1713,12 @@
 		"id":1352,
 		"button_title":"立即参与",
 		"main_title":"消费100%返，满额送iPhone 12"
+	},
+	{
+		"sub_title":"",
+		"name":"618大促活动",
+		"id":1354,
+		"button_title":"",
+		"main_title":""
 	}
 ]
