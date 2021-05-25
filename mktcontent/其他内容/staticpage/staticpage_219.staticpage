@@ -498,6 +498,12 @@
 <!-- widget fmh-fl10 end -->
 
 <!-- widget fmh-fl9 begin -->
+<div class="fl9-ad">
+    <a href="https://pro.jd.com/mall/active/Vvz3Py8Nu1WkipSx5gXcNKe2hdQ/index.html" class="ad" target="_blank">
+        <img src="https://img1.jcloudcs.com/portal/cloudexpo/0525/ad_m.jpg" class="ad-m" alt="">
+    </a>
+</div>
+
 <div class="fl9-connect">
     <div class="connect-bg">
         <div class="bt">
@@ -508,7 +514,7 @@
         <div class="connect-block">
             <p>如果您想了解更多关于会展云解决方案的信息，请联系我们的售前咨询团队</p>
 
-            <a href="https://www.jdcloud.com/forms/consultation?name=会展云" class="jdc-btn jdc-btn-blue">立即咨询</a>
+            <a href="https://www.jdcloud.com/forms/consultation?name=会展云" class="jdc-btn jdc-btn-blue" target="_blank">立即咨询</a>
         </div>
     </div>
 </div>
