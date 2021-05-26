@@ -1720,5 +1720,12 @@
 		"id":1354,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"利率低至5折+30天免息，贷款越早，礼包越好",
+		"name":"京小贷",
+		"id":1356,
+		"button_title":"立即查看",
+		"main_title":"迎战618享超值大礼包"
 	}
 ]
