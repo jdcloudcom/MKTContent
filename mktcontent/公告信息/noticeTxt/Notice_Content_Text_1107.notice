@@ -1,0 +1,85 @@
+<p><span style="font-size: 16px;"><span style="font-family: 等线; color: black;"><span style="font-family: 等线; color: black; font-size: 14px;"></span>
+京东云安全团队于2021年5月26日监测到</span>
+<span style="font-family: 微软雅黑, sans-serif; color: black; background: white;">VMware&nbsp;官方发布安全公告，披露了包括&nbsp;CVE-2021-21985VMware vCenter Server远程代码执行在内的多个高危严重漏洞。</span>
+<span style="font-family: 等线; color: black;">京东云安全建议您请检查当前是否使用受漏洞影响的软件版本</span>
+<span style="color: black;">&nbsp;</span>
+</span>
+</p>
+<p><span style="font-family: 等线; color: black; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-size: 16px;"><strong><span style="font-size: 18px; font-family: 等线; color: black;">漏洞描述</span>
+</strong></span>
+</p>
+<p><span style="color: black; font-size: 16px;">&nbsp;</span>
+</p>
+<p style="text-indent:28px"><span style="font-family: 等线; color: black; background: white; font-size: 16px;">vSphere是VMware推出的虚拟化平台套件，包含ESXi，vCenter Server等一系列的软件，其中vCenter Server为ESXi的控制中心，可从单一控制点统一管理数据中心的所有vSphere主机和虚拟机，进行IT管理成员能够提高控制能力，简化入场任务，并降低IT环境的管理复杂性与成本。该漏洞可以通过443访问vCenter Server的攻击者可以直接通过请求在目标主机上执行任意代码，并接管目标主机。攻击复杂度低，所需的条件少，不需要用户交互。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 16px;">&nbsp;</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 16px;"><span style="font-size: 18px; font-family: 等线; color: black; background: white;">2021年5月26日，VMware&nbsp;官方发布安全公告，</span>
+<span style="font-size: 12px; font-family: 微软雅黑, sans-serif; color: black; background: white;">C</span>
+<span style="font-size: 18px; font-family: 等线; color: black; background: white;">VE-2021-21985 VMware vCenter Server远程代码执行严重漏洞. </span>
+</span>
+</p>
+<p><span style="color: black; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-size: 16px;"><strong><span style="font-size: 18px; font-family: 等线; color: black;">漏洞编号</span>
+</strong></span>
+</p>
+<p><span style="color: black; font-size: 16px;">&nbsp;</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 16px;"><span style="font-size: 18px; font-family: 等线; color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size: 12px; font-family: 微软雅黑, sans-serif; color: black; background: white;">CVE-2021-21985</span>
+<span style="font-size: 18px; font-family: 等线; color: black;">&nbsp;</span>
+</span>
+</p>
+<p style="background:white"><span style="font-size: 16px;"><strong><span style="font-size: 18px; font-family: 等线; color: black;">风险等级</span>
+</strong></span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 16px;">威胁等级: 严重</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 16px;">影响范围: 广泛</span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 16px;">利用难度: 低</span>
+</p>
+<p style="background:white"><span style="font-size: 16px;"><strong><span style="font-size: 18px; font-family: 等线; color: black;">影响版本</span>
+</strong></span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;background:white"><span style="font-size: 16px;">VMware vCenter Server 7.0系列 &lt; 7.0.U2b</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;background:white"><span style="font-size: 16px;">VMware vCenter Server 6.7系列 &lt; 6.7.U3n</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;background:white"><span style="font-size: 16px;">VMware vCenter Server 6.5系列 &lt; 6.5.U3p</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;background:white"><span style="font-size: 16px;">VMware Cloud Foundation 4.x 版本 &lt; 4.2.1</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;background:white"><span style="font-size: 16px;">VMware Cloud Foundation 3.x 版本 &lt; 3.10.2.1</span>
+</p>
+<p style="text-indent:28px"><span style="color: black; font-size: 16px;">&nbsp;</span>
+</p>
+<p><span style="font-size: 16px;"><strong><span style="font-size: 18px; font-family: 等线; color: black;">安全版本</span>
+</strong></span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 16px;">VMware vCenter Server 7.0.U2b</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;background:white"><span style="font-size: 16px;">&nbsp; VMware vCenter Server 6.7.U3n</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;background:white"><span style="font-size: 16px;">&nbsp; VMware vCenter Server 6.5.U3p</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;background:white"><span style="font-size: 16px;">&nbsp; VMware Cloud Foundation 4.2.1</span>
+</p>
+<p style="margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;background:white"><span style="font-size: 16px;">&nbsp; VMware Cloud Foundation 3.10.2.1</span>
+</p>
+<p><span style="font-size: 16px;"><strong><span style="font-size: 18px; font-family: 等线; color: black; background: white;">修复建议</span>
+</strong></span>
+</p>
+<p style="text-indent:28px"><span style="font-family: 等线; color: black; background: white; font-size: 16px;">平台安全组建议您尽快升级VMware vCenter Server最新版本. </span>
+</p>
+<p><span style="font-size: 16px;"><strong><span style="font-size: 18px; font-family: 等线; color: black; background: white;">官方链接：</span>
+</strong></span>
+</p>
+<p style="text-indent:28px"><span style="font-size: 16px;">https://www.vmware.com/security/advisories/VMSA-2021-0010.html</span>
+</p>
+<p><span style="font-size:18px;font-family:等线;color:black">&nbsp;</span>
+</p>
+<p><br/></p>
