@@ -1,0 +1,51 @@
+<p><span style="font-size:18px;font-family:等线;color:black">您好！</span>
+<br/><span style="font-size:18px;font-family:等线;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;京东云安全团队于2021年5月27日监测到Nginx官方发布安全公告，披露了CVE-2021-23017&nbsp;Nginx DNS解析漏洞高危漏洞。京东云安全建议您请检查当前是否使用受漏洞影响的软件版本&nbsp;</span>
+</p>
+<p><strong><span style="font-size:18px;font-family:等线;color:black">漏洞描述</span>
+</strong></p>
+<p><span style="font-size:18px;font-family:等线;color:black">Nginx</span>
+<span style="font-size:18px;font-family:等线;color:black">是免费、开源的高性能HTTP服务器和反向代理，以及IMAP / POP3代理服务器. 5月26日，Nginx发布安全公告，修复了nginx解析器中的一个DNS解析程序漏洞（CVE-2021-23017），该漏洞ngx_resolver.c 文件中的ngx_resolver_copy 函数在处理DNS响应时出现一个off-by-one错误，当nginx配置文件中使用了“ resolver”指令时，未经身份验证的攻击者能够伪造来自DNS服务器的UDP数据包，构造特制的DNS响应导致1字节内存覆盖，从而造成拒绝服务或任意代码执行。</span>
+</p>
+<p><span style="font-size:18px;font-family:等线;color:black">&nbsp;</span>
+</p>
+<p><strong><span style="font-size:18px;font-family:等线;color:black">漏洞编号</span>
+</strong></p>
+<p style="text-indent:28px"><span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#161616;background: white">CVE-2021-23017</span>
+</p>
+<p style="background:white"><strong><span style="font-size:18px;font-family:等线;color:black">风险等级</span>
+</strong></p>
+<p style="text-indent:28px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:#161616;background:white">高危，CVSS评分8.1</span>
+</p>
+<p style="background:white"><strong><span style="font-size:18px;font-family:等线;color:black">影响版本</span>
+</strong></p>
+<p><strong><span style="font-size:18px;font-family: 等线;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</strong><span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#161616;background:white">NGINX 0.6.18 </span>
+<span style="font-size:15px;font-family: &#39;微软雅黑&#39;,sans-serif;color:#161616;background:white">– 1.20.0</span>
+</p>
+<p><strong><span style="font-size:18px;font-family:等线;color:black">安全版本</span>
+</strong></p>
+<p style=";margin-bottom:0;background:white"><strong><span style="font-size:18px;font-family:等线;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</strong><span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#161616;background: white">NGINX Open Source 1.20.1 (stable)</span>
+</p>
+<p style=";margin-bottom:0;text-indent:28px;background:white"><span style="font-size:15px;font-family: &#39;微软雅黑&#39;,sans-serif;color:#161616;background:white">NGINX Open Source 1.21.0 (mainline)</span>
+</p>
+<p style=";margin-bottom:0;text-indent:28px;background:white"><span style="font-size:15px;font-family: &#39;微软雅黑&#39;,sans-serif;color:#161616;background:white">NGINX Plus R23 P1</span>
+</p>
+<p style=";margin-bottom:0;text-indent:28px;background:white"><span style="font-size:15px;font-family: &#39;微软雅黑&#39;,sans-serif;color:#161616;background:white">NGINX Plus R24 P1</span>
+</p>
+<p><strong><span style="font-size:18px;font-family:等线;color:black;background:white">修复建议</span>
+</strong></p>
+<p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:56px;margin-bottom:0;background: white"><span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#161616">1.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;</span>
+</span>
+<span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#161616;background:white">更新至最新版本，请受影响的用户尽快升级版本进行防护，官方下载链接：</span>
+<a href="http://nginx.org/en/download.html"><span style="font-size: 15px;font-family:&#39;微软雅黑&#39;,sans-serif;background:white">http://nginx.org/en/download.html</span>
+</a></p>
+<p class="MsoListParagraph" style="margin-left:56px">2.<span style="font-family:Times New Roman;font-size:10px">&nbsp;</span>
+<span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#161616;background:white">安装相关补丁进行修复: 补丁下载链接: http://nginx.org/download/patch.2021.resolver.txt</span>
+</p>
+<p><strong><span style="font-size:18px;font-family:等线;color:black;background:white">官方链接：</span>
+</strong></p>
+<p><strong><span style="font-size:18px;font-family: 等线;color:black;background:white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</strong><span style="font-size:15px;font-family:&#39;微软雅黑&#39;,sans-serif;color:#161616;background:white">http://mailman.nginx.org/pipermail/nginx-announce/2021/000300.html</span>
+</p>
+<p><br/></p>
