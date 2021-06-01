@@ -1,0 +1,45 @@
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">您好</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">近日，京东云安全团队监测国外安全研究团队披露了runc符号链接挂载与容器逃逸漏洞并发布了相关poc。影响范围较大，建议及时升级。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; runC </span>
+<span style="font-size:16px;font-family:宋体">是从 Docker 的 libcontainer 中迁移而来的，实现了容器启停、资源隔离等功能。攻击者可通过创建恶意的POD及container将宿主文件系统绑定挂载到容器中，实现容器逃逸。</span>
+</p>
+<p style="text-align:left"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">&lt;=1.0.0-rc94</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【安全版本】</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">1.0.0-rc95</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">下载更新runc至1.0.0-rc95版本：</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">https://github.com/opencontainers/runc/commit/0ca91f44f1664da834bc61115a849b56d22f595f</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p style="text-align:left;background:white"><span style="font-size:16px;font-family:宋体">https://github.com/opencontainers/runc/security/advisories/GHSA-c3xm-pvg7-gh7r</span>
+</p>
+<p style="text-align: left; background: white;"><span style="font-size:16px;font-family:宋体">http://blog.champtar.fr/runc-symlink-CVE-2021-30465/</span>
+</p>
