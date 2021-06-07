@@ -1727,5 +1727,12 @@
 		"id":1356,
 		"button_title":"立即查看",
 		"main_title":"嗨战618提前收款享豪礼"
+	},
+	{
+		"sub_title":"",
+		"name":"公有云专场活动",
+		"id":1358,
+		"button_title":"",
+		"main_title":""
 	}
 ]
