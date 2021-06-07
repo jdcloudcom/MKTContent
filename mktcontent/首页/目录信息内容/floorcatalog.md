@@ -2392,10 +2392,10 @@
 		"button_title":"提供优质产品，享冰点价格，提供极致服务"
 	},
 	{
-		"name":"1元100%得1年云主机",
-		"description":"最高4C8G，价值3398元",
+		"name":"1元得1年云主机",
+		"description":"企业新用户，1折限量抢购",
 		"id":3108,
-		"button_title":"立即抽奖"
+		"button_title":"立即抢购"
 	},
 	{
 		"name":"SSL 证书",
