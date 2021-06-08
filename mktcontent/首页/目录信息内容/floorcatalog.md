@@ -2392,8 +2392,8 @@
 		"button_title":"提供优质产品，享冰点价格，提供极致服务"
 	},
 	{
-		"name":"1元得1年云主机",
-		"description":"企业新用户，1折限量抢购",
+		"name":"云主机 2核4G",
+		"description":"计算优化型",
 		"id":3108,
 		"button_title":"立即抢购"
 	},
@@ -2410,14 +2410,14 @@
 		"button_title":"查看详情"
 	},
 	{
-		"name":"企业福利专区 ",
+		"name":"618公有云大促",
 		"description":"",
 		"id":3116,
 		"button_title":" 享8大权益"
 	},
 	{
-		"name":"云主机2核4G",
-		"description":"高性价比，广泛适用于建站等轻量应用",
+		"name":"云主机4核8G",
+		"description":"计算优化型",
 		"id":3118,
 		"button_title":"立即抢购"
 	},
