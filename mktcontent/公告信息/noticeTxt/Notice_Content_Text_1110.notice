@@ -1,0 +1,35 @@
+<p>您好</p>
+<p>近日，京东云安全团队监测微软发布6月漏洞更新，其中披露5个紧急漏洞、9个重要漏洞。6个漏洞已检测到被攻击利用，5个漏洞被标记为“Exploitation More Likely”。主要覆盖以下组件：Windows操作系统、SharePoint Server、DWM Core、Office、NTFS、Enhanced Cryptographic Provider、Kerberos AppContainer。其中以下漏洞影响范围较大，建议用户及时升级。</p>
+<p>【漏洞描述】</p>
+<p>CVE-2021-33742: Windows MSHTML Platform 程代码执行漏洞，该漏洞存在在野利用，通过利用该漏洞可在服务器上执行代码执行，并最终控制该服务器。</p>
+<p>CVE-2021-33739: Microsoft DWM Core Library 权限提升漏洞，该漏洞存在在野利用，经过身份认证的攻击者可通过运行特制程序来利用此漏洞进行提权。</p>
+<p>CVE-2021-31985: Microsoft Defender 远程代码执行漏洞，攻击者可利用该漏洞在目标系统上执行任意代码，最终控制服务器。</p>
+<p>CVE-2021-31959: Scripting Engine 内存破坏漏洞，攻击者可以通过向用户发送特制文件并诱使用户打开该文件来利用该漏洞。</p>
+<p>CVE-2021-31963: Microsoft SharePoint Server 远程代码执行漏洞，经过身份认证的攻击者可利用此漏洞可在目标系统上执行任意代码，最终控制服务器。</p>
+<p>CVE-2021-31956: Windows NTFS 权限提升漏洞，该漏洞存在在野利用，经过身份认证的攻击者可通过运行特制程序来利用此漏洞进行提权。</p>
+<p>CVE-2021-31955: Windows Kernel 信息泄露漏洞，该漏洞存在在野利用，攻击者可以利用此漏洞从系统中获取泄露信息，例如内核地址。</p>
+<p>CVE-2021-31199: Microsoft Enhanced Cryptographic Provider 权限提升漏洞，该漏洞存在在野利用，本地用户可以绕过 Enhanced Cryptographic Provider 实施的安全限制并读取或修改其他受限制的信息。</p>
+<p>CVE-2021-31201: Microsoft Enhanced Cryptographic Provider 权限提升漏洞，该漏洞存在在野利用，本地用户可以绕过 Enhanced Cryptographic Provider 实施的安全限制并读取或修改其他受限制的信息。</p>
+<p>CVE-2021-31951: Windows Kernel 权限提升漏洞。</p>
+<p>CVE-2021-31952: Windows Kernel-Mode Driver 权限提升漏洞。</p>
+<p>CVE-2021-31954: Windows Common Log File System Driver 权限提升漏洞。</p>
+<p>CVE-2021-31962: Kerberos AppContainer 安全特性绕过漏洞，远程攻击者可绕过 Kerberos 身份验证访问通过任意服务主体名称(SPN)访问的任何服务。</p>
+<p>【漏洞评级】</p>
+<p>高危</p>
+<p>【修复建议】</p>
+<p>建议及时联系厂商或参考【相关链接】进行安全升级。</p>
+<p>【相关链接】</p>
+<p>https://msrc.microsoft.com/update-guide/releaseNote/2021-Jun</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-33742</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-33739</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31985</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31959</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31963</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31956</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31955</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31199</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31201</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31951</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31952</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31954</p>
+<p>https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31962</p>
