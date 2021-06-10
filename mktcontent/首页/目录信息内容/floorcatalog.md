@@ -2437,8 +2437,8 @@
 		"id":3150
 	},
 	{
-		"name":"618 云创热爱节",
-		"description":"1元得1年云主机，消费100%返",
+		"name":"618 公有云大促",
+		"description":"云主机低至1折，最高返2倍下单金额代金券，名额有限，先到先得",
 		"id":3152,
 		"button_title":"查看详情"
 	},
@@ -2473,8 +2473,8 @@
 		"id":3186
 	},
 	{
-		"name":"云主机独享型 2核4G",
-		"description":"存储 40GB HDD盘 带宽 1M",
+		"name":"云主机 2核8G",
+		"description":"计算优化型",
 		"id":3188,
 		"button_title":"立即抢购"
 	},
@@ -2495,22 +2495,22 @@
 		"button_title":"立即抢购"
 	},
 	{
-		"name":" ·  送精选京东报告，抽盲盒",
+		"name":" ·  满额送iPhone12",
 		"id":3196
 	},
 	{
-		"name":" · 消费100%返，满额送iPhone",
+		"name":" · 下单最高返2倍代金券",
 		"id":3198
 	},
 	{
-		"name":"云主机独享型 4核8G",
-		"description":"存储40GB HDD盘 带宽2M",
+		"name":"云主机 2核4G",
+		"description":"计算优化型",
 		"id":3200,
 		"button_title":"立即抢购"
 	},
 	{
-		"name":"云主机独享型 8核16G",
-		"description":"存储40GB HDD盘 带宽2M",
+		"name":"云主机 8核16G",
+		"description":"计算优化型",
 		"id":3202,
 		"button_title":"立即抢购"
 	},
@@ -2637,7 +2637,7 @@
 		"button_title":"了解更多"
 	},
 	{
-		"name":"· 联接京东生态圈 共享优质资源",
+		"name":"· 爆款应用产品低至1元",
 		"id":3250
 	},
 	{
