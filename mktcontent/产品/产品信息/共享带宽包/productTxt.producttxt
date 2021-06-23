@@ -1,0 +1,26 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"共享带宽包\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/bwp\",\"classTag\":\"\"}],\"desc\":\"共享带宽包（Shared Bandwidth Package）是多个公网IP的一种聚合计费和管理模式，支持多个公网IP复用共享一份带宽，实现对多个公网IP的统一管理、统一计费、统一监控。\"}",
+		"id":2440
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"节省带宽成本\",\"proName\":\"共享带宽包提供地域级的带宽复用共享能力，支持多个云资源绑定的公网IP加入同一个共享带宽包，使原本需要多条带宽的云资源共享一条带宽，节省带宽成本及运维成本。\"},{\"showShade\":false,\"proGood\":\"计费模式多样\",\"proName\":\"支持包年包月付费模式、按配置付费模式、按用量付费模式，按用量计费包括：增强95消峰计费，满足更多不同业务场景的需求。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"支持二级限速\",\"proName\":\"共享带宽包内所有公网IP的带宽上限受共享带宽包的带宽上限统一限速，同时支持在带宽包内公网IP独立限速。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"便捷管理\",\"proName\":\"共享带宽包支持对公网出口统一限速，统一监控，统一计费，您可根据项目将业务对应的IP加入不同的带宽包实现分组统一管理。\"}]",
+		"id":2441
+	},
+	{
+		"txt":"[{\"funcName\":\"消峰计费\",\"funcContent\":[{\"funcTitle\":\"增强95消峰计费\",\"funcP\":\"只需支付少量保底带宽费用，即可享受多倍弹性峰值带宽；每天收取少量保底费用，并根据实际用量出账单，若实际用量超出保底带宽需付费超额带宽费用，若未超出保底带宽用量则只需付保底带宽费用。\"}]},{\"funcName\":\"分组管理公网IP\",\"funcContent\":[{\"funcTitle\":\"操作便捷\",\"funcP\":\"将公网IP加入不同的共享带宽包实现对公网IP分组管理，支持实时批量添加公网IP至共享带宽包中，从共享带宽包中批量移除公网IP，立即生效。\"},{\"funcTitle\":\"二级限速\",\"funcP\":\"公网IP加入共享带宽包后，公网IP的原有带宽上限不再生效，默认为共享带宽包的上限，京东云支持在共享带宽包内对单IP独立设置带宽上限，满足您更多的需求。\"}]},{\"funcName\":\"共享带宽\",\"funcContent\":[{\"funcTitle\":\"地域级带宽共享\",\"funcP\":\"支持同一地域下多个设备共享一条带宽，只需购买一份带宽，节省带宽成本。\"}]},{\"funcName\":\"监控与报警\",\"funcContent\":[{\"funcTitle\":\"实时监控\",\"funcP\":\"提供多个监控指标对共享带宽包进行监控，支持选择或自定义不同的时间段对共享带宽包带宽出入速率及出入包量的数据监控，全面监测带宽用量。\"},{\"funcTitle\":\"自定义报警规则\",\"funcP\":\"支持对共享带宽包的监控指标进行自定义报警规则，通过短信、邮件等方式发送报警通知，及时对报警进行处理，保障应用程序的持续稳定运行。\"}]}]",
+		"id":2442
+	},
+	{
+		"txt":"[{\"name\":\"业务量大——节省带宽成本\",\"instruction\":\"随着业务增长，大量的业务需要布置在云上，每个云主机、容器等实例访问公网或被公网访问均需要购买一份带宽，利用共享带宽包不仅只需要购买一份带宽，如各个IP流量模型波峰波谷时间，可错峰充分利用一份带宽，节省带宽成本，如将同一个项目中的公网IP资源加入一个共享带宽包实现根据业务对资源进行分组管理。\\n\\n共享带宽包支持消峰计费，可支持短时间内流量突发式增长业务，享受多倍弹性峰值，短时间的突发流量费用通过消峰后不计入带宽费用，只需支付少量的带宽费用即可满足业务需求，降低带宽成本。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"弹性公网 IP\",\"url\":\"//www.jdcloud.com/products/elastic-ip\"},{\"name\":\"负载均衡\",\"url\":\"//www.jdcloud.com/products/load-balancer\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b15de0c4-dc30-4345-99c5-952585a0270120210621151512.png\",\"showShade\":false}]",
+		"id":2443
+	},
+	{
+		"txt":"[{\"name\":\"共享带宽包是什么？\",\"link\":\"https://docs.jdcloud.com/shared-bandwidth-package/product-overview\",\"classTag\":\"\"},{\"name\":\"什么是增强95消峰计费？\",\"link\":\"https://docs.jdcloud.com/shared-bandwidth-package/enhance95th-eliminate\",\"classTag\":\"\"},{\"name\":\"共享带宽包的计费规则是什么？\",\"link\":\"https://docs.jdcloud.com/shared-bandwidth-package/billed-rules\",\"classTag\":\"\"},{\"name\":\"如何创建共享带宽包？\",\"link\":\"https://docs.jdcloud.com/shared-bandwidth-package/create-bwp\",\"classTag\":\"\"},{\"name\":\"如何在共享带宽包中管理公网IP？\",\"link\":\"https://docs.jdcloud.com/shared-bandwidth-package/manage-public-ip\",\"classTag\":\"\"},{\"name\":\"如何查看共享带宽包的监控数据？\",\"link\":\"https://docs.jdcloud.com/shared-bandwidth-package/view-monitoring\",\"classTag\":\"\"}]",
+		"id":2444
+	},
+	{
+		"txt":"{\"price\":\"https://docs.jdcloud.com/cn/shared-bandwidth-package/price-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":2445
+	}
+]
