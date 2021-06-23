@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云数据库 JDNoSQL\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdhbase\",\"classTag\":\"\"}],\"desc\":\"云数据库 JDNoSQL是基于HBase打造的高可靠、高性能、面向列、可伸缩的PB级分布式存储系统，提供毫秒级的服务，同时配备完善的管理平台，支持自主在线DDL操作，监控查看。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/8c390255-5fac-47b7-8c16-2ba0701d9cae20180620152331.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|81\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|81\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云数据库 JDNoSQL\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://jmr.jdcloud.com/clustermanager/clusterlist\",\"classTag\":\"\"}],\"desc\":\"云数据库 JDNoSQL是基于HBase打造的高可靠、高性能、面向列、可伸缩的PB级分布式存储系统，提供毫秒级的服务，同时配备完善的管理平台，支持自主在线DDL操作，监控查看。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/8c390255-5fac-47b7-8c16-2ba0701d9cae20180620152331.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|81\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|81\"}",
 		"id":224
 	},
 	{
