@@ -1,0 +1,26 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"弹性公网 IP\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//cns-console.jdcloud.com/host/pip/create\",\"classTag\":\"\"}],\"desc\":\"弹性公网IP是支持独立持有的公网IP，提供公网服务，可以与云主机、负载均衡、容器等云资源灵活地绑定或解绑，满足您对公网通信的需求。\"}",
+		"id":2434
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"完全弹性\",\"proName\":\"即支持独立购买和释放，也支持随云资源打包购买，即开即用。\"},{\"showShade\":false,\"proGood\":\"多种类型\",\"proName\":\"京东云支持标准公网IP和边缘公网IP两种计费类型，分别为各地域中心可用区、边缘可用区资源提供公网访问能力，适用不同业务场景，满足您更多的业务需求。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"计费模式多样\",\"proName\":\"支持按用量、包年包月、按配置计费，多种计费模式满足您的需求。按用量、按配置计费的公网IP支持加入共享带宽包，多个IP共享一份带宽，节省带宽成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"使用灵活\",\"proName\":\"支持与云主机、负载均衡、容器等资源动态绑定或解绑，为云资源提供公网服务。支持实时调整带宽，应对各种业务变化。\"}]",
+		"id":2435
+	},
+	{
+		"txt":"[{\"funcName\":\"公网IP管理灵活\",\"funcContent\":[{\"funcTitle\":\"独立购买\",\"funcP\":\"支持单独购买，在不创建云资源的情况下可单独购买公网IP。\"},{\"funcTitle\":\"独立释放\",\"funcP\":\"支持单独释放，从云资源解绑后，支持在不释放云资源的前提下单独释放公网IP。\"},{\"funcTitle\":\"独立持有\",\"funcP\":\"持单独持有，在删除与公网IP绑定的云资源时可以单独保留公网IP。\"},{\"funcTitle\":\"动态绑定/解绑\",\"funcP\":\"支持与云主机、容器、负载均衡、NFV实例等资源进行动态绑定和解绑。弹性公网IP起到屏蔽实例故障的作用，通过手动配置的方式，当实例出现故障时弹性公网IP可以漂移到冗余实例上，从而达到快速响应故障的目的。\"},{\"funcTitle\":\"实时调整带宽\",\"funcP\":\"弹性公网IP支持带宽调整，用户可根据业务流量需求变化随时更改带宽，修改即时生效。\"}]},{\"funcName\":\"节省成本\",\"funcContent\":[{\"funcTitle\":\"支持加入共享带宽包\",\"funcP\":\"公网IP支持加入共享带宽包，多个公网IP共享一份带宽，为您节省带宽成本。\"},{\"funcTitle\":\"多种计费模式\",\"funcP\":\"支持按配置、包年包月、按用量多种计费模式，可根据您的业务模型选择最划算的计费模式，满足不同用户场景下需求。\"}]},{\"funcName\":\"监控与报警\",\"funcContent\":[{\"funcTitle\":\"实时监控\",\"funcP\":\"提供多指标进行监控，全方位了解IP地址公网带宽的使用情况。\"},{\"funcTitle\":\"自定义报警规则\",\"funcP\":\"支持针对不同监控指标自定义报警规则，通过短信、邮件等方式发送报警通知，及时对报警进行处理，保障应用程序的持续稳定运行。\"}]}]",
+		"id":2436
+	},
+	{
+		"txt":"[{\"name\":\"访问公网\",\"instruction\":\"首次上云或在云上增加业务上量时，需在京东云上构建公网出口，通过使用公网IP绑定云主机、负载均衡等资源，为云资源提供公网服务。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"},{\"name\":\"负载均衡\",\"url\":\"//www.jdcloud.com/products/load-balancer\"},{\"name\":\"私有网络\",\"url\":\"//www.jdcloud.com/products/virtual-private-cloud\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/52bdef96-450f-4a9c-8e40-e80b26474e0420210611173826.png\",\"showShade\":false},{\"name\":\"多活容灾\",\"instruction\":\"在多活容灾场景中，主备实例实时同步资源数据，主实例出现故障时，将其绑定的公网IP解绑，然后绑定至备用实例上，将服务平滑迁移至备用实例上，无需修改DNS服务，实现服务的平滑迁移。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2faf168f-669f-424b-b41b-85bfadcedb9220210611173911.png\",\"showShade\":false},{\"name\":\"节省带宽成本\",\"instruction\":\"将多个公网IP加入共享带宽包，实现多个IP共享一份公网带宽，节约带宽成本。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"共享带宽包\",\"url\":\"//www.jdcloud.com/products/shared-bandwidth-package\"},{\"name\":\"私有网络\",\"url\":\"//www.jdcloud.com/products/virtual-private-cloud\"},{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d7ca9aeb-1abb-4f42-9fac-447f899d9d2520210608164059.jpg\",\"showShade\":false}]",
+		"id":2437
+	},
+	{
+		"txt":"[{\"name\":\"支持几种类型的公网IP？\",\"link\":\"https://docs.jdcloud.com/elastic-ip/product-overview\",\"classTag\":\"\"},{\"name\":\"公网IP的使用限制有哪些？\",\"link\":\"https://docs.jdcloud.com/elastic-ip/restrictions\",\"classTag\":\"\"},{\"name\":\"如何购买公网IP？\",\"link\":\"https://docs.jdcloud.com/elastic-ip/create-elastic-ip\",\"classTag\":\"\"},{\"name\":\"查看公网IP价格表\",\"link\":\"https://docs.jdcloud.com/elastic-ip/price-overview\",\"classTag\":\"\"},{\"name\":\"公网IP如何绑定云主机？\",\"link\":\"https://docs.jdcloud.com/elastic-ip/associate-elastic-ip\",\"classTag\":\"\"},{\"name\":\"公网IP如何加入共享带宽包？\",\"link\":\"https://docs.jdcloud.com/shared-bandwidth-package/manage-public-ip#user-content-2\",\"classTag\":\"\"}]",
+		"id":2438
+	},
+	{
+		"txt":"{\"price\":\"https://docs.jdcloud.com/cn/elastic-ip/price-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":2439
+	}
+]
