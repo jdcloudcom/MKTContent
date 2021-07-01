@@ -2392,10 +2392,10 @@
 		"button_title":"提供优质产品，享冰点价格，提供极致服务"
 	},
 	{
-		"name":"云主机 1核1G",
-		"description":"通用型,高性价比，适用于初创企业搭建网站等轻量应用场景",
+		"name":"云主机独享型 2核4G",
+		"description":"性能稳定，高端品质可信赖",
 		"id":3108,
-		"button_title":"立即抢购"
+		"button_title":"立即购买"
 	},
 	{
 		"name":"SSL 证书",
@@ -2404,22 +2404,22 @@
 		"button_title":"立即抢购"
 	},
 	{
-		"name":"618 云创热爱节",
+		"name":"云创之星扶持专场",
 		"description":"",
 		"id":3114,
 		"button_title":"查看详情"
 	},
 	{
-		"name":"618公有云大促",
+		"name":"企业福利专区",
 		"description":"",
 		"id":3116,
 		"button_title":" 享8大权益"
 	},
 	{
-		"name":"云主机4核8G",
-		"description":"计算优化型",
+		"name":"云主机2核4G",
+		"description":"高性价比，广泛适用于建站等轻量应用",
 		"id":3118,
-		"button_title":"立即抢购"
+		"button_title":"立即购买"
 	},
 	{
 		"name":"乐队的好物分享: 会 “赚钱” 的智能好物",
@@ -2437,13 +2437,13 @@
 		"id":3150
 	},
 	{
-		"name":"618 公有云大促",
-		"description":"云主机低至1折，最高返2倍下单金额代金券，名额有限，先到先得",
+		"name":"云创之星扶持专场",
+		"description":"下单最高返2倍代金券，折合约2折",
 		"id":3152,
 		"button_title":"查看详情"
 	},
 	{
-		"name":" ·  1元得1年云主机",
+		"name":" ·  折合约2折",
 		"id":3154
 	},
 	{
@@ -2473,7 +2473,7 @@
 		"id":3186
 	},
 	{
-		"name":"云主机 2核8G",
+		"name":"云主机 4核8G",
 		"description":"计算优化型",
 		"id":3188,
 		"button_title":"立即抢购"
@@ -2495,7 +2495,7 @@
 		"button_title":"立即抢购"
 	},
 	{
-		"name":" ·  满额送iPhone12",
+		"name":" ·  企业用户新购专享",
 		"id":3196
 	},
 	{
@@ -2503,14 +2503,14 @@
 		"id":3198
 	},
 	{
-		"name":"云主机 2核4G",
-		"description":"计算优化型",
+		"name":"云主机 8核16G",
+		"description":"存储40G HDD盘 带宽2M",
 		"id":3200,
 		"button_title":"立即抢购"
 	},
 	{
-		"name":"云主机 8核16G",
-		"description":"计算优化型",
+		"name":"短信-10000条",
+		"description":"验证码短信 低至0.03元/条",
 		"id":3202,
 		"button_title":"立即抢购"
 	},
@@ -2637,7 +2637,7 @@
 		"button_title":"了解更多"
 	},
 	{
-		"name":"· 爆款应用产品低至1元",
+		"name":"· 名额有限，先到先得",
 		"id":3250
 	},
 	{
