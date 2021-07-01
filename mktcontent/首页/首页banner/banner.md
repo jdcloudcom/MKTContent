@@ -1741,5 +1741,12 @@
 		"id":1360,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"intel 2倍返活动",
+		"id":1362,
+		"button_title":"",
+		"main_title":""
 	}
 ]
