@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"内网域名解析\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//privatezone-console.jdcloud.com/buy\",\"classTag\":\"\"}],\"desc\":\"内网域名解析（Private Zone）是在京东云内网生效的私有域名解析服务，域名解析无须经过公网递归过程，可以直接访问，有效保障解析安全、加快解析速度、减少运维成本。\"}",
+		"id":2201
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"极速访问\",\"proName\":\"内网域名解析服务在京东云内网生效，无需修改NS记录和等待全球同步。全链路秒级缓存刷新，解析不受运营商网络影响，实现内网资源和服务的极速访问。\"},{\"showShade\":false,\"proGood\":\"便捷管理\",\"proName\":\"支持用户自定义内网Zone文件，无需注册域名，可以定义和使用无法注册的域名或已被注册的公网域名，也可以在不同的私有网络VPC内使用相同的域名。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全\",\"proName\":\"域名解析不出内网，避免内网服务对外泄露，杜绝来自公网的恶意扫描和探测。私有Zone关联私有网络VPC，根据VPC构建的逻辑隔离的网络环境，限制了服务的访问边界，进一步隔离核心数据。\"}]",
+		"id":2202
+	},
+	{
+		"txt":"[{\"funcName\":\"私有Zone\",\"funcContent\":[{\"funcTitle\":\"用户自定义域名解析\",\"funcP\":\"私有Zone无需注册域名，支持添加公网无法注册的域名，需要关联VPC，且不同用户VPC可以定义相同域名。私有Zone关联VPC后，VPC内私有域名解析记录将覆盖相同的公网解析记录，未在私有Zone中配置的子域名，可通过代理进行公网子域名递归解析。\"}]},{\"funcName\":\"反向解析\",\"funcContent\":[{\"funcTitle\":\"IP地址到域名的映射\",\"funcP\":\"反向解析通过PTR记录查询IP指向的域名。反向解析的域名后缀为 .in-addr.arpa，添加主机记录时需要按逆向顺序填写IP地址，例如1.0.16.172.in-addr.arpa代表IP地址172.16.0.1的主机反向解析记录。\"}]}]",
+		"id":2203
+	},
+	{
+		"txt":"[{\"name\":\"内网云资源管理\",\"instruction\":\"根据云资源的所在Region、AZ、功能、所有者等信息进行域名主机名规划，包括云主机、LB、存储等，使用私有域名进行解析，便于资源管理。\\n例如：在华东Region VPC1内有10台用于测试业务的云主机，VPC2内有20台正式业务的云主机，则可以采用如下方式规划主机名和内网域名：\\n测试业务云主机：ecs1.test.east.example.com ~ ecs10.test.east.example.com\\n正式业务云主机：ecs1.online.east.example.com ~ ecs20.online.east.example.com \",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/07c5d468-7556-4af2-b466-8192cb87946d20210224102149.png\",\"showShade\":false}]",
+		"id":2204
+	},
+	{
+		"txt":"{\"price\":\"//docs.jdcloud.com/private-zone/price-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":2205
+	}
+]
