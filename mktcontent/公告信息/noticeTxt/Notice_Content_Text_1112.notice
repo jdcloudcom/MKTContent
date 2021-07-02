@@ -1,0 +1,114 @@
+<p style="text-indent:28px"><span style="font-family: 宋体;">近日，京东云安全团队监测到有安全研究团队披露了Windows Print Spooler漏洞，影响范围较大，同时目前poc、exp均已公开，建议及时升级。</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞描述】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;&nbsp;&nbsp; Windows Print Spooler</span>
+<span style="font-size:16px;font-family:宋体">是打印后台处理服务，即管理所有本地和网络打印队列及控制所有打印工作。Windows Print Spooler 存在权限提升漏洞，经过身份认证的攻击者可利用此漏洞使 Spooler 服务加载恶意 DLL，从而获取权限提升。利用此漏洞需身份认证，攻击者可通过多种方式获得身份认证信息。在域环境中合适的条件下，未经身份验证的远程攻击者可利用该漏洞以SYSTEM权限在域控制器上执行任意代码，从而获得整个域的控制权。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【漏洞评级】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">高危</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【受影响版本】</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2012 R2 (Server Core installation)</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2012 R2</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2012 (Server Core installation)</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2012</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2008 R2 for x64-based Systems Service Pack 1</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2008 for x64-based Systems Service Pack 2</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2008 for 32-bit Systems Service Pack 2</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows RT 8.1</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 8.1 for x64-based systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 8.1 for 32-bit systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 7 for x64-based Systems Service Pack 1</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 7 for 32-bit Systems Service Pack 1</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2016 (Server Core installation)</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2016</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 1607 for x64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 1607 for 32-bit Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 for x64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 for 32-bit Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server, version 20H2 (Server Core Installation)</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 20H2 for ARM64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 20H2 for 32-bit Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 20H2 for x64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server, version 2004 (Server Core installation)</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 2004 for x64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 2004 for ARM64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 2004 for 32-bit Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 21H1 for 32-bit Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 21H1 for ARM64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 21H1 for x64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 1909 for ARM64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 1909 for x64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 1909 for 32-bit Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2019 (Server Core installation)</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows Server 2019</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 1809 for ARM64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 1809 for x64-based Systems</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">Windows 10 Version 1809 for 32-bit Systems</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【修复建议】</span>
+</p>
+<p style="background: white"><span style="font-size:16px;font-family:宋体">建议及时更新相关补丁。</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">&nbsp;</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">【相关链接】</span>
+</p>
+<p><span style="font-size:16px;font-family:宋体">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-1675</span>
+</p>
+<p><br/></p>
