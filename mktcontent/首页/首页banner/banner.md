@@ -1748,5 +1748,19 @@
 		"id":1362,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"智 · 造未来，引领工业数智化升级",
+		"name":"京东智造云banner",
+		"id":1364,
+		"button_title":"查看详情",
+		"main_title":"京东智造云正式发布"
+	},
+	{
+		"sub_title":"",
+		"name":"平台研发部AI教育业务线",
+		"id":1366,
+		"button_title":"",
+		"main_title":""
 	}
 ]
