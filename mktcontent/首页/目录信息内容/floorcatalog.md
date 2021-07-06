@@ -2398,8 +2398,8 @@
 		"button_title":"立即购买"
 	},
 	{
-		"name":"SSL 证书",
-		"description":"提升网站的可信度，防劫持、防篡改、防监听",
+		"name":"CDN 资源包",
+		"description":"支持网站、图片、视频加速、优质资源、全网覆盖",
 		"id":3112,
 		"button_title":"立即抢购"
 	},
@@ -2416,10 +2416,10 @@
 		"button_title":" 享8大权益"
 	},
 	{
-		"name":"云主机2核4G",
-		"description":"高性价比，广泛适用于建站等轻量应用",
+		"name":"SSL 证书",
+		"description":"提升网站的可信度，防劫持、防篡改、防监听",
 		"id":3118,
-		"button_title":"立即购买"
+		"button_title":"立即抢购"
 	},
 	{
 		"name":"乐队的好物分享: 会 “赚钱” 的智能好物",
