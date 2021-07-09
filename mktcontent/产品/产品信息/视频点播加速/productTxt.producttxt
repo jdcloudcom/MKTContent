@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"视频点播加速\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"登录控制台 >\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"}],\"desc\":\"京东云自主研发的视频点播加速平台，支持HTTP、HTTPS协议访问的网站视频内容加速，支持文件上传下载，多种视频文件格式等，将视频资源缓存到离用户最近的CDN节点。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"视频点播加速\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"登录控制台 >\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"购买资源包 >\",\"TitleUrl\":\"//common-buy.jdcloud.com/resource/create?serviceCode=cdnbag\",\"classTag\":\"\"}],\"desc\":\"京东云自主研发的视频点播加速平台，支持HTTP、HTTPS协议访问的网站视频内容加速，支持文件上传下载，多种视频文件格式等，将视频资源缓存到离用户最近的CDN节点。\"}",
 		"id":731
 	},
 	{
