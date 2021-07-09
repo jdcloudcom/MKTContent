@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"下载加速\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"登录控制台 >\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"}],\"desc\":\"京东云通过构筑遍布全国的CDN专业应用服务平台将软件安装包、移动端的系统更新包等分发到离网民最近的节点，通过京东云独有的流量分析机制自动分析、判断并将网民访问的请求指向最优的CDN节点上，保障良好体验\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"下载加速\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"登录控制台 >\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"购买资源包 >\",\"TitleUrl\":\"//common-buy.jdcloud.com/resource/create?serviceCode=cdnbag\",\"classTag\":\"\"}],\"desc\":\"京东云通过构筑遍布全国的CDN专业应用服务平台将软件安装包、移动端的系统更新包等分发到离网民最近的节点，通过京东云独有的流量分析机制自动分析、判断并将网民访问的请求指向最优的CDN节点上，保障良好体验\"}",
 		"id":737
 	},
 	{
