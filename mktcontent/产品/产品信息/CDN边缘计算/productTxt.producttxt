@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"CDN边缘计算\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"登录控制台 >\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"}],\"desc\":\"CDN边缘计算基于京东云CDN边缘节点，将计算、网络、存储能力从云延伸到网络边缘，提供靠近终端用户的边缘计算，降低了网络延时和数据中心的负载压力，实现了边缘和云中心的有效协同，提升云服务性能。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"CDN边缘计算\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"登录控制台 >\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"购买资源包 >\",\"TitleUrl\":\"//common-buy.jdcloud.com/resource/create?serviceCode=cdnbag\",\"classTag\":\"\"}],\"desc\":\"CDN边缘计算基于京东云CDN边缘节点，将计算、网络、存储能力从云延伸到网络边缘，提供靠近终端用户的边缘计算，降低了网络延时和数据中心的负载压力，实现了边缘和云中心的有效协同，提升云服务性能。\"}",
 		"id":743
 	},
 	{
