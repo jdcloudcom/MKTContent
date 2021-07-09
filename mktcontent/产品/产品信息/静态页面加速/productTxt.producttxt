@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"静态页面加速\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"登录控制台 >\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"购买资源包\",\"TitleUrl\":\"//common-buy.jdcloud.com/resource/create?serviceCode=cdnbag\",\"classTag\":\"\"}],\"desc\":\"京东云静态页面加速通过CDN网络将内容分发到各个CDN节点，智能调度系统使访问用户从最合适的节点获取网站内容，减轻了源站服务器的压力，避免了网络传出质量和网站出口带宽的影响，加速了网站页面的响应速度。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"静态页面加速\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"登录控制台 >\",\"TitleUrl\":\"//cdn-console.jdcloud.com/cdn-overview\",\"classTag\":\"\"},{\"TitleName\":\"购买资源包 >\",\"TitleUrl\":\"//common-buy.jdcloud.com/resource/create?serviceCode=cdnbag\",\"classTag\":\"\"}],\"desc\":\"京东云静态页面加速通过CDN网络将内容分发到各个CDN节点，智能调度系统使访问用户从最合适的节点获取网站内容，减轻了源站服务器的压力，避免了网络传出质量和网站出口带宽的影响，加速了网站页面的响应速度。\"}",
 		"id":734
 	},
 	{
