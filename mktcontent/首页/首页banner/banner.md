@@ -1757,10 +1757,10 @@
 		"main_title":"京东智造云正式发布"
 	},
 	{
-		"sub_title":"",
+		"sub_title":"与世界五百强企业来一次零距离的接触",
 		"name":"平台研发部AI教育业务线",
 		"id":1366,
-		"button_title":"",
-		"main_title":""
+		"button_title":"查看详情",
+		"main_title":"京东CDA数据分析实训班"
 	}
 ]
