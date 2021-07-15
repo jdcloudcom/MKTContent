@@ -1,0 +1,61 @@
+<p><span style="font-size:18px;font-family:等线;color:black">京东云安全团队于2021年7月13日晚SolarWinds Serv-U&nbsp;远程代码执行漏洞（CVE-2021-35211）在野利用，目前SolarWinds已发布安全公告。SolarWinds&nbsp;是一家美国软件开发公司，业务为帮助企业管理网络、系统和信息技术基础设施。</span>
+<span style="color:black">&nbsp;</span>
+</p>
+<p><span style="font-size:18px;font-family:等线;color:black">&nbsp;</span>
+</p>
+<p><strong><span style="font-size:18px;font-family:等线;color:black">漏洞详情</span>
+</strong></p>
+<p><span style="color:black">&nbsp;</span>
+</p>
+<p><span style="font-size:18px;font-family:等线;color:black">近日，SolarWinds发布安全公告，Microsoft&nbsp;在其Serv-U Managed File Transfer Server&nbsp;和&nbsp;Serv-U Secured FTP发现了一个安全漏洞（CVE-2021-35211），成功利用此漏洞的攻击者可以使用特权运行任意代码。该漏洞目前已发现在野利用</span>
+</p>
+<p><span style="color:black">&nbsp;</span>
+</p>
+<p style="background:white"><strong><span style="font-size:18px;font-family:等线;color:black">影响版本</span>
+</strong></p>
+<p style="text-indent:28px"><span style="font-size:18px;font-family:等线;color:black">SolarWinds Serv-U Managed File Transfer&nbsp;</span>
+<span style="font-size:18px;font-family:等线;color:black">和&nbsp;Serv-U Secure FTP&nbsp;所有版本&nbsp;</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:18px;font-family:等线;color:black">&nbsp;</span>
+</p>
+<p><strong><span style="font-size:18px;font-family:等线;color:black">检测方法</span>
+</strong></p>
+<p><span style="font-size:18px;font-family:等线;color:black">1.</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif;color:black">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size:18px;font-family:等线;color:black">查看是否启用了ssh，如果环境中未启用SSH，则该漏洞不存在。</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:18px;font-family:等线;color:black">2.</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif;color:black">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size:18px;font-family:等线;color:black">由于漏洞位于异常处理程序中，因此可在&nbsp;DebugSocketLog.txt&nbsp;文件查找相关异常（注：其它原因也可能引发相关异常）。</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;text-indent:20px"><span style="font-size:18px;font-family:等线;color:black">收集DebugSocketlog.txt日志文件：C:\ProgramData\RhinoSoft\Serv-U\DebugSocketlog.txt</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;text-indent:28px"><span style="font-size:18px;font-family:等线;color:black">检测是否有如下异常：</span>
+</p>
+<p style="text-indent:28px"><span style="font-size:18px;font-family:等线;color:black">07] Tue 01Jun21 02:42:58 - EXCEPTION: C0000005; CSUSSHSocket::ProcessReceive(); Type: 30; puchPayLoad = 0x041ec066;&nbsp; nPacketLength = 76; nBytesReceived = 80;nBytesUncompressed = 156; uchPaddingLength = 5</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:18px;font-family:等线;color:black">3.</span>
+<span style="font-size:9px;font-family:&#39;Times New Roman&#39;,serif;color:black">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size:18px;font-family:等线;color:black">排查&nbsp;SSH&nbsp;可疑连接。</span>
+</p>
+<p style="text-align:justify;text-justify:inter-ideograph;text-indent:28px"><span style="font-size:18px;font-family:等线;color:black">（已知的威胁IP：98.176.196.89、68.235.178.32、208.113.35.58）</span>
+</p>
+<p><span style="color:black">&nbsp;</span>
+</p>
+<p style="background:white"><strong><span style="font-size:18px;font-family:等线;color:black">修复建议</span>
+</strong></p>
+<p style="background:white"><span style="font-size:18px;font-family:等线;color:black">目前官方已针对该漏洞发布了修复程序，请受影响的用户尽快安装更新进行防护，京东云安全建议您及时尽快安装更新进行防护。</span>
+</p>
+<p><span style="font-size:18px;font-family:等线;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-size:18px;font-family:等线;color:black">官方下载链接：https://customerportal.solarwinds.com/</span>
+</p>
+<p><span style="font-size:18px;font-family:等线;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-size:18px;font-family:等线;color:black">安全版本：Serv-U 15.2.3 HF2</span>
+</p>
+<p><span style="font-size:18px;font-family:等线;color:black">&nbsp;</span>
+</p>
+<p><strong><span style="font-size:18px;font-family:等线;color:black">参考链接</span>
+</strong></p>
+<p><span style="font-size:18px;font-family:等线">https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35211</span>
+</p>
+<p><br/></p>
