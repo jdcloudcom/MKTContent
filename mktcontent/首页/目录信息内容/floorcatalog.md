@@ -2392,8 +2392,8 @@
 		"button_title":"提供优质产品，享冰点价格，提供极致服务"
 	},
 	{
-		"name":"云主机独享型 2核4G",
-		"description":"性能稳定，高端品质可信赖",
+		"name":"云主机 2核4G",
+		"description":"独享100%CPU，适用于网站、应用部署等",
 		"id":3108,
 		"button_title":"立即购买"
 	},
@@ -2404,7 +2404,7 @@
 		"button_title":"立即抢购"
 	},
 	{
-		"name":"云创之星扶持专场",
+		"name":"云主机1元购",
 		"description":"",
 		"id":3114,
 		"button_title":"查看详情"
