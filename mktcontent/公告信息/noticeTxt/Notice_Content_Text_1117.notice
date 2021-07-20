@@ -1,0 +1,3 @@
+<p><span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">京东云web应用防火墙(WAF)为提升服务稳定性，计划在2021年7月21日 00：00-01：00，升级域名解析组件。</span>
+<br style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 12px; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);">升级期间 已接入域名的流量及防护 不受影响。 WAF产品控制台及openapi接口等会不可用，如有疑问请及时与我们联系。</span>
+</p>
