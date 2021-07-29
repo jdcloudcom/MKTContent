@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"网络安全重保服务\",\"label\":[{\"TitleName\":\"工单咨询\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=1135&questionId=1194\",\"classTag\":\"\"}],\"desc\":\"专业、全面的网络安全重保服务，为政府和企业的重要业务活动保驾护航。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"网络安全重保服务\",\"label\":[{\"TitleName\":\"工单咨询\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=1135&questionId=1194\",\"classTag\":\"\"},{\"TitleName\":\"立即购买\",\"TitleUrl\":\"http://threatscanner-console.jdcloud.com/cybersecuritygs/create\",\"classTag\":\"\"}],\"desc\":\"专业、全面的网络安全重保服务，为政府和企业的重要业务活动保驾护航。\"}",
 		"id":1471
 	},
 	{
