@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"等保咨询服务\",\"label\":[{\"TitleName\":\"工单咨询\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=1135&questionId=1194\",\"classTag\":\"\"}],\"desc\":\"为用户提供专业的等保合规咨询和指导服务，协助用户完成等保整改和建设工作。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"等保咨询服务\",\"label\":[{\"TitleName\":\"工单咨询\",\"TitleUrl\":\"https://ticket.jdcloud.com/applyorder/form?cateId=1135&questionId=1194\",\"classTag\":\"\"},{\"TitleName\":\"立即购买\",\"TitleUrl\":\"http://threatscanner-console.jdcloud.com/ccpconsulting/create\",\"classTag\":\"\"}],\"desc\":\"为用户提供专业的等保合规咨询和指导服务，协助用户完成等保整改和建设工作。\"}",
 		"id":1384
 	},
 	{
