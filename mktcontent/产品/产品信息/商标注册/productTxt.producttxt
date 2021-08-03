@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"商标注册\",\"label\":[{\"TitleName\":\"联系我们\",\"TitleUrl\":\"https://www.jdcloud.com/cn/forms/consultation\",\"classTag\":\"\"}],\"desc\":\"益世企服商标速办\\n现已助力 2000+ 商家成功开店，缩短 80% 开店商标资质筹备时长\"}",
+		"id":2450
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"专业顾问服务\",\"proName\":\"专业代理人一对一服务，优化注册方案提升商标通过率\"},{\"showShade\":false,\"proGood\":\"助力商家开店\",\"proName\":\"最快2个工作日出具商标回执助力商家开店\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"进度清晰可查\",\"proName\":\"办理进度全程可追溯，及时获取资质状态\"}]",
+		"id":2451
+	},
+	{
+		"txt":"[{\"funcName\":\"专属顾问服务\",\"funcContent\":[{\"funcTitle\":\"检索查询\",\"funcP\":\"专业顾问一对一进行商标检索查询，专业建议提升商标注册成功率。\"}]},{\"funcName\":\"商标注册申请\",\"funcContent\":[{\"funcTitle\":\"申请文件筹备\",\"funcP\":\"专属顾问协助进行商标申请文件筹备及整理，帮助客户理清递交材料准备思绪。\"},{\"funcTitle\":\"递交申请\",\"funcP\":\"专属顾问制定注册方案并完成申请递交。\"},{\"funcTitle\":\"回执文件获取(2个工作日)\",\"funcP\":\"商标速办服务快至2个工作日出具回执文件，助力商家开店。\"}]}]",
+		"id":2452
+	},
+	{
+		"txt":"[{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/4c60598d-e910-458e-bb9b-38050861d5b820210802135918.png\",\"companyName\":\"\",\"sketch\":\"助力生鲜商家及时开店\",\"description\":\"受疫情影响，广西柳州砂糖橘果农滞销情况严重，商家申请商标极速办理服务，提交商标第二天完成交付，助力商家快速开店。\"},{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c86c5337-a0e5-4244-b502-8d789faf808d20210802135935.png\",\"companyName\":\"\",\"sketch\":\"完善卖场型旗舰店商标类别\",\"description\":\"某商家入驻京东卖场型旗舰店，缺少35类商标，商家申请商标极速办理服务，5月25日提交商标申请，27日出具回执，27日当天完成开店。\"},{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d4c185bb-bd8c-47a0-ab8e-93ccd0c8772a20210802135944.png\",\"companyName\":\"\",\"sketch\":\"被驳商标重新申请\",\"description\":\"某玩具商家所申请的商标终审被商标局驳回，通过商标极速办服务，次日帮助商家重新申请新商标替换被驳回商标，商家只需承担官费免服务费，店铺经营不受影响。\"},{\"showShade\":false,\"logoUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/5a0e2583-05c9-47d6-a4c0-0360832af76920210802135949.png\",\"companyName\":\"\",\"sketch\":\"保护商家知识产权\",\"description\":\"益世企服助力某清洁纸品商家完成1-45类商标申请，保护商家知识产权。\"}]",
+		"id":2453
+	}
+]
