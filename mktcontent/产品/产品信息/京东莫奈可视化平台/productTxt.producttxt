@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"京东城市莫奈可视化平台\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://imonet.jdcloud.com/\"}],\"desc\":\"京东莫奈可视化平台通过自由拖拽、图形化编辑、所见即所得的方式，快速实现极致酷炫、直观清晰的视觉场景，将海量繁杂数据背后所蕴含的价值更直观、深层、全面的展现出来，辅助决策者合理决策。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b8d631a1-c0bf-42f0-8827-1fbd24c81a7b20181115171818.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|56\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|56\"}",
+		"id":136
+	},
+	{
+		"txt":"[{\"proGood\":\"图形化搭建界面\",\"proName\":\"通过拖拽方式对数据进行所见即所得的可视化处理，配合表格形式的数据展示，低门槛完成酷炫大屏展示效果，轻松掌握大屏展示利器。\"},{\"proGood\":\"丰富的组件库\",\"proName\":\"打破传统单一图表报表的展现形式，打造集2D图表/地图及3D图表/地图于一体的可视化组件库来支持全行业主题，提供直观、生动、可交互、可高度个性化定制的数据可视化组件。\"},{\"proGood\":\"炫酷的主题模板\",\"proName\":\"结合多年的行业业务经验，设计行业通用型模板，解决客户无从下手、从零开始的难点，直接套用。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"灵活的分辨率适配\",\"proName\":\"您可以通过全屏覆盖，横向拉伸、纵向拉伸3种方式，轻松解决定制化大屏分辨率适配问题\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"支持丰富的数据源\",\"proName\":\"支持数据库、文件、API接口的方式作为数据源进行数据接入，数据库类支持oracle、mysql、sqlserver等，文件类支持静态JSON、CSV等。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"开放的生态\",\"proName\":\"提供开发者模式，供合作伙伴基于平台规范开发自定义组件，满足个性化需求。\"}]",
+		"id":137
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"大屏模板综合运用了色彩搭配、组件布局、数据层次关联设计，并整合了多种行业和场景的实施案例为用户提供专业的特定行业特定场景通用解决方案。\",\"funcTitle\":\"通过大屏模板快速创建大屏\"}],\"funcName\":\"场景化大屏模板\"},{\"funcContent\":[{\"funcP\":\"提供折线图、柱状图、散点图、饼图、水位图、雷达图、气泡图、胶囊图、矩形数图、关系图、漏斗图、桑基图、仪表盘等多种图表，满足用户进行多维数据分析和展示.\",\"funcTitle\":\"多图表形式，多种组合插件灵活布局，满足用户需求\"}],\"funcName\":\"丰富的矢量图表\"},{\"funcContent\":[{\"funcP\":\"提供2D、3D地图组件，支持GIS地图和数据接口，同时可以叠加飞线、热力、气泡等图层丰富地图展示。\",\"funcTitle\":\"通过多层渲染及数据特效增加地理数据的展示效果\"}],\"funcName\":\"炫酷地图组件\"},{\"funcName\":\"多种数据源连接\",\"funcContent\":[{\"funcTitle\":\"支持静态数据、数据库、API 三种方式数据访问\",\"funcP\":\"支持静态数据、数据库、API接口的方式作为数据源进行数据接入，数据库类支持oracle、mysql、sqlserver等，文件类支持静态JSON、CSV等。\"}]}]",
+		"id":138
+	},
+	{
+		"txt":"[{\"instruction\":\"北京市交通主干路的交通\\n·主干路全程蓝色表示交通路况良好，道路畅通。\\n·主干道路上移动的亮点用来表示特种车辆（道路救援等）所在的位置\\n\\n城市楼宇\\n·采用3D白膜技术，对北京主要城区进行建模。\\n\",\"name\":\"城市交通路况监测\",\"picUrl\":\"//img1.jcloudcs.com/cms/7177db86-d5ce-459f-b6b0-83bc2dc0e79220181101143713.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"通过榜单、柱状图、折线图、指标占比图 来表示品类销售情况、渠道销售情况、会员增长信息\\n通过飞线、热力、散点等多种表现形式展现地理信息。\\n\",\"name\":\"电商交易大屏\",\"picUrl\":\"//img1.jcloudcs.com/cms/21800ce2-4f4d-4df0-8999-900287a0379120181101150456.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"采用GIS地图展现服务人员在空间上的分布。用气泡表示所服务的服务人员所在地，气泡的大小表示人群的集中程度。并结合占比、榜单等基础组件进行综合描述。\",\"name\":\"政府公共服务地理信息展示\",\"picUrl\":\"//img1.jcloudcs.com/cms/198ae262-f351-415e-93ab-75923c22408020181101152221.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
+		"id":139
+	},
+	{
+		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|56\",\"price\":\"https://docs.jdcloud.com/data-visualization/billing-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|56\"}",
+		"id":140
+	}
+]
