@@ -2454,5 +2454,13 @@
 		"jss_key":"News_Content_886",
 		"id":886,
 		"news_title":"爱分析：京东智联云跻身爱分析2020中国云计算厂商三甲"
+	},
+	{
+		"summary":"跟孙壮一样，达达的张师傅同样拥有一项惊人的成绩，京东到家618直播间开播仅12分钟，张师傅就把用户刚刚在直播间下单购买的草莓送到了她家中。与他们一起创记录的还有京东云，支持达达快送精准调度每一单配送。",
+		"image_url":"//img1.jcloudcs.com/cms/2e42040e-612a-4a24-a1bd-843430aa7b4a20210823174941.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_896",
+		"jss_key":"News_Content_896",
+		"id":896,
+		"news_title":"行业首个跨云双活平台，京东云携手达达构建混合数字基础设施"
 	}
 ]
