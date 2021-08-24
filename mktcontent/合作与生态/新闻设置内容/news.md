@@ -2456,6 +2456,78 @@
 		"news_title":"爱分析：京东智联云跻身爱分析2020中国云计算厂商三甲"
 	},
 	{
+		"summary":"京东智能客服言犀与合作伙伴中联重科打造的首个“AI专家诊断系统V2.0”获得《人民日报》点赞，其中报道指出，中联重科响应国家《“十四五”商务发展规划》，主动抢抓下一个五年数字技术发展带来的新机遇，不仅使得工程机械智能化水平上了一个新台阶，也为远程服务海外用户提供了新途径。",
+		"image_url":"//img1.jcloudcs.com/cms/c7f58823-7acd-4318-bda8-e7e38ea5e8b120210824162937.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_887",
+		"jss_key":"News_Content_887",
+		"id":887,
+		"news_title":"中联重科数字化转型获人民日报点赞 京东智能客服助其打造AI专家诊断系统"
+	},
+	{
+		"summary":"继“五五购物节”之后，上海和苏州的市民将再次迎来新一轮数字人民币红包福利！",
+		"image_url":"//img1.jcloudcs.com/cms/b5f466ba-c4af-400f-a2e3-8d87a0a0b51620210824162814.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_888",
+		"jss_key":"News_Content_888",
+		"id":888,
+		"news_title":"沪苏联动数字人民币新一轮红包雨来了！ 京东联合交行发放2000万"
+	},
+	{
+		"summary":"IT基础架构的多样化发展，特别是混合IT架构的出现对迁移和灾备提出了更高的要求。在此背景下，用户希望通过统一管理和调度多云环境的中枢，让用户更少的关注底层资源差异，降低云资源和云灾备管理的工作难度，保证各类服务在多云环境下有更智能、更安全的体验。",
+		"image_url":"//img1.jcloudcs.com/cms/ffff6ea8-e818-41c4-8ec6-50fe285d8ea720210824162434.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_889",
+		"jss_key":"News_Content_889",
+		"id":889,
+		"news_title":"京东云“云筑计划”屏蔽云基础设施底层差异，助力产业客户实现跨云快速部署"
+	},
+	{
+		"summary":"2018年，京东集团与鹤壁市政府达成“互联网+”新经济发展合作项目，京东智能城市深度融入当地实体经济，以坚实的数字技术能力和丰富的场景化应用，为鹤壁构建了以上数智化场景。",
+		"image_url":"//img1.jcloudcs.com/cms/540560a1-e269-4dc1-9181-6923fc4555e020210824162308.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_890",
+		"jss_key":"News_Content_890",
+		"id":890,
+		"news_title":"助力实体经济行稳致远，京东智能城市打造数字鹤壁全景图"
+	},
+	{
+		"summary":"7月13日，以“云上共生，产业共赢”为主题的2021京东云峰会在北京举行。基于京东多年大规模最复杂业务场景的历练与沉淀，京东云隆重发布行业首个混合云操作系统“云舰“，第一次将混合云的管理推向了操作系统级别，实现了数字化基础设施最全面、彻底的统一化管理和调度。",
+		"image_url":"//img1.jcloudcs.com/cms/3881a0b4-5503-4c02-bf68-c4ab41792d2a20210824161746.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_891",
+		"jss_key":"News_Content_891",
+		"id":891,
+		"news_title":"以“实”助力千行百业数智化增长，京东云发布业内首个混合云操作系统"
+	},
+	{
+		"summary":"在6月1日以超高弹性轻松应对用户瞬间下单支付高峰顺利保障京东618开门红之后，京东云近日再获国际权威研究机构肯定性评价。",
+		"image_url":"//img1.jcloudcs.com/cms/03fb3079-7cd3-4a48-8f23-2374827b154620210824160828.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_892",
+		"jss_key":"News_Content_892",
+		"id":892,
+		"news_title":"IDC中国云运营服务市场洞察报告发布 京东云份额稳居第一阵营"
+	},
+	{
+		"summary":"近日，国际权威研究机构Gartner发布2020年全球云计算IaaS市场追踪数据。数据显示，2020年全球云计算IaaS市场规模升至642.86亿美元，同比增长40.7%。其中，京东云IaaS市场占有率排名中国第五，在头部厂商中增速排名前三，跻身国内云计算第一梯队。",
+		"image_url":"//img1.jcloudcs.com/cms/e9d86ca8-a982-48fb-9efb-c43daef7eb5620210824155857.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_893",
+		"jss_key":"News_Content_893",
+		"id":893,
+		"news_title":"Gartner报告：京东云IaaS市场排名升至国内前五"
+	},
+	{
+		"summary":"全球知名市场研究机构IDC最新发布《中国金融云市场（2020下半年）跟踪》的报告显示，京东云在金融云平台解决方案子市场中稳居前五，与阿里、腾讯、华为等比肩，牢牢占据第一阵营。",
+		"image_url":"//img1.jcloudcs.com/cms/a1977500-abc7-4edd-a389-9bc6b12bf14520210824161538.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_894",
+		"jss_key":"News_Content_894",
+		"id":894,
+		"news_title":"全年同比增速高达122%！IDC报告显示京东金融云稳居第一阵营"
+	},
+	{
+		"summary":"国内权威的第三方行业研究机构艾瑞咨询发布了《中国对话机器人chatbot行业发展研究报告》（简称为报告）。该报告围绕对话机器人的产品功能、行业趋势、应用前景与发展洞察等进行了深入分析。京东智能客服言犀凭借领先的全栈AI能力、高度智能化的全链路解决方案和大规模行业实践经验，获得该报告的推荐。",
+		"image_url":"//img1.jcloudcs.com/cms/0281073e-71bd-4b41-9b47-1a7553f7da1e20210824160953.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_895",
+		"jss_key":"News_Content_895",
+		"id":895,
+		"news_title":"艾瑞发布《中国对话机器人chatbot行业发展研究报告》，京东智能客服言犀获推荐"
+	},
+	{
 		"summary":"跟孙壮一样，达达的张师傅同样拥有一项惊人的成绩，京东到家618直播间开播仅12分钟，张师傅就把用户刚刚在直播间下单购买的草莓送到了她家中。与他们一起创记录的还有京东云，支持达达快送精准调度每一单配送。",
 		"image_url":"//img1.jcloudcs.com/cms/2e42040e-612a-4a24-a1bd-843430aa7b4a20210823174941.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_896",
