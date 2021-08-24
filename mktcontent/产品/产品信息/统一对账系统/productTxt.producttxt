@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"统一对账系统\",\"label\":[{\"TitleName\":\"立即咨询\",\"TitleUrl\":\"https://get.jd.com/#/survey/index?id=3834394421401313&erp=type\",\"classTag\":\"\"}],\"desc\":\"支持多种方式接入双边对账数据，可自动解析出标准化对账文件，提高对账及异常处理效率，解决应收、应付、银企和业财等不同场景的统一对账需求。\"}",
+		"id":2454
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"对账周期灵活\",\"proName\":\"包含主流账期，如天/周/月度，企业可按业务需求进行灵活配置。\"},{\"showShade\":false,\"proGood\":\"自动对账准确\",\"proName\":\"企业可灵活配置对账规则，可实现自动对账且对账准确率高。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"快速生成账单\",\"proName\":\"账单解析规则支持配置，可根据解析规则快速生成标准化账单。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"接入方式多样\",\"proName\":\"可通过多种方式接入账单文件，如API、SFTP、手动导入等。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"适用多种场景\",\"proName\":\"融合银企、应收、应付和业财对账能力，减少因不同场景需多次采集系统的成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"异常处理便捷\",\"proName\":\"对账差异数据会有标记，便于业务运营快速定位到问题并处理。\"}]",
+		"id":2455
+	},
+	{
+		"txt":"[{\"funcName\":\"银企对账\",\"funcContent\":[{\"funcTitle\":\"银企对账\",\"funcP\":\"按照账户维度，银行账单与企业资金账进行对账，即行业上统称“余额调节表”。\"}]},{\"funcName\":\"应收应付对账\",\"funcContent\":[{\"funcTitle\":\"应收应付对账\",\"funcP\":\"为采销型企业提供应收资金对账，及时核销客户回款，保障后续交易运行；为供应商提供应付资金对账，出具对账结果。\"}]},{\"funcName\":\"业财对账\",\"funcContent\":[{\"funcTitle\":\"业财对账\",\"funcP\":\"支持企业内部系统生成的应收账单与银行账单进行对账。可按照账户、业务维度对账，也可灵活根据客户的需求维度进项对账。\"}]}]",
+		"id":2456
+	},
+	{
+		"txt":"{\"architectureUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/bdf4999b-cdbe-4898-91b9-c6be0ba0559020210823200522.png\"}",
+		"id":2457
+	},
+	{
+		"txt":"[{\"name\":\"账户量极大\",\"instruction\":\"账户量极大，缺少对账工具支撑。多账户对账导致对账难度翻倍增加，人工核对不清，处理效率低。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"采销对账难\",\"instruction\":\"采销型企业面临客户多、客户业务账单格式不同、结算周期不一致等问题，导致双方财务对账难度加大。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"业财难协同\",\"instruction\":\"业务系统间信息不共享，财务处理滞后，无法及时准确核对业务单据，导致财务处理成本高，准确性差。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":2458
+	}
+]
