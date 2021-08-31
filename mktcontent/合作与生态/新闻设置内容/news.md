@@ -2534,5 +2534,13 @@
 		"jss_key":"News_Content_896",
 		"id":896,
 		"news_title":"行业首个跨云双活平台，京东云携手达达构建混合数字基础设施"
+	},
+	{
+		"summary":"李小鹏当了三年多的货车司机，经常穿行陕蒙川三省（区）之间，货源信息匮乏一直是让他犯愁的事。直到西安和硕物流科技旗下“佬司机”手机应用软件出现，让困扰他的难题得到解决。",
+		"image_url":"//img1.jcloudcs.com/cms/64580add-ddc2-42e2-b0b0-d2dcf0662dc420210831155801.jpg",
+		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/News_Content_897",
+		"jss_key":"News_Content_897",
+		"id":897,
+		"news_title":"云上“佬司机”，货车司机接单更轻松"
 	}
 ]
